@@ -1,0 +1,4 @@
+22 zamora.tomalaplaza.net/community/
+ 8 zamora.tomalaplaza.net/scheduler/
+ 2 zamora.tomalaplaza.net/pagina-ejemplo/
+ 1 zamora.tomalaplaza.net/2011/05/19/hola-mundo/

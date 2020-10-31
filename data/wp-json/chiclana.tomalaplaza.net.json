@@ -1,0 +1,737 @@
+[
+    {
+        "id": 95,
+        "date": "2017-01-22T14:34:58",
+        "date_gmt": "2017-01-22T14:34:58",
+        "guid": {
+            "rendered": "http://chiclana.tomalaplaza.net/community/"
+        },
+        "modified": "2017-01-22T14:34:58",
+        "modified_gmt": "2017-01-22T14:34:58",
+        "slug": "community",
+        "status": "publish",
+        "type": "page",
+        "link": "https://chiclana.tomalaplaza.net/community/",
+        "title": {
+            "rendered": "Forum"
+        },
+        "content": {
+            "rendered": "<p>[wpforo]</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>[wpforo]</p>\n",
+            "protected": false
+        },
+        "author": 1657,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "close",
+        "ping_status": "close",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/pages/95"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/users/1657"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/comments?post=95"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 0,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/pages/95/revisions"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/media?parent=95"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 79,
+        "date": "2011-06-10T02:28:24",
+        "date_gmt": "2011-06-10T02:28:24",
+        "guid": {
+            "rendered": "http://chiclana.tomalaplaza.net/?p=79"
+        },
+        "modified": "2011-06-10T07:46:47",
+        "modified_gmt": "2011-06-10T07:46:47",
+        "slug": "cacerolada-frente-al-ayuntamiento",
+        "status": "publish",
+        "type": "post",
+        "link": "https://chiclana.tomalaplaza.net/2011/06/10/cacerolada-frente-al-ayuntamiento/",
+        "title": {
+            "rendered": "Cacerolada frente al Ayuntamiento"
+        },
+        "content": {
+            "rendered": "<table>\n<tbody>\n<tr>\n<td>\n<div>\n<div><strong>S\u00e1bado, 11 de junio </strong></div>\n<div><strong>10:00\u00a0&#8211;\u00a013:00</strong></div>\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<p>Convocatoria nacional en todos los Ayuntamientos de Espa\u00f1a.</p>\n<p>El s\u00e1bado 11 de Junio se constituyen todos los Ayuntamientos en Espa\u00f1a.</p>\n<p>En un evento, m\u00e1s extraordinario que un eclipse lunar, ese d\u00eda tienen que ir a trabajar todos los pol\u00edticos.</p>\n<p>Junt\u00e9monos todos alrededor de nuestros ayuntamientos de manera pac\u00edfica, para que dichos pol\u00edticos escuchen en primera persona nuestras demandas.</p>\n<p>Hagamos Asambleas populares en frente de nuestros consistorios, para demostrar donde reside la verdadera democracia.</p>\n<p>&nbsp;</p>\n<p><strong>Punto de informaci\u00f3n en la Feria</strong></p>\n<p>Hoy <strong>Viernes</strong>, 10 de Junio <strong>a partir de las \u00a012:30 </strong></p>\n<p>Algunos compa\u00f1eros permanecer\u00e1n en la portada de la feria</p>\n<p>difundiendo informaci\u00f3n y anunciando la cacerolada frente al Ayuntamiento.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>S\u00e1bado, 11 de junio 10:00\u00a0&#8211;\u00a013:00 Convocatoria nacional en todos los Ayuntamientos de Espa\u00f1a. El s\u00e1bado 11 de Junio se constituyen todos los Ayuntamientos en Espa\u00f1a. En un evento, m\u00e1s extraordinario que un eclipse lunar, ese d\u00eda tienen que ir a trabajar todos los pol\u00edticos. Junt\u00e9monos todos alrededor de nuestros ayuntamientos de manera pac\u00edfica, para que [&hellip;]</p>\n",
+            "protected": false
+        },
+        "author": 33,
+        "featured_media": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": [],
+        "categories": [
+            1
+        ],
+        "tags": [],
+        "jetpack_featured_media_url": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/posts/79"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/users/33"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/comments?post=79"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 6,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/posts/79/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 82,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/posts/79/revisions/82"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/media?parent=79"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/categories?post=79"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/tags?post=79"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 67,
+        "date": "2011-05-31T16:51:17",
+        "date_gmt": "2011-05-31T16:51:17",
+        "guid": {
+            "rendered": "http://chiclana.tomalaplaza.net/?page_id=67"
+        },
+        "modified": "2011-06-01T22:25:00",
+        "modified_gmt": "2011-06-01T22:25:00",
+        "slug": "documentos",
+        "status": "publish",
+        "type": "page",
+        "link": "https://chiclana.tomalaplaza.net/documentos/",
+        "title": {
+            "rendered": "Documentos"
+        },
+        "content": {
+            "rendered": "<p><strong>REFORMA PENSIONES 2011</strong></p>\n<p>Edad de jubilaci\u00f3n:</p>\n<p>A partir de enero de 2027 la edad de jubilaci\u00f3n ser\u00e1 a los 67 a\u00f1os, con lo que para cobrar la jubilaci\u00f3n m\u00e1xima deber\u00e1 haber cotizado 37 a\u00f1os, frente a los 35 a\u00f1os que se utilizan actualmente. La edad de jubilaci\u00f3n tendr\u00e1 un efecto progresivo e inicialmente afectar\u00e1 a los que se deban jubilar en 2013, increment\u00e1ndose durante los primeros seis a\u00f1os en un mes por a\u00f1o, y los siguientes en dos meses por a\u00f1o hasta alcanzar los 67 a\u00f1os en 2027. De manera que los que cumplan 65 a\u00f1os en 2013 les asistir\u00e1 el derecho al 100% de la pensi\u00f3n cuando tengan 65 a\u00f1os y 1 mes. En tanto que en 2018, la edad legal de jubilaci\u00f3n ser\u00eda de 65 a\u00f1os y 6 meses y en 2028 llegar\u00e1 a los 67 a\u00f1os.<br />\nPer\u00edodo de c\u00e1lculo:<br />\nLa reforma ampl\u00eda de 15 a 25 a\u00f1os el periodo de c\u00e1lculo de las pensiones, con lo que la extensi\u00f3n del periodo de c\u00e1lculo comenzar\u00e1 en enero de 2013, periodo en el que se tomar\u00e1n los 16 \u00faltimos a\u00f1os para hacer el c\u00e1lculo, con la ampliaci\u00f3n de un a\u00f1o por cada ejercicio natural que pase, y llegar en el a\u00f1o 2022 al c\u00f3mputo pleno de 25 a\u00f1os de cotizaci\u00f3n para calcular la prestaci\u00f3n de retiro, con lo que la entrada en vigor de esta medida se producir\u00e1 en un horizonte de solo diez a\u00f1os.</p>\n<p>A\u00f1os cotizados para la jubilaci\u00f3n:</p>\n<p>Como ya mencionamos, para obtener la jubilaci\u00f3n m\u00e1xima en 2027 deber\u00e1 tener cotizados 37 a\u00f1os, pero hay excepciones, ya que quienes tengan 65 a\u00f1os y hayan cotizado 38,5 a\u00f1os podr\u00e1n obtener el 100% de la pensi\u00f3n. En este caso, el paso de los 35 a\u00f1os a los 38,5 a\u00f1os para acceder a la pensi\u00f3n m\u00e1xima se realizar\u00e1 a raz\u00f3n de seis meses cada dos a\u00f1os, es decir, en siete escalones.<br />\nJubilaci\u00f3n anticipada:<br />\nLos trabajadores se podr\u00e1n seguir retirando de forma anticipada, aunque el Gobierno trata endurecer esta facultad. La jubilaci\u00f3n a los 61 se mantendr\u00e1 \u00fanicamente para los casos de crisis empresariales. Es decir, solo los trabajadores despedidos que pasen por el desempleo un periodo m\u00ednimo de seis meses podr\u00e1n acceder a la jubilaci\u00f3n anticipada por esta v\u00eda. Asimismo, a partir de ahora quienes tengan 63 a\u00f1os pondr\u00e1n acceder a la jubilaci\u00f3n anticipada de forma voluntaria siempre que posean un m\u00ednimo de 33 a\u00f1os cotizados, aplicando un coeficiente reductor del 8% por cada a\u00f1o de anticipo, salvo que el interesado haya cotizado 40 a\u00f1os o m\u00e1s, en cuyo caso la reducci\u00f3n ser\u00e1 del 7% cada a\u00f1o.<br />\nIncentivos al retrasar la jubilaci\u00f3n:<br />\nOtro punto que ha tocado esta reforma, es el incentivo para quienes decidan retrasar voluntariamente la edad de jubilaci\u00f3n sobre la ordinaria, pasando del 2%-3% al 3,5%, tanto para aquellos que trabajen m\u00e1s all\u00e1 de los 67 como los que lo haga a los 65 a\u00f1os y puedan jubilarse a esa edad por sus a\u00f1os cotizados.<br />\nBeneficios de Becas y Maternidad:<br />\nLa mujer o el hombre que tenga que dejar su puesto de trabajo para cuidar de los hijos tendr\u00e1 una cotizaci\u00f3n extraordinaria a la Seguridad Social de nueve meses por descendiente. Hasta un periodo m\u00e1ximo de dos a\u00f1os. Es decir, que podr\u00e1 tener esta medida hasta el tercer hijo.<br />\nSe reconoce a los estudiantes que hayan terminado la carrera como periodos cotizados la participaci\u00f3n en programas formativos o de investigaci\u00f3n en las empresas, con un periodo m\u00e1ximo de dos a\u00f1os.<br />\nC\u00f3mo se calcula la pensi\u00f3n<br />\nEn primer lugar para poder cobrar la pensi\u00f3n de jubilaci\u00f3n debe estar afiliado y en alta o en \u00acsituaci\u00f3n de alta asimilada a la Seguridad Social, es decir, estar inscrito como desempleado en los servicios p\u00fablicos de empleo.<br />\nSi cumplimos estos requisitos, \u00bfc\u00f3mo podemos calcular la pensi\u00f3n a recibir? Lo primero que tiene que saber es que la cuant\u00eda depender\u00e1 de la cantidad de a\u00f1os cotizados y de su base reguladora, para hallar el valor mensual en euros de la pensi\u00f3n. La base reguladora es la media aritm\u00e9tica de las bases de cotizaci\u00f3n actualizadas de los \u00faltimos 25 a\u00f1os cotizados (actualmente 15 a\u00f1os).<br />\nA continuaci\u00f3n, sumamos todas las bases de cotizaci\u00f3n y las diviremos entre 350 (25 a\u00f1os x 14 pagas mensuales). Despu\u00e9s, esta cantidad que es la base de cotizaci\u00f3n real se multiplica por 12 (el n\u00famero de meses que se ha pagado a la Seguridad Social) y se divide por 14 (contando las pagas extra) dando lugar a la base reguladora. Una vez determinada la base reguladora se le aplicar\u00e1 un determinado porcentaje para estipular la cuant\u00eda de la pensi\u00f3n. As\u00ed, por ejemplo, con 15 a\u00f1os cotizados se aplica el 50%, tal y como estaba en la anterior, y para cobrar el 100% es necesario haber cotizado 37 a\u00f1os.</p>\n<p>Fuentes: planesypensiones.com,\u00a0<a rel=\"nofollow\" href=\"http://www.elpais.com/\">http://www.elpais.com</a>,\u00a0<a rel=\"nofollow\" href=\"http://www.finanzas.com/\">http://www.finanzas.com</a></p>\n<p>&nbsp;</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>REFORMA PENSIONES 2011 Edad de jubilaci\u00f3n: A partir de enero de 2027 la edad de jubilaci\u00f3n ser\u00e1 a los 67 a\u00f1os, con lo que para cobrar la jubilaci\u00f3n m\u00e1xima deber\u00e1 haber cotizado 37 a\u00f1os, frente a los 35 a\u00f1os que se utilizan actualmente. La edad de jubilaci\u00f3n tendr\u00e1 un efecto progresivo e inicialmente afectar\u00e1 a [&hellip;]</p>\n",
+            "protected": false
+        },
+        "author": 33,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/pages/67"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/users/33"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/comments?post=67"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 3,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/pages/67/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 71,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/pages/67/revisions/71"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/media?parent=67"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 33,
+        "date": "2011-05-31T10:04:49",
+        "date_gmt": "2011-05-31T10:04:49",
+        "guid": {
+            "rendered": "http://chiclana.tomalaplaza.net/?page_id=33"
+        },
+        "modified": "2011-05-31T10:04:49",
+        "modified_gmt": "2011-05-31T10:04:49",
+        "slug": "diario-de-la-acampada",
+        "status": "publish",
+        "type": "page",
+        "link": "https://chiclana.tomalaplaza.net/diario-de-la-acampada/",
+        "title": {
+            "rendered": "Diario de la acampada"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 33,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/pages/33"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/users/33"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/comments?post=33"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 5,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/pages/33/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 66,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/pages/33/revisions/66"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/media?parent=33"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 36,
+        "date": "2011-05-28T15:36:57",
+        "date_gmt": "2011-05-28T15:36:57",
+        "guid": {
+            "rendered": "http://chiclana.tomalaplaza.net/?page_id=36"
+        },
+        "modified": "2011-06-08T07:34:21",
+        "modified_gmt": "2011-06-08T07:34:21",
+        "slug": "asambleas-diarias",
+        "status": "publish",
+        "type": "page",
+        "link": "https://chiclana.tomalaplaza.net/asambleas-diarias/",
+        "title": {
+            "rendered": "Asambleas diarias"
+        },
+        "content": {
+            "rendered": "<p><strong>Acta Asamblea I </strong></p>\n<p>24 de mayo 2011</p>\n<p>Nos reunimos alrededor de 10-15 personas a las 19.00 horas en la plaza de las bodegas, explicamos brevemente motivos del por qu\u00e9 de la concentraci\u00f3n en chiclana.</p>\n<p>1\u00aa propuesta-idea: Taller de participaci\u00f3n en institutos.</p>\n<p>Despu\u00e9s comentamos entre todos las propuestas m\u00e1s importantes y generales del movimiento 15 M con un extracto del manifiesto de Madrid con el fin de informarnos a nosotros mismos.</p>\n<p>2\u00aa organismo que controle a los pol\u00edticos para que act\u00faen impunemente</p>\n<p>3\u00aa Regularizaci\u00f3n del empleo</p>\n<p>4\u00aa Tema ETT\u00b4s, recordamos que hace tiempo estaban prohibidas por ley. Ilegalizarlas</p>\n<p>5\u00aa Presos y presas que trabajan en las c\u00e1rceles en un regimen de esclavitud con sueldos mas que precarios (150 \u20ac). Instituciones penitenciarias no lo hacen p\u00fablico.</p>\n<p>6\u00aa Queremos que las reuniones de los pol\u00edticos (moncloa, embajadas) sean p\u00fablicas y tranparentes.</p>\n<p>7\u00aa Necesitamos informaci\u00f3n sobre desahucios de viviendas.</p>\n<p>8\u00aa Abuso de las personas mayores en los geriatricos falta de personal (puestos de trabajo)</p>\n<p>9\u00aa Apoyamos que las casas desocupadas se den a personas sin hogar.</p>\n<p>10\u00aa Educaci\u00f3n infantil: El estado no contrata a t\u00e9cnicos superiores de educaci\u00f3n infantil ni auxiliares de jard\u00edn de infancia, con lo cual los ni\u00f1os no est\u00e1n atendidos en condiciones de salubridad.</p>\n<p>11\u00aa Esta propuesta me la acaban de dar dos policias locales de servicio que han aparecido mientras escribo esto en la plaza, la han dejado en nuestro buz\u00f3n de sugerencias: Queremos una educaci\u00f3n infantil abierta y transparente no programas conductistas seg\u00fan el partido pol\u00edtico que gobierne.</p>\n<p>&nbsp;</p>\n<p><strong>Acta Asamblea II</strong></p>\n<p>25 de mayo, 2011</p>\n<p>Asistencia: 20 Personas</p>\n<p>1.\tPresentaci\u00f3n<br />\n\u2022\tBienvenida y agradecimientos a los asistentes.<br />\n\u2022\tLectura de la ley que nos permite reunirnos para la asamblea.<br />\n2.\tPropuestas<br />\n\u2022\tTener un objetivo com\u00fan con el resto de concentraciones para que la fuerza no se diluya, siendo el principal objetivo desde nuestro punto de vista el cambio en la ley electoral, de forma que para las pr\u00f3ximas elecciones generales podamos regirnos por una nueva ley m\u00e1s justa. No obstante, se considera importante tener un movimiento paralelo a nivel local para protestar por lo que se considere injusto en cada pueblo/barrio/ciudad. Se propone comunicar al resto de concentraciones esta idea para saber si est\u00e1n de acuerdo y comienza un debate al respecto.<br />\nAn\u00e1lisis del debate:<br />\n\uf02d\tSe plantea informar a toda la ciudadan\u00eda de Chiclana de la actual ley electoral y lo que queremos que cambie.<br />\n\uf02d\tSe hace menci\u00f3n a la forma en que se organizaron los islandeses, consiguieron entrar en el sistema y de esta forma lo reinventaron, naciendo as\u00ed una nueva sociedad.<br />\n\uf02d\tSe hace hincapi\u00e9 en la necesidad de unirnos todas las concentraciones para no perder fuerza en nuestras propuestas.<br />\n\uf02d\tSe resalta que no es tan importante tener un objetivo com\u00fan, porque hay que comenzar primero por la base para luego llegar a este objetivo, que es lo que realmente estamos haciendo con las asambleas, es decir, que las personas puedan participar para poder llegar a un consenso.<br />\n\uf02d\tSe menciona los m\u00e9todos asamblearios expuestos en tomalosbarrios.net, y la necesidad de que las asambleas se extiendan a cada barrio. El objetivo debe ser desarrollar el sistema asambleario.<br />\nConsenso: Subir el acta en tomalaplaza.net para que de esta forma el resto de concentraciones puedan saber nuestra inquietud de conseguir ese objetivo com\u00fan como es la reforma de la ley electoral.<br />\n\u2022\tSe abre un nuevo debate sobre aspectos que se deber\u00edan modificar en la ley electoral:<br />\n\uf02d\tSe recuerda que los tres motivos por lo que la gente sali\u00f3 a la calle fue la reforma electoral: listas limpias, listas abiertas, contabilizaci\u00f3n de los votos blancos/nulos.<br />\n\uf02d\tEliminar los privilegios de la clase pol\u00edtica.<br />\n\uf02d\tReducir y controlar el gasto p\u00fablico de los pol\u00edticos.<br />\n\uf02d\tSe a\u00f1ade que actualmente el tribunal de cuentas controla el gasto p\u00fablico de los pol\u00edticos.<br />\n\uf02d\tReparto de dinero p\u00fablico con l\u00edmite e igualitario para las campa\u00f1as de todos los partidos.<br />\n\uf02d\tReparto de minutos en los medios de comunicaci\u00f3n de forma igualitaria para todos lo partidos y no dependiendo del n\u00famero de votos de la elecci\u00f3n anterior.<br />\n\uf02d\tProhibir la financiaci\u00f3n privada debido a los perjuicios que acarrea a la hora de los favoritismos.<br />\n\u2022\tCreaci\u00f3n de manifiesto chiclanero.<br />\n\u2022\tSe aplaza a ma\u00f1ana la decisi\u00f3n de seguir acampados en la plaza.<br />\n\u2022\tSe propone que para el d\u00eda siguiente pensemos en actos reivindicativos que podr\u00edamos llevar a cabo en el pueblo.<br />\n\u2022\tContactar con colectivos sociales no pol\u00edticos<br />\n\u2022\tPropuesta de minuto de silencio reflexivo.<br />\n\u2022\tRecogida de firmas. Se propone elaborar un documento con el que recoger firmas, para el caso de intento de desalojo.</p>\n<p>&nbsp;</p>\n<p><strong>Acta Asamblea III</strong></p>\n<p>26 de mayo de 2011</p>\n<p>Asistencia: 25 Personas<br />\n1.\tPresentaci\u00f3n<br />\n\u2022\tBienvenida y agradecimientos a los asistentes.<br />\n\u2022\tExplicaci\u00f3n de quienes somos y lo que hacemos: somos personas indignadas de esta situaci\u00f3n econ\u00f3mica y pol\u00edtica y lo que intentamos es informar a la ciudadan\u00eda sobre temas que nos afectan a todos e intentar llegar a un consenso para que entre todos podamos reivindicar aquello que consideramos que tiene que cambiar.<br />\n2.\tPropuestas<br />\n\u2022\tHacer el manifiesto para poder informar al pueblo. Se inicia un debate sobre que queremos incluir en el manifiesto:<br />\n\u00bfQui\u00e9nes somos?<br />\n\uf02d\tSomos personas indignadas con el sistema pol\u00edtico que no nos est\u00e1n representando y por ello pedimos un cambio en la ley electoral.<br />\n\u00bfPor qu\u00e9 estamos aqu\u00ed?<br />\n\uf02d\tUno de nuestros objetivos es informar al pueblo de todo aquello que nos afecta como ciudadanos y creemos que puede cambiar si impulsamos un cambio de conciencia.<br />\n\uf02d\tQueremos que los ciudadanos se acerquen y digan sus propuestas.<br />\n\uf02d\tSe podr\u00eda cambiar el sistema productivo de Chiclana aprovechando muchos de los recursos naturales y culturales que tiene el pueblo de forma que aumentara el empleo, tan castigado actualmente por la ca\u00edda de la construcci\u00f3n.<br />\n\uf02d\tReivindicamos que las personas no somos mercanc\u00edas, intentar recuperar ese humanismo y sentimiento de solidaridad de las personas tan necesario en estos tiempos que corren.<br />\n\uf02d\tQueremos igualdad y justicia en el \u00e1mbito social, econ\u00f3mico, laboral y residencial.<br />\n\uf02d\tNecesidad de fomentar la participaci\u00f3n ciudadana.<br />\n\u2022\tPropuestas que surgieron a la vez que propon\u00edamos ideas para el manifiesto:<br />\n\uf02d\tPara reducir el elevado desempleo: hacer cooperativas, talleres artesanos, aprovechar los recursos propios naturales y culturales, comprometer a los pol\u00edticos.<br />\n\uf02d\tNecesidad de luchar para evitar la contaminaci\u00f3n de los r\u00edos que est\u00e1 provocando la contaminaci\u00f3n de pescados y mariscos.</p>\n<p>\uf02d\tDenunciar que las depuradoras no funcionan bien. No obstante, se considera necesario fomentar el reciclaje entre la poblaci\u00f3n ya que es culpable tambi\u00e9n de la contaminaci\u00f3n de nuestros mares. Todo esto, adem\u00e1s, ha implicado que perdamos la bandera azul.<br />\n\uf02d\tTenemos que ser conscientes que los productos que se echan a la tierra tambi\u00e9n contaminan los r\u00edos.<br />\n\uf02d\tMuchos pescado viene de otros pa\u00edses, se comenta que las doradas proceden de Grecia.<br />\n\uf02d\tSe comenta el tema de la regularizaci\u00f3n del marisqueo aunque no se llega a nada concreto porque por un lado es necesario una regularizaci\u00f3n para no acabar con las especies pero por otro no sab\u00edamos ninguno de los presentes como se consiguen las licencias y si realmente esas concesiones se hacen de manera objetiva.<br />\n\uf02d\tSe hace hincapi\u00e9 en que ecolog\u00eda es econom\u00eda y la necesidad de una econom\u00eda sostenible.<br />\n\uf02d\tReivindicar el autoconsumo energ\u00e9tico que actualmente existe ya esa posibilidad pero hay intereses econ\u00f3micos que lo impiden por parte de las grandes empresas suministradoras de energ\u00eda.<br />\n\uf02d\tNecesidad de promover la igualdad de g\u00e9nero.<br />\n\uf02d\tLuchar por evitar las actitudes xen\u00f3fobas hacia inmigrantes que se producen en el pueblo y fomentar que este colectivo participe en el movimiento de forma que ellos tambi\u00e9n tengan voz en nuestras asambleas y reivindicaciones.<br />\n\uf02d\tAnalizar los espacios de participaci\u00f3n ciudadana que hay en el pueblo, llamados Consejos locales, y estar atentos si el gobierno formula una nueva propuesta al respecto.<br />\n\uf02d\tDenunciar el 24% que pagamos a los bancos cuando usamos las tarjetas de cr\u00e9dito.<br />\n\uf02d\tEvitar tecnicismos y utilizar el vocabulario m\u00e1s sencillo posible de forma que sea comprensible por todos y de esta forma llegue al conjunto del pueblo.<br />\n\uf02d\tQue las asociaciones se unan a nosotros y nos informen de sus actuaciones.<br />\n\uf02d\tTener cuidado de no generar expectativas falsas, lo importante es hacer part\u00edcipe a la ciudadan\u00eda.<br />\n3.\tAcciones reivindicativas:<br />\n\uf02d\tSacar 155 euros el d\u00eda 30 de mayo.<br />\n\uf02d\tEscribir en nuestro perfil de Facebook o de email que es la democracia participativa.</p>\n<p>\uf02d\tLimpiar el parabrisas de los coches con un t\u00edtulo universitario, sem\u00e1foro de la alameda.<br />\n\uf02d\tRechazo social a los pol\u00edticos, ir al ayuntamiento a molestar con cacerolas o con lo que sea. Esta acci\u00f3n cre\u00f3 un poco de discordia entre los asistentes.<br />\n\uf02d\tA la hora de dar el manifiesto a los ciudadanos quedarte un rato con ellos conversando e inform\u00e1ndoles de nuestras asambleas para que participen.<br />\n\uf02d\tIr a la playa vestido de mierda para reivindicar la contaminaci\u00f3n de las playas.<br />\n\uf02d\tPoes\u00eda: van a por nosotros, en la calle la vega.<br />\n\uf02d\tIr a la playa a llamar la atenci\u00f3n con m\u00fasica y captar ciudadanos (Domingo que viene).<br />\n\uf02d\tIr a los barrios y escuchar a la gente.<br />\n\uf02d\tLlevar un buz\u00f3n de sugerencia siempre.<br />\n\uf02d\tTomar la playa 15 de Julio d\u00eda de Luna Llena y hacer una acampada.<br />\n\uf02d\tLlevar a cabo talleres de educaci\u00f3n para la participaci\u00f3n.<br />\n\uf02d\tIr a la puerta de los colegios, implicar a los maestros y padres.<br />\n\uf02d\tRecogida de firmas para que nos apoyen.<br />\n\uf02d\tQue las personas que tengan cualquier cosa que no utiliza o no quiera, lo pueda traer a la plaza para quien lo necesite.<br />\nTodas estas acciones ser\u00e1n votadas el pr\u00f3ximo d\u00eda en la asamblea.</p>\n<p>&nbsp;</p>\n<p><strong>Asamblea IV</strong></p>\n<p>27 de mayo, 2011</p>\n<p>Asistencia: 36 Personas</p>\n<p>1.\tPresentaci\u00f3n<br />\n\u2022\tBienvenida y agradecimientos a los asistentes.<br />\n\u2022\tSe manifest\u00f3 nuestro apoyo y solidaridad con los compa\u00f1eros de Barcelona y Lleida y nuestra repulsa ante la violencia policial mostrada. Como no pod\u00eda ser menos, nos unimos a la concentraci\u00f3n con flores en nuestra plaza.<br />\n\u2022\tLectura del manifiesto elaborado, que fue aprobado en la asamblea. El manifiesto es el siguiente:</p>\n<p>\u00bfQui\u00e9nes somos?<br />\nSomos personas que despu\u00e9s de la manifestaci\u00f3n del 15 de mayo libre y voluntariamente nos estamos reuniendo aqu\u00ed en Chiclana en la Plaza de las Bodegas, para continuar con el movimiento surgido y unirnos a la reivindicaci\u00f3n pac\u00edfica por la dignidad y la conciencia pol\u00edtica y social.<br />\nNo representamos a ning\u00fan partido pol\u00edtico ni asociaci\u00f3n.<br />\nNos une una necesidad de cambio.<br />\n\u00bfPor qu\u00e9 estamos aqu\u00ed?<br />\nEstamos aqu\u00ed porque queremos una sociedad distinta, m\u00e1s humana, que d\u00e9 prioridad a la vida por encima de los intereses econ\u00f3micos y pol\u00edticos. Apostamos por un cambio en la sociedad y en la conciencia social. Estamos convencidos de que la sociedad no se ha dormido y queremos luchar por lo que nos merecemos mediante la v\u00eda pac\u00edfica.<br />\nNuestro principal objetivo es informar al pueblo de todo aquello que nos afecta como ciudadan@s y sabemos que se puede cambiar impulsando la uni\u00f3n de tod@s. Por ello, os invitamos a participar en las asambleas que celebramos diariamente a las 19.00 en la Plaza de las Bodegas.<br />\nEs mejor arriesgar y perder que perder por no haber arriesgado.</p>\n<p>\u2022\tLectura del modo de trabajar en las asambleas.</p>\n<p>2.\tDebate<br />\n\u2022\tAnalizamos los dos primeros objetivos comunes de los cuatro propuestos por Madrid, \u00e9stos son:<br />\n\uf02d\tReforma electoral encaminada a una democracia m\u00e1s representativa y de proporcionalidad real y con el objetivo adicional de desarrollar mecanismos efectivos de participaci\u00f3n ciudadana.<br />\n\uf02d\tLucha contra la corrupci\u00f3n mediante normas orientadas a una total transparencia pol\u00edtica.</p>\n<p>\u2022\tUno de los participantes explic\u00f3 la actual ley electoral (la forma en la que se asignan los esca\u00f1os no es para nada justa, no existe la posibilidad de listas abiertas: no se puede elegir a los representantes de los partidos, sino que son ellos mismos los que eligen, las campa\u00f1as electorales son muy injustas: los partidos mayoritarios disfrutan de anuncios en televisi\u00f3n de 20 minutos mientras que los minoritarios no pueden acceder; por otro lado, las empresas privadas pueden financiar a los partidos pero ello lleva impl\u00edcito alg\u00fan tipo de privilegio que luego el Gobierno concede a esa empresa por su apoyo a la campa\u00f1a.<br />\n\u2022\tAl respecto de la lucha contra la corrupci\u00f3n se coment\u00f3 el tema de las pensiones vitalicias de los pol\u00edticos, los sueldos, dietas de viaje y de transportes.<br />\n\u2022\tUno de los participantes insisti\u00f3 en que deber\u00edamos fundar un partido pol\u00edtico. Sin embargo, esta propuesta no fue del agrado del resto de participantes, se consider\u00f3 que este movimiento es una v\u00eda para que el pueblo se exprese y pueda ser escuchado.<br />\n3.\tPropuestas<br />\n\u2022\tEl campamento de Huelva insiste en la interacci\u00f3n entre plataformas para la consecuci\u00f3n de puntos comunes.<br />\n\u2022\tComenzar a organizar grupos de trabajo, en principio, ser\u00edan los siguientes:<br />\n\uf02d\tGrupo de informaci\u00f3n: informar a los ciudadanos de nuestro movimiento e involucrarlos en el mismo.<br />\n\uf02d\tGrupo de debate: b\u00fasqueda de temas relevantes para el pueblo chiclanero, consiguiendo informaci\u00f3n sobre el tema de forma que pueda ser expuesto en la asamblea para debatirlo.<br />\n\uf02d\tGrupo de comunicaci\u00f3n: informar de lo que est\u00e1 sucediendo en otras concentraciones y transmitir nuestras propuestas, organizar el blog.<br />\n\uf02d\tGrupo de control pol\u00edtico: controlar el programa electoral propuesto por el partido que finalmente acceda al poder en el ayuntamiento, asistir a los plenos y averiguar los presupuestos utilizados, con el fin de promover la transparencia pol\u00edtica.<br />\n3.\tAcciones reivindicativas:<br />\n\uf02d\tProyectar en la plaza el documental Espa\u00f1istan.<br />\nEsta acci\u00f3n ser\u00e1 decidida en la pr\u00f3xima asamblea, as\u00ed como las del d\u00eda anterior.</p>\n<p><strong>Acta Asamblea V</strong><br />\n28 de Mayo, 2011</p>\n<p>Asistencia: 17 Personas<br />\n1.\tPresentaci\u00f3n<br />\n\u2022\tBienvenida y agradecimientos a los asistentes.<br />\n\u2022\tLectura de la declaraci\u00f3n de intenciones y votaci\u00f3n del mismo, que fue aprobado por mayor\u00eda.<br />\n2.\tDebate<br />\n\u2022\tAnalizamos los dos siguientes objetivos comunes que quedaban de los cuatro propuestos por Madrid, \u00e9stos son:<br />\n\uf02d\tSeparaci\u00f3n efectiva de los poderes p\u00fablicos.<br />\n\uf02d\tCreaci\u00f3n de mecanismos de control ciudadana para la exigencia efectiva de responsabilidad pol\u00edtica.<br />\n\u2022\tUno de los participantes explic\u00f3 los tres poderes que son: el ejecutivo, el legislativo y el judicial. La Constituci\u00f3n dice que est\u00e1n separados, el legislativo el que elige las leyes (c\u00e1mara: senado y cortes), ejecutivo el que aplica las leyes (presidente y ministros), y el judicial el que resuelve los conflictos (juzgados y tribunales). Sin embargo, los distintos poderes est\u00e1n mezclados dado que el poder ejecutivo elige tambi\u00e9n al legislativo y el judicial. Y esto implica que el poder ejecutivo siempre tenga la aprobaci\u00f3n de las leyes que proponga.<br />\n\u2022\tSe coment\u00f3 que si las listas fueran abiertas, es decir, que pudi\u00e9ramos elegir de las listas electorales de cada partido quien queremos que nos represente, se solventar\u00eda parte de la corrupci\u00f3n existente y adem\u00e1s favorecer\u00eda la separaci\u00f3n de poderes.<br />\n\u2022\tAn\u00e1lisis de algunas leyes aprobadas: Bolonia, sinde, del aborto. Se aprobaron con segundas votaciones, ya que las primeras votaciones necesitaban mayor\u00eda absoluta y no se consigui\u00f3, por lo tanto, por proceso administrativo se lleva a una segunda votaci\u00f3n donde se necesita mayor\u00eda simple y dado que el resto de poderes ha sido elegido por el poder ejecutivo es f\u00e1cil conseguir la mayor\u00eda simple.<br />\n\u2022\tSe se\u00f1al\u00f3 los poderes f\u00e1cticos que son aquellos no contemplados en la Constituci\u00f3n ni en leyes pero que tienen un efecto pol\u00edtico directo como son los mercados, la iglesia, los bancos, el FMI, la OMC, etc\u2026 Hay que tener en cuenta que estos poderes ejercen presi\u00f3n a los gobiernos para llevar a cabo medidas que les favorecen, que por regla general no\u00a0favorece al ciudadano.</p>\n<p>\u2022\tEn relaci\u00f3n a la creaci\u00f3n de mecanismos para exigir responsabilidad pol\u00edtica, se indic\u00f3 que los pol\u00edticos s\u00f3lo est\u00e1n obligados a cumplir el 30% de sus propuestas electorales. Esta informaci\u00f3n nos dej\u00f3 a todos bastante asombrados, dado que nos pareci\u00f3 incre\u00edble que s\u00f3lo sea el 30%.<br />\n\u2022\tSe votaron uno a uno los 4 objetivos comunes analizados y todos fueron aprobados.<br />\n3.\tPropuestas<br />\n\u2022\tElaborar un documento donde se explique las causas que ha llevado a DRY reivindicar sus propuestas, de forma llamativa para causar la m\u00e1xima indignaci\u00f3n a la ciudadan\u00eda. Este documento ser\u00e1 analizado en las actividades de difusi\u00f3n que se programen.<br />\n\u2022\tSe continu\u00f3 con la organizaci\u00f3n de los grupos, \u00e9stos son:<br />\n\uf02d\tGrupo de informaci\u00f3n: informar a los ciudadanos de nuestro movimiento e involucrarlos en el mismo.<br />\n\uf02d\tGrupo de debate: elaborar el documento y pensar preguntas para debatir en las asambleas de difusi\u00f3n.<br />\n\uf02d\tGrupo de comunicaci\u00f3n: informar de lo que est\u00e1 sucediendo en otras concentraciones y transmitir nuestras propuestas y organizar el blog.<br />\n\uf02d\tGrupo de control pol\u00edtico: controlar el programa electoral propuesto por el partido que finalmente acceda al poder en el ayuntamiento, asistir a los plenos y averiguar los presupuestos utilizados, con el fin de promover la transparencia pol\u00edtica.<br />\n\uf02d\tGrupo de acci\u00f3n: proponer actividades reivindicativas y llevarlas a cabo.<br />\n\uf02d\tGrupo de gesti\u00f3n: encargarse de contabilizar el dinero para fotocopias, se propuso que quien pudiera donara algo para las fotocopias.<br />\nPuestos que somos pocos, participaremos en todos los grupos, no obstante se sugiri\u00f3 que nos comprometi\u00e9ramos en alg\u00fan grupo ya que de esta manera nos concentrar\u00edamos en proponer actividades concretas para el grupo en cuesti\u00f3n.<br />\nPor ahora, participan en los grupos los siguientes compa\u00f1eros:<br />\n\uf02d\tGrupo de informaci\u00f3n: Ianire y Mara.<br />\n\uf02d\tGrupo de debate: Manolito y Virginia.<br />\n\uf02d\tGrupo de comunicaci\u00f3n: Juan, Edu y Elih\u00fa.<br />\n\uf02d\tGrupo de control pol\u00edtico: Carlos, Jose Antonio y Elih\u00fa.<br />\n\uf02d\tGrupo de acci\u00f3n: Mara y Virginia.<br />\n\uf02d\tGrupo de gesti\u00f3n:<br />\n\u2022\tSe coment\u00f3 que en el momento en que estemos totalmente organizados y con actividades concretadas pasar\u00edamos a 3 asambleas a la semana,\u00a0dos de difusi\u00f3n y otra de organizaci\u00f3n. La de organizaci\u00f3n ser\u00eda todos los s\u00e1bados a las 11.00 en la Plaza de las Bodegas donde se concretar\u00eda las actividades a desarrollar la siguiente semana. Las otras 2 asambleas ser\u00edan en distintos lugares del pueblo, las cuales ser\u00edan informadas por medio de carteles y consistir\u00edan en llevar a cabo alguna actividad reivindicativa de forma que llamen la atenci\u00f3n, leer la declaraci\u00f3n de intenciones, invitar a los ciudadanos a la asamblea y organizar un debate analizando el documento elaborado.<br />\n4.\tPropuestas:<br />\n\u2022\tSe propone hacer part\u00edcipes a los chavales de los institutos, padres y profesores.<br />\n\u2022\tPegar la declaraci\u00f3n de intenciones en los institutos.<br />\n\u2022\tIr a asociaciones de vecinos a informar al presidente del movimiento, de forma que informe a los vecinos.</p>\n<p>&nbsp;</p>\n<p><strong>Acta Asamblea VI</strong></p>\n<p>29 de Mayo, 2011</p>\n<p>Asistencia: 29 Personas<br />\n1.\tPresentaci\u00f3n<br />\n\u2022\tBienvenida y agradecimientos a los asistentes.<br />\n\u2022\tLectura de la declaraci\u00f3n de intenciones.<br />\n\u2022\tRecordatorio de la forma de trabajo.<br />\n4.\tTrabajo a realizar<br />\n\u2022\tElaboraci\u00f3n del documento para explicar las propuestas de DRY, para ello, se reparti\u00f3 el trabajo entre varios compa\u00f1eros de la siguiente forma:<br />\n\uf02d\tEliminaci\u00f3n de privilegios de la clase pol\u00edtica: Elih\u00fa yAna.<br />\n\uf02d\tContra el desempleo: Virginia, Juan e Ianire.<br />\n\uf02d\tDerecho a la vivienda: Rafa, M\u00aa \u00c1ngeles y Aitzi.<br />\n\uf02d\tServicios p\u00fablicos de calidad: M\u00f3nica\u00b2, Raquel, Ianire y Jos\u00e9 Antonio.<br />\n\uf02d\tControl entidades bancarias: Elih\u00fa, Jos\u00e9 Antonio y Andr\u00e9s.<br />\n\uf02d\tFiscalidad: Virginia, Andr\u00e9s y Carlos.<br />\n\uf02d\tLibertades ciudadanas y democracia participativa: M\u00f3nica y Ana.<br />\n\uf02d\tReducci\u00f3n del gasto militar y seguridad ciudadana: Sergio y Carlos.<br />\nEs necesario incluir las fuentes en las que nos basamos.<br />\n\u2022\tSe a\u00f1aden al grupo de acci\u00f3n las siguientes compa\u00f1eras: Ana, Raquel y M\u00f3nica; y al grupo de gesti\u00f3n: Rafael y M\u00aa Angeles.<br />\n\u2022\tSe a\u00f1ade un nuevo grupo de trabajo de participaci\u00f3n ciudadana.<br />\n\u2022\tAl d\u00eda siguiente se recoger\u00e1 firmas de los comercios de alrededor para saber si est\u00e1n conformes con nuestra permanencia en la plaza o si tienen algo que objetar.</p>\n<p>3.\tPropuestas<br />\n\u2022\tInformar a los medios de comunicaci\u00f3n mediante una carta al director en la que \u00fanicamente se va a contemplar que estamos en Chiclana en la Plaza de las Bodegas y que actualmente estamos organiz\u00e1ndonos para llevar a cabo acciones reivindicativas en el pueblo de forma que nos escuchen los ciudadanos y se puedan unir a nuestra causa. Fue votado y aprobado.<br />\n\u2022\tElaborar una lista con los compa\u00f1eros que est\u00e1n elaborando cada parte del documento, de forma que podamos saber a qui\u00e9n acudir a la hora de indicar alguna idea o simplemente para poder informarnos de cualquier aspecto que nos interese.<br />\n\u2022\tA\u00f1adir al blog una nueva pesta\u00f1a en la que se incluir\u00e1n documentos de informaci\u00f3n para aquellas personas que quieran saber m\u00e1s en relaci\u00f3n al documento que estamos elaborando.<br />\n\u2022\tIncorporar al grupo de control pol\u00edtico la forma de actuar de los consejos locales.<br />\n\u2022\tNo aceptar dinero de los ciudadanos, sino que se les indiquen nuestras necesidades en ese momento como por ejemplo, realizar fotocopias. Fue votado y aprobado.<br />\n\u2022\tOrganizar listas de v\u00eddeos relacionados con las reivindicaciones, Ianire se comprometi\u00f3 organizarla.<br />\n\u2022\tHacer camisetas del movimiento para llamar la atenci\u00f3n de forma que puedan relacionarnos con el mismo.<br />\n\u2022\tSe aprob\u00f3 llevar una acci\u00f3n en bancos el martes 31-5-2011 que hemos denominado el virus humano, la acci\u00f3n se va a planificar al d\u00eda siguiente a las 5.30 en la Plaza de las Bodegas.<br />\n4.\tDebate<br />\n\u2022\tSe debati\u00f3 la continuidad de la acampada. Al final se decidi\u00f3 seguir con ella por votaci\u00f3n y se se\u00f1al\u00f3 lo siguiente:</p>\n<p>\uf02d\tSe indic\u00f3 que era importante sensibilizar a la poblaci\u00f3n de forma que entendiera la raz\u00f3n de la acampada.<br />\n\uf02d\tElaborar un cartel de por qu\u00e9 estamos aqu\u00ed. Una idea fue: estamos aqu\u00ed por ti y por m\u00ed, por tus hijos y los m\u00edos, por tu futuro, el m\u00edo y el de ellos.<br />\n\uf02d\tEn cuanto a la acampada hubo 10 personas que se compromet\u00edan a quedarse entre semana y 9 los fines de semana. De esta forma s\u00f3lo tendremos que quedarnos una noche cada semana.</p>\n<p>&nbsp;</p>\n<p><strong>Acta Asamblea VII</strong><br />\n30 de Mayo, 2011</p>\n<p>1.\tPresentaci\u00f3n<br />\n\u2022\tBienvenida y agradecimientos a los asistentes.<br />\n\u2022\tLectura del manifiesto.<br />\n\u2022\tRecordatorio acta asamblea anterior.<br />\n3.\tPropuestas<br />\n\u2022\tEn la asamblea anterior se aprob\u00f3 una acci\u00f3n en los bancos que consist\u00eda en bloquear una de las colas de una sucursal. Pretend\u00edamos conseguirlo solicitando en la caja cambio en monedas de alg\u00fan billete peque\u00f1o que se pasar\u00eda a otra persona para que lo volviese a cambiar y as\u00ed indefinidamente hasta el cierre de la oficina. Hoy antes de la asamblea nos reunimos y llegamos a la conclusi\u00f3n de que podr\u00eda ser contraproducente porque podr\u00eda molestar a los clientes del banco si no abr\u00edan otra caja. Adem\u00e1s exist\u00eda la posibilidad de que nos dijesen que no nos daban cambio y con esto acabar\u00edan con la acci\u00f3n, as\u00ed que se pens\u00f3 en un plan B que consist\u00eda en hacer una peque\u00f1a representaci\u00f3n teatral en la puerta de la misma sucursal. Se decide aplazar la acci\u00f3n hasta haberla pensado un poco m\u00e1s. Se habla de CONCIENCIAR a las personas m\u00e1s que de causar molestias.<br />\n\u2022\tSe propone fotografiarse sosteniendo pancartas para publicitar los motivos en las redes sociales a nivel personal.<br />\n\u2022\tSe propone EMBELLECER el campamento y sustituir las frases reivindicativas por frases informativas. Todo esto tratando de CUIDAR LA IMAGEN para no molestar a las personas que pudieran sentirse ofendidas. SE APRUEBA POR MAYOR\u00cdA<br />\n\u2022\tSe propuso instalaci\u00f3n de una caseta prefabricada para establecer en ella un punto de informaci\u00f3n permanente. Habr\u00eda que pedir permiso al ayuntamiento y Nick se ofrece para ello. SE APRUEBA POR MAYOR\u00cdA.<br />\n\u2022\tSe proponen dos l\u00edneas de trabajo, una de acci\u00f3n y otra de comunicaci\u00f3n, refiri\u00e9ndose a la necesidad de ir a los barrios, los institutos, las asociaciones de vecinos etc. Y se responde que de momento nos estamos concentrando aqu\u00ed hasta tener clara alguna acci\u00f3n informativa para exportar a otros lugares.<br />\n\u2022\tSe propone preparar un pasacalles con malabares y un zancudo haciendo el papel de banquero que fustigue con un l\u00e1tigo a los obreros que ir\u00edan a pie con ni\u00f1os en el papel de hijos. Otro llevar\u00edan carteles (no m\u00e1s de seis) denunciando problemas sociales. Todo ello condimentado con m\u00fasica de bazucada.</p>\n<p>\u2022\tSe propone ir a los martes a realizar una acci\u00f3n informativa meg\u00e1fono en mano leyendo demandas sociales. SE APRUEBA POR MAYOR\u00cdA.<br />\n\u2022\tSe propone taller informativo para ni\u00f1os (y adultos) explicando los antecedentes hist\u00f3ricos de la actual crisis y sus consecuencias. Todo ello de una manera amena y en tono relajado.<br />\n\u2022\tSe propone la confecci\u00f3n de un cartel muy grande explicando muy brevemente los motivos de la acampada (por que se duerme aqu\u00ed) para colocar en el lugar donde se duerme y se lanza la siguiente frase que gusta y SE APRUEBA POR MAYOR\u00cdA. \u201cPUEBLO DE CHICLANA, ESTA ACAMPADA ES UN S\u00cdMBOLO DE PROTESTA POR TUS DERECHOS, LOS M\u00cdOS Y LOS DE NUESTROS HIJOS\u201d<br />\n\u2022\tSe propone y SE APRUEBA POR MAYOR\u00cdA la confecci\u00f3n de un escrito para colocar visiblemente en la acampada agradeciendo a los ciudadanos su colaboraci\u00f3n y haciendo menci\u00f3n a la pasividad positiva de los agentes de polic\u00eda comprendiendo que son personas antes que agentes del orden. En un principio se dijo de enviar una carta de agradecimiento a la polic\u00eda por no actuar violentamente como fue el caso de los mossos d\u2019esquadra en la acampada de los compa\u00f1eros de barcelona, pero la mayor\u00eda no estaba de acuerdo.<br />\n\u2022\tSe propone la elaboraci\u00f3n de frases bonitas para cuando sea necesario gritarlas por el meg\u00e1fono.<br />\n4.\tGRUPOS DE TRABAJO<br />\nSe recuerdan y enumeran los grupos de trabajo y sus funciones.</p>\n<p><strong>Acta Asamblea </strong></p>\n<p><strong>7 Junio 2011</strong></p>\n<p>Nos reunimos alrededor de 10-15 personas a las 19.00 horas en la plaza de las bodegas, se lee manifiesto de la concentraci\u00f3n.</p>\n<p>&#8211; Se comenta que Copister\u00eda Copigama, Alameda Solano 1, (al lao del \u201cTabitas\u201d) es quien m\u00e1s baratas nos est\u00e1 haciendo las copias ahora mismo.</p>\n<p>&#8211; Compa\u00f1eros que han estado en Sol nos cuentan sus impresiones y traen nuevas ideas a nuestra concentraci\u00f3n.</p>\n<p>&#8211; Se comenta una propuesta que se est\u00e1 valorando a nivel nacional. Una marcha a pie hasta Madrid, partiendo de puntos estrat\u00e9gicos y pasando por todos los pueblos posibles realizando asambleas en las que recoger propuestas. Comenzar\u00eda despu\u00e9s de la manifestaci\u00f3n del S\u00e1bado 19 de Junio, y concluir\u00eda el 17 de Julio en Madrid.</p>\n<p>&#8211; Se cita a ma\u00f1ana 8 de Junio a todo el que pueda asistir, para difundir la convocatoria a la concentraci\u00f3n en el ayuntamiento el d\u00eda 11 de Junio.</p>\n<p>&#8211; Se lee el documento Bancos Culpables.</p>\n<p>&#8211; Se debate sobre el futuro de la acampada, el n\u00famero de asambleas y la forma de continuar. Propuesta de crear un punto de informaci\u00f3n m\u00f3vil (en forma de carrito).</p>\n<p>&nbsp;</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Acta Asamblea I 24 de mayo 2011 Nos reunimos alrededor de 10-15 personas a las 19.00 horas en la plaza de las bodegas, explicamos brevemente motivos del por qu\u00e9 de la concentraci\u00f3n en chiclana. 1\u00aa propuesta-idea: Taller de participaci\u00f3n en institutos. Despu\u00e9s comentamos entre todos las propuestas m\u00e1s importantes y generales del movimiento 15 M [&hellip;]</p>\n",
+            "protected": false
+        },
+        "author": 33,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/pages/36"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/users/33"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/comments?post=36"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 13,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/pages/36/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 52,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/pages/36/revisions/52"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/media?parent=36"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 43,
+        "date": "2011-05-25T14:07:04",
+        "date_gmt": "2011-05-25T14:07:04",
+        "guid": {
+            "rendered": "http://chiclana.tomalaplaza.net/?page_id=43"
+        },
+        "modified": "2011-05-28T23:15:40",
+        "modified_gmt": "2011-05-28T23:15:40",
+        "slug": "quienes-somos",
+        "status": "publish",
+        "type": "page",
+        "link": "https://chiclana.tomalaplaza.net/quienes-somos/",
+        "title": {
+            "rendered": "Qui\u00e9nes somos"
+        },
+        "content": {
+            "rendered": "<p>Declaraci\u00f3n de intenciones de ciudadanos de Chiclana, que reclaman una necesidad de cambio.</p>\n<p><strong>\u00bfQui\u00e9nes somos?</strong><br />\nSomos personas que despu\u00e9s de la manifestaci\u00f3n del 15 de mayo, libre y voluntariamente, nos estamos reuniendo aqu\u00ed en Chiclana, en la Plaza de las Bodegas, para continuar con el movimiento surgido y unirnos a la reivindicaci\u00f3n pac\u00edfica por la dignidad y la conciencia pol\u00edtica y social.</p>\n<p>No representamos a ning\u00fan partido pol\u00edtico ni asociaci\u00f3n.</p>\n<p>Nos une una necesidad de cambio.</p>\n<p><strong>\u00bfPor qu\u00e9 estamos aqu\u00ed?</strong></p>\n<p>Estamos aqu\u00ed porque queremos una sociedad distinta, m\u00e1s humana, que d\u00e9 prioridad a la vida por encima de los intereses econ\u00f3micos y pol\u00edticos. Apostamos por un cambio en la sociedad y en la conciencia social.</p>\n<p>Estamos convencidos de que la sociedad no se ha dormido, y queremos luchar por lo que nos merecemos mediante la v\u00eda pac\u00edfica.</p>\n<p>Nuestro principal objetivo es informar al pueblo de todo aquello que nos afecta como ciudadan@s y que sabemos que se puede cambiar impulsando la uni\u00f3n de tod@s.</p>\n<p>Por ello, os invitamos a participar en las asambleas que celebramos diariamente a las 19.00 en la Plaza de las Bodegas.</p>\n<p>Es mejor arriesgar y perder que perder por no haber arriesgado.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Declaraci\u00f3n de intenciones de ciudadanos de Chiclana, que reclaman una necesidad de cambio. \u00bfQui\u00e9nes somos? Somos personas que despu\u00e9s de la manifestaci\u00f3n del 15 de mayo, libre y voluntariamente, nos estamos reuniendo aqu\u00ed en Chiclana, en la Plaza de las Bodegas, para continuar con el movimiento surgido y unirnos a la reivindicaci\u00f3n pac\u00edfica por la [&hellip;]</p>\n",
+            "protected": false
+        },
+        "author": 33,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/pages/43"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/users/33"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/comments?post=43"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 5,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/pages/43/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 46,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/pages/43/revisions/46"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/media?parent=43"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 24,
+        "date": "2011-05-23T22:45:18",
+        "date_gmt": "2011-05-23T22:45:18",
+        "guid": {
+            "rendered": "http://chiclana.tomalaplaza.net/?p=24"
+        },
+        "modified": "2011-06-10T02:23:23",
+        "modified_gmt": "2011-06-10T02:23:23",
+        "slug": "asamblea-en-la-plaza",
+        "status": "publish",
+        "type": "post",
+        "link": "https://chiclana.tomalaplaza.net/2011/05/23/asamblea-en-la-plaza/",
+        "title": {
+            "rendered": "Asamblea en la plaza"
+        },
+        "content": {
+            "rendered": "<p>Todos los d\u00edas a las 19:00<br />\nen Pza las Bodegas</p>\n<p>(junto a plaza de abastos)</p>\n<p>Te esperamos</p>\n<p>Tambi\u00e9n tenemos Facebook: \u00a0Concentraci\u00f3n Chiclana</p>\n<p><a href=\"http://www.facebook.com/pages/Concentracion-Chiclana/176732475713294\">http://www.facebook.com/pages/Concentracion-Chiclana/176732475713294</a></p>\n<p>&nbsp;</p>\n<p>Queremos expresar nuestra solidaridad con los 5 compa\u00f1eros de Valencia,</p>\n<p>detenidos al manifestarse frente a las Cortes valencianas.</p>\n<p>Nos solidarizamos tambi\u00e9n con los compa\u00f1eros de Barcelona,</p>\n<p>que sufrieron una carga policial totalmente injustificada por parte de los</p>\n<p>Mossos d&#8217;esquadra.\u00a0Y nos sumamos a la petici\u00f3n de dimisi\u00f3n de su m\u00e1ximo responsable, \u00a0Felip Puig</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Todos los d\u00edas a las 19:00 en Pza las Bodegas (junto a plaza de abastos) Te esperamos Tambi\u00e9n tenemos Facebook: \u00a0Concentraci\u00f3n Chiclana http://www.facebook.com/pages/Concentracion-Chiclana/176732475713294 &nbsp; Queremos expresar nuestra solidaridad con los 5 compa\u00f1eros de Valencia, detenidos al manifestarse frente a las Cortes valencianas. Nos solidarizamos tambi\u00e9n con los compa\u00f1eros de Barcelona, que sufrieron una carga policial [&hellip;]</p>\n",
+            "protected": false
+        },
+        "author": 33,
+        "featured_media": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": [],
+        "categories": [
+            1
+        ],
+        "tags": [],
+        "jetpack_featured_media_url": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/posts/24"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/users/33"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/comments?post=24"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 11,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/posts/24/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 39,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/posts/24/revisions/39"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/media?parent=24"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/categories?post=24"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/tags?post=24"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 6,
+        "date": "2011-05-20T20:13:36",
+        "date_gmt": "2011-05-20T20:13:36",
+        "guid": {
+            "rendered": "http://chiclana.tomalaplaza.net/?p=6"
+        },
+        "modified": "2011-05-23T00:16:44",
+        "modified_gmt": "2011-05-23T00:16:44",
+        "slug": "concentracion-permanente",
+        "status": "publish",
+        "type": "post",
+        "link": "https://chiclana.tomalaplaza.net/2011/05/20/concentracion-permanente/",
+        "title": {
+            "rendered": "Concentraci\u00f3n Permanente"
+        },
+        "content": {
+            "rendered": "<p><strong>En la Plaza de las Bodegas</strong><br />\n<strong> (junto a la plaza de abastos</strong>)</p>\n<p>\u00danete a la revoluci\u00f3n pac\u00edfica,</p>\n<p>protesta por la situaci\u00f3n</p>\n<p>pol\u00edtica y econ\u00f3mica actual.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>En la Plaza de las Bodegas (junto a la plaza de abastos) \u00danete a la revoluci\u00f3n pac\u00edfica, protesta por la situaci\u00f3n pol\u00edtica y econ\u00f3mica actual.</p>\n",
+            "protected": false
+        },
+        "author": 33,
+        "featured_media": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": [],
+        "categories": [
+            1
+        ],
+        "tags": [
+            5
+        ],
+        "jetpack_featured_media_url": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/posts/6"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/users/33"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/comments?post=6"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 6,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/posts/6/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 17,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/posts/6/revisions/17"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/media?parent=6"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/categories?post=6"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/tags?post=6"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    }
+]

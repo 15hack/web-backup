@@ -1,0 +1,1634 @@
+[
+    {
+        "id": 159,
+        "date": "2011-10-28T20:22:29",
+        "date_gmt": "2011-10-28T20:22:29",
+        "guid": {
+            "rendered": "http://elejido.tomalosbarrios.net/?p=159"
+        },
+        "modified": "2011-10-28T20:25:36",
+        "modified_gmt": "2011-10-28T20:25:36",
+        "slug": "15o",
+        "status": "publish",
+        "type": "post",
+        "link": "https://elejido.tomalosbarrios.net/2011/10/28/15o/",
+        "title": {
+            "rendered": "#15O"
+        },
+        "content": {
+            "rendered": "<iframe width='500' height='344' src='//www.youtube.com/embed/http://www.youtube.com/watch?v=a_8FEwTNSgk?autoplay=0&loop=0&rel=0' frameborder='0' allowfullscreen></iframe>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 721,
+        "featured_media": 0,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": [],
+        "categories": [
+            8
+        ],
+        "tags": [],
+        "jetpack_featured_media_url": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/159"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/users/721"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/comments?post=159"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 6,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/159/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 166,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/159/revisions/166"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/media?parent=159"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/categories?post=159"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/tags?post=159"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 146,
+        "date": "2011-10-06T23:21:43",
+        "date_gmt": "2011-10-06T23:21:43",
+        "guid": {
+            "rendered": "http://elejido.tomalosbarrios.net/?p=146"
+        },
+        "modified": "2011-10-06T23:21:57",
+        "modified_gmt": "2011-10-06T23:21:57",
+        "slug": "united-for-globalchange",
+        "status": "publish",
+        "type": "post",
+        "link": "https://elejido.tomalosbarrios.net/2011/10/06/united-for-globalchange/",
+        "title": {
+            "rendered": "United for #globalchange"
+        },
+        "content": {
+            "rendered": "<p><img src=\"http://a4.sphotos.ak.fbcdn.net/hphotos-ak-snc7/297891_157570884337701_100002543712171_273970_1124176512_n.jpg\" alt=\"Global change, 15m, indignados el ejido\" /></p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 721,
+        "featured_media": 0,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": [],
+        "categories": [
+            4
+        ],
+        "tags": [],
+        "jetpack_featured_media_url": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/146"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/users/721"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/comments?post=146"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 3,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/146/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 151,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/146/revisions/151"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/media?parent=146"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/categories?post=146"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/tags?post=146"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 134,
+        "date": "2011-09-29T01:50:09",
+        "date_gmt": "2011-09-29T01:50:09",
+        "guid": {
+            "rendered": "http://elejido.tomalosbarrios.net/?p=134"
+        },
+        "modified": "2011-10-06T23:47:04",
+        "modified_gmt": "2011-10-06T23:47:04",
+        "slug": "%c2%bfcomo-funciona-la-actual-ley-electoral",
+        "status": "publish",
+        "type": "post",
+        "link": "https://elejido.tomalosbarrios.net/2011/09/29/%c2%bfcomo-funciona-la-actual-ley-electoral/",
+        "title": {
+            "rendered": "\u00bfC\u00f3mo funciona la actual Ley Electoral?"
+        },
+        "content": {
+            "rendered": "<p><img src=\"http://a7.sphotos.ak.fbcdn.net/hphotos-ak-ash4/s320x320/316089_2283096790881_1052670158_32594076_729442041_n.jpg\" alt=\"sistema de voto\" /></p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 721,
+        "featured_media": 0,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": [],
+        "categories": [
+            1
+        ],
+        "tags": [],
+        "jetpack_featured_media_url": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/134"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/users/721"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/comments?post=134"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 3,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/134/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 139,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/134/revisions/139"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/media?parent=134"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/categories?post=134"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/tags?post=134"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 137,
+        "date": "2011-09-29T01:48:17",
+        "date_gmt": "2011-09-29T01:48:17",
+        "guid": {
+            "rendered": "http://elejido.tomalosbarrios.net/files/2011/09/leyelectoral.jpg"
+        },
+        "modified": "2011-09-29T01:48:17",
+        "modified_gmt": "2011-09-29T01:48:17",
+        "slug": "leyelectoral",
+        "status": "inherit",
+        "type": "attachment",
+        "link": "https://elejido.tomalosbarrios.net/2011/09/29/%c2%bfcomo-funciona-la-actual-ley-electoral/leyelectoral/",
+        "title": {
+            "rendered": "C\u00f3mo funciona la actual Ley Electoral"
+        },
+        "author": 721,
+        "comment_status": "open",
+        "ping_status": "open",
+        "template": "",
+        "meta": [],
+        "description": {
+            "rendered": "<p class=\"attachment\"><a href='https://elejido.tomalosbarrios.net/files/2011/09/leyelectoral.jpg'><img width=\"211\" height=\"300\" src=\"https://elejido.tomalosbarrios.net/files/2011/09/leyelectoral-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://elejido.tomalosbarrios.net/files/2011/09/leyelectoral-211x300.jpg 211w, https://elejido.tomalosbarrios.net/files/2011/09/leyelectoral.jpg 678w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n<p>Conferencia grupo Indignad@s El Ejido viernes 30 de septiembre</p>\n"
+        },
+        "caption": {
+            "rendered": "<p>Conferencia grupo Indignad@s El Ejido viernes 30 de septiembre</p>\n"
+        },
+        "alt_text": "",
+        "media_type": "image",
+        "mime_type": "image/jpeg",
+        "media_details": {
+            "width": "678",
+            "height": "960",
+            "hwstring_small": "height='96' width='67'",
+            "file": "2011/09/leyelectoral.jpg",
+            "sizes": {
+                "thumbnail": {
+                    "file": "leyelectoral-150x150.jpg",
+                    "width": "150",
+                    "height": "150",
+                    "source_url": "https://elejido.tomalosbarrios.net/files/2011/09/leyelectoral-150x150.jpg"
+                },
+                "medium": {
+                    "file": "leyelectoral-211x300.jpg",
+                    "width": "211",
+                    "height": "300",
+                    "source_url": "https://elejido.tomalosbarrios.net/files/2011/09/leyelectoral-211x300.jpg"
+                },
+                "post-thumbnail": {
+                    "file": "leyelectoral-678x198.jpg",
+                    "width": "678",
+                    "height": "198",
+                    "source_url": "https://elejido.tomalosbarrios.net/files/2011/09/leyelectoral-678x198.jpg"
+                },
+                "full": {
+                    "file": "leyelectoral.jpg",
+                    "width": 678,
+                    "height": 960,
+                    "mime_type": "image/jpeg",
+                    "source_url": "https://elejido.tomalosbarrios.net/files/2011/09/leyelectoral.jpg"
+                }
+            },
+            "image_meta": {
+                "aperture": "0",
+                "credit": "",
+                "camera": "",
+                "caption": "",
+                "created_timestamp": "0",
+                "copyright": "",
+                "focal_length": "0",
+                "iso": "0",
+                "shutter_speed": "0",
+                "title": ""
+            }
+        },
+        "post": 134,
+        "source_url": "https://elejido.tomalosbarrios.net/files/2011/09/leyelectoral.jpg",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/media/137"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/media"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/types/attachment"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/users/721"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/comments?post=137"
+                }
+            ]
+        }
+    },
+    {
+        "id": 124,
+        "date": "2011-09-16T18:27:26",
+        "date_gmt": "2011-09-16T18:27:26",
+        "guid": {
+            "rendered": "http://elejido.tomalosbarrios.net/?p=124"
+        },
+        "modified": "2011-10-06T23:49:26",
+        "modified_gmt": "2011-10-06T23:49:26",
+        "slug": "el-proximo-viernes-23-de-septiembre-civismo-en-el-ejido",
+        "status": "publish",
+        "type": "post",
+        "link": "https://elejido.tomalosbarrios.net/2011/09/16/el-proximo-viernes-23-de-septiembre-civismo-en-el-ejido/",
+        "title": {
+            "rendered": "El pr\u00f3ximo viernes 23 de septiembre, Civismo en El Ejido"
+        },
+        "content": {
+            "rendered": "<p><img src=\"http://a7.sphotos.ak.fbcdn.net/hphotos-ak-ash4/s320x320/297075_2279291095741_1052670158_32591551_1095541093_n.jpg\" alt=\"ordenanza civica el ejido\" /></p>\n<p>&nbsp;<br />\n<strong><a href=\"http://www.scribd.com/fullscreen/67814146?access_key=key-hzcuy23wjlv4stzuwrn\" title=\"ordenanza reguladora de la convivencia ciudadana y de prevenci\u00f3n de actos inc\u00edvicos del ayuntamiento de el ejido\">Charla sobre la Ordenanza Reguladora de la convivencia ciudadana y de prevenci\u00f3n de actos inc\u00edvicos del Ayuntamiento de El Ejido</a></strong></p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>&nbsp; Charla sobre la Ordenanza Reguladora de la convivencia ciudadana y de prevenci\u00f3n de actos inc\u00edvicos del Ayuntamiento de El Ejido</p>\n",
+            "protected": false
+        },
+        "author": 721,
+        "featured_media": 0,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": [],
+        "categories": [
+            1
+        ],
+        "tags": [],
+        "jetpack_featured_media_url": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/124"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/users/721"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/comments?post=124"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 3,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/124/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 129,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/124/revisions/129"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/media?parent=124"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/categories?post=124"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/tags?post=124"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 127,
+        "date": "2011-09-16T18:24:27",
+        "date_gmt": "2011-09-16T18:24:27",
+        "guid": {
+            "rendered": "http://elejido.tomalosbarrios.net/files/2011/09/Indignados-el-ejido.jpg"
+        },
+        "modified": "2011-09-16T18:24:27",
+        "modified_gmt": "2011-09-16T18:24:27",
+        "slug": "indignados-el-ejido",
+        "status": "inherit",
+        "type": "attachment",
+        "link": "https://elejido.tomalosbarrios.net/2011/09/16/el-proximo-viernes-23-de-septiembre-civismo-en-el-ejido/indignados-el-ejido/",
+        "title": {
+            "rendered": "Civismo en El Ejido"
+        },
+        "author": 721,
+        "comment_status": "open",
+        "ping_status": "open",
+        "template": "",
+        "meta": [],
+        "description": {
+            "rendered": "<p class=\"attachment\"><a href='https://elejido.tomalosbarrios.net/files/2011/09/Indignados-el-ejido.jpg'><img width=\"212\" height=\"300\" src=\"https://elejido.tomalosbarrios.net/files/2011/09/Indignados-el-ejido-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://elejido.tomalosbarrios.net/files/2011/09/Indignados-el-ejido-212x300.jpg 212w, https://elejido.tomalosbarrios.net/files/2011/09/Indignados-el-ejido.jpg 509w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n<p>Charla sobre la Ordenanza Reguladora de la convivencia ciudadana y de prevenci\u00f3n de actos inc\u00edvicos del Ayuntamiento de El Ejido</p>\n"
+        },
+        "caption": {
+            "rendered": "<p>Charla sobre la Ordenanza Reguladora de la convivencia ciudadana y de prevenci\u00f3n de actos inc\u00edvicos del Ayuntamiento de El Ejido</p>\n"
+        },
+        "alt_text": "",
+        "media_type": "image",
+        "mime_type": "image/jpeg",
+        "media_details": {
+            "width": "509",
+            "height": "720",
+            "hwstring_small": "height='96' width='67'",
+            "file": "2011/09/Indignados-el-ejido.jpg",
+            "sizes": {
+                "thumbnail": {
+                    "file": "Indignados-el-ejido-150x150.jpg",
+                    "width": "150",
+                    "height": "150",
+                    "source_url": "https://elejido.tomalosbarrios.net/files/2011/09/Indignados-el-ejido-150x150.jpg"
+                },
+                "medium": {
+                    "file": "Indignados-el-ejido-212x300.jpg",
+                    "width": "212",
+                    "height": "300",
+                    "source_url": "https://elejido.tomalosbarrios.net/files/2011/09/Indignados-el-ejido-212x300.jpg"
+                },
+                "post-thumbnail": {
+                    "file": "Indignados-el-ejido-509x198.jpg",
+                    "width": "509",
+                    "height": "198",
+                    "source_url": "https://elejido.tomalosbarrios.net/files/2011/09/Indignados-el-ejido-509x198.jpg"
+                },
+                "full": {
+                    "file": "Indignados-el-ejido.jpg",
+                    "width": 509,
+                    "height": 720,
+                    "mime_type": "image/jpeg",
+                    "source_url": "https://elejido.tomalosbarrios.net/files/2011/09/Indignados-el-ejido.jpg"
+                }
+            },
+            "image_meta": {
+                "aperture": "0",
+                "credit": "",
+                "camera": "",
+                "caption": "",
+                "created_timestamp": "0",
+                "copyright": "",
+                "focal_length": "0",
+                "iso": "0",
+                "shutter_speed": "0",
+                "title": ""
+            }
+        },
+        "post": 124,
+        "source_url": "https://elejido.tomalosbarrios.net/files/2011/09/Indignados-el-ejido.jpg",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/media/127"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/media"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/types/attachment"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/users/721"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/comments?post=127"
+                }
+            ]
+        }
+    },
+    {
+        "id": 119,
+        "date": "2011-08-27T13:25:09",
+        "date_gmt": "2011-08-27T13:25:09",
+        "guid": {
+            "rendered": "http://elejido.tomalosbarrios.net/?p=119"
+        },
+        "modified": "2011-10-06T23:16:39",
+        "modified_gmt": "2011-10-06T23:16:39",
+        "slug": "algunas-reflexiones-sobre-la-ordenanza-reguladora-de-la-convivencia-ciudadana-y-de-prevencion-de-actos-incivicos-del-ayuntamiento-de-el-ejido",
+        "status": "publish",
+        "type": "post",
+        "link": "https://elejido.tomalosbarrios.net/2011/08/27/algunas-reflexiones-sobre-la-ordenanza-reguladora-de-la-convivencia-ciudadana-y-de-prevencion-de-actos-incivicos-del-ayuntamiento-de-el-ejido/",
+        "title": {
+            "rendered": "Algunas reflexiones sobre la Ordenanza Reguladora de la convivencia ciudadana y de prevenci\u00f3n de actos inc\u00edvicos del Ayuntamiento de El Ejido"
+        },
+        "content": {
+            "rendered": "<p>Leer completa:</p>\n<p><strong><a title=\"View Reflexiones sobre la Ordenanza Reguladora de la Convivencia Ciudadana del Ayuntamiento de El Ejido on Scribd\" href=\"http://es.scribd.com/doc/67814146/Reflexiones-sobre-la-Ordenanza-Reguladora-de-la-Convivencia-Ciudadana-del-Ayuntamiento-de-El-Ejido\">Reflexiones sobre la Ordenanza Reguladora de la Convivencia Ciudadana del Ayuntamiento de El Ejido</a></strong>//</p>\n<p align=\"JUSTIFY\">Algunas joyitas:</p>\n<p align=\"JUSTIFY\">&#171;La indeterminaci\u00f3n y el af\u00e1n regulador del mayor n\u00famero de conductas posibles lleva a considerar como infracci\u00f3n actuaciones normales y cotidianas, que no afectan a la libertad del resto de los ciudadanos ni ponen en peligro su integridad ni la de los espacios p\u00fablicos municipales. Seguidamente se exponen algunos ejemplos:</p>\n<ol>\n<li>\n<p align=\"JUSTIFY\">Art. 33.1 Peinar a un hijo en espacio p\u00fablico (playa) o hacer una masaje a tu pareja porque le duele una parte de su cuerpo constituye una infracci\u00f3n sancionable con hasta 300 \u20ac, adem\u00e1s de sufrir la p\u00e9rdida del peine o la pomada, que ser\u00edan intervenidas.</p>\n</li>\n</ol>\n<p align=\"JUSTIFY\">En este caso, resulta curioso que tambi\u00e9n podr\u00eda considerarse como infractor al hijo o a la pareja, por lo que la acci\u00f3n podr\u00e1 a suponer una sanci\u00f3n de 600 \u20ac y si en el masaje colaboran 2 o m\u00e1s personas, la sanci\u00f3n se ver\u00eda multiplicada por el mismo n\u00famero.&#187;</p>\n<p align=\"JUSTIFY\">[&#8230;]</p>\n<p align=\"JUSTIFY\">&#171;Sin embargo, el art. 46.6 de la Ordenanza establece que \u201c<em>las infracciones y sanciones muy graves de esta Secci\u00f3n prescribir\u00e1n a los cuatro a\u00f1os, las graves a los tres y las leves al a\u00f1os, salvo las sanciones de \u00e9sas que ser\u00e1n a los tres\u201d.</em></p>\n<p align=\"JUSTIFY\">Como puede comprobarse, en este punto, la Ordenanza es m\u00e1s restrictiva que la Ley.</p>\n<ol>\n<li>\n<p align=\"JUSTIFY\">En lo que respecta a la <strong>CADUCIDAD DEL PROCEDIMIENTO,</strong> el art. 6 del Reglamento de la Potestad Sancionadora (RD 1398/1993) establece <strong>un plazo de dos meses</strong>, sin posibilidad de reanudarse. Sin embargo, el art. 78 de la Ordenanza establece un plazo de caducidad del <em>procedimiento sancionador de </em><em><span style=\"text-decoration: underline\">6 meses</span></em><em>, </em><em><span style=\"text-decoration: underline\">pudiendo reiniciarse</span></em><em> en tal caso si no se ha producido la prescripci\u00f3n. </em> En este punto, por tanto, ser\u00eda conveniente acomodar esta cuesti\u00f3n al Reglamento.&#187;</p>\n</li>\n</ol>\n<p>[&#8230;]</p>\n<p>&#171;Seg\u00fan lo dispuesto en el art. 38, bajo el disfraz de medida cautelar, la Polic\u00eda deber\u00eda intervenir autom\u00e1ticamente el dinero recaudado por un vendedor de la ONCE que ofrece billetes en espacios p\u00fablicos.&#187;</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Leer completa: Reflexiones sobre la Ordenanza Reguladora de la Convivencia Ciudadana del Ayuntamiento de El Ejido// Algunas joyitas: &#171;La indeterminaci\u00f3n y el af\u00e1n regulador del mayor n\u00famero de conductas posibles lleva a considerar como infracci\u00f3n actuaciones normales y cotidianas, que &hellip; <a href=\"https://elejido.tomalosbarrios.net/2011/08/27/algunas-reflexiones-sobre-la-ordenanza-reguladora-de-la-convivencia-ciudadana-y-de-prevencion-de-actos-incivicos-del-ayuntamiento-de-el-ejido/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+            "protected": false
+        },
+        "author": 721,
+        "featured_media": 0,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": [],
+        "categories": [
+            1
+        ],
+        "tags": [],
+        "jetpack_featured_media_url": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/119"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/users/721"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/comments?post=119"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 8,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/119/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 140,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/119/revisions/140"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/media?parent=119"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/categories?post=119"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/tags?post=119"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 115,
+        "date": "2011-07-07T16:20:24",
+        "date_gmt": "2011-07-07T16:20:24",
+        "guid": {
+            "rendered": "http://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido.jpg"
+        },
+        "modified": "2011-07-07T16:20:24",
+        "modified_gmt": "2011-07-07T16:20:24",
+        "slug": "octavilla_indignados_el_ejido",
+        "status": "inherit",
+        "type": "attachment",
+        "link": "https://elejido.tomalosbarrios.net/2011/07/01/nonosrepresentan/octavilla_indignados_el_ejido/",
+        "title": {
+            "rendered": "octavilla_indignados_el_ejido"
+        },
+        "author": 721,
+        "comment_status": "open",
+        "ping_status": "open",
+        "template": "",
+        "meta": [],
+        "description": {
+            "rendered": "<p class=\"attachment\"><a href='https://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido.jpg'><img width=\"141\" height=\"300\" src=\"https://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido-141x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido-141x300.jpg 141w, https://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido-482x1024.jpg 482w, https://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido.jpg 965w\" sizes=\"(max-width: 141px) 100vw, 141px\" /></a></p>\n<p>Octavilla de la asamblea de indignados El Ejido</p>\n"
+        },
+        "caption": {
+            "rendered": "<p>Octavilla de la asamblea de indignados El Ejido</p>\n"
+        },
+        "alt_text": "",
+        "media_type": "image",
+        "mime_type": "image/jpeg",
+        "media_details": {
+            "width": "965",
+            "height": "2048",
+            "hwstring_small": "height='96' width='45'",
+            "file": "2011/07/octavilla_indignados_el_ejido.jpg",
+            "sizes": {
+                "thumbnail": {
+                    "file": "octavilla_indignados_el_ejido-150x150.jpg",
+                    "width": "150",
+                    "height": "150",
+                    "source_url": "https://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido-150x150.jpg"
+                },
+                "medium": {
+                    "file": "octavilla_indignados_el_ejido-141x300.jpg",
+                    "width": "141",
+                    "height": "300",
+                    "source_url": "https://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido-141x300.jpg"
+                },
+                "large": {
+                    "file": "octavilla_indignados_el_ejido-482x1024.jpg",
+                    "width": "482",
+                    "height": "1024",
+                    "source_url": "https://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido-482x1024.jpg"
+                },
+                "post-thumbnail": {
+                    "file": "octavilla_indignados_el_ejido-940x198.jpg",
+                    "width": "940",
+                    "height": "198",
+                    "source_url": "https://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido-940x198.jpg"
+                },
+                "full": {
+                    "file": "octavilla_indignados_el_ejido.jpg",
+                    "width": 965,
+                    "height": 2048,
+                    "mime_type": "image/jpeg",
+                    "source_url": "https://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido.jpg"
+                }
+            },
+            "image_meta": {
+                "aperture": "0",
+                "credit": "",
+                "camera": "",
+                "caption": "",
+                "created_timestamp": "0",
+                "copyright": "",
+                "focal_length": "0",
+                "iso": "0",
+                "shutter_speed": "0",
+                "title": ""
+            }
+        },
+        "post": 6,
+        "source_url": "https://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido.jpg",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/media/115"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/media"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/types/attachment"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/users/721"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/comments?post=115"
+                }
+            ]
+        }
+    },
+    {
+        "id": 107,
+        "date": "2011-07-06T18:12:05",
+        "date_gmt": "2011-07-06T18:12:05",
+        "guid": {
+            "rendered": "http://elejido.tomalosbarrios.net/?page_id=107"
+        },
+        "modified": "2011-07-06T18:14:45",
+        "modified_gmt": "2011-07-06T18:14:45",
+        "slug": "propuestas",
+        "status": "publish",
+        "type": "page",
+        "link": "https://elejido.tomalosbarrios.net/propuestas/",
+        "title": {
+            "rendered": "Propuestas"
+        },
+        "content": {
+            "rendered": "<p>Haznos llegar tus propuestas a nivel local, provincial o nacional con un comentario o envi\u00e1ndonos un e-mail a</p>\n<p style=\"text-align: center\">indignadoselejido@gmail.com</p>\n<p>Tus propuestas ser\u00e1n planteadas, debatidas y votadas en la Asamblea.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Haznos llegar tus propuestas a nivel local, provincial o nacional con un comentario o envi\u00e1ndonos un e-mail a indignadoselejido@gmail.com Tus propuestas ser\u00e1n planteadas, debatidas y votadas en la Asamblea.</p>\n",
+            "protected": false
+        },
+        "author": 721,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "open",
+        "ping_status": "open",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/pages/107"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/users/721"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/comments?post=107"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 5,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/pages/107/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 114,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/pages/107/revisions/114"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/media?parent=107"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 100,
+        "date": "2011-07-06T17:55:42",
+        "date_gmt": "2011-07-06T17:55:42",
+        "guid": {
+            "rendered": "http://elejido.tomalosbarrios.net/?page_id=100"
+        },
+        "modified": "2011-10-06T23:41:48",
+        "modified_gmt": "2011-10-06T23:41:48",
+        "slug": "actas",
+        "status": "publish",
+        "type": "page",
+        "link": "https://elejido.tomalosbarrios.net/actas/",
+        "title": {
+            "rendered": "Actas"
+        },
+        "content": {
+            "rendered": "<p>La m\u00e1s reciente se muestra en primer lugar:</p>\n<p>&#8211; <a href=\"http://es.scribd.com/doc/67817363\" target=\"_blank\">Asamblea Indignad@s El Ejido (3/10/11)</a></p>\n<p>&#8211; <a href=\"http://es.scribd.com/doc/67817351\" target=\"_blank\">Asamblea Indignad@s El Ejido (26/9/11)</a></p>\n<p>&#8211; <a href=\"http://es.scribd.com/doc/65911649\" target=\"_blank\">Asamblea Indignad@s El Ejido (11/9/11)</a></p>\n<p>&#8211; <a href=\"http://es.scribd.com/doc/65911644\" target=\"_blank\">Asamblea Indignad@s El Ejido (5/9/11)</a></p>\n<p>&#8211; <a href=\"http://es.scribd.com/doc/65911643\" target=\"_blank\">Asamblea Indignad@s El Ejido (8/8/11)</a></p>\n<p>&#8211; <a href=\"http://es.scribd.com/doc/65911632\" target=\"_blank\">Asamblea Indignad@s El Ejido (4/7/11)</a></p>\n<p>&#8211; <a href=\"http://es.scribd.com/doc/59460268/Asamblea-Indignad-s-El-Ejido-28-6-11\">Asamblea Indignad@s El Ejido (28/6/11)</a></p>\n<p>&#8211; <a href=\"http://es.scribd.com/doc/59460224/Asamblea-Indigna-s-El-Ejido-21-6-2011\">Asamblea Indigna@s El Ejido (21/6/2011)</a></p>\n<p>&#8211; <a href=\"http://es.scribd.com/doc/59460226/Asamblea-Indignados-El-Ejido-1-6-2011\">Asamblea Indignad@s El Ejido (1/6/2011)</a></p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>La m\u00e1s reciente se muestra en primer lugar: &#8211; Asamblea Indignad@s El Ejido (3/10/11) &#8211; Asamblea Indignad@s El Ejido (26/9/11) &#8211; Asamblea Indignad@s El Ejido (11/9/11) &#8211; Asamblea Indignad@s El Ejido (5/9/11) &#8211; Asamblea Indignad@s El Ejido (8/8/11) &#8211; Asamblea &hellip; <a href=\"https://elejido.tomalosbarrios.net/actas/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+            "protected": false
+        },
+        "author": 721,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "open",
+        "ping_status": "open",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/pages/100"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/users/721"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/comments?post=100"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 4,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/pages/100/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 131,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/pages/100/revisions/131"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/media?parent=100"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 69,
+        "date": "2011-07-04T12:47:33",
+        "date_gmt": "2011-07-04T12:47:33",
+        "guid": {
+            "rendered": "http://elejido.tomalosbarrios.net/?page_id=69"
+        },
+        "modified": "2011-07-04T13:42:32",
+        "modified_gmt": "2011-07-04T13:42:32",
+        "slug": "corrupcion",
+        "status": "publish",
+        "type": "page",
+        "link": "https://elejido.tomalosbarrios.net/corrupcion/",
+        "title": {
+            "rendered": "Mapa de corrupci\u00f3n"
+        },
+        "content": {
+            "rendered": "<p>[cetsEmbedGmap src=http://maps.google.es/maps/ms?msid=208661973302683578218.00049ca0e3e7654bb763a&amp;msa=0&amp;ll=39.926588,-2.109375&amp;spn=8.270225,21.643066 width=650 height=425 marginwidth=0 marginheight=0 frameborder=0 scrolling=no]</p>\n<div></div>\n<div>NOTA: Enlaza a las noticias publicadas en prensa en las que se <a href=\"http://buscon.rae.es/draeI/SrvltConsulta?TIPO_BUS=3&amp;LEMA=imputar\">imputa</a> a determinados pol\u00edticos. Es un paso, no el definitivo, <strong>no son sentencias judiciales</strong>.</div>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>[cetsEmbedGmap src=http://maps.google.es/maps/ms?msid=208661973302683578218.00049ca0e3e7654bb763a&amp;msa=0&amp;ll=39.926588,-2.109375&amp;spn=8.270225,21.643066 width=650 height=425 marginwidth=0 marginheight=0 frameborder=0 scrolling=no] NOTA: Enlaza a las noticias publicadas en prensa en las que se imputa a determinados pol\u00edticos. Es un paso, no el definitivo, no son sentencias judiciales.</p>\n",
+            "protected": false
+        },
+        "author": 721,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "open",
+        "ping_status": "open",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/pages/69"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/users/721"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/comments?post=69"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 18,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/pages/69/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 96,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/pages/69/revisions/96"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/media?parent=69"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 6,
+        "date": "2011-07-01T21:09:10",
+        "date_gmt": "2011-07-01T21:09:10",
+        "guid": {
+            "rendered": "http://elejido.tomalosbarrios.net/?p=6"
+        },
+        "modified": "2011-07-07T16:22:09",
+        "modified_gmt": "2011-07-07T16:22:09",
+        "slug": "nonosrepresentan",
+        "status": "publish",
+        "type": "post",
+        "link": "https://elejido.tomalosbarrios.net/2011/07/01/nonosrepresentan/",
+        "title": {
+            "rendered": "Si los pol\u00edticos no te representan&#8230;"
+        },
+        "content": {
+            "rendered": "<p><a href=\"http://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido.jpg\"><img class=\"aligncenter size-medium wp-image-115\" src=\"http://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido-141x300.jpg\" alt=\"\" width=\"141\" height=\"300\" srcset=\"https://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido-141x300.jpg 141w, https://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido-482x1024.jpg 482w, https://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido.jpg 965w\" sizes=\"(max-width: 141px) 100vw, 141px\" /></a></p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 721,
+        "featured_media": 115,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": [],
+        "categories": [
+            4
+        ],
+        "tags": [
+            5,
+            6
+        ],
+        "jetpack_featured_media_url": "https://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido.jpg",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/6"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/users/721"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/comments?post=6"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 7,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/6/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 117,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/6/revisions/117"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/media/115"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/media?parent=6"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/categories?post=6"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/tags?post=6"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 9,
+        "date": "2011-07-01T21:08:06",
+        "date_gmt": "2011-07-01T21:08:06",
+        "guid": {
+            "rendered": "http://elejido.tomalosbarrios.net/files/2011/07/participa.jpg"
+        },
+        "modified": "2011-07-01T21:08:06",
+        "modified_gmt": "2011-07-01T21:08:06",
+        "slug": "participa",
+        "status": "inherit",
+        "type": "attachment",
+        "link": "https://elejido.tomalosbarrios.net/2011/07/01/nonosrepresentan/participa/",
+        "title": {
+            "rendered": "participa_asamblea_elejido"
+        },
+        "author": 721,
+        "comment_status": "open",
+        "ping_status": "open",
+        "template": "",
+        "meta": [],
+        "description": {
+            "rendered": "<p class=\"attachment\"><a href='https://elejido.tomalosbarrios.net/files/2011/07/participa.jpg'><img width=\"141\" height=\"300\" src=\"https://elejido.tomalosbarrios.net/files/2011/07/participa-141x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://elejido.tomalosbarrios.net/files/2011/07/participa-141x300.jpg 141w, https://elejido.tomalosbarrios.net/files/2011/07/participa-482x1024.jpg 482w, https://elejido.tomalosbarrios.net/files/2011/07/participa.jpg 965w\" sizes=\"(max-width: 141px) 100vw, 141px\" /></a></p>\n<p>Indignad@s El Ejido</p>\n"
+        },
+        "caption": {
+            "rendered": "<p>Indignad@s El Ejido</p>\n"
+        },
+        "alt_text": "",
+        "media_type": "image",
+        "mime_type": "image/jpeg",
+        "media_details": {
+            "width": "965",
+            "height": "2048",
+            "hwstring_small": "height='96' width='45'",
+            "file": "2011/07/participa.jpg",
+            "sizes": {
+                "thumbnail": {
+                    "file": "participa-150x150.jpg",
+                    "width": "150",
+                    "height": "150",
+                    "source_url": "https://elejido.tomalosbarrios.net/files/2011/07/participa-150x150.jpg"
+                },
+                "medium": {
+                    "file": "participa-141x300.jpg",
+                    "width": "141",
+                    "height": "300",
+                    "source_url": "https://elejido.tomalosbarrios.net/files/2011/07/participa-141x300.jpg"
+                },
+                "large": {
+                    "file": "participa-482x1024.jpg",
+                    "width": "482",
+                    "height": "1024",
+                    "source_url": "https://elejido.tomalosbarrios.net/files/2011/07/participa-482x1024.jpg"
+                },
+                "post-thumbnail": {
+                    "file": "participa-940x198.jpg",
+                    "width": "940",
+                    "height": "198",
+                    "source_url": "https://elejido.tomalosbarrios.net/files/2011/07/participa-940x198.jpg"
+                },
+                "full": {
+                    "file": "participa.jpg",
+                    "width": 965,
+                    "height": 2048,
+                    "mime_type": "image/jpeg",
+                    "source_url": "https://elejido.tomalosbarrios.net/files/2011/07/participa.jpg"
+                }
+            },
+            "image_meta": {
+                "aperture": "0",
+                "credit": "",
+                "camera": "",
+                "caption": "",
+                "created_timestamp": "0",
+                "copyright": "",
+                "focal_length": "0",
+                "iso": "0",
+                "shutter_speed": "0",
+                "title": ""
+            }
+        },
+        "post": 6,
+        "source_url": "https://elejido.tomalosbarrios.net/files/2011/07/participa.jpg",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/media/9"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/media"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/types/attachment"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/users/721"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/comments?post=9"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "date": "2011-06-29T04:34:36",
+        "date_gmt": "2011-06-29T04:34:36",
+        "guid": {
+            "rendered": "http://elejido.tomalosbarrios.net/files/2011/06/cropped-indignadoselejido.jpg"
+        },
+        "modified": "2011-06-29T04:34:36",
+        "modified_gmt": "2011-06-29T04:34:36",
+        "slug": "cropped-indignadoselejido-jpg",
+        "status": "inherit",
+        "type": "attachment",
+        "link": "https://elejido.tomalosbarrios.net/cropped-indignadoselejido-jpg/",
+        "title": {
+            "rendered": "cropped-indignadoselejido.jpg"
+        },
+        "author": 721,
+        "comment_status": "closed",
+        "ping_status": "open",
+        "template": "",
+        "meta": [],
+        "description": {
+            "rendered": "<p class=\"attachment\"><a href='https://elejido.tomalosbarrios.net/files/2011/06/cropped-indignadoselejido.jpg'><img width=\"300\" height=\"63\" src=\"https://elejido.tomalosbarrios.net/files/2011/06/cropped-indignadoselejido-300x63.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://elejido.tomalosbarrios.net/files/2011/06/cropped-indignadoselejido-300x63.jpg 300w, https://elejido.tomalosbarrios.net/files/2011/06/cropped-indignadoselejido.jpg 940w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>http://elejido.tomalosbarrios.net/files/2011/06/cropped-indignadoselejido.jpg</p>\n"
+        },
+        "caption": {
+            "rendered": "<p>http://elejido.tomalosbarrios.net/files/2011/06/cropped-indignadoselejido.jpg</p>\n"
+        },
+        "alt_text": "",
+        "media_type": "image",
+        "mime_type": "image/jpeg",
+        "media_details": {
+            "width": "940",
+            "height": "198",
+            "hwstring_small": "height='26' width='128'",
+            "file": "2011/06/cropped-indignadoselejido.jpg",
+            "sizes": {
+                "thumbnail": {
+                    "file": "cropped-indignadoselejido-150x150.jpg",
+                    "width": "150",
+                    "height": "150",
+                    "source_url": "https://elejido.tomalosbarrios.net/files/2011/06/cropped-indignadoselejido-150x150.jpg"
+                },
+                "medium": {
+                    "file": "cropped-indignadoselejido-300x63.jpg",
+                    "width": "300",
+                    "height": "63",
+                    "source_url": "https://elejido.tomalosbarrios.net/files/2011/06/cropped-indignadoselejido-300x63.jpg"
+                },
+                "full": {
+                    "file": "cropped-indignadoselejido.jpg",
+                    "width": 940,
+                    "height": 198,
+                    "mime_type": "image/jpeg",
+                    "source_url": "https://elejido.tomalosbarrios.net/files/2011/06/cropped-indignadoselejido.jpg"
+                }
+            },
+            "image_meta": {
+                "aperture": "0",
+                "credit": "",
+                "camera": "",
+                "caption": "",
+                "created_timestamp": "0",
+                "copyright": "",
+                "focal_length": "0",
+                "iso": "0",
+                "shutter_speed": "0",
+                "title": ""
+            }
+        },
+        "post": null,
+        "source_url": "https://elejido.tomalosbarrios.net/files/2011/06/cropped-indignadoselejido.jpg",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/media/3"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/media"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/types/attachment"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/users/721"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/comments?post=3"
+                }
+            ]
+        }
+    },
+    {
+        "id": 1,
+        "date": "2011-06-28T16:23:59",
+        "date_gmt": "2011-06-28T16:23:59",
+        "guid": {
+            "rendered": "http://elejido.tomalosbarrios.net/?p=1"
+        },
+        "modified": "2011-07-04T07:54:39",
+        "modified_gmt": "2011-07-04T07:54:39",
+        "slug": "elejidotomalosbarrios",
+        "status": "publish",
+        "type": "post",
+        "link": "https://elejido.tomalosbarrios.net/2011/06/28/elejidotomalosbarrios/",
+        "title": {
+            "rendered": "Presentaci\u00f3n"
+        },
+        "content": {
+            "rendered": "<p>Uno de los acuerdos alcanzados durante la \u00faltima asamblea del grupo Indignad@s El Ejido fue la creaci\u00f3n de este blog. Y aqu\u00ed estamos.</p>\n<p>Somos un grupo de ciudadanos heterog\u00e9neo que se re\u00fane los lunes y mi\u00e9rcoles a partir de las 9:30 en el Pabell\u00f3n municipal de El Ejido (Almer\u00eda). Empezamos a reunirnos hace poco m\u00e1s de un mes y ya hemos organizado una degustaci\u00f3n de pepinos en la plaza mayor para protestar por el abuso de las autoridades alemanas, participamos en la organizaci\u00f3n de una charla sobre el Pacto del Euro y secundamos las manifestaciones del 19 de junio.</p>\n<p>Si quieres participar, est\u00e1s invitad@</p>\n<p>Contacto: indignadoselejido@gmail.com</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Uno de los acuerdos alcanzados durante la \u00faltima asamblea del grupo Indignad@s El Ejido fue la creaci\u00f3n de este blog. Y aqu\u00ed estamos. Somos un grupo de ciudadanos heterog\u00e9neo que se re\u00fane los lunes y mi\u00e9rcoles a partir de las &hellip; <a href=\"https://elejido.tomalosbarrios.net/2011/06/28/elejidotomalosbarrios/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+            "protected": false
+        },
+        "author": 721,
+        "featured_media": 0,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": [],
+        "categories": [
+            3
+        ],
+        "tags": [],
+        "jetpack_featured_media_url": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/1"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/users/721"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/comments?post=1"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 4,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/1/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 15,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/1/revisions/15"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/media?parent=1"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/categories?post=1"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/tags?post=1"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 22,
+        "date": "2011-06-03T08:12:06",
+        "date_gmt": "2011-06-03T08:12:06",
+        "guid": {
+            "rendered": "http://elejido.tomalosbarrios.net/?p=22"
+        },
+        "modified": "2011-07-04T12:32:56",
+        "modified_gmt": "2011-07-04T12:32:56",
+        "slug": "nota-de-prensa-enviada-con-motivo-de-la-degustacion-de-pepinos",
+        "status": "publish",
+        "type": "post",
+        "link": "https://elejido.tomalosbarrios.net/2011/06/03/nota-de-prensa-enviada-con-motivo-de-la-degustacion-de-pepinos/",
+        "title": {
+            "rendered": "Nota de prensa enviada con motivo de la DEGUSTACI\u00d3N DE PEPINOS"
+        },
+        "content": {
+            "rendered": "<p>La asamblea de ciudadanos de El Ejido &#171;INDIGNADOS EL EJIDO&#187; quiere invitarles a difundir, participar y recoger testimonio del pr\u00f3ximo acto que tiene previsto en la Plaza Mayor de El Ejido este s\u00e1bado 4 de Mayo de 2011 a partir de las 20.00h.</p>\n<p>Bajo el lema:</p>\n<p style=\"text-align: center\"><strong>CON LA AGRICULTURA ALMERIENSE</strong></p>\n<p>Los ejidenses tenemos motivos sobrados para estar indignados. Comparte tu indignaci\u00f3n con nosotros y participa.</p>\n<p>Invitaremos a una DEGUSTACI\u00d3N DE PEPINOS con el objeto de expresar nuestra indignaci\u00f3n ante la irresponsabilidad de <a href=\"http://www.lavozlibre.com/noticias/ampliar/268262/cornelia-prufer-storcks-la-novata-culpable-de-la-crisis-de-los-pepinos\">Cornelia Pr\u00fcfer-Storcks</a>, Consejera de Salud en la ciudad-estado de Hamburgo y la lentitud de la reacci\u00f3n de nuestros pol\u00edticos. Esta lentitud contrasta frente a la rapidez con que las consecuencias de tan grav\u00edsimo error se han dado sobre nuestro campo ejidense, almeriense, y, por ende, andaluz y espa\u00f1ol. En unos momentos tan dif\u00edciles como los que estamos viviendo, y en los que muchos y muchas confiaban en la agricultura para poder salir adelante, la actuaci\u00f3n irresponsable de la Sra. Pr\u00fcfer-Storcks y la deficiente capacidad de reacci\u00f3n a tiempo de nuestras autoridades, han provocado terribles p\u00e9rdidas econ\u00f3micas en el sector en general, pero, especialmente para cientos de familias de agricultores/as de nuestro entorno m\u00e1s cercano, as\u00ed como p\u00e9rdidas en el empleo para jornaleros/as, el colectivo m\u00e1s vulnerable. Todos/as estamos sufriendo de forma injusta los errores de otras/os, de personas poderosas a las que les exigimos reparen el da\u00f1o causado: nos lo deben.</p>\n<p>Por eso, estamos indignados en el Ejido y les pedimos a ustedes que se hagan eco de nuestra actividad.</p>\n<p>Sin m\u00e1s, reciban un cordial saludo</p>\n<p>INDIGNADOS EL EJIDO</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>La asamblea de ciudadanos de El Ejido &#171;INDIGNADOS EL EJIDO&#187; quiere invitarles a difundir, participar y recoger testimonio del pr\u00f3ximo acto que tiene previsto en la Plaza Mayor de El Ejido este s\u00e1bado 4 de Mayo de 2011 a partir &hellip; <a href=\"https://elejido.tomalosbarrios.net/2011/06/03/nota-de-prensa-enviada-con-motivo-de-la-degustacion-de-pepinos/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+            "protected": false
+        },
+        "author": 721,
+        "featured_media": 0,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": [],
+        "categories": [
+            7
+        ],
+        "tags": [],
+        "jetpack_featured_media_url": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/22"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/users/721"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/comments?post=22"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 3,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/22/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 68,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/22/revisions/68"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/media?parent=22"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/categories?post=22"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/tags?post=22"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    }
+]
