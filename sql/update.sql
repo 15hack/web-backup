@@ -1,5 +1,5 @@
-UPDATE blogs SET _last_use=(
-  select max(date) from posts where blog=blogs.id
+UPDATE sites SET _last_use=(
+  select max(date) from posts where site=sites.id
 );
 DELETE from tags
-where (blog, post) not in (select blog, id from posts);
+where (site, post) not in (select site, id from posts);

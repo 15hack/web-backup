@@ -7,9 +7,9 @@ DROP TABLE IF EXISTS comments;
 DROP TABLE IF EXISTS posts;
 DROP TABLE IF EXISTS media;
 DROP TABLE IF EXISTS urls;
-DROP TABLE IF EXISTS blogs;
+DROP TABLE IF EXISTS sites;
 
-CREATE TABLE blogs (
+CREATE TABLE sites (
   _DB TEXT,
   ID INTEGER,
   url TEXT,
@@ -22,7 +22,7 @@ CREATE TABLE blogs (
 );
 
 CREATE TABLE posts (
-  blog INTEGER REFERENCES blogs(ID),
+  site INTEGER REFERENCES sites(ID),
   ID INTEGER,
   type TEXT,
   date TEXT,
@@ -35,11 +35,11 @@ CREATE TABLE posts (
   _WPJSON INTEGER,
   _content TEXT,
   _parent INTEGER,
-  PRIMARY KEY (blog, id)
+  PRIMARY KEY (site, id)
 );
 
 CREATE TABLE media (
-  blog INTEGER REFERENCES blogs(ID),
+  site INTEGER REFERENCES sites(ID),
   ID INTEGER,
   type TEXT,
   date TEXT,
@@ -50,20 +50,20 @@ CREATE TABLE media (
   _modified TEXT,
   _WPJSON INTEGER,
   _parent INTEGER,
-  PRIMARY KEY (blog, id)
+  PRIMARY KEY (site, id)
 );
 
 CREATE TABLE tags (
-  blog INTEGER REFERENCES posts(blog),
+  site INTEGER REFERENCES posts(site),
   post INTEGER REFERENCES posts(ID),
   tag TEXT,
   type INTEGER,
-  PRIMARY KEY (blog, post, tag, type)
+  PRIMARY KEY (site, post, tag, type)
 );
 
 CREATE TABLE comments (
   ID INTEGER,
-  blog INTEGER REFERENCES blogs(id),
+  site INTEGER REFERENCES sites(id),
   object INTEGER,
   content TEXT,
   date TEXT,
@@ -72,13 +72,13 @@ CREATE TABLE comments (
   _author_url TEXT,
   _author_email TEXT,
   _type TEXT,
-  PRIMARY KEY (ID, blog, object)
+  PRIMARY KEY (ID, site, object)
 );
 
 CREATE TABLE ref (
-  blog INTEGER REFERENCES blogs(ID),
+  site INTEGER REFERENCES sites(ID),
   object INTEGER,
-  in_blog INTEGER REFERENCES blogs(ID),
+  in_blog INTEGER REFERENCES sites(ID),
   in_object INTEGER
 );
 
@@ -94,7 +94,7 @@ SELECT
   'https://' || b.url || '?rest_route=/wp/v2/' || i.type || 's/' || i.ID URL_WPJSON,
   i.*
 FROM
- blogs b join posts i on b.ID = i.blog
+ sites b join posts i on b.ID = i.site
 ;
 
 CREATE VIEW _media
@@ -109,11 +109,11 @@ SELECT
   'https://' || b.url || '?rest_route=/wp/v2/media/' || i.ID URL_WPJSON,
  i.*
 FROM
- blogs b join media i on b.ID = i.blog
+ sites b join media i on b.ID = i.site
 ;
 CREATE VIEW objects
 AS
-SELECT ID, blog,
+SELECT ID, site,
   type,
   date,
   author,
@@ -121,7 +121,7 @@ SELECT ID, blog,
 FROM
   posts
 UNION
-SELECT ID, blog,
+SELECT ID, site,
   'media' type,
   date,
   author,
@@ -129,7 +129,7 @@ SELECT ID, blog,
 FROM
   media
 UNION
-SELECT ID, blog,
+SELECT ID, site,
   'pmedia' type,
   date,
   author,

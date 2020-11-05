@@ -141,7 +141,6 @@ class DB:
             sql = "select distinct * from ("
             for v in sorted(vals):
                 sql = sql+"(\n"+i_sql.format(*v)+"\n) UNION "
-
             sql = sql[:-7]
             sql = sql + "\n) T"
         else:

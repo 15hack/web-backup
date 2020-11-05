@@ -1,6 +1,6 @@
 Datos desde el 2011-05-17 al 2020-10-23:
 
-* 168 registros en `blogs`
+* 168 registros en `sites`
 * 42649 registros en `posts`
 * 23294 registros en `media`
 * 43312 registros en `comments`
@@ -8,7 +8,7 @@ Datos desde el 2011-05-17 al 2020-10-23:
 
 Lo que supone 65838 urls.
 
-| BLOG | post/page | Comentarios | Último uso | 1º uso | Último comentario |
+| SITE | post/page | Comentarios | Último uso | 1º uso | Último comentario |
 |:-----|----------:|------------:|-----------:|-------:|------------------:|
 |[takethesquare.net](https://takethesquare.net)|[925](https://takethesquare.net/wp-admin/edit.php?orderby=date&order=desc)|[2](https://takethesquare.net/wp-admin/edit-comments.php?comment_type=comment&orderby=comment_date&order=desc)|2020-02-01|2011-07-06|2011-10-12|
 |[15oct.takethesquare.net](https://15oct.takethesquare.net)|[64](https://15oct.takethesquare.net/wp-admin/edit.php?orderby=date&order=desc)|[600](https://15oct.takethesquare.net/wp-admin/edit-comments.php?comment_type=comment&orderby=comment_date&order=desc)|2012-05-06|2011-08-15|2011-10-12|
