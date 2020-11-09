@@ -44,9 +44,9 @@ def build_result(c, to_tuples=False, to_bunch=False):
     results = c.fetchall()
     if len(results) == 0:
         return results
-    if isinstance(results[0], tuple) and len(results[0]) == 1:
-        return [a[0] for a in results]
     if to_tuples:
+        if isinstance(results[0], tuple) and len(results[0]) == 1:
+            return [a[0] for a in results]
         return results
     cols = [(i, col[0]) for i, col in enumerate(c.description)]
     n_results = []
@@ -118,34 +118,32 @@ class DB:
                 return False
         return True
 
-    def execute(self, file):
+    def execute(self, file, to_tuples=False):
         cursor = self.db.cursor()
         _sql = None
         with open(file, 'r') as myfile:
             _sql = myfile.read()
         cursor.execute(_sql)
-        result = cursor.fetchall()
+        results = build_result(cursor, to_tuples=to_tuples)
         cursor.close()
-        return flat(result)
+        return results
 
     def multi_execute(self, vals, i_sql, where=None, order=None, debug=None, to_tuples=False):
         cursor = self.db.cursor()
         i_sql = i_sql.strip()
 
         if isinstance(vals, dict):
-            vals = [flat(k, v) for k, v in vals.items()]
-        if isinstance(vals[0], str):
-            vals = [[v] for v in vals]
+            vals = list(vals.values())
 
         if len(vals) > 1 or where or order:
             sql = "select distinct * from ("
-            for v in sorted(vals):
-                sql = sql+"(\n"+i_sql.format(*v)+"\n) UNION "
+            for v in vals:
+                sql = sql+"(\n"+i_sql.format(**v)+"\n) UNION "
             sql = sql[:-7]
             sql = sql + "\n) T"
         else:
             sql = re_select.sub("select distinct", i_sql)
-            sql = sql.format(*vals[0])
+            sql = sql.format(**vals[0])
         if where:
             sql = sql + " where "+where
         if order:

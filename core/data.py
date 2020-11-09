@@ -30,9 +30,21 @@ def get_arr_json(file):
     return []
 
 
-def tuple_dom(dom):
-    dom = tuple(reversed(dom.split(".")))
-    return dom
+def tuple_url(url):
+    prc = None
+    slp = url.split("://", 1)
+    if len(slp)==2 and slp[0].lower() in ("http", "https"):
+        prc = slp[0].lower()
+        url = slp[1]
+    slp = url.split("/", 1)
+    dom = url[0]
+    url = url[1] if len(url)>1 else None
+    r = [
+        tuple(reversed(dom.split("."))),
+        url,
+        prc
+    ]
+    return tuple(r)
 
 
 def reader(name):
@@ -59,7 +71,7 @@ def get_dict(name=txt_dict):
 
 def set_dict(links_dict, name=txt_dict):
     with open(name, "w") as f:
-        for site, urls in sorted(links_dict.items(), key=lambda x: tuple_dom(x[0])):
+        for site, urls in sorted(links_dict.items(), key=lambda x: tuple_url(x[0])):
             if len(urls) == 0:
                 continue
             f.write(site+"\n")

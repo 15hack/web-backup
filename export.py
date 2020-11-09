@@ -6,7 +6,7 @@ from bunch import Bunch
 
 from core.connect import DBs
 from core.sitedb import SiteDBLite
-from core.data import FindUrl, tuple_dom, loadwpjson
+from core.data import FindUrl, tuple_url, loadwpjson
 from core.scrapdb import ScrapDB
 
 abspath = os.path.abspath(__file__)
@@ -22,7 +22,7 @@ print("Creando sqlite 0%", end="\r")
 db = SiteDBLite("sites.db", total=total)
 db.execute('sql/schema.sql')
 
-for blog, meta in sorted(scr.wp.sites.items(), key=lambda x: tuple_dom(x[0])):
+for blog, meta in sorted(scr.wp.sites.items(), key=lambda x: tuple_url(x[0])):
     db.insert("sites", **meta)
 
 for data in scr.wp.posts:
@@ -38,6 +38,9 @@ for data in scr.wp.media:
     if data["url"] in (None, "#") and data["page"] in (None, "#") and data["status"]!="publish" and not(data["_WPJSON"]):
         continue
     db.insert("media", **data)
+
+for blog, meta in sorted(scr.phpbb.sites.items(), key=lambda x: tuple_url(x[0])):
+    db.insert("sites", **meta)
 
 fnd.close()
 db.execute("sql/update.sql")
