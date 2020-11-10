@@ -4,6 +4,7 @@ import sqlite3
 from socket import gaierror, gethostbyname
 from subprocess import DEVNULL, STDOUT, check_call
 from urllib.parse import urlparse
+from functools import lru_cache
 
 import MySQLdb
 import yaml
@@ -40,7 +41,7 @@ def str_list(s):
     return s
 
 
-def build_result(c, to_tuples=False, to_bunch=False):
+def build_result(c, to_tuples=False):
     results = c.fetchall()
     if len(results) == 0:
         return results
@@ -48,15 +49,22 @@ def build_result(c, to_tuples=False, to_bunch=False):
         if isinstance(results[0], tuple) and len(results[0]) == 1:
             return [a[0] for a in results]
         return results
-    cols = [(i, col[0]) for i, col in enumerate(c.description)]
+    cols = tuple(col[0] for col in c.description)
     n_results = []
-    for r in results:
-        d = {}
-        for i, col in cols:
-            d[col] = r[i]
-        if to_bunch:
-            d = Bunch(**d)
-        n_results.append(d)
+    if cols == (cols[0], 'name', 'value'):
+        n_results = {}
+        for main_key, key, value in results:
+            if main_key not in n_results:
+                n_results[main_key]={cols[0]:main_key}
+            n_results[main_key][key]=value
+        n_results = list(n_results.values())
+    else:
+        for r in results:
+            d = {}
+            for i, col in enumerate(cols):
+                d[col] = r[i]
+            n_results.append(d)
+
     return n_results
 
 
@@ -101,6 +109,20 @@ class DB:
     def close(self):
         self.db.close()
         self.server.stop()
+
+    @lru_cache(maxsize=None)
+    def get_cols(self, sql):
+        sql = sql.strip()
+        words = sql.split()
+        if len(sql.split())==1:
+            sql = "select * from "+sql
+        if "limit" not in words:
+            sql = sql+" limit 0"
+        c = self.db.cursor()
+        c.execute(sql)
+        cols = tuple(col[0] for col in c.description)
+        c.close()
+        return cols
 
     def isOk(self, url):
         for u in self.url_ban:
@@ -154,12 +176,10 @@ class DB:
                 f.write(sql)
 
         cursor.execute(sql)
-        #results = cursor.fetchall()
         results = build_result(cursor, to_tuples=to_tuples)
         cursor.close()
 
         return results
-        # return flat(results)
 
     def read_debug(self, debug):
         file = "debug/"+self.host+"_"+debug+".sql"

@@ -222,9 +222,6 @@ class SiteDBLite(DBLite):
                     sql = self.get_sql_table(t)
                     sql = re_rem.sub("", sql)
                     write(f, sql)
-                    ok_select = list(ok)
-                    if t == "posts" and "content" in ok_select:
-                        ok_select[ok_select.index("content")] = "_content"
                     end = None
                     if "url" in ok_select:
                         end = "\nwhere url is not null;\n\n"
@@ -235,7 +232,7 @@ class SiteDBLite(DBLite):
                             {2}
                         FROM
                             temp_{0}
-                    ''', t, ", ".join(ok), ", ".join(ok_select), end=end)
+                    ''', t, ", ".join(ok), ", ".join(ok), end=end)
                     write(f, "DROP TABLE temp_{0}", t)
             write(f, "COMMIT", end=";")
 

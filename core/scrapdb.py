@@ -6,6 +6,7 @@ from bunch import Bunch
 from .data import FindUrl, loadwpjson
 from functools import lru_cache
 
+
 re_tg1 = re.compile(r'^(\s*"[^"]+?"\s*)+$')
 re_tg2 = re.compile(r'"[^"]+?"')
 re_rem = re.compile(r"^[^/]+")
@@ -39,6 +40,7 @@ class ScrapDB:
         for db in self.dbs:
             print(title(db.host))
             db.connect()
+            # https://codex.wordpress.org/Option_Reference
 
             results = db.execute('sql/search/wp.sql')
             print("%s wordpress encontrados" % len(results))
@@ -72,18 +74,16 @@ class ScrapDB:
                 r["url"] = site
                 r["_DB"] = r["prefix2"]
                 sites[site] = r
-            # https://codex.wordpress.org/Option_Reference
+
             results = db.multi_execute(sites, '''
                 select
                     '{siteurl}' siteurl,
                     case
                         when option_name = 'fileupload_url' then 'files'
                         when option_name = 'permalink_structure' then 'permalink'
-                        when option_name = 'permalink_structure' then 'permalink'
                         else option_name
-                    end name
-                    ,
-                    option_value
+                    end name,
+                    option_value value
                 from
                     {prefix2}options
                 where
@@ -132,10 +132,9 @@ class ScrapDB:
                     t1.post_date date,
                     t1.post_modified modified,
                     if(t1.post_parent=0, null, t1.post_parent) _parent,
-                    TRIM(t1.post_content) content,
+                    TRIM(t1.post_content) _content,
                     TRIM(t1.post_title) title,
-                    TRIM(t2.display_name) author,
-                    TRIM(t1.post_name) name
+                    TRIM(t2.display_name) author
         		from
                     {prefix2}posts t1
                     left join {prefix1}users t2 on t1.post_author = t2.ID
@@ -262,22 +261,7 @@ class ScrapDB:
             wp.sites = {**wp.sites, **sites}
             print("")
 
-        totales = {
-            "posts_pages": len(wp.posts),
-            "comentarios": len(wp.comments),
-            "tags_categories": len(wp.tags),
-            "recursos": len(wp.media)
-        }
-
-        s_total = max(len(str(t)) for t in totales.values())
-        s_total = "%"+str(s_total)+"s "
-
-        print("%s wordpress serán guardados:" % len(wp.sites))
-        for k, v in totales.items():
-            k = k.replace("_", "/")
-            s = s_total+k
-            print(s % v)
-        print("")
+        self.print_totales("wordpress", wp)
 
         objects = wp.posts + wp.media
         print("Recuperando información de api wp-json (si existe) ...", end="\r")
@@ -293,7 +277,7 @@ class ScrapDB:
             site = wp.sites[data["site"]]
             wp_data = site["wpjson"].get(data["ID"], {})
             data["_WPJSON"] = bool(wp_data)
-            data["_content"] = wp_data.get("html")
+            data["content"] = wp_data.get("html")
             data["url"] = wp_data.get("link")
             if data["url"] in (None, "#"):
                 data["url"] = self.fnd.get(site, data)
@@ -316,6 +300,20 @@ class ScrapDB:
 
         return wp
 
+    def print_totales(self, label, obj):
+        totales = {
+            k:len(v) for k, v in dict(obj).items() if k!="sites"
+        }
+
+        s_total = max(len(str(t)) for t in totales.values())
+        s_total = "%"+str(s_total)+"s "
+
+        print("%s %s serán guardados:" % (len(obj.sites), label))
+        for k, v in totales.items():
+            k = k.replace("_", "/")
+            s = s_total+k
+            print(s % v)
+        print("")
 
     @property
     @lru_cache(maxsize=None)
@@ -330,6 +328,7 @@ class ScrapDB:
         for db in self.dbs:
             print(title(db.host))
             db.connect()
+            # https://wiki.phpbb.com/Tables
 
             results = db.execute('sql/search/phpbb.sql')
             print("%s phpbb encontrados" % len(results))
@@ -342,29 +341,68 @@ class ScrapDB:
                 from
                     {prefix}config
                 where
-                    config_name in ('server_name', 'script_path', 'server_protocol')
-        	''', debug="phpbb-sites", to_tuples=True)
+                    config_name in (
+                        'server_name',
+                        'script_path',
+                        -- 'server_protocol',
+                        'posts_per_page',
+                        'upload_path'
+                    )
+        	''', debug="phpbb-sites")
 
-            objs={}
-            for prefix, name, value in results:
-                if prefix not in objs:
-                    objs[prefix]={}
-                objs[prefix][name] = value
-            sites = {}
-            for k, o in objs.items():
+            sites={}
+            for o in results:
                 site = o["server_name"] + o["script_path"]
                 site = site.rstrip("/")
-                sites[site]={
-                    "siteurl":site,
-                    "url":site,
-                    "_DB": k
-                }
+                del o["server_name"]
+                del o["script_path"]
+                o["posts_per_page"] = int(o["posts_per_page"])
+                o["siteurl"] = site
+                o["url"] = site
+                o["_DB"] = o["prefix"]
+                posts_cols = db.get_cols(o["_DB"]+"posts")
+                for c in ("post_visibility", "post_approved"):
+                    if c in posts_cols:
+                        o["post_visibility"]=c
+                        break
+                sites[site]=o
+
+            results = db.multi_execute(sites, '''
+        		select
+                    '{siteurl}' site,
+                    t1.post_id ID,
+                    CASE
+                        when t1.topic_id = t2.topic_first_post_id then 'topic'
+                        else 'post'
+                    END type,
+                    t1.post_time date,
+                    t1.post_edit_time modified,
+                    -- if(t1.post_parent=0, null, t1.post_parent) _parent,
+                    TRIM(t1.post_text) content,
+                    TRIM(t1.post_subject) title,
+                    TRIM(t1.post_username) author
+        		from
+                    {prefix}posts t1
+                    left join {prefix}topics t2 on t1.topic_id = t2.topic_id
+                    left join {prefix}forums t3 on t1.forum_id = t3.forum_id
+        		where
+                    t1.{post_visibility} = 1
+        	''', debug="phpbb-posts")
+            for r in results:
+                if r["type"]=="topic":
+                    phpbb.posts.append(results)
+                else:
+                    phpbb.comments.append(results)
 
             db.close()
             phpbb.sites = {**phpbb.sites, **sites}
+            print("")
+
+        self.print_totales("phpbb", phpbb)
         return phpbb
 
 if __name__ == "__main__":
+    import json
     from .connect import DBs
     scr = ScrapDB(None, *DBs)
-    scr.phpbb
+    print(json.dumps(scr.phpbb.sites, indent=4))

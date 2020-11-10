@@ -28,7 +28,6 @@ CREATE TABLE posts (
   date TEXT,
   content TEXT,
   title TEXT,
-  name TEXT,
   author TEXT,
   url TEXT,
   _modified TEXT,

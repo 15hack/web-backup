@@ -22,7 +22,7 @@ print("Creando sqlite 0%", end="\r")
 db = SiteDBLite("sites.db", total=total)
 db.execute('sql/schema.sql')
 
-for blog, meta in sorted(scr.wp.sites.items(), key=lambda x: tuple_url(x[0])):
+for site, meta in sorted(scr.wp.sites.items(), key=lambda x: tuple_url(x[0])):
     db.insert("sites", **meta)
 
 for data in scr.wp.posts:
@@ -39,7 +39,7 @@ for data in scr.wp.media:
         continue
     db.insert("media", **data)
 
-for blog, meta in sorted(scr.phpbb.sites.items(), key=lambda x: tuple_url(x[0])):
+for site, meta in sorted(scr.phpbb.sites.items(), key=lambda x: tuple_url(x[0])):
     db.insert("sites", **meta)
 
 fnd.close()
