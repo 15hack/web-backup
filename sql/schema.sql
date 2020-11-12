@@ -18,6 +18,7 @@ CREATE TABLE sites (
   _last_use TEXT,
   _permalink TEXT,
   _files TEXT,
+  _page_size INTEGER,
   PRIMARY KEY (ID)
 );
 

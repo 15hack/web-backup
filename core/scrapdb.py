@@ -355,7 +355,13 @@ class ScrapDB:
             for o in results:
                 site = o["server_name"] + o["script_path"]
                 site = site.rstrip("/")
+                del o["server_name"]
+                del o["script_path"]
                 o["_DB"] = o["prefix"]
+                o["page_size"] = int(o["posts_per_page"])
+                o["siteurl"] = site
+                o["url"] = site
+                o["purl"]= o["server_protocol"] + site
                 if db.one("select count(*) from "+o["_DB"]+"posts") == 0:
                     print("%s (%s) sera descartado (0 posts)" % (o["prefix"], site))
                     continue
@@ -363,23 +369,27 @@ class ScrapDB:
                 if fake_id is None:
                     print("%s (%s) sera descartado (0 forums)" % (o["prefix"], site))
                     continue
+                o["post_visibility"] = db.find_col(o["_DB"]+"posts", "post_visibility", "post_approved")
+                o["topic_visibility"] = db.find_col(o["_DB"]+"topics", "topic_visibility", "topic_approved")
                 fake_id = min(-1, fake_id)
                 forums_ids=[]
-                url = o["server_protocol"] + site + "/viewforum.php?f="
-                for id in db.select("select forum_id from "+o["_DB"]+"forums"):
-                    r = requests.get(url+str(id), verify=False)
+                viewforum = o["server_protocol"] + site + "/viewforum.php?f="
+                sql='''
+                    select
+                        forum_id
+                    from
+                        {prefix}forums
+                    where
+                        (forum_password is null or trim(forum_password)='') and
+                        forum_id in (select forum_id from {prefix}posts where {post_visibility} = 1)
+                '''.format(**o)
+                for id in db.select(sql):
+                    r = requests.get(viewforum+str(id), verify=False)
                     if re.search(r'<a\s+href\s*=\s*"[^"]*/viewforum\.php\?f='+str(id)+r'["&]', r.text):
                         forums_ids.append(id)
                 if len(forums_ids)==0:
                     print("%s (%s) sera descartado (0 forums visibles)" % (o["prefix"], site))
                     continue
-                del o["server_name"]
-                del o["script_path"]
-                o["posts_per_page"] = int(o["posts_per_page"])
-                o["siteurl"] = site
-                o["url"] = site
-                o["post_visibility"] = db.find_col(o["_DB"]+"posts", "post_visibility", "post_approved")
-                o["topic_visibility"] = db.find_col(o["_DB"]+"topics", "topic_visibility", "topic_approved")
                 if len(forums_ids)==1:
                     forums_ids.append(fake_id)
                 o["forums_ids"]=tuple(sorted(forums_ids))
@@ -421,6 +431,22 @@ class ScrapDB:
                     phpbb.posts.append(results)
                 else:
                     phpbb.comments.append(results)
+
+            results = db.multi_execute(sites, '''
+        		select
+                    '{siteurl}' site,
+                    t1.attach_id ID,
+                    t1.mimetype type,
+                    from_unixtime(t1.filetime) date,
+                    t1.real_filename file,
+                    TRIM(t4.username) author,
+                    t1.post_msg_id _parent,
+                    concat('{purl}/download/file.php?id=', t1.attach_id) url
+        		from
+                    {prefix}attachments t1
+                    left join {prefix}users t4  on t1.poster_id = t4.user_id
+        	''', debug="phpbb-media")
+            phpbb.media.extend(results)
 
             db.close()
             phpbb.sites = {**phpbb.sites, **sites}
