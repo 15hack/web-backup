@@ -124,6 +124,12 @@ class DB:
         c.close()
         return cols
 
+    def find_col(self, sql, *args):
+        cols = self.get_cols(sql)
+        for c in args:
+            if c in cols:
+                return c
+
     def isOk(self, url):
         for u in self.url_ban:
             if u in url:
@@ -147,6 +153,22 @@ class DB:
             _sql = myfile.read()
         cursor.execute(_sql)
         results = build_result(cursor, to_tuples=to_tuples)
+        cursor.close()
+        return results
+
+    def one(self, sql):
+        cursor = self.db.cursor()
+        cursor.execute(sql)
+        results = build_result(cursor, to_tuples=True)
+        cursor.close()
+        if len(results)==0:
+            return None
+        return results[0]
+
+    def select(self, sql):
+        cursor = self.db.cursor()
+        cursor.execute(sql)
+        results = build_result(cursor, to_tuples=True)
         cursor.close()
         return results
 

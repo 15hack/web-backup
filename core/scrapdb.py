@@ -5,6 +5,7 @@ from bunch import Bunch
 
 from .data import FindUrl, loadwpjson
 from functools import lru_cache
+import requests
 
 
 re_tg1 = re.compile(r'^(\s*"[^"]+?"\s*)+$')
@@ -344,7 +345,7 @@ class ScrapDB:
                     config_name in (
                         'server_name',
                         'script_path',
-                        -- 'server_protocol',
+                        'server_protocol',
                         'posts_per_page',
                         'upload_path'
                     )
@@ -354,39 +355,66 @@ class ScrapDB:
             for o in results:
                 site = o["server_name"] + o["script_path"]
                 site = site.rstrip("/")
+                o["_DB"] = o["prefix"]
+                if db.one("select count(*) from "+o["_DB"]+"posts") == 0:
+                    print("%s (%s) sera descartado (0 posts)" % (o["prefix"], site))
+                    continue
+                fake_id = db.one("select min(forum_id)-1 from "+o["_DB"]+"forums")
+                if fake_id is None:
+                    print("%s (%s) sera descartado (0 forums)" % (o["prefix"], site))
+                    continue
+                fake_id = min(-1, fake_id)
+                forums_ids=[]
+                url = o["server_protocol"] + site + "/viewforum.php?f="
+                for id in db.select("select forum_id from "+o["_DB"]+"forums"):
+                    r = requests.get(url+str(id), verify=False)
+                    if re.search(r'<a\s+href\s*=\s*"[^"]*/viewforum\.php\?f='+str(id)+r'["&]', r.text):
+                        forums_ids.append(id)
+                if len(forums_ids)==0:
+                    print("%s (%s) sera descartado (0 forums visibles)" % (o["prefix"], site))
+                    continue
                 del o["server_name"]
                 del o["script_path"]
                 o["posts_per_page"] = int(o["posts_per_page"])
                 o["siteurl"] = site
                 o["url"] = site
-                o["_DB"] = o["prefix"]
-                posts_cols = db.get_cols(o["_DB"]+"posts")
-                for c in ("post_visibility", "post_approved"):
-                    if c in posts_cols:
-                        o["post_visibility"]=c
-                        break
+                o["post_visibility"] = db.find_col(o["_DB"]+"posts", "post_visibility", "post_approved")
+                o["topic_visibility"] = db.find_col(o["_DB"]+"topics", "topic_visibility", "topic_approved")
+                if len(forums_ids)==1:
+                    forums_ids.append(fake_id)
+                o["forums_ids"]=tuple(sorted(forums_ids))
                 sites[site]=o
+
+            if not sites:
+                db.close()
+                print("")
+                continue
 
             results = db.multi_execute(sites, '''
         		select
                     '{siteurl}' site,
                     t1.post_id ID,
                     CASE
-                        when t1.topic_id = t2.topic_first_post_id then 'topic'
+                        when t1.post_id = t2.topic_first_post_id then 'topic'
                         else 'post'
                     END type,
-                    t1.post_time date,
-                    t1.post_edit_time modified,
-                    -- if(t1.post_parent=0, null, t1.post_parent) _parent,
-                    TRIM(t1.post_text) content,
                     TRIM(t1.post_subject) title,
-                    TRIM(t1.post_username) author
+                    TRIM(t1.post_text) content,
+                    from_unixtime(t1.post_time) date,
+                    if(t1.post_edit_time=0, null, from_unixtime(t1.post_edit_time)) modified,
+                    if(t1.post_id = t2.topic_first_post_id, null, t2.topic_first_post_id) _parent,
+                    case
+                        when t4.username is not null and TRIM(username)!='' then TRIM(t4.username)
+                        else TRIM(t1.post_username)
+                    end author
         		from
                     {prefix}posts t1
                     left join {prefix}topics t2 on t1.topic_id = t2.topic_id
-                    left join {prefix}forums t3 on t1.forum_id = t3.forum_id
+                    left join {prefix}users t4  on t1.poster_id = t4.user_id
         		where
-                    t1.{post_visibility} = 1
+                    t1.{post_visibility} = 1 and
+                    t2.{topic_visibility} = 1 and
+                    t1.forum_id in {forums_ids}
         	''', debug="phpbb-posts")
             for r in results:
                 if r["type"]=="topic":
