@@ -2,7 +2,7 @@ La idea es crear una copia de seguridad de la información pública
 en los portales web. La misma que sacarías haciendo `scraping`, pero  aprovechando el tener acceso a la base de datos
 para que sea mucho más rápido y eficiente.
 
-Actualmente solo funciona para **wordpress** pero lo deseable es que
+Actualmente solo funciona para **wordpress** y **phpbb** pero lo deseable es que
 se extienda a todos los servicios posibles.
 
 En funcionamiento básico es el siguiente:

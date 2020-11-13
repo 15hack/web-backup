@@ -55,8 +55,10 @@ class CaseInsensitiveDict(dict):
         return dict.__getitem__(self, key.lower())
 
 class DBLite:
-    def __init__(self, file, readonly=False, schemaspy=None):
+    def __init__(self, file, readonly=False, overwrite=False):
         self.file = file
+        if overwrite and os.path.isfile(file):
+            os.remove(file)
         self.readonly = readonly
         if self.readonly:
             file = "file:"+self.file+"?mode=ro"
@@ -68,13 +70,6 @@ class DBLite:
         self.tables = None
         self.load_tables()
         self.inTransaction = False
-        self._schemaspy=Bunch(
-            driver="https://github.com/xerial/sqlite-jdbc/releases/download/3.32.3.2/sqlite-jdbc-3.32.3.2.jar",
-            jar="https://github.com/schemaspy/schemaspy/releases/download/v6.1.0/schemaspy-6.1.0.jar",
-            home=schemaspy
-        )
-        if self._schemaspy.home is None and os.path.isdir("schemaspy"):
-            self._schemaspy.home = "schemaspy"
 
     def openTransaction(self):
         if self.inTransaction:

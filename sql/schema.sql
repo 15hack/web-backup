@@ -1,28 +1,18 @@
-DROP VIEW IF EXISTS _posts;
-DROP VIEW IF EXISTS _media;
-DROP VIEW IF EXISTS objects;
-DROP TABLE IF EXISTS ref;
-DROP TABLE IF EXISTS tags;
-DROP TABLE IF EXISTS comments;
-DROP TABLE IF EXISTS posts;
-DROP TABLE IF EXISTS media;
-DROP TABLE IF EXISTS urls;
-DROP TABLE IF EXISTS sites;
-
 CREATE TABLE sites (
   _DB TEXT,
   ID INTEGER,
   url TEXT,
+  type TEXT,
+  page_size INTEGER,
   _unapproved INTEGER,
   _spam INTEGER,
   _last_use TEXT,
   _permalink TEXT,
   _files TEXT,
-  _page_size INTEGER,
   PRIMARY KEY (ID)
 );
 
-CREATE TABLE posts (
+CREATE TABLE wp_posts (
   site INTEGER REFERENCES sites(ID),
   ID INTEGER,
   type TEXT,
@@ -38,7 +28,7 @@ CREATE TABLE posts (
   PRIMARY KEY (site, id)
 );
 
-CREATE TABLE media (
+CREATE TABLE wp_media (
   site INTEGER REFERENCES sites(ID),
   ID INTEGER,
   type TEXT,
@@ -53,7 +43,7 @@ CREATE TABLE media (
   PRIMARY KEY (site, id)
 );
 
-CREATE TABLE tags (
+CREATE TABLE wp_tags (
   site INTEGER REFERENCES posts(site),
   post INTEGER REFERENCES posts(ID),
   tag TEXT,
@@ -61,7 +51,7 @@ CREATE TABLE tags (
   PRIMARY KEY (site, post, tag, type)
 );
 
-CREATE TABLE comments (
+CREATE TABLE wp_comments (
   ID INTEGER,
   site INTEGER REFERENCES sites(id),
   object INTEGER,
@@ -75,14 +65,44 @@ CREATE TABLE comments (
   PRIMARY KEY (ID, site, object)
 );
 
-CREATE TABLE ref (
+CREATE TABLE phpbb_topics (
   site INTEGER REFERENCES sites(ID),
-  object INTEGER,
-  in_blog INTEGER REFERENCES sites(ID),
-  in_object INTEGER
+  ID INTEGER,
+  date TEXT,
+  title TEXT,
+  author TEXT,
+  url TEXT,
+  _parent INTEGER,
+  PRIMARY KEY (site, id)
 );
 
-CREATE VIEW _posts
+CREATE TABLE phpbb_posts (
+  site INTEGER REFERENCES sites(ID),
+  ID INTEGER,
+  topic INTEGER REFERENCES phpbb_topics(ID),
+  date TEXT,
+  content TEXT,
+  title TEXT,
+  author TEXT,
+  _modified TEXT,
+  PRIMARY KEY (site, id, topic)
+);
+
+CREATE TABLE phpbb_media (
+  site INTEGER REFERENCES sites(ID),
+  ID INTEGER,
+  post INTEGER REFERENCES phpbb_posts(ID),
+  topic INTEGER REFERENCES phpbb_topics(ID),
+  type TEXT,
+  date TEXT,
+  author TEXT,
+  file TEXT,
+  comment TEXT,
+  url TEXT,
+  PRIMARY KEY (site, id, topic, post)
+);
+
+CREATE VIEW _wp_posts
 AS
 SELECT
   CASE
@@ -94,10 +114,10 @@ SELECT
   'https://' || b.url || '?rest_route=/wp/v2/' || i.type || 's/' || i.ID URL_WPJSON,
   i.*
 FROM
- sites b join posts i on b.ID = i.site
+ sites b join wp_posts i on b.ID = i.site
 ;
 
-CREATE VIEW _media
+CREATE VIEW _wp_media
 AS
 SELECT
   CASE
@@ -109,33 +129,50 @@ SELECT
   'https://' || b.url || '?rest_route=/wp/v2/media/' || i.ID URL_WPJSON,
  i.*
 FROM
- sites b join media i on b.ID = i.site
+ sites b join wp_media i on b.ID = i.site
 ;
+
 CREATE VIEW objects
 AS
+SELECT ID, site,
+  ('wp_' || type) type,
+  date,
+  author,
+  url
+FROM
+  wp_posts
+UNION
+SELECT ID, site,
+  'wp_media' type,
+  date,
+  author,
+  url
+FROM
+  wp_media
+UNION
+SELECT ID, site,
+  'wp_pmedia' type,
+  date,
+  author,
+  page url
+FROM
+  wp_media
+where
+  page != url and page is not null
+UNION
+SELECT ID, site,
+  'phpbb_topic' type,
+  date,
+  author,
+  url
+FROM
+  phpbb_topics
+UNION
 SELECT ID, site,
   type,
   date,
   author,
   url
 FROM
-  posts
-UNION
-SELECT ID, site,
-  'media' type,
-  date,
-  author,
-  url
-FROM
-  media
-UNION
-SELECT ID, site,
-  'pmedia' type,
-  date,
-  author,
-  page url
-FROM
-  media
-where
-  page != url and page is not null
+  phpbb_media
 ;

@@ -3,7 +3,7 @@ import re
 
 from bunch import Bunch
 
-from .data import FindUrl, loadwpjson
+from .data import FindUrl, tuple_url, loadwpjson
 from functools import lru_cache
 import requests
 
@@ -27,6 +27,20 @@ class ScrapDB:
     def __init__(self, fnd, *args, **kargv):
         self.fnd = fnd
         self.dbs = args
+
+    @property
+    def sites(self):
+        for key, val in {"wp":self.wp, "phpbb":self.phpbb}.items():
+            for site, meta in sorted(val.sites.items(), key=lambda x: tuple_url(x[0])):
+                meta["type"]=key
+                yield meta
+
+    @property
+    def rows(self):
+        rows = 0
+        for d in (self.wp, self.phpbb):
+            rows = rows + sum((len(i) for i in dict(d).values()), 0)
+        return rows
 
     @property
     @lru_cache(maxsize=None)
@@ -82,6 +96,7 @@ class ScrapDB:
                     case
                         when option_name = 'fileupload_url' then 'files'
                         when option_name = 'permalink_structure' then 'permalink'
+                        when option_name = 'comments_per_page' then 'page_size'
                         else option_name
                     end name,
                     option_value value
@@ -94,7 +109,8 @@ class ScrapDB:
                         'rewrite_rules',
                         'upload_url_path',
                         'upload_path',
-                        'uploads_use_yearmonth_folders'
+                        'uploads_use_yearmonth_folders',
+                        'comments_per_page'
                     )
         	''', order="siteurl", debug="wp-metasite", to_tuples=True)
 
@@ -320,10 +336,9 @@ class ScrapDB:
     @lru_cache(maxsize=None)
     def phpbb(self):
         phpbb = Bunch(
+            topics=[],
             posts=[],
-            comments=[],
             media=[],
-            tags=[],
             sites={},
         )
         for db in self.dbs:
@@ -337,7 +352,11 @@ class ScrapDB:
             results = db.multi_execute(results, '''
                 select
                     '{prefix}' prefix,
-                    config_name name,
+                    case
+                        when config_name = 'upload_path' then 'files'
+                        when config_name = 'posts_per_page' then 'page_size'
+                        else config_name
+                    end name,
                     config_value value
                 from
                     {prefix}config
@@ -358,10 +377,17 @@ class ScrapDB:
                 del o["server_name"]
                 del o["script_path"]
                 o["_DB"] = o["prefix"]
-                o["page_size"] = int(o["posts_per_page"])
                 o["siteurl"] = site
                 o["url"] = site
                 o["purl"]= o["server_protocol"] + site
+                key = (o["prefix"], site)
+                if key not in db.forze_ok:
+                    if o["prefix"] in db.db_ban:
+                        print("%s (%s) sera descartado" % key)
+                        continue
+                    if not db.isOkDom(o["purl"]) or not db.isOk(site):
+                        print("%s (%s) sera descartado" % key)
+                        continue
                 if db.one("select count(*) from "+o["_DB"]+"posts") == 0:
                     print("%s (%s) sera descartado (0 posts)" % (o["prefix"], site))
                     continue
@@ -403,16 +429,30 @@ class ScrapDB:
             results = db.multi_execute(sites, '''
         		select
                     '{siteurl}' site,
+                    t2.topic_id ID,
+                    TRIM(t2.topic_title) title,
+                    from_unixtime(t2.topic_time) date,
+                    TRIM(t4.username) author,
+                    concat('{purl}/viewtopic.php?f=', t2.forum_id, '&t=', t2.topic_id) url,
+                    t2.forum_id parent
+        		from
+                    {prefix}topics t2
+                    left join {prefix}users t4 on t2.topic_poster = t4.user_id
+        		where
+                    t2.{topic_visibility} = 1 and
+                    t2.forum_id in {forums_ids}
+        	''', debug="phpbb-topics")
+            phpbb.topics.extend(results)
+
+            results = db.multi_execute(sites, '''
+        		select
+                    '{siteurl}' site,
                     t1.post_id ID,
-                    CASE
-                        when t1.post_id = t2.topic_first_post_id then 'topic'
-                        else 'post'
-                    END type,
+                    t1.topic_id topic,
                     TRIM(t1.post_subject) title,
                     TRIM(t1.post_text) content,
                     from_unixtime(t1.post_time) date,
                     if(t1.post_edit_time=0, null, from_unixtime(t1.post_edit_time)) modified,
-                    if(t1.post_id = t2.topic_first_post_id, null, t2.topic_first_post_id) _parent,
                     case
                         when t4.username is not null and TRIM(username)!='' then TRIM(t4.username)
                         else TRIM(t1.post_username)
@@ -420,17 +460,13 @@ class ScrapDB:
         		from
                     {prefix}posts t1
                     left join {prefix}topics t2 on t1.topic_id = t2.topic_id
-                    left join {prefix}users t4  on t1.poster_id = t4.user_id
+                    left join {prefix}users t4 on t1.poster_id = t4.user_id
         		where
                     t1.{post_visibility} = 1 and
                     t2.{topic_visibility} = 1 and
                     t1.forum_id in {forums_ids}
         	''', debug="phpbb-posts")
-            for r in results:
-                if r["type"]=="topic":
-                    phpbb.posts.append(results)
-                else:
-                    phpbb.comments.append(results)
+            phpbb.posts.extend(results)
 
             results = db.multi_execute(sites, '''
         		select
@@ -440,11 +476,27 @@ class ScrapDB:
                     from_unixtime(t1.filetime) date,
                     t1.real_filename file,
                     TRIM(t4.username) author,
-                    t1.post_msg_id _parent,
+                    t1.post_msg_id post,
+                    t1.topic_id topic,
+                    attach_comment comment,
                     concat('{purl}/download/file.php?id=', t1.attach_id) url
         		from
                     {prefix}attachments t1
                     left join {prefix}users t4  on t1.poster_id = t4.user_id
+                where
+                    is_orphan!=1 and
+                    t1.post_msg_id in (
+                        select
+                            t1.post_id ID
+                        from
+                            {prefix}posts t1
+                            left join {prefix}topics t2 on t1.topic_id = t2.topic_id
+                            left join {prefix}users t4  on t1.poster_id = t4.user_id
+                        where
+                            t1.{post_visibility} = 1 and
+                            t2.{topic_visibility} = 1 and
+                            t1.forum_id in {forums_ids}
+                    )
         	''', debug="phpbb-media")
             phpbb.media.extend(results)
 

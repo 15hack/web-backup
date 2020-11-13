@@ -15,9 +15,10 @@ class MDWriter:
         if args or kargv:
             s = s.format(*args, **kargv)
         if s.startswith("#"):
+            if "\n" not in s:
+                s = s + "\n"
             if len(self.last_line) > 0:
                 s = "\n" + s
-            s = s + "\n"
         if len(self.last_line) == 0:
             s = re_rtrim.sub("", s)
         self.last_line = s.split("\n")[-1]

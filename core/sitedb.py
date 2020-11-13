@@ -69,8 +69,8 @@ class SiteDBLite(DBLite):
 
     @property
     @lru_cache(maxsize=None)
-    def _sql_get_links(self):
-        return '''
+    def links(self):
+        links = self.select('''
             select
                 distinct url
             from
@@ -78,18 +78,42 @@ class SiteDBLite(DBLite):
             where
                 url is not null and
                 url!='#' and (
-                    type!='pmedia' or
-                    (site, ID) in (select site, object from comments)
+                    type!='wp_pmedia' or
+                    (site, ID) in (select site, object from wp_comments)
                 )
             order by
                 site, ID
-        '''
+        ''', row_factory=one_factory)
+        links = list(links)
+        pages = self.select('''
+            select distinct
+            	t.url, p.posts, s.page_size
+            from
+            	sites s join
+            (
+            	select
+            		p.site,
+            		p.topic,
+            		count(*) posts
+            	from
+            		phpbb_posts p
+            	group by
+            		p.site,
+            		p.topic
+            ) p
+            on s.ID=p.site
+            join phpbb_topics t
+            on t.site=p.site and t.ID=p.topic
+            where p.posts>s.page_size
+        ''')
+        for url, posts, size in pages:
+            for p in range(size, posts, size):
+                links.append(url+"&start="+str(p))
+        return links
 
     def print_links(self, file):
-        if self._sql_get_links is None:
-            return
         with open(file, "w") as f:
-            for l in self.select(self._sql_get_links, row_factory=one_factory):
+            for l in self.links:
                 f.write(l+"\n")
 
     def get_info(self, site=None):
@@ -118,7 +142,16 @@ class SiteDBLite(DBLite):
             fin=fin,
             counts={}
         )
-        tables = ('sites', 'posts', 'media', 'comments', 'tags')
+        tables = tuple('''
+            sites
+            wp_posts
+            wp_media
+            wp_comments
+            wp_tags
+            phpbb_topics
+            phpbb_posts
+            phpbb_media
+        '''.strip().split())
         for t in tables:
             if t not in self.tables:
                 continue
@@ -135,23 +168,22 @@ class SiteDBLite(DBLite):
             md.write("* {rows} registros en `{table}`".format(table=t, rows=c))
         if "url" in self.tables["sites"]:
             def _sort_sites(x):
-                id, url = x
-                r = url.split("/", 1)
+                id, url = x[:2]
+                r = re.split(r"[/\?]", url, maxsplit=1)
                 r[0]=tuple(reversed(r[0].split(".")))
                 if len(r)==1:
                     r.append("")
                 r.append(id)
-                return tuple(r)
+                return tuple(r+list(x[2:]))
 
-            if self._sql_get_links is not None:
-                urls = self.one("select count(*) from ("+self._sql_get_links+")")
-                md.write("")
-                md.write("Lo que supone {urls} urls.".format(urls=urls))
-            sites = self.select("select id, url from sites")
+            md.write("")
+            md.write("Lo que supone {urls} urls.".format(urls=len(self.links)))
+            sites = self.select("select id, url from sites where type='wp'")
             sites = sorted(sites, key=_sort_sites)
             max_site = max(len(x[1]) for x in sites)
-            md.write("")
             md.write(dedent('''
+                # Wordpress
+
                 | SITE | post/page | Comentarios | Último uso | 1º uso | Último comentario |
                 |:-----|----------:|------------:|-----------:|-------:|------------------:|
             ''').strip())
@@ -162,12 +194,12 @@ class SiteDBLite(DBLite):
                 row["fin"] = info.fin
                 row["site"] = url
                 row["admin"] = "https://{}/wp-admin/".format(url)
-                row["ult_comment"] = self.one("select IFNULL(substr(date, 1, 10), '') from comments")
+                row["ult_comment"] = self.one("select IFNULL(substr(date, 1, 10), '') from wp_comments")
                 if table_link:
                     md_row = build_tr('''
                         [{site}](https://{site})
-                        [{posts}]({admin}edit.php?orderby=date&order=desc)
-                        [{comments}]({admin}edit-comments.php?comment_type=comment&orderby=comment_date&order=desc)
+                        [{wp_posts}]({admin}edit.php?orderby=date&order=desc)
+                        [{wp_comments}]({admin}edit-comments.php?comment_type=comment&orderby=comment_date&order=desc)
                         {fin}
                         {ini}
                         {ult_comment}
@@ -175,11 +207,44 @@ class SiteDBLite(DBLite):
                 else:
                     md_row = build_tr('''
                         {site:<%s}
-                        {posts:>6}
-                        {comments:>6}
+                        {wp_posts:>6}
+                        {wp_comments:>6}
                         {fin}
                         {ini}
                         {ult_comment}
+                    ''' % max_site)
+                md.write(md_row.format(**row).strip())
+            md.write("")
+            sites = self.select("select id, url from sites where type='phpbb'")
+            sites = sorted(sites, key=_sort_sites)
+            max_site = max(len(x[1]) for x in sites)
+            md.write(dedent('''
+                # phpBB
+
+                | SITE | topics | posts | Último uso | 1º uso |
+                |:-----|-------:|------:|-----------:|-------:|
+            ''').strip())
+            for id, url in sites:
+                info = self.get_info(id)
+                row = dict(info.counts)
+                row["ini"] = info.ini
+                row["fin"] = info.fin
+                row["site"] = url
+                if table_link:
+                    md_row = build_tr('''
+                        [{site}](http://{site})
+                        {phpbb_topics}
+                        {phpbb_posts}
+                        {fin}
+                        {ini}
+                    ''', space="")
+                else:
+                    md_row = build_tr('''
+                        {site:<%s}
+                        {phpbb_topics:>6}
+                        {phpbb_posts:>6}
+                        {fin}
+                        {ini}
                     ''' % max_site)
                 md.write(md_row.format(**row).strip())
             md.write("")
@@ -196,7 +261,7 @@ class SiteDBLite(DBLite):
         re_rem = re.compile(r"^\s*_.*$", re.MULTILINE)
         with open(file, "w") as f:
             write(f, "BEGIN TRANSACTION")
-            write(f, "DELETE from tags where (site, post) in (select site, id from posts where url is null)")
+            write(f, "DELETE from wp_tags where (site, post) in (select site, id from wp_posts where url is null)")
             sql = "SELECT type, name FROM sqlite_master WHERE type in ('view', 'table') and name like '^_%' ESCAPE '^'"
             for r in self.select(sql):
                 write(f, "DROP {0} {1}", *r, end=";\n")
@@ -223,7 +288,7 @@ class SiteDBLite(DBLite):
                     sql = re_rem.sub("", sql)
                     write(f, sql)
                     end = None
-                    if "url" in ok_select:
+                    if "url" in ok:
                         end = "\nwhere url is not null;\n\n"
                     write(f, '''
                         INSERT INTO {0}

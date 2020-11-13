@@ -16,31 +16,35 @@ os.chdir(dname)
 fnd = FindUrl("log/error.md")
 scr = ScrapDB(fnd, *DBs)
 
-total = sum(len(i) for i in dict(scr.wp).values())
-
+db = SiteDBLite("sites.db", total=scr.rows, overwrite=True)
 print("Creando sqlite 0%", end="\r")
-db = SiteDBLite("sites.db", total=total)
 db.execute('sql/schema.sql')
 
-for site, meta in sorted(scr.wp.sites.items(), key=lambda x: tuple_url(x[0])):
+for meta in scr.sites:
     db.insert("sites", **meta)
 
 for data in scr.wp.posts:
-    db.insert("posts", **data)
+    db.insert("wp_posts", **data)
 
 for data in scr.wp.tags:
-    db.insert("tags", insert_or="ignore", **data)
+    db.insert("wp_tags", insert_or="ignore", **data)
 
 for data in scr.wp.comments:
-    db.insert("comments", **data)
+    db.insert("wp_comments", **data)
 
 for data in scr.wp.media:
     if data["url"] in (None, "#") and data["page"] in (None, "#") and data["status"]!="publish" and not(data["_WPJSON"]):
         continue
-    db.insert("media", **data)
+    db.insert("wp_media", **data)
 
-for site, meta in sorted(scr.phpbb.sites.items(), key=lambda x: tuple_url(x[0])):
-    db.insert("sites", **meta)
+for data in scr.phpbb.topics:
+    db.insert("phpbb_topics", **data)
+
+for data in scr.phpbb.posts:
+    db.insert("phpbb_posts", **data)
+
+for data in scr.phpbb.media:
+    db.insert("phpbb_media", **data)
 
 fnd.close()
 db.execute("sql/update.sql")
