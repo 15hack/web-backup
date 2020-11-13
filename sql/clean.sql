@@ -1,57 +1,58 @@
 BEGIN TRANSACTION;
 
-DELETE from tags where (blog, post) in (select blog, id from posts where url is null);
+DELETE from wp_tags where (site, post) in (select site, id from wp_posts where url is null);
 
-DROP view _posts;
-DROP view _media;
+DROP view _wp_posts;
+DROP view _wp_media;
 
-ALTER TABLE blogs RENAME TO temp_blogs;
+ALTER TABLE sites RENAME TO temp_sites;
 
-CREATE TABLE blogs (
+CREATE TABLE sites (
   ID INTEGER,
   url TEXT,
+  type TEXT,
+  page_size INTEGER,
   PRIMARY KEY (ID)
 );
 
-INSERT INTO blogs
-    (ID, url)
+INSERT INTO sites
+    (ID, url, type, page_size)
 SELECT
-    ID, url
+    ID, url, type, page_size
 FROM
-    temp_blogs
+    temp_sites
 where url is not null;
 
-DROP TABLE temp_blogs;
+DROP TABLE temp_sites;
 
-ALTER TABLE posts RENAME TO temp_posts;
+ALTER TABLE wp_posts RENAME TO temp_wp_posts;
 
-CREATE TABLE posts (
-  blog INTEGER REFERENCES blogs(ID),
+CREATE TABLE wp_posts (
+  site INTEGER REFERENCES sites(ID),
   ID INTEGER,
   type TEXT,
   date TEXT,
   content TEXT,
   title TEXT,
-  name TEXT,
   author TEXT,
   url TEXT,
-  PRIMARY KEY (blog, id)
+  PRIMARY KEY (site, id)
 );
 
-INSERT INTO posts
-    (blog, ID, type, date, content, title, name, author, url)
+INSERT INTO wp_posts
+    (site, ID, type, date, content, title, author, url)
 SELECT
-    blog, ID, type, date, _content, title, name, author, url
+    site, ID, type, date, content, title, author, url
 FROM
-    temp_posts
+    temp_wp_posts
 where url is not null;
 
-DROP TABLE temp_posts;
+DROP TABLE temp_wp_posts;
 
-ALTER TABLE media RENAME TO temp_media;
+ALTER TABLE wp_media RENAME TO temp_wp_media;
 
-CREATE TABLE media (
-  blog INTEGER REFERENCES blogs(ID),
+CREATE TABLE wp_media (
+  site INTEGER REFERENCES sites(ID),
   ID INTEGER,
   type TEXT,
   date TEXT,
@@ -59,39 +60,83 @@ CREATE TABLE media (
   file TEXT,
   url TEXT,
   page TEXT,
-  PRIMARY KEY (blog, id)
+  PRIMARY KEY (site, id)
 );
 
-INSERT INTO media
-    (blog, ID, type, date, author, file, url, page)
+INSERT INTO wp_media
+    (site, ID, type, date, author, file, url, page)
 SELECT
-    blog, ID, type, date, author, file, url, page
+    site, ID, type, date, author, file, url, page
 FROM
-    temp_media
+    temp_wp_media
 where url is not null;
 
-DROP TABLE temp_media;
+DROP TABLE temp_wp_media;
 
-ALTER TABLE comments RENAME TO temp_comments;
+ALTER TABLE wp_comments RENAME TO temp_wp_comments;
 
-CREATE TABLE comments (
+CREATE TABLE wp_comments (
   ID INTEGER,
-  blog INTEGER REFERENCES blogs(id),
+  site INTEGER REFERENCES sites(id),
   object INTEGER,
   content TEXT,
   date TEXT,
   author TEXT,
   parent INTEGER,
-  PRIMARY KEY (ID, blog, object)
+  PRIMARY KEY (ID, site, object)
 );
 
-INSERT INTO comments
-    (ID, blog, object, content, date, author, parent)
+INSERT INTO wp_comments
+    (ID, site, object, content, date, author, parent)
 SELECT
-    ID, blog, object, content, date, author, parent
+    ID, site, object, content, date, author, parent
 FROM
-    temp_comments;
+    temp_wp_comments;
 
-DROP TABLE temp_comments;
+DROP TABLE temp_wp_comments;
+
+ALTER TABLE phpbb_topics RENAME TO temp_phpbb_topics;
+
+CREATE TABLE phpbb_topics (
+  site INTEGER REFERENCES sites(ID),
+  ID INTEGER,
+  date TEXT,
+  title TEXT,
+  author TEXT,
+  url TEXT,
+  PRIMARY KEY (site, id)
+);
+
+INSERT INTO phpbb_topics
+    (site, ID, date, title, author, url)
+SELECT
+    site, ID, date, title, author, url
+FROM
+    temp_phpbb_topics
+where url is not null;
+
+DROP TABLE temp_phpbb_topics;
+
+ALTER TABLE phpbb_posts RENAME TO temp_phpbb_posts;
+
+CREATE TABLE phpbb_posts (
+  site INTEGER REFERENCES sites(ID),
+  ID INTEGER,
+  topic INTEGER REFERENCES phpbb_topics(ID),
+  date TEXT,
+  content TEXT,
+  title TEXT,
+  author TEXT,
+  PRIMARY KEY (site, id, topic)
+);
+
+INSERT INTO phpbb_posts
+    (site, ID, topic, date, content, title, author)
+SELECT
+    site, ID, topic, date, content, title, author
+FROM
+    temp_phpbb_posts;
+
+DROP TABLE temp_phpbb_posts;
 
 COMMIT;

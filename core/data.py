@@ -9,7 +9,7 @@ from .lite import dict_factory
 from .wpjson import WP, secureWP
 from bunch import Bunch
 from urllib.parse import urlparse
-import textwrap
+from textwrap import dedent
 import requests
 from bs4 import BeautifulSoup
 
@@ -30,9 +30,21 @@ def get_arr_json(file):
     return []
 
 
-def tuple_dom(dom):
-    dom = tuple(reversed(dom.split(".")))
-    return dom
+def tuple_url(url):
+    prc = None
+    slp = url.split("://", 1)
+    if len(slp)==2 and slp[0].lower() in ("http", "https"):
+        prc = slp[0].lower()
+        url = slp[1]
+    slp = url.split("/", 1)
+    dom = url[0]
+    url = url[1] if len(url)>1 else None
+    r = [
+        tuple(reversed(dom.split("."))),
+        url,
+        prc
+    ]
+    return tuple(r)
 
 
 def reader(name):
@@ -59,7 +71,7 @@ def get_dict(name=txt_dict):
 
 def set_dict(links_dict, name=txt_dict):
     with open(name, "w") as f:
-        for site, urls in sorted(links_dict.items(), key=lambda x: tuple_dom(x[0])):
+        for site, urls in sorted(links_dict.items(), key=lambda x: tuple_url(x[0])):
             if len(urls) == 0:
                 continue
             f.write(site+"\n")
@@ -183,6 +195,8 @@ class Blog(Bunch):
     def __init__(self, *args, **kargv):
         super().__init__(*args, **kargv)
         self.__http = None
+        if "files" not in self:
+            self.files = None
 
     @property
     def http(self):
@@ -201,7 +215,7 @@ class Blog(Bunch):
         else:
             url = "/".join((
                 url,
-                (self._files or "files").strip("/"),
+                (self.files or "files").strip("/"),
                 obj.file.lstrip("/")
             ))
         r = get_response(url)
@@ -209,26 +223,15 @@ class Blog(Bunch):
         return r
 
 class FindUrl:
-    def __init__(self, db, log):
-        self.db = db
-        self.blogs = {}
+    def __init__(self, log):
         self.link_cache = get_dict()
         self.log = open(log, "w")
-        self.log.write(textwrap.dedent('''
+        self.log.write(dedent('''
         * `998`: `requests.exceptions.TooManyRedirects`
         * `999`: blog wordpress inexistente
         * `4XX` o `5XX`: `status code` de la petición `http`
         ''').strip()+"\n\n")
         self.log_lines=[]
-
-    def get_blog(self, blog):
-        blog_id = self.db.get_blog_id(blog)
-        if not blog_id in self.blogs:
-            blog_data = self.db.one("blogs where id="+str(blog_id), row_factory=dict_factory)
-            if blog_data is None:
-                raise Exception("No se ha encontrado blog %s %s" % (blog_id, blog))
-            self.blogs[blog_id] = Blog(blog_data)
-        return self.blogs[blog_id]
 
     def writeln(self, line, *args, end="  \n"):
         if args:
@@ -240,35 +243,35 @@ class FindUrl:
         self.log.write(line+end)
         self.log.flush()
 
-    def get(self, obj, attachment_id=False):
+    def get(self, blog, obj, attachment_id=False):
+        blog=Blog(blog)
         obj=Bunch(obj)
-        blg = self.get_blog(obj.blog)
         if obj.url == "#":
-            return "{}://{}".format(blg.http, blg.url)
+            return "{}://{}".format(blog.http, blog.url)
         if attachment_id:
             obj.ID = -obj.ID
-        url = self.link_cache.get(blg.url, {}).get(obj.ID)
+        url = self.link_cache.get(blog.url, {}).get(obj.ID)
         if url:
             slp = url.split("://", 1)
             ptc = slp[0].lower() if len(slp)==2 else None
-            if ptc in ("http", "https") and ptc!=blg.http:
-                url = "{}://{}".format(blg.http, slp[1])
-                self.link_cache[blg.url][obj.ID]=url
+            if ptc in ("http", "https") and ptc!=blog.http:
+                url = "{}://{}".format(blog.http, slp[1])
+                self.link_cache[blog.url][obj.ID]=url
             return url
 
-        r = blg.findurl(obj, attachment_id=attachment_id)
+        r = blog.findurl(obj, attachment_id=attachment_id)
 
         if int(r.code/100) in (4, 5, 9):
             self.writeln("`{0}` [{2}]({1})", r.code, r.url, r.textlink)
             return None
 
         if r.code == 999:
-            self.writeln("`999` [{1}]({0}{1})", blg.http, r.o_dom)
+            self.writeln("`999` [{1}]({0}{1})", blog.http, r.o_dom)
             return None
 
-        if blg.url not in self.link_cache:
-            self.link_cache[blg.url] = {}
-        self.link_cache[blg.url][obj.ID]=r.url
+        if blog.url not in self.link_cache:
+            self.link_cache[blog.url] = {}
+        self.link_cache[blog.url][obj.ID]=r.url
 
         return r.url
 

@@ -1,7 +1,8 @@
 tmp/*
 config.yml
 notas.txt
-debug/*
+debug
+_debug
 data/archive
 wp-files-ls.sh
 schemaspy/*.jar
