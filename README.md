@@ -1,4 +1,4 @@
-sitesLa idea es crear una copia de seguridad de la información pública
+La idea es crear una copia de seguridad de la información pública
 en los portales web. La misma que sacarías haciendo `scraping`, pero  aprovechando el tener acceso a la base de datos
 para que sea mucho más rápido y eficiente.
 
