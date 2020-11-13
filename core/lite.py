@@ -185,6 +185,9 @@ class DBLite:
         self.closeTransaction()
         self.con.commit()
         if vacuum:
+            c = self.con.execute("pragma integrity_check")
+            c = c.fetchone()
+            print("integrity_check =", *c)
             self.con.execute("VACUUM")
         self.con.commit()
         self.con.close()

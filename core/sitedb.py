@@ -105,6 +105,7 @@ class SiteDBLite(DBLite):
             join phpbb_topics t
             on t.site=p.site and t.ID=p.topic
             where p.posts>s.page_size
+            order by p.site, p.topic
         ''')
         for url, posts, size in pages:
             for p in range(size, posts, size):
