@@ -1,4 +1,4 @@
-La idea es crear una copia de seguridad de la información pública
+sitesLa idea es crear una copia de seguridad de la información pública
 en los portales web. La misma que sacarías haciendo `scraping`, pero  aprovechando el tener acceso a la base de datos
 para que sea mucho más rápido y eficiente.
 
@@ -20,7 +20,7 @@ Obviamente no se incluye en el repositorio, pero tienes
 [un ejemplo](connect/config.example.yml) con el que crear el tuyo.
 * [`export.py`](export.py) se conecta a la base de datos MySQL y crea la base de datos `SQLite`
 * [`release.py`](release.py) prepara las [releases](https://github.com/15hack/web-backup/releases/latest) y genera:
-  * [`wp.7z`](https://github.com/15hack/web-backup/releases/latest): una copia reducida de la base de datos que genera `export.py`
+  * [`sites.7z`](https://github.com/15hack/web-backup/releases/latest): una copia reducida de la base de datos que genera `export.py`
   * [`out/README.txt`](out/README.md): descripción y estadística básica del contenido de
   la base de datos
   * [`out/links.txt`](out/links.txt?raw=true): listado con las urls
