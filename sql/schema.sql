@@ -102,6 +102,22 @@ CREATE TABLE phpbb_media (
   PRIMARY KEY (site, id, topic, post)
 );
 
+
+CREATE TABLE wk_pages (
+  site INTEGER REFERENCES sites(ID),
+  ID INTEGER,
+  namespace INTEGER,
+  date TEXT,
+  modified TEXT,
+  content TEXT,
+  title TEXT,
+  url TEXT,
+  _touched TEXT,
+  _WKJSON INTEGER,
+  _content TEXT,
+  PRIMARY KEY (site, id)
+);
+
 CREATE VIEW _wp_posts
 AS
 SELECT

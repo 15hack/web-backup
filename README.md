@@ -2,7 +2,7 @@ La idea es crear una copia de seguridad de la información pública
 en los portales web. La misma que sacarías haciendo `scraping`, pero  aprovechando el tener acceso a la base de datos
 para que sea mucho más rápido y eficiente.
 
-Actualmente solo funciona para **wordpress** y **phpbb** pero lo deseable es que
+Actualmente solo funciona para **wordpress**, **phpbb** y parcialmente **mediawiki** pero lo deseable es que
 se extienda a todos los servicios posibles.
 
 En funcionamiento básico es el siguiente:
@@ -10,7 +10,9 @@ En funcionamiento básico es el siguiente:
 1. Mediante un tunel `ssh` nos conectamos a la base de datos en el servidor
 2. Detectamos los esquemas que nos interesan
 3. Construimos las consultas que extraigan la información pública
-4. Enriquecemos la información con [`la api wordpress`](https://developer.wordpress.org/rest-api/)
+4. Enriquecemos la información con:
+  * [`la api wordpress`](https://developer.wordpress.org/rest-api/)
+  * [`la api mediawiki`](https://www.mediawiki.org/wiki/API:Main_page)
 5. Creamos la base de datos `SQLite` con dicha información
 
 # Fichero de configuración y scripts

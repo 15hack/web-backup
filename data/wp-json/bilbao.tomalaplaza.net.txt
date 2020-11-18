@@ -29,8 +29,8 @@
 399 bilbao.tomalaplaza.net/files/2011/06/flier_bilingue_color.jpg
 398 bilbao.tomalaplaza.net/files/2011/06/flier_bilingue_Blanco_Negro.jpg
 378 bilbao.tomalaplaza.net/2011/06/11/11-j-cronica-de-una-cacerolada/
-372 bilbao.tomalaplaza.net/2011/06/11/arriaga-irratia/
 373 bilbao.tomalaplaza.net/files/2011/06/arriaga.jpg
+372 bilbao.tomalaplaza.net/2011/06/11/arriaga-irratia/
 370 bilbao.tomalaplaza.net/files/2011/06/19_06_11.jpg
 367 bilbao.tomalaplaza.net/2011/06/11/e19j-toma-bilbaohartu-bilbo/
 361 bilbao.tomalaplaza.net/2011/06/11/desalojo-gaztetxe-de-portugalete/
@@ -44,9 +44,9 @@
 323 bilbao.tomalaplaza.net/2011/06/05/horarios-de-asambleas-y-consenso/
 318 bilbao.tomalaplaza.net/2011/06/05/manifiesto-de-la-asamblea-bilbao/
 314 bilbao.tomalaplaza.net/comunicados/
-292 bilbao.tomalaplaza.net/2011/05/28/bcnsinmiedo/
 295 bilbao.tomalaplaza.net/files/2011/05/ic0ekbCytPlDxDd4bbw.01.jpg
 293 bilbao.tomalaplaza.net/files/2011/05/ic0ekbCytPlDxDd4bbw.0.jpg
+292 bilbao.tomalaplaza.net/2011/05/28/bcnsinmiedo/
 238 bilbao.tomalaplaza.net/2011/05/24/el-streaming-de-la-asamblea-24-5-11/
 235 bilbao.tomalaplaza.net/2011/05/24/la-nueva-pestana-de-actas/
 224 bilbao.tomalaplaza.net/2011/05/24/%c2%a1%c2%a1%c2%a1%c2%a1-cumplimos-una-semana/

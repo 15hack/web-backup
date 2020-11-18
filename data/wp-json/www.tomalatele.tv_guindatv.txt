@@ -5,10 +5,9 @@
 177 www.tomalatele.tv/guindatv/wp-content/uploads/2019/03/pekah-3393227_1280.png
 176 www.tomalatele.tv/guindatv/wp-content/uploads/2019/03/film-512132_1280.jpg
 175 www.tomalatele.tv/guindatv/wp-content/uploads/2019/03/adult-2242164_1280.jpg
- 96 www.tomalatele.tv/guindatv/notiguinda/
 172 www.tomalatele.tv/guindatv/wp-content/uploads/2019/03/press-1015988_1280.jpg
-165 www.tomalatele.tv/guindatv/proyecto-gasolinera/
 166 www.tomalatele.tv/guindatv/wp-content/uploads/2018/06/Captura-de-pantalla-2018-06-18-a-las-18.47.55-e1529340503100.png
+165 www.tomalatele.tv/guindatv/proyecto-gasolinera/
 162 www.tomalatele.tv/guindatv/wp-content/uploads/2015/10/Captura-de-pantalla-2018-06-18-a-las-18.24.52-e1529339127847.png
 160 www.tomalatele.tv/guindatv/wp-content/uploads/2015/09/Captura-de-pantalla-2018-06-18-a-las-18.18.09.png
 156 www.tomalatele.tv/guindatv/wp-content/uploads/2018/06/cropped-GuindaTv-2560x-e1529331108555.gif
@@ -31,6 +30,7 @@
 106 www.tomalatele.tv/guindatv/solidaridad-con-el-pueblo-palestino/
 104 www.tomalatele.tv/guindatv/derecho-al-asilo/
  97 www.tomalatele.tv/guindatv/taller-de-arte-matiz/
+ 96 www.tomalatele.tv/guindatv/notiguinda/
  94 www.tomalatele.tv/guindatv/quidea-en-el-mercado/
  92 www.tomalatele.tv/guindatv/ahora-madrid-presentacion-en-el-barrio-de-salamanca-de-madrid/
  90 www.tomalatele.tv/guindatv/jornada-dia-1/
@@ -38,9 +38,9 @@
  85 www.tomalatele.tv/guindatv/marcha-dignidad-2015/
  82 www.tomalatele.tv/guindatv/jornada-cultural-del-barrio/
  78 www.tomalatele.tv/guindatv/podemos-en-el-barrio/
- 73 www.tomalatele.tv/guindatv/jornada-cultural-de-puertas-abiertas-barrio-44/
  76 www.tomalatele.tv/guindatv/wp-content/uploads/2015/09/cropped-2014-03-20_a2.jpg
  75 www.tomalatele.tv/guindatv/wp-content/uploads/2015/09/2014-03-20_a2-e1529337931944.jpg
+ 73 www.tomalatele.tv/guindatv/jornada-cultural-de-puertas-abiertas-barrio-44/
  58 www.tomalatele.tv/guindatv/endika-zulueta-nos-habla-de-la-ley-mordaza/
  56 www.tomalatele.tv/guindatv/a-mi-me-gusta-mi-barrio-guinda-tv/
  51 www.tomalatele.tv/guindatv/tirarse-al-folio-literatura-en-la-guindalera/

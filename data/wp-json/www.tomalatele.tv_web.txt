@@ -139,8 +139,8 @@
 15320 www.tomalatele.tv/web/wp-content/uploads/2016/11/nosferattip-el-tratado-del-horro.jpg
 15318 www.tomalatele.tv/web/blog/nosferattip-el-tratado-del-horror/
 15317 www.tomalatele.tv/web/wp-content/uploads/2016/11/che-sudaka-propone-sentir-cantan.jpg
-15314 www.tomalatele.tv/web/blog/che-sudaka-propone-sentir-cantando-y-bailar-pensando/
 15315 www.tomalatele.tv/web/wp-content/uploads/2016/11/Che_Sudaka.jpg
+15314 www.tomalatele.tv/web/blog/che-sudaka-propone-sentir-cantando-y-bailar-pensando/
 15313 www.tomalatele.tv/web/wp-content/uploads/2016/11/combo-calada-hambre-videoclip-co.jpg
 15311 www.tomalatele.tv/web/blog/combo-calada-hambre-videoclip-con-dante-funkiwis-y-el-ninho-trompeta/
 15310 www.tomalatele.tv/web/wp-content/uploads/2016/11/entrevista-a-oscar-reina-el-sind.jpg
@@ -168,16 +168,16 @@
 15273 www.tomalatele.tv/web/wp-content/uploads/2016/09/entrevista-a-antonio-l-martinez.jpg
 15271 www.tomalatele.tv/web/blog/entrevista-a-antonio-l-martinez-es-muy-paradigmatico-que-alguien-critique-que-no-hay-libertad-de-expresion/
 15266 www.tomalatele.tv/web/wp-content/uploads/2016/09/haztefiscal-contra-directivos-de.jpg
-15245 www.tomalatele.tv/web/blog/haztefiscal-contra-directivos-de-caja-madrid/
 15247 www.tomalatele.tv/web/wp-content/uploads/2016/09/portada750x422.jpg
 15246 www.tomalatele.tv/web/wp-content/uploads/2016/09/screenshot-www.goteo_.org-2016-09-01-22-00-01.png
+15245 www.tomalatele.tv/web/blog/haztefiscal-contra-directivos-de-caja-madrid/
 15244 www.tomalatele.tv/web/wp-content/uploads/2016/08/resumen-de-la-7a-temporada-del-p.jpg
 15242 www.tomalatele.tv/web/blog/resumen-de-la-7a-temporada-del-programa-la-entrevista-del-mes/
 15240 www.tomalatele.tv/web/wp-content/uploads/2016/08/la-union-de-ilusiones-en-cajas-c.jpg
-15235 www.tomalatele.tv/web/blog/la-union-de-ilusiones-en-cajas-con-la-asociacion-de-apoyo-al-pueblo-sirio-permite-salvar-vidas-siria/
 15238 www.tomalatele.tv/web/wp-content/uploads/2016/08/image.jpeg
 15237 www.tomalatele.tv/web/wp-content/uploads/2016/08/image-2.jpeg
 15236 www.tomalatele.tv/web/wp-content/uploads/2016/08/image-3.jpeg
+15235 www.tomalatele.tv/web/blog/la-union-de-ilusiones-en-cajas-con-la-asociacion-de-apoyo-al-pueblo-sirio-permite-salvar-vidas-siria/
 15234 www.tomalatele.tv/web/wp-content/uploads/2016/08/rueda-de-prensa-en-madrid-carava.jpg
 15232 www.tomalatele.tv/web/blog/rueda-de-prensa-en-madrid-caravana-a-grecia/
 15231 www.tomalatele.tv/web/wp-content/uploads/2016/07/la-deuda-griega-una-tragedia-eur.jpg
@@ -232,7 +232,6 @@
 15128 www.tomalatele.tv/web/blog/desmontando-curuguaty/
 15127 www.tomalatele.tv/web/wp-content/uploads/2016/06/tuexterior.gif
 15124 www.tomalatele.tv/web/wp-content/uploads/2016/06/la-escalera-programa-026-laura-j.jpg
-15101 www.tomalatele.tv/web/blog/la-escalera-programa-026-laura-jareno/
 15117 www.tomalatele.tv/web/wp-content/uploads/2016/06/abe-abe-abe.jpg
 15115 www.tomalatele.tv/web/blog/abe-abe-abe-%e5%ae%89%e5%80%8d-%e5%ae%89%e5%80%8d-%e5%ae%89%e5%80%8d%e3%80%9c/
 15113 www.tomalatele.tv/web/wp-content/uploads/2016/06/quien-es-quien.jpg
@@ -243,9 +242,10 @@
 15106 www.tomalatele.tv/web/wp-content/uploads/2016/06/manifestacion-de-cgt-xlopublico.jpg
 15104 www.tomalatele.tv/web/blog/manifestacion-de-cgt-xlopublico-madrid-18-de-junio/
 15103 www.tomalatele.tv/web/wp-content/uploads/2016/06/La-Escalera.-Junio.png
+15101 www.tomalatele.tv/web/blog/la-escalera-programa-026-laura-jareno/
 15100 www.tomalatele.tv/web/wp-content/uploads/2016/06/manifestacion-xlopublico-18-de-j.jpg
-15093 www.tomalatele.tv/web/blog/manifestacion-xlopublico-18-de-junio/
 15096 www.tomalatele.tv/web/wp-content/uploads/2016/06/xlopublico.jpg
+15093 www.tomalatele.tv/web/blog/manifestacion-xlopublico-18-de-junio/
 15092 www.tomalatele.tv/web/wp-content/uploads/2016/06/entrevista-a-juli-tello-lo-que-q.jpg
 15090 www.tomalatele.tv/web/blog/entrevista-a-juli-tello-lo-que-queremos-es-evitar-las-muertes-en-el-mediterraneo-nacimos-con-ese-objetivo/
 15088 www.tomalatele.tv/web/wp-content/uploads/2016/06/campana-a-favor-de-las-libertade.jpg
@@ -254,11 +254,11 @@
 15084 www.tomalatele.tv/web/wp-content/uploads/2016/06/dia-internacional-de-las-mujeres.jpg
 15082 www.tomalatele.tv/web/blog/dia-internacional-de-las-mujeres-por-la-paz-y-el-desarme/
 15081 www.tomalatele.tv/web/wp-content/uploads/2016/05/riccap.jpg
-15072 www.tomalatele.tv/web/blog/la-escalera-programa-025-alma-de-boqueron/
 15079 www.tomalatele.tv/web/wp-content/uploads/2016/05/inmigrantes-espanoles-en-edimbur.jpg
 15077 www.tomalatele.tv/web/blog/inmigrantes-espanoles-en-edimburgo-denuncian-el-abandono-del-gobierno-de-espana/
 15076 www.tomalatele.tv/web/wp-content/uploads/2016/05/cuando-las-gotas-se-hacen-lluvia.jpg
 15074 www.tomalatele.tv/web/blog/cuando-las-gotas-se-hacen-lluvia/
+15072 www.tomalatele.tv/web/blog/la-escalera-programa-025-alma-de-boqueron/
 15071 www.tomalatele.tv/web/wp-content/uploads/2016/05/logo-cuño.png
 15070 www.tomalatele.tv/web/wp-content/uploads/2016/05/charla-presentacion-mg-madrid5.jpg
 15069 www.tomalatele.tv/web/wp-content/uploads/2016/05/charla-presentacion-mg-madrid4.jpg
@@ -295,8 +295,8 @@
 15019 www.tomalatele.tv/web/wp-content/uploads/2016/05/proyecto-gasolinera.jpg
 15017 www.tomalatele.tv/web/blog/proyecto-gasolinera/
 15013 www.tomalatele.tv/web/wp-content/uploads/2016/05/contra-la-ley-mordaza-la-caza-de.jpg
-15010 www.tomalatele.tv/web/blog/contra-la-ley-mordaza-la-caza-de-brujas-y-los-ataques-a-la-libertad-de-prensa-y-el-derecho-de-huelga/
 15011 www.tomalatele.tv/web/wp-content/uploads/2016/05/Ponentes-Acto-No-Ley-Mordaza-b.jpg
+15010 www.tomalatele.tv/web/blog/contra-la-ley-mordaza-la-caza-de-brujas-y-los-ataques-a-la-libertad-de-prensa-y-el-derecho-de-huelga/
 15009 www.tomalatele.tv/web/wp-content/uploads/2016/04/la-escalera-programa-024-pedro-p.jpg
 15007 www.tomalatele.tv/web/blog/la-escalera-programa-024-pedro-pastor/
 15006 www.tomalatele.tv/web/wp-content/uploads/2016/04/entrevista-a-marc-rosello-un-pai.jpg
@@ -313,8 +313,8 @@
 14983 www.tomalatele.tv/web/wp-content/uploads/2016/03/escenas-de-idomeni-ii.jpg
 14981 www.tomalatele.tv/web/blog/escenas-de-idomeni-ii/
 14979 www.tomalatele.tv/web/wp-content/uploads/2016/03/berta-caceres-homenaje-en-madrid.jpg
-14976 www.tomalatele.tv/web/blog/berta-caceres-homenaje-en-madrid/
 14977 www.tomalatele.tv/web/wp-content/uploads/2016/03/Berta.jpg
+14976 www.tomalatele.tv/web/blog/berta-caceres-homenaje-en-madrid/
 14973 www.tomalatele.tv/web/wp-content/uploads/2016/03/desperttando-con-varoufakis-tene.jpg
 14971 www.tomalatele.tv/web/blog/desperttando-con-varoufakis-tenemos-un-plan-b/
 14969 www.tomalatele.tv/web/wp-content/uploads/2016/03/dqd-la-raiz-por-la-libertad-de-e.jpg
@@ -326,7 +326,6 @@
 14958 www.tomalatele.tv/web/wp-content/uploads/2016/02/otra-vuelta-de-tuerka-pablo-igle.jpg
 14956 www.tomalatele.tv/web/blog/otra-vuelta-de-tuerka-pablo-iglesias-con-patricio-guzman/
 14955 www.tomalatele.tv/web/wp-content/uploads/2016/02/la-escalera-programa-23-javi-jar.jpg
-14939 www.tomalatele.tv/web/blog/la-escalera-programa-23-javi-jareno/
 14951 www.tomalatele.tv/web/wp-content/uploads/2016/02/Logo-patri.jpg
 14950 www.tomalatele.tv/web/wp-content/uploads/2016/02/patri-absolucion-video-del-desah.jpg
 14948 www.tomalatele.tv/web/blog/patri-absolucion-video-del-desahucio-del-caso-de-patricia-de-hortaleza/
@@ -334,6 +333,7 @@
 14944 www.tomalatele.tv/web/blog/diccionario-de-la-corrupcion-libertad-para-raul-capin-en-madrid-en-linea-22-02-16/
 14943 www.tomalatele.tv/web/wp-content/uploads/2016/02/varoufakis-la-crisis-no-ha-termi.jpg
 14941 www.tomalatele.tv/web/blog/varoufakis-la-crisis-no-ha-terminado-solo-han-cambiado-sus-sintomas/
+14939 www.tomalatele.tv/web/blog/la-escalera-programa-23-javi-jareno/
 14938 www.tomalatele.tv/web/wp-content/uploads/2016/02/varoufakis-una-europa-que-funcio.jpg
 14935 www.tomalatele.tv/web/blog/varoufakis-una-europa-que-funciona-asi-es-una-europa-herida/
 14933 www.tomalatele.tv/web/wp-content/uploads/2016/02/raul-capin-libertad-de-expresion.jpg
@@ -479,8 +479,8 @@
 14654 www.tomalatele.tv/web/wp-content/uploads/2015/10/bnn_GuindaTV.jpg
 14653 www.tomalatele.tv/web/wp-content/uploads/2015/10/bnn_DISOPress.jpg
 14650 www.tomalatele.tv/web/wp-content/uploads/2015/10/spot-protesta-2015.jpg
-14647 www.tomalatele.tv/web/blog/spot-protesta-2015/
 14648 www.tomalatele.tv/web/wp-content/uploads/2015/10/unnamed-3.png
+14647 www.tomalatele.tv/web/blog/spot-protesta-2015/
 14646 www.tomalatele.tv/web/wp-content/uploads/2015/10/eko-cobraremos-las-pensiones.jpg
 14644 www.tomalatele.tv/web/blog/eko-cobraremos-las-pensiones/
 14643 www.tomalatele.tv/web/wp-content/uploads/2015/10/hablamos-de-educacion-con-pedro1.jpg
@@ -619,11 +619,11 @@
 14402 www.tomalatele.tv/web/blog/entrevista-josep-borrell/
 14401 www.tomalatele.tv/web/wp-content/uploads/2015/07/memoria-democratica-y-cultura-de.jpg
 14399 www.tomalatele.tv/web/blog/memoria-democratica-y-cultura-de-los-ddhh-foro-por-el-cambio/
-14386 www.tomalatele.tv/web/blog/alicia-ramos-condena-la-ley-mordaza-en-su-concierto-durante-el-orgullo-gay/
 14387 www.tomalatele.tv/web/wp-content/uploads/2015/07/aliciaRamos.jpg
+14386 www.tomalatele.tv/web/blog/alicia-ramos-condena-la-ley-mordaza-en-su-concierto-durante-el-orgullo-gay/
 14384 www.tomalatele.tv/web/wp-content/uploads/2015/07/grecia.jpg
-14374 www.tomalatele.tv/web/blog/concentracion-ante-la-embajada-griega-en-apoyo-al-referendum-por-la-deuda/
 14377 www.tomalatele.tv/web/wp-content/uploads/http://disopress.com/assets/library/2015-07-03/samples/video_Mani_embajada_Grecia_ALTA_SIN.mp4
+14374 www.tomalatele.tv/web/blog/concentracion-ante-la-embajada-griega-en-apoyo-al-referendum-por-la-deuda/
 14371 www.tomalatele.tv/web/wp-content/uploads/2015/07/teoria-monetaria-moderna-randall.jpg
 14369 www.tomalatele.tv/web/blog/teoria-monetaria-moderna-randall-wray-parte-18/
 14368 www.tomalatele.tv/web/wp-content/uploads/2015/07/caminando-hacia-la-unidad-popula.jpg
@@ -634,8 +634,8 @@
 14358 www.tomalatele.tv/web/blog/contra-la-ley-mordaza/
 14352 www.tomalatele.tv/web/wp-content/uploads/2015/07/estela-de-carlotto-es-el-pueblo.jpg
 14350 www.tomalatele.tv/web/blog/estela-de-carlotto-es-el-pueblo-quien-debe-luchar-contra-la-impunidad-del-franquismo/
-14345 www.tomalatele.tv/web/blog/14345/
 14346 www.tomalatele.tv/web/wp-content/uploads/2015/07/matinalRVK.png
+14345 www.tomalatele.tv/web/blog/14345/
 14344 www.tomalatele.tv/web/wp-content/uploads/2015/07/sin-mordazas-30-06-2015.jpg
 14337 www.tomalatele.tv/web/blog/sin-mordazas-30-06-2015/
 14336 www.tomalatele.tv/web/wp-content/uploads/2015/07/grecia-oxi.jpg
@@ -733,8 +733,8 @@
 14137 www.tomalatele.tv/web/wp-content/uploads/2015/06/rita-maestre-en-el-cierre-de-cam.jpg
 14135 www.tomalatele.tv/web/blog/rita-maestre-en-el-cierre-de-campana-madrid-con-nosotras/
 14130 www.tomalatele.tv/web/wp-content/uploads/2015/06/alfonabsolucion.jpg
-14127 www.tomalatele.tv/web/blog/alfonabsolucion/
 14128 www.tomalatele.tv/web/wp-content/uploads/2015/06/20150615_125804.jpg
+14127 www.tomalatele.tv/web/blog/alfonabsolucion/
 14126 www.tomalatele.tv/web/wp-content/uploads/2015/06/MANI-ALFON.jpg
 14125 www.tomalatele.tv/web/wp-content/uploads/2015/06/el-exterminio-de-la-memoria-una.jpg
 14123 www.tomalatele.tv/web/blog/el-exterminio-de-la-memoria-una-comision-de-la-verdad-contra-el-olvido/
@@ -769,8 +769,8 @@
 14069 www.tomalatele.tv/web/wp-content/uploads/2015/04/acto-homenaje-durante-la-vii-jor.jpg
 14066 www.tomalatele.tv/web/blog/acto-homenaje-durante-la-vii-jornada-republicana/
 14065 www.tomalatele.tv/web/wp-content/uploads/2015/04/la-escalera-programa-016-lucia-s.jpg
-14062 www.tomalatele.tv/web/blog/la-escalera-programa-016-lucia-socam/
 14063 www.tomalatele.tv/web/wp-content/uploads/2015/04/la-escalera-promo.jpg
+14062 www.tomalatele.tv/web/blog/la-escalera-programa-016-lucia-socam/
 14061 www.tomalatele.tv/web/wp-content/uploads/2015/04/la-nave-nodriza-coworking1.jpg
 14060 www.tomalatele.tv/web/wp-content/uploads/2015/04/la-nave-nodriza-coworking.jpg
 14055 www.tomalatele.tv/web/blog/la-nave-nodriza-coworking/
@@ -778,16 +778,16 @@
 14051 www.tomalatele.tv/web/wp-content/uploads/2015/04/la-escalera-programa-015-miguel1.jpg
 14050 www.tomalatele.tv/web/wp-content/uploads/2015/04/la-escalera-programa-015-miguel.jpg
 14048 www.tomalatele.tv/web/wp-content/uploads/2015/04/la-escalera-programa-015-migue-a.jpg
-14045 www.tomalatele.tv/web/blog/la-escalera-programa-015-miguel-angel-bueno/
 14046 www.tomalatele.tv/web/wp-content/uploads/2015/04/miguel-angel-bueno.jpg
+14045 www.tomalatele.tv/web/blog/la-escalera-programa-015-miguel-angel-bueno/
 14044 www.tomalatele.tv/web/wp-content/uploads/2015/04/la-escalera-programa-014-victor.jpg
-14039 www.tomalatele.tv/web/blog/la-escalera-programa-014-victor-casaus/
 14042 www.tomalatele.tv/web/wp-content/uploads/2015/04/victor-casaus.jpg
 14041 www.tomalatele.tv/web/wp-content/uploads/2015/04/la-escalera-programa-013-cesk-fr.jpg
+14039 www.tomalatele.tv/web/blog/la-escalera-programa-014-victor-casaus/
 14033 www.tomalatele.tv/web/blog/leganes-en-lucha/
 14030 www.tomalatele.tv/web/wp-content/uploads/2015/02/la-escalera-programa-013-cesk-fr.jpg
-14027 www.tomalatele.tv/web/blog/la-escalera-programa-013-cesk-freixas/
 14028 www.tomalatele.tv/web/wp-content/uploads/2015/02/cesk.png
+14027 www.tomalatele.tv/web/blog/la-escalera-programa-013-cesk-freixas/
 14026 www.tomalatele.tv/web/wp-content/uploads/2015/02/entrevista-a-los-trabajadores-de.jpg
 14024 www.tomalatele.tv/web/blog/entrevista-a-los-trabajadores-de-coca-cola-en-lucha-1-ano-de-ere-ilegal/
 14020 www.tomalatele.tv/web/wp-content/uploads/2015/01/afaik-al-fondo-a-la-izkierda-2a4.jpg
@@ -1045,8 +1045,8 @@
 13458 www.tomalatele.tv/web/wp-content/uploads/2014/05/la-escalera-programa-011-permiso.jpg
 13456 www.tomalatele.tv/web/blog/la-escalera-programa-011-permiso-de-la-dama/
 13452 www.tomalatele.tv/web/wp-content/uploads/2014/05/3er-aniversario-asamblea-popular.jpg
-13449 www.tomalatele.tv/web/blog/3er-aniversario-asamblea-popular-paseo-extremadura-tres-anos-tomando-las-calles/
 13450 www.tomalatele.tv/web/wp-content/uploads/2014/05/queremosTodo.jpg
+13449 www.tomalatele.tv/web/blog/3er-aniversario-asamblea-popular-paseo-extremadura-tres-anos-tomando-las-calles/
 13448 www.tomalatele.tv/web/wp-content/uploads/2014/05/si-se-puede-49.jpg
 13446 www.tomalatele.tv/web/blog/si-se-puede-49/
 13445 www.tomalatele.tv/web/wp-content/uploads/2014/05/presentacion-campana-yo-elijo-101.jpg
@@ -1140,8 +1140,8 @@
 13278 www.tomalatele.tv/web/wp-content/uploads/2014/04/el-crepusculo-del-ladrillo-opera.jpg
 13276 www.tomalatele.tv/web/blog/el-crepusculo-del-ladrillo-opera-buffa-en-tiempos-de-crisis/
 13274 www.tomalatele.tv/web/wp-content/uploads/2014/04/jornada-para-la-defensa-de-la-rt.jpg
-13271 www.tomalatele.tv/web/blog/jornada-para-la-defensa-de-la-rtv-publica/
 13272 www.tomalatele.tv/web/wp-content/uploads/2014/04/logo.jpg
+13271 www.tomalatele.tv/web/blog/jornada-para-la-defensa-de-la-rtv-publica/
 13270 www.tomalatele.tv/web/wp-content/uploads/2014/04/afaik-008.jpg
 13267 www.tomalatele.tv/web/blog/afaik-008/
 13264 www.tomalatele.tv/web/wp-content/uploads/2014/04/tu-eliges.jpg
@@ -1229,8 +1229,8 @@
 13012 www.tomalatele.tv/web/wp-content/uploads/2014/03/si-se-puede-42.jpg
 13010 www.tomalatele.tv/web/blog/si-se-puede-42/
 13007 www.tomalatele.tv/web/wp-content/uploads/2014/03/la-escalera-007-javi-jareno.jpg
-13004 www.tomalatele.tv/web/blog/la-escalera-007-javi-jareno/
 13005 www.tomalatele.tv/web/wp-content/uploads/2014/03/jareno.png
+13004 www.tomalatele.tv/web/blog/la-escalera-007-javi-jareno/
 13003 www.tomalatele.tv/web/wp-content/uploads/2014/03/carolina-del-olmo-donde-esta-mi.jpg
 13001 www.tomalatele.tv/web/blog/carolina-del-olmo-donde-esta-mi-tribu-otra-crianza-es-posible/
 12999 www.tomalatele.tv/web/wp-content/uploads/2014/03/12997.jpg
@@ -1249,8 +1249,8 @@
 12968 www.tomalatele.tv/web/wp-content/uploads/2014/03/la-escalera-programa-002.jpg
 12966 www.tomalatele.tv/web/wp-content/uploads/2014/03/la-escalera-programa-003.jpg
 12959 www.tomalatele.tv/web/wp-content/uploads/2014/03/la-escalera-programa-005.jpg
-12956 www.tomalatele.tv/web/blog/la-escalera-006/
 12957 www.tomalatele.tv/web/wp-content/uploads/2014/03/carlosbravo.jpg
+12956 www.tomalatele.tv/web/blog/la-escalera-006/
 12955 www.tomalatele.tv/web/wp-content/uploads/2014/02/aqui-opinamos-todos-coca-cola-la1.jpg
 12952 www.tomalatele.tv/web/wp-content/uploads/2014/02/entrevistas-detenciones-desahuci.jpg
 12948 www.tomalatele.tv/web/blog/entrevistas-detenciones-desahucio-lavapies-libertad27f-j-alekos-cuatro-cosas-teoria-y-practica-4ojos/
@@ -1262,21 +1262,21 @@
 12937 www.tomalatele.tv/web/blog/spot-festival-protesta-2014/
 12934 www.tomalatele.tv/web/wp-content/uploads/2014/02/si-se-puede-39.jpg
 12932 www.tomalatele.tv/web/blog/si-se-puede-39/
-12925 www.tomalatele.tv/web/blog/sabados-negros-nuevos-documentalismos-para-contar-una-crisis/
 12927 www.tomalatele.tv/web/wp-content/uploads/2014/02/Sabado_Negro_221.jpg
 12926 www.tomalatele.tv/web/wp-content/uploads/2014/02/Sabado_Negro_22.jpg
-12921 www.tomalatele.tv/web/blog/canal-de-plazadali15m/
+12925 www.tomalatele.tv/web/blog/sabados-negros-nuevos-documentalismos-para-contar-una-crisis/
 12922 www.tomalatele.tv/web/wp-content/uploads/2014/02/plazadali15m.jpg
+12921 www.tomalatele.tv/web/blog/canal-de-plazadali15m/
 12920 www.tomalatele.tv/web/wp-content/uploads/2014/02/afaik-5.jpg
 12918 www.tomalatele.tv/web/blog/afaik-5/
 12915 www.tomalatele.tv/web/wp-content/uploads/2014/02/agenda-okulta-20-02-2104-valleka.jpg
 12913 www.tomalatele.tv/web/blog/agenda-okulta-20-02-2104-vallekas-topal-y-a-los-interpretes-de-cuenta-animal/
 12911 www.tomalatele.tv/web/wp-content/uploads/2014/02/todo-por-la-kausa-20-02-2014-rec.jpg
 12909 www.tomalatele.tv/web/blog/todo-por-la-kausa-20-02-2014-recortes-protestas-y-derechos-humanos/
-12905 www.tomalatele.tv/web/blog/canal-de-oopstreaming/
 12906 www.tomalatele.tv/web/wp-content/uploads/2014/02/oopstreaming.jpg
-12902 www.tomalatele.tv/web/blog/canal-de-nomescomplicitats/
+12905 www.tomalatele.tv/web/blog/canal-de-oopstreaming/
 12903 www.tomalatele.tv/web/wp-content/uploads/2014/02/negocisocultes.jpg
+12902 www.tomalatele.tv/web/blog/canal-de-nomescomplicitats/
 12899 www.tomalatele.tv/web/wp-content/uploads/2014/02/12897.jpg
 12897 www.tomalatele.tv/web/blog/12897/
 12894 www.tomalatele.tv/web/wp-content/uploads/2014/02/afaik-5-al-fondo-a-laizquierda-5.jpg
@@ -1321,8 +1321,8 @@
 12761 www.tomalatele.tv/web/wp-content/uploads/2014/01/p12759.jpg
 12759 www.tomalatele.tv/web/blog/k-acn-20-01-2014/
 12757 www.tomalatele.tv/web/wp-content/uploads/2014/01/p12754.jpg
-12754 www.tomalatele.tv/web/blog/cerdanyola-contra-el-centro-comercial-mas-grande-de-europa/
 12755 www.tomalatele.tv/web/wp-content/uploads/2014/01/comerç-300x168.jpg
+12754 www.tomalatele.tv/web/blog/cerdanyola-contra-el-centro-comercial-mas-grande-de-europa/
 12753 www.tomalatele.tv/web/wp-content/uploads/2014/01/p127501.jpg
 12752 www.tomalatele.tv/web/wp-content/uploads/2014/01/p12750.jpg
 12750 www.tomalatele.tv/web/blog/si-se-puede-036/
@@ -1380,8 +1380,8 @@
 12595 www.tomalatele.tv/web/wp-content/uploads/2013/12/captura1.jpg
 12593 www.tomalatele.tv/web/wp-content/uploads/2013/12/captura.jpg
 12590 www.tomalatele.tv/web/blog/cerdanyola-cerca-el-ayuntamiento-contra-el-centro-direccional/
-12585 www.tomalatele.tv/web/blog/canal-de-periodismo-digno/
 12586 www.tomalatele.tv/web/wp-content/uploads/2013/12/pdigno.jpg
+12585 www.tomalatele.tv/web/blog/canal-de-periodismo-digno/
 12582 www.tomalatele.tv/web/wp-content/uploads/2013/12/01.jpg
 12579 www.tomalatele.tv/web/blog/entrevista-a-lara-alcazar-activista-de-femen/
 12578 www.tomalatele.tv/web/wp-content/uploads/2013/12/0.jpg
@@ -1438,8 +1438,8 @@
 12380 www.tomalatele.tv/web/wp-content/uploads/2013/10/016.jpg
 12377 www.tomalatele.tv/web/blog/marea-blanca-27-octubre-2013/
 12370 www.tomalatele.tv/web/wp-content/uploads/2013/10/015.jpg
-12355 www.tomalatele.tv/web/blog/manifestacion-por-el-transporte-publico-en-alpedrete-27-octubre-2013/
 12356 www.tomalatele.tv/web/wp-content/uploads/2013/10/Mani_27O_transporte_Alpedrete.jpg
+12355 www.tomalatele.tv/web/blog/manifestacion-por-el-transporte-publico-en-alpedrete-27-octubre-2013/
 12348 www.tomalatele.tv/web/wp-content/uploads/2013/10/014.jpg
 12340 www.tomalatele.tv/web/blog/si-se-puede-capitulo-26/
 12334 www.tomalatele.tv/web/wp-content/uploads/2013/10/452337327_640.jpg
@@ -1462,8 +1462,8 @@
 12284 www.tomalatele.tv/web/blog/rnma-intervencion-de-diana-cordero-de-kaosenlared/
 12282 www.tomalatele.tv/web/wp-content/uploads/2013/10/06.jpg
 12280 www.tomalatele.tv/web/blog/si-se-puede-capitulo-24/
-12276 www.tomalatele.tv/web/blog/canal-de-plaza-de-los-pueblos/
 12277 www.tomalatele.tv/web/wp-content/uploads/2013/10/Plaza+de+los+pueblos.jpg
+12276 www.tomalatele.tv/web/blog/canal-de-plaza-de-los-pueblos/
 12272 www.tomalatele.tv/web/wp-content/uploads/2013/10/monsanto.jpg
 12268 www.tomalatele.tv/web/blog/marcha-contra-monsanto-mam-12o-es-12-octubre-2013/
 12267 www.tomalatele.tv/web/wp-content/uploads/2013/10/05.jpg
@@ -1481,56 +1481,56 @@
 12235 www.tomalatele.tv/web/blog/si-se-puede-capitulo-23/
 12232 www.tomalatele.tv/web/wp-content/uploads/2013/10/0.jpg
 12225 www.tomalatele.tv/web/blog/aprende-a-hacer-orgonitas/
-12215 www.tomalatele.tv/web/blog/presentacion-debate-posible-motor-gravitatorio/
 12217 www.tomalatele.tv/web/wp-content/uploads/2013/09/hamburguesas_braille.jpg
 12216 www.tomalatele.tv/web/wp-content/uploads/2013/09/Motor-Gravitatorio.jpg
-12209 www.tomalatele.tv/web/blog/canal-de-coordinadora25s/
+12215 www.tomalatele.tv/web/blog/presentacion-debate-posible-motor-gravitatorio/
 12210 www.tomalatele.tv/web/wp-content/uploads/2013/09/Coordinadora25s.jpg
+12209 www.tomalatele.tv/web/blog/canal-de-coordinadora25s/
 12206 www.tomalatele.tv/web/wp-content/uploads/2013/09/09.jpg
 12203 www.tomalatele.tv/web/blog/debate-precariedad-y-recortes-en-la-investigacion-publica-210913/
-12181 www.tomalatele.tv/web/blog/la-escalera-on-tour-programa-002/
 12199 www.tomalatele.tv/web/blog/campana-de-desobediencia-yosi-sanidad/
 12196 www.tomalatele.tv/web/wp-content/uploads/2013/09/07.jpg
 12190 www.tomalatele.tv/web/blog/12190/
 12188 www.tomalatele.tv/web/wp-content/uploads/2013/09/06.jpg
 12186 www.tomalatele.tv/web/blog/si-se-puede-capitulo-22/
 12184 www.tomalatele.tv/web/wp-content/uploads/2013/09/laescalera002.jpg
-12173 www.tomalatele.tv/web/blog/acto-por-la-sanidad-publica-en-alpedrete-13s-2013-saludparatodas/
+12181 www.tomalatele.tv/web/blog/la-escalera-on-tour-programa-002/
 12176 www.tomalatele.tv/web/wp-content/uploads/2013/09/SaludParaTodas.jpeg
 12175 www.tomalatele.tv/web/wp-content/uploads/2013/09/SaludParaTodas.jpg
 12174 www.tomalatele.tv/web/wp-content/uploads/2013/09/2013-09-13-18.29.09.jpg
+12173 www.tomalatele.tv/web/blog/acto-por-la-sanidad-publica-en-alpedrete-13s-2013-saludparatodas/
 12170 www.tomalatele.tv/web/wp-content/uploads/2013/09/05.jpg
 12168 www.tomalatele.tv/web/blog/si-se-puede-capitulo-21/
 12162 www.tomalatele.tv/web/blog/convocatoria-taller-tele-ktoma-la-tele-2013/
-12159 www.tomalatele.tv/web/blog/canal-de-feminismos-sol/
 12160 www.tomalatele.tv/web/wp-content/uploads/2013/09/feminismosSol.jpg
+12159 www.tomalatele.tv/web/blog/canal-de-feminismos-sol/
 12157 www.tomalatele.tv/web/wp-content/uploads/2013/09/alexstream.jpg
 12154 www.tomalatele.tv/web/blog/canal-de-alexstream/
 12153 www.tomalatele.tv/web/wp-content/uploads/2013/09/04.jpg
 12151 www.tomalatele.tv/web/blog/si-se-puede-capitulo-20/
-12141 www.tomalatele.tv/web/blog/12141/
 12144 www.tomalatele.tv/web/wp-content/uploads/2013/09/03.jpg
+12141 www.tomalatele.tv/web/blog/12141/
 12135 www.tomalatele.tv/web/wp-content/uploads/2013/09/02.jpg
 12126 www.tomalatele.tv/web/blog/red-de-derechos-sociales-mercadillo-de-intercambio-de-libros-de-texto-y-material-escolar/
 12119 www.tomalatele.tv/web/wp-content/uploads/2013/09/447722677_640.jpg
 12117 www.tomalatele.tv/web/blog/hostigan-y-aumentan-fianza-de-23500-a-126600-a-comunicadores-detenidos-por-documentar-accion-de-la-policia/
 12115 www.tomalatele.tv/web/wp-content/uploads/2013/09/01.jpg
 12112 www.tomalatele.tv/web/wp-content/uploads/2013/09/0.jpg
-12093 www.tomalatele.tv/web/blog/argumentos-por-la-sanidadpublica/
 12098 www.tomalatele.tv/web/wp-content/uploads/2013/09/Sanidadpublica1.jpg
 12097 www.tomalatele.tv/web/wp-content/uploads/2013/09/Sanidadpublica.jpeg
 12096 www.tomalatele.tv/web/wp-content/uploads/2013/09/Sanidadpublica.jpg
 12095 www.tomalatele.tv/web/wp-content/uploads/2013/09/DSC_0003web.jpg
 12094 www.tomalatele.tv/web/wp-content/uploads/2013/09/DSC_0143.jpg
+12093 www.tomalatele.tv/web/blog/argumentos-por-la-sanidadpublica/
 12091 www.tomalatele.tv/web/wp-content/uploads/2013/08/012.jpg
 12087 www.tomalatele.tv/web/blog/concentracion-y-rueda-de-prensa-en-el-hospital-del-henares-28-08-2013/
 12079 www.tomalatele.tv/web/wp-content/uploads/2013/08/011.jpg
 12077 www.tomalatele.tv/web/blog/vive-circo-2013-ii-festival-internacional-de-circo-de-villanueva-de-la-vera/
 12074 www.tomalatele.tv/web/wp-content/uploads/2013/08/url.jpeg
 12066 www.tomalatele.tv/web/blog/rueda-de-prensa-ofelianieto-ofeliaresiste-28a/
-12050 www.tomalatele.tv/web/blog/foro-social-en-el-rototom-2013/
 12052 www.tomalatele.tv/web/wp-content/uploads/2013/08/cultura-foro-social1.jpg
 12051 www.tomalatele.tv/web/wp-content/uploads/2013/08/cultura-foro-social.jpg
+12050 www.tomalatele.tv/web/blog/foro-social-en-el-rototom-2013/
 12048 www.tomalatele.tv/web/wp-content/uploads/2013/08/010.jpg
 12045 www.tomalatele.tv/web/blog/entrevista-a-josemi-perez-historia-de-las-radios-libres-1976-1989/
 12041 www.tomalatele.tv/web/wp-content/uploads/2013/08/445388324_640.jpg
@@ -1556,13 +1556,13 @@
 11969 www.tomalatele.tv/web/wp-content/uploads/2013/07/323888498_640.jpg
 11967 www.tomalatele.tv/web/blog/espanish-dream-2/
 11960 www.tomalatele.tv/web/blog/stop-al-expolio-de-los-bienes-comunales/
-11937 www.tomalatele.tv/web/blog/dimitir-no-es-un-nombre-ruso/
 11955 www.tomalatele.tv/web/wp-content/uploads/2013/07/023.jpg
 11953 www.tomalatele.tv/web/blog/concentracion-en-barcelona-contra-las-directrices-de-la-reproduccion-asistida-23-7-13/
 11950 www.tomalatele.tv/web/wp-content/uploads/2013/07/022.jpg
 11948 www.tomalatele.tv/web/blog/detencion-en-la-puerta-de-comisaria-acampadasusana-susanasequeda/
 11945 www.tomalatele.tv/web/wp-content/uploads/2013/07/desobediencia.png
 11941 www.tomalatele.tv/web/blog/entrevistas-a-participantes-del-encuentro-de-experiencias-sobre-desobediencia-y-autogestion-23-de-junio-2013/
+11937 www.tomalatele.tv/web/blog/dimitir-no-es-un-nombre-ruso/
 11931 www.tomalatele.tv/web/blog/cronica-acampadasusana-susanasequeda/
 11927 www.tomalatele.tv/web/blog/si-se-puede-capitulo-18/
 11915 www.tomalatele.tv/web/wp-content/uploads/2013/07/021.jpg
@@ -1589,12 +1589,12 @@
 11832 www.tomalatele.tv/web/wp-content/uploads/2013/07/012.jpg
 11830 www.tomalatele.tv/web/blog/la-pah-presenta-de-la-burbuja-a-la-obra-social/
 11827 www.tomalatele.tv/web/wp-content/uploads/2013/07/011.jpg
-11823 www.tomalatele.tv/web/blog/11823/
 11825 www.tomalatele.tv/web/wp-content/uploads/2013/07/portada-informativo1.jpg
 11824 www.tomalatele.tv/web/wp-content/uploads/2013/07/portada-informativo.jpg
+11823 www.tomalatele.tv/web/blog/11823/
 11815 www.tomalatele.tv/web/blog/policia-se-ve-desbordada-durante-paseo-9jgobiernodimision/
-11810 www.tomalatele.tv/web/blog/canal-de-alcosanse/
 11811 www.tomalatele.tv/web/wp-content/uploads/2013/07/Alcosanse-.jpg
+11810 www.tomalatele.tv/web/blog/canal-de-alcosanse/
 11806 www.tomalatele.tv/web/wp-content/uploads/2013/07/010.jpg
 11804 www.tomalatele.tv/web/blog/si-se-puede-capitulo-016/
 11800 www.tomalatele.tv/web/wp-content/uploads/2013/07/09.jpg
@@ -1605,14 +1605,14 @@
 11787 www.tomalatele.tv/web/blog/jaquealrey-escrache-a-leticia-y-wert/
 11782 www.tomalatele.tv/web/wp-content/uploads/2013/07/quicenaciomunicacionSocial.jpg
 11780 www.tomalatele.tv/web/wp-content/uploads/2013/07/06.jpg
-11774 www.tomalatele.tv/web/blog/en-krudo-live-7-de-julio-de-2013/
 11778 www.tomalatele.tv/web/wp-content/uploads/2013/07/05.jpg
 11775 www.tomalatele.tv/web/blog/entrevista-a-david-g-aristegui-libro-que-hacemos-con-el-trabajo/
+11774 www.tomalatele.tv/web/blog/en-krudo-live-7-de-julio-de-2013/
 11768 www.tomalatele.tv/web/wp-content/uploads/2013/07/04.jpg
 11766 www.tomalatele.tv/web/blog/11766/
-11756 www.tomalatele.tv/web/blog/si-se-puede-capitulo-015/
 11761 www.tomalatele.tv/web/wp-content/uploads/2013/07/03.jpg
 11758 www.tomalatele.tv/web/blog/teatro-quince-de-mayo-la-guerra-de-las-imagenes-15mayo-2013/
+11756 www.tomalatele.tv/web/blog/si-se-puede-capitulo-015/
 11751 www.tomalatele.tv/web/wp-content/uploads/2013/07/02.jpg
 11749 www.tomalatele.tv/web/blog/esperanzasequeda-01-07-2013/
 11744 www.tomalatele.tv/web/wp-content/uploads/2013/07/01.jpg
@@ -1621,16 +1621,16 @@
 11738 www.tomalatele.tv/web/blog/entrevista-al-ateneo-popular-de-alkorcon/
 11734 www.tomalatele.tv/web/wp-content/uploads/2013/06/029.jpg
 11731 www.tomalatele.tv/web/blog/en-krudo-live-30-de-junio-de-2013/
-11717 www.tomalatele.tv/web/blog/si-se-puede-capitulo-014/
 11727 www.tomalatele.tv/web/wp-content/uploads/2013/06/028.jpg
+11717 www.tomalatele.tv/web/blog/si-se-puede-capitulo-014/
 11712 www.tomalatele.tv/web/wp-content/uploads/2013/06/imagen-destacada.gif
 11708 www.tomalatele.tv/web/wp-content/uploads/2013/06/027.jpg
 11704 www.tomalatele.tv/web/blog/toque-a-la-banca-manifestacion-en-madrid-22-de-junio-de-2013/
 11700 www.tomalatele.tv/web/blog/obra-social/
 11699 www.tomalatele.tv/web/wp-content/uploads/2013/06/025.jpg
 11696 www.tomalatele.tv/web/wp-content/uploads/2013/06/024.jpg
-11690 www.tomalatele.tv/web/blog/desalojo-de-fascistas-en-marea-blanca/
 11693 www.tomalatele.tv/web/wp-content/uploads/2013/06/Sanidad.jpeg
+11690 www.tomalatele.tv/web/blog/desalojo-de-fascistas-en-marea-blanca/
 11685 www.tomalatele.tv/web/blog/en-krudo-live-23-de-junio-de-2013/
 11683 www.tomalatele.tv/web/wp-content/uploads/2013/06/AOM_EXTRA1.jpg
 11682 www.tomalatele.tv/web/wp-content/uploads/2013/06/AOM_EXTRA.jpg
@@ -1641,8 +1641,8 @@
 11657 www.tomalatele.tv/web/wp-content/uploads/2013/06/021.jpg
 11654 www.tomalatele.tv/web/blog/intento-de-jornada-de-puertas-abiertas-centro-al-abrigo-fuenlabrada/
 11651 www.tomalatele.tv/web/wp-content/uploads/2013/06/020.jpg
-11648 www.tomalatele.tv/web/blog/periodismo-ciudadano-periodismo-gratis/
 11649 www.tomalatele.tv/web/wp-content/uploads/2013/06/Imagen-aparece-reproduccion-Jaime-Alekos_EDIIMA20130618_0822_13.jpg
+11648 www.tomalatele.tv/web/blog/periodismo-ciudadano-periodismo-gratis/
 11639 www.tomalatele.tv/web/wp-content/uploads/2013/06/019.jpg
 11637 www.tomalatele.tv/web/blog/especial-revolucion-brasilena/
 11634 www.tomalatele.tv/web/wp-content/uploads/2013/06/018.jpg
@@ -1659,13 +1659,13 @@
 11579 www.tomalatele.tv/web/wp-content/uploads/2013/06/440462909_640.jpg
 11577 www.tomalatele.tv/web/blog/polisin-vurarak-dusurdugu-helikopterden-goruntuler-footage-from-the-helicopter-that-was-shot-down-by-police-hd/
 11575 www.tomalatele.tv/web/wp-content/uploads/2013/06/015.jpg
-11570 www.tomalatele.tv/web/blog/el-show-de-los-mercados/
 11571 www.tomalatele.tv/web/wp-content/uploads/2013/06/video-show-mercados-2013.jpg
-11562 www.tomalatele.tv/web/blog/gala-payasos-sin-fronteras-16-julio-circo-price/
+11570 www.tomalatele.tv/web/blog/el-show-de-los-mercados/
 11564 www.tomalatele.tv/web/wp-content/uploads/2013/06/PAYASOS-SIN-FRONTERAS.jpg
+11562 www.tomalatele.tv/web/blog/gala-payasos-sin-fronteras-16-julio-circo-price/
 11558 www.tomalatele.tv/web/wp-content/uploads/2013/06/014.jpg
-11555 www.tomalatele.tv/web/blog/nace-agitamadrid-la-agenda-del-otro-madrid/
 11556 www.tomalatele.tv/web/wp-content/uploads/2013/06/agita.png
+11555 www.tomalatele.tv/web/blog/nace-agitamadrid-la-agenda-del-otro-madrid/
 11552 www.tomalatele.tv/web/wp-content/uploads/2013/06/013.jpg
 11550 www.tomalatele.tv/web/blog/capitulo-9-libres-el-encuentro-libreslaserie-de-okupacion-rural/
 11548 www.tomalatele.tv/web/wp-content/uploads/2013/06/greciaert.jpg
@@ -1677,8 +1677,8 @@
 11525 www.tomalatele.tv/web/blog/audio-integro-concierto-orquesta-y-coro-de-rtve-en-la-plaza-de-oriente-9-de-junio-2013/
 11518 www.tomalatele.tv/web/wp-content/uploads/2013/06/010.jpg
 11516 www.tomalatele.tv/web/blog/concierto-orquesta-y-coro-de-rtve-en-plaza-de-oriente-9-junio/
-11508 www.tomalatele.tv/web/blog/enkrudolive-9-de-junio-de-2013/
 11511 www.tomalatele.tv/web/wp-content/uploads/2013/06/miniatura-imágen-destacada.png
+11508 www.tomalatele.tv/web/blog/enkrudolive-9-de-junio-de-2013/
 11506 www.tomalatele.tv/web/wp-content/uploads/2013/06/09.jpg
 11502 www.tomalatele.tv/web/blog/promo-gala-humor-preferente-agora-sol-radio/
 11498 www.tomalatele.tv/web/wp-content/uploads/2013/06/08.jpg
@@ -1724,7 +1724,6 @@
 11350 www.tomalatele.tv/web/wp-content/uploads/2013/05/037.jpg
 11346 www.tomalatele.tv/web/blog/entrevista-al-centro-social-seco-22-anos-construyendo-barrio/
 11343 www.tomalatele.tv/web/wp-content/uploads/2013/05/036.jpg
-11313 www.tomalatele.tv/web/blog/paralizado-desahucio-en-lavapies-stopdesahucios-carmensequeda/
 11333 www.tomalatele.tv/web/wp-content/uploads/2013/05/035.jpg
 11329 www.tomalatele.tv/web/blog/presentacion-libro-periodico-madrid15m-un-ano-de-prensa-autogestionada-17-mayo-2013/
 11327 www.tomalatele.tv/web/wp-content/uploads/2013/05/034.jpg
@@ -1732,6 +1731,7 @@
 11321 www.tomalatele.tv/web/wp-content/uploads/2013/05/21.jpg
 11320 www.tomalatele.tv/web/wp-content/uploads/2013/05/23.jpg
 11319 www.tomalatele.tv/web/wp-content/uploads/2013/05/22.jpg
+11313 www.tomalatele.tv/web/blog/paralizado-desahucio-en-lavapies-stopdesahucios-carmensequeda/
 11310 www.tomalatele.tv/web/blog/valoracion-15m-a-pie-de-calle/
 11306 www.tomalatele.tv/web/wp-content/uploads/2013/05/033.jpg
 11304 www.tomalatele.tv/web/blog/pueblos-unidos-contra-la-troika-manifestacion-internacional-1-de-junio-yo-voy/
@@ -1740,8 +1740,8 @@
 11296 www.tomalatele.tv/web/blog/entrevista-a-raul-capin-y-adolfo-lujan-23-mayo-2013/
 11293 www.tomalatele.tv/web/wp-content/uploads/2013/05/031.jpg
 11291 www.tomalatele.tv/web/blog/manifestacion-por-la-educacion-09-de-mayo-de-2013/
-11276 www.tomalatele.tv/web/blog/escrache-a-la-precariedad-11-de-mayo-de-2013/
 11277 www.tomalatele.tv/web/wp-content/uploads/2013/05/1.jpg
+11276 www.tomalatele.tv/web/blog/escrache-a-la-precariedad-11-de-mayo-de-2013/
 11271 www.tomalatele.tv/web/wp-content/uploads/2013/05/030.jpg
 11269 www.tomalatele.tv/web/blog/sin-fotografos-no-lo-ves-raullibertad-adolfolibertad/
 11266 www.tomalatele.tv/web/wp-content/uploads/2013/05/029.jpg
@@ -1799,8 +1799,8 @@
 11090 www.tomalatele.tv/web/wp-content/uploads/2013/05/06.jpg
 11087 www.tomalatele.tv/web/blog/manifestacion-de-educacion-lomce-9-mayo-2013/
 11078 www.tomalatele.tv/web/blog/canal-3-de-plataf-rtv-publica/
-11075 www.tomalatele.tv/web/blog/canal-2-de-plataf-rtv-publica/
 11076 www.tomalatele.tv/web/wp-content/uploads/2013/05/perfil_hazlopublico.jpg
+11075 www.tomalatele.tv/web/blog/canal-2-de-plataf-rtv-publica/
 11071 www.tomalatele.tv/web/wp-content/uploads/2013/05/05.jpg
 11069 www.tomalatele.tv/web/blog/si-se-puede-capitulo-007/
 11063 www.tomalatele.tv/web/wp-content/uploads/2013/05/04.jpg
@@ -1827,18 +1827,18 @@
 10973 www.tomalatele.tv/web/blog/presentacion-de-la-comision-de-la-verdad-y-lucha-contra-la-impunidad/
 10968 www.tomalatele.tv/web/wp-content/uploads/2013/04/022.jpg
 10966 www.tomalatele.tv/web/blog/capio-sanidad-caca/
-10958 www.tomalatele.tv/web/blog/quien-es-victor-madera-escrachevictormadera-quienesvictormadera/
 10961 www.tomalatele.tv/web/wp-content/uploads/2013/04/quienEs.pdf
 10959 www.tomalatele.tv/web/wp-content/uploads/2013/04/vmadera.jpg
-10954 www.tomalatele.tv/web/blog/canal-de-juanitrus/
+10958 www.tomalatele.tv/web/blog/quien-es-victor-madera-escrachevictormadera-quienesvictormadera/
 10955 www.tomalatele.tv/web/wp-content/uploads/2013/04/juanitrus.jpg
+10954 www.tomalatele.tv/web/blog/canal-de-juanitrus/
 10944 www.tomalatele.tv/web/wp-content/uploads/2013/04/021.jpg
 10942 www.tomalatele.tv/web/blog/si-se-puede-capitulo-005/
 10938 www.tomalatele.tv/web/wp-content/uploads/2013/04/020.jpg
 10936 www.tomalatele.tv/web/blog/10936/
 10930 www.tomalatele.tv/web/blog/en-krudo-live-21-de-abril/
-10924 www.tomalatele.tv/web/blog/canal-de-directos-tv/
 10925 www.tomalatele.tv/web/wp-content/uploads/2013/04/directosTV.jpg
+10924 www.tomalatele.tv/web/blog/canal-de-directos-tv/
 10921 www.tomalatele.tv/web/wp-content/uploads/2013/04/019.jpg
 10919 www.tomalatele.tv/web/blog/si-se-puede-capitulo-004/
 10916 www.tomalatele.tv/web/wp-content/uploads/2013/04/434001149_640.jpg
@@ -1888,11 +1888,11 @@
 10763 www.tomalatele.tv/web/blog/encierro-en-bankia-del-colectivo-stop-desahucios-alicante-27-03-2013/
 10760 www.tomalatele.tv/web/wp-content/uploads/2013/03/055.jpg
 10758 www.tomalatele.tv/web/blog/10758/
-10754 www.tomalatele.tv/web/blog/canal-de/
 10755 www.tomalatele.tv/web/wp-content/uploads/2013/03/sicomtv.jpg
-10741 www.tomalatele.tv/web/blog/si-se-puede-capitulo-001/
+10754 www.tomalatele.tv/web/blog/canal-de/
 10743 www.tomalatele.tv/web/wp-content/uploads/2013/03/Captura-de-pantalla-2013-03-26-a-las-15.46.47.jpg
 10742 www.tomalatele.tv/web/wp-content/uploads/2013/03/Captura-de-pantalla-2013-03-26-a-las-15.46.47.png
+10741 www.tomalatele.tv/web/blog/si-se-puede-capitulo-001/
 10737 www.tomalatele.tv/web/wp-content/uploads/2013/03/054.jpg
 10735 www.tomalatele.tv/web/blog/el-extrano-caso-de-javier-espinosa/
 10734 www.tomalatele.tv/web/wp-content/uploads/2013/03/portada-informativo.jpg
@@ -1906,15 +1906,15 @@
 10707 www.tomalatele.tv/web/wp-content/uploads/2013/03/050.jpg
 10705 www.tomalatele.tv/web/blog/un-desahucio-en-carabanchel/
 10701 www.tomalatele.tv/web/wp-content/uploads/2013/03/049.jpg
-10698 www.tomalatele.tv/web/blog/fiesta-eurovegas-no-22m-20h-patio-maravillas/
 10699 www.tomalatele.tv/web/wp-content/uploads/2013/03/C43.png
+10698 www.tomalatele.tv/web/blog/fiesta-eurovegas-no-22m-20h-patio-maravillas/
 10694 www.tomalatele.tv/web/wp-content/uploads/2013/03/048.jpg
 10692 www.tomalatele.tv/web/blog/esto-no-es-una-crisis-es-un-atraco/
 10688 www.tomalatele.tv/web/wp-content/uploads/2013/03/429251850_640.jpg
 10686 www.tomalatele.tv/web/blog/huert-side-story/
 10680 www.tomalatele.tv/web/wp-content/uploads/2013/03/047.jpg
-10674 www.tomalatele.tv/web/blog/jornada-de-lucha-contra-los-desahucios-en-fuenlabrada-20-3-2013/
 10675 www.tomalatele.tv/web/wp-content/uploads/2013/03/894877_426745260748678_1040165544_o.jpg
+10674 www.tomalatele.tv/web/blog/jornada-de-lucha-contra-los-desahucios-en-fuenlabrada-20-3-2013/
 10671 www.tomalatele.tv/web/wp-content/uploads/2013/03/046.jpg
 10669 www.tomalatele.tv/web/blog/si-se-puede-capitulo-piloto/
 10667 www.tomalatele.tv/web/wp-content/uploads/2013/03/045.jpg
@@ -1943,8 +1943,8 @@
 10570 www.tomalatele.tv/web/wp-content/uploads/2013/03/035.jpg
 10561 www.tomalatele.tv/web/blog/no-nos-pararan-1-acusados-por-defender-la-vivienda-digna/
 10558 www.tomalatele.tv/web/wp-content/uploads/2013/03/034.jpg
-10548 www.tomalatele.tv/web/blog/servicios-sociales-una-barrera-mas-tras-conseguir-la-dacion-en-pago/
 10553 www.tomalatele.tv/web/wp-content/uploads/2013/03/033.jpg
+10548 www.tomalatele.tv/web/blog/servicios-sociales-una-barrera-mas-tras-conseguir-la-dacion-en-pago/
 10539 www.tomalatele.tv/web/blog/colas-en-los-juzgados-de-fuenlabrada-para-solicitar-la-nacionalidad/
 10535 www.tomalatele.tv/web/wp-content/uploads/2013/03/032.jpg
 10532 www.tomalatele.tv/web/blog/launienlacalle-9-de-marzo-de-2013/
@@ -1955,7 +1955,6 @@
 10515 www.tomalatele.tv/web/wp-content/uploads/2013/03/presc.jpg
 10514 www.tomalatele.tv/web/wp-content/uploads/2013/03/presci.jpg
 10513 www.tomalatele.tv/web/wp-content/uploads/2013/03/pres.jpg
-10458 www.tomalatele.tv/web/blog/cortometraje-prescindibles-de-24fotogrames/
 10502 www.tomalatele.tv/web/wp-content/uploads/2013/03/029.jpg
 10500 www.tomalatele.tv/web/blog/el-rey-leon-mensajes-ocultos/
 10495 www.tomalatele.tv/web/wp-content/uploads/2013/03/028.jpg
@@ -1964,14 +1963,15 @@
 10488 www.tomalatele.tv/web/blog/parte-4-a-por-ellos/
 10485 www.tomalatele.tv/web/wp-content/uploads/2013/03/026.jpg
 10483 www.tomalatele.tv/web/blog/parte-3-a-por-ellos/
-10476 www.tomalatele.tv/web/blog/parte-2-a-por-ellos/
 10478 www.tomalatele.tv/web/wp-content/uploads/2013/03/025.jpg
+10476 www.tomalatele.tv/web/blog/parte-2-a-por-ellos/
 10472 www.tomalatele.tv/web/wp-content/uploads/2013/03/024.jpg
 10470 www.tomalatele.tv/web/blog/parte-1-a-por-ellos/
 10468 www.tomalatele.tv/web/wp-content/uploads/2013/03/023.jpg
 10466 www.tomalatele.tv/web/blog/hasta-siempre-comandante-chavez/
 10462 www.tomalatele.tv/web/wp-content/uploads/2013/03/022.jpg
 10459 www.tomalatele.tv/web/blog/militar-en-los-medios-pablo-iglesias-2/
+10458 www.tomalatele.tv/web/blog/cortometraje-prescindibles-de-24fotogrames/
 10455 www.tomalatele.tv/web/wp-content/uploads/2013/03/021.jpg
 10453 www.tomalatele.tv/web/blog/deafectadoadiputado/
 10449 www.tomalatele.tv/web/wp-content/uploads/2013/03/020.jpg
@@ -1987,8 +1987,8 @@
 10414 www.tomalatele.tv/web/wp-content/uploads/2013/03/426834651_640.jpg
 10412 www.tomalatele.tv/web/blog/manifiesto-unienlacalle-la-universidad-sale-a-la-calle/
 10410 www.tomalatele.tv/web/wp-content/uploads/2013/03/016.jpg
-10402 www.tomalatele.tv/web/blog/canal-de-plataf-rtv-publica/
 10403 www.tomalatele.tv/web/wp-content/uploads/2013/03/logoptrtv.jpeg
+10402 www.tomalatele.tv/web/blog/canal-de-plataf-rtv-publica/
 10399 www.tomalatele.tv/web/wp-content/uploads/2013/03/424350620_640.jpg
 10397 www.tomalatele.tv/web/blog/la-voz-de-iberia/
 10390 www.tomalatele.tv/web/wp-content/uploads/2013/03/015.jpg
@@ -2061,7 +2061,6 @@
 10175 www.tomalatele.tv/web/wp-content/uploads/2013/02/085.jpg
 10174 www.tomalatele.tv/web/wp-content/uploads/2013/02/084.jpg
 10164 www.tomalatele.tv/web/blog/armada-israeli-aborda-el-velero-estelle-con-violencia/
- 9881 www.tomalatele.tv/web/blog/video-accion-oficina-empleo-san-blas/
 10161 www.tomalatele.tv/web/wp-content/uploads/2013/02/iberia.jpg
 10158 www.tomalatele.tv/web/blog/la-policia-actua-contra-los-manifestantes-de-iberia/
 10154 www.tomalatele.tv/web/wp-content/uploads/2013/02/083.jpg
@@ -2069,8 +2068,8 @@
 10149 www.tomalatele.tv/web/wp-content/uploads/2013/02/libres.jpg
 10146 www.tomalatele.tv/web/wp-content/uploads/2013/02/082.jpg
 10141 www.tomalatele.tv/web/blog/promo-gala-humor-democratico-y-real-agora-sol-radio/
-10138 www.tomalatele.tv/web/blog/trabajadores-despedidos-de-telemadrid-crean-tmex-es-la-nueva-television-para-todos-los-madrilenos/
 10139 www.tomalatele.tv/web/wp-content/uploads/2013/02/tm-ex-195x110.jpg
+10138 www.tomalatele.tv/web/blog/trabajadores-despedidos-de-telemadrid-crean-tmex-es-la-nueva-television-para-todos-los-madrilenos/
 10131 www.tomalatele.tv/web/wp-content/uploads/2013/02/081.jpg
 10127 www.tomalatele.tv/web/wp-content/uploads/2013/02/080.jpg
 10123 www.tomalatele.tv/web/blog/promocion-meteorito-tv/
@@ -2092,7 +2091,6 @@
 10053 www.tomalatele.tv/web/wp-content/uploads/2013/02/071.jpg
 10051 www.tomalatele.tv/web/blog/inviernosalsol-nuevos-acampados-en-sol-febrero-2013/
 10048 www.tomalatele.tv/web/wp-content/uploads/2013/02/joseDRY.jpg
- 9967 www.tomalatele.tv/web/blog/taller-muevelopublico-sesion-10/
 10035 www.tomalatele.tv/web/wp-content/uploads/2013/02/muevelopublico.jpg
 10031 www.tomalatele.tv/web/wp-content/uploads/2013/02/070.jpg
 10028 www.tomalatele.tv/web/blog/madrid-manifestacion-16f-ilphipotecaria-derecho-a-techo/
@@ -2103,19 +2101,20 @@
 10006 www.tomalatele.tv/web/blog/josedry-a-coruna/
  9998 www.tomalatele.tv/web/wp-content/uploads/2013/02/067.jpg
  9995 www.tomalatele.tv/web/blog/promo-manifestacion-pah-16-de-febrero-si-se-puede/
- 9914 www.tomalatele.tv/web/blog/taller-muevelopublico-sesion-1/
- 9931 www.tomalatele.tv/web/blog/taller-muevelopublico-sesion-3/
+ 9967 www.tomalatele.tv/web/blog/taller-muevelopublico-sesion-10/
  9963 www.tomalatele.tv/web/blog/taller-muevelopublico-sesion-9/
  9961 www.tomalatele.tv/web/blog/taller-muevelopublico-sesion-8/
  9958 www.tomalatele.tv/web/blog/taller-muevelopublico-sesion-7/
  9952 www.tomalatele.tv/web/blog/taller-muevelopublico-sesion-6/
  9943 www.tomalatele.tv/web/blog/taller-muevelopublico-sesion-4/
- 9913 www.tomalatele.tv/web/blog/muevelopublico-talleres/
+ 9931 www.tomalatele.tv/web/blog/taller-muevelopublico-sesion-3/
  9928 www.tomalatele.tv/web/blog/taller-muevelopublico-sesion-2/
  9926 www.tomalatele.tv/web/wp-content/uploads/2013/02/croquis-marea-blanca31.jpg
  9925 www.tomalatele.tv/web/wp-content/uploads/2013/02/croquis-marea-blanca3.jpg
  9922 www.tomalatele.tv/web/wp-content/uploads/2013/02/066.jpg
  9918 www.tomalatele.tv/web/blog/marea-blanca-nacional-17f/
+ 9914 www.tomalatele.tv/web/blog/taller-muevelopublico-sesion-1/
+ 9913 www.tomalatele.tv/web/blog/muevelopublico-talleres/
  9903 www.tomalatele.tv/web/wp-content/uploads/2013/02/065.jpg
  9901 www.tomalatele.tv/web/blog/opendraghi-alberto-garzon-iu-a-draghi-deberia-acompanar-a-trichet-ante-los-tribunales-por-la-crisis-y-su-alergia-a-la-democracia/
  9898 www.tomalatele.tv/web/wp-content/uploads/2013/02/064.jpg
@@ -2124,20 +2123,21 @@
  9891 www.tomalatele.tv/web/blog/libres-nueva-serie-de-okupacion-rural-trailer/
  9887 www.tomalatele.tv/web/wp-content/uploads/2013/02/062.jpg
  9885 www.tomalatele.tv/web/blog/rociosequeda-desahucio-paralizado-en-vicalvaro-madrid-06-02-13/
+ 9881 www.tomalatele.tv/web/blog/video-accion-oficina-empleo-san-blas/
  9879 www.tomalatele.tv/web/wp-content/uploads/2013/02/congreso.jpg
- 9876 www.tomalatele.tv/web/blog/canal-alistream/
  9877 www.tomalatele.tv/web/wp-content/uploads/2013/02/alistream.jpg
+ 9876 www.tomalatele.tv/web/blog/canal-alistream/
  9872 www.tomalatele.tv/web/wp-content/uploads/2013/02/061.jpg
  9870 www.tomalatele.tv/web/blog/asunsequeda-desahucio-paralizado-por-activistas-en-el-barrio-de-manoteras-madrid-08-02-13/
- 9860 www.tomalatele.tv/web/blog/ii-festival-de-cine-copyleft-de-carabanchel-carabanleft-del-23-de-febrero-al-3-de-marzo/
  9862 www.tomalatele.tv/web/wp-content/uploads/2013/02/baja02cartelcarabanleft20131.jpg
  9861 www.tomalatele.tv/web/wp-content/uploads/2013/02/baja02cartelcarabanleft2013.jpg
+ 9860 www.tomalatele.tv/web/blog/ii-festival-de-cine-copyleft-de-carabanchel-carabanleft-del-23-de-febrero-al-3-de-marzo/
  9858 www.tomalatele.tv/web/wp-content/uploads/2013/02/060.jpg
  9855 www.tomalatele.tv/web/wp-content/uploads/2013/02/059.jpg
- 9845 www.tomalatele.tv/web/blog/convocatoria-publica-en-defensa-de-rtve-14f-defendamosrtve-abriendortve/
  9848 www.tomalatele.tv/web/wp-content/uploads/2013/02/CONVOCATORIA-PUBLICA-EN-DEFENSA-DE-RTVE.jpg
  9847 www.tomalatele.tv/web/wp-content/uploads/2013/02/CONVOCATORIA-PUBLICA-EN-DEFENSA-DE-RTVE-2.jpg
  9846 www.tomalatele.tv/web/wp-content/uploads/2013/02/COMUNICADO.jpg
+ 9845 www.tomalatele.tv/web/blog/convocatoria-publica-en-defensa-de-rtve-14f-defendamosrtve-abriendortve/
  9843 www.tomalatele.tv/web/wp-content/uploads/2013/02/058.jpg
  9839 www.tomalatele.tv/web/wp-content/uploads/2013/02/057.jpg
  9837 www.tomalatele.tv/web/blog/accion-stop-desahucios-sierra-de-madrid-siluetas-de-dignidad/
@@ -2147,8 +2147,8 @@
  9820 www.tomalatele.tv/web/wp-content/uploads/2013/02/055.jpg
  9816 www.tomalatele.tv/web/blog/marchas-por-la-sanidad-publica-10f/
  9813 www.tomalatele.tv/web/blog/en-krudo-live-10-de-febrero-de-2013-informativo-semanal-de-tomalatele-tv/
- 9806 www.tomalatele.tv/web/blog/canal-de-cronica-popular/
  9807 www.tomalatele.tv/web/wp-content/uploads/2013/02/cronica-popular.jpg
+ 9806 www.tomalatele.tv/web/blog/canal-de-cronica-popular/
  9797 www.tomalatele.tv/web/wp-content/uploads/2013/02/054.jpg
  9779 www.tomalatele.tv/web/wp-content/uploads/2013/02/E-Duran1.jpg
  9773 www.tomalatele.tv/web/blog/absolucion-enric-duran%e2%80%8f-absolucioenricduran/
@@ -2166,8 +2166,8 @@
  9732 www.tomalatele.tv/web/wp-content/uploads/2013/02/UNED40aniv.gif
  9729 www.tomalatele.tv/web/blog/9729/
  9728 www.tomalatele.tv/web/wp-content/uploads/2013/02/049.jpg
- 9722 www.tomalatele.tv/web/blog/patera-vs-patrullera/
  9723 www.tomalatele.tv/web/wp-content/uploads/2013/02/photo.png
+ 9722 www.tomalatele.tv/web/blog/patera-vs-patrullera/
  9719 www.tomalatele.tv/web/wp-content/uploads/2013/02/048.jpg
  9718 www.tomalatele.tv/web/wp-content/uploads/2013/02/047.jpg
  9716 www.tomalatele.tv/web/blog/desalojo-celenque/
@@ -2185,8 +2185,8 @@
  9668 www.tomalatele.tv/web/wp-content/uploads/2013/02/037.jpg
  9662 www.tomalatele.tv/web/wp-content/uploads/2013/02/036.jpg
  9657 www.tomalatele.tv/web/wp-content/uploads/2013/02/035.jpg
- 9645 www.tomalatele.tv/web/blog/15m-fuenlabrada-en-el-inem-movilizate-juntos-podemos/
  9651 www.tomalatele.tv/web/wp-content/uploads/2013/02/034.jpg
+ 9645 www.tomalatele.tv/web/blog/15m-fuenlabrada-en-el-inem-movilizate-juntos-podemos/
  9636 www.tomalatele.tv/web/wp-content/uploads/2013/02/moratalaz.jpg
  9633 www.tomalatele.tv/web/blog/inem-de-moratalaz-en-madrid-manifestacion-por-el-derecho-al-trabajo/
  9628 www.tomalatele.tv/web/wp-content/uploads/2013/02/033.jpg
@@ -2195,15 +2195,15 @@
  9620 www.tomalatele.tv/web/blog/1-destruccion-en-velilla-de-san-antonio-1a-parte-sector-xviii/
  9617 www.tomalatele.tv/web/wp-content/uploads/2013/02/AnalisisSol15m.jpg
  9612 www.tomalatele.tv/web/wp-content/uploads/2013/02/031.jpg
- 9607 www.tomalatele.tv/web/blog/la-lucha-por-la-tierra-y-el-trabajo-continua-en-velilla-de-san-antonio/
  9610 www.tomalatele.tv/web/wp-content/uploads/2013/02/sector_XVIII1.jpg
+ 9607 www.tomalatele.tv/web/blog/la-lucha-por-la-tierra-y-el-trabajo-continua-en-velilla-de-san-antonio/
  9600 www.tomalatele.tv/web/blog/analisis-sol-streaming/
- 9594 www.tomalatele.tv/web/blog/canal-de-a-p-vicalvaro/
  9595 www.tomalatele.tv/web/wp-content/uploads/2013/02/avicalvaro.jpg
+ 9594 www.tomalatele.tv/web/blog/canal-de-a-p-vicalvaro/
  9586 www.tomalatele.tv/web/wp-content/uploads/2013/02/030.jpg
  9582 www.tomalatele.tv/web/blog/9582/
- 9577 www.tomalatele.tv/web/blog/ada-colau-la-pah-lleva-al-congreso-la-ilp-sobre-la-dacion-en-pago/
  9578 www.tomalatele.tv/web/wp-content/uploads/2013/02/adaColauCongreso.jpg
+ 9577 www.tomalatele.tv/web/blog/ada-colau-la-pah-lleva-al-congreso-la-ilp-sobre-la-dacion-en-pago/
  9573 www.tomalatele.tv/web/wp-content/uploads/2013/02/029.jpg
  9571 www.tomalatele.tv/web/blog/marea-blanca-en-las-rozas/
  9567 www.tomalatele.tv/web/wp-content/uploads/2013/02/028.jpg
@@ -2226,16 +2226,16 @@
  9519 www.tomalatele.tv/web/blog/el-ticderajoy-se-repite-en-berlin-dos-dias-despues-del-espectaculo-de-genova/
  9514 www.tomalatele.tv/web/wp-content/uploads/2013/02/019.jpg
  9512 www.tomalatele.tv/web/blog/lucha-del-sector-sanitario-en-madrid/
- 9509 www.tomalatele.tv/web/blog/canal-de-bytedevil/
  9510 www.tomalatele.tv/web/wp-content/uploads/2013/02/bytedevil.jpg
+ 9509 www.tomalatele.tv/web/blog/canal-de-bytedevil/
  9506 www.tomalatele.tv/web/wp-content/uploads/2013/02/018.jpg
  9504 www.tomalatele.tv/web/blog/cualquier-noche-puede-salir-el-sol-las5desol/
- 9500 www.tomalatele.tv/web/blog/canal-de-letimp/
  9501 www.tomalatele.tv/web/wp-content/uploads/2013/02/letimp.jpg
- 9495 www.tomalatele.tv/web/blog/canal-de-_mtiago/
+ 9500 www.tomalatele.tv/web/blog/canal-de-letimp/
  9496 www.tomalatele.tv/web/wp-content/uploads/2013/02/mtiago.jpg
- 9491 www.tomalatele.tv/web/blog/canal-de-rozzcal/
+ 9495 www.tomalatele.tv/web/blog/canal-de-_mtiago/
  9492 www.tomalatele.tv/web/wp-content/uploads/2013/02/rozzcal.jpg
+ 9491 www.tomalatele.tv/web/blog/canal-de-rozzcal/
  9484 www.tomalatele.tv/web/blog/madrid-asi-nace-acampadadestituyente-las5desol-primera-noche/
  9481 www.tomalatele.tv/web/wp-content/uploads/2013/02/017.jpg
  9479 www.tomalatele.tv/web/blog/concentracion-por-cuarto-dia-consecutivo-ante-la-sede-del-pp-en-genova/
@@ -2245,36 +2245,36 @@
  9466 www.tomalatele.tv/web/wp-content/uploads/2013/02/016.jpg
  9464 www.tomalatele.tv/web/blog/de-represion-policial-en-la-sede-del-pp-a-las5desol-03-02-13/
  9463 www.tomalatele.tv/web/wp-content/uploads/2013/02/acampadaDestituyente.jpg
- 9460 www.tomalatele.tv/web/blog/canal-de-shul_evolution/
  9461 www.tomalatele.tv/web/wp-content/uploads/2013/02/shul_evolution.jpg
+ 9460 www.tomalatele.tv/web/blog/canal-de-shul_evolution/
  9455 www.tomalatele.tv/web/wp-content/uploads/2013/02/015.jpg
- 9384 www.tomalatele.tv/web/blog/en-krudo-live-informativo-del-3-de-febrero-de-2010-de-tomalatele/
  9449 www.tomalatele.tv/web/wp-content/uploads/2013/02/014.jpg
  9446 www.tomalatele.tv/web/blog/tienda-amiga-apoyo-al-pequeno-comercio-y-a-las-desempleadas-de-carabanchel/
  9440 www.tomalatele.tv/web/wp-content/uploads/2013/02/15mcc.jpg
  9435 www.tomalatele.tv/web/wp-content/uploads/2013/02/013.jpg
- 9429 www.tomalatele.tv/web/blog/9429/
  9432 www.tomalatele.tv/web/wp-content/uploads/2013/02/012.jpg
+ 9429 www.tomalatele.tv/web/blog/9429/
  9428 www.tomalatele.tv/web/blog/documental-15m-excelente-revulsivo-importante-v-1-6/
  9424 www.tomalatele.tv/web/wp-content/uploads/2013/02/LOGO_AGORA3-150x150.jpg
- 9420 www.tomalatele.tv/web/blog/agora-sol-radio-pan-y-circo-enero-2013-corrupcion-democracia-y-desobediencia-civil-0937/
  9421 www.tomalatele.tv/web/wp-content/uploads/2013/02/Banner_agorasol.png
+ 9420 www.tomalatele.tv/web/blog/agora-sol-radio-pan-y-circo-enero-2013-corrupcion-democracia-y-desobediencia-civil-0937/
  9415 www.tomalatele.tv/web/wp-content/uploads/2013/02/011.jpg
  9413 www.tomalatele.tv/web/blog/avance-de-programa-de-dones-en-rebel%c2%b7lia-tanquem-els-cie/
  9403 www.tomalatele.tv/web/wp-content/uploads/2013/02/010.jpg
  9401 www.tomalatele.tv/web/blog/madrid-18e-corrupplandia-sede-del-pp-madriguera-de-ladrones-corrupptos/
- 9396 www.tomalatele.tv/web/blog/se-autoriza-grabar-los-plenos-municipales-primera-victoria-del-gt-de-plenos-del-15m-villa-de-vallecas/
  9397 www.tomalatele.tv/web/wp-content/uploads/2013/02/Pleno_Municipal_VVK.jpg
+ 9396 www.tomalatele.tv/web/blog/se-autoriza-grabar-los-plenos-municipales-primera-victoria-del-gt-de-plenos-del-15m-villa-de-vallecas/
  9393 www.tomalatele.tv/web/wp-content/uploads/2013/02/09.jpg
  9391 www.tomalatele.tv/web/blog/la-pah-cerdanyola-ripollet-ocupa-un-edificio-ocupahcdv/
  9389 www.tomalatele.tv/web/blog/barrio-canino-vol-70-rock-crude-rock-cultura-y-movimientos-sociales/
+ 9384 www.tomalatele.tv/web/blog/en-krudo-live-informativo-del-3-de-febrero-de-2010-de-tomalatele/
  9381 www.tomalatele.tv/web/wp-content/uploads/2013/02/08.jpg
  9379 www.tomalatele.tv/web/blog/entrevista-a-josu-monterroso-en-la-presentacion-de-su-novela-dormitorios-de-colores/
  9374 www.tomalatele.tv/web/wp-content/uploads/2013/02/07.jpg
  9372 www.tomalatele.tv/web/blog/madrid-marcha-rajoydimision-llegando-a-sol/
  9361 www.tomalatele.tv/web/wp-content/uploads/2013/02/06.jpg
- 9357 www.tomalatele.tv/web/blog/cargas-antidisturbios-en-sol-02-02-13-seguimos2f/
  9359 www.tomalatele.tv/web/wp-content/uploads/2013/02/05.jpg
+ 9357 www.tomalatele.tv/web/blog/cargas-antidisturbios-en-sol-02-02-13-seguimos2f/
  9350 www.tomalatele.tv/web/wp-content/uploads/2013/02/04.jpg
  9345 www.tomalatele.tv/web/blog/ppdimision-todos-a-las-sedes-del-pp/
  9342 www.tomalatele.tv/web/wp-content/uploads/2013/02/03.jpg
@@ -2290,10 +2290,10 @@
  9301 www.tomalatele.tv/web/wp-content/uploads/2013/01/057.jpg
  9299 www.tomalatele.tv/web/blog/salvemos-telemadrid-925resisten-los-jueves-al-sol/
  9297 www.tomalatele.tv/web/wp-content/uploads/2013/01/056.jpg
- 9283 www.tomalatele.tv/web/blog/entrevista-a-olmo-calvo-periodismo-independiente-periodismo-libre/
  9290 www.tomalatele.tv/web/wp-content/uploads/2013/01/055.jpg
  9288 www.tomalatele.tv/web/blog/17f-marea-blanca-nacional-sanidadpublica-sabanasblancas/
  9285 www.tomalatele.tv/web/wp-content/uploads/2013/01/405449890_640.jpg
+ 9283 www.tomalatele.tv/web/blog/entrevista-a-olmo-calvo-periodismo-independiente-periodismo-libre/
  9282 www.tomalatele.tv/web/blog/el-eslabon-perdido-del-partido-popular/
  9278 www.tomalatele.tv/web/wp-content/uploads/2013/01/054.jpg
  9276 www.tomalatele.tv/web/blog/su-solucion-final-privatizar-la-sanidad/
@@ -2311,7 +2311,6 @@
  9221 www.tomalatele.tv/web/blog/manifestacion-contra-eurovegas-madrid-26-01-2013/
  9218 www.tomalatele.tv/web/wp-content/uploads/2013/01/049.jpg
  9216 www.tomalatele.tv/web/blog/presentacion-de-la-plataforma-activista-oiga-me/
- 8874 www.tomalatele.tv/web/blog/videoteca-popular-de-carabanchel-memoria-dignidad-y-lucha/
  9213 www.tomalatele.tv/web/wp-content/uploads/2013/01/048.jpg
  9211 www.tomalatele.tv/web/blog/activistas-de-la-pah-se-encierran-en-la-emv/
  9208 www.tomalatele.tv/web/wp-content/uploads/2013/01/403880365_6401.jpg
@@ -2320,24 +2319,24 @@
  9188 www.tomalatele.tv/web/blog/9188/
  9185 www.tomalatele.tv/web/wp-content/uploads/2013/01/047.jpg
  9177 www.tomalatele.tv/web/blog/en-krudo-live-27-de-ene-2013-informativo-de-tomalatele/
- 9174 www.tomalatele.tv/web/blog/canal-de-eurovegasno/
  9175 www.tomalatele.tv/web/wp-content/uploads/2013/01/26-ENERO-18H-EUROVEGASNO.L.png
+ 9174 www.tomalatele.tv/web/blog/canal-de-eurovegasno/
  9167 www.tomalatele.tv/web/wp-content/uploads/2013/01/046.jpg
  9165 www.tomalatele.tv/web/blog/9165/
  9159 www.tomalatele.tv/web/wp-content/uploads/2013/01/045.jpg
  9157 www.tomalatele.tv/web/blog/entrevista-a-juan-recio-24-dias-en-huelga-de-hambre-por-la-sanidad/
  9155 www.tomalatele.tv/web/wp-content/uploads/2013/01/044.jpg
  9152 www.tomalatele.tv/web/blog/la-pah-en-el-congreso-entrega-de-firmas-ilp-y-nuevas-acciones/
- 9109 www.tomalatele.tv/web/blog/recuerda-manifestacion-contra-eurovegas-26-de-enero-1800-horas-atocha-sol/
  9148 www.tomalatele.tv/web/wp-content/uploads/2013/01/043.jpg
- 9142 www.tomalatele.tv/web/blog/eurovegas-no-2/
  9146 www.tomalatele.tv/web/wp-content/uploads/2013/01/21.jpg
  9145 www.tomalatele.tv/web/wp-content/uploads/2013/01/2.jpg
+ 9142 www.tomalatele.tv/web/blog/eurovegas-no-2/
  9139 www.tomalatele.tv/web/wp-content/uploads/2013/01/042.jpg
  9137 www.tomalatele.tv/web/blog/yayoflautas-en-defensa-de-los-derechos-de-la-ciudadania-ministerio-de-justicia-22-01-13/
  9122 www.tomalatele.tv/web/wp-content/uploads/2013/01/041.jpg
  9118 www.tomalatele.tv/web/wp-content/uploads/2013/01/040.jpg
  9116 www.tomalatele.tv/web/blog/resumen-de-la-marcha-funebre-por-la-sanidad-publica/
+ 9109 www.tomalatele.tv/web/blog/recuerda-manifestacion-contra-eurovegas-26-de-enero-1800-horas-atocha-sol/
  9104 www.tomalatele.tv/web/wp-content/uploads/2013/01/SalaAlberdi1.jpg
  9103 www.tomalatele.tv/web/wp-content/uploads/2013/01/SalaAlberdi.jpg
  9102 www.tomalatele.tv/web/wp-content/uploads/2013/01/SalaAlber1.jpg
@@ -2346,8 +2345,8 @@
  9084 www.tomalatele.tv/web/wp-content/uploads/2013/01/26-enero-EVN.pdf
  9083 www.tomalatele.tv/web/wp-content/uploads/2013/01/folleto-mani.pdf
  9081 www.tomalatele.tv/web/wp-content/uploads/2013/01/039.jpg
- 9078 www.tomalatele.tv/web/blog/madrid-manifestacion-contra-eurovegas-26-de-enero/
  9079 www.tomalatele.tv/web/wp-content/uploads/2013/01/eurovegas-01.jpg
+ 9078 www.tomalatele.tv/web/blog/madrid-manifestacion-contra-eurovegas-26-de-enero/
  9073 www.tomalatele.tv/web/wp-content/uploads/2013/01/038.jpg
  9069 www.tomalatele.tv/web/blog/tomalatele-en-krudo-live-20-ene-2013/
  9063 www.tomalatele.tv/web/wp-content/uploads/2013/01/037.jpg
@@ -2371,7 +2370,6 @@
  8999 www.tomalatele.tv/web/wp-content/uploads/2013/01/264369514_640.jpg
  8995 www.tomalatele.tv/web/wp-content/uploads/2013/01/030.jpg
  8993 www.tomalatele.tv/web/blog/afectados-por-las-preferentes-de-bankia-ocupan-una-sucursal-en-protesta/
- 8676 www.tomalatele.tv/web/blog/videoteca-popular-de-carabanchel-incinerando-el-futuro/
  8988 www.tomalatele.tv/web/wp-content/uploads/2013/01/029.jpg
  8986 www.tomalatele.tv/web/blog/primer-programa-de-dones-en-rebel%c2%b7lia-enllacos-flotilla-de-la-libertad/
  8983 www.tomalatele.tv/web/wp-content/uploads/2013/01/390273032_640.jpg
@@ -2397,6 +2395,7 @@
  8906 www.tomalatele.tv/web/blog/salvemostelemadrid-ultimas-horas-en-telemadrid/
  8898 www.tomalatele.tv/web/wp-content/uploads/2013/01/019.jpg
  8896 www.tomalatele.tv/web/blog/la-ultima-noche-de-telemadrid/
+ 8874 www.tomalatele.tv/web/blog/videoteca-popular-de-carabanchel-memoria-dignidad-y-lucha/
  8845 www.tomalatele.tv/web/wp-content/uploads/2013/01/018.jpg
  8843 www.tomalatele.tv/web/wp-content/uploads/2013/01/017.jpg
  8836 www.tomalatele.tv/web/wp-content/uploads/2013/01/390033115_640.jpg
@@ -2405,17 +2404,16 @@
  8827 www.tomalatele.tv/web/blog/perucha-explicacion-crowdfunding/
  8825 www.tomalatele.tv/web/wp-content/uploads/2013/01/016.jpg
  8823 www.tomalatele.tv/web/blog/alfon-libertad/
- 8813 www.tomalatele.tv/web/blog/barrio-canino-vol-67-entrevista-a-ladyfest-madrid/
  8816 www.tomalatele.tv/web/wp-content/uploads/2013/01/Logo-Barrio-Canino-150x150.jpg
+ 8813 www.tomalatele.tv/web/blog/barrio-canino-vol-67-entrevista-a-ladyfest-madrid/
  8811 www.tomalatele.tv/web/wp-content/uploads/2013/01/015.jpg
  8806 www.tomalatele.tv/web/blog/partido-x-partido-del-futuro-rueda-de-prensa-de-presentacion/
  8804 www.tomalatele.tv/web/wp-content/uploads/2013/01/alfonlibertad.jpg
  8801 www.tomalatele.tv/web/blog/alfon-ya-esta-en-libertad-tras-54-dias-de-aberracion-juridica-alfonlibertad/
- 8374 www.tomalatele.tv/web/blog/videoteca-popular-de-carabanchel-bagdad-rap/
- 8784 www.tomalatele.tv/web/blog/canal-de-hospital-del-sureste/
  8785 www.tomalatele.tv/web/wp-content/uploads/2013/01/hospitalsureste.jpg
- 8781 www.tomalatele.tv/web/blog/canal-hgu-gregorio-maranon/
+ 8784 www.tomalatele.tv/web/blog/canal-de-hospital-del-sureste/
  8782 www.tomalatele.tv/web/wp-content/uploads/2013/01/hgugm.jpg
+ 8781 www.tomalatele.tv/web/blog/canal-hgu-gregorio-maranon/
  8778 www.tomalatele.tv/web/wp-content/uploads/2013/01/014.jpg
  8776 www.tomalatele.tv/web/blog/canada-huelga-de-hambre-en-apoyo-a-indigenas/
  8773 www.tomalatele.tv/web/wp-content/uploads/2013/01/013.jpg
@@ -2447,7 +2445,7 @@
  8702 www.tomalatele.tv/web/blog/willy-uribe-20-dias-en-huelga-de-hambre-por-la-libertad-de-david-reboredo/
  8686 www.tomalatele.tv/web/wp-content/uploads/2012/12/063.jpg
  8684 www.tomalatele.tv/web/blog/especial-fin-de-ano-2012-tomalatele-tv-cc-by-sa/
- 8484 www.tomalatele.tv/web/blog/videoteca-popular-de-carabanchel-la-deuda-oculta/
+ 8676 www.tomalatele.tv/web/blog/videoteca-popular-de-carabanchel-incinerando-el-futuro/
  8641 www.tomalatele.tv/web/wp-content/uploads/2012/12/062.jpg
  8640 www.tomalatele.tv/web/wp-content/uploads/2012/12/061.jpg
  8609 www.tomalatele.tv/web/wp-content/uploads/2012/12/060.jpg
@@ -2458,17 +2456,19 @@
  8595 www.tomalatele.tv/web/blog/8595/
  8509 www.tomalatele.tv/web/wp-content/uploads/2012/12/057.jpg
  8508 www.tomalatele.tv/web/wp-content/uploads/2012/12/056.jpg
- 8497 www.tomalatele.tv/web/blog/familia-sin-techo-ocupa-vivienda-embargada-en-brooklyn-occupy-wall-street/
  8499 www.tomalatele.tv/web/wp-content/uploads/2012/12/055.jpg
- 8492 www.tomalatele.tv/web/blog/ccupy-wall-street-nadie-puede-predecir-el-momento-de-la-revolucion-subtitulos-espanol/
+ 8497 www.tomalatele.tv/web/blog/familia-sin-techo-ocupa-vivienda-embargada-en-brooklyn-occupy-wall-street/
  8494 www.tomalatele.tv/web/wp-content/uploads/2012/12/054.jpg
- 8487 www.tomalatele.tv/web/blog/videoteca-popular-de-carabanchel-la-via-campesina-en-movimiento-por-la-soberania-alimentaria/
+ 8492 www.tomalatele.tv/web/blog/ccupy-wall-street-nadie-puede-predecir-el-momento-de-la-revolucion-subtitulos-espanol/
  8489 www.tomalatele.tv/web/wp-content/uploads/2012/12/182453430_640.jpg
- 8377 www.tomalatele.tv/web/blog/reunion-general-del-laboratorio-del-procomun-procomun-y-entorno-digital-diciembre-2012/
+ 8487 www.tomalatele.tv/web/blog/videoteca-popular-de-carabanchel-la-via-campesina-en-movimiento-por-la-soberania-alimentaria/
+ 8484 www.tomalatele.tv/web/blog/videoteca-popular-de-carabanchel-la-deuda-oculta/
  8381 www.tomalatele.tv/web/wp-content/uploads/2012/12/procomun.gif
  8380 www.tomalatele.tv/web/wp-content/uploads/2012/12/procomun2.jpg
  8379 www.tomalatele.tv/web/wp-content/uploads/2012/12/procomun1.jpg
  8378 www.tomalatele.tv/web/wp-content/uploads/2012/12/procomun.jpg
+ 8377 www.tomalatele.tv/web/blog/reunion-general-del-laboratorio-del-procomun-procomun-y-entorno-digital-diciembre-2012/
+ 8374 www.tomalatele.tv/web/blog/videoteca-popular-de-carabanchel-bagdad-rap/
  8373 www.tomalatele.tv/web/blog/videoteca-popular-de-carabanchel-el-anarquismo-espanol/
  8370 www.tomalatele.tv/web/wp-content/uploads/2012/12/387285556_640.jpg
  8367 www.tomalatele.tv/web/blog/8367/
@@ -2494,10 +2494,10 @@
  8307 www.tomalatele.tv/web/wp-content/uploads/2012/12/041.jpg
  8305 www.tomalatele.tv/web/wp-content/uploads/2012/12/03_eritrea_pp.jpg
  8302 www.tomalatele.tv/web/wp-content/uploads/2012/12/040.jpg
- 8294 www.tomalatele.tv/web/blog/8294/
  8297 www.tomalatele.tv/web/wp-content/uploads/2012/12/039.jpg
- 8288 www.tomalatele.tv/web/blog/8288/
+ 8294 www.tomalatele.tv/web/blog/8294/
  8290 www.tomalatele.tv/web/wp-content/uploads/2012/12/038.jpg
+ 8288 www.tomalatele.tv/web/blog/8288/
  8287 www.tomalatele.tv/web/wp-content/uploads/2012/12/enkrudo23121.jpg
  8284 www.tomalatele.tv/web/wp-content/uploads/2012/12/enkrudo2312.jpg
  8281 www.tomalatele.tv/web/wp-content/uploads/2012/12/formacionSol.jpg
@@ -2514,15 +2514,15 @@
  8203 www.tomalatele.tv/web/blog/un-presidente-diferente/
  8199 www.tomalatele.tv/web/wp-content/uploads/2012/12/374435233_640.jpg
  8197 www.tomalatele.tv/web/blog/carta-de-marcos-a-los-directivos-de-movistar-telefonica/
- 8193 www.tomalatele.tv/web/blog/canal-de-hhtelefonica/
  8194 www.tomalatele.tv/web/wp-content/uploads/2012/12/HHtelefonica.jpg
- 8188 www.tomalatele.tv/web/blog/canal-de-hospital-12-octubre/
+ 8193 www.tomalatele.tv/web/blog/canal-de-hhtelefonica/
  8189 www.tomalatele.tv/web/wp-content/uploads/2012/12/Hospitaldoceoctubre.jpg
+ 8188 www.tomalatele.tv/web/blog/canal-de-hospital-12-octubre/
  8185 www.tomalatele.tv/web/wp-content/uploads/2012/12/033.jpg
  8183 www.tomalatele.tv/web/blog/sanidad-publica-si-se-puede/
  8181 www.tomalatele.tv/web/wp-content/uploads/2012/12/032.jpg
- 8175 www.tomalatele.tv/web/blog/cacerolada-estatal-la-tarde-del-24-de-diciembre/
  8176 www.tomalatele.tv/web/wp-content/uploads/2012/12/24cacerolada.jpg
+ 8175 www.tomalatele.tv/web/blog/cacerolada-estatal-la-tarde-del-24-de-diciembre/
  8173 www.tomalatele.tv/web/wp-content/uploads/2012/12/031.jpg
  8171 www.tomalatele.tv/web/blog/por-que-no-nos-gusta-la-lomce-stopleywert/
  8167 www.tomalatele.tv/web/wp-content/uploads/2012/12/030.jpg
@@ -2538,23 +2538,22 @@
  8136 www.tomalatele.tv/web/blog/el-juego-de-la-muerte/
  8133 www.tomalatele.tv/web/wp-content/uploads/2012/12/024.jpg
  8130 www.tomalatele.tv/web/blog/spain-protests-2012-police-brutality-in-anti-austerity-riots-cargas-en-el-congreso/
- 8127 www.tomalatele.tv/web/blog/canal-de-goddochen/
  8128 www.tomalatele.tv/web/wp-content/uploads/2012/12/goddochen.jpg
+ 8127 www.tomalatele.tv/web/blog/canal-de-goddochen/
  8124 www.tomalatele.tv/web/wp-content/uploads/2012/12/023.jpg
  8122 www.tomalatele.tv/web/blog/en-krudo-accion-contra-capio-y-congreso-antirrepresivo/
  8120 www.tomalatele.tv/web/wp-content/uploads/2012/12/022.jpg
  8115 www.tomalatele.tv/web/blog/en-krudo-live-programa-10/
- 8111 www.tomalatele.tv/web/blog/canal-de-asambleahtajo/
  8112 www.tomalatele.tv/web/wp-content/uploads/2012/12/asambleaHtajo.jpg
- 8108 www.tomalatele.tv/web/blog/canal-de-sanidadenlucha/
+ 8111 www.tomalatele.tv/web/blog/canal-de-asambleahtajo/
  8109 www.tomalatele.tv/web/wp-content/uploads/2012/12/sanidadenlucha.jpg
- 8104 www.tomalatele.tv/web/blog/canal-de-plataformahis/
+ 8108 www.tomalatele.tv/web/blog/canal-de-sanidadenlucha/
  8105 www.tomalatele.tv/web/wp-content/uploads/2012/12/PlataformaHIS.jpg
- 7953 www.tomalatele.tv/web/blog/la-sociedad-de-consumo-y-el-gag-visual-por-santiago-alba-rico/
- 8099 www.tomalatele.tv/web/blog/canal-de-salomeramirez/
+ 8104 www.tomalatele.tv/web/blog/canal-de-plataformahis/
  8100 www.tomalatele.tv/web/wp-content/uploads/2012/12/salomeramirez.jpg
- 8095 www.tomalatele.tv/web/blog/canal-de-claraboia-audiovisual-sccl/
+ 8099 www.tomalatele.tv/web/blog/canal-de-salomeramirez/
  8096 www.tomalatele.tv/web/wp-content/uploads/2012/12/claraboiacoop.jpg
+ 8095 www.tomalatele.tv/web/blog/canal-de-claraboia-audiovisual-sccl/
  8093 www.tomalatele.tv/web/wp-content/uploads/2012/12/021.jpg
  8091 www.tomalatele.tv/web/blog/tienes-voz-para-defender-la-sanidad-publica/
  8090 www.tomalatele.tv/web/wp-content/uploads/2012/12/020.jpg
@@ -2572,34 +2571,35 @@
  8041 www.tomalatele.tv/web/blog/alimentos-requisados-por-la-policia-repartidos-entre-concejales-y-familiares/
  8040 www.tomalatele.tv/web/wp-content/uploads/2012/12/014.jpg
  8037 www.tomalatele.tv/web/blog/igualdad-animal-en-la-puerta-del-sol-madrid/
- 8033 www.tomalatele.tv/web/blog/canal-de-spanishrevolutiontv1/
  8034 www.tomalatele.tv/web/wp-content/uploads/2012/12/SpanishRevolutionTV1.jpg
- 8030 www.tomalatele.tv/web/blog/canal-de-lavozdelapaz/
+ 8033 www.tomalatele.tv/web/blog/canal-de-spanishrevolutiontv1/
  8031 www.tomalatele.tv/web/wp-content/uploads/2012/12/lavozdehulp.jpg
+ 8030 www.tomalatele.tv/web/blog/canal-de-lavozdelapaz/
  8024 www.tomalatele.tv/web/wp-content/uploads/2012/12/013.jpg
  8018 www.tomalatele.tv/web/wp-content/uploads/2012/12/012.jpg
  8014 www.tomalatele.tv/web/blog/tomalatele-en-krudo-live-09-dic/
- 7951 www.tomalatele.tv/web/blog/videoteca-popular-de-carabanchel-the-corporation-instituciones-o-psicopatas/
  8009 www.tomalatele.tv/web/wp-content/uploads/2012/12/011.jpg
  8006 www.tomalatele.tv/web/blog/bajarse-al-mundo/
  7992 www.tomalatele.tv/web/wp-content/uploads/2012/12/010.jpg
  7986 www.tomalatele.tv/web/wp-content/uploads/2012/12/09.jpg
  7982 www.tomalatele.tv/web/wp-content/uploads/2012/12/08.jpg
  7980 www.tomalatele.tv/web/blog/madrid-desahucio-4-12-2012-en-c-via-carpetana-a-sagrario-y-su-familia/
- 7976 www.tomalatele.tv/web/blog/canal-de-nocionescomunes/
  7977 www.tomalatele.tv/web/wp-content/uploads/2012/12/nocionescomunes.jpg
+ 7976 www.tomalatele.tv/web/blog/canal-de-nocionescomunes/
  7974 www.tomalatele.tv/web/wp-content/uploads/2012/12/complu.jpg
  7970 www.tomalatele.tv/web/wp-content/uploads/2012/12/07.jpg
  7968 www.tomalatele.tv/web/blog/tres-cantos-el-ayuntamiento-rechaza-4000-firmas-contra-la-subida-de-los-sueldos-de-los-ediles/
  7959 www.tomalatele.tv/web/wp-content/uploads/2012/12/06.jpg
+ 7953 www.tomalatele.tv/web/blog/la-sociedad-de-consumo-y-el-gag-visual-por-santiago-alba-rico/
+ 7951 www.tomalatele.tv/web/blog/videoteca-popular-de-carabanchel-the-corporation-instituciones-o-psicopatas/
  7948 www.tomalatele.tv/web/wp-content/uploads/2012/12/05.jpg
  7942 www.tomalatele.tv/web/blog/la-complu-en-la-calle/
  7939 www.tomalatele.tv/web/wp-content/uploads/2012/12/04.jpg
  7937 www.tomalatele.tv/web/blog/2-de-diciembre-la-ciudadania-madrilena-abrazara-sus-hospitales/
  7936 www.tomalatele.tv/web/wp-content/uploads/2012/12/abrazaHospital.jpg
  7934 www.tomalatele.tv/web/wp-content/uploads/2012/12/sanidadPublica_banner.jpg
- 7931 www.tomalatele.tv/web/blog/especial-sanidad-ecamcitos-channel/
  7932 www.tomalatele.tv/web/wp-content/uploads/2012/12/sanidadPublica1.jpg
+ 7931 www.tomalatele.tv/web/blog/especial-sanidad-ecamcitos-channel/
  7930 www.tomalatele.tv/web/wp-content/uploads/2012/12/salvemos.jpeg
  7927 www.tomalatele.tv/web/wp-content/uploads/2012/12/377780852_640.jpg
  7925 www.tomalatele.tv/web/blog/time-lapse-concentracion-de-trabajadores-en-los-alrededores-de-telemadrid/
@@ -2619,10 +2619,10 @@
  7881 www.tomalatele.tv/web/blog/el-futuro-de-tus-hijos-esta-en-el-aire/
  7879 www.tomalatele.tv/web/wp-content/uploads/2012/11/069.jpg
  7876 www.tomalatele.tv/web/blog/la-sanidad-madrilena-en-huelga-261112/
- 7872 www.tomalatele.tv/web/blog/canal-salvemos-telemadrid-1-de-kaostotal/
  7873 www.tomalatele.tv/web/wp-content/uploads/2012/11/Kaostotal.jpg
- 7866 www.tomalatele.tv/web/blog/canal-de-pelasnowy/
+ 7872 www.tomalatele.tv/web/blog/canal-salvemos-telemadrid-1-de-kaostotal/
  7867 www.tomalatele.tv/web/wp-content/uploads/2012/11/PelaSnowy.jpg
+ 7866 www.tomalatele.tv/web/blog/canal-de-pelasnowy/
  7865 www.tomalatele.tv/web/wp-content/uploads/2012/11/068.jpg
  7863 www.tomalatele.tv/web/blog/clase-protesta-de-juan-carlos-monedero-lacompluenlacalle-1/
  7861 www.tomalatele.tv/web/wp-content/uploads/2012/11/067.jpg
@@ -2652,8 +2652,8 @@
  7798 www.tomalatele.tv/web/blog/ano-y-medio-de-actividad-de-la-asamblea-popular-de-tetuan/
  7796 www.tomalatele.tv/web/wp-content/uploads/2012/11/055.jpg
  7794 www.tomalatele.tv/web/blog/senyor-artur-mas-tinc-molt-males-noticies-per-voste/
- 7789 www.tomalatele.tv/web/blog/la-pah-de-badia-i-barbera-ocupan-una-sucursal-de-bancaja-a-barbera-y-consiguen-la-dacion-en-pago/
  7790 www.tomalatele.tv/web/wp-content/uploads/2012/11/20121122_191041.jpg
+ 7789 www.tomalatele.tv/web/blog/la-pah-de-badia-i-barbera-ocupan-una-sucursal-de-bancaja-a-barbera-y-consiguen-la-dacion-en-pago/
  7787 www.tomalatele.tv/web/wp-content/uploads/2012/11/054.jpg
  7783 www.tomalatele.tv/web/blog/tomalatele-live-programa-7/
  7780 www.tomalatele.tv/web/wp-content/uploads/2012/11/palestinaHispan.jpg
@@ -2662,8 +2662,8 @@
  7773 www.tomalatele.tv/web/blog/dia-internacional-de-lucha-en-contra-de-la-violencia-de-genero/
  7769 www.tomalatele.tv/web/wp-content/uploads/2012/11/052.jpg
  7767 www.tomalatele.tv/web/blog/en-defensa-de-ls-television-publica/
- 7762 www.tomalatele.tv/web/blog/canal-de-encuentroeducativo/
  7763 www.tomalatele.tv/web/wp-content/uploads/2012/11/EncuentroEducativo.jpg
+ 7762 www.tomalatele.tv/web/blog/canal-de-encuentroeducativo/
  7761 www.tomalatele.tv/web/wp-content/uploads/2012/11/051.jpg
  7758 www.tomalatele.tv/web/blog/ruralcita-enredada-visita-biocultura-2012/
  7754 www.tomalatele.tv/web/wp-content/uploads/2012/11/050.jpg
@@ -2671,7 +2671,6 @@
  7749 www.tomalatele.tv/web/blog/hackeo-de-qr-en-carteles-oficiales-del-ficx-gijon-freegaza-hackficxixon/
  7745 www.tomalatele.tv/web/wp-content/uploads/2012/11/048.jpg
  7742 www.tomalatele.tv/web/blog/encierro-de-los-trabajadores-centro-de-salud-ntra-sra-de-fatima-carabanchel/
- 7676 www.tomalatele.tv/web/blog/los-8detetuan-son-inocentes-juzgalo-tu-mismo/
  7736 www.tomalatele.tv/web/wp-content/uploads/2012/11/047.jpg
  7734 www.tomalatele.tv/web/blog/tomaeldinero-occupythemoney/
  7729 www.tomalatele.tv/web/wp-content/uploads/2012/11/fiestaApex23N.jpg
@@ -2686,14 +2685,15 @@
  7693 www.tomalatele.tv/web/wp-content/uploads/2012/11/042.jpg
  7690 www.tomalatele.tv/web/wp-content/uploads/2012/11/041.jpg
  7684 www.tomalatele.tv/web/blog/el-peligro-de-las-bombillas-de-bajo-consumo/
+ 7676 www.tomalatele.tv/web/blog/los-8detetuan-son-inocentes-juzgalo-tu-mismo/
  7673 www.tomalatele.tv/web/wp-content/uploads/2012/11/040.jpg
  7671 www.tomalatele.tv/web/blog/25nautogestion-que-experiencia-puede-aportar-tu-asamblea-o-colectivo/
- 7655 www.tomalatele.tv/web/blog/tubasuraalbanco-cogemos-basura-y-la-llevamos-a-donde-pertenece-bancospoliticasbasuravertederoreciclajenecesario-peoplewitness-olsx/
  7659 www.tomalatele.tv/web/wp-content/uploads/2012/11/039.jpg
- 7654 www.tomalatele.tv/web/blog/anonymous-proyecto-mayhem-2012-21-de-diciembre/
  7656 www.tomalatele.tv/web/wp-content/uploads/2012/11/suysulucha.jpg
- 7650 www.tomalatele.tv/web/blog/lunes-19-de-noviembre-mientras-pp-y-psoe-hablan-de-acabar-con-los-desahucios-sin-adoptar-soluciones-la-pah-actua-tambien-en-juzgados/
+ 7655 www.tomalatele.tv/web/blog/tubasuraalbanco-cogemos-basura-y-la-llevamos-a-donde-pertenece-bancospoliticasbasuravertederoreciclajenecesario-peoplewitness-olsx/
+ 7654 www.tomalatele.tv/web/blog/anonymous-proyecto-mayhem-2012-21-de-diciembre/
  7651 www.tomalatele.tv/web/wp-content/uploads/2012/11/1446089-ILP_sobre_la_dacion_en_pago.jpg
+ 7650 www.tomalatele.tv/web/blog/lunes-19-de-noviembre-mientras-pp-y-psoe-hablan-de-acabar-con-los-desahucios-sin-adoptar-soluciones-la-pah-actua-tambien-en-juzgados/
  7644 www.tomalatele.tv/web/wp-content/uploads/2012/11/038.jpg
  7641 www.tomalatele.tv/web/blog/tubasuraalbanco-noche-del-18n-en-apoyo-a-la-huelga-de-basureros/
  7639 www.tomalatele.tv/web/wp-content/uploads/2012/11/037.jpg
@@ -2706,56 +2706,56 @@
  7621 www.tomalatele.tv/web/blog/madrid-manifestacion-policia-17n-nos-obligan-a-hacer-identificaciones-masivas-e-indiscriminadas/
  7617 www.tomalatele.tv/web/wp-content/uploads/2012/11/033.jpg
  7615 www.tomalatele.tv/web/blog/malaga-huelga-general-del-99/
- 7610 www.tomalatele.tv/web/blog/cristina-fallaras-por-encima-de-sus-posibilidades-viven-los-politicos-yo-no/
  7611 www.tomalatele.tv/web/wp-content/uploads/2012/11/cristinaSexta.jpg
+ 7610 www.tomalatele.tv/web/blog/cristina-fallaras-por-encima-de-sus-posibilidades-viven-los-politicos-yo-no/
  7606 www.tomalatele.tv/web/wp-content/uploads/2012/11/032.jpg
  7604 www.tomalatele.tv/web/blog/encierro-en-el-teatro-nacional-espanol/
  7603 www.tomalatele.tv/web/wp-content/uploads/2012/11/031.jpg
  7601 www.tomalatele.tv/web/blog/murcia-absoluta-normalidad-el-14n-dice-el-gobierno/
  7598 www.tomalatele.tv/web/wp-content/uploads/2012/11/030.jpg
  7596 www.tomalatele.tv/web/blog/14n-huelga-general-disturbios-en-madrid/
- 7590 www.tomalatele.tv/web/blog/agora-sol-radio-especial-huelga-general-14-de-noviembre-de-2012/
  7591 www.tomalatele.tv/web/wp-content/uploads/2012/11/agorasol.png
+ 7590 www.tomalatele.tv/web/blog/agora-sol-radio-especial-huelga-general-14-de-noviembre-de-2012/
  7589 www.tomalatele.tv/web/wp-content/uploads/2012/11/029.jpg
  7587 www.tomalatele.tv/web/blog/14n-en-ceuta/
  7582 www.tomalatele.tv/web/wp-content/uploads/2012/11/Archivos-de-Audio.jpg
  7580 www.tomalatele.tv/web/wp-content/uploads/2012/11/028.jpg
  7573 www.tomalatele.tv/web/blog/especial-videos-de-la-huelga-general-refrito-internet-y-tomalatele-tv/
  7570 www.tomalatele.tv/web/wp-content/uploads/2012/11/027.jpg
- 7566 www.tomalatele.tv/web/blog/7566/
  7567 www.tomalatele.tv/web/wp-content/uploads/2012/11/gtel.jpeg
+ 7566 www.tomalatele.tv/web/blog/7566/
  7562 www.tomalatele.tv/web/wp-content/uploads/2012/11/026.jpg
  7560 www.tomalatele.tv/web/blog/boicotean-el-telediario-rtve-con-pancartas-del-14-n/
  7558 www.tomalatele.tv/web/wp-content/uploads/2012/11/025.jpg
- 7553 www.tomalatele.tv/web/blog/madrid-14n-antidisturbios-detienen-brutalmente-a-dos-piquetes-en-gran-via/
  7554 www.tomalatele.tv/web/wp-content/uploads/2012/11/piquetes_granvia14n.jpg
+ 7553 www.tomalatele.tv/web/blog/madrid-14n-antidisturbios-detienen-brutalmente-a-dos-piquetes-en-gran-via/
  7552 www.tomalatele.tv/web/wp-content/uploads/2012/11/024.jpg
  7549 www.tomalatele.tv/web/blog/entrevista-al-comite-de-huelga-de-metro-de-madrid/
- 7545 www.tomalatele.tv/web/blog/canal-de-asambleamajadahonda/
  7546 www.tomalatele.tv/web/wp-content/uploads/2012/11/asambleamajadahonda.jpg
- 7541 www.tomalatele.tv/web/blog/canal-de-alvarogonzalo_tv/
+ 7545 www.tomalatele.tv/web/blog/canal-de-asambleamajadahonda/
  7542 www.tomalatele.tv/web/wp-content/uploads/2012/11/AlvaroGonzalo_Tv.jpg
- 7537 www.tomalatele.tv/web/blog/canal-de-acampadabcn_int/
+ 7541 www.tomalatele.tv/web/blog/canal-de-alvarogonzalo_tv/
  7538 www.tomalatele.tv/web/wp-content/uploads/2012/11/acampadabcn_int.jpg
- 7532 www.tomalatele.tv/web/blog/canal-de-itonb/
+ 7537 www.tomalatele.tv/web/blog/canal-de-acampadabcn_int/
  7533 www.tomalatele.tv/web/wp-content/uploads/2012/11/iTonB.jpg
- 7525 www.tomalatele.tv/web/blog/canal-de-hadaindignada/
+ 7532 www.tomalatele.tv/web/blog/canal-de-itonb/
  7526 www.tomalatele.tv/web/wp-content/uploads/2012/11/Hadaindignada.jpg
- 7521 www.tomalatele.tv/web/blog/canal-de-trocicos/
+ 7525 www.tomalatele.tv/web/blog/canal-de-hadaindignada/
  7522 www.tomalatele.tv/web/wp-content/uploads/2012/11/trocicos.jpg
- 7517 www.tomalatele.tv/web/blog/canal-bambuser-audiovisol/
+ 7521 www.tomalatele.tv/web/blog/canal-de-trocicos/
  7518 www.tomalatele.tv/web/wp-content/uploads/2012/11/Audiovisol.jpg
- 7512 www.tomalatele.tv/web/blog/canal-de-txopo-sierra/
+ 7517 www.tomalatele.tv/web/blog/canal-bambuser-audiovisol/
  7513 www.tomalatele.tv/web/wp-content/uploads/2012/11/txopo.sierra.jpg
- 7509 www.tomalatele.tv/web/blog/canal-de-salvemos-telemadrid-1/
+ 7512 www.tomalatele.tv/web/blog/canal-de-txopo-sierra/
  7510 www.tomalatele.tv/web/wp-content/uploads/2012/11/Salvemos-Telemadrid.jpg
- 7504 www.tomalatele.tv/web/blog/canal-de-peoplewitness-lau/
+ 7509 www.tomalatele.tv/web/blog/canal-de-salvemos-telemadrid-1/
  7506 www.tomalatele.tv/web/wp-content/uploads/2012/11/Peoplewitness.lau_.jpg
- 7501 www.tomalatele.tv/web/blog/canal-de-javier-humor/
+ 7504 www.tomalatele.tv/web/blog/canal-de-peoplewitness-lau/
  7502 www.tomalatele.tv/web/wp-content/uploads/2012/11/javierhumor.jpg
+ 7501 www.tomalatele.tv/web/blog/canal-de-javier-humor/
  7500 www.tomalatele.tv/web/wp-content/uploads/2012/11/bicipikete-general.png
- 7496 www.tomalatele.tv/web/blog/canal-streaming-stop-desahucios-madrid/
  7497 www.tomalatele.tv/web/wp-content/uploads/2012/11/stop-desahuciosmadrid.jpg
+ 7496 www.tomalatele.tv/web/blog/canal-streaming-stop-desahucios-madrid/
  7494 www.tomalatele.tv/web/wp-content/uploads/2012/11/huelgatelemadrid-e1352858492780.jpg
  7493 www.tomalatele.tv/web/wp-content/uploads/2012/11/europeanStrike14N.jpg
  7492 www.tomalatele.tv/web/wp-content/uploads/2012/11/mapa14n-e1352855815240.jpg
@@ -2768,20 +2768,19 @@
  7472 www.tomalatele.tv/web/wp-content/uploads/2012/11/021.jpg
  7470 www.tomalatele.tv/web/blog/10-grandes-recortes-que-justifican-una-huelga-general/
  7467 www.tomalatele.tv/web/wp-content/uploads/2012/11/seisMinutos.jpg
- 7357 www.tomalatele.tv/web/blog/seis-minutos/
  7456 www.tomalatele.tv/web/wp-content/uploads/2012/11/default.480x640.jpg
  7454 www.tomalatele.tv/web/blog/14n-huelga-general/
  7451 www.tomalatele.tv/web/wp-content/uploads/2012/11/020.jpg
  7449 www.tomalatele.tv/web/blog/el-dia-de-los-caminos-publicos/
  7444 www.tomalatele.tv/web/wp-content/uploads/2012/11/AsambleaUGR-e1352729754204.png
  7438 www.tomalatele.tv/web/wp-content/uploads/2012/11/019.jpg
- 7432 www.tomalatele.tv/web/blog/por-la-huelga-general-14n-asamblea-de-cienciasuam/
  7436 www.tomalatele.tv/web/wp-content/uploads/2012/11/AsambleaDeCiencias.jpg
  7433 www.tomalatele.tv/web/wp-content/uploads/2012/11/asambleaUGR.jpg
+ 7432 www.tomalatele.tv/web/blog/por-la-huelga-general-14n-asamblea-de-cienciasuam/
  7428 www.tomalatele.tv/web/wp-content/uploads/2012/11/018.jpg
  7426 www.tomalatele.tv/web/blog/presentacion-debate-cartografia-de-la-basura-electronica-conflictos-y-estrategias/
- 7423 www.tomalatele.tv/web/blog/asamblea-ugr/
  7424 www.tomalatele.tv/web/wp-content/uploads/2012/11/ad17d89788f4100a2332b582818f4b0fb5cfadb51.jpg
+ 7423 www.tomalatele.tv/web/blog/asamblea-ugr/
  7420 www.tomalatele.tv/web/wp-content/uploads/2012/11/017.jpg
  7418 www.tomalatele.tv/web/blog/explicacion-a-la-crisis-de-deuda-soberana/
  7415 www.tomalatele.tv/web/wp-content/uploads/2012/11/016.jpg
@@ -2789,19 +2788,20 @@
  7410 www.tomalatele.tv/web/wp-content/uploads/2012/11/015.jpg
  7406 www.tomalatele.tv/web/blog/nos-ayudas-ahora-nosotras-somos-los-medios-mapeamos-el-14n-howto/
  7404 www.tomalatele.tv/web/wp-content/uploads/2012/11/014.jpg
- 7401 www.tomalatele.tv/web/blog/manifiesto-todos-somos-cafeambllet-todos-deberiamos-ser-mescafeambllet/
  7402 www.tomalatele.tv/web/wp-content/uploads/2012/11/MesCafeambllet.jpg
+ 7401 www.tomalatele.tv/web/blog/manifiesto-todos-somos-cafeambllet-todos-deberiamos-ser-mescafeambllet/
  7399 www.tomalatele.tv/web/wp-content/uploads/2012/11/013.jpg
  7397 www.tomalatele.tv/web/blog/14n-rompamos-la-bolsa/
  7393 www.tomalatele.tv/web/wp-content/uploads/2012/11/012.jpg
- 7389 www.tomalatele.tv/web/blog/en-clave-de-g-lena-y-punto-style-parodia-gangnam-style/
  7390 www.tomalatele.tv/web/wp-content/uploads/2012/11/Leña-yCaña-Style.jpg
+ 7389 www.tomalatele.tv/web/blog/en-clave-de-g-lena-y-punto-style-parodia-gangnam-style/
  7385 www.tomalatele.tv/web/wp-content/uploads/2012/11/VisualizandoAMujeresQueHacenHistoria.jpg
  7378 www.tomalatele.tv/web/wp-content/uploads/2012/11/011.jpg
  7374 www.tomalatele.tv/web/blog/visualizando-a-mujeres-que-hacen-historia/
  7372 www.tomalatele.tv/web/wp-content/uploads/2012/11/14n.jpg
  7363 www.tomalatele.tv/web/wp-content/uploads/2012/11/010.jpg
  7360 www.tomalatele.tv/web/blog/tomalatele-en-vivo-programa-5/
+ 7357 www.tomalatele.tv/web/blog/seis-minutos/
  7355 www.tomalatele.tv/web/wp-content/uploads/2012/11/09.jpg
  7352 www.tomalatele.tv/web/blog/el-negocio-de-ups-vallecas/
  7348 www.tomalatele.tv/web/wp-content/uploads/2012/11/08.jpg
@@ -2820,23 +2820,23 @@
  7314 www.tomalatele.tv/web/blog/centros-sociales-okupados-islas-de-resistencia-social/
  7312 www.tomalatele.tv/web/wp-content/uploads/2012/11/04.jpg
  7308 www.tomalatele.tv/web/blog/tomalatele-en-vivo-programa-4/
- 7303 www.tomalatele.tv/web/blog/canal-de-peoplewitness-vlc/
  7304 www.tomalatele.tv/web/wp-content/uploads/2012/11/peoplewitness_vlc.jpg
- 7299 www.tomalatele.tv/web/blog/canal-de-peoplewitness-cat-mirimmi/
+ 7303 www.tomalatele.tv/web/blog/canal-de-peoplewitness-vlc/
  7300 www.tomalatele.tv/web/wp-content/uploads/2012/11/peoplewitness.cat_.mirimmi.jpg
- 7295 www.tomalatele.tv/web/blog/canal-de-pelodytes/
+ 7299 www.tomalatele.tv/web/blog/canal-de-peoplewitness-cat-mirimmi/
  7296 www.tomalatele.tv/web/wp-content/uploads/2012/11/pelodytes.jpg
+ 7295 www.tomalatele.tv/web/blog/canal-de-pelodytes/
  7293 www.tomalatele.tv/web/wp-content/uploads/2012/11/Greeces-Uncertain-Future.jpg
  7288 www.tomalatele.tv/web/wp-content/uploads/2012/11/agora_online.jpg
  7287 www.tomalatele.tv/web/wp-content/uploads/2012/11/03.jpg
  7285 www.tomalatele.tv/web/blog/la-pah-ocupa-una-sucursal-de-bankia-en-madrid/
- 7280 www.tomalatele.tv/web/blog/i-jornadas-internacionales-sobre-estrategias-feministas-para-el-desarrollo/
  7281 www.tomalatele.tv/web/wp-content/uploads/2012/11/acsuras.png
+ 7280 www.tomalatele.tv/web/blog/i-jornadas-internacionales-sobre-estrategias-feministas-para-el-desarrollo/
  7276 www.tomalatele.tv/web/wp-content/uploads/2012/11/02.jpg
  7274 www.tomalatele.tv/web/blog/uip-no-se-identifica-pero-siguen-identificando/
- 7267 www.tomalatele.tv/web/blog/agora99-1-4-noviembre-2012-en-madrid/
  7269 www.tomalatele.tv/web/wp-content/uploads/2012/11/agora99.jpg
  7268 www.tomalatele.tv/web/wp-content/uploads/2012/11/banner_agora.png
+ 7267 www.tomalatele.tv/web/blog/agora99-1-4-noviembre-2012-en-madrid/
  7266 www.tomalatele.tv/web/wp-content/uploads/2012/11/01.jpg
  7264 www.tomalatele.tv/web/blog/entrevista-a-soledad-luque-delgado/
  7263 www.tomalatele.tv/web/wp-content/uploads/2012/11/0.jpg
@@ -2847,13 +2847,13 @@
  7247 www.tomalatele.tv/web/blog/todo-por-la-kausa-2-10-2012-entrevista-a-salvemos-telemadrid/
  7236 www.tomalatele.tv/web/wp-content/uploads/2012/10/088.jpg
  7233 www.tomalatele.tv/web/blog/i-aniversario-15m-asamblea-delicas-valladolid/
- 7228 www.tomalatele.tv/web/blog/la-policia-alemana-con-numero-de-placa-roba-materiales-al-refugeecamp-de-berlin/
  7230 www.tomalatele.tv/web/wp-content/uploads/2012/10/herrurbach.jpg
+ 7228 www.tomalatele.tv/web/blog/la-policia-alemana-con-numero-de-placa-roba-materiales-al-refugeecamp-de-berlin/
  7226 www.tomalatele.tv/web/wp-content/uploads/2012/10/sentencia.jpg
  7222 www.tomalatele.tv/web/wp-content/uploads/2012/10/087.jpg
- 7200 www.tomalatele.tv/web/blog/se-sienta-precedente-legal-de-que-cualquier-persona-puede-sacar-fotos-aunque-salgan-policias/
  7205 www.tomalatele.tv/web/wp-content/uploads/2012/10/086.jpg
  7202 www.tomalatele.tv/web/blog/desalojados-los-ocupantes-de-la-oficina-bancaria-de-fuente-dorada-valladolid/
+ 7200 www.tomalatele.tv/web/blog/se-sienta-precedente-legal-de-que-cualquier-persona-puede-sacar-fotos-aunque-salgan-policias/
  7195 www.tomalatele.tv/web/wp-content/uploads/2012/10/085.jpg
  7190 www.tomalatele.tv/web/blog/entrevista-a-la-plataforma-eurovegas-no/
  7183 www.tomalatele.tv/web/wp-content/uploads/2012/10/conciertoSentido.jpg
@@ -2867,15 +2867,15 @@
  7148 www.tomalatele.tv/web/wp-content/uploads/2012/10/081.jpg
  7140 www.tomalatele.tv/web/wp-content/uploads/2012/10/080.jpg
  7138 www.tomalatele.tv/web/blog/tomalatele-en-vivo-programa-3/
- 7134 www.tomalatele.tv/web/blog/canal-de-setastv-sevilla/
  7135 www.tomalatele.tv/web/wp-content/uploads/2012/10/SetasTv.jpg
- 7129 www.tomalatele.tv/web/blog/canal-de-anitabotwin/
+ 7134 www.tomalatele.tv/web/blog/canal-de-setastv-sevilla/
  7130 www.tomalatele.tv/web/wp-content/uploads/2012/10/anitabotwin.jpg
+ 7129 www.tomalatele.tv/web/blog/canal-de-anitabotwin/
  7121 www.tomalatele.tv/web/blog/jose-maria-gay-el-economista-indignado/
  7117 www.tomalatele.tv/web/wp-content/uploads/2012/10/079.jpg
  7115 www.tomalatele.tv/web/blog/malaga-26-de-octubre-concentracion-contra-el-genocidiofinanciero/
- 7111 www.tomalatele.tv/web/blog/directo-concierto-sentido-publico/
  7112 www.tomalatele.tv/web/wp-content/uploads/2012/10/concierto_sentido_publico_small-1.jpg
+ 7111 www.tomalatele.tv/web/blog/directo-concierto-sentido-publico/
  7109 www.tomalatele.tv/web/wp-content/uploads/2012/10/078.jpg
  7105 www.tomalatele.tv/web/blog/vente-al-concierto-sentido-publico-no-hay-streaming-que-lo-supere/
  7102 www.tomalatele.tv/web/wp-content/uploads/2012/10/077.jpg
@@ -2890,21 +2890,24 @@
  7072 www.tomalatele.tv/web/wp-content/uploads/2012/10/073.jpg
  7070 www.tomalatele.tv/web/blog/la-estamos-liando-concierto-sentido-publico/
  7061 www.tomalatele.tv/web/blog/granada-un-hombre-se-suicida-horas-antes-de-ser-desahuciado/
- 7056 www.tomalatele.tv/web/blog/lo-llaman-crisis-pero-es-una-estafa-lo-llaman-suicidio-pero-es-genocidiofinanciero-la-pah-convoca/
  7057 www.tomalatele.tv/web/wp-content/uploads/2012/10/stop-desahucios-luto.jpg
+ 7056 www.tomalatele.tv/web/blog/lo-llaman-crisis-pero-es-una-estafa-lo-llaman-suicidio-pero-es-genocidiofinanciero-la-pah-convoca/
  7054 www.tomalatele.tv/web/wp-content/uploads/2012/10/072.jpg
  7051 www.tomalatele.tv/web/blog/23o-valladolid/
  7048 www.tomalatele.tv/web/wp-content/uploads/2012/10/071.jpg
  7043 www.tomalatele.tv/web/blog/curso-la-doctrina-del-shock-la-crisis-de-las-clases-medias-y-el-gobierno-del-miedo/
  7040 www.tomalatele.tv/web/wp-content/uploads/2012/10/329840632_640.jpg
  7036 www.tomalatele.tv/web/wp-content/uploads/2012/10/tomalatele_bambuser_n.jpg
+ 7035 www.tomalatele.tv/web/blog/directo-canal-livestream-tomalatele/
  7030 www.tomalatele.tv/web/blog/barrilonia-cronica-de-un-desalojo/
  7026 www.tomalatele.tv/web/wp-content/uploads/2012/10/070.jpg
  7023 www.tomalatele.tv/web/blog/14-n-huelga-internacional-14nhuelgainternacional15m/
  7021 www.tomalatele.tv/web/wp-content/uploads/2012/10/069.jpg
  7018 www.tomalatele.tv/web/blog/sanitat-balensiana-la-privatitzacio-de-la-salut/
  7014 www.tomalatele.tv/web/wp-content/uploads/2012/10/068.jpg
+ 7012 www.tomalatele.tv/web/blog/malaga-cacerolada-13o/
  7011 www.tomalatele.tv/web/wp-content/uploads/2012/10/067.jpg
+ 7009 www.tomalatele.tv/web/blog/malaga-huelga-general-de-estudiantes/
  7006 www.tomalatele.tv/web/wp-content/uploads/2012/10/066.jpg
  7004 www.tomalatele.tv/web/blog/27o-volvemos-al-congreso-vamos-en-bus/
  7000 www.tomalatele.tv/web/wp-content/uploads/2012/10/065.jpg
@@ -2913,10 +2916,10 @@
  6988 www.tomalatele.tv/web/blog/10-o-la-dignidad-vive-en-artieda/
  6974 www.tomalatele.tv/web/wp-content/uploads/2012/10/064.jpg
  6970 www.tomalatele.tv/web/blog/manifestacion-en-apoyo-al-csa-can-vias-20-octubre-2012-yeswecanvies/
- 6964 www.tomalatele.tv/web/blog/mostoles-madrid-sur-se-mueve/
  6966 www.tomalatele.tv/web/wp-content/uploads/2012/10/madrid_se_mueve.jpg
- 6961 www.tomalatele.tv/web/blog/canal-de-jota/
+ 6964 www.tomalatele.tv/web/blog/mostoles-madrid-sur-se-mueve/
  6962 www.tomalatele.tv/web/wp-content/uploads/2012/10/jota.jpg
+ 6961 www.tomalatele.tv/web/blog/canal-de-jota/
  6959 www.tomalatele.tv/web/wp-content/uploads/2012/10/063.jpg
  6956 www.tomalatele.tv/web/blog/la-quinta-pregunta/
  6955 www.tomalatele.tv/web/wp-content/uploads/2012/10/062.jpg
@@ -2925,28 +2928,27 @@
  6946 www.tomalatele.tv/web/wp-content/uploads/2012/10/060.jpg
  6940 www.tomalatele.tv/web/blog/23o-25o-27o-rodeamoselcongreso/
  6936 www.tomalatele.tv/web/wp-content/uploads/2012/10/349195989_640.jpg
- 6933 www.tomalatele.tv/web/blog/movimiento-15-m-indignados-sembrando-suenos/
  6934 www.tomalatele.tv/web/wp-content/uploads/2012/10/Movimiento-15-M.jpg
- 6928 www.tomalatele.tv/web/blog/canal-de-peoplewitness-cat-okokitsme/
+ 6933 www.tomalatele.tv/web/blog/movimiento-15-m-indignados-sembrando-suenos/
  6929 www.tomalatele.tv/web/wp-content/uploads/2012/10/peoplewitness.cat_.okokitsme.jpg
+ 6928 www.tomalatele.tv/web/blog/canal-de-peoplewitness-cat-okokitsme/
  6927 www.tomalatele.tv/web/wp-content/uploads/2012/10/059.jpg
  6924 www.tomalatele.tv/web/blog/reaccion-15m/
- 7009 www.tomalatele.tv/web/blog/malaga-huelga-general-de-estudiantes/
- 6915 www.tomalatele.tv/web/blog/canal-de-ocupa-lisboa/
  6921 www.tomalatele.tv/web/wp-content/uploads/2012/10/OcuparLisboa.jpg
- 6904 www.tomalatele.tv/web/blog/canal-de-sakaromyces/
+ 6915 www.tomalatele.tv/web/blog/canal-de-ocupa-lisboa/
  6905 www.tomalatele.tv/web/wp-content/uploads/2012/10/Sakaromyces.jpg
- 6899 www.tomalatele.tv/web/blog/canal-de-t_scupo/
+ 6904 www.tomalatele.tv/web/blog/canal-de-sakaromyces/
  6900 www.tomalatele.tv/web/wp-content/uploads/2012/10/t_scupo.jpg
+ 6899 www.tomalatele.tv/web/blog/canal-de-t_scupo/
  6894 www.tomalatele.tv/web/wp-content/uploads/2012/10/058.jpg
  6890 www.tomalatele.tv/web/blog/madrid-encierro-en-ciencias-de-la-informacion-ucm-1617-oct-2012/
  6885 www.tomalatele.tv/web/wp-content/uploads/2012/10/350638342_640.jpg
  6882 www.tomalatele.tv/web/wp-content/uploads/2012/10/354617485_640.jpg
  6878 www.tomalatele.tv/web/blog/domingos-de-economia-en-el-retiro-la-deuda-o-la-vida-no-debemos-no-pagamos/
- 6873 www.tomalatele.tv/web/blog/canal-de-tcjcora/
  6874 www.tomalatele.tv/web/wp-content/uploads/2012/10/TCJCORA.jpg
- 6867 www.tomalatele.tv/web/blog/canal-portugal-revolution-tv/
+ 6873 www.tomalatele.tv/web/blog/canal-de-tcjcora/
  6868 www.tomalatele.tv/web/wp-content/uploads/2012/10/ptrevolutiontv.jpg
+ 6867 www.tomalatele.tv/web/blog/canal-portugal-revolution-tv/
  6865 www.tomalatele.tv/web/wp-content/uploads/2012/10/343766745_640.jpg
  6861 www.tomalatele.tv/web/blog/fem-lo-comu-hagamoslo-comun-aureasocial/
  6857 www.tomalatele.tv/web/wp-content/uploads/2012/10/057.jpg
@@ -2962,17 +2964,15 @@
  6819 www.tomalatele.tv/web/wp-content/uploads/2012/10/052.jpg
  6816 www.tomalatele.tv/web/blog/bastille-en-la-sexta/
  6809 www.tomalatele.tv/web/wp-content/uploads/2012/10/351289808_640.jpg
- 6799 www.tomalatele.tv/web/blog/recession-terminale/
  6805 www.tomalatele.tv/web/wp-content/uploads/2012/10/352884732_640.jpg
- 6796 www.tomalatele.tv/web/blog/29s-madrid-no-eres-nada/
  6803 www.tomalatele.tv/web/wp-content/uploads/2012/10/051.jpg
+ 6799 www.tomalatele.tv/web/blog/recession-terminale/
+ 6796 www.tomalatele.tv/web/blog/29s-madrid-no-eres-nada/
  6793 www.tomalatele.tv/web/blog/documental-artista-callejero-el-gato-y-el-raton/
- 5406 www.tomalatele.tv/web/blog/videoteca-popular-de-carabanchel-asi-es-como-se-ve-la-democracia/
  6791 www.tomalatele.tv/web/wp-content/uploads/2012/10/050.jpg
  6785 www.tomalatele.tv/web/blog/una-manana-recogiendo-firmas-para-la-dacion-en-pago-con-la-apt/
  6783 www.tomalatele.tv/web/wp-content/uploads/2012/10/049.jpg
  6778 www.tomalatele.tv/web/blog/tomalatele-en-vivo-programa-1/
- 7012 www.tomalatele.tv/web/blog/malaga-cacerolada-13o/
  6775 www.tomalatele.tv/web/wp-content/uploads/2012/10/048.jpg
  6773 www.tomalatele.tv/web/blog/12-octubre-nada-que-festejar-todo-por-reconocer/
  6771 www.tomalatele.tv/web/wp-content/uploads/2012/10/047.jpg
@@ -3007,11 +3007,11 @@
  6673 www.tomalatele.tv/web/wp-content/uploads/2012/10/035.jpg
  6671 www.tomalatele.tv/web/blog/19j-enfrentamiento-de-bomberos-y-policia-19-julio-2012/
  6669 www.tomalatele.tv/web/wp-content/uploads/2012/10/034.jpg
- 6648 www.tomalatele.tv/web/blog/concierto-sentido-publico-27-octubre-en-rivas/
  6666 www.tomalatele.tv/web/wp-content/uploads/2012/10/033.jpg
  6661 www.tomalatele.tv/web/blog/13o-globalnoise-cacerolada-global/
  6657 www.tomalatele.tv/web/wp-content/uploads/2012/10/032.jpg
  6654 www.tomalatele.tv/web/blog/la-economia-del-bien-comun-christian-felber/
+ 6648 www.tomalatele.tv/web/blog/concierto-sentido-publico-27-octubre-en-rivas/
  6646 www.tomalatele.tv/web/wp-content/uploads/2012/10/031.jpg
  6641 www.tomalatele.tv/web/blog/inocente-agredida-y-con-cargos-penales-declaraciones-tras-la-pesadilla/
  6630 www.tomalatele.tv/web/wp-content/uploads/2012/10/030.jpg
@@ -3053,7 +3053,6 @@
  6458 www.tomalatele.tv/web/wp-content/uploads/2012/10/015.jpg
  6456 www.tomalatele.tv/web/blog/los-cuatrocientos-golpes-version-15m/
  6451 www.tomalatele.tv/web/blog/acuerdo-8/
- 6325 www.tomalatele.tv/web/blog/resumen-charla-vivienda-tomalavueltaalcole/
  6448 www.tomalatele.tv/web/wp-content/uploads/2012/10/014.jpg
  6444 www.tomalatele.tv/web/blog/la-deuda-ilegitima-razones-para-no-pagarla/
  6434 www.tomalatele.tv/web/wp-content/uploads/2012/10/013.jpg
@@ -3065,41 +3064,40 @@
  6418 www.tomalatele.tv/web/blog/mi-cuerpo-mio/
  6414 www.tomalatele.tv/web/wp-content/uploads/2012/10/010.jpg
  6409 www.tomalatele.tv/web/blog/spanish-fiction/
- 6323 www.tomalatele.tv/web/blog/resumen-charla-sanidad-tomalavueltaalcole/
  6408 www.tomalatele.tv/web/wp-content/uploads/2012/10/347592233_640.jpg
  6405 www.tomalatele.tv/web/blog/2010/
  6403 www.tomalatele.tv/web/wp-content/uploads/2012/10/09.jpg
  6400 www.tomalatele.tv/web/blog/25s-25-preguntas-para-25-opiniones/
  6399 www.tomalatele.tv/web/wp-content/uploads/2012/10/08.jpg
- 6319 www.tomalatele.tv/web/blog/resumen-de-la-charla-de-alternativas-economicas-tomalavueltaalcole/
  6397 www.tomalatele.tv/web/wp-content/uploads/2012/10/07.jpg
- 6328 www.tomalatele.tv/web/blog/grabacion-mesa-de-medios-alternativos-tomalavueltaalcole/
- 6390 www.tomalatele.tv/web/blog/recopilacion-25s-por-occupythecomms/
  6391 www.tomalatele.tv/web/wp-content/uploads/2012/10/25s_occupythecomms.jpg
+ 6390 www.tomalatele.tv/web/blog/recopilacion-25s-por-occupythecomms/
  6389 www.tomalatele.tv/web/wp-content/uploads/2012/10/06.jpg
- 6384 www.tomalatele.tv/web/blog/7-de-octubre-recogida-de-firmas-ilp-desahucios/
  6387 www.tomalatele.tv/web/wp-content/uploads/2012/10/bannerTaller-e1349098027810.jpg
  6385 www.tomalatele.tv/web/wp-content/uploads/2012/10/communia.jpg
+ 6384 www.tomalatele.tv/web/blog/7-de-octubre-recogida-de-firmas-ilp-desahucios/
  6381 www.tomalatele.tv/web/blog/canal-de-communia/
  6370 www.tomalatele.tv/web/wp-content/uploads/2012/10/05.jpg
- 6364 www.tomalatele.tv/web/blog/rtva-canal-sur-se-va-al-negro-presentacion-huelga-1-de-octubre-2012/
  6366 www.tomalatele.tv/web/wp-content/uploads/2012/10/canalsur_negro1.jpg
  6365 www.tomalatele.tv/web/wp-content/uploads/2012/10/canalsur_negro.jpg
+ 6364 www.tomalatele.tv/web/blog/rtva-canal-sur-se-va-al-negro-presentacion-huelga-1-de-octubre-2012/
  6362 www.tomalatele.tv/web/wp-content/uploads/2012/10/04.jpg
  6357 www.tomalatele.tv/web/blog/madrid-lorena-contra-bankia-paremos-su-desahucio-el-3-de-octubre/
  6354 www.tomalatele.tv/web/wp-content/uploads/2012/10/03.jpg
- 6313 www.tomalatele.tv/web/blog/especial-represion-policial-29s/
  6332 www.tomalatele.tv/web/wp-content/uploads/2012/10/02.jpg
- 6153 www.tomalatele.tv/web/blog/taller-de-formacion-sobre-la-deuda-y-auditoria-ciudadana-09-sept-2012-pacd/
+ 6328 www.tomalatele.tv/web/blog/grabacion-mesa-de-medios-alternativos-tomalavueltaalcole/
+ 6325 www.tomalatele.tv/web/blog/resumen-charla-vivienda-tomalavueltaalcole/
+ 6323 www.tomalatele.tv/web/blog/resumen-charla-sanidad-tomalavueltaalcole/
+ 6319 www.tomalatele.tv/web/blog/resumen-de-la-charla-de-alternativas-economicas-tomalavueltaalcole/
  6318 www.tomalatele.tv/web/wp-content/uploads/2012/10/01.jpg
  6315 www.tomalatele.tv/web/blog/resumen-charla-educacion-tomalavueltaalcole/
+ 6313 www.tomalatele.tv/web/blog/especial-represion-policial-29s/
  6308 www.tomalatele.tv/web/wp-content/uploads/2012/09/cartel-taller-guion.jpg
- 5350 www.tomalatele.tv/web/blog/videoteca-popular-de-carabancheleeuu-una-democracia-limitada/
  6306 www.tomalatele.tv/web/wp-content/uploads/2012/10/0.jpg
  6303 www.tomalatele.tv/web/blog/29s-cronica-29-septiembre-2012/
  6299 www.tomalatele.tv/web/wp-content/uploads/2012/09/096.jpg
- 6291 www.tomalatele.tv/web/blog/500-radicales-video-del-29s/
  6294 www.tomalatele.tv/web/wp-content/uploads/2012/09/095.jpg
+ 6291 www.tomalatele.tv/web/blog/500-radicales-video-del-29s/
  6290 www.tomalatele.tv/web/blog/29s-concentracion-ante-el-congreso-sinmiedo/
  6273 www.tomalatele.tv/web/wp-content/uploads/2012/09/094.jpg
  6269 www.tomalatele.tv/web/blog/agredidos-bar-quevedo-en-huertas/
@@ -3111,14 +3109,14 @@
  6254 www.tomalatele.tv/web/blog/29s-un-ciudadano-se-tumba-delante-de-los-furgones-de-policia-nacional/
  6252 www.tomalatele.tv/web/wp-content/uploads/2012/09/090.jpg
  6248 www.tomalatele.tv/web/blog/29s-cronica-de-los-disturbios-del-29s-rodeaelcongreso/
- 6245 www.tomalatele.tv/web/blog/canal-de-manufestacion/
  6246 www.tomalatele.tv/web/wp-content/uploads/2012/09/Manufestacion.jpg
- 6207 www.tomalatele.tv/web/blog/canal-de-kler-3/
+ 6245 www.tomalatele.tv/web/blog/canal-de-manufestacion/
  6238 www.tomalatele.tv/web/wp-content/uploads/2012/09/265307019_640.jpg
  6236 www.tomalatele.tv/web/blog/entrevista-a-manuel-delgado/
  6235 www.tomalatele.tv/web/wp-content/uploads/2012/09/089.jpg
  6233 www.tomalatele.tv/web/blog/i-taller-de-guion-indignado-2/
  6208 www.tomalatele.tv/web/wp-content/uploads/2012/09/kler-3.jpg
+ 6207 www.tomalatele.tv/web/blog/canal-de-kler-3/
  6206 www.tomalatele.tv/web/wp-content/uploads/2012/09/347071594_640.jpg
  6203 www.tomalatele.tv/web/blog/25s-golpe-de-estado-popular/
  6200 www.tomalatele.tv/web/wp-content/uploads/2012/09/346861222_640.jpg
@@ -3129,12 +3127,13 @@
  6174 www.tomalatele.tv/web/blog/atocha-25s/
  6163 www.tomalatele.tv/web/wp-content/uploads/2012/09/086.jpg
  6158 www.tomalatele.tv/web/blog/entrenamiento-de-antidisturbios/
+ 6153 www.tomalatele.tv/web/blog/taller-de-formacion-sobre-la-deuda-y-auditoria-ciudadana-09-sept-2012-pacd/
  6152 www.tomalatele.tv/web/wp-content/uploads/2012/09/elproximo2.jpg
  6139 www.tomalatele.tv/web/wp-content/uploads/2012/09/085.jpg
  6135 www.tomalatele.tv/web/blog/ningun-ser-humano-es-ilegal/
  6132 www.tomalatele.tv/web/blog/el-proximo-puedes-ser-tu-5%c2%b450%e2%80%b3/
- 6123 www.tomalatele.tv/web/blog/testimonios-de-las-brutales-cargas-del-25s/
  6124 www.tomalatele.tv/web/wp-content/uploads/2012/09/detenidos25s.jpg
+ 6123 www.tomalatele.tv/web/blog/testimonios-de-las-brutales-cargas-del-25s/
  6121 www.tomalatele.tv/web/wp-content/uploads/2012/09/subtitulos.jpg
  6119 www.tomalatele.tv/web/wp-content/uploads/2012/09/084.jpg
  6117 www.tomalatele.tv/web/blog/sindrome-del-video-vertical-a-psa-lo-que-no-debes-hacer/
@@ -3161,29 +3160,29 @@
  6049 www.tomalatele.tv/web/wp-content/uploads/2012/09/074.jpg
  6047 www.tomalatele.tv/web/blog/25s-si-buscas-resultados-distintos/
  6042 www.tomalatele.tv/web/wp-content/uploads/2012/09/073.jpg
- 6015 www.tomalatele.tv/web/blog/especial-represion-policial-25-s/
  6035 www.tomalatele.tv/web/wp-content/uploads/2012/09/072.jpg
- 6013 www.tomalatele.tv/web/blog/el-25s-a-traves-de-la-pantalla-de-tomalatele-tv/
  6023 www.tomalatele.tv/web/wp-content/uploads/2012/09/25s_banner_sidebar_p1.jpg
  6021 www.tomalatele.tv/web/wp-content/uploads/2012/09/071.jpg
  6016 www.tomalatele.tv/web/blog/de-como-grabe-el-video-del-25s-y-como-lo-podeis-hacer-vosotros/
+ 6015 www.tomalatele.tv/web/blog/especial-represion-policial-25-s/
+ 6013 www.tomalatele.tv/web/blog/el-25s-a-traves-de-la-pantalla-de-tomalatele-tv/
  6011 www.tomalatele.tv/web/wp-content/uploads/2012/09/070.jpg
  6008 www.tomalatele.tv/web/blog/madrid-25s-asamblea-plaza-de-espana/
  6004 www.tomalatele.tv/web/wp-content/uploads/2012/09/069.jpg
  6000 www.tomalatele.tv/web/blog/cronica-25s-2012/
- 5996 www.tomalatele.tv/web/blog/canal-bertabambuser/
  5997 www.tomalatele.tv/web/wp-content/uploads/2012/09/Bertabambuser.jpg
- 5986 www.tomalatele.tv/web/blog/canal-streaming-t3rm1nus/
+ 5996 www.tomalatele.tv/web/blog/canal-bertabambuser/
  5992 www.tomalatele.tv/web/wp-content/uploads/2012/09/068.jpg
  5990 www.tomalatele.tv/web/blog/el-campamento-de-perdidos-y-encontrados-entonces/
  5988 www.tomalatele.tv/web/wp-content/uploads/2012/09/t3rm1nus1.jpg
  5987 www.tomalatele.tv/web/wp-content/uploads/2012/09/t3rm1nus.jpg
- 5982 www.tomalatele.tv/web/blog/canal-de-colibri/
+ 5986 www.tomalatele.tv/web/blog/canal-streaming-t3rm1nus/
  5983 www.tomalatele.tv/web/wp-content/uploads/2012/09/colibri.jpg
- 5979 www.tomalatele.tv/web/blog/canal-de-teamosa/
+ 5982 www.tomalatele.tv/web/blog/canal-de-colibri/
  5980 www.tomalatele.tv/web/wp-content/uploads/2012/09/teamosa.jpg
- 5972 www.tomalatele.tv/web/blog/canal-de-kamaron/
+ 5979 www.tomalatele.tv/web/blog/canal-de-teamosa/
  5973 www.tomalatele.tv/web/wp-content/uploads/2012/09/kamaron.jpg
+ 5972 www.tomalatele.tv/web/blog/canal-de-kamaron/
  5968 www.tomalatele.tv/web/wp-content/uploads/2012/09/067.jpg
  5958 www.tomalatele.tv/web/blog/comunicado-de-la-comision-legal-de-sol-ante-la-convocatoria-del-25-s-y-abogads-disponibles-para-la-convocatoria/
  5957 www.tomalatele.tv/web/wp-content/uploads/2012/09/066.jpg
@@ -3192,24 +3191,24 @@
  5951 www.tomalatele.tv/web/blog/acusan-a-una-revista-por-denuciar-corrupcion/
  5945 www.tomalatele.tv/web/wp-content/uploads/2012/09/064.jpg
  5942 www.tomalatele.tv/web/blog/entrevista-a-pilar-guerra/
- 5935 www.tomalatele.tv/web/blog/canal-de-alex-gutierrez/
  5936 www.tomalatele.tv/web/wp-content/uploads/2012/09/bambuser.jpg
+ 5935 www.tomalatele.tv/web/blog/canal-de-alex-gutierrez/
  5934 www.tomalatele.tv/web/wp-content/uploads/2012/09/25s_banner_sidebar_p.jpg
  5933 www.tomalatele.tv/web/wp-content/uploads/2012/09/25s_banner_sidebar.jpg
  5932 www.tomalatele.tv/web/wp-content/uploads/2012/09/25S_rodeaelcongreso.jpg
  5931 www.tomalatele.tv/web/wp-content/uploads/2012/09/063.jpg
- 5921 www.tomalatele.tv/web/blog/entrevista-a-ana-etchenique-especulacion-alimentaria-y-crisis-ambiental/
  5928 www.tomalatele.tv/web/wp-content/uploads/2012/09/062.jpg
  5924 www.tomalatele.tv/web/blog/madrid-25s-la-empalizada-que-protege-el-congreso-de-los-diputados/
- 5914 www.tomalatele.tv/web/blog/comision-legal-sol-breve-informe-sobre-aspectos-legales-de-la-convocatoria-del-25-s/
+ 5921 www.tomalatele.tv/web/blog/entrevista-a-ana-etchenique-especulacion-alimentaria-y-crisis-ambiental/
  5915 www.tomalatele.tv/web/wp-content/uploads/2012/09/25s.jpg
+ 5914 www.tomalatele.tv/web/blog/comision-legal-sol-breve-informe-sobre-aspectos-legales-de-la-convocatoria-del-25-s/
  5912 www.tomalatele.tv/web/wp-content/uploads/2012/09/061.jpg
  5906 www.tomalatele.tv/web/blog/teresa-forcades-la-monja-que-apoya-el-25s/
  5905 www.tomalatele.tv/web/wp-content/uploads/2012/09/73305032_640.jpg
- 5369 www.tomalatele.tv/web/blog/videoteca-popular-de-carabanchel-tierra-sublevada-oro-impuro/
  5896 www.tomalatele.tv/web/wp-content/uploads/2012/09/060.jpg
  5893 www.tomalatele.tv/web/blog/madrid-manifestacion-22s-2012-desmontando-mentiras/
  5890 www.tomalatele.tv/web/wp-content/uploads/2012/09/zurro.jpg
+ 5889 www.tomalatele.tv/web/blog/canal-streaming-de-cristina-zurro/
  5881 www.tomalatele.tv/web/wp-content/uploads/2012/09/059.jpg
  5878 www.tomalatele.tv/web/blog/25s-rodea-el-congreso-ven-sientate-plantate-resiste-2012/
  5876 www.tomalatele.tv/web/wp-content/uploads/2012/09/058.jpg
@@ -3241,28 +3240,28 @@
  5772 www.tomalatele.tv/web/wp-content/uploads/2012/09/046.jpg
  5770 www.tomalatele.tv/web/blog/madrid-desalojo-casablanca-19-9-12-900am/
  5769 www.tomalatele.tv/web/wp-content/uploads/2012/09/045.jpg
- 5764 www.tomalatele.tv/web/blog/22s-desmontando-mentiras-construyendo-alternativas-las-mentiras-de-la-banca-68/
  5766 www.tomalatele.tv/web/wp-content/uploads/2012/09/044.jpg
+ 5764 www.tomalatele.tv/web/blog/22s-desmontando-mentiras-construyendo-alternativas-las-mentiras-de-la-banca-68/
  5763 www.tomalatele.tv/web/blog/22s-desmontando-mentiras-construyendo-alternativas-las-mentiras-de-la-vivienda-58/
  5762 www.tomalatele.tv/web/wp-content/uploads/2012/09/043.jpg
  5757 www.tomalatele.tv/web/wp-content/uploads/2012/09/042.jpg
  5753 www.tomalatele.tv/web/blog/incendios-en-leon-2012-rueda-de-prensa/
  5751 www.tomalatele.tv/web/wp-content/uploads/2012/09/041.jpg
  5745 www.tomalatele.tv/web/blog/sin-tarjeta-sanitaria-podrian-fallecer-hasta-50-enfermos-de-vih/
- 5692 www.tomalatele.tv/web/blog/22s-desmontando-mentiras-construyendo-alternativas-las-mentiras-de-la-reforma-laboral-48/
  5743 www.tomalatele.tv/web/wp-content/uploads/2012/09/040.jpg
  5740 www.tomalatele.tv/web/blog/i-taller-de-guion-indignado/
  5732 www.tomalatele.tv/web/wp-content/uploads/2012/09/039.jpg
  5729 www.tomalatele.tv/web/wp-content/uploads/2012/09/038.jpg
- 5687 www.tomalatele.tv/web/blog/22s-desmontando-mentiras-construyendo-alternativas-las-mentiras-del-deficit/
  5725 www.tomalatele.tv/web/wp-content/uploads/2012/09/037.jpg
  5723 www.tomalatele.tv/web/blog/nos-toca/
  5722 www.tomalatele.tv/web/wp-content/uploads/2012/09/036.jpg
  5718 www.tomalatele.tv/web/blog/esperanza-aguirre-dimite-esperanzadimite/
  5716 www.tomalatele.tv/web/wp-content/uploads/2012/09/035.jpg
  5712 www.tomalatele.tv/web/blog/red-de-huertos-urbanos-de-madrid-mucho-mas-que-hortalizas/
- 5707 www.tomalatele.tv/web/blog/madrid-17s-manifestacion-atocha-sol-verdeindefinida-huelgadetransportes-y-celebraciones-graciasesperanza/
  5708 www.tomalatele.tv/web/wp-content/uploads/2012/09/17s.jpg
+ 5707 www.tomalatele.tv/web/blog/madrid-17s-manifestacion-atocha-sol-verdeindefinida-huelgadetransportes-y-celebraciones-graciasesperanza/
+ 5692 www.tomalatele.tv/web/blog/22s-desmontando-mentiras-construyendo-alternativas-las-mentiras-de-la-reforma-laboral-48/
+ 5687 www.tomalatele.tv/web/blog/22s-desmontando-mentiras-construyendo-alternativas-las-mentiras-del-deficit/
  5686 www.tomalatele.tv/web/wp-content/uploads/2012/09/034.jpg
  5682 www.tomalatele.tv/web/blog/lo-que-realmente-sucedio-en-el-grito-de-independencia-boicotacalderon-luzporlademocracia/
  5680 www.tomalatele.tv/web/wp-content/uploads/2012/09/033.jpg
@@ -3275,13 +3274,12 @@
  5665 www.tomalatele.tv/web/blog/la-sexta-salvados-ciudadano-klinex/
  5664 www.tomalatele.tv/web/wp-content/uploads/2012/09/029.jpg
  5662 www.tomalatele.tv/web/blog/portugal-15s-miles-de-manifestantes-rodean-el-parlamento-y-acaban-derribando-las-vallas/
- 5364 www.tomalatele.tv/web/blog/videoteca-popular-de-carabanchel-examined-life-astra-taylor-2008/
  5660 www.tomalatele.tv/web/wp-content/uploads/2012/09/028.jpg
  5655 www.tomalatele.tv/web/blog/anonymous-project-mayhem-2012/
- 5650 www.tomalatele.tv/web/blog/madrid-marcha-norte-15s-con-salvemostelemadrid-cancion-donde-esta-nuestra-radio-television/
  5651 www.tomalatele.tv/web/wp-content/uploads/2012/09/salvemos15s.jpg
- 5646 www.tomalatele.tv/web/blog/madrid-15s-en-libertad-con-cargos-los-detenidos-de-25srodeaelcongreso-esta-manana/
+ 5650 www.tomalatele.tv/web/blog/madrid-marcha-norte-15s-con-salvemostelemadrid-cancion-donde-esta-nuestra-radio-television/
  5647 www.tomalatele.tv/web/wp-content/uploads/2012/09/chemaruiz.jpg
+ 5646 www.tomalatele.tv/web/blog/madrid-15s-en-libertad-con-cargos-los-detenidos-de-25srodeaelcongreso-esta-manana/
  5639 www.tomalatele.tv/web/wp-content/uploads/2012/09/027.jpg
  5637 www.tomalatele.tv/web/blog/madrid-detencion-15s-por-pancarta-ocupa-el-congreso/
  5633 www.tomalatele.tv/web/wp-content/uploads/2012/09/026.jpg
@@ -3306,7 +3304,6 @@
  5567 www.tomalatele.tv/web/blog/codigos-cooperativos/
  5560 www.tomalatele.tv/web/wp-content/uploads/2012/09/017.jpg
  5558 www.tomalatele.tv/web/blog/madrid-piscinazo-ii-campo-de-la-cebada-asamblea-austrias/
- 5387 www.tomalatele.tv/web/blog/12m-marcha-desde-carabanchel-a-sol/
  5553 www.tomalatele.tv/web/wp-content/uploads/2012/09/016.jpg
  5550 www.tomalatele.tv/web/wp-content/uploads/2012/09/015.jpg
  5546 www.tomalatele.tv/web/wp-content/uploads/2012/09/014.jpg
@@ -3317,8 +3314,8 @@
  5531 www.tomalatele.tv/web/wp-content/uploads/2012/09/012.jpg
  5530 www.tomalatele.tv/web/wp-content/uploads/2012/09/011.jpg
  5527 www.tomalatele.tv/web/blog/guia-como-hacer-las-asambleas-accesibles/
- 5523 www.tomalatele.tv/web/blog/canal-ecostreaming/
  5524 www.tomalatele.tv/web/wp-content/uploads/2012/09/ecostreaming.jpg
+ 5523 www.tomalatele.tv/web/blog/canal-ecostreaming/
  5521 www.tomalatele.tv/web/wp-content/uploads/2012/09/010.jpg
  5518 www.tomalatele.tv/web/blog/guifi-net-red-abierta-libre-y-neutral/
  5515 www.tomalatele.tv/web/wp-content/uploads/2012/09/09.jpg
@@ -3330,54 +3327,60 @@
  5495 www.tomalatele.tv/web/blog/nuevo-edificio-okupado-en-sevilla/
  5494 www.tomalatele.tv/web/wp-content/uploads/2012/09/06.jpg
  5487 www.tomalatele.tv/web/blog/fuck-the-troika-%ef%bb%bf%ef%bb%bfmerkelgohome/
- 5454 www.tomalatele.tv/web/blog/videoteca-popular-de-carabanchel-la-pesadilla-de-darwin/
  5482 www.tomalatele.tv/web/wp-content/uploads/2012/09/05.jpg
  5475 www.tomalatele.tv/web/blog/madrid-protesta-uam-unisinespe/
  5473 www.tomalatele.tv/web/wp-content/uploads/2012/09/04.jpg
+ 5471 www.tomalatele.tv/web/blog/tesimonio-belen-detenida-en-la-manifestacion-de-mis-impuestos-al-papa-cero/
  5464 www.tomalatele.tv/web/wp-content/uploads/2012/09/03.jpg
  5459 www.tomalatele.tv/web/blog/resistencia132/
+ 5454 www.tomalatele.tv/web/blog/videoteca-popular-de-carabanchel-la-pesadilla-de-darwin/
  5446 www.tomalatele.tv/web/wp-content/uploads/2012/09/02.jpg
  5444 www.tomalatele.tv/web/wp-content/uploads/2012/09/01.jpg
  5440 www.tomalatele.tv/web/blog/globalnoise-13-de-octubre-londres-2012/
- 5324 www.tomalatele.tv/web/blog/videoteca-popular-de-carabanchel-la-conspiracion-de-chicago-subversive-films/
  5437 www.tomalatele.tv/web/wp-content/uploads/2012/09/0.jpg
  5434 www.tomalatele.tv/web/blog/aramus-corto-violencia-de-genero-y-trata-de-personas/
  5429 www.tomalatele.tv/web/wp-content/uploads/2012/08/0113.jpg
  5427 www.tomalatele.tv/web/blog/querella-argentina-red-aqua-verdad-justicia-reparacion/
  5426 www.tomalatele.tv/web/wp-content/uploads/2012/08/0112.jpg
  5423 www.tomalatele.tv/web/blog/love-wars/
+ 5406 www.tomalatele.tv/web/blog/videoteca-popular-de-carabanchel-asi-es-como-se-ve-la-democracia/
  5402 www.tomalatele.tv/web/wp-content/uploads/2012/08/0111.jpg
  5395 www.tomalatele.tv/web/blog/paseo-recordando-la-frabrika-de-suenos/
+ 5387 www.tomalatele.tv/web/blog/12m-marcha-desde-carabanchel-a-sol/
  5380 www.tomalatele.tv/web/wp-content/uploads/2012/08/0110.jpg
  5378 www.tomalatele.tv/web/blog/29m-detenciones-piquete-asamblea-carabanchel/
+ 5369 www.tomalatele.tv/web/blog/videoteca-popular-de-carabanchel-tierra-sublevada-oro-impuro/
+ 5364 www.tomalatele.tv/web/blog/videoteca-popular-de-carabanchel-examined-life-astra-taylor-2008/
  5357 www.tomalatele.tv/web/wp-content/uploads/2012/08/86199198_640.jpg
+ 5350 www.tomalatele.tv/web/blog/videoteca-popular-de-carabancheleeuu-una-democracia-limitada/
  5338 www.tomalatele.tv/web/wp-content/uploads/2012/08/0013.jpg
- 5321 www.tomalatele.tv/web/blog/fiesta-tomalatele-25-agosto-2012-asi-fue-y-asi-os-lo-contamos/
  5328 www.tomalatele.tv/web/wp-content/uploads/2012/08/livestream_fiesta25A.jpg
+ 5324 www.tomalatele.tv/web/blog/videoteca-popular-de-carabanchel-la-conspiracion-de-chicago-subversive-films/
+ 5321 www.tomalatele.tv/web/blog/fiesta-tomalatele-25-agosto-2012-asi-fue-y-asi-os-lo-contamos/
  5317 www.tomalatele.tv/web/wp-content/uploads/2012/08/0109.jpg
- 5309 www.tomalatele.tv/web/blog/videoteca-popular-de-carabanchel-consume-hasta-morir/
  5314 www.tomalatele.tv/web/wp-content/uploads/2012/08/0108.jpg
+ 5309 www.tomalatele.tv/web/blog/videoteca-popular-de-carabanchel-consume-hasta-morir/
  5307 www.tomalatele.tv/web/wp-content/uploads/2012/08/0107.jpg
  5304 www.tomalatele.tv/web/blog/madrid-bomberos-del-siglo-pasado/
  5303 www.tomalatele.tv/web/wp-content/uploads/2012/08/0106.jpg
- 5223 www.tomalatele.tv/web/blog/entrevista-a-francisco-viyuela/
- 5226 www.tomalatele.tv/web/blog/el-movimiento-15m/
- 5240 www.tomalatele.tv/web/blog/hipotecads-el-caso-espanol/
- 5251 www.tomalatele.tv/web/blog/nikola-tesla-el-hombre-que-ilumino-el-mundo/
- 5256 www.tomalatele.tv/web/blog/todo-un-mundo-de-capacidades/
- 5260 www.tomalatele.tv/web/blog/artistas-emergentes/
- 5264 www.tomalatele.tv/web/blog/trastorno-bipolar-las-dos-caras-de-una-enfremedad/
  5293 www.tomalatele.tv/web/wp-content/uploads/2012/08/0105.jpg
- 5282 www.tomalatele.tv/web/blog/reanudan-las-obras-de-la-central-hidroelectrica-de-belo-monte/
  5285 www.tomalatele.tv/web/wp-content/uploads/2012/08/0104.jpg
  5283 www.tomalatele.tv/web/blog/memoria-historica-testimonio-de-albino-calvo/
+ 5282 www.tomalatele.tv/web/blog/reanudan-las-obras-de-la-central-hidroelectrica-de-belo-monte/
  5275 www.tomalatele.tv/web/wp-content/uploads/2012/08/0103.jpg
  5270 www.tomalatele.tv/web/blog/el-gobierno-busca-aprobar-una-ley-que-agiliza-los-desahucios/
  5265 www.tomalatele.tv/web/wp-content/uploads/2012/08/006.jpg
+ 5264 www.tomalatele.tv/web/blog/trastorno-bipolar-las-dos-caras-de-una-enfremedad/
  5261 www.tomalatele.tv/web/wp-content/uploads/2012/08/005.jpg
+ 5260 www.tomalatele.tv/web/blog/artistas-emergentes/
  5257 www.tomalatele.tv/web/wp-content/uploads/2012/08/004.jpg
+ 5256 www.tomalatele.tv/web/blog/todo-un-mundo-de-capacidades/
  5253 www.tomalatele.tv/web/wp-content/uploads/2012/08/003.jpg
+ 5251 www.tomalatele.tv/web/blog/nikola-tesla-el-hombre-que-ilumino-el-mundo/
  5247 www.tomalatele.tv/web/wp-content/uploads/2012/08/002.jpg
+ 5240 www.tomalatele.tv/web/blog/hipotecads-el-caso-espanol/
+ 5226 www.tomalatele.tv/web/blog/el-movimiento-15m/
+ 5223 www.tomalatele.tv/web/blog/entrevista-a-francisco-viyuela/
  5222 www.tomalatele.tv/web/wp-content/uploads/2012/08/0102.jpg
  5220 www.tomalatele.tv/web/blog/francisco-fernandez-buey/
  5219 www.tomalatele.tv/web/wp-content/uploads/2012/08/0101.jpg
@@ -3389,9 +3392,9 @@
  5202 www.tomalatele.tv/web/wp-content/uploads/2012/08/098.jpg
  5200 www.tomalatele.tv/web/blog/tarifazo-2-lucha-contra-los-tarifazos-electricos/
  5199 www.tomalatele.tv/web/wp-content/uploads/2012/08/331560596_640.jpg
- 5192 www.tomalatele.tv/web/blog/comete-el-periodismo/
  5197 www.tomalatele.tv/web/wp-content/uploads/2012/08/097.jpg
  5195 www.tomalatele.tv/web/blog/con-la-lucha-minera-hacia-el-otono-del-desafio-2012/
+ 5192 www.tomalatele.tv/web/blog/comete-el-periodismo/
  5190 www.tomalatele.tv/web/wp-content/uploads/2012/08/096.jpg
  5185 www.tomalatele.tv/web/blog/merida-acto-de-protesta-contra-el-hambre-y-la-pobreza-en-el-carrefour/
  5178 www.tomalatele.tv/web/wp-content/uploads/2012/08/095.jpg
@@ -3417,8 +3420,8 @@
  5115 www.tomalatele.tv/web/wp-content/uploads/2012/08/baner_v.jpg
  5113 www.tomalatele.tv/web/wp-content/uploads/2012/08/banner_fiesta2.jpg
  5108 www.tomalatele.tv/web/wp-content/uploads/2012/08/fiesta.jpg
- 5104 www.tomalatele.tv/web/blog/fiesta-en-el-patio-maravillas/
  5106 www.tomalatele.tv/web/wp-content/uploads/2012/08/baner_fiesta.jpg
+ 5104 www.tomalatele.tv/web/blog/fiesta-en-el-patio-maravillas/
  5097 www.tomalatele.tv/web/wp-content/uploads/2012/08/087.jpg
  5094 www.tomalatele.tv/web/blog/cerro-tijeras-colombia-pintamos-nuestro-territorio-de-paz/
  5092 www.tomalatele.tv/web/wp-content/uploads/2012/08/086.jpg
@@ -3434,14 +3437,15 @@
  5066 www.tomalatele.tv/web/como-puedo-colaborar/
  5064 www.tomalatele.tv/web/wp-content/uploads/2012/08/081.jpg
  5062 www.tomalatele.tv/web/blog/madrid-pregon-de-las-fiestas-de-lavapies/
- 5054 www.tomalatele.tv/web/blog/taller-no-solo-duelen-los-golpes-para-chicos-pamela-palenciano/
  5055 www.tomalatele.tv/web/wp-content/uploads/2012/08/pamela_palenciano.jpg
+ 5054 www.tomalatele.tv/web/blog/taller-no-solo-duelen-los-golpes-para-chicos-pamela-palenciano/
  5051 www.tomalatele.tv/web/wp-content/uploads/2012/08/OccupyMayDay.jpg
+ 5049 www.tomalatele.tv/web/blog/canal-de-occupymayday/
  5047 www.tomalatele.tv/web/wp-content/uploads/2012/08/080.jpg
- 5025 www.tomalatele.tv/web/blog/belo-monte-anuncio-de-una-guerra/
  5045 www.tomalatele.tv/web/wp-content/uploads/2012/08/079.jpg
- 5020 www.tomalatele.tv/web/blog/brasil-paralizadas-las-obras-de-la-presa-de-belo-monte-2/
  5040 www.tomalatele.tv/web/wp-content/uploads/2012/08/PERFIL-TWITTER-2.jpg
+ 5025 www.tomalatele.tv/web/blog/belo-monte-anuncio-de-una-guerra/
+ 5020 www.tomalatele.tv/web/blog/brasil-paralizadas-las-obras-de-la-presa-de-belo-monte-2/
  5015 www.tomalatele.tv/web/wp-content/uploads/2012/08/197752511_640.jpg
  5013 www.tomalatele.tv/web/blog/odysseus-gambit/
  5012 www.tomalatele.tv/web/wp-content/uploads/2012/08/078.jpg
@@ -3465,6 +3469,7 @@
  4962 www.tomalatele.tv/web/wp-content/uploads/2012/08/069.jpg
  4960 www.tomalatele.tv/web/blog/la-educacion-prohibida/
  4958 www.tomalatele.tv/web/wp-content/uploads/2012/08/asamcarabanchel.jpg
+ 4957 www.tomalatele.tv/web/blog/canal-asambleacarabanchel/
  4956 www.tomalatele.tv/web/wp-content/uploads/2012/08/068.jpg
  4954 www.tomalatele.tv/web/blog/gijon-la-policia-detiene-a-participantes-en-manifestacion-antitaurina/
  4944 www.tomalatele.tv/web/wp-content/uploads/2012/08/067.jpg
@@ -3473,9 +3478,8 @@
  4938 www.tomalatele.tv/web/blog/hebron-short-film/
  4935 www.tomalatele.tv/web/wp-content/uploads/2012/08/065.jpg
  4933 www.tomalatele.tv/web/blog/pueblo-abandonado-pueblo-okupado/
-  364 www.tomalatele.tv/web/blog/364/
- 4928 www.tomalatele.tv/web/blog/condenada-a-un-ano-de-prision-por-agredir-a-un-policia-tras-la-manifestacion-del-19-j/
  4929 www.tomalatele.tv/web/wp-content/uploads/2012/08/6_elvirapp.jpg
+ 4928 www.tomalatele.tv/web/blog/condenada-a-un-ano-de-prision-por-agredir-a-un-policia-tras-la-manifestacion-del-19-j/
  4925 www.tomalatele.tv/web/wp-content/uploads/2012/08/327341461_640.jpg
  4923 www.tomalatele.tv/web/blog/consecuencias-del-turismo-de-masas-en-la-globalizacion-economica/
  4921 www.tomalatele.tv/web/wp-content/uploads/2012/08/064.jpg
@@ -3495,23 +3499,31 @@
  4885 www.tomalatele.tv/web/wp-content/uploads/2012/08/fanetin.jpg
  4883 www.tomalatele.tv/web/wp-content/uploads/2012/08/mainouv.jpg
  4881 www.tomalatele.tv/web/wp-content/uploads/2012/08/eldagreen.jpg
+ 4879 www.tomalatele.tv/web/blog/canal-de-eldagreen/
+ 4877 www.tomalatele.tv/web/blog/canal-punto-sol-mainouv/
+ 4875 www.tomalatele.tv/web/blog/canal-fanetin/
+ 4873 www.tomalatele.tv/web/blog/canal-bambuser-toma-la-tele/
+ 4871 www.tomalatele.tv/web/blog/canal-puntosol/
+ 4869 www.tomalatele.tv/web/blog/canal-mabeneyto-tomalatele/
+ 4867 www.tomalatele.tv/web/blog/canal-suysulucha/
+ 4863 www.tomalatele.tv/web/blog/canal-punto-sol-alistream/
  4862 www.tomalatele.tv/web/wp-content/uploads/2012/08/30_occupy4.jpg
  4860 www.tomalatele.tv/web/wp-content/uploads/2012/08/329069045_640.jpg
+ 4858 www.tomalatele.tv/web/blog/canal-bambuser-curro-2012/
+ 4857 www.tomalatele.tv/web/blog/alba-tv-189/
  4855 www.tomalatele.tv/web/wp-content/uploads/2012/08/060.jpg
  4853 www.tomalatele.tv/web/blog/desalojos-y-represion-contra-el-sat/
- 4772 www.tomalatele.tv/web/blog/mercadona-despide-a-un-trabajador-por-sufrir-un-infarto-cerebral/
  4850 www.tomalatele.tv/web/wp-content/uploads/2012/08/059.jpg
  4848 www.tomalatele.tv/web/blog/ecuador-sentencia-historica-a-favor-del-pueblo-sarayaku/
  4845 www.tomalatele.tv/web/wp-content/uploads/2012/08/058.jpg
  4842 www.tomalatele.tv/web/blog/francisco-moreno-del-sat-la-violencia-no-es-nuestra-filosofia/
  4839 www.tomalatele.tv/web/wp-content/uploads/2012/08/057.jpg
  4837 www.tomalatele.tv/web/blog/muerte-en-girona-juan-pablo-torroija/
- 4857 www.tomalatele.tv/web/blog/alba-tv-189/
  4835 www.tomalatele.tv/web/wp-content/uploads/2012/08/44866989_640.jpg
  4833 www.tomalatele.tv/web/blog/vidas-reinventadas-documental-sobre-las-trabajadoras-del-sexo/
- 4829 www.tomalatele.tv/web/blog/cronicas-desde-londres-revista-jerseys-para-los-monos-y-otras-entrevistas/
  4831 www.tomalatele.tv/web/wp-content/uploads/2012/08/30_occupy3.jpg
  4830 www.tomalatele.tv/web/wp-content/uploads/2012/08/amanecequenoespoco10.jpg
+ 4829 www.tomalatele.tv/web/blog/cronicas-desde-londres-revista-jerseys-para-los-monos-y-otras-entrevistas/
  4826 www.tomalatele.tv/web/wp-content/uploads/2012/08/056.jpg
  4824 www.tomalatele.tv/web/blog/mercadona-y-sat-quienes-son-los-ladrones/
  4822 www.tomalatele.tv/web/wp-content/uploads/2012/08/055.jpg
@@ -3519,8 +3531,8 @@
  4819 www.tomalatele.tv/web/wp-content/uploads/2012/08/054.jpg
  4817 www.tomalatele.tv/web/blog/presentacion-en-valencia-de-la-plataforma-por-la-auditoria-de-la-deuda-al-pais-valencia/
  4810 www.tomalatele.tv/web/wp-content/uploads/2012/08/053.jpg
- 4805 www.tomalatele.tv/web/blog/parados-y-autonomos-en-huelga-de-hambre-quien-me-rescata-a-mi/
  4808 www.tomalatele.tv/web/wp-content/uploads/2012/08/052.jpg
+ 4805 www.tomalatele.tv/web/blog/parados-y-autonomos-en-huelga-de-hambre-quien-me-rescata-a-mi/
  4804 www.tomalatele.tv/web/blog/silencio-de-las-autoridades-ante-la-muerte-de-un-detenido-en-girona/
  4801 www.tomalatele.tv/web/wp-content/uploads/2012/08/051.jpg
  4797 www.tomalatele.tv/web/blog/pobreza-infantil-en-espana-apadrine-un-nino-espanol/
@@ -3535,27 +3547,27 @@
  4779 www.tomalatele.tv/web/wp-content/uploads/2012/08/323889245_640.jpg
  4777 www.tomalatele.tv/web/blog/espanish-dream/
  4774 www.tomalatele.tv/web/wp-content/uploads/2012/08/046.jpg
+ 4772 www.tomalatele.tv/web/blog/mercadona-despide-a-un-trabajador-por-sufrir-un-infarto-cerebral/
  4770 www.tomalatele.tv/web/wp-content/uploads/2012/08/045.jpg
  4765 www.tomalatele.tv/web/blog/el-gobierno-avisa-a-funcionarios-en-una-circular-recordandoles-las-estrictas-normas-para-protestar/
  4761 www.tomalatele.tv/web/wp-content/uploads/2012/08/044.jpg
+ 4759 www.tomalatele.tv/web/blog/bertrand-russell-por-que-no-soy-cristiano/
  4758 www.tomalatele.tv/web/wp-content/uploads/2012/08/043.jpg
  4756 www.tomalatele.tv/web/blog/la-flotilla-de-la-libertad-vuelve-a-navegar-para-romper-el-bloqueo-a-gaza/
- 4709 www.tomalatele.tv/web/blog/cadiz-ocupacion-y-expropiacion-por-el-sat-del-carrefour/
- 4729 www.tomalatele.tv/web/blog/amancio-ortega-las-sicavs-y-la-pobreza-en-espana/
  4752 www.tomalatele.tv/web/wp-content/uploads/2012/08/042.jpg
  4750 www.tomalatele.tv/web/blog/9-de-agosto-dia-mundial-de-los-pueblos-indigenas/
  4749 www.tomalatele.tv/web/wp-content/uploads/2012/08/041.jpg
  4747 www.tomalatele.tv/web/blog/facebook-facilita-el-registro-para-votar-en-ee-uu/
  4746 www.tomalatele.tv/web/wp-content/uploads/2012/08/040.jpg
+ 4744 www.tomalatele.tv/web/blog/mas-de-30-periodistas-asesinados-en-america-latina-en-el-2012/
  4743 www.tomalatele.tv/web/wp-content/uploads/2012/08/039.jpg
  4741 www.tomalatele.tv/web/blog/fernando-lugo-alerta-sobre-posibles-golpes-de-estado-en-america-latina/
  4738 www.tomalatele.tv/web/wp-content/uploads/2012/08/038.jpg
  4736 www.tomalatele.tv/web/blog/empleo-gasta-3-700-euros-al-mes-en-que-altos-cargos-coman-los-viernes/
- 4759 www.tomalatele.tv/web/blog/bertrand-russell-por-que-no-soy-cristiano/
  4735 www.tomalatele.tv/web/wp-content/uploads/2012/08/326487135_640.jpg
  4733 www.tomalatele.tv/web/blog/salvador-lopez-arnal-el-camino-de-la-resistencia/
  4731 www.tomalatele.tv/web/wp-content/uploads/2012/08/037.jpg
- 4744 www.tomalatele.tv/web/blog/mas-de-30-periodistas-asesinados-en-america-latina-en-el-2012/
+ 4729 www.tomalatele.tv/web/blog/amancio-ortega-las-sicavs-y-la-pobreza-en-espana/
  4727 www.tomalatele.tv/web/wp-content/uploads/2012/08/036.jpg
  4724 www.tomalatele.tv/web/wp-content/uploads/2012/08/169301420_640.jpg
  4722 www.tomalatele.tv/web/blog/inside-job-espanol/
@@ -3564,8 +3576,9 @@
  4714 www.tomalatele.tv/web/wp-content/uploads/2012/08/034.jpg
  4712 www.tomalatele.tv/web/blog/joseph-stiglitz-the-top-1/
  4711 www.tomalatele.tv/web/wp-content/uploads/2012/08/033.jpg
- 4704 www.tomalatele.tv/web/blog/el-coste-social-del-primer-rescate-blando/
+ 4709 www.tomalatele.tv/web/blog/cadiz-ocupacion-y-expropiacion-por-el-sat-del-carrefour/
  4705 www.tomalatele.tv/web/wp-content/uploads/2012/08/dictapp.jpg
+ 4704 www.tomalatele.tv/web/blog/el-coste-social-del-primer-rescate-blando/
  4703 www.tomalatele.tv/web/wp-content/uploads/2012/08/032.jpg
  4701 www.tomalatele.tv/web/blog/los-inmigrantes-se-quedan-sin-tarjeta-sanitaria/
  4700 www.tomalatele.tv/web/wp-content/uploads/2012/08/031.jpg
@@ -3604,9 +3617,9 @@
  4633 www.tomalatele.tv/web/blog/franja-albatv-186/
  4630 www.tomalatele.tv/web/wp-content/uploads/2012/08/016.jpg
  4628 www.tomalatele.tv/web/blog/joaquim-nadal-escucha-una-cosa-cojones/
- 4623 www.tomalatele.tv/web/blog/cronicas-desde-londres-yosoy132/
  4625 www.tomalatele.tv/web/wp-content/uploads/2012/08/muralpp.jpg
  4624 www.tomalatele.tv/web/wp-content/uploads/2012/08/pri_pp.jpg
+ 4623 www.tomalatele.tv/web/blog/cronicas-desde-londres-yosoy132/
  4622 www.tomalatele.tv/web/wp-content/uploads/2012/08/015.jpg
  4620 www.tomalatele.tv/web/blog/cursillo-de-manipulacion-informativa-urdacis-reload/
  4618 www.tomalatele.tv/web/wp-content/uploads/2012/08/014.jpg
@@ -3621,8 +3634,8 @@
  4603 www.tomalatele.tv/web/blog/%ef%bb%bf%ef%bb%bfcomando-motorizado-ii-que-sen-vagin-que-se-vayan/
  4601 www.tomalatele.tv/web/wp-content/uploads/2012/08/09.jpg
  4599 www.tomalatele.tv/web/blog/atos-proveedora-informatica-jjoo-impide-actividad-sindical-de-trabajadores/
- 4591 www.tomalatele.tv/web/blog/cronicas-desde-londres/
  4597 www.tomalatele.tv/web/wp-content/uploads/2012/08/30_occupy1.jpg
+ 4591 www.tomalatele.tv/web/blog/cronicas-desde-londres/
  4589 www.tomalatele.tv/web/wp-content/uploads/2012/08/318915145_640.jpg
  4587 www.tomalatele.tv/web/blog/yo-si-sanidad-universal-2/
  4583 www.tomalatele.tv/web/wp-content/uploads/2012/08/08.jpg
@@ -3635,29 +3648,29 @@
  4571 www.tomalatele.tv/web/blog/camilo-cienfuegos-y-el-anarquismo-en-cuba/
  4569 www.tomalatele.tv/web/wp-content/uploads/2012/08/04.jpg
  4567 www.tomalatele.tv/web/blog/genocidio-camboyano-pol-pot-y-los-jemeres-rojos/
- 4562 www.tomalatele.tv/web/blog/repsol-pretende-demandar-a-un-minero-leones-por-una-entrevista-en-argentina/
  4564 www.tomalatele.tv/web/wp-content/uploads/2012/08/11_mineros_pedpp.jpg
  4563 www.tomalatele.tv/web/wp-content/uploads/2012/08/11_pedr_mineros_h.jpg
+ 4562 www.tomalatele.tv/web/blog/repsol-pretende-demandar-a-un-minero-leones-por-una-entrevista-en-argentina/
  4559 www.tomalatele.tv/web/wp-content/uploads/2012/08/03.jpg
  4557 www.tomalatele.tv/web/blog/rebelion-en-la-granja-george-orwell-1954/
- 4550 www.tomalatele.tv/web/blog/acto-por-la-sanidad-publica-en-carabanchel-madrid/
  4551 www.tomalatele.tv/web/wp-content/uploads/2012/08/ricardo.jpg
- 4546 www.tomalatele.tv/web/blog/un-nuevo-desahucio-en-villaverde/
+ 4550 www.tomalatele.tv/web/blog/acto-por-la-sanidad-publica-en-carabanchel-madrid/
  4547 www.tomalatele.tv/web/wp-content/uploads/2012/08/desahucio_villaverde.jpg
+ 4546 www.tomalatele.tv/web/blog/un-nuevo-desahucio-en-villaverde/
  4544 www.tomalatele.tv/web/wp-content/uploads/2012/08/319736103_640.jpg
  4542 www.tomalatele.tv/web/blog/la-batalla-de-argel-de-gillo-pontecorvo/
  4540 www.tomalatele.tv/web/wp-content/uploads/2012/08/02.jpg
  4538 www.tomalatele.tv/web/blog/barcelona-el-comando-motorizado-en-lucha-contra-los-recortes/
- 4534 www.tomalatele.tv/web/blog/los-bomberos-de-madrid-se-encierran-en-defensa-de-sus-derechos/
  4535 www.tomalatele.tv/web/wp-content/uploads/2012/08/bomberos.jpg
+ 4534 www.tomalatele.tv/web/blog/los-bomberos-de-madrid-se-encierran-en-defensa-de-sus-derechos/
  4532 www.tomalatele.tv/web/wp-content/uploads/2012/08/01.jpg
  4530 www.tomalatele.tv/web/blog/que-fue-el-crack-de-1929/
  4527 www.tomalatele.tv/web/wp-content/uploads/2012/08/0.jpg
  4525 www.tomalatele.tv/web/blog/cajastur-devuelve-sin-abrir-las-cartas-de-jorge-en-huelga-de-hambre-desde-hace-44-dias/
- 4522 www.tomalatele.tv/web/blog/colectivo-de-investigacion-de-occupy/
  4523 www.tomalatele.tv/web/wp-content/uploads/2012/08/30_occupy2.jpg
- 4519 www.tomalatele.tv/web/blog/entrevista-a-dan-poulton-editor-del-periodico-occupy-times-london/
+ 4522 www.tomalatele.tv/web/blog/colectivo-de-investigacion-de-occupy/
  4520 www.tomalatele.tv/web/wp-content/uploads/2012/08/30_occupy.jpg
+ 4519 www.tomalatele.tv/web/blog/entrevista-a-dan-poulton-editor-del-periodico-occupy-times-london/
  4517 www.tomalatele.tv/web/wp-content/uploads/2012/07/0260.jpg
  4515 www.tomalatele.tv/web/blog/valencia-desde-el-juzgado-desmienten-la-version-policial-de-la-primavera-valenciana/
  4514 www.tomalatele.tv/web/wp-content/uploads/2012/07/0259.jpg
@@ -3667,8 +3680,8 @@
  4504 www.tomalatele.tv/web/wp-content/uploads/2012/07/0257.jpg
  4502 www.tomalatele.tv/web/blog/louise-brooks-la-caja-de-pandora-1929/
  4500 www.tomalatele.tv/web/wp-content/uploads/2012/07/0256.jpg
- 4493 www.tomalatele.tv/web/blog/las-mujeres-del-carbon-contra-goldman-sachs/
  4497 www.tomalatele.tv/web/wp-content/uploads/2012/07/intolerancia.jpg
+ 4493 www.tomalatele.tv/web/blog/las-mujeres-del-carbon-contra-goldman-sachs/
  4481 www.tomalatele.tv/web/blog/intolerancia/
  4476 www.tomalatele.tv/web/wp-content/uploads/2012/07/0255.jpg
  4474 www.tomalatele.tv/web/blog/la-trama-del-amianto-crisotilo-asesino/
@@ -3684,8 +3697,8 @@
  4441 www.tomalatele.tv/web/blog/soy-publica-intervencion-en-el-debate-popular-del-estado-de-la-nacion/
  4436 www.tomalatele.tv/web/wp-content/uploads/2012/07/0250.jpg
  4434 www.tomalatele.tv/web/blog/centenares-de-personas-apoyan-a-los-mineros-encerrados-en-los-pozos-candin-y-nicolasa/
- 4426 www.tomalatele.tv/web/blog/como-se-hace-un-streaming-desde-bambuser/
  4427 www.tomalatele.tv/web/wp-content/uploads/2012/07/tallerpp1.jpg
+ 4426 www.tomalatele.tv/web/blog/como-se-hace-un-streaming-desde-bambuser/
  4423 www.tomalatele.tv/web/wp-content/uploads/2012/07/0249.jpg
  4420 www.tomalatele.tv/web/blog/la-fiaca/
  4418 www.tomalatele.tv/web/wp-content/uploads/2012/07/0248.jpg
@@ -3706,8 +3719,8 @@
  4367 www.tomalatele.tv/web/blog/malaga-bancos-y-policias-dejan-a-otra-familia-sin-casa/
  4361 www.tomalatele.tv/web/wp-content/uploads/2012/07/0241.jpg
  4359 www.tomalatele.tv/web/blog/joan-march-los-negocios-de-la-guerra/
- 4355 www.tomalatele.tv/web/blog/madrid-manifestacion-de-los-trabajadores-publicos-contra-los-recortes/
  4356 www.tomalatele.tv/web/wp-content/uploads/2012/07/21_lapepapp.jpg
+ 4355 www.tomalatele.tv/web/blog/madrid-manifestacion-de-los-trabajadores-publicos-contra-los-recortes/
  4349 www.tomalatele.tv/web/wp-content/uploads/2012/07/0240.jpg
  4347 www.tomalatele.tv/web/blog/choropampa-el-precio-del-oro/
  4345 www.tomalatele.tv/web/wp-content/uploads/2012/07/0239.jpg
@@ -3720,7 +3733,6 @@
  4329 www.tomalatele.tv/web/blog/15m-cc-conversacion-con-alberto-corsin/
  4328 www.tomalatele.tv/web/wp-content/uploads/2012/07/0235.jpg
  4326 www.tomalatele.tv/web/blog/madrid-ronda-de-la-dignidad-bebes-robados-y-querellas/
- 4301 www.tomalatele.tv/web/blog/debate-popular-del-estado-de-la-nacion-ii/
  4324 www.tomalatele.tv/web/wp-content/uploads/2012/07/0234.jpg
  4321 www.tomalatele.tv/web/blog/trafico-de-armas/
  4320 www.tomalatele.tv/web/wp-content/uploads/2012/07/0233.jpg
@@ -3734,6 +3746,7 @@
  4307 www.tomalatele.tv/web/wp-content/uploads/2012/07/0229.jpg
  4305 www.tomalatele.tv/web/blog/sagunto-contra-los-recortes/
  4302 www.tomalatele.tv/web/wp-content/uploads/2012/07/imagina_debate.jpg
+ 4301 www.tomalatele.tv/web/blog/debate-popular-del-estado-de-la-nacion-ii/
  4300 www.tomalatele.tv/web/wp-content/uploads/2012/07/0228.jpg
  4297 www.tomalatele.tv/web/blog/pecera-un-cortometraje-del-oceano/
  4295 www.tomalatele.tv/web/wp-content/uploads/2012/07/0227.jpg
@@ -3758,10 +3771,10 @@
  4238 www.tomalatele.tv/web/wp-content/uploads/2012/07/0218.jpg
  4233 www.tomalatele.tv/web/blog/caceres-julio-anguita-discurso-antisistema-ano-1999/
  4232 www.tomalatele.tv/web/wp-content/uploads/2012/07/0217.jpg
- 4227 www.tomalatele.tv/web/blog/madrid-protesta-de-los-artistas-contra-el-gobierno/
  4229 www.tomalatele.tv/web/wp-content/uploads/2012/07/0216.jpg
- 4219 www.tomalatele.tv/web/blog/anaheim-police-2/
+ 4227 www.tomalatele.tv/web/blog/madrid-protesta-de-los-artistas-contra-el-gobierno/
  4221 www.tomalatele.tv/web/wp-content/uploads/2012/07/0215.jpg
+ 4219 www.tomalatele.tv/web/blog/anaheim-police-2/
  4218 www.tomalatele.tv/web/blog/el-sat-libera-las-turquillas-una-finca-del-ejercito/
  4217 www.tomalatele.tv/web/wp-content/uploads/2012/07/0214.jpg
  4215 www.tomalatele.tv/web/blog/declaraciones-de-juan-moreno-abogado-de-15mparato/
@@ -3769,8 +3782,8 @@
  4211 www.tomalatele.tv/web/blog/our-voices-resistenciaminera-cinera/
  4208 www.tomalatele.tv/web/wp-content/uploads/2012/07/0212.jpg
  4206 www.tomalatele.tv/web/blog/entrevista-angel-vadillo/
- 4189 www.tomalatele.tv/web/blog/themroc-2/
  4202 www.tomalatele.tv/web/wp-content/uploads/2012/07/themrok.jpg
+ 4189 www.tomalatele.tv/web/blog/themroc-2/
  4182 www.tomalatele.tv/web/wp-content/uploads/2012/07/316101008_640.jpg
  4180 www.tomalatele.tv/web/blog/els-bons-homes-van-en-burro/
  4171 www.tomalatele.tv/web/wp-content/uploads/2012/07/0211.jpg
@@ -3782,8 +3795,8 @@
  4160 www.tomalatele.tv/web/wp-content/uploads/2012/07/0208.jpg
  4157 www.tomalatele.tv/web/blog/madrid-marcha-de-desempleados-2012-tocando-el-cielo/
  4156 www.tomalatele.tv/web/wp-content/uploads/2012/07/0207.jpg
- 4138 www.tomalatele.tv/web/blog/nociones-comunes-curso-radical-community-manager/
  4143 www.tomalatele.tv/web/wp-content/uploads/2012/07/artworks-000014089815-3p59xn-original.jpg
+ 4138 www.tomalatele.tv/web/blog/nociones-comunes-curso-radical-community-manager/
  4135 www.tomalatele.tv/web/wp-content/uploads/2012/07/0206.jpg
  4133 www.tomalatele.tv/web/blog/paraisos-fiscales-la-gran-evasion/
  4131 www.tomalatele.tv/web/wp-content/uploads/2012/07/0205.jpg
@@ -3794,17 +3807,17 @@
  4118 www.tomalatele.tv/web/wp-content/uploads/2012/07/290772407_640.jpg
  4116 www.tomalatele.tv/web/blog/el-lobo-iberico-la-conservacion-de-una-especie-clave/
  4115 www.tomalatele.tv/web/wp-content/uploads/2012/07/0202.jpg
- 4104 www.tomalatele.tv/web/blog/espana-con-irlanda-y-malta-a-la-cola-de-la-ue-en-interrupcion-del-embarazo/
  4113 www.tomalatele.tv/web/wp-content/uploads/2012/07/313982932_640.jpg
  4111 www.tomalatele.tv/web/blog/eduardo-galeano-la-historia-no-esta-condenada-a-repetirse/
  4109 www.tomalatele.tv/web/wp-content/uploads/2012/07/0201.jpg
  4106 www.tomalatele.tv/web/blog/jornadas-de-reflexion-sobre-el-derecho-a-la-vivienda/
+ 4104 www.tomalatele.tv/web/blog/espana-con-irlanda-y-malta-a-la-cola-de-la-ue-en-interrupcion-del-embarazo/
  4103 www.tomalatele.tv/web/wp-content/uploads/2012/07/0200.jpg
  4101 www.tomalatele.tv/web/blog/espana-2011-argentina-2012/
  4100 www.tomalatele.tv/web/wp-content/uploads/2012/07/0199.jpg
- 4085 www.tomalatele.tv/web/blog/cuanto-dinero-ocultan-los-multimillonarios-por-todo-el-mundo/
  4091 www.tomalatele.tv/web/wp-content/uploads/2012/07/tt.jpg
  4090 www.tomalatele.tv/web/wp-content/uploads/2012/07/tlt_mineros1.jpg
+ 4085 www.tomalatele.tv/web/blog/cuanto-dinero-ocultan-los-multimillonarios-por-todo-el-mundo/
  4084 www.tomalatele.tv/web/wp-content/uploads/2012/07/0198.jpg
  4082 www.tomalatele.tv/web/blog/19j-un-remix-audiovisual-en-tres-actos-con-un-streaming-y-seis-tweets/
  4080 www.tomalatele.tv/web/wp-content/uploads/2012/07/0197.jpg
@@ -3903,7 +3916,6 @@
  3838 www.tomalatele.tv/web/blog/els-treballadors-de-rtvv-ocupen-lestudi-dinformatius/
  3832 www.tomalatele.tv/web/wp-content/uploads/2012/07/0158.jpg
  3830 www.tomalatele.tv/web/blog/cuanto-dinero-se-llevan-los-partidos-parlamentarios-en-subvenciones-estatales/
- 3794 www.tomalatele.tv/web/blog/archivada-la-causa-penal-contra-detenids-por-la-accion-yo-no-pago/
  3826 www.tomalatele.tv/web/wp-content/uploads/2012/07/0157.jpg
  3824 www.tomalatele.tv/web/blog/madrid-asamblea-extraordinaria-economia/
  3821 www.tomalatele.tv/web/wp-content/uploads/2012/07/0156.jpg
@@ -3921,33 +3933,33 @@
  3800 www.tomalatele.tv/web/wp-content/uploads/2012/07/0150.jpg
  3798 www.tomalatele.tv/web/blog/canal-9-que-se-jodan-ellos-no-a-los-despidos/
  3796 www.tomalatele.tv/web/wp-content/uploads/2012/07/0149.jpg
+ 3794 www.tomalatele.tv/web/blog/archivada-la-causa-penal-contra-detenids-por-la-accion-yo-no-pago/
  3791 www.tomalatele.tv/web/wp-content/uploads/2012/07/0148.jpg
  3785 www.tomalatele.tv/web/blog/autopromotmltvmarchadesempleadas/
  3783 www.tomalatele.tv/web/wp-content/uploads/2012/07/0147.jpg
- 3776 www.tomalatele.tv/web/blog/manifestacion-de-funcionarios-en-el-congreso-domingo-15-de-julio-2012/
  3779 www.tomalatele.tv/web/wp-content/uploads/2012/07/0146.jpg
  3777 www.tomalatele.tv/web/blog/esperanza-aguirre-el-iva-o-el-advenimiento-del-apocalipsis/
+ 3776 www.tomalatele.tv/web/blog/manifestacion-de-funcionarios-en-el-congreso-domingo-15-de-julio-2012/
  3773 www.tomalatele.tv/web/wp-content/uploads/2012/07/0145.jpg
  3769 www.tomalatele.tv/web/blog/policia-infiltrado-en-la-manifestacion-minera-para-generar-disturbiosmadrid-11julio-2012/
  3768 www.tomalatele.tv/web/wp-content/uploads/2012/07/0144.jpg
- 3713 www.tomalatele.tv/web/blog/manifestacion-funcionarios-15-de-julio-2012/
  3764 www.tomalatele.tv/web/wp-content/uploads/2012/07/0143.jpg
- 3744 www.tomalatele.tv/web/blog/marchas-mineras-2/
  3759 www.tomalatele.tv/web/wp-content/uploads/2012/07/0142.jpg
  3756 www.tomalatele.tv/web/blog/wyoming-rajoy-no-es-el-puto-dueno-de-este-pais/
  3754 www.tomalatele.tv/web/wp-content/uploads/2012/07/0141.jpg
  3750 www.tomalatele.tv/web/blog/campana-policia-cara-b-salvados-la-sexta/
  3748 www.tomalatele.tv/web/wp-content/uploads/2012/07/0140.jpg
+ 3744 www.tomalatele.tv/web/blog/marchas-mineras-2/
  3743 www.tomalatele.tv/web/blog/videoclip-que-se-joda-andrea-fabra-diego-escusol/
  3739 www.tomalatele.tv/web/wp-content/uploads/2012/07/0139.jpg
- 3723 www.tomalatele.tv/web/blog/arguinano-cocina-hoy-crisis-a-la-bankia/
  3730 www.tomalatele.tv/web/wp-content/uploads/2012/07/316229429_640.jpg
+ 3723 www.tomalatele.tv/web/blog/arguinano-cocina-hoy-crisis-a-la-bankia/
  3715 www.tomalatele.tv/web/blog/salvar-valdevaqueros-la-ultima-amenaza-del-ladrillo-4-de-agosto-toma-la-playa/
+ 3713 www.tomalatele.tv/web/blog/manifestacion-funcionarios-15-de-julio-2012/
  3710 www.tomalatele.tv/web/wp-content/uploads/2012/07/0138.jpg
  3708 www.tomalatele.tv/web/blog/sahara-no-mires-hacia-otro-lado/
  3698 www.tomalatele.tv/web/wp-content/uploads/2012/07/312765959_640.jpg
  3695 www.tomalatele.tv/web/wp-content/uploads/2012/07/0137.jpg
- 3671 www.tomalatele.tv/web/blog/los-yayoflautas-de-madrid-luchando-por-el-futuro-de-hijos-y-nietos/
  3692 www.tomalatele.tv/web/wp-content/uploads/2012/07/318710847_640.jpg
  3689 www.tomalatele.tv/web/blog/rueda-prensa-legal-sol-antirepresion/
  3686 www.tomalatele.tv/web/wp-content/uploads/2012/07/317040209_640.jpg
@@ -3955,6 +3967,7 @@
  3679 www.tomalatele.tv/web/blog/marcha-desempleados/
  3678 www.tomalatele.tv/web/wp-content/uploads/2012/07/318450430_640.jpg
  3676 www.tomalatele.tv/web/blog/todos-a-la-carcel/
+ 3671 www.tomalatele.tv/web/blog/los-yayoflautas-de-madrid-luchando-por-el-futuro-de-hijos-y-nietos/
  3667 www.tomalatele.tv/web/wp-content/uploads/2012/07/0136.jpg
  3665 www.tomalatele.tv/web/blog/en-mexico-se-celebra-una-multitudinaria-protesta-contra-el-presunto-fraude-en-las-elecciones/
  3664 www.tomalatele.tv/web/wp-content/uploads/2012/07/318420874_640.jpg
@@ -3963,24 +3976,23 @@
  3653 www.tomalatele.tv/web/blog/subir-el-iva-o-como-hundir-la-economia/
  3651 www.tomalatele.tv/web/wp-content/uploads/2012/07/0134.jpg
  3649 www.tomalatele.tv/web/blog/el-ayuntamiento-de-peligros-contra-los-desahucios/
- 3606 www.tomalatele.tv/web/blog/manifestaciones-y-protestas-contra-los-recortes-del-rescate/
  3644 www.tomalatele.tv/web/wp-content/uploads/2012/07/bn_recortes.jpg
  3643 www.tomalatele.tv/web/wp-content/uploads/2012/07/0133.jpg
  3641 www.tomalatele.tv/web/blog/las-promesas-incumplidas-del-pp/
  3637 www.tomalatele.tv/web/wp-content/uploads/2012/07/0132.jpg
  3635 www.tomalatele.tv/web/blog/sup-los-cobardes-esquiroles-ya-estan-actuando/
- 3586 www.tomalatele.tv/web/blog/entrevista-a-la-mujer-detenida-durante-la-mani-contra-los-recortes-13j/
  3630 www.tomalatele.tv/web/wp-content/uploads/2012/07/0131.jpg
  3628 www.tomalatele.tv/web/blog/torrelodones-un-ayuntamiento-gobernado-por-vecins/
  3622 www.tomalatele.tv/web/wp-content/uploads/2012/07/246583396_640.jpg
  3619 www.tomalatele.tv/web/blog/arrancados-historias-de-ninos-robados-en-espana/
- 3616 www.tomalatele.tv/web/blog/nowtopia-de-como-los-hackers-los-huertos-urbanos-y-las-bicis-inventan-el-futuro/
  3617 www.tomalatele.tv/web/wp-content/uploads/2012/07/bicicritica.jpg
- 3612 www.tomalatele.tv/web/blog/presentacion-del-libro-el-orgullo-es-nuestro-movimientos-de-liberacion-sexual-en-el-estado-espanol/
+ 3616 www.tomalatele.tv/web/blog/nowtopia-de-como-los-hackers-los-huertos-urbanos-y-las-bicis-inventan-el-futuro/
  3614 www.tomalatele.tv/web/wp-content/uploads/2012/07/elorgulloesnuestro.jpg
+ 3612 www.tomalatele.tv/web/blog/presentacion-del-libro-el-orgullo-es-nuestro-movimientos-de-liberacion-sexual-en-el-estado-espanol/
  3611 www.tomalatele.tv/web/wp-content/uploads/2012/07/0130.jpg
  3609 www.tomalatele.tv/web/blog/entrevista-al-minero-asturiano-cristian-perez/
  3608 www.tomalatele.tv/web/wp-content/uploads/2012/07/0129.jpg
+ 3606 www.tomalatele.tv/web/blog/manifestaciones-y-protestas-contra-los-recortes-del-rescate/
  3602 www.tomalatele.tv/web/wp-content/uploads/2012/07/0128.jpg
  3600 www.tomalatele.tv/web/blog/manifestacion-de-apoyo-del-pueblo-de-madrid-a-los-mineros-de-la-marcha-negra/
  3599 www.tomalatele.tv/web/wp-content/uploads/2012/07/0127.jpg
@@ -3990,6 +4002,7 @@
  3592 www.tomalatele.tv/web/wp-content/uploads/2012/07/0125.jpg
  3590 www.tomalatele.tv/web/blog/que-se-jodan-congreso-de-los-diputados-minuto-de-silencio-en-sol/
  3588 www.tomalatele.tv/web/wp-content/uploads/2012/07/0124.jpg
+ 3586 www.tomalatele.tv/web/blog/entrevista-a-la-mujer-detenida-durante-la-mani-contra-los-recortes-13j/
  3579 www.tomalatele.tv/web/wp-content/uploads/2012/07/0123.jpg
  3577 www.tomalatele.tv/web/blog/madrid-la-policia-ataca-a-manfiestantes-contra-los-recortes/
  3575 www.tomalatele.tv/web/wp-content/uploads/2012/07/0122.jpg
@@ -4012,9 +4025,9 @@
  3532 www.tomalatele.tv/web/wp-content/uploads/2012/07/0113.jpg
  3530 www.tomalatele.tv/web/blog/maruja-torres-se-esta-dando-una-especie-de-golpe-de-estado/
  3527 www.tomalatele.tv/web/wp-content/uploads/2012/07/0112.jpg
- 3519 www.tomalatele.tv/web/blog/madrid-un-bote-dos-botes-diputado-el-que-no-bote/
  3523 www.tomalatele.tv/web/wp-content/uploads/2012/07/0111.jpg
  3520 www.tomalatele.tv/web/blog/el-pp-celebra-con-alegria-vitores-y-aplausos-los-recortes-sociales/
+ 3519 www.tomalatele.tv/web/blog/madrid-un-bote-dos-botes-diputado-el-que-no-bote/
  3517 www.tomalatele.tv/web/wp-content/uploads/2012/07/ban_ciudadjuarez.jpg
  3508 www.tomalatele.tv/web/wp-content/uploads/2012/07/0110.jpg
  3505 www.tomalatele.tv/web/blog/especial-ciudad-juarez-desierto-de-esperanza/
@@ -4092,8 +4105,10 @@
  3312 www.tomalatele.tv/web/wp-content/uploads/2012/07/074.jpg
  3310 www.tomalatele.tv/web/blog/malaga-desahucio-de-salva-parado-2/
  3305 www.tomalatele.tv/web/wp-content/uploads/2012/07/073.jpg
+ 3303 www.tomalatele.tv/web/blog/cartama-estacion-malaga-desahucio-parado/
  3301 www.tomalatele.tv/web/wp-content/uploads/2012/07/072.jpg
  3298 www.tomalatele.tv/web/wp-content/uploads/2012/07/071.jpg
+ 3296 www.tomalatele.tv/web/blog/malaga-los-padrinos-si-el-banco-nos-quita-la-casa-nos-mudamos-al-banco/
  3294 www.tomalatele.tv/web/wp-content/uploads/2012/07/070.jpg
  3292 www.tomalatele.tv/web/blog/hablando-del-15m-con-carlos-taibo/
  3290 www.tomalatele.tv/web/wp-content/uploads/2012/07/069.jpg
@@ -4147,8 +4162,8 @@
  3172 www.tomalatele.tv/web/blog/la-marcha-minera-llega-a-arevalo-avila/
  3170 www.tomalatele.tv/web/wp-content/uploads/2012/07/045.jpg
  3168 www.tomalatele.tv/web/blog/ies-sanz-briz-casetas-la-cancion-del-verano/
- 3165 www.tomalatele.tv/web/blog/las-detenidas-de-toma-el-metro-toman-la-palabra/
  3166 www.tomalatele.tv/web/wp-content/uploads/2012/07/tml.jpg
+ 3165 www.tomalatele.tv/web/blog/las-detenidas-de-toma-el-metro-toman-la-palabra/
  3164 www.tomalatele.tv/web/wp-content/uploads/2012/07/286087339_640.jpg
  3162 www.tomalatele.tv/web/blog/francisco-jurado-existe-realmente-el-euribor-opeuribor/
  3161 www.tomalatele.tv/web/wp-content/uploads/2012/07/044.jpg
@@ -4211,8 +4226,8 @@
  3048 www.tomalatele.tv/web/wp-content/uploads/2012/07/b_mordor.jpg
  3047 www.tomalatele.tv/web/wp-content/uploads/2012/07/b_desahucios.jpg
  3044 www.tomalatele.tv/web/wp-content/uploads/2012/07/018.jpg
- 3038 www.tomalatele.tv/web/blog/la-marcha-minera-llegada-a-maranchon-el-pp-y-las-jmj/
  3040 www.tomalatele.tv/web/wp-content/uploads/2012/07/017.jpg
+ 3038 www.tomalatele.tv/web/blog/la-marcha-minera-llegada-a-maranchon-el-pp-y-las-jmj/
  3037 www.tomalatele.tv/web/blog/el-pp-se-niega-a-negociar-con-los-mineros/
  3031 www.tomalatele.tv/web/wp-content/uploads/2012/07/016.jpg
  3028 www.tomalatele.tv/web/blog/3028/
@@ -4223,8 +4238,9 @@
  3016 www.tomalatele.tv/web/wp-content/uploads/2012/07/013.jpg
  3014 www.tomalatele.tv/web/blog/15m-la-revolucion-sin-prisas-pero-sin-pausa/
  3011 www.tomalatele.tv/web/wp-content/uploads/2012/07/012.jpg
- 3001 www.tomalatele.tv/web/blog/orgullo-indignado-01/
  3007 www.tomalatele.tv/web/wp-content/uploads/2012/07/011.jpg
+ 3004 www.tomalatele.tv/web/blog/marcha-12m-austrias/
+ 3001 www.tomalatele.tv/web/blog/orgullo-indignado-01/
  2998 www.tomalatele.tv/web/wp-content/uploads/2012/07/207894154_640.jpg
  2995 www.tomalatele.tv/web/blog/fish-in-my-mind/
  2994 www.tomalatele.tv/web/wp-content/uploads/2012/07/177894330_640.jpg
@@ -4283,8 +4299,8 @@
  2894 www.tomalatele.tv/web/blog/votante-del-pp-si-no-tengo-dinero-para-comprar-medicamentos-robare-no-le-vuelvo-a-votar-mas/
  2893 www.tomalatele.tv/web/wp-content/uploads/2012/06/0219.jpg
  2891 www.tomalatele.tv/web/blog/olga-rodriguez-yo-muero-hoy-primaveraarabe/
- 2885 www.tomalatele.tv/web/blog/toma-el-orgullo-para-que-se-nos-oiga-mas-alla-del-ruido-de-las-carrozas/
  2886 www.tomalatele.tv/web/wp-content/uploads/2012/06/tomaelorgullo2.jpg
+ 2885 www.tomalatele.tv/web/blog/toma-el-orgullo-para-que-se-nos-oiga-mas-alla-del-ruido-de-las-carrozas/
  2883 www.tomalatele.tv/web/wp-content/uploads/2012/06/0218.jpg
  2881 www.tomalatele.tv/web/blog/todas-las-mentiras-del-pp-en-6-meses-de-gobierno-de-rajoy/
  2879 www.tomalatele.tv/web/wp-content/uploads/2012/06/312008283_640.jpg
@@ -4299,8 +4315,8 @@
  2858 www.tomalatele.tv/web/blog/barcelona-escolta%c2%b4m-escuchame-redadas-racistas/
  2857 www.tomalatele.tv/web/wp-content/uploads/2012/06/0213.jpg
  2855 www.tomalatele.tv/web/blog/madrid-la-piscina-de-valdemoro-para-fiestas-del-alcalde/
- 2852 www.tomalatele.tv/web/blog/madrid-la-policia-echa-a-una-familia-con-tres-hijos-a-la-calle/
  2853 www.tomalatele.tv/web/wp-content/uploads/2012/06/legazpi.jpg
+ 2852 www.tomalatele.tv/web/blog/madrid-la-policia-echa-a-una-familia-con-tres-hijos-a-la-calle/
  2849 www.tomalatele.tv/web/wp-content/uploads/2012/06/0212.jpg
  2847 www.tomalatele.tv/web/blog/periodismo-humano-el-desahucio-de-oviedo/
  2846 www.tomalatele.tv/web/wp-content/uploads/2012/06/0211.jpg
@@ -4314,16 +4330,16 @@
  2831 www.tomalatele.tv/web/wp-content/uploads/2012/06/0207.jpg
  2829 www.tomalatele.tv/web/blog/al-menos-20-detenidos-al-intentar-parar-un-desahucio-en-oviedo/
  2822 www.tomalatele.tv/web/wp-content/uploads/2012/06/0206.jpg
- 2817 www.tomalatele.tv/web/blog/el-iva-y-los-bienes-de-primera-necesidad/
  2820 www.tomalatele.tv/web/wp-content/uploads/2012/06/310999913_640.jpg
- 2812 www.tomalatele.tv/web/blog/murales-del-agua-2406-piscina-municipal-san-blas/
+ 2817 www.tomalatele.tv/web/blog/el-iva-y-los-bienes-de-primera-necesidad/
  2815 www.tomalatele.tv/web/wp-content/uploads/2012/06/0205.jpg
+ 2812 www.tomalatele.tv/web/blog/murales-del-agua-2406-piscina-municipal-san-blas/
  2811 www.tomalatele.tv/web/blog/madrid-desahucio-en-noviciado-stopdesahucios/
  2809 www.tomalatele.tv/web/wp-content/uploads/2012/06/310616380_640.jpg
  2805 www.tomalatele.tv/web/blog/los-murales-del-agua/
  2804 www.tomalatele.tv/web/wp-content/uploads/2012/06/0204.jpg
- 2797 www.tomalatele.tv/web/blog/crisis-y-paraisos-fiscales-2/
  2802 www.tomalatele.tv/web/wp-content/uploads/2012/06/0203.jpg
+ 2797 www.tomalatele.tv/web/blog/crisis-y-paraisos-fiscales-2/
  2792 www.tomalatele.tv/web/blog/concentracion-en-frente-de-la-asamblea-de-madrid/
  2790 www.tomalatele.tv/web/wp-content/uploads/2012/06/0202.jpg
  2788 www.tomalatele.tv/web/blog/el-referente-anguita/
@@ -4368,9 +4384,9 @@
  2701 www.tomalatele.tv/web/wp-content/uploads/2012/06/0188.jpg
  2699 www.tomalatele.tv/web/blog/vision-siete-golpe-de-estado-en-paraguay/
  2697 www.tomalatele.tv/web/wp-content/uploads/2012/06/0187.jpg
- 2693 www.tomalatele.tv/web/blog/toma-el-orgullo/
  2695 www.tomalatele.tv/web/wp-content/uploads/2012/06/tomaelorgullo1.jpg
  2694 www.tomalatele.tv/web/wp-content/uploads/2012/06/tomaelorgullo.jpg
+ 2693 www.tomalatele.tv/web/blog/toma-el-orgullo/
  2689 www.tomalatele.tv/web/wp-content/uploads/2012/06/0186.jpg
  2687 www.tomalatele.tv/web/blog/resistencia-popular-en-paraguay-se-organiza/
  2685 www.tomalatele.tv/web/wp-content/uploads/2012/06/0185.jpg
@@ -4537,7 +4553,6 @@
  2318 www.tomalatele.tv/web/blog/espana-mineros-se-enfrentan-a-la-policia-con-misiles-de-fabricacion-casera/
  2314 www.tomalatele.tv/web/wp-content/uploads/2012/06/0119.jpg
  2312 www.tomalatele.tv/web/blog/somonte-para-ls-trabajadors-agricolas/
- 2240 www.tomalatele.tv/web/blog/fuenlabrada-joven-de-20-anos-detenido-por-abuchear-en-un-acto-del-pp/
  2307 www.tomalatele.tv/web/wp-content/uploads/2012/06/0118.jpg
  2304 www.tomalatele.tv/web/blog/cumbre-de-los-pueblos/
  2302 www.tomalatele.tv/web/wp-content/uploads/2012/06/0117.jpg
@@ -4573,12 +4588,13 @@
  2245 www.tomalatele.tv/web/wp-content/uploads/2012/06/0105.jpg
  2243 www.tomalatele.tv/web/blog/veriueu-ho-21-la-ruta-del-despilfarro/
  2242 www.tomalatele.tv/web/wp-content/uploads/2012/06/0104.jpg
+ 2240 www.tomalatele.tv/web/blog/fuenlabrada-joven-de-20-anos-detenido-por-abuchear-en-un-acto-del-pp/
  2238 www.tomalatele.tv/web/wp-content/uploads/2012/06/303372618_640.jpg
  2236 www.tomalatele.tv/web/blog/latele-un-canal-tdt-free-i-commons-lliure-i-comunitari/
- 2211 www.tomalatele.tv/web/blog/comunes-31-de-mayo-de-2012/
  2230 www.tomalatele.tv/web/wp-content/uploads/2012/06/comunes.png
  2217 www.tomalatele.tv/web/wp-content/uploads/2012/06/0103.jpg
  2215 www.tomalatele.tv/web/blog/flo6x8-las-primas-por-las-nubes-fandango-road-movie-vs-banks/
+ 2211 www.tomalatele.tv/web/blog/comunes-31-de-mayo-de-2012/
  2208 www.tomalatele.tv/web/wp-content/uploads/2012/06/0102.jpg
  2205 www.tomalatele.tv/web/blog/entrevista-a-fiare-zona-centro-banca-etica/
  2203 www.tomalatele.tv/web/wp-content/uploads/2012/06/0101.jpg
@@ -4591,11 +4607,11 @@
  2181 www.tomalatele.tv/web/blog/plataforma-sin-techo/
  2178 www.tomalatele.tv/web/wp-content/uploads/2012/06/0100.jpg
  2174 www.tomalatele.tv/web/wp-content/uploads/2012/06/203899728_640.jpg
- 2159 www.tomalatele.tv/web/blog/promo-marcha-a-bruselas-para-el-15-de-octubre/
  2164 www.tomalatele.tv/web/wp-content/uploads/2012/06/Marcha-a-Bruselas.jpg
+ 2159 www.tomalatele.tv/web/blog/promo-marcha-a-bruselas-para-el-15-de-octubre/
  2158 www.tomalatele.tv/web/blog/2158/
- 2153 www.tomalatele.tv/web/blog/yorgos-mitralias-syriza-derogara-los-planes-de-austeridad/
  2154 www.tomalatele.tv/web/wp-content/uploads/2012/06/13_llorgos01.jpg
+ 2153 www.tomalatele.tv/web/blog/yorgos-mitralias-syriza-derogara-los-planes-de-austeridad/
  2150 www.tomalatele.tv/web/wp-content/uploads/2012/06/099.jpg
  2148 www.tomalatele.tv/web/blog/tods-soms-grecia-los-participantes-del-acto-manifiestan-apoyo-a-ls-companers-griegs/
  2146 www.tomalatele.tv/web/wp-content/uploads/2012/06/098.jpg
@@ -4626,8 +4642,8 @@
  2076 www.tomalatele.tv/web/blog/jornada-sobre-criminalizacion-de-los-movimientos-sociales/
  2070 www.tomalatele.tv/web/wp-content/uploads/2012/06/088.jpg
  2068 www.tomalatele.tv/web/blog/2068/
- 2063 www.tomalatele.tv/web/blog/economia-para-la-ciudadania-bankia-y-preferentes/
  2065 www.tomalatele.tv/web/wp-content/uploads/2012/06/7_ratopp.jpg
+ 2063 www.tomalatele.tv/web/blog/economia-para-la-ciudadania-bankia-y-preferentes/
  2062 www.tomalatele.tv/web/wp-content/uploads/2012/06/087.jpg
  2060 www.tomalatele.tv/web/blog/tomatubanco-cuatro-hackcionistas-se-cuelan-en-la-junta-de-banca-civica/
  2059 www.tomalatele.tv/web/wp-content/uploads/2012/06/086.jpg
@@ -4658,8 +4674,8 @@
  1954 www.tomalatele.tv/web/blog/lo-llaman-evasion-pero-podriamos-llamarlo-saqueo-las-sicav/
  1953 www.tomalatele.tv/web/wp-content/uploads/2012/06/076.jpg
  1951 www.tomalatele.tv/web/blog/15m-cc-conversacion-con-amador-fernandez-savater/
- 1943 www.tomalatele.tv/web/blog/rescate-se-consuma-el-engano/
  1944 www.tomalatele.tv/web/wp-content/uploads/2012/06/torres.jpg
+ 1943 www.tomalatele.tv/web/blog/rescate-se-consuma-el-engano/
  1937 www.tomalatele.tv/web/wp-content/uploads/2012/06/075.jpg
  1935 www.tomalatele.tv/web/blog/carlos-divar-e-isabel-pantoja-en-leaving-marbella/
  1934 www.tomalatele.tv/web/wp-content/uploads/2012/06/074.jpg
@@ -4677,8 +4693,8 @@
  1908 www.tomalatele.tv/web/wp-content/uploads/2012/06/068.jpg
  1907 www.tomalatele.tv/web/wp-content/uploads/2012/06/067.jpg
  1904 www.tomalatele.tv/web/blog/madrid-la-policia-identifica-a-las-compas-de-ag-sol/
- 1898 www.tomalatele.tv/web/blog/dry-el-rescate-explicado-en-10-puntos/
  1899 www.tomalatele.tv/web/wp-content/uploads/2012/06/rajoy.jpg
+ 1898 www.tomalatele.tv/web/blog/dry-el-rescate-explicado-en-10-puntos/
  1890 www.tomalatele.tv/web/wp-content/uploads/2012/06/bankia.jpg
  1887 www.tomalatele.tv/web/wp-content/uploads/2012/06/066.jpg
  1885 www.tomalatele.tv/web/blog/polonia-el-tren-de-bankia/
@@ -4694,7 +4710,6 @@
  1868 www.tomalatele.tv/web/blog/primavera-mexicana/
  1867 www.tomalatele.tv/web/wp-content/uploads/2012/06/060.jpg
  1865 www.tomalatele.tv/web/blog/exposicion-15m-en-ateneo-de-madrid/
- 3303 www.tomalatele.tv/web/blog/cartama-estacion-malaga-desahucio-parado/
  1862 www.tomalatele.tv/web/wp-content/uploads/2012/06/059.jpg
  1860 www.tomalatele.tv/web/blog/villa-no-acepto-la-represion/
  1857 www.tomalatele.tv/web/wp-content/uploads/2012/06/058.jpg
@@ -4708,13 +4723,13 @@
  1825 www.tomalatele.tv/web/wp-content/uploads/2012/06/054.jpg
  1823 www.tomalatele.tv/web/blog/islandia-la-revolucion-silenciosa/
  1822 www.tomalatele.tv/web/wp-content/uploads/2012/06/053.jpg
- 1817 www.tomalatele.tv/web/blog/somontes-y-la-lucha-jornalera/
  1819 www.tomalatele.tv/web/wp-content/uploads/2012/06/052.jpg
+ 1817 www.tomalatele.tv/web/blog/somontes-y-la-lucha-jornalera/
  1816 www.tomalatele.tv/web/blog/el-escandalo-de-las-preferentes/
  1813 www.tomalatele.tv/web/wp-content/uploads/2012/06/051.jpg
- 1806 www.tomalatele.tv/web/blog/guerra-a-muerte-entre-la-mineria-y-el-gobierno/
  1809 www.tomalatele.tv/web/wp-content/uploads/2012/06/050.jpg
  1807 www.tomalatele.tv/web/blog/cospedal-recibida-con-silvidos-en-el-corpus-cristi-toledo/
+ 1806 www.tomalatele.tv/web/blog/guerra-a-muerte-entre-la-mineria-y-el-gobierno/
  1805 www.tomalatele.tv/web/wp-content/uploads/2012/06/049.jpg
  1803 www.tomalatele.tv/web/blog/se-equivoco-la-policia-con-la-camiseta-azul-del-minero-detenido-resistenciaminera/
  1800 www.tomalatele.tv/web/wp-content/uploads/2012/06/048.jpg
@@ -4785,13 +4800,13 @@
  1628 www.tomalatele.tv/web/wp-content/uploads/2012/06/019.jpg
  1626 www.tomalatele.tv/web/blog/sevilla-manifestacion-29m-la-copla-del-ciudadano-subtitulado-spanishrevolution/
  1624 www.tomalatele.tv/web/wp-content/uploads/2012/03/tomalahuelga2.jpg
- 1620 www.tomalatele.tv/web/blog/fesp-sobre-la-recompra-de-publico/
  1621 www.tomalatele.tv/web/wp-content/uploads/2012/06/publico.jpg
+ 1620 www.tomalatele.tv/web/blog/fesp-sobre-la-recompra-de-publico/
  1606 www.tomalatele.tv/web/wp-content/uploads/2012/06/018.jpg
- 1597 www.tomalatele.tv/web/blog/entrevistas/
  1603 www.tomalatele.tv/web/wp-content/uploads/2012/06/74846160_640.jpg
  1600 www.tomalatele.tv/web/blog/el-bache/
  1599 www.tomalatele.tv/web/wp-content/uploads/2012/06/239235054_640.jpg
+ 1597 www.tomalatele.tv/web/blog/entrevistas/
  1595 www.tomalatele.tv/web/blog/consejos/
  1592 www.tomalatele.tv/web/wp-content/uploads/2012/06/300983067_640.jpg
  1590 www.tomalatele.tv/web/blog/madrid-liberado-espacio-en-sebastian-elcano-36-abrimosbankia/
@@ -4815,8 +4830,8 @@
  1457 www.tomalatele.tv/web/wp-content/uploads/2012/06/09.jpg
  1453 www.tomalatele.tv/web/blog/yo-soy-132/
  1452 www.tomalatele.tv/web/wp-content/uploads/2012/06/08.jpg
- 1445 www.tomalatele.tv/web/blog/manifiesto-yosoy132/
  1447 www.tomalatele.tv/web/wp-content/uploads/2012/06/catastroika.jpg
+ 1445 www.tomalatele.tv/web/blog/manifiesto-yosoy132/
  1443 www.tomalatele.tv/web/blog/catastroika-subtitulos-en-espanol/
  1440 www.tomalatele.tv/web/wp-content/uploads/2012/06/07.jpg
  1438 www.tomalatele.tv/web/blog/yayoflautas-asamblea-general-de-sol-agsol/
@@ -4858,8 +4873,8 @@
  1350 www.tomalatele.tv/web/mapa-del-sitio/
  1345 www.tomalatele.tv/web/wp-content/uploads/2012/05/0150.jpg
  1342 www.tomalatele.tv/web/blog/comision-legal-sol-desmontando-mentiras/
- 1335 www.tomalatele.tv/web/blog/diagonal-el-15m-toma-los-medios-de-comunicacion/
  1336 www.tomalatele.tv/web/wp-content/uploads/2012/05/11_1215pp.jpg
+ 1335 www.tomalatele.tv/web/blog/diagonal-el-15m-toma-los-medios-de-comunicacion/
  1331 www.tomalatele.tv/web/wp-content/uploads/2012/05/0149.jpg
  1323 www.tomalatele.tv/web/blog/arcadi-oliveres-visita-als-indignats-del-poblenou/
  1322 www.tomalatele.tv/web/wp-content/uploads/2012/05/0148.jpg
@@ -4883,7 +4898,6 @@
  1281 www.tomalatele.tv/web/blog/15-m-asamblea-del-g-t-de-economia/
  1279 www.tomalatele.tv/web/wp-content/uploads/2012/05/0142.jpg
  1275 www.tomalatele.tv/web/blog/colombia-el-oro-contra-la-vida/
- 1224 www.tomalatele.tv/web/blog/asambleas-tematicas-15m-tribunal-ciudadano-de-justicia/
  1271 www.tomalatele.tv/web/wp-content/uploads/2012/05/0141.jpg
  1269 www.tomalatele.tv/web/blog/gdem-izik-sahara-detonante-de-la-primavera-arabe/
  1268 www.tomalatele.tv/web/wp-content/uploads/2012/05/0140.jpg
@@ -4904,6 +4918,7 @@
  1231 www.tomalatele.tv/web/blog/flashmob-en-el-metro-de-madrid/
  1230 www.tomalatele.tv/web/wp-content/uploads/2012/05/0132.jpg
  1228 www.tomalatele.tv/web/blog/cacerolada-en-la-puerta-del-sol-contra-las-estafas-financieras/
+ 1224 www.tomalatele.tv/web/blog/asambleas-tematicas-15m-tribunal-ciudadano-de-justicia/
  1220 www.tomalatele.tv/web/wp-content/uploads/2012/05/0131.jpg
  1218 www.tomalatele.tv/web/blog/asamblea-encierro-biblioteca-uex-caceres/
  1212 www.tomalatele.tv/web/wp-content/uploads/2012/05/0130.jpg
@@ -4934,12 +4949,11 @@
  1148 www.tomalatele.tv/web/wp-content/uploads/2012/05/0122.jpg
  1146 www.tomalatele.tv/web/blog/han-desalojado-la-salamanquesa/
  1142 www.tomalatele.tv/web/wp-content/uploads/2012/05/0121.jpg
- 1132 www.tomalatele.tv/web/blog/yezzina-meddyoun-sub-fr-en-sp-%d9%8a%d8%b2%d9%8a%d9%86%d8%a7-%d9%85%d8%a7%d9%84%d8%af%d9%8a%d9%88%d9%86/
  1138 www.tomalatele.tv/web/wp-content/uploads/2012/05/278269693_640.jpg
  1136 www.tomalatele.tv/web/blog/brazilian-friend-finder/
  1135 www.tomalatele.tv/web/wp-content/uploads/2012/05/0120.jpg
  1133 www.tomalatele.tv/web/blog/hem-vingut-a-lluitar-hemos-venido-a-luchar/
- 7035 www.tomalatele.tv/web/blog/directo-canal-livestream-tomalatele/
+ 1132 www.tomalatele.tv/web/blog/yezzina-meddyoun-sub-fr-en-sp-%d9%8a%d8%b2%d9%8a%d9%86%d8%a7-%d9%85%d8%a7%d9%84%d8%af%d9%8a%d9%88%d9%86/
  1131 www.tomalatele.tv/web/wp-content/uploads/2012/05/0119.jpg
  1129 www.tomalatele.tv/web/blog/xerrada-dones-i-desigualtats-lucia-aztarcoz/
  1128 www.tomalatele.tv/web/wp-content/uploads/2012/05/0118.jpg
@@ -4951,7 +4965,6 @@
  1117 www.tomalatele.tv/web/wp-content/uploads/2012/05/0115.jpg
  1115 www.tomalatele.tv/web/blog/la_pah-mejor-iniciativa-solidaria-cataladelany-el-discurso-que-tv3-no-emitio/
  1107 www.tomalatele.tv/web/wp-content/uploads/2012/05/286771709_640.jpg
-  374 www.tomalatele.tv/web/blog/contradiciones/
  1100 www.tomalatele.tv/web/wp-content/uploads/2012/05/0114.jpg
  1097 www.tomalatele.tv/web/blog/anonymous-espana-proyecto-hermes-480p-espanol/
  1095 www.tomalatele.tv/web/wp-content/uploads/2012/05/234030092_640.jpg
@@ -4972,7 +4985,6 @@
  1054 www.tomalatele.tv/web/blog/15m-airlines-aeropuerto-internacional-de-madrid/
  1052 www.tomalatele.tv/web/wp-content/uploads/2012/05/0105.jpg
  1049 www.tomalatele.tv/web/blog/en-el-combate-por-la-historia-contradiccionario-2/
- 5471 www.tomalatele.tv/web/blog/tesimonio-belen-detenida-en-la-manifestacion-de-mis-impuestos-al-papa-cero/
  1047 www.tomalatele.tv/web/wp-content/uploads/2012/05/0104.jpg
  1044 www.tomalatele.tv/web/blog/judici-popular-a-la-banca/
  1042 www.tomalatele.tv/web/wp-content/uploads/2012/05/0103.jpg
@@ -4981,7 +4993,6 @@
  1036 www.tomalatele.tv/web/blog/reportatge-15m-a-occupymordor-caixarolada/
  1035 www.tomalatele.tv/web/wp-content/uploads/2012/05/0101.jpg
  1033 www.tomalatele.tv/web/blog/occupymordor-hasta-el-fin-de-los-dias/
- 5889 www.tomalatele.tv/web/blog/canal-streaming-de-cristina-zurro/
  1032 www.tomalatele.tv/web/wp-content/uploads/2012/05/256004388_640.jpg
  1030 www.tomalatele.tv/web/blog/ecodesarrollo-y-medio-rural-economia-sol/
  1029 www.tomalatele.tv/web/wp-content/uploads/2012/05/0100.jpg
@@ -5014,9 +5025,8 @@
   961 www.tomalatele.tv/web/blog/banca-jak-la-banca-ciudadana/
   958 www.tomalatele.tv/web/wp-content/uploads/2012/05/090.jpg
   956 www.tomalatele.tv/web/blog/956/
- 5049 www.tomalatele.tv/web/blog/canal-de-occupymayday/
-  951 www.tomalatele.tv/web/blog/la-utopia-es-el-cambio/
   953 www.tomalatele.tv/web/wp-content/uploads/2012/05/ana_utopia.jpg
+  951 www.tomalatele.tv/web/blog/la-utopia-es-el-cambio/
   950 www.tomalatele.tv/web/wp-content/uploads/2012/05/089.jpg
   948 www.tomalatele.tv/web/blog/madrid-san-isidro-indignao-15-de-mayo-2012/
   941 www.tomalatele.tv/web/wp-content/uploads/2012/05/088.jpg
@@ -5083,7 +5093,6 @@
   787 www.tomalatele.tv/web/blog/detencion-companers-acampada-12m-15m-granada/
   785 www.tomalatele.tv/web/wp-content/uploads/2012/05/291740573_640.jpg
   783 www.tomalatele.tv/web/blog/12m-minuto-de-silencio-y-campanadas-en-puerta-del-sol/
- 4957 www.tomalatele.tv/web/blog/canal-asambleacarabanchel/
   781 www.tomalatele.tv/web/wp-content/uploads/2012/05/058.jpg
   779 www.tomalatele.tv/web/blog/desalojo-acampada-12m-en-zaragoza/
   778 www.tomalatele.tv/web/wp-content/uploads/2012/05/057.jpg
@@ -5094,11 +5103,10 @@
   769 www.tomalatele.tv/web/blog/12m-madrid-1830h-marcha-atocha-sol/
   768 www.tomalatele.tv/web/wp-content/uploads/2012/05/054.jpg
   766 www.tomalatele.tv/web/blog/la-calle-musical-utopia/
- 3004 www.tomalatele.tv/web/blog/marcha-12m-austrias/
   763 www.tomalatele.tv/web/wp-content/uploads/2012/05/053.jpg
   761 www.tomalatele.tv/web/blog/ven-al-12m-15m/
-  758 www.tomalatele.tv/web/blog/aclaracion-sobre-la-posibilidad-de-tomar-fotos-a-policias/
   759 www.tomalatele.tv/web/wp-content/uploads/2012/05/especial_represion_picornel.jpg
+  758 www.tomalatele.tv/web/blog/aclaracion-sobre-la-posibilidad-de-tomar-fotos-a-policias/
   755 www.tomalatele.tv/web/wp-content/uploads/2012/05/052.jpg
   745 www.tomalatele.tv/web/blog/la-gran-familia-o-en-que-gastamos-el-dinero-en-telemadrid/
   742 www.tomalatele.tv/web/recursos/
@@ -5117,33 +5125,24 @@
   715 www.tomalatele.tv/web/wp-content/uploads/2012/05/044.jpg
   713 www.tomalatele.tv/web/blog/plataforma-prostitutes-indignades/
   712 www.tomalatele.tv/web/wp-content/uploads/2012/05/banner_1215.jpg
-  707 www.tomalatele.tv/web/blog/tele-k/
   708 www.tomalatele.tv/web/wp-content/uploads/2012/05/teleK.jpg
-  703 www.tomalatele.tv/web/blog/indy-media-asturies/
+  707 www.tomalatele.tv/web/blog/tele-k/
   704 www.tomalatele.tv/web/wp-content/uploads/2012/05/Indymediaasturies.jpg
-  699 www.tomalatele.tv/web/blog/zaragoza-12m15m/
+  703 www.tomalatele.tv/web/blog/indy-media-asturies/
   700 www.tomalatele.tv/web/wp-content/uploads/2012/05/12m15mZaragoza.jpg
-  687 www.tomalatele.tv/web/blog/687/
+  699 www.tomalatele.tv/web/blog/zaragoza-12m15m/
   688 www.tomalatele.tv/web/wp-content/uploads/2012/05/zaragoza_streaming.jpg
-  684 www.tomalatele.tv/web/blog/15m-valencia/
+  687 www.tomalatele.tv/web/blog/687/
   685 www.tomalatele.tv/web/wp-content/uploads/2012/05/Valencia_streaming.jpg
-  678 www.tomalatele.tv/web/blog/global-revolution/
+  684 www.tomalatele.tv/web/blog/15m-valencia/
   679 www.tomalatele.tv/web/wp-content/uploads/2012/05/globalRevolution.jpg
-  672 www.tomalatele.tv/web/blog/canal-tv-democracia-real-ya-en-cartagena-dry-ct-4-0/
+  678 www.tomalatele.tv/web/blog/global-revolution/
   673 www.tomalatele.tv/web/wp-content/uploads/2012/05/dry_cartagenaTV.jpg
+  672 www.tomalatele.tv/web/blog/canal-tv-democracia-real-ya-en-cartagena-dry-ct-4-0/
   670 www.tomalatele.tv/web/wp-content/uploads/2012/05/043.jpg
   668 www.tomalatele.tv/web/blog/madrid-12m-horario-y-ruta-marchas/
-  664 www.tomalatele.tv/web/blog/quieren-cerrar-telek/
   665 www.tomalatele.tv/web/wp-content/uploads/2012/05/sostelek.jpg
- 4879 www.tomalatele.tv/web/blog/canal-de-eldagreen/
- 4877 www.tomalatele.tv/web/blog/canal-punto-sol-mainouv/
- 4875 www.tomalatele.tv/web/blog/canal-fanetin/
- 4873 www.tomalatele.tv/web/blog/canal-bambuser-toma-la-tele/
- 4871 www.tomalatele.tv/web/blog/canal-puntosol/
- 4869 www.tomalatele.tv/web/blog/canal-mabeneyto-tomalatele/
- 4867 www.tomalatele.tv/web/blog/canal-suysulucha/
- 4863 www.tomalatele.tv/web/blog/canal-punto-sol-alistream/
- 4858 www.tomalatele.tv/web/blog/canal-bambuser-curro-2012/
+  664 www.tomalatele.tv/web/blog/quieren-cerrar-telek/
   648 www.tomalatele.tv/web/648-2/
   646 www.tomalatele.tv/web/wp-content/uploads/2012/05/042.jpg
   644 www.tomalatele.tv/web/blog/reflexion-metodologia-de-accion-15m/
@@ -5235,7 +5234,9 @@
   389 www.tomalatele.tv/web/blog/arcadi-oliveres-contrattacando/
   388 www.tomalatele.tv/web/wp-content/uploads/2012/05/09.jpg
   386 www.tomalatele.tv/web/blog/todos-con-iberia/
+  374 www.tomalatele.tv/web/blog/contradiciones/
   366 www.tomalatele.tv/web/wp-content/uploads/2012/05/08.jpg
+  364 www.tomalatele.tv/web/blog/364/
   362 www.tomalatele.tv/web/wp-content/uploads/2012/05/07.jpg
   360 www.tomalatele.tv/web/blog/360/
   358 www.tomalatele.tv/web/wp-content/uploads/2012/05/06.jpg
@@ -5273,69 +5274,68 @@
   243 www.tomalatele.tv/web/blog/12m-next-global-action-12-may-2012-we-are-the-99/
   240 www.tomalatele.tv/web/wp-content/uploads/2012/04/0.jpg
   238 www.tomalatele.tv/web/blog/238/
-  234 www.tomalatele.tv/web/blog/m12-globalchange/
   235 www.tomalatele.tv/web/wp-content/uploads/2012/04/121500.jpg
-  230 www.tomalatele.tv/web/blog/radio-arganzuela-entrelazando-conciencias/
+  234 www.tomalatele.tv/web/blog/m12-globalchange/
   231 www.tomalatele.tv/web/wp-content/uploads/2012/04/buenasnoches.jpg
+  230 www.tomalatele.tv/web/blog/radio-arganzuela-entrelazando-conciencias/
   229 www.tomalatele.tv/web/wp-content/uploads/2012/04/lateledetomalatele.jpg
   228 www.tomalatele.tv/web/wp-content/uploads/2012/04/cartel28abril.jpg
   226 www.tomalatele.tv/web/wp-content/uploads/2012/04/videotecapopular.jpg
-  223 www.tomalatele.tv/web/blog/analisis-del-15m-con-jose-luis-sampedro-spanish-revolution/
   224 www.tomalatele.tv/web/wp-content/uploads/2012/04/saramago.jpg
-  220 www.tomalatele.tv/web/blog/debtocracy-2011/
+  223 www.tomalatele.tv/web/blog/analisis-del-15m-con-jose-luis-sampedro-spanish-revolution/
   221 www.tomalatele.tv/web/wp-content/uploads/2012/04/deudocracia.jpg
-  217 www.tomalatele.tv/web/blog/amanece-que-no-es-poco-11/
+  220 www.tomalatele.tv/web/blog/debtocracy-2011/
   218 www.tomalatele.tv/web/wp-content/uploads/2012/04/amanecequenoespoco11.jpg
-  214 www.tomalatele.tv/web/blog/amanece-que-no-es-poco-10/
+  217 www.tomalatele.tv/web/blog/amanece-que-no-es-poco-11/
   215 www.tomalatele.tv/web/wp-content/uploads/2012/04/amanecequenoespoco10.jpg
-  211 www.tomalatele.tv/web/blog/amanece-que-no-es-poco-9/
+  214 www.tomalatele.tv/web/blog/amanece-que-no-es-poco-10/
   212 www.tomalatele.tv/web/wp-content/uploads/2012/04/amanecequenoespoco9.jpg
-  206 www.tomalatele.tv/web/blog/nosaltres/
+  211 www.tomalatele.tv/web/blog/amanece-que-no-es-poco-9/
   208 www.tomalatele.tv/web/wp-content/uploads/2012/04/nosaltres.jpg
-  203 www.tomalatele.tv/web/blog/indignez-vous-en-lsf-hk-et-les-saltimbanks/
+  206 www.tomalatele.tv/web/blog/nosaltres/
   204 www.tomalatele.tv/web/wp-content/uploads/2012/04/clipindignez.jpg
-  200 www.tomalatele.tv/web/blog/reglas-basicas-para-filmar-una-revolucion/
+  203 www.tomalatele.tv/web/blog/indignez-vous-en-lsf-hk-et-les-saltimbanks/
   201 www.tomalatele.tv/web/wp-content/uploads/2012/04/reglasbasicas.jpg
-  197 www.tomalatele.tv/web/blog/revolucionarios-a-la-fuerza/
+  200 www.tomalatele.tv/web/blog/reglas-basicas-para-filmar-una-revolucion/
   198 www.tomalatele.tv/web/wp-content/uploads/2012/04/alafuerza.jpg
-  194 www.tomalatele.tv/web/blog/tribunal-ciudadano-de-justicia-del-15m-de-madrid-constitucion-del-jurado/
+  197 www.tomalatele.tv/web/blog/revolucionarios-a-la-fuerza/
   195 www.tomalatele.tv/web/wp-content/uploads/2012/04/jurado.jpg
-  191 www.tomalatele.tv/web/blog/simiocracia-de-aleix-salo/
+  194 www.tomalatele.tv/web/blog/tribunal-ciudadano-de-justicia-del-15m-de-madrid-constitucion-del-jurado/
   192 www.tomalatele.tv/web/wp-content/uploads/2012/04/simiocracia.jpg
+  191 www.tomalatele.tv/web/blog/simiocracia-de-aleix-salo/
   190 www.tomalatele.tv/web/wp-content/uploads/2012/04/banner1.jpg
   189 www.tomalatele.tv/web/wp-content/uploads/2012/04/banner.jpg
   188 www.tomalatele.tv/web/wp-content/uploads/2012/04/cab5.jpg
   187 www.tomalatele.tv/web/wp-content/uploads/2012/04/cab_provisional2.jpg
   186 www.tomalatele.tv/web/wp-content/uploads/2012/04/cab_provisional.jpg
   174 www.tomalatele.tv/web/nuestra-tele/
-  141 www.tomalatele.tv/web/blog/ediles-de-tres-cantos-ratifican-su-subida-de-sueldos-pese-al-rechazo-social/
   142 www.tomalatele.tv/web/wp-content/uploads/2012/04/edilespp.jpg
-  131 www.tomalatele.tv/web/blog/toma-la-huelga/
+  141 www.tomalatele.tv/web/blog/ediles-de-tres-cantos-ratifican-su-subida-de-sueldos-pese-al-rechazo-social/
   132 www.tomalatele.tv/web/wp-content/uploads/2012/04/10_abril_tomalahuelga.jpg
+  131 www.tomalatele.tv/web/blog/toma-la-huelga/
   119 www.tomalatele.tv/web/portada/
-  106 www.tomalatele.tv/web/blog/como-acabar-con-el-mal/
   107 www.tomalatele.tv/web/wp-content/uploads/2012/04/comoacabar.jpg
-  101 www.tomalatele.tv/web/blog/huelga-29m/
+  106 www.tomalatele.tv/web/blog/como-acabar-con-el-mal/
   102 www.tomalatele.tv/web/wp-content/uploads/2012/04/huelga29.jpg
-   98 www.tomalatele.tv/web/blog/international-comission-barcelona-streams/
+  101 www.tomalatele.tv/web/blog/huelga-29m/
    99 www.tomalatele.tv/web/wp-content/uploads/2012/03/bcnstr.jpg
+   98 www.tomalatele.tv/web/blog/international-comission-barcelona-streams/
    96 www.tomalatele.tv/web/wp-content/uploads/2012/03/str33.jpg
    91 www.tomalatele.tv/web/blog/centro-de-medios-de-toma-la-huelga/
    90 www.tomalatele.tv/web/wp-content/uploads/2012/03/tomalahuelga.jpg
    89 www.tomalatele.tv/web/wp-content/uploads/2012/03/tomalahuelga1.jpg
-   26 www.tomalatele.tv/web/blog/huelga-general-streaming/
-   81 www.tomalatele.tv/web/blog/peoplewitness-huelga-general/
    82 www.tomalatele.tv/web/wp-content/uploads/2012/03/agencia29.jpg
-   74 www.tomalatele.tv/web/blog/radio-ela-huelga-general/
+   81 www.tomalatele.tv/web/blog/peoplewitness-huelga-general/
    77 www.tomalatele.tv/web/wp-content/uploads/2012/03/radioela.jpg
-   66 www.tomalatele.tv/web/blog/el-unico-camino/
+   74 www.tomalatele.tv/web/blog/radio-ela-huelga-general/
    67 www.tomalatele.tv/web/wp-content/uploads/2012/03/ejercetusderechos.jpg
-   63 www.tomalatele.tv/web/blog/ejerce-tus-derechos/
+   66 www.tomalatele.tv/web/blog/el-unico-camino/
    64 www.tomalatele.tv/web/wp-content/uploads/2012/03/ejerce.jpg
-   60 www.tomalatele.tv/web/blog/sabina-apoya-la-huelga-de-el-29m/
+   63 www.tomalatele.tv/web/blog/ejerce-tus-derechos/
    61 www.tomalatele.tv/web/wp-content/uploads/2012/03/sabina.jpg
-   57 www.tomalatele.tv/web/blog/flexibilidad/
+   60 www.tomalatele.tv/web/blog/sabina-apoya-la-huelga-de-el-29m/
    58 www.tomalatele.tv/web/wp-content/uploads/2012/03/flexibilidad.jpg
+   57 www.tomalatele.tv/web/blog/flexibilidad/
    54 www.tomalatele.tv/web/contactar/
    51 www.tomalatele.tv/web/wp-content/uploads/2012/03/cab5.jpg
    50 www.tomalatele.tv/web/wp-content/uploads/2012/03/cartadeajuste.jpg
@@ -5344,11 +5344,11 @@
    47 www.tomalatele.tv/web/wp-content/uploads/2012/03/cab2.jpg
    46 www.tomalatele.tv/web/wp-content/uploads/2012/03/cab1.jpg
    43 www.tomalatele.tv/web/que-es-toma-la-tele/
-   39 www.tomalatele.tv/web/blog/sol-no-puedes-iii/
    40 www.tomalatele.tv/web/wp-content/uploads/2012/03/solonopuedes1.jpg
-   36 www.tomalatele.tv/web/blog/sol-no-puedes-ii/
+   39 www.tomalatele.tv/web/blog/sol-no-puedes-iii/
    37 www.tomalatele.tv/web/wp-content/uploads/2012/03/solonopuedes2.jpg
-   32 www.tomalatele.tv/web/blog/sol-no-puedes-i-2/
+   36 www.tomalatele.tv/web/blog/sol-no-puedes-ii/
    33 www.tomalatele.tv/web/wp-content/uploads/2012/03/solonopuedes3.jpg
+   32 www.tomalatele.tv/web/blog/sol-no-puedes-i-2/
    29 www.tomalatele.tv/web/wp-content/uploads/2012/03/tomalahuelga_str.jpg
- 3296 www.tomalatele.tv/web/blog/malaga-los-padrinos-si-el-banco-nos-quita-la-casa-nos-mudamos-al-banco/
+   26 www.tomalatele.tv/web/blog/huelga-general-streaming/

@@ -4,6 +4,28 @@ from subprocess import DEVNULL, STDOUT, check_call
 import os
 from glob import glob
 
+def find_value(o, *args, avoid=None):
+    if avoid is None:
+        avoid = (None, )
+    elif isinstance(avoid, tuple):
+        avoid = (None, ) + avoid
+    else:
+        avoid = (None, avoid)
+    for a in args:
+        a = o.get(a)
+        if a not in avoid:
+            return a
+
+def chunks(arr, size):
+    r=[]
+    for a in arr:
+        r.append(a)
+        if len(r)==size:
+            yield r
+            r=[]
+    if r:
+        yield r
+
 def unzip(fl, path=None, get=None):
     if path is None:
         path = tempfile.mkdtemp()

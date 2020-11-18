@@ -95,6 +95,7 @@ class DB:
         self.db_ban = str_list(kargv.get("db_ban"))
         self.url_ban = str_list(kargv.get("url_ban"))
         self.dom_ban = str_list(kargv.get("dom_ban"))
+        self.db_url = kargv.get("db_url", {})
 
     def connect(self):
         self.server.start()

@@ -11,9 +11,9 @@
 1065022 getafe.tomalosbarrios.net/2014/07/23/ere-atento/
 1065010 getafe.tomalosbarrios.net/2014/07/15/asamblea-27-de-julio-2014-a-las-12h/
 1065008 getafe.tomalosbarrios.net/2014/07/09/asamblea-13-dejulio-a-las-12h/
-1065000 getafe.tomalosbarrios.net/2014/06/26/movimientos-politicos-y-movimiento-social-15m/
 1065002 getafe.tomalosbarrios.net/files/2014/06/arriba.jpg
 1065001 getafe.tomalosbarrios.net/files/2014/06/abajo.jpg
+1065000 getafe.tomalosbarrios.net/2014/06/26/movimientos-politicos-y-movimiento-social-15m/
 1064995 getafe.tomalosbarrios.net/2014/06/23/nos-vamos-a-calafou/
 1064991 getafe.tomalosbarrios.net/2014/06/09/3o-aniversario-asamblea-getafe-15m/
 1064986 getafe.tomalosbarrios.net/2014/06/02/acta-asamblea-de-getafe-15m-31-de-mayo-de-2014/
@@ -23,9 +23,9 @@
 1064974 getafe.tomalosbarrios.net/2014/05/09/acta-asamblea-getafe-15m-26-de-abril-de-2014/
 1064969 getafe.tomalosbarrios.net/2014/04/22/asamblea-tematica-charla-gasto-militar-y-alternativas-no-violentas-2642014-a-las-18h/
 1064966 getafe.tomalosbarrios.net/2014/04/11/asamblea-tematica-no-somos-delito/
-1064953 getafe.tomalosbarrios.net/2014/04/02/iii-jornadas-transformando-getafe-politica-y-ciudadania/
 1064960 getafe.tomalosbarrios.net/2014/04/01/la-lucha-por-la-sanidad-sigue/
 1064956 getafe.tomalosbarrios.net/2014/03/27/charla-ilp-renta-basica-%e2%80%8f-29-de-marzo/
+1064953 getafe.tomalosbarrios.net/2014/04/02/iii-jornadas-transformando-getafe-politica-y-ciudadania/
 1064948 getafe.tomalosbarrios.net/2014/03/17/columna-sur-22m-marcha-de-la-dignidad/
 1064944 getafe.tomalosbarrios.net/2014/03/13/apoyo-a-las-marchas-22m/
 1064942 getafe.tomalosbarrios.net/2014/03/13/privatizacion-de-los-registros-civiles/
@@ -35,15 +35,15 @@
 1064928 getafe.tomalosbarrios.net/2014/02/24/juicio-angel-vs-kutxa/
 1064925 getafe.tomalosbarrios.net/2014/02/21/asamblea-general-sabado-22-de-febrero/
 1064920 getafe.tomalosbarrios.net/2014/02/11/taller-de-jabones/
-1064916 getafe.tomalosbarrios.net/2014/02/08/convocatoria-asamblea-9022014/
 1064917 getafe.tomalosbarrios.net/files/2014/02/CARTEL-ASAMBLEA_9_FEB_2.jpg
+1064916 getafe.tomalosbarrios.net/2014/02/08/convocatoria-asamblea-9022014/
 1064914 getafe.tomalosbarrios.net/2014/02/06/tolerancia-cero-con-la-mutilacion-genital/
 1064913 getafe.tomalosbarrios.net/files/2014/02/wpid-1391698444041.jpg
 1064911 getafe.tomalosbarrios.net/2014/02/06/acta-de-la-asamblea-15m-de-getafe-celebrada-el-25012014/
 1064907 getafe.tomalosbarrios.net/files/2014/02/wpid-837185981.jpg
 1064905 getafe.tomalosbarrios.net/2014/02/04/pedaleas-este-sabado/
-1064899 getafe.tomalosbarrios.net/2014/01/24/convocatoria-de-asamblea-del-25012014/
 1064900 getafe.tomalosbarrios.net/files/2014/01/CARTEL-ASAMBLEA_25ENE.jpg
+1064899 getafe.tomalosbarrios.net/2014/01/24/convocatoria-de-asamblea-del-25012014/
 1064770 getafe.tomalosbarrios.net/2014/01/21/acta-asamblea-110114/
 1064556 getafe.tomalosbarrios.net/2014/01/20/acta-extraordinaria-getafe-15m-18-de-enero-de-2014/
 1064193 getafe.tomalosbarrios.net/2014/01/18/entrevista-companeros-de-15m-getafe-en-getafe-voz/
@@ -54,26 +54,26 @@
 1061660 getafe.tomalosbarrios.net/2014/01/03/asamblea-extraordinaria-getafe-15m-412104/
 1060459 getafe.tomalosbarrios.net/2013/12/27/asamblea-extraordinaria-getafe-15m-22-12-2013/
 1058759 getafe.tomalosbarrios.net/2013/12/17/desahucio-suspendido/
-1057284 getafe.tomalosbarrios.net/2013/12/07/asamblea-tematica-151213/
 1057286 getafe.tomalosbarrios.net/files/2013/12/CARTEL-ASAMBLEA_sanidad_2.jpg
 1057285 getafe.tomalosbarrios.net/files/2013/12/CARTEL-ASAMBLEA-TEMÁTICA-15_12_13.pdf
+1057284 getafe.tomalosbarrios.net/2013/12/07/asamblea-tematica-151213/
 1056928 getafe.tomalosbarrios.net/2013/12/05/carlos-consigue-la-condonacion-de-la-deuda/
 1056848 getafe.tomalosbarrios.net/2013/12/05/acta-asamblea-general-24112013/
-1056800 getafe.tomalosbarrios.net/2013/12/04/concentracion-en-la-piscina-el-111213/
 1056801 getafe.tomalosbarrios.net/files/2013/12/concentración-11-dic_BN.jpg
+1056800 getafe.tomalosbarrios.net/2013/12/04/concentracion-en-la-piscina-el-111213/
 1054768 getafe.tomalosbarrios.net/2013/11/21/acta-asamblea-general-de-getafe-15-m-10-11-2013/
 1053512 getafe.tomalosbarrios.net/2013/11/13/convocatoria-asoc-de-vecinos-aires-nuevos/
 1052023 getafe.tomalosbarrios.net/2013/11/04/acta-asamblea-26-octubre-2013/
 1052020 getafe.tomalosbarrios.net/2013/11/04/jornada-transformando-getafe-16-de-noviembre/
 1050507 getafe.tomalosbarrios.net/2013/10/25/comunicado-de-teatro-destellos/
-1046609 getafe.tomalosbarrios.net/2013/10/15/fiesta-huertos/
-1048472 getafe.tomalosbarrios.net/2013/10/12/convocatoria-asamblea/
 1048473 getafe.tomalosbarrios.net/files/2013/10/ASAMBLEA-12-DE-OCTUBRE-2013.jpg
+1048472 getafe.tomalosbarrios.net/2013/10/12/convocatoria-asamblea/
 1048285 getafe.tomalosbarrios.net/2013/10/11/detenidos-tres-companeros-en-leganes-por-manifestarse-pacificamente/
 1046938 getafe.tomalosbarrios.net/2013/10/02/jornadas-anti-represivas-2-0-en-getafe/
 1046830 getafe.tomalosbarrios.net/2013/10/01/acta-asamblea-general-29-9-2013/
-1046360 getafe.tomalosbarrios.net/2013/09/28/1046360/
+1046609 getafe.tomalosbarrios.net/2013/10/15/fiesta-huertos/
 1046361 getafe.tomalosbarrios.net/files/2013/09/ASAMBLEA-28-09-2013.jpg
+1046360 getafe.tomalosbarrios.net/2013/09/28/1046360/
 1044866 getafe.tomalosbarrios.net/2013/09/18/acta-de-la-asamblea-del-15m-de-getafe-14septiembre2013/
 1044856 getafe.tomalosbarrios.net/2013/09/18/comunicado-de-la-asamblea-de-lavapies/
 1044504 getafe.tomalosbarrios.net/2013/09/16/semana-de-la-inmovilidad/
@@ -91,54 +91,54 @@
 1033803 getafe.tomalosbarrios.net/2013/07/12/asamblea-15m-el-sabado-13/
 1030775 getafe.tomalosbarrios.net/2013/06/24/asamblea-del-15m-de-getafe-16-de-junio-de-2013/
 1030771 getafe.tomalosbarrios.net/2013/06/21/urgente-concentracion-hospitalillo-san-jose-ahora/
-1030767 getafe.tomalosbarrios.net/2013/06/14/asamblea-el-16-de-junio-2013/
 1030768 getafe.tomalosbarrios.net/files/2013/06/CARTEL-ASAMBLEA_16JUN.jpg
+1030767 getafe.tomalosbarrios.net/2013/06/14/asamblea-el-16-de-junio-2013/
 1030763 getafe.tomalosbarrios.net/2013/06/13/marcha-desempleados-cambio-de-ruta/
 1030759 getafe.tomalosbarrios.net/2013/06/12/pah-getafe/
 1030757 getafe.tomalosbarrios.net/2013/06/11/marcha-desempleados-13-junio%e2%80%8f/
-1030753 getafe.tomalosbarrios.net/2013/06/03/charla-interesante-el-050613-en-el-hospital/
 1030754 getafe.tomalosbarrios.net/files/2013/06/yoSí.png
+1030753 getafe.tomalosbarrios.net/2013/06/03/charla-interesante-el-050613-en-el-hospital/
 1030750 getafe.tomalosbarrios.net/2013/06/03/acta-asamblea-de-getafe-15-m-1-de-junio-de-2013/
-1030746 getafe.tomalosbarrios.net/2013/06/02/presentacion-de-productor-de-aceite-de-oliva-ecologico/
 1030747 getafe.tomalosbarrios.net/files/2013/06/cartel-charla-consumo-030613.jpg
-1030741 getafe.tomalosbarrios.net/2013/06/02/el-grupo-de-sanidad-os-convoca-a-la-accion-del-martes-04062013/
+1030746 getafe.tomalosbarrios.net/2013/06/02/presentacion-de-productor-de-aceite-de-oliva-ecologico/
 1030744 getafe.tomalosbarrios.net/files/2013/06/CARTEL-7-bis-3-2-Sólo-lectura-Modo-de-compatibilidad.pdf
+1030741 getafe.tomalosbarrios.net/2013/06/02/el-grupo-de-sanidad-os-convoca-a-la-accion-del-martes-04062013/
 1030739 getafe.tomalosbarrios.net/files/2013/06/octavilla-040613.jpg
 1030733 getafe.tomalosbarrios.net/files/2013/05/cartel_vmanibici_web.jpg
-1030729 getafe.tomalosbarrios.net/2013/05/27/asamblea-el-01062013/
-1030730 getafe.tomalosbarrios.net/files/2013/05/CARTEL-ASAMBLEA_1JUN.jpg
 1030732 getafe.tomalosbarrios.net/2013/05/24/manibici-del-02062013/
+1030730 getafe.tomalosbarrios.net/files/2013/05/CARTEL-ASAMBLEA_1JUN.jpg
+1030729 getafe.tomalosbarrios.net/2013/05/27/asamblea-el-01062013/
 1030726 getafe.tomalosbarrios.net/2013/05/21/acta-asamblea-getafe-15m-19-de-mayo-de-2013/
 1030724 getafe.tomalosbarrios.net/2013/05/21/convocatorio-comision-vecinal/
 1030721 getafe.tomalosbarrios.net/2013/05/21/estamos-vivos/
 1030719 getafe.tomalosbarrios.net/2013/05/17/asamblea-19-de-mayo/
-1030704 getafe.tomalosbarrios.net/2013/05/08/marcha-12m/
 1030709 getafe.tomalosbarrios.net/2013/05/06/acta-asamblea-040513/
-1030699 getafe.tomalosbarrios.net/2013/05/02/consulta-ciudadana-sobre-la-sanidad-publica/
+1030704 getafe.tomalosbarrios.net/2013/05/08/marcha-12m/
 1030700 getafe.tomalosbarrios.net/files/2013/05/cartel-votar-001.jpg
-1030695 getafe.tomalosbarrios.net/2013/05/02/asamblea-el-sabado/
+1030699 getafe.tomalosbarrios.net/2013/05/02/consulta-ciudadana-sobre-la-sanidad-publica/
 1030696 getafe.tomalosbarrios.net/files/2013/05/CARTEL-ASAMBLEA_4MAY.jpg
-1030684 getafe.tomalosbarrios.net/2013/04/30/1-de-mayo-dia-internacional-de-los-trabajadors/
+1030695 getafe.tomalosbarrios.net/2013/05/02/asamblea-el-sabado/
 1030689 getafe.tomalosbarrios.net/files/2013/04/QUE-EL-DESEMPLEO-NO-TE-ENCADEN.pdf
+1030684 getafe.tomalosbarrios.net/2013/04/30/1-de-mayo-dia-internacional-de-los-trabajadors/
 1030675 getafe.tomalosbarrios.net/2013/04/25/acta-de-la-asamblea-de-vecinos-de-getafe-15m-20042013/
 1030669 getafe.tomalosbarrios.net/2013/04/21/reunion-colectivos-getafe/
 1030666 getafe.tomalosbarrios.net/2013/04/20/acta-gt-laboral-17042013/
 1030662 getafe.tomalosbarrios.net/2013/04/18/nueva-lista-de-informacion-y-debate/
-1030657 getafe.tomalosbarrios.net/2013/04/17/el-sabado-en-la-plaza-del-ayuntamiento-para-presentacion-de-solicitudes-al-consejero-de-sanidad/
 1030659 getafe.tomalosbarrios.net/files/2013/04/CARTEL-20_04_130002.jpg
-1030654 getafe.tomalosbarrios.net/2013/04/17/asamblea-el-200413/
+1030657 getafe.tomalosbarrios.net/2013/04/17/el-sabado-en-la-plaza-del-ayuntamiento-para-presentacion-de-solicitudes-al-consejero-de-sanidad/
 1030655 getafe.tomalosbarrios.net/files/2013/04/CARTEL-ASAMBLEA_20ABR.jpg
+1030654 getafe.tomalosbarrios.net/2013/04/17/asamblea-el-200413/
 1030649 getafe.tomalosbarrios.net/2013/04/16/acta-de-laboral-03042013/
 1030646 getafe.tomalosbarrios.net/2013/04/16/pleno-comision-de-desahucios-proximo-jueves-a-las-13-horas/
 1030643 getafe.tomalosbarrios.net/2013/04/15/acta-asamblea-06042013/
-1030639 getafe.tomalosbarrios.net/2013/04/14/documentos-que-se-presentaran-en-el-ayuntamiento-para-la-consejeria-y-en-el-hospital-de-getafe-para-el-gerente/
 1030640 getafe.tomalosbarrios.net/files/2013/04/Getafe.pdf
+1030639 getafe.tomalosbarrios.net/2013/04/14/documentos-que-se-presentaran-en-el-ayuntamiento-para-la-consejeria-y-en-el-hospital-de-getafe-para-el-gerente/
 1030632 getafe.tomalosbarrios.net/2013/04/11/comunicado-vivienda-15m-y-pah-getafe/
 1030629 getafe.tomalosbarrios.net/2013/04/05/asamblea-general-5-abril-2013/
 1030625 getafe.tomalosbarrios.net/2013/04/04/comunicado-apayo-a-la-pah/
 1030622 getafe.tomalosbarrios.net/2013/03/25/convocatoria-de-la-pah-martes-260313/
-1030618 getafe.tomalosbarrios.net/2013/03/20/asamblea-el-sabado-23032013/
 1030619 getafe.tomalosbarrios.net/files/2013/03/CARTEL-ASAMBLEA_23MAR.jpg
+1030618 getafe.tomalosbarrios.net/2013/03/20/asamblea-el-sabado-23032013/
 1030611 getafe.tomalosbarrios.net/2013/03/19/charla-debate-con-ada-colau/
 1030607 getafe.tomalosbarrios.net/2013/03/19/a-s-a-m-b-l-e-a-1-5-m-g-e-t-a-f-e-9-de-marzo-de-2012/
 1030605 getafe.tomalosbarrios.net/2013/03/19/acta-de-la-asamblea-del-24022013/
@@ -158,120 +158,120 @@
 1030546 getafe.tomalosbarrios.net/2013/02/25/acto-extremadura-ofensiva-neoliberal-revuelta-social-y-renta-basica%e2%80%8f/
 1030542 getafe.tomalosbarrios.net/2013/02/22/23f-marea-ciudadana/
 1027464 getafe.tomalosbarrios.net/files/2013/02/cartel-charla-250213.jpg
-1027338 getafe.tomalosbarrios.net/files/2013/02/consumoggusto-25.pdf
-1025243 getafe.tomalosbarrios.net/2013/02/18/asamblea-getafe-15m-el-domingo-24022013/
-1025244 getafe.tomalosbarrios.net/files/2013/02/CARTEL-ASAMBLEA_24FEB.jpg
 1027463 getafe.tomalosbarrios.net/2013/02/17/charla-de-que-hablamos-cuando-decimos-ecologico-250213-2/
+1027338 getafe.tomalosbarrios.net/files/2013/02/consumoggusto-25.pdf
+1025244 getafe.tomalosbarrios.net/files/2013/02/CARTEL-ASAMBLEA_24FEB.jpg
+1025243 getafe.tomalosbarrios.net/2013/02/18/asamblea-getafe-15m-el-domingo-24022013/
 1002804 getafe.tomalosbarrios.net/2013/02/11/acta-asamblea-15m-del-10022013/
  990593 getafe.tomalosbarrios.net/2013/02/07/marea-blanca-17022013/
- 988358 getafe.tomalosbarrios.net/2013/02/06/mesa-redonda-sobre-movilidad-en-getafe-07022013/
  988359 getafe.tomalosbarrios.net/files/2013/02/cartel-mesa-movilidad_2a.jpg
+ 988358 getafe.tomalosbarrios.net/2013/02/06/mesa-redonda-sobre-movilidad-en-getafe-07022013/
  988356 getafe.tomalosbarrios.net/2013/02/06/recogida-de-alimentos-por-la-asociacion-de-diabeticos-de-getafe/
  984508 getafe.tomalosbarrios.net/2013/02/05/acta-asamblea-general-getafe-15m-dia-26-de-enero-de-2013/
- 964334 getafe.tomalosbarrios.net/2013/01/29/asamblea-en-el-bercial-el-310113/
  964335 getafe.tomalosbarrios.net/files/2013/01/cartel_A3_asamblea_HOSPITAL_31ENE13.jpg
- 940671 getafe.tomalosbarrios.net/2013/01/21/convocatoria-de-asamblea-para-el-260113/
+ 964334 getafe.tomalosbarrios.net/2013/01/29/asamblea-en-el-bercial-el-310113/
+ 951807 getafe.tomalosbarrios.net/2013/01/13/acta-asamblea-general-getafe-15m-dia-12-de-enero-de-2013/
  940672 getafe.tomalosbarrios.net/files/2013/01/CARTEL-ASAMBLEA_26ENE.jpg
+ 940671 getafe.tomalosbarrios.net/2013/01/21/convocatoria-de-asamblea-para-el-260113/
  921473 getafe.tomalosbarrios.net/2013/01/15/acta-asamblea-general-getafe-15m-dia-29-de-diciembre-de-2012/
  921471 getafe.tomalosbarrios.net/2013/01/15/acta-asamblea-general-getafe-15m-dia-15-de-diciembre-de-2012/
- 916178 getafe.tomalosbarrios.net/2013/01/13/concentracion-contra-el-desaloho-de-3-familias-de-los-pisos-para-maestros-16-1-2013/
  916179 getafe.tomalosbarrios.net/files/2013/01/PisosMaestros.jpg
- 951807 getafe.tomalosbarrios.net/2013/01/13/acta-asamblea-general-getafe-15m-dia-12-de-enero-de-2013/
- 903944 getafe.tomalosbarrios.net/2013/01/09/convocatoria-asamblea-120113/
+ 916178 getafe.tomalosbarrios.net/2013/01/13/concentracion-contra-el-desaloho-de-3-familias-de-los-pisos-para-maestros-16-1-2013/
  903945 getafe.tomalosbarrios.net/files/2013/01/CARTEL-ASAMBLEA_12ENE.jpg
+ 903944 getafe.tomalosbarrios.net/2013/01/09/convocatoria-asamblea-120113/
  898112 getafe.tomalosbarrios.net/2013/01/07/acta-vivienda-3-1-2012/
  863823 getafe.tomalosbarrios.net/2012/12/27/convocatoria-de-asamblea-para-el-291212/
  837691 getafe.tomalosbarrios.net/2012/12/18/acta-laboral-y-cooperativas-5122012/
  833713 getafe.tomalosbarrios.net/2012/12/16/asi-nos-intento-callar-la-comision-municipal-antidesahucios-de-getafe-29-11-2012/
  831974 getafe.tomalosbarrios.net/2012/12/16/queda-desconvocado-el-desahucio-de-rolando/
- 822547 getafe.tomalosbarrios.net/2012/12/12/asamblea-getafe-15m-151212/
  822548 getafe.tomalosbarrios.net/files/2012/12/CARTEL-ASAMBLEA_15DIC.jpg
- 819562 getafe.tomalosbarrios.net/2012/12/11/ven-a-impedir-el-desahucio-de-rolando-17-de-diciembre/
+ 822547 getafe.tomalosbarrios.net/2012/12/12/asamblea-getafe-15m-151212/
  819563 getafe.tomalosbarrios.net/files/2012/12/desahucioRolando.pdf
+ 819562 getafe.tomalosbarrios.net/2012/12/11/ven-a-impedir-el-desahucio-de-rolando-17-de-diciembre/
  809405 getafe.tomalosbarrios.net/2012/12/08/acta-comunicacion-08122012/
+ 800864 getafe.tomalosbarrios.net/2012/12/01/acta-asamblea-getafe-15m-01-12-2012/
  800736 getafe.tomalosbarrios.net/2012/12/05/acta-de-laboral-28112012/
  800485 getafe.tomalosbarrios.net/2012/12/05/reunion-vivienda-071212/
  799862 getafe.tomalosbarrios.net/2012/12/05/acampadabankia/
- 800864 getafe.tomalosbarrios.net/2012/12/01/acta-asamblea-getafe-15m-01-12-2012/
  784658 getafe.tomalosbarrios.net/2012/11/30/acta-grupo-de-vivienda-23-11-12/
- 779695 getafe.tomalosbarrios.net/2012/11/28/convocatoria-de-la-asamblea-getafe-15m-del-011212/
  779696 getafe.tomalosbarrios.net/files/2012/11/CARTEL-ASAMBLEA_1DIC.jpg
+ 779695 getafe.tomalosbarrios.net/2012/11/28/convocatoria-de-la-asamblea-getafe-15m-del-011212/
  772749 getafe.tomalosbarrios.net/2012/11/26/yo-no-repago/
  771506 getafe.tomalosbarrios.net/2012/11/26/acta-de-la-asamblea-15m-getafe-del-171112/
  762228 getafe.tomalosbarrios.net/2012/11/22/urgente-stop-desahucios-manana-830-getafe/
  758256 getafe.tomalosbarrios.net/2012/11/21/reunion-gt-viivienda/
  757758 getafe.tomalosbarrios.net/2012/11/21/tods-acompanamos-a-rolando-a-entregar-escrito-en-ibercaja/
  747216 getafe.tomalosbarrios.net/2012/11/17/el-grupo-de-vivienda-nos-convoca-a-ir-el-lunes-191112-a-los-juzgados-del-sector-iii/
- 741261 getafe.tomalosbarrios.net/2012/11/15/convocatoria-de-asamblea-getafe-15m-el-171112/
  741262 getafe.tomalosbarrios.net/files/2012/11/cartel-asamblea-171112.png
+ 741261 getafe.tomalosbarrios.net/2012/11/15/convocatoria-de-asamblea-getafe-15m-el-171112/
  734064 getafe.tomalosbarrios.net/2012/11/13/acta-asamblea-esxtraoridnaria-12-de-noviembre-de-2012/
  734056 getafe.tomalosbarrios.net/huelga/
- 733554 getafe.tomalosbarrios.net/2012/11/13/huelga-general-manifestaciones-bloque-unitario/
  733555 getafe.tomalosbarrios.net/files/2012/11/cartelbloqueunitariobaja1.jpg
- 725117 getafe.tomalosbarrios.net/2012/11/10/asamblea-extraordinaria-14n-12-noviembre/
+ 733554 getafe.tomalosbarrios.net/2012/11/13/huelga-general-manifestaciones-bloque-unitario/
  725118 getafe.tomalosbarrios.net/files/2012/11/CARTEL-ASAMBLEA-EXTRAORDINARIA.jpg
+ 725117 getafe.tomalosbarrios.net/2012/11/10/asamblea-extraordinaria-14n-12-noviembre/
  719162 getafe.tomalosbarrios.net/2012/11/08/acta-gt-huelga-general-7112012/
  716427 getafe.tomalosbarrios.net/2012/11/07/marea-roja-este-viernes/
  713697 getafe.tomalosbarrios.net/2012/11/06/acta-de-la-asamblea-de-vecinos-de-getafe-15m-03-11-2012/
- 705380 getafe.tomalosbarrios.net/2012/11/03/difusion-recogida-de-recursos-de-reposicion-051112/
  705383 getafe.tomalosbarrios.net/files/2012/11/RECURSO-DE-REPOSICIÓN.pdf
  705382 getafe.tomalosbarrios.net/files/2012/11/cartel-campaña-Rr-b-renfe.pdf
  705381 getafe.tomalosbarrios.net/files/2012/11/cartel-campaña-Rr-b-palacios.pdf
+ 705380 getafe.tomalosbarrios.net/2012/11/03/difusion-recogida-de-recursos-de-reposicion-051112/
  693346 getafe.tomalosbarrios.net/2012/10/30/acta-gt-laboral-17102012/
- 689494 getafe.tomalosbarrios.net/2012/10/29/paralizado-desahucio-cextremadura-21/
- 689744 getafe.tomalosbarrios.net/2012/10/29/convocatoria-de-asamblea-el-031112/
  689745 getafe.tomalosbarrios.net/files/2012/10/CARTEL-ASAMBLEA_3NOV.jpg
+ 689744 getafe.tomalosbarrios.net/2012/10/29/convocatoria-de-asamblea-el-031112/
  689495 getafe.tomalosbarrios.net/files/2012/10/STOP-DESAHUCIOS2.jpg
- 687889 getafe.tomalosbarrios.net/2012/10/28/difusion-recogida-de-recursos-de-reposicion-en-la-pza-del-ayuntamiento-el-291012/
+ 689494 getafe.tomalosbarrios.net/2012/10/29/paralizado-desahucio-cextremadura-21/
  687890 getafe.tomalosbarrios.net/files/2012/10/cartel-campaña-Rr-b-ayto.pdf
- 672962 getafe.tomalosbarrios.net/2012/10/27/ven-a-parar-el-desahucio-de-carlos-y-veronica-y-sus-dos-hijas-el-301012/
+ 687889 getafe.tomalosbarrios.net/2012/10/28/difusion-recogida-de-recursos-de-reposicion-en-la-pza-del-ayuntamiento-el-291012/
  678837 getafe.tomalosbarrios.net/files/2012/10/BANESTO1.pdf
  678835 getafe.tomalosbarrios.net/files/2012/10/BANESTO.pdf
  676177 getafe.tomalosbarrios.net/files/2012/10/NO-PRESUPUESTOS-DEUDA.jpg
- 675251 getafe.tomalosbarrios.net/2012/10/24/manifestacion-contra-el-desahucio-de-carlos-y-veronica-el-261012/
- 675252 getafe.tomalosbarrios.net/files/2012/10/STOP-DESAHUCIOS1.jpg
  676061 getafe.tomalosbarrios.net/2012/10/23/asamblea-sobre-la-deuda-el-jueves-25o/
+ 675252 getafe.tomalosbarrios.net/files/2012/10/STOP-DESAHUCIOS1.jpg
+ 675251 getafe.tomalosbarrios.net/2012/10/24/manifestacion-contra-el-desahucio-de-carlos-y-veronica-el-261012/
  673082 getafe.tomalosbarrios.net/files/2012/10/STOP-DESAHUCIOS.jpg
  673080 getafe.tomalosbarrios.net/files/2012/10/STOP-DESHAUCIOS.pdf
+ 672962 getafe.tomalosbarrios.net/2012/10/27/ven-a-parar-el-desahucio-de-carlos-y-veronica-y-sus-dos-hijas-el-301012/
  669456 getafe.tomalosbarrios.net/2012/10/20/acta-asamblea-general-getafe-15m-dia-20-de-octubre-de-2012/
+ 663808 getafe.tomalosbarrios.net/2012/10/19/acta-vivienda-18-10-2012/
  663692 getafe.tomalosbarrios.net/2012/10/19/escrito-para-banesto-sobre-el-desahucio-de-carlos-jorge-ivan-veronica-y-sus-dos-hijas/
  663688 getafe.tomalosbarrios.net/2012/10/19/tienes-una-hipoteca/
- 663808 getafe.tomalosbarrios.net/2012/10/19/acta-vivienda-18-10-2012/
- 663123 getafe.tomalosbarrios.net/2012/10/19/fiesta-getafe-vecinal-el-201012/
  663125 getafe.tomalosbarrios.net/files/2012/10/COMUNICADO-CENSURA-DEFINITIVO.pdf
  663124 getafe.tomalosbarrios.net/files/2012/10/cartelfiestakaDEFINITIVO.jpg
+ 663123 getafe.tomalosbarrios.net/2012/10/19/fiesta-getafe-vecinal-el-201012/
  662672 getafe.tomalosbarrios.net/2012/10/19/orden-del-dia-asamblea-20-octubre-2012/
  657964 getafe.tomalosbarrios.net/2012/10/17/acta-g-t-de-laboral-del-dia-10-de-octubre-de-2012/
  652396 getafe.tomalosbarrios.net/2012/10/15/reunion-de-enlaces-el-jueves-181012/
- 652393 getafe.tomalosbarrios.net/2012/10/15/convocatoria-de-asamblea-general-del-movimiento-15m-de-getafe-para-el-201012/
  652394 getafe.tomalosbarrios.net/files/2012/10/CARTEL-ASAMBLEA_20oct.jpg
+ 652393 getafe.tomalosbarrios.net/2012/10/15/convocatoria-de-asamblea-general-del-movimiento-15m-de-getafe-para-el-201012/
  650263 getafe.tomalosbarrios.net/2012/10/14/acta-reunion-grupo-de-sanidad-y-medio-ambiente/
  636720 getafe.tomalosbarrios.net/2012/10/09/acta-del-grupo-laboral-getafe-15m-del-dia-03102012/
  636718 getafe.tomalosbarrios.net/2012/10/09/acta-gt-laboral-26092012/
  633912 getafe.tomalosbarrios.net/2012/10/08/reunion-importante-del-grupo-de-vivienda-este-jueves/
- 633008 getafe.tomalosbarrios.net/2012/10/08/accion-gt-laboral-marea-roja/
  633797 getafe.tomalosbarrios.net/2012/10/08/no-debemos-no-pagamos-manifestacion-131012/
- 623699 getafe.tomalosbarrios.net/2012/10/04/fiesta-de-presentacion-de-la-cooperativa-sinergias-de-getafe-el-061012/
- 623812 getafe.tomalosbarrios.net/files/2012/10/FIESTA-SINERGIAS-page-001.jpg
- 623697 getafe.tomalosbarrios.net/2012/10/04/acta-de-la-reunion-del-grupo-de-sanidad-y-medio-ambiente-del-260912/
+ 633008 getafe.tomalosbarrios.net/2012/10/08/accion-gt-laboral-marea-roja/
  625271 getafe.tomalosbarrios.net/2012/09/30/acta-asamblea-general-29-de-septiembre-de-2012/
+ 623812 getafe.tomalosbarrios.net/files/2012/10/FIESTA-SINERGIAS-page-001.jpg
+ 623699 getafe.tomalosbarrios.net/2012/10/04/fiesta-de-presentacion-de-la-cooperativa-sinergias-de-getafe-el-061012/
+ 623697 getafe.tomalosbarrios.net/2012/10/04/acta-de-la-reunion-del-grupo-de-sanidad-y-medio-ambiente-del-260912/
  608014 getafe.tomalosbarrios.net/2012/09/29/orden-del-dia-asamblea-290912/
- 601394 getafe.tomalosbarrios.net/2012/09/26/semana-europea-en-defensa-de-los-sistemas-publicos-de-salud-del-1-al-7-de-octubre-de-2012/
  601395 getafe.tomalosbarrios.net/files/2012/09/NO-TE-CALLES-.pdf
+ 601394 getafe.tomalosbarrios.net/2012/09/26/semana-europea-en-defensa-de-los-sistemas-publicos-de-salud-del-1-al-7-de-octubre-de-2012/
  598031 getafe.tomalosbarrios.net/2012/09/24/acta-de-la-reunion-del-grupo-de-laboral-del-19092012/
  597805 getafe.tomalosbarrios.net/2012/09/24/convocatoria-de-la-reunion-de-enlaces-del-jueves-270912/
- 597802 getafe.tomalosbarrios.net/2012/09/24/convocatoria-de-asamblea-general-del-movimiento-getafe-15m-del-290912/
  597803 getafe.tomalosbarrios.net/files/2012/09/CARTEL-ASAMBLEA_sello1.jpg
+ 597802 getafe.tomalosbarrios.net/2012/09/24/convocatoria-de-asamblea-general-del-movimiento-getafe-15m-del-290912/
  594964 getafe.tomalosbarrios.net/2012/09/23/acta-de-la-reunion-del-grupo-de-sanidad-y-medio-ambiente-del-dia-18-de-septiembre-de-2012/
  594962 getafe.tomalosbarrios.net/2012/09/23/acta-de-la-asamblea-general-getafe-15m-del-19-de-septiembre-de-2012/
  580171 getafe.tomalosbarrios.net/2012/09/17/acta-g-t-de-laboral-del-dia-12-de-septiembre-de-2012/
  580168 getafe.tomalosbarrios.net/2012/09/17/acta-g-t-de-laboral-del-dia-5-de-septiembre-de-2012/
- 578708 getafe.tomalosbarrios.net/2012/09/16/acompanamiento-en-el-uso-de-la-sanidad-publica-a-personas-excluidas-de-ella-por-el-r-d-1612/
  578709 getafe.tomalosbarrios.net/files/2012/09/manual_acompanÞamiento_28_agosto.pdf
+ 578708 getafe.tomalosbarrios.net/2012/09/16/acompanamiento-en-el-uso-de-la-sanidad-publica-a-personas-excluidas-de-ella-por-el-r-d-1612/
  575120 getafe.tomalosbarrios.net/2012/09/15/orden-del-dia-asamblea-16092012/
  570232 getafe.tomalosbarrios.net/2012/09/13/sobre-las-acciones-del-dia-150912/
- 562350 getafe.tomalosbarrios.net/2012/09/10/convocatoria-de-la-asamblea-del-15m-getafe-el-domingo-160912/
  562351 getafe.tomalosbarrios.net/files/2012/09/CARTEL-ASAMBLEA_16sep.jpg
+ 562350 getafe.tomalosbarrios.net/2012/09/10/convocatoria-de-la-asamblea-del-15m-getafe-el-domingo-160912/
  562348 getafe.tomalosbarrios.net/2012/09/10/convocatoria-de-la-reunion-de-enlaces-del-jueves-130912/
  558705 getafe.tomalosbarrios.net/2012/09/09/marea-roja-este-lunes-100912/
  553999 getafe.tomalosbarrios.net/2012/09/07/acta-asamblea-getafe-15m-020912/
@@ -280,46 +280,46 @@
  538111 getafe.tomalosbarrios.net/2012/09/01/orden-del-dia-de-la-asamblea-general-del-domingo-02092012/
  537883 getafe.tomalosbarrios.net/2012/09/01/acta-gt-laboral-29082012/
  525549 getafe.tomalosbarrios.net/2012/08/27/convocatoria-de-reunion-de-enlaces-el-jueves-300812/
- 525546 getafe.tomalosbarrios.net/2012/08/27/convocatoria-asamblea-getafe-15m-el-020912/
  525547 getafe.tomalosbarrios.net/files/2012/08/CARTEL-ASAMBLEA_2_sep.jpg
+ 525546 getafe.tomalosbarrios.net/2012/08/27/convocatoria-asamblea-getafe-15m-el-020912/
  525432 getafe.tomalosbarrios.net/2012/08/27/concentracion-por-la-sanidad-publica-universal-el-010912/
  514149 getafe.tomalosbarrios.net/2012/08/23/acta-asamblea-19-agosto-2012/
  506259 getafe.tomalosbarrios.net/2012/08/20/acta-reunion-grupo-de-sanidad-y-medio-ambiente-14-agosto-2012/
  501329 getafe.tomalosbarrios.net/2012/08/19/orden-del-dia-de-la-asamblea-del-190812/
  494699 getafe.tomalosbarrios.net/2012/08/16/convocatoria-de-asamblea-general-del-15m-de-getafe-el-190812/
  494360 getafe.tomalosbarrios.net/2012/08/16/acta-g-t-de-laboral-del-dia-15-de-agosto-de-2012/
+ 494358 getafe.tomalosbarrios.net/2012/08/08/acta-g-t-de-laboral-del-dia-8-de-agosto-de-2012/
  490412 getafe.tomalosbarrios.net/2012/08/13/convocatoria-de-reunion-de-enlaces-el-jueves-160812/
  487579 getafe.tomalosbarrios.net/2012/08/12/acta-asamblea-getafe-15m-del-050812/
- 475856 getafe.tomalosbarrios.net/2012/08/08/marea-roja-este-jueves-090812-en-las-oficinas-del-inem/
  475929 getafe.tomalosbarrios.net/files/2012/08/marea-roja.jpg
- 494358 getafe.tomalosbarrios.net/2012/08/08/acta-g-t-de-laboral-del-dia-8-de-agosto-de-2012/
+ 475856 getafe.tomalosbarrios.net/2012/08/08/marea-roja-este-jueves-090812-en-las-oficinas-del-inem/
  474428 getafe.tomalosbarrios.net/2012/08/07/viaje-a-marinadela/
  459417 getafe.tomalosbarrios.net/2012/08/02/459417/
  459414 getafe.tomalosbarrios.net/2012/08/02/acta-gt-laboral-01082012/
- 458066 getafe.tomalosbarrios.net/2012/08/01/convocatoria-de-asamblea-general-del-15m-de-getafe-el-050812/
  458068 getafe.tomalosbarrios.net/files/2012/08/CARTEL-ASAMBLEA_5agos.jpg
+ 458066 getafe.tomalosbarrios.net/2012/08/01/convocatoria-de-asamblea-general-del-15m-de-getafe-el-050812/
  455146 getafe.tomalosbarrios.net/2012/07/31/viaja-marinaleda-agosto/
  452679 getafe.tomalosbarrios.net/2012/07/30/convocatoria-de-reunion-de-enlaces-el-020812/
- 446243 getafe.tomalosbarrios.net/2012/07/28/concentracion-contra-la-privatizacion-de-las-piscinas-municipales-020812/
  446245 getafe.tomalosbarrios.net/files/2012/07/20120726125033839.pdf
+ 446243 getafe.tomalosbarrios.net/2012/07/28/concentracion-contra-la-privatizacion-de-las-piscinas-municipales-020812/
  443438 getafe.tomalosbarrios.net/2012/07/27/momento-critico-caso-bankia-manifestacion-a-favor-de-la-intervencion-judicial-29j/
  441840 getafe.tomalosbarrios.net/2012/07/26/acta-gt-laboral-25072012/
  438701 getafe.tomalosbarrios.net/2012/07/25/cine-de-barrio-las-margaritas-260712/
  438248 getafe.tomalosbarrios.net/2012/07/25/acta-de-web-24-de-julio-de-2012/
  435445 getafe.tomalosbarrios.net/2012/07/24/aacta-asamblea-general-getafe-15m-22-07-2012/
  433874 getafe.tomalosbarrios.net/2012/07/23/gt-laboral-18072012/
- 428043 getafe.tomalosbarrios.net/2012/07/21/428043/
  428047 getafe.tomalosbarrios.net/files/2012/07/cartel-encierro-clinico-1.jpg
  428046 getafe.tomalosbarrios.net/files/2012/07/CARTEL-ENCIERRO-HOSP-CLINICO-S-CARLOS-240712.pdf
  428045 getafe.tomalosbarrios.net/files/2012/07/PROGRAMA-ENCIERRO-HOSP.CLINICO-S.CARLOS-240712.pdf
+ 428043 getafe.tomalosbarrios.net/2012/07/21/428043/
  427928 getafe.tomalosbarrios.net/2012/07/21/orden-del-dia-de-la-asamblea-del-220712/
  422548 getafe.tomalosbarrios.net/2012/07/19/suspendida-la-marcha-de-desempleados/
  419968 getafe.tomalosbarrios.net/2012/07/18/reunion-de-enlaces-el-viernes-200712/
- 419852 getafe.tomalosbarrios.net/2012/07/18/convocatoria-de-asamblea-general-15m-de-getafe-para-el-220712/
  419854 getafe.tomalosbarrios.net/files/2012/07/CARTEL-ASAMBLEA_22jul.jpg
+ 419852 getafe.tomalosbarrios.net/2012/07/18/convocatoria-de-asamblea-general-15m-de-getafe-para-el-220712/
  415145 getafe.tomalosbarrios.net/2012/07/16/citas-gt-vivienda/
- 414480 getafe.tomalosbarrios.net/2012/07/16/convocatoria-de-la-a-a-v-v-aires-nuevos-asamblea-vecinal-contra-instalacion-de-antena-de-telefonia-movil-en-getafe-norte/
  414592 getafe.tomalosbarrios.net/files/2012/07/CARTEL-ASAMBLEA-DE-VECINOS-DE-GETAFE-NORTE-21-de-julio.pdf
+ 414480 getafe.tomalosbarrios.net/2012/07/16/convocatoria-de-la-a-a-v-v-aires-nuevos-asamblea-vecinal-contra-instalacion-de-antena-de-telefonia-movil-en-getafe-norte/
  413595 getafe.tomalosbarrios.net/2012/07/16/acta-de-la-asamblea-extraordinaria-del-movimiento-15m-de-getafe-del-150712/
  405804 getafe.tomalosbarrios.net/2012/07/13/asamblea-extraordinaria-15-07-2012/
  405690 getafe.tomalosbarrios.net/2012/07/13/acta-g-t-de-laboral-del-dia-12-de-julio-de-2012/
@@ -338,133 +338,133 @@
  365017 getafe.tomalosbarrios.net/files/2012/06/cartel17-07-2012.jpg
  365011 getafe.tomalosbarrios.net/2012/06/27/convocatoria-asamblea-7-de-julio-2012/
  364894 getafe.tomalosbarrios.net/2012/06/27/inscribete-lista-distribucion/
- 361947 getafe.tomalosbarrios.net/files/2012/06/Documento-adjunto-Nº1_1_.pdf
- 361946 getafe.tomalosbarrios.net/files/2012/06/Documento-adjunto-Nº-2.pdf
- 358867 getafe.tomalosbarrios.net/2012/06/25/convocatoria-cena-solidaria-de-apoyo-a-somontes/
- 358653 getafe.tomalosbarrios.net/files/2012/06/la-foto-15.jpg
- 349627 getafe.tomalosbarrios.net/2012/06/23/este-domingo-240612-vente-a-construir-los-murales-del-agua/
- 344737 getafe.tomalosbarrios.net/2012/06/23/fiesta-en-la-marana-sabado-230612/
- 343552 getafe.tomalosbarrios.net/2012/06/21/convocatoria-de-la-asamblea-de-la-plataforma-de-vivienda-de-los-pueblos-del-sur-220612/
- 349630 getafe.tomalosbarrios.net/files/2012/06/Murales.pdf
- 349629 getafe.tomalosbarrios.net/files/2012/06/MURALES.jpg
- 347187 getafe.tomalosbarrios.net/files/2012/06/boton-suscripción-e1340218605473.png
- 347073 getafe.tomalosbarrios.net/sinergias/
  364358 getafe.tomalosbarrios.net/2012/06/20/acta-de-sanidad-y-medio-ambiente-getafe-15m-del-200612/
  363822 getafe.tomalosbarrios.net/2012/06/20/acta-gt-de-laboral-20062012/
+ 361947 getafe.tomalosbarrios.net/files/2012/06/Documento-adjunto-Nº1_1_.pdf
+ 361946 getafe.tomalosbarrios.net/files/2012/06/Documento-adjunto-Nº-2.pdf
+ 361838 getafe.tomalosbarrios.net/2012/06/17/acta-de-la-asamblea-geta15m-del-170612-en-perales-del-rio/
+ 358867 getafe.tomalosbarrios.net/2012/06/25/convocatoria-cena-solidaria-de-apoyo-a-somontes/
+ 358653 getafe.tomalosbarrios.net/files/2012/06/la-foto-15.jpg
  351756 getafe.tomalosbarrios.net/2012/06/19/acta-legalaccion-19-06-2012/
+ 349630 getafe.tomalosbarrios.net/files/2012/06/Murales.pdf
+ 349629 getafe.tomalosbarrios.net/files/2012/06/MURALES.jpg
+ 349627 getafe.tomalosbarrios.net/2012/06/23/este-domingo-240612-vente-a-construir-los-murales-del-agua/
+ 347187 getafe.tomalosbarrios.net/files/2012/06/boton-suscripción-e1340218605473.png
+ 347073 getafe.tomalosbarrios.net/sinergias/
+ 344737 getafe.tomalosbarrios.net/2012/06/23/fiesta-en-la-marana-sabado-230612/
+ 344628 getafe.tomalosbarrios.net/2012/06/06/344628/
  343774 getafe.tomalosbarrios.net/2012/06/19/manifestacion-servicios-publicos-19-06-2012/
  343769 getafe.tomalosbarrios.net/2012/06/19/acto-sobre-la-memoria-historica/
- 361838 getafe.tomalosbarrios.net/2012/06/17/acta-de-la-asamblea-geta15m-del-170612-en-perales-del-rio/
- 323275 getafe.tomalosbarrios.net/2012/06/16/convocatoria-asamblea-17-02-2012/
+ 343552 getafe.tomalosbarrios.net/2012/06/21/convocatoria-de-la-asamblea-de-la-plataforma-de-vivienda-de-los-pueblos-del-sur-220612/
  336161 getafe.tomalosbarrios.net/2012/06/16/orden-del-dia-asamblea-getafe-15m-del-17-de-junio/
  333612 getafe.tomalosbarrios.net/2012/06/15/camisetas-apoyo-a-detenidas/
  333396 getafe.tomalosbarrios.net/2012/06/15/paneles-de-libre-expresion-un-exito-de-la-accion-directa-vecinal/
- 325623 getafe.tomalosbarrios.net/files/2012/06/cartel-asamblea-17-06-2012.jpg
- 323919 getafe.tomalosbarrios.net/2012/06/11/convocatoria-de-acto-contra-la-privatizacion-de-la-sanidad-convocado-por-avv-vientos-del-pueblo-miercoles-13-06-2012-a-las-18h-centro-agora/
- 323921 getafe.tomalosbarrios.net/files/2012/06/Acto-Getafe-Contra-Privatización-Sanidad.png
  326388 getafe.tomalosbarrios.net/2012/06/11/accion-decora-tu-barrio-en-la-alhondiga-miercoles-13-06-2012-a-las-19h-en-la-plaza-roja/
- 323059 getafe.tomalosbarrios.net/2012/06/11/convocatoria-de-asamblea-sobre-educacion-el-130612-en-la-plaza-del-ayuntamiento-de-la-plataforma-por-los-servicios-publicos-de-getafe/
+ 325623 getafe.tomalosbarrios.net/files/2012/06/cartel-asamblea-17-06-2012.jpg
+ 323921 getafe.tomalosbarrios.net/files/2012/06/Acto-Getafe-Contra-Privatización-Sanidad.png
+ 323919 getafe.tomalosbarrios.net/2012/06/11/convocatoria-de-acto-contra-la-privatizacion-de-la-sanidad-convocado-por-avv-vientos-del-pueblo-miercoles-13-06-2012-a-las-18h-centro-agora/
+ 323275 getafe.tomalosbarrios.net/2012/06/16/convocatoria-asamblea-17-02-2012/
  323062 getafe.tomalosbarrios.net/files/2012/06/educa.pdf
  323061 getafe.tomalosbarrios.net/files/2012/06/13-de-junio-educa.jpg
+ 323059 getafe.tomalosbarrios.net/2012/06/11/convocatoria-de-asamblea-sobre-educacion-el-130612-en-la-plaza-del-ayuntamiento-de-la-plataforma-por-los-servicios-publicos-de-getafe/
  323056 getafe.tomalosbarrios.net/2012/06/11/reunion-de-enlaces-14062012/
  318829 getafe.tomalosbarrios.net/2012/06/09/318829/
  315942 getafe.tomalosbarrios.net/2012/06/08/manifestacion-asociaciones-vecinales-de-getafe-19h-viernes-08-06-2012/
  315835 getafe.tomalosbarrios.net/2012/06/08/nota-de-apoyo-de-la-asamblea-getafe-15m-al-csoa-la-casika/
- 344628 getafe.tomalosbarrios.net/2012/06/06/344628/
  311504 getafe.tomalosbarrios.net/2012/06/06/expone-solicita-para-registrar-en-el-ayuntamiento/
+ 311498 getafe.tomalosbarrios.net/2012/05/30/311498/
  311493 getafe.tomalosbarrios.net/2012/06/06/acta-grupo-de-trabajo-apoyo-a-detenidas-y-accion/
  309223 getafe.tomalosbarrios.net/2012/06/05/comunicado-de-la-plataforma-contra-el-cambio-climatico-o2o3-contra-la-construccion-de-un-campo-de-golf-en-getafe/
- 309215 getafe.tomalosbarrios.net/2012/06/05/convocatoria-jornadas-de-universidad-socioambiental-del-sur/
  309220 getafe.tomalosbarrios.net/files/2012/06/triptico-universidad-socioambiental-del-sur-1.pdf
  309219 getafe.tomalosbarrios.net/files/2012/06/cartel-33x481-1universidad-ambiental-del-sur2.pdf
+ 309215 getafe.tomalosbarrios.net/2012/06/05/convocatoria-jornadas-de-universidad-socioambiental-del-sur/
  308592 getafe.tomalosbarrios.net/files/2012/06/loca_21.jpg
  308591 getafe.tomalosbarrios.net/files/2012/06/loca_2.jpg
  308589 getafe.tomalosbarrios.net/files/2012/06/loca_1.jpg
  308477 getafe.tomalosbarrios.net/2012/06/05/acta-asamblea-general-getafe-15m-03062012/
  308476 getafe.tomalosbarrios.net/files/2012/06/cartel-33x481-1universidad-ambiental-del-sur1.pdf
  308412 getafe.tomalosbarrios.net/files/2012/06/cartel-33x481-1universidad-ambiental-del-sur.pdf
- 304652 getafe.tomalosbarrios.net/2012/06/03/convocatoria-de-asamblea-sobre-sanidad-el-060612-de-la-plataforma-por-los-servicios-publicos-de-getafe/
  304656 getafe.tomalosbarrios.net/files/2012/06/sanidad-1.pdf
  304655 getafe.tomalosbarrios.net/files/2012/06/cartel-sani-6-12.jpg
  304654 getafe.tomalosbarrios.net/files/2012/06/cartel-sani-6-11.jpg
  304653 getafe.tomalosbarrios.net/files/2012/06/cartel-sani-6-1.jpg
+ 304652 getafe.tomalosbarrios.net/2012/06/03/convocatoria-de-asamblea-sobre-sanidad-el-060612-de-la-plataforma-por-los-servicios-publicos-de-getafe/
  299189 getafe.tomalosbarrios.net/2012/06/01/orden-del-dia-asamblea-getafe-15m-del-3-de-junio/
- 291341 getafe.tomalosbarrios.net/2012/06/01/convocatoria-asamblea-030612/
- 294983 getafe.tomalosbarrios.net/2012/05/31/contra-la-privatizacion-del-complejo-acuatico-getafe-norte/
- 295084 getafe.tomalosbarrios.net/files/2012/05/CARTEL-CONCENTRACION-grande-con-los-tres-logos-_1_.pdf
- 294980 getafe.tomalosbarrios.net/2012/05/31/convocatoria-bicicritica/
- 294981 getafe.tomalosbarrios.net/files/2012/05/cartel.png
- 311498 getafe.tomalosbarrios.net/2012/05/30/311498/
+ 298669 getafe.tomalosbarrios.net/2012/05/20/acta-asamblea-getafe-15m-20052012/
  296922 getafe.tomalosbarrios.net/2012/05/29/acta-reunion-sanidad-y-medio-ambiente-del-290512/
+ 295084 getafe.tomalosbarrios.net/files/2012/05/CARTEL-CONCENTRACION-grande-con-los-tres-logos-_1_.pdf
+ 294983 getafe.tomalosbarrios.net/2012/05/31/contra-la-privatizacion-del-complejo-acuatico-getafe-norte/
+ 294981 getafe.tomalosbarrios.net/files/2012/05/cartel.png
+ 294980 getafe.tomalosbarrios.net/2012/05/31/convocatoria-bicicritica/
  291450 getafe.tomalosbarrios.net/files/2012/05/cartel_asamblea_3_Junio_2012.jpg
  291448 getafe.tomalosbarrios.net/files/2012/05/CARTEL-ASAMBLEA-03-JUNIO-2012.pdf
+ 291341 getafe.tomalosbarrios.net/2012/06/01/convocatoria-asamblea-030612/
  291337 getafe.tomalosbarrios.net/2012/05/29/reunion-de-enlaces-2/
  289153 getafe.tomalosbarrios.net/2012/05/28/acta-gt-laboral-23-05-2012/
- 274677 getafe.tomalosbarrios.net/2012/05/24/jornada-ludico-reivindicativa/
  278070 getafe.tomalosbarrios.net/2012/05/22/acta-asamblea-de-legal-accion-y-apoyo-a-detenidas-22-05-2012/
- 298669 getafe.tomalosbarrios.net/2012/05/20/acta-asamblea-getafe-15m-20052012/
+ 274677 getafe.tomalosbarrios.net/2012/05/24/jornada-ludico-reivindicativa/
  269706 getafe.tomalosbarrios.net/2012/05/20/acta-del-gt-coordinacion-17-5-2012/
- 260372 getafe.tomalosbarrios.net/2012/05/16/concentracion-sonora-19h-pza-ayto-16-05-2012/
  260374 getafe.tomalosbarrios.net/files/2012/05/NOTA-DE-PRENSA1.doc_.pdf
+ 260372 getafe.tomalosbarrios.net/2012/05/16/concentracion-sonora-19h-pza-ayto-16-05-2012/
  256900 getafe.tomalosbarrios.net/2012/05/14/acta-de-gt-laboral-9-5-2012/
- 254515 getafe.tomalosbarrios.net/2012/05/13/convocatoria-asamblea-20-de-mayo-2012/
+ 256279 getafe.tomalosbarrios.net/2012/05/09/acta-comision-comunicacion-09-05-2012/
  254516 getafe.tomalosbarrios.net/files/2012/05/CARTEL-ASAMBLEA-200512.pdf
+ 254515 getafe.tomalosbarrios.net/2012/05/13/convocatoria-asamblea-20-de-mayo-2012/
  254513 getafe.tomalosbarrios.net/2012/05/13/reunion-de-enlaces/
  253550 getafe.tomalosbarrios.net/2012/05/13/acta-gt-laboral-2-5-2012/
  247690 getafe.tomalosbarrios.net/2012/05/10/acta-vivienda-10-5-2012/
  246894 getafe.tomalosbarrios.net/2012/05/10/camisetas-asamblea-getafe-15m/
- 256279 getafe.tomalosbarrios.net/2012/05/09/acta-comision-comunicacion-09-05-2012/
+ 241128 getafe.tomalosbarrios.net/2012/04/29/acta-asamblea-general-de-getafe-29-04-2012/
  235986 getafe.tomalosbarrios.net/2012/05/04/marcha-global-del-12-de-mayo-getafe-leganes-atocha-sol/
  235790 getafe.tomalosbarrios.net/2012/05/04/carteleria-12m-15m/
  227020 getafe.tomalosbarrios.net/2012/04/30/acta-del-gt-laboral-25-4-2012/
- 241128 getafe.tomalosbarrios.net/2012/04/29/acta-asamblea-general-de-getafe-29-04-2012/
- 211054 getafe.tomalosbarrios.net/2012/04/27/convocatoria-asamblea-general-29042012/
- 218781 getafe.tomalosbarrios.net/2012/04/27/orden-asamblea-general-15m-getafe-290412/
  223216 getafe.tomalosbarrios.net/2012/04/26/acta-gt-coordinacion-12-15m-26-04-2012/
+ 220784 getafe.tomalosbarrios.net/2012/04/19/acta-gt-coordinacion-12-15m-19-04-2012/
+ 220779 getafe.tomalosbarrios.net/2012/04/12/acta-gt-coordinacion-12-15m-12-04-2012/
+ 218781 getafe.tomalosbarrios.net/2012/04/27/orden-asamblea-general-15m-getafe-290412/
  218779 getafe.tomalosbarrios.net/2012/04/24/acta-sanidad-y-medio-ambiente-240412/
- 211057 getafe.tomalosbarrios.net/files/2012/04/CARTEL-ASAMBLEA-29-DE-ABRIL-1.jpg
- 211060 getafe.tomalosbarrios.net/2012/04/23/asamblea-tematica-29042012-cooperativas-de-autoempleo/
+ 218681 getafe.tomalosbarrios.net/2012/04/17/acta-sanidad-y-medio-ambiente-170412/
  211065 getafe.tomalosbarrios.net/2012/04/23/convocatoria-reunion-enlaces-26042012/
+ 211060 getafe.tomalosbarrios.net/2012/04/23/asamblea-tematica-29042012-cooperativas-de-autoempleo/
+ 211057 getafe.tomalosbarrios.net/files/2012/04/CARTEL-ASAMBLEA-29-DE-ABRIL-1.jpg
+ 211054 getafe.tomalosbarrios.net/2012/04/27/convocatoria-asamblea-general-29042012/
  210954 getafe.tomalosbarrios.net/2012/04/23/performance-despertando-conciencias/
  209881 getafe.tomalosbarrios.net/2012/04/22/acta-de-laboral-del-18-abril-2012/
- 220784 getafe.tomalosbarrios.net/2012/04/19/acta-gt-coordinacion-12-15m-19-04-2012/
- 203017 getafe.tomalosbarrios.net/2012/04/19/acta-asamblea-14-04-2012/
  203024 getafe.tomalosbarrios.net/files/2012/04/Documento-adjunto-Nº-2.pdf
  203020 getafe.tomalosbarrios.net/files/2012/04/Documento-adjunto-nº-1.pdf
- 218681 getafe.tomalosbarrios.net/2012/04/17/acta-sanidad-y-medio-ambiente-170412/
+ 203017 getafe.tomalosbarrios.net/2012/04/19/acta-asamblea-14-04-2012/
  199141 getafe.tomalosbarrios.net/2012/04/17/urgente-comision-municipal-contra-los-desahucios-18-4-2012-1000-am/
  199137 getafe.tomalosbarrios.net/2012/04/17/fondo-extraordinario-de-solidaridad-mediante-tasas-a-los-cajeros/
+ 199037 getafe.tomalosbarrios.net/2012/04/12/acta-vivienda-12-04-2012/
  196463 getafe.tomalosbarrios.net/files/2011/07/DIPTICO.-Dinamización-Asambleas-marzo-2012.pdf
  196356 getafe.tomalosbarrios.net/somos-transparentes/
  193982 getafe.tomalosbarrios.net/2012/04/15/iniciativa-recuperacion-comunicacion/
- 199037 getafe.tomalosbarrios.net/2012/04/12/acta-vivienda-12-04-2012/
- 220779 getafe.tomalosbarrios.net/2012/04/12/acta-gt-coordinacion-12-15m-12-04-2012/
  187527 getafe.tomalosbarrios.net/files/2012/03/DIPTICO.-Dinamización-Asambleas-marzo-2012.pdf
  187524 getafe.tomalosbarrios.net/files/2012/03/Taller-Consenso-y-Facilitación.pdf
  185355 getafe.tomalosbarrios.net/files/2011/07/Breve-Manual-sobre-Ustream.pdf
- 183096 getafe.tomalosbarrios.net/2012/04/10/sesion-mumble-ustream/
  183101 getafe.tomalosbarrios.net/files/2012/04/cartel-mumble-y-ustream.png
- 172188 getafe.tomalosbarrios.net/2012/04/04/acta-gt-web-04-04-2012/
+ 183096 getafe.tomalosbarrios.net/2012/04/10/sesion-mumble-ustream/
  172551 getafe.tomalosbarrios.net/2012/04/01/acta-asamblea-general-getafe-15m-01-04-2012/
+ 172188 getafe.tomalosbarrios.net/2012/04/04/acta-gt-web-04-04-2012/
+ 170379 getafe.tomalosbarrios.net/2012/01/14/170379/
  161774 getafe.tomalosbarrios.net/2012/03/31/orden-del-dia-asamblea-general-getafe-15m-01-04-2012/
- 155197 getafe.tomalosbarrios.net/2012/03/30/155197/
- 152953 getafe.tomalosbarrios.net/2012/03/28/manifestacion-pueblos-del-sur-unidos-en-lucha-por-los-derechos-sociales-y-laborales-miercoles-28-03-2012-a-las-19h-en-el-lazo-de-getafe/
  155200 getafe.tomalosbarrios.net/files/2012/03/cartel_asamblea_1_abril.pdf
+ 155197 getafe.tomalosbarrios.net/2012/03/30/155197/
  152956 getafe.tomalosbarrios.net/files/2012/03/cartel-huelga.pdf
+ 152953 getafe.tomalosbarrios.net/2012/03/28/manifestacion-pueblos-del-sur-unidos-en-lucha-por-los-derechos-sociales-y-laborales-miercoles-28-03-2012-a-las-19h-en-el-lazo-de-getafe/
  150909 getafe.tomalosbarrios.net/files/2012/03/4.-documento-adjunto1.pdf
  150907 getafe.tomalosbarrios.net/files/2012/03/4.-documento-adjunto.pdf
  150906 getafe.tomalosbarrios.net/files/2012/03/3.-Documento-adjunto.pdf
  150823 getafe.tomalosbarrios.net/files/2012/03/2.-Documento-adjunto.pdf
  150822 getafe.tomalosbarrios.net/files/2012/03/1.-Documento-adjunto.pdf
- 142209 getafe.tomalosbarrios.net/2012/03/24/asamblea-25-03-2012-contra-la-reforma-laboral-contra-el-paro-y-la-precariedad-por-los-derechos-sociales-y-laborales-hay-que-organizar-la-huelga-general/
- 141176 getafe.tomalosbarrios.net/2012/03/23/141176/
+ 149751 getafe.tomalosbarrios.net/2012/03/14/acta-web-14032012/
+ 146958 getafe.tomalosbarrios.net/2012/03/18/acta-asamblea-general-17-03-2012/
  142215 getafe.tomalosbarrios.net/files/2012/03/CARTEL-HUELGA-GENERAL1.pdf
  142214 getafe.tomalosbarrios.net/files/2012/03/CARTEL-HUELGA-GENERAL.pdf
+ 142209 getafe.tomalosbarrios.net/2012/03/24/asamblea-25-03-2012-contra-la-reforma-laboral-contra-el-paro-y-la-precariedad-por-los-derechos-sociales-y-laborales-hay-que-organizar-la-huelga-general/
+ 141176 getafe.tomalosbarrios.net/2012/03/23/141176/
  141168 getafe.tomalosbarrios.net/2012/03/21/concentracion-puerta-del-sol-jueves-22-03-2012-19-30h/
- 146958 getafe.tomalosbarrios.net/2012/03/18/acta-asamblea-general-17-03-2012/
- 127842 getafe.tomalosbarrios.net/2012/03/17/taller-de-toma-de-decisiones-y-facilitacion-18-03-12/
  128921 getafe.tomalosbarrios.net/files/2012/03/convocatoria-social-leganés.pdf
- 149751 getafe.tomalosbarrios.net/2012/03/14/acta-web-14032012/
  128308 getafe.tomalosbarrios.net/files/2012/03/CONTESTACION-AYUNTAMIENTO-ACTAS-Y-CENTROS-CIVICOS.pdf
  128307 getafe.tomalosbarrios.net/files/2012/03/COMUNICACION-ACTAS-Y-CENTROS-CIVICOS-AL-AYUNTAMIENTO.pdf
  128306 getafe.tomalosbarrios.net/files/2012/03/COMUNICACIÓN-DELEGACION-GOBIERNO-2502121.pdf
@@ -473,250 +473,250 @@
  128303 getafe.tomalosbarrios.net/files/2012/03/17-02-2012-CONTESTACIÓN-DE-LA-DELEGACIÓN-DE-GOBIERNO-SOBRE-CONCENTR-250212.pdf
  128302 getafe.tomalosbarrios.net/files/2012/03/COMUNICACIÓN-DELEGACION-GOBIERNO-250212.pdf
  128150 getafe.tomalosbarrios.net/files/2012/03/Vientos-del-pueblo-me-llevan.png
+ 128148 getafe.tomalosbarrios.net/2012/03/03/acta-asamblea-general-getafe-15m-03-03-2012/
  128145 getafe.tomalosbarrios.net/files/2012/03/Cartel-Taller-v3.pdf
- 125274 getafe.tomalosbarrios.net/2012/03/14/asamblea-general-getafe-15m-17032012/
  127844 getafe.tomalosbarrios.net/files/2012/03/Cartel-Taller-v2.jpg
+ 127842 getafe.tomalosbarrios.net/2012/03/17/taller-de-toma-de-decisiones-y-facilitacion-18-03-12/
+ 125357 getafe.tomalosbarrios.net/2012/03/08/acta-gt-laboral-07-03-2012/
  125352 getafe.tomalosbarrios.net/files/2012/03/cartel_asamblea_17M1.pdf
  125351 getafe.tomalosbarrios.net/files/2012/03/cartel_asamblea_17M.pdf
+ 125274 getafe.tomalosbarrios.net/2012/03/14/asamblea-general-getafe-15m-17032012/
  120442 getafe.tomalosbarrios.net/2012/03/09/acta-asamblea-extraordinaria-getafe-15m-9-03-2012/
- 125357 getafe.tomalosbarrios.net/2012/03/08/acta-gt-laboral-07-03-2012/
- 117788 getafe.tomalosbarrios.net/2012/03/08/asamblea-extraordinaria-9-03-2012/
- 114490 getafe.tomalosbarrios.net/2012/03/08/madrid15m-no1/
+ 120364 getafe.tomalosbarrios.net/2012/03/07/acta-web-07-032012/
  117802 getafe.tomalosbarrios.net/files/2012/03/madrid15m_n_11.pdf
  117801 getafe.tomalosbarrios.net/files/2012/03/Portada-Madrid15M-N012.jpg
  117800 getafe.tomalosbarrios.net/files/2012/03/Portada-Madrid15M-N011.jpg
  117799 getafe.tomalosbarrios.net/files/2012/03/Portada-Madrid15M-N01.jpg
  117798 getafe.tomalosbarrios.net/files/2012/03/madrid15m_n_1.pdf
+ 117788 getafe.tomalosbarrios.net/2012/03/08/asamblea-extraordinaria-9-03-2012/
+ 116856 getafe.tomalosbarrios.net/2012/03/06/la-asamblea-de-getafe-15m-y-la-pah-logran-que-deutsche-bank-acepte-la-dacion-en-pago-a-un-vecino-de-getafe/
  116065 getafe.tomalosbarrios.net/2012/03/07/mas-de-165-000-personas-claman-contra-la-privatizacion-del-canal-de-isabel-ii/
  116064 getafe.tomalosbarrios.net/files/2012/03/RESULTADO_PARCIAL_CONSULTA_AGUA.pdf
  116063 getafe.tomalosbarrios.net/files/2012/03/Resultados-Consulta-Agua.jpg
- 120364 getafe.tomalosbarrios.net/2012/03/07/acta-web-07-032012/
- 116856 getafe.tomalosbarrios.net/2012/03/06/la-asamblea-de-getafe-15m-y-la-pah-logran-que-deutsche-bank-acepte-la-dacion-en-pago-a-un-vecino-de-getafe/
  115703 getafe.tomalosbarrios.net/2012/03/06/acta-com-accion-y-gt-apoyo-a-detenidxs-06-03-2012/
+ 114490 getafe.tomalosbarrios.net/2012/03/08/madrid15m-no1/
  114338 getafe.tomalosbarrios.net/files/2012/03/protocolo_actuacion_frente_a_un_desahucio.pdf
- 113060 getafe.tomalosbarrios.net/2012/03/05/desconvocado-el-desahucio-de-paco/
- 112553 getafe.tomalosbarrios.net/2012/03/05/concentracion-en-plaza-del-ayuntamiento-a-las-19h/
- 111278 getafe.tomalosbarrios.net/2012/03/05/urgente-concentracion-manana-en-leganes-paremos-el-desahucio-de-paco/
- 102559 getafe.tomalosbarrios.net/2012/03/05/proximo-desahucio-6-de-marzo-de-2012/
- 104078 getafe.tomalosbarrios.net/2012/03/04/consulta-social-por-el-agua-4-03-2012/
- 128148 getafe.tomalosbarrios.net/2012/03/03/acta-asamblea-general-getafe-15m-03-03-2012/
- 102571 getafe.tomalosbarrios.net/2012/03/02/asamblea-general-getafe-15m-03-03-2012/
  114334 getafe.tomalosbarrios.net/2012/03/01/acta-gt-vivienda-01-03-2012/
+ 113060 getafe.tomalosbarrios.net/2012/03/05/desconvocado-el-desahucio-de-paco/
  112630 getafe.tomalosbarrios.net/2012/03/01/acta-gt-laboral-29-02-2012/
+ 112553 getafe.tomalosbarrios.net/2012/03/05/concentracion-en-plaza-del-ayuntamiento-a-las-19h/
+ 112552 getafe.tomalosbarrios.net/2012/02/16/acta-gt-laboral-15-02-2012/
+ 111278 getafe.tomalosbarrios.net/2012/03/05/urgente-concentracion-manana-en-leganes-paremos-el-desahucio-de-paco/
  107533 getafe.tomalosbarrios.net/2012/03/01/acta-reunion-coordinacion-01-03-2012/
+ 107251 getafe.tomalosbarrios.net/2012/02/29/acta-comision-web-29-02-2012/
  104152 getafe.tomalosbarrios.net/files/2012/02/CARTEL-CONSULTA-AGUA.pdf
  104082 getafe.tomalosbarrios.net/files/2012/02/Entre-tod@s-podemos-pararlo.jpg
  104081 getafe.tomalosbarrios.net/files/2012/02/EL-AGUA-NO-ES-UN-NEGOCIO..png
- 107251 getafe.tomalosbarrios.net/2012/02/29/acta-comision-web-29-02-2012/
+ 104078 getafe.tomalosbarrios.net/2012/03/04/consulta-social-por-el-agua-4-03-2012/
  102575 getafe.tomalosbarrios.net/files/2012/02/cartel_asamblea_3_marzo.pdf
+ 102571 getafe.tomalosbarrios.net/2012/03/02/asamblea-general-getafe-15m-03-03-2012/
  102563 getafe.tomalosbarrios.net/files/2012/02/ReformaLaboral2012.pdf
-  94119 getafe.tomalosbarrios.net/2012/02/24/concentracion-el-agua-es-tuya-defiendela/
- 102340 getafe.tomalosbarrios.net/2012/02/23/charla-sobre-la-reforma-laboral/
+ 102559 getafe.tomalosbarrios.net/2012/03/05/proximo-desahucio-6-de-marzo-de-2012/
+ 102549 getafe.tomalosbarrios.net/2012/02/09/acta-gt-laboral-08-02-2012/
+ 102546 getafe.tomalosbarrios.net/2012/02/02/acta-gt-laboral-01-02-2012/
  102342 getafe.tomalosbarrios.net/files/2012/02/reforma-laboral.jpg
-  93276 getafe.tomalosbarrios.net/2012/02/22/iii-foro-de-la-educacion-de-getafe/
-  93282 getafe.tomalosbarrios.net/2012/02/22/no-a-la-privatizacion-de-la-piscina-getafe-norte-manifestacion-jueves-23-a-las-18h/
-  99280 getafe.tomalosbarrios.net/files/2012/02/botijo.jpg
-  96497 getafe.tomalosbarrios.net/2012/02/19/asamblea-general-getafe-15m-19-02-2012/
+ 102340 getafe.tomalosbarrios.net/2012/02/23/charla-sobre-la-reforma-laboral/
  101064 getafe.tomalosbarrios.net/2012/02/16/comision-municipal-para-los-desahucios-16-2-2012-testimonio-de-las-asistentes/
  101060 getafe.tomalosbarrios.net/2012/02/16/acta-vivienda-16-2-2012/
- 112552 getafe.tomalosbarrios.net/2012/02/16/acta-gt-laboral-15-02-2012/
-  93343 getafe.tomalosbarrios.net/files/2012/02/LA-PISCINA-MUNICIPAL-DE-GETAFE-NORTE-SE-VENDE-POR-40-AÑOS.pdf
-  93280 getafe.tomalosbarrios.net/files/2012/02/Cartel-III-Foro-Educacion-Getafe.pdf
-  90913 getafe.tomalosbarrios.net/files/2011/07/Guía-Legal-La-represión-y-los-MMSS-GT-Apoyo-a-agredidos-15M.pdf
-  84758 getafe.tomalosbarrios.net/2012/02/09/nace-madrid15m-el-periodico-autogestionado-de-asambleas/
-  84761 getafe.tomalosbarrios.net/files/2012/02/madrid15m_n_0.pdf
  101056 getafe.tomalosbarrios.net/2012/02/09/acta-vivienda-9-2-2012/
- 102549 getafe.tomalosbarrios.net/2012/02/09/acta-gt-laboral-08-02-2012/
+  99280 getafe.tomalosbarrios.net/files/2012/02/botijo.jpg
+  96497 getafe.tomalosbarrios.net/2012/02/19/asamblea-general-getafe-15m-19-02-2012/
+  94119 getafe.tomalosbarrios.net/2012/02/24/concentracion-el-agua-es-tuya-defiendela/
+  93343 getafe.tomalosbarrios.net/files/2012/02/LA-PISCINA-MUNICIPAL-DE-GETAFE-NORTE-SE-VENDE-POR-40-AÑOS.pdf
+  93282 getafe.tomalosbarrios.net/2012/02/22/no-a-la-privatizacion-de-la-piscina-getafe-norte-manifestacion-jueves-23-a-las-18h/
+  93280 getafe.tomalosbarrios.net/files/2012/02/Cartel-III-Foro-Educacion-Getafe.pdf
+  93276 getafe.tomalosbarrios.net/2012/02/22/iii-foro-de-la-educacion-de-getafe/
+  90913 getafe.tomalosbarrios.net/files/2011/07/Guía-Legal-La-represión-y-los-MMSS-GT-Apoyo-a-agredidos-15M.pdf
   85722 getafe.tomalosbarrios.net/2012/02/07/acta-07022012-asamblea-de-accion-sanidad-y-apoyo-a-detenidxs/
+  84761 getafe.tomalosbarrios.net/files/2012/02/madrid15m_n_0.pdf
+  84758 getafe.tomalosbarrios.net/2012/02/09/nace-madrid15m-el-periodico-autogestionado-de-asambleas/
   81275 getafe.tomalosbarrios.net/files/2012/02/7-DE-FEBRERO-2012.pdf
-  80581 getafe.tomalosbarrios.net/2012/02/06/3%c2%aa-jornada-de-reflexion-getafe-15m-12-02-2012/
   80585 getafe.tomalosbarrios.net/files/2012/02/Jornadas-de-Reflexión-12-Febrero.pdf
+  80581 getafe.tomalosbarrios.net/2012/02/06/3%c2%aa-jornada-de-reflexion-getafe-15m-12-02-2012/
   80315 getafe.tomalosbarrios.net/files/2012/02/eJES-Y-TEMÁTICAS.png
   80310 getafe.tomalosbarrios.net/2012/02/05/acta-asamblea-general-05-02-2012/
   77227 getafe.tomalosbarrios.net/files/2011/07/15M_G_primera_Jornada_Reflexion_dic.2011_opiniones_ordenadas.pdf
   77217 getafe.tomalosbarrios.net/2012/02/04/presentacion-en-defensa-de-la-escuela-publica-comunidad-de-madrid-2/
   76535 getafe.tomalosbarrios.net/files/2012/02/Jornada-Reflexión-3-12-2011.jpg
-  76182 getafe.tomalosbarrios.net/2012/02/03/domingo-a-las-11-00h-recuperacion-de-los-espacios-publicos/
+  76529 getafe.tomalosbarrios.net/2011/12/03/76529/
   76243 getafe.tomalosbarrios.net/files/2012/02/Centros_civicos_realmente_estan_al_servicio_del_ciudadano.png
   76183 getafe.tomalosbarrios.net/files/2012/02/Comunicado-Centros-Cívicos.pdf
- 102546 getafe.tomalosbarrios.net/2012/02/02/acta-gt-laboral-01-02-2012/
+  76182 getafe.tomalosbarrios.net/2012/02/03/domingo-a-las-11-00h-recuperacion-de-los-espacios-publicos/
   73012 getafe.tomalosbarrios.net/files/2012/02/Mario-Benedetti.jpg
-  71168 getafe.tomalosbarrios.net/2012/01/30/convocatoria-asamblea-general-05-02-2012/
-  71173 getafe.tomalosbarrios.net/files/2012/01/cartel_asamblea_5_febrero.pdf
-  62414 getafe.tomalosbarrios.net/2012/01/30/comunicado-de-ls-trabajadors-de-la-piscina-municipal-de-getafe-norte/
+  73009 getafe.tomalosbarrios.net/2012/01/21/acta-asamblea-general-21-01-2012/
   72482 getafe.tomalosbarrios.net/2012/01/26/recordatorio-para-bankia/
+  71173 getafe.tomalosbarrios.net/files/2012/01/cartel_asamblea_5_febrero.pdf
+  71168 getafe.tomalosbarrios.net/2012/01/30/convocatoria-asamblea-general-05-02-2012/
+  65575 getafe.tomalosbarrios.net/2012/01/24/acta-comision-web-25-01-2012/
   63485 getafe.tomalosbarrios.net/files/2012/01/johanna_copia.png
   63128 getafe.tomalosbarrios.net/2012/01/24/representacion-juicio-a-la-escuela-publica-y-asamblea-tematica-28-1-2012/
-  65575 getafe.tomalosbarrios.net/2012/01/24/acta-comision-web-25-01-2012/
   62419 getafe.tomalosbarrios.net/files/2012/01/Piscina-getafe.jpg
-  73009 getafe.tomalosbarrios.net/2012/01/21/acta-asamblea-general-21-01-2012/
-  58873 getafe.tomalosbarrios.net/2012/01/19/acta-gt-vivienda-19-1-2012/
-  55685 getafe.tomalosbarrios.net/2012/01/17/convocatoria-asamblea-general-21-01-2012/
-  55691 getafe.tomalosbarrios.net/files/2012/01/cartel_asamblea_21_enero.pdf
+  62414 getafe.tomalosbarrios.net/2012/01/30/comunicado-de-ls-trabajadors-de-la-piscina-municipal-de-getafe-norte/
   61188 getafe.tomalosbarrios.net/2012/01/17/acta-comision-web-17-01-2012/
+  58873 getafe.tomalosbarrios.net/2012/01/19/acta-gt-vivienda-19-1-2012/
   58728 getafe.tomalosbarrios.net/2012/01/17/acta-desanida/
-  53552 getafe.tomalosbarrios.net/2012/01/15/primera-reunion-de-la-comision-mixta-de-desahucios-19-1-2012/
+  55691 getafe.tomalosbarrios.net/files/2012/01/cartel_asamblea_21_enero.pdf
+  55685 getafe.tomalosbarrios.net/2012/01/17/convocatoria-asamblea-general-21-01-2012/
+  54506 getafe.tomalosbarrios.net/2012/01/12/acta-vivienda-12-1-2012/
   53556 getafe.tomalosbarrios.net/files/2012/01/Comisión-de-Desahucios487.pdf
   53555 getafe.tomalosbarrios.net/files/2012/01/Comisión-de-Desahucios486.pdf
- 170379 getafe.tomalosbarrios.net/2012/01/14/170379/
-  47779 getafe.tomalosbarrios.net/2012/01/13/2%c2%aa-jornada-de-reflexion-asamblea-getafe-15m/
-  54506 getafe.tomalosbarrios.net/2012/01/12/acta-vivienda-12-1-2012/
-  49659 getafe.tomalosbarrios.net/2012/01/12/pide-al-ayto-de-getafe-que-mantenga-las-escuelas-infantiles-municipales-0-6/
+  53552 getafe.tomalosbarrios.net/2012/01/15/primera-reunion-de-la-comision-mixta-de-desahucios-19-1-2012/
+  51199 getafe.tomalosbarrios.net/2012/01/10/acta-comision-web-10-01-2012/
+  49853 getafe.tomalosbarrios.net/2012/01/08/acta-asamblea-general-8-01-2012/
   49711 getafe.tomalosbarrios.net/files/2012/01/El-Prado.png
   49709 getafe.tomalosbarrios.net/files/2012/01/escuela-pública8.png
-  51199 getafe.tomalosbarrios.net/2012/01/10/acta-comision-web-10-01-2012/
+  49659 getafe.tomalosbarrios.net/2012/01/12/pide-al-ayto-de-getafe-que-mantenga-las-escuelas-infantiles-municipales-0-6/
+  48800 getafe.tomalosbarrios.net/2012/01/03/acta-sanidad-y-medioambiente-3-1-2012/
   47783 getafe.tomalosbarrios.net/files/2012/01/Jornada-Reflexión-Hombre.pdf
   47782 getafe.tomalosbarrios.net/files/2012/01/Jornada-Reflexión-Mujer.pdf
-  47508 getafe.tomalosbarrios.net/2012/01/10/desahucios-y-lucha-colectiva/
+  47779 getafe.tomalosbarrios.net/2012/01/13/2%c2%aa-jornada-de-reflexion-asamblea-getafe-15m/
   47560 getafe.tomalosbarrios.net/files/2012/01/Desahucio-getafe-3.png
   47515 getafe.tomalosbarrios.net/files/2012/01/Desahucio-getafe.png
   47514 getafe.tomalosbarrios.net/files/2012/01/stop-desahucios.png
   47513 getafe.tomalosbarrios.net/files/2012/01/Este-banco-engaña.png
-  49853 getafe.tomalosbarrios.net/2012/01/08/acta-asamblea-general-8-01-2012/
-  40856 getafe.tomalosbarrios.net/2012/01/08/convocatoria-asamblea-general-8-01-2012/
+  47508 getafe.tomalosbarrios.net/2012/01/10/desahucios-y-lucha-colectiva/
+  41067 getafe.tomalosbarrios.net/2012/01/02/acta-com-comunicacion-2-01-2012/
   41065 getafe.tomalosbarrios.net/files/2011/07/Recomendaciones-para-la-publicación-en-el-blog-de-la-Asamblea-Getafe-15M.pdf
   41064 getafe.tomalosbarrios.net/files/2011/07/Recordatorio-Herramientas-Asambleas.pdf
-  48800 getafe.tomalosbarrios.net/2012/01/03/acta-sanidad-y-medioambiente-3-1-2012/
   40859 getafe.tomalosbarrios.net/files/2012/01/3-cartel_asamblea_negro_Gunplay.pdf
-  40767 getafe.tomalosbarrios.net/2012/01/03/recordando-el-28-mayo-de-2010-%c2%bfalguien-lo-puede-explicar/
+  40856 getafe.tomalosbarrios.net/2012/01/08/convocatoria-asamblea-general-8-01-2012/
   40771 getafe.tomalosbarrios.net/files/2012/01/Aplausos.png
   40770 getafe.tomalosbarrios.net/files/2012/01/Foto-joaquín.png
-  41067 getafe.tomalosbarrios.net/2012/01/02/acta-com-comunicacion-2-01-2012/
-  33608 getafe.tomalosbarrios.net/2011/12/28/cabalgata-indignada-28-12-2011/
+  40767 getafe.tomalosbarrios.net/2012/01/03/recordando-el-28-mayo-de-2010-%c2%bfalguien-lo-puede-explicar/
   34673 getafe.tomalosbarrios.net/2011/12/27/acta-comision-infraestructura-27-12-11/
   33612 getafe.tomalosbarrios.net/files/2011/12/cabalgata1.jpg
+  33608 getafe.tomalosbarrios.net/2011/12/28/cabalgata-indignada-28-12-2011/
   32697 getafe.tomalosbarrios.net/files/2011/07/Modificar-fechas-de-publicación-y-Entradas-Permanentes.pdf
   32695 getafe.tomalosbarrios.net/files/2011/07/Manual-WP-Getafe-15-M-Autor.pdf
   30061 getafe.tomalosbarrios.net/2011/12/21/acta-com-infraestructuras-21-12-2012/
+  29391 getafe.tomalosbarrios.net/2011/09/06/acta-sanidad-6-9-2011/
   25957 getafe.tomalosbarrios.net/2011/12/17/acta-comision-web-16-12-2011/
-  13983 getafe.tomalosbarrios.net/2011/12/14/concentracion-por-una-vivienda-digna-17-12-2011-19h/
-  13940 getafe.tomalosbarrios.net/2011/12/14/manifiesto-getafe-ciudad-libre-de-desahucios/
-  23557 getafe.tomalosbarrios.net/2011/12/12/acta-com-comunicacion-12-12-2011/
-  20734 getafe.tomalosbarrios.net/2011/12/11/convocatoria-pasacalles-por-una-sanidad-publica-y-de-calidad/
-  23435 getafe.tomalosbarrios.net/2011/12/10/acta-asamblea-general-10-12-2011/
   24980 getafe.tomalosbarrios.net/2011/12/10/convocatoria-asamblea-general-10-12-2011/
-  17751 getafe.tomalosbarrios.net/2011/12/07/impidamos-el-desahucio-de-paco/
+  23557 getafe.tomalosbarrios.net/2011/12/12/acta-com-comunicacion-12-12-2011/
+  23444 getafe.tomalosbarrios.net/2011/11/30/acta-gt-economia-y-politica-30-11-2011/
+  23440 getafe.tomalosbarrios.net/2011/11/23/acta-gt-economia-y-politica-23112011/
+  23435 getafe.tomalosbarrios.net/2011/12/10/acta-asamblea-general-10-12-2011/
   23430 getafe.tomalosbarrios.net/2011/12/07/acta-gt-sanidad-y-medioambiente-7-12-2011/
   21642 getafe.tomalosbarrios.net/2011/12/07/acta-reunion-gt-cultura-7-12-2011/
   21639 getafe.tomalosbarrios.net/2011/12/07/acta-reunion-com-infraestructuras-7-12-2011/
+  20734 getafe.tomalosbarrios.net/2011/12/11/convocatoria-pasacalles-por-una-sanidad-publica-y-de-calidad/
+  20185 getafe.tomalosbarrios.net/2011/12/01/acta-vivienda-1-12-2011/
+  17751 getafe.tomalosbarrios.net/2011/12/07/impidamos-el-desahucio-de-paco/
+  13983 getafe.tomalosbarrios.net/2011/12/14/concentracion-por-una-vivienda-digna-17-12-2011-19h/
   13948 getafe.tomalosbarrios.net/files/2011/12/Manifiesto-17d.pdf
   13945 getafe.tomalosbarrios.net/files/2011/12/Logo-getafe.jpg
-  76529 getafe.tomalosbarrios.net/2011/12/03/76529/
-  20185 getafe.tomalosbarrios.net/2011/12/01/acta-vivienda-1-12-2011/
-  12644 getafe.tomalosbarrios.net/2011/12/01/defendamos-la-educacion-infantil-en-getafe/
-  23444 getafe.tomalosbarrios.net/2011/11/30/acta-gt-economia-y-politica-30-11-2011/
-  11213 getafe.tomalosbarrios.net/2011/11/29/asamblea-getafe-15m-contra-la-privatizacion-del-canal-de-isabel-ii/
+  13940 getafe.tomalosbarrios.net/2011/12/14/manifiesto-getafe-ciudad-libre-de-desahucios/
+  13098 getafe.tomalosbarrios.net/2011/11/23/acta-com-infraestructuras-23-11-2011/
+  12877 getafe.tomalosbarrios.net/2011/11/22/acta-gt-cultura-8-15-22-11-2011/
+  12873 getafe.tomalosbarrios.net/2011/11/16/acta-com-infraestructuras-16-11-2011/
   12648 getafe.tomalosbarrios.net/2011/11/28/acta-com-comunicacion-28-11-2011/
+  12644 getafe.tomalosbarrios.net/2011/12/01/defendamos-la-educacion-infantil-en-getafe/
+  11213 getafe.tomalosbarrios.net/2011/11/29/asamblea-getafe-15m-contra-la-privatizacion-del-canal-de-isabel-ii/
+  11208 getafe.tomalosbarrios.net/2011/11/21/acta-gt-laboral-21-11-2011/
   10467 getafe.tomalosbarrios.net/2011/11/26/acta-asamblea-general-26-11-2011/
-   7279 getafe.tomalosbarrios.net/2011/11/26/convocatoria-asamblea-general-26-11-2011/
    9330 getafe.tomalosbarrios.net/2011/11/25/convocatoria-marchas-27-n-por-la-huelga-general/
+   9325 getafe.tomalosbarrios.net/2011/11/16/acta-gt-economia-y-politica-16-11-2011/
    9201 getafe.tomalosbarrios.net/files/2011/11/cartel-concentracion.pdf
    9200 getafe.tomalosbarrios.net/files/2011/11/MANIFIESTO-CONTRA-LA-PRIVATIZACION-DE-CANAL-ISABEL-II.pdf
    9199 getafe.tomalosbarrios.net/files/2011/11/notadeprensa.pdf
-  13098 getafe.tomalosbarrios.net/2011/11/23/acta-com-infraestructuras-23-11-2011/
-  23440 getafe.tomalosbarrios.net/2011/11/23/acta-gt-economia-y-politica-23112011/
+   8366 getafe.tomalosbarrios.net/2011/11/21/acta-gt-local-21-11-2011/
    8361 getafe.tomalosbarrios.net/2011/11/22/acta-gt-sanidad-y-medioambiente-22-11-2011/
    7861 getafe.tomalosbarrios.net/2011/11/22/creacion-de-la-cuenta-asamblea-getafe-15m-en-el-foro-de-asambleas/
-  12877 getafe.tomalosbarrios.net/2011/11/22/acta-gt-cultura-8-15-22-11-2011/
-   8366 getafe.tomalosbarrios.net/2011/11/21/acta-gt-local-21-11-2011/
-  11208 getafe.tomalosbarrios.net/2011/11/21/acta-gt-laboral-21-11-2011/
+   7686 getafe.tomalosbarrios.net/2011/11/14/acta-gt-local-14-11-2011/
+   7359 getafe.tomalosbarrios.net/2011/11/14/acta-gt-laboral-14-11-2011/
+   7279 getafe.tomalosbarrios.net/2011/11/26/convocatoria-asamblea-general-26-11-2011/
    7215 getafe.tomalosbarrios.net/files/2011/11/Borrador-cartel-mani-17d.pdf
    7213 getafe.tomalosbarrios.net/2011/11/17/acta-gt-vivienda-17-11-2011/
-   9325 getafe.tomalosbarrios.net/2011/11/16/acta-gt-economia-y-politica-16-11-2011/
-  12873 getafe.tomalosbarrios.net/2011/11/16/acta-com-infraestructuras-16-11-2011/
+   6733 getafe.tomalosbarrios.net/2011/11/08/acta-gt-sanidad-y-medioambiente-8-11-2011/
    4906 getafe.tomalosbarrios.net/files/2011/11/PIERRE-JOSEPH-PROUDHON.pdf
    4905 getafe.tomalosbarrios.net/files/2011/11/MIGUEL-HERNÁNDEZ-Los-hombres-viejos.pdf
-   4479 getafe.tomalosbarrios.net/2011/11/15/aviso-urgente-15-11-2011/
-   7359 getafe.tomalosbarrios.net/2011/11/14/acta-gt-laboral-14-11-2011/
-   7686 getafe.tomalosbarrios.net/2011/11/14/acta-gt-local-14-11-2011/
-   4529 getafe.tomalosbarrios.net/2011/11/14/acta-com-comunicacion-14-11-2011/
    4766 getafe.tomalosbarrios.net/2011/11/13/acta-asamblea-general-13-11-2011/
-   2258 getafe.tomalosbarrios.net/2011/11/12/convocatoria-asamblea-general-13-11-2011/
+   4529 getafe.tomalosbarrios.net/2011/11/14/acta-com-comunicacion-14-11-2011/
+   4479 getafe.tomalosbarrios.net/2011/11/15/aviso-urgente-15-11-2011/
+   4475 getafe.tomalosbarrios.net/2011/11/07/acta-gt-laboral-7-11-2011/
    3617 getafe.tomalosbarrios.net/2011/11/12/acta-comision-web-9-11-2011/
    3553 getafe.tomalosbarrios.net/2011/11/10/acta-gt-vivienda-10-11-2011/
-   3246 getafe.tomalosbarrios.net/2011/11/09/acta-com-infraestructuras-9-11-2011/
-   6733 getafe.tomalosbarrios.net/2011/11/08/acta-gt-sanidad-y-medioambiente-8-11-2011/
-   4475 getafe.tomalosbarrios.net/2011/11/07/acta-gt-laboral-7-11-2011/
-   3249 getafe.tomalosbarrios.net/2011/11/07/acta-gt-local-7-11-2011/
-   2347 getafe.tomalosbarrios.net/2011/11/07/acta-reunion-comunicacion-7-11-2011/
-   1758 getafe.tomalosbarrios.net/2011/11/06/vivienda-02-11-2011/
    3253 getafe.tomalosbarrios.net/2011/11/03/acta-gt-economia-3-11-2011/
+   3249 getafe.tomalosbarrios.net/2011/11/07/acta-gt-local-7-11-2011/
+   3246 getafe.tomalosbarrios.net/2011/11/09/acta-com-infraestructuras-9-11-2011/
+   2347 getafe.tomalosbarrios.net/2011/11/07/acta-reunion-comunicacion-7-11-2011/
+   2258 getafe.tomalosbarrios.net/2011/11/12/convocatoria-asamblea-general-13-11-2011/
+   1775 getafe.tomalosbarrios.net/2011/10/30/acta-asamblea-general-30-12-2011/
+   1763 getafe.tomalosbarrios.net/2011/11/02/1763/
+   1758 getafe.tomalosbarrios.net/2011/11/06/vivienda-02-11-2011/
+   1357 getafe.tomalosbarrios.net/2011/11/03/debate-abierto-sobre-la-portavocia-en-la-asamblea-getafe-15m-2/
    1342 getafe.tomalosbarrios.net/2011/11/03/jornada-reflexion-sistema-electoral/
    1338 getafe.tomalosbarrios.net/2011/11/03/acta-comision-web-01-11-2011/
-   1357 getafe.tomalosbarrios.net/2011/11/03/debate-abierto-sobre-la-portavocia-en-la-asamblea-getafe-15m-2/
-   1763 getafe.tomalosbarrios.net/2011/11/02/1763/
    1328 getafe.tomalosbarrios.net/files/2011/11/silvestre-y-piolin.jpg
-   1278 getafe.tomalosbarrios.net/2011/10/31/pasacalles-2-de-noviembre-la-sanidad-es-un-derecho-no-un-negocio/
-   1775 getafe.tomalosbarrios.net/2011/10/30/acta-asamblea-general-30-12-2011/
    1295 getafe.tomalosbarrios.net/2011/10/29/acta-comision-web-28-10-2011/
-   1261 getafe.tomalosbarrios.net/2011/10/28/1261/
-   1272 getafe.tomalosbarrios.net/2011/10/27/acta-de-sanidad-y-medio-ambiente-25-10-2011/
-   1286 getafe.tomalosbarrios.net/2011/10/26/acta-com-infraestructuras-26-10-2011/
-   1257 getafe.tomalosbarrios.net/2011/10/25/cuatro-desahucios-suspendidos-en-getafe-torrejon-leganes-y-moratalaz/
-   1269 getafe.tomalosbarrios.net/2011/10/24/acta-reunion-com-comunicacion-24-10-2011/
    1290 getafe.tomalosbarrios.net/2011/10/23/acta-asamblea-general-23-10-2011/
-   1236 getafe.tomalosbarrios.net/calendario/
+   1286 getafe.tomalosbarrios.net/2011/10/26/acta-com-infraestructuras-26-10-2011/
+   1278 getafe.tomalosbarrios.net/2011/10/31/pasacalles-2-de-noviembre-la-sanidad-es-un-derecho-no-un-negocio/
+   1272 getafe.tomalosbarrios.net/2011/10/27/acta-de-sanidad-y-medio-ambiente-25-10-2011/
+   1269 getafe.tomalosbarrios.net/2011/10/24/acta-reunion-com-comunicacion-24-10-2011/
+   1261 getafe.tomalosbarrios.net/2011/10/28/1261/
+   1257 getafe.tomalosbarrios.net/2011/10/25/cuatro-desahucios-suspendidos-en-getafe-torrejon-leganes-y-moratalaz/
+   1242 getafe.tomalosbarrios.net/2011/10/17/acta-gt-laboral-17-10-2011/
    1238 getafe.tomalosbarrios.net/2011/10/19/acta-com-infraestructuras-19-10-2011/
-   1224 getafe.tomalosbarrios.net/2011/10/18/asamblea-general-getafe-15m-23-10-2011/
+   1236 getafe.tomalosbarrios.net/calendario/
+   1232 getafe.tomalosbarrios.net/2011/10/17/acta-com-comunicacion-17-10-11/
    1226 getafe.tomalosbarrios.net/files/2011/10/cartel_asamblea_ultm_mod.pdf
+   1224 getafe.tomalosbarrios.net/2011/10/18/asamblea-general-getafe-15m-23-10-2011/
    1222 getafe.tomalosbarrios.net/files/2011/10/Tarde-en-Verde..jpg
    1221 getafe.tomalosbarrios.net/files/2011/10/Tarde-en-Verde.pdf
    1218 getafe.tomalosbarrios.net/files/2011/10/Tarde-en-Verde.jpg
    1212 getafe.tomalosbarrios.net/2011/10/17/acta-de-sanidad-y-medio-ambiente-11-10-2011/
    1206 getafe.tomalosbarrios.net/2011/10/17/%c2%a1alerta-vecinal/
-   1242 getafe.tomalosbarrios.net/2011/10/17/acta-gt-laboral-17-10-2011/
-   1232 getafe.tomalosbarrios.net/2011/10/17/acta-com-comunicacion-17-10-11/
-   1173 getafe.tomalosbarrios.net/2011/10/13/15o-%c2%a1%c2%a1tomemos-las-calles-del-mundo-el-15-de-octubre%e2%80%8f/
    1198 getafe.tomalosbarrios.net/2011/10/12/liberty-park-resiste-la-embestida-del-poder/
+   1194 getafe.tomalosbarrios.net/2011/10/10/acta-gt-laboral-10-10-2011/
    1189 getafe.tomalosbarrios.net/2011/10/10/acta-com-comunicacion-10-10-2011/
+   1173 getafe.tomalosbarrios.net/2011/10/13/15o-%c2%a1%c2%a1tomemos-las-calles-del-mundo-el-15-de-octubre%e2%80%8f/
+   1164 getafe.tomalosbarrios.net/2011/10/09/acta-asamblea-general-9-10-2011/
    1162 getafe.tomalosbarrios.net/2011/10/10/debate-abierto-sobre-la-portavocia-en-la-asamblea-getafe-15m/
    1159 getafe.tomalosbarrios.net/files/2011/10/torre-vigilancia2.jpg
-   1194 getafe.tomalosbarrios.net/2011/10/10/acta-gt-laboral-10-10-2011/
-   1164 getafe.tomalosbarrios.net/2011/10/09/acta-asamblea-general-9-10-2011/
    1156 getafe.tomalosbarrios.net/2011/10/08/occupy-wall-street-de-la-invisibilidad-a-las-portadas/
    1151 getafe.tomalosbarrios.net/2011/10/08/jornada-multicultural-en-getafe/
-   1140 getafe.tomalosbarrios.net/2011/10/07/la-asamblea-getafe-15-m-pide-la-nacionalizacion-de-la-banca-por-una-banca-publica-al-servicio-del-pueblo/
    1143 getafe.tomalosbarrios.net/files/2011/10/flyer-banca-1.png
+   1140 getafe.tomalosbarrios.net/2011/10/07/la-asamblea-getafe-15-m-pide-la-nacionalizacion-de-la-banca-por-una-banca-publica-al-servicio-del-pueblo/
    1127 getafe.tomalosbarrios.net/2011/10/07/acta-reunion-grupo-de-trabajo-de-vivienda/
    1121 getafe.tomalosbarrios.net/2011/10/06/acta-gt-infraestructuras-5octubre2011/
    1117 getafe.tomalosbarrios.net/2011/10/06/asamblea-de-pueblos-del-sur/
    1113 getafe.tomalosbarrios.net/2011/10/05/articulo-desde-liberty-park-new-york-occupy-wall-street/
-   1103 getafe.tomalosbarrios.net/2011/10/05/convocatoria-asamblea-general-9-de-octubre-2011/
    1110 getafe.tomalosbarrios.net/2011/10/03/acta-com-comunicacion-3-10-2011/
-   1089 getafe.tomalosbarrios.net/2011/10/01/debate-sobre-el-estado-de-la-educacion/
+   1103 getafe.tomalosbarrios.net/2011/10/05/convocatoria-asamblea-general-9-de-octubre-2011/
+   1099 getafe.tomalosbarrios.net/2011/09/25/acta-asamblea-general-25-09-2011/
    1093 getafe.tomalosbarrios.net/files/2011/10/PROGRAMA-SÁBADO1.png
+   1089 getafe.tomalosbarrios.net/2011/10/01/debate-sobre-el-estado-de-la-educacion/
    1085 getafe.tomalosbarrios.net/2011/10/01/acta-sanidad-y-medio-ambiente-27-09-2011/
    1078 getafe.tomalosbarrios.net/2011/09/29/pasacalles-informativo-sobre-el-desahucio-de-isabel/
-   1067 getafe.tomalosbarrios.net/2011/09/26/apoyo-a-lxs-detenidxs-por-una-vivienda-digna/
    1071 getafe.tomalosbarrios.net/files/2011/09/Web_BannerDetenidxsV_300x162.jpg
    1070 getafe.tomalosbarrios.net/files/2011/09/Web_CartelMani_detenidxsV_300x230.jpg
+   1067 getafe.tomalosbarrios.net/2011/09/26/apoyo-a-lxs-detenidxs-por-una-vivienda-digna/
    1059 getafe.tomalosbarrios.net/2011/09/26/ni-copago-ni-privatizacion/
    1055 getafe.tomalosbarrios.net/2011/09/26/acta-sanidad-y-medio-ambiente-20-9-2011/
-   1099 getafe.tomalosbarrios.net/2011/09/25/acta-asamblea-general-25-09-2011/
-   1044 getafe.tomalosbarrios.net/2011/09/23/acta-asamblea-infraestructuras-21-septiembre-2011/
    1049 getafe.tomalosbarrios.net/2011/09/22/acta-coordinacion-gt-y-comisiones-22-09-2011/
+   1044 getafe.tomalosbarrios.net/2011/09/23/acta-asamblea-infraestructuras-21-septiembre-2011/
    1035 getafe.tomalosbarrios.net/files/2011/09/Página2.png
+   1033 getafe.tomalosbarrios.net/2011/09/19/acta-com-comunicacion-19-09-2011-2/
    1030 getafe.tomalosbarrios.net/files/2011/09/Acta-Comunicación-19-09-2011.pdf
    1026 getafe.tomalosbarrios.net/files/2011/09/Esquema.png
-   1006 getafe.tomalosbarrios.net/2011/09/20/apoyamos-la-lucha-de-los-profesores-de-getafe/
+   1019 getafe.tomalosbarrios.net/2011/09/19/acta-gt-local-19-09-2011/
    1011 getafe.tomalosbarrios.net/files/2011/09/CONCENTRACIÓN-PROFES-GETAFE.pdf
    1009 getafe.tomalosbarrios.net/files/2011/09/CONCENTRACIÓN-PROFES-GETAE.pdf
+   1006 getafe.tomalosbarrios.net/2011/09/20/apoyamos-la-lucha-de-los-profesores-de-getafe/
    1000 getafe.tomalosbarrios.net/2011/09/20/la-acera-para-los-peatones-bicicletas-a-la-calzada/
     992 getafe.tomalosbarrios.net/2011/09/20/acciones-paralizacion-desahucio/
-   1033 getafe.tomalosbarrios.net/2011/09/19/acta-com-comunicacion-19-09-2011-2/
-   1019 getafe.tomalosbarrios.net/2011/09/19/acta-gt-local-19-09-2011/
     975 getafe.tomalosbarrios.net/2011/09/19/acta-de-social-vivienda-de-getafe-13-9-2011/
     968 getafe.tomalosbarrios.net/2011/09/19/bando-informativo-sobre-el-desahucio-de-isabel/
     963 getafe.tomalosbarrios.net/2011/09/17/acta-comunicacion-12-9-2011/
-    955 getafe.tomalosbarrios.net/2011/09/15/acta-web-14-9-2011/
     959 getafe.tomalosbarrios.net/files/2011/09/ishikawa1.png
     958 getafe.tomalosbarrios.net/files/2011/09/ishikawa.png
+    955 getafe.tomalosbarrios.net/2011/09/15/acta-web-14-9-2011/
     948 getafe.tomalosbarrios.net/2011/09/15/acta-de-local-12-9-2011/
     941 getafe.tomalosbarrios.net/2011/09/14/semana-de-la-movilidad/
     933 getafe.tomalosbarrios.net/2011/09/14/prueba/
     928 getafe.tomalosbarrios.net/2011/09/12/%c2%a1%c2%a1%c2%a1urgente-evaluacion-360%c2%ba-y-dafo-asamblea-getafe-15m/
     919 getafe.tomalosbarrios.net/2011/09/12/acta-del-gt-de-sanidad-y-m-ambiente-6-9-2011/
-  29391 getafe.tomalosbarrios.net/2011/09/06/acta-sanidad-6-9-2011/
     883 getafe.tomalosbarrios.net/2011/09/05/acta-asamblea-com-comunicacion-5-09-2011/
     877 getafe.tomalosbarrios.net/2011/09/03/acta-asamblea-general-03-09-2011/
     870 getafe.tomalosbarrios.net/2011/08/30/la-reforma-de-la-constitucion/
@@ -724,89 +724,90 @@
     859 getafe.tomalosbarrios.net/2011/08/30/acta-29-agosto-2011-asamblea-extraordinaria/
     847 getafe.tomalosbarrios.net/2011/07/30/acta-asamblea-general-30-07-2011/
     844 getafe.tomalosbarrios.net/2011/07/28/asamblea-general-30-08-2011/
-    835 getafe.tomalosbarrios.net/2011/07/26/comunicado-sobre-los-deshaucios-leido-el-21j/
     839 getafe.tomalosbarrios.net/files/2011/07/Protesta-en-banco.jpg
+    835 getafe.tomalosbarrios.net/2011/07/26/comunicado-sobre-los-deshaucios-leido-el-21j/
     827 getafe.tomalosbarrios.net/2011/07/22/marcha-popular-indignada-actividades-para-el-23j-24j-y-25j-desde-sol/
     823 getafe.tomalosbarrios.net/files/2011/07/pacto-euro2.png
+    819 getafe.tomalosbarrios.net/2011/07/16/acta-general-16-07-2011/
     805 getafe.tomalosbarrios.net/2011/07/19/la-gran-pollada-21j/
     800 getafe.tomalosbarrios.net/files/2011/07/LA-GRAN-POLLADA.pdf
     790 getafe.tomalosbarrios.net/2011/07/19/marcha-popular-indignada-21j-getafe/
-    819 getafe.tomalosbarrios.net/2011/07/16/acta-general-16-07-2011/
     766 getafe.tomalosbarrios.net/2011/07/16/marcha-popular-indignada-columna-este-23j/
     760 getafe.tomalosbarrios.net/2011/07/16/acta-comision-de-coordinacion-de-marchas-23j-15-07-2011/
+    753 getafe.tomalosbarrios.net/2011/07/13/acta-economia-13-07-2011/
     745 getafe.tomalosbarrios.net/2011/07/15/reunion-de-coordinacion-de-marchas-21j/
     738 getafe.tomalosbarrios.net/2011/07/14/acta-asamblea-general-9-7-2011/
     733 getafe.tomalosbarrios.net/2011/07/13/asamblea-general-getafe-15m-16-07-2011/
     727 getafe.tomalosbarrios.net/2011/07/13/acta-coordinacion-de-comisiones-7-07-2011/
     726 getafe.tomalosbarrios.net/files/2011/07/as1.jpg
     719 getafe.tomalosbarrios.net/2011/07/13/acta-organizacion-12-07-2011/
-    753 getafe.tomalosbarrios.net/2011/07/13/acta-economia-13-07-2011/
     714 getafe.tomalosbarrios.net/files/2011/07/Madrid-toma-los-barrios.png
     713 getafe.tomalosbarrios.net/files/2011/07/Plataforma-afectados-Hipoteca.png
     712 getafe.tomalosbarrios.net/files/2011/07/acampada-sol.png
     711 getafe.tomalosbarrios.net/files/2011/07/marcha-popular-indignada.png
     703 getafe.tomalosbarrios.net/2011/07/12/acta-comision-de-coordinacion-de-marchas-23j-10-07-2011/
     702 getafe.tomalosbarrios.net/files/2011/07/Punto-difusión.png
-    690 getafe.tomalosbarrios.net/2011/07/12/comunicado-ante-la-visita-del-papa/
-    673 getafe.tomalosbarrios.net/ayuda-y-manuales/
     696 getafe.tomalosbarrios.net/2011/07/11/acta-educacion-y-cultura-11-07-2011/
+    690 getafe.tomalosbarrios.net/2011/07/12/comunicado-ante-la-visita-del-papa/
+    685 getafe.tomalosbarrios.net/2011/07/06/acta-trabajo-social-06-07-2011/
+    673 getafe.tomalosbarrios.net/ayuda-y-manuales/
     655 getafe.tomalosbarrios.net/sitios-hermans/
     654 getafe.tomalosbarrios.net/2011/07/10/coordinacion-de-marchas-23j/
-    646 getafe.tomalosbarrios.net/2011/07/08/propuestas-vivienda/
-    616 getafe.tomalosbarrios.net/2011/07/07/acta-economia-y-politica-06-07-2011/
-    625 getafe.tomalosbarrios.net/2011/07/06/625/
-    685 getafe.tomalosbarrios.net/2011/07/06/acta-trabajo-social-06-07-2011/
-    621 getafe.tomalosbarrios.net/2011/07/04/acta-difusion-4-06-2011/
-    548 getafe.tomalosbarrios.net/2011/07/04/comunicado-1%c2%aa-asamblea-de-pueblos/
     651 getafe.tomalosbarrios.net/2011/07/02/acta-asamblea-general-2-07-2011/
+    646 getafe.tomalosbarrios.net/2011/07/08/propuestas-vivienda/
+    638 getafe.tomalosbarrios.net/2011/06/27/acta-educacion-y-cultura-27-06-2011/
+    625 getafe.tomalosbarrios.net/2011/07/06/625/
+    621 getafe.tomalosbarrios.net/2011/07/04/acta-difusion-4-06-2011/
+    616 getafe.tomalosbarrios.net/2011/07/07/acta-economia-y-politica-06-07-2011/
+    548 getafe.tomalosbarrios.net/2011/07/04/comunicado-1%c2%aa-asamblea-de-pueblos/
     539 getafe.tomalosbarrios.net/2011/06/30/acta-coordinacion-comisones/
-    483 getafe.tomalosbarrios.net/2011/06/30/acta-asamblea-26-06-2011/
-    506 getafe.tomalosbarrios.net/2011/06/29/acta-de-la-reunion-de-la-subcomision-de-redaccion-y-diseno-29junio2011/
+    529 getafe.tomalosbarrios.net/2011/06/27/acta-local-27-06-2011/
+    518 getafe.tomalosbarrios.net/2011/06/21/acta-sanidad-y-medioambiente-21-06-2011/
     513 getafe.tomalosbarrios.net/2011/06/29/acta-economia-y-politica-29-06-2011/
-    460 getafe.tomalosbarrios.net/2011/06/29/fotocronica-26-06-2011/
-    454 getafe.tomalosbarrios.net/2011/06/29/comunicado-visita-papa/
-    479 getafe.tomalosbarrios.net/2011/06/29/acta-social-29-06-2011/
-    446 getafe.tomalosbarrios.net/2011/06/28/asamblea-pueblos-del-sur-de-madrid/
-    447 getafe.tomalosbarrios.net/files/2011/06/Asamblea_Pueblos_del_Sur1.pdf
-    439 getafe.tomalosbarrios.net/2011/06/28/getafe-con-el-pueblo-de-grecia/
+    506 getafe.tomalosbarrios.net/2011/06/29/acta-de-la-reunion-de-la-subcomision-de-redaccion-y-diseno-29junio2011/
+    502 getafe.tomalosbarrios.net/2011/06/27/acta-difusion-27-06-2011/
     492 getafe.tomalosbarrios.net/2011/06/28/accion-contra-la-corrupcion-politica/
     488 getafe.tomalosbarrios.net/2011/06/28/acta-web-28-06-2011/
-    435 getafe.tomalosbarrios.net/2011/06/27/asamblea-getafe-15-m-02072011/
-    502 getafe.tomalosbarrios.net/2011/06/27/acta-difusion-27-06-2011/
-    529 getafe.tomalosbarrios.net/2011/06/27/acta-local-27-06-2011/
-    638 getafe.tomalosbarrios.net/2011/06/27/acta-educacion-y-cultura-27-06-2011/
-    426 getafe.tomalosbarrios.net/2011/06/27/acta-coordinacion-23-06-2011/
+    483 getafe.tomalosbarrios.net/2011/06/30/acta-asamblea-26-06-2011/
+    479 getafe.tomalosbarrios.net/2011/06/29/acta-social-29-06-2011/
     465 getafe.tomalosbarrios.net/2011/06/26/acta-diseno-redaccion-26-06-2011/
-    378 getafe.tomalosbarrios.net/files/2011/06/form.jpg
-    189 getafe.tomalosbarrios.net/contacta/
-    304 getafe.tomalosbarrios.net/2011/06/23/proxima-asamblea-popular-de-getafe-26-junio/
-    357 getafe.tomalosbarrios.net/2011/06/22/acta-politica-y-economia-22-06-2011%e2%80%8f/
-    375 getafe.tomalosbarrios.net/2011/06/22/asamblea-de-la-subcomision-de-diseno-y-redaccion-22-de-junio-de-2011/
-    347 getafe.tomalosbarrios.net/2011/06/21/acta-difusion-21-06-2011/
-    518 getafe.tomalosbarrios.net/2011/06/21/acta-sanidad-y-medioambiente-21-06-2011/
+    460 getafe.tomalosbarrios.net/2011/06/29/fotocronica-26-06-2011/
+    454 getafe.tomalosbarrios.net/2011/06/29/comunicado-visita-papa/
+    447 getafe.tomalosbarrios.net/files/2011/06/Asamblea_Pueblos_del_Sur1.pdf
+    446 getafe.tomalosbarrios.net/2011/06/28/asamblea-pueblos-del-sur-de-madrid/
+    439 getafe.tomalosbarrios.net/2011/06/28/getafe-con-el-pueblo-de-grecia/
+    435 getafe.tomalosbarrios.net/2011/06/27/asamblea-getafe-15-m-02072011/
+    426 getafe.tomalosbarrios.net/2011/06/27/acta-coordinacion-23-06-2011/
+    422 getafe.tomalosbarrios.net/2011/06/20/acta-social-20-06-2011/
     383 getafe.tomalosbarrios.net/2011/06/21/acta-web-21-06-2011/
+    378 getafe.tomalosbarrios.net/files/2011/06/form.jpg
+    375 getafe.tomalosbarrios.net/2011/06/22/asamblea-de-la-subcomision-de-diseno-y-redaccion-22-de-junio-de-2011/
+    357 getafe.tomalosbarrios.net/2011/06/22/acta-politica-y-economia-22-06-2011%e2%80%8f/
+    347 getafe.tomalosbarrios.net/2011/06/21/acta-difusion-21-06-2011/
+    339 getafe.tomalosbarrios.net/2011/06/21/acta-legal-y-accion-21-06-11/
     331 getafe.tomalosbarrios.net/2011/06/21/acta-local-20-06-11/
     324 getafe.tomalosbarrios.net/2011/06/21/acta-reunion-coordinacion-18-06-2011/
-    339 getafe.tomalosbarrios.net/2011/06/21/acta-legal-y-accion-21-06-11/
-    422 getafe.tomalosbarrios.net/2011/06/20/acta-social-20-06-2011/
+    317 getafe.tomalosbarrios.net/2011/06/15/acta-comision-economia-y-politica-15-06-2011-asamblea-popular-getafe-15m/
     310 getafe.tomalosbarrios.net/2011/06/20/convocatoria-pegada-carteles/
-    280 getafe.tomalosbarrios.net/2011/06/20/proxima-reuniones-de-comisiones/
+    304 getafe.tomalosbarrios.net/2011/06/23/proxima-asamblea-popular-de-getafe-26-junio/
     289 getafe.tomalosbarrios.net/2011/06/20/columna-pedro-patino-durante-el-19-j/
-    262 getafe.tomalosbarrios.net/2011/06/19/fotocronica-columna-pedro-patino/
+    280 getafe.tomalosbarrios.net/2011/06/20/proxima-reuniones-de-comisiones/
     272 getafe.tomalosbarrios.net/2011/06/19/272/
+    268 getafe.tomalosbarrios.net/2011/06/08/acta-organizacion-8-06-11/
+    262 getafe.tomalosbarrios.net/2011/06/19/fotocronica-columna-pedro-patino/
     261 getafe.tomalosbarrios.net/files/2011/06/LogoN-1.png
     252 getafe.tomalosbarrios.net/2011/06/19/actasocial15-06-2011/
-    223 getafe.tomalosbarrios.net/2011/06/18/marcha-madrid-19j/
     244 getafe.tomalosbarrios.net/2011/06/18/la-asamblea-popular-de-getafe-desmiente-las-acusaciones-vertidas-por-juan-soler/
     235 getafe.tomalosbarrios.net/2011/06/18/acta-local-16-06-11/
-    209 getafe.tomalosbarrios.net/2011/06/15/jornadas-n-1-red-social-del-movimiento-15-m/
-    317 getafe.tomalosbarrios.net/2011/06/15/acta-comision-economia-y-politica-15-06-2011-asamblea-popular-getafe-15m/
-    195 getafe.tomalosbarrios.net/2011/06/15/video-promocional-de-la-marcha-19-j/
+    223 getafe.tomalosbarrios.net/2011/06/18/marcha-madrid-19j/
     214 getafe.tomalosbarrios.net/2011/06/14/acta-organizacion-14-06-11/
-    174 getafe.tomalosbarrios.net/suscribete-2/
+    209 getafe.tomalosbarrios.net/2011/06/15/jornadas-n-1-red-social-del-movimiento-15-m/
+    195 getafe.tomalosbarrios.net/2011/06/15/video-promocional-de-la-marcha-19-j/
+    189 getafe.tomalosbarrios.net/contacta/
     184 getafe.tomalosbarrios.net/files/2011/06/inscripción-por-mail.png
     180 getafe.tomalosbarrios.net/files/2011/06/suscripción-ahora-marcadores-dinámicos.png
     179 getafe.tomalosbarrios.net/files/2011/06/suscripción-por-rss.png
+    174 getafe.tomalosbarrios.net/suscribete-2/
     171 getafe.tomalosbarrios.net/files/2011/06/Cartel-19J-Definitivo.jpg
     165 getafe.tomalosbarrios.net/2011/06/14/acta-educacion-cultura-y-deporte-6-6-11/
     160 getafe.tomalosbarrios.net/2011/06/14/fotocronica-de-la-asamblea-pupular-de-getafe-del-dia-11062011/
@@ -822,7 +823,6 @@
      55 getafe.tomalosbarrios.net/files/2011/06/LogoRSS.png
      54 getafe.tomalosbarrios.net/files/2011/06/LogoTwitter.png
      53 getafe.tomalosbarrios.net/files/2011/06/LogoFacebook.png
-    268 getafe.tomalosbarrios.net/2011/06/08/acta-organizacion-8-06-11/
      42 getafe.tomalosbarrios.net/2011/06/07/acta-asamblea-dia-5-de-junio-de-2011/
      25 getafe.tomalosbarrios.net/2011/06/06/proxima-asamblea-popular-de-getafe-2/
      19 getafe.tomalosbarrios.net/2011/06/06/proximas-reuniones-de-comisiones-y-grupos-de-trabajo/

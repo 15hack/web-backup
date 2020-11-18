@@ -139,4 +139,28 @@ FROM
 
 DROP TABLE temp_phpbb_posts;
 
+ALTER TABLE wk_pages RENAME TO temp_wk_pages;
+
+CREATE TABLE wk_pages (
+  site INTEGER REFERENCES sites(ID),
+  ID INTEGER,
+  namespace INTEGER,
+  date TEXT,
+  modified TEXT,
+  content TEXT,
+  title TEXT,
+  url TEXT,
+  PRIMARY KEY (site, id)
+);
+
+INSERT INTO wk_pages
+    (site, ID, namespace, date, modified, content, title, url)
+SELECT
+    site, ID, namespace, date, modified, content, title, url
+FROM
+    temp_wk_pages
+where url is not null;
+
+DROP TABLE temp_wk_pages;
+
 COMMIT;

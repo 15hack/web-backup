@@ -1,4 +1,3 @@
-254 trescantos.tomalosbarrios.net/2014/02/12/todos-los-sabados-a-las-1200-h/
 340 trescantos.tomalosbarrios.net/documentos/actas-asamblea-popular-de-tres-cantos-2014/
 324 trescantos.tomalosbarrios.net/links/links-antirepresion/
 322 trescantos.tomalosbarrios.net/links/nuestros-videos/
@@ -11,6 +10,7 @@
 271 trescantos.tomalosbarrios.net/files/2013/03/AP3C_Acta_20130209.rtf
 268 trescantos.tomalosbarrios.net/documentos/actas-2013/
 260 trescantos.tomalosbarrios.net/links/
+254 trescantos.tomalosbarrios.net/2014/02/12/todos-los-sabados-a-las-1200-h/
 246 trescantos.tomalosbarrios.net/comunicados/tagarral/
 203 trescantos.tomalosbarrios.net/2011/07/31/modificacion-del-calendario-de-las-asambleas-todos-los-miercoles/
 196 trescantos.tomalosbarrios.net/2011/07/22/manifestaciones-15m-sabado-23-y-domingo-24/
@@ -29,8 +29,8 @@
  64 trescantos.tomalosbarrios.net/2011/06/17/cambio-de-horario-de-las-asambleas/
  59 trescantos.tomalosbarrios.net/foro/
  57 trescantos.tomalosbarrios.net/2011/06/07/acta-de-la-segunda-asamblea-de-tres-cantos/
- 43 trescantos.tomalosbarrios.net/2011/06/06/foro/
  47 trescantos.tomalosbarrios.net/2011/06/06/carteles/
+ 43 trescantos.tomalosbarrios.net/2011/06/06/foro/
  35 trescantos.tomalosbarrios.net/2011/06/04/proximos-encuentros-grupos-de-trabajo-y-carteleria/
  24 trescantos.tomalosbarrios.net/2011/06/03/puntos-propuestos-para-la-asamblea-04062011/
  20 trescantos.tomalosbarrios.net/2011/06/03/acta-de-constitucion-de-la-asamblea-de-tres-cantos/

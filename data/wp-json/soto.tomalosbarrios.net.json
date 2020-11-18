@@ -1,384 +1,384 @@
 [
-    {
-        "id": 14,
-        "date": "2011-06-07T18:36:42",
-        "date_gmt": "2011-06-07T18:36:42",
-        "guid": {
-            "rendered": "http://soto.tomalosbarrios.net/?page_id=14"
-        },
-        "modified": "2011-06-07T21:52:10",
-        "modified_gmt": "2011-06-07T20:52:10",
-        "slug": "contacto",
-        "status": "publish",
-        "type": "page",
-        "link": "https://soto.tomalosbarrios.net/contacto/",
-        "title": {
-            "rendered": "Contacto"
-        },
-        "content": {
-            "rendered": "<p>Las diferentes formas que tienes de contactar con Asamblea Popular Soto del Real:</p>\n<p>&nbsp;</p>\n<p><strong>e-mail:</strong> asambleasoto@gmail.com</p>\n<p><strong>facebook:</strong> Asamblea Popular Soto del Real</p>\n<p><strong>grupo Google:</strong> http://groups.google.com/group/asambleasoto</p>\n<p><strong>twitter:</strong> @asambleasoto</p>\n<p><strong>tuenti:</strong> Soto del Real</p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Las diferentes formas que tienes de contactar con Asamblea Popular Soto del Real: &nbsp; e-mail: asambleasoto@gmail.com facebook: Asamblea Popular Soto del Real grupo Google: http://groups.google.com/group/asambleasoto twitter: @asambleasoto tuenti: Soto del Real</p>\n",
-            "protected": false
-        },
-        "author": 304,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "open",
-        "ping_status": "open",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/pages/14"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/users/304"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/comments?post=14"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 4,
-                    "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/pages/14/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 16,
-                    "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/pages/14/revisions/16"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/media?parent=14"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
+  {
+    "id": 14,
+    "date": "2011-06-07T18:36:42",
+    "date_gmt": "2011-06-07T18:36:42",
+    "guid": {
+      "rendered": "http://soto.tomalosbarrios.net/?page_id=14"
     },
-    {
-        "id": 12,
-        "date": "2011-06-07T18:33:44",
-        "date_gmt": "2011-06-07T18:33:44",
-        "guid": {
-            "rendered": "http://soto.tomalosbarrios.net/?page_id=12"
-        },
-        "modified": "2011-06-07T21:27:53",
-        "modified_gmt": "2011-06-07T20:27:53",
-        "slug": "actas",
-        "status": "publish",
-        "type": "page",
-        "link": "https://soto.tomalosbarrios.net/actas/",
-        "title": {
-            "rendered": "Actas"
-        },
-        "content": {
-            "rendered": "<p><strong>Acta N\u00ba 1 : 28 de mayo de 2011</strong></p>\n<p><!--more--></p>\n<p>1. Periodicidad de las asambleas:<br />\n\u2022 Pr\u00f3xima asamblea: S\u00e1bado 4 de junio de 2011 a las 12:00 en la Plaza del Ayuntamiento.<br />\n\u2022 Se intentar\u00e1 mantener el lugar y horario de las asambleas: 12:00 de la ma\u00f1ana en la Plaza<br />\ndel Ayuntamiento.<br />\n\u2022 En las pr\u00f3ximas asambleas se decidir\u00e1 los d\u00edas o periodicidad de las siguientes asambleas.</p>\n<p>2. Comunicaci\u00f3n entre los integrantes de las asambleas:<br />\n\u2022 La comunicaci\u00f3n entre los integrantes de las asambleas se realizar\u00e1 mediante e-mail, blogs&#8230;<br />\n\u2022 Comisi\u00f3n de comunicaci\u00f3n:<br />\n\u2013 Ana<br />\n\u2013 Nacho<br />\n\u2013 David<br />\n\u2013 Max<br />\n\u2013 Fernando<br />\n\u2013 Daniel<br />\n\u2013 Felix</p>\n<p>3. Representantes para la asamblea en la plaza de Sol 29/mayo/2011:<br />\n\u2022 Se reunir\u00e1n en la esquina del Rodilla a las 11:55<br />\n\u2013 Sonsoles<br />\n\u2013 Tania<br />\n\u2013 Sol<br />\n\u2013 Juan Pedro<br />\n\u2013 Ana</p>\n<p>4. Acampada de Sol:<br />\n\u2022 Transmitirles nuestro apoyo<br />\n\u2022 Que no quiten las asambleas de Sol</p>\n<p>5. Decisiones sobre las asambleas de Sol:<br />\n\u2022 Creemos importante marcas tiempos razonables para la toma de decisiones desde los<br />\npueblos hacia Sol.</p>\n<p>6. Objetivos de las asambleas de Soto del Real:<br />\n\u2022 Objetivos nacionales<br />\n\u2022 Objetivos locales</p>\n<p>7. Entretenimiento para ni\u00f1os: grupo de voluntarios<br />\n-Pablo<br />\n&#8211; Miriam<br />\n&#8211; Andrea<br />\n-Sara<br />\n&#8211; Mar\u00eda<br />\n&#8211; Kim<br />\n&#8211; Nacho<br />\n* Hay m\u00e1s gente que se ir\u00e1n apuntando</p>\n<p>8. N\u00famero de asistentes a la asamblea:<br />\n\u2022 se ha contado un ir y venir de aproximadamente 150 personas.</p>\n<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211;</p>\n<p><strong>Acta N\u00ba 2 : 4 de junio de 2011</strong></p>\n<p>Se informa de la asamblea general celebrada en Sol el d\u00eda 29/5/2011.</p>\n<p>El grupo de comunicaci\u00f3n, informa de los sitios de Internet donde est\u00e1<br />\npresente la asamblea de Soto del Real:<br />\n\u2022 Creaci\u00f3n de un grupo en Google. <a href=\"http://groups.google.com/group/\" target=\"_blank\">groups.google.com/group/</a>asambleasoto , este grupo tiene asignado un e-mail,<br />\n<a href=\"mailto:asambleasoto@gmail.com\">asambleasoto@gmail.com</a>.<br />\n\u2022P\u00e1gina web, <a href=\"http://soto.tomalosbarrios.net/\" target=\"_blank\">soto.tomalosbarrios.net</a>.<br />\n\u2022Tambi\u00e9n estamos en Facebook, Twenti y Tweeter</p>\n<p>Orden del d\u00eda:</p>\n<p>\u2022 Consenso de m\u00ednimos de la Asamblea General de Acampada Sol:<br />\n1 \u2013 Reforma electoral, encaminada a una democracia mas representativa<br />\ny de proporcionalidad real con el objetivo adicional de desarrollar<br />\nmecanismos efectivos de participaci\u00f3n ciudadana.<br />\n2 \u2013 Luchar contra la corrupci\u00f3n mediante normas orientadas a una total<br />\ntransparencia pol\u00edtica.<br />\n3 \u2013 Separaci\u00f3n efectiva de los poderes p\u00fablicos.<br />\n4 \u2013 Creaci\u00f3n de mecanismos de control ciudadano para la exigencia<br />\nefectiva de responsabilidad pol\u00edtica.</p>\n<p>\u2022 D\u00eda y hora de las asambleas de Soto del Real, todos los s\u00e1bados a<br />\nlas 12:00h en la plaza del Ayuntamiento.</p>\n<p>\u2022 Reforma electoral, se propone crear un apartado en el e-mail sobre<br />\nlas leyes.</p>\n<p>\u2022 Comunicaci\u00f3n con la Asamblea General Acampada Sol v\u00eda e-mail.</p>\n<p>\u2022 Creaci\u00f3n de un grupo rotativo en las Asambleas de Tomalosbarrios en<br />\nSol.</p>\n<p>\u2022 Creaci\u00f3n de una comisi\u00f3n de an\u00e1lisis legislativo.</p>\n<p>Se llega a un consenso por unanimidad de todos los puntos anteriores.</p>\n<p>Otros temas tratados:</p>\n<p>\u2022 Plenos del Ayuntamiento.<br />\nAsistencia a los plenos del Ayuntamiento solicitando voluntarios<br />\npara asistir a los mismos. \u00a0 \u00a0 \u00a0 \u00a0Elevar propuestas a los partidos<br />\npol\u00edticos para que sean tratadas en los plenos y hacer un<br />\nseguimiento.<br />\nEl grupo de comunicaci\u00f3n informar\u00e1 cuando se celebrar\u00e1n los<br />\nplenos.</p>\n<p>Se llega a un consenso por unanimidad.</p>\n<p>\u2022 Pleno de investidura del d\u00eda 11 de junio.<br />\nTras un intenso debate y m\u00faltiples propuestas sobre la asistencia al<br />\nmismo, se consens\u00faa no asistir ya que podr\u00eda ser considerado como una<br />\npostura en contra de un partido pol\u00edtico.</p>\n<p>\u2022 Apoyar el car\u00e1cter no partidista de esta movilizaci\u00f3n. Consenso por<br />\nunanimidad</p>\n<p>Un grupo de la Asamblea de Soto, asisti\u00f3 a la asamblea de pueblos que<br />\nse celebr\u00f3 en Manzanares el Real, en la que hubo representaci\u00f3n de 29<br />\npueblos, en la que el representante de cada pueblo inform\u00f3 de las<br />\nacciones emprendidas en cada una de sus Asambleas y de las que mas<br />\nadelante informaremos.</p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Acta N\u00ba 1 : 28 de mayo de 2011</p>\n",
-            "protected": false
-        },
-        "author": 304,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "open",
-        "ping_status": "open",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/pages/12"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/users/304"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/comments?post=12"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 8,
-                    "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/pages/12/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 34,
-                    "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/pages/12/revisions/34"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/media?parent=12"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
+    "modified": "2011-06-07T21:52:10",
+    "modified_gmt": "2011-06-07T20:52:10",
+    "slug": "contacto",
+    "status": "publish",
+    "type": "page",
+    "link": "https://soto.tomalosbarrios.net/contacto/",
+    "title": {
+      "rendered": "Contacto"
     },
-    {
-        "id": 5,
-        "date": "2011-06-07T17:43:55",
-        "date_gmt": "2011-06-07T17:43:55",
-        "guid": {
-            "rendered": "http://soto.tomalosbarrios.net/?p=5"
-        },
-        "modified": "2011-06-07T17:43:55",
-        "modified_gmt": "2011-06-07T17:43:55",
-        "slug": "asamblea-popular-soto-del-real",
-        "status": "publish",
-        "type": "post",
-        "link": "https://soto.tomalosbarrios.net/2011/06/07/asamblea-popular-soto-del-real/",
-        "title": {
-            "rendered": "Asamblea Popular Soto del Real"
-        },
-        "content": {
-            "rendered": "<p>Seg\u00fan lo consensuado en la \u00faltima asamblea se convoca una nueva para el S\u00e1bado 11 de Junio, en la plaza del pueblo, a las 12h.</p>\n<p>Es importante la asistencia, ya que coincide con el d\u00eda de la investidura de la alcaldesa y los nuevos cargos electos. Os invitamos a participar para demostrar que el pueblo no est\u00e1 dormido.</p>\n<p>Recordad que tambi\u00e9n habr\u00e1 un grupo de apoyo infantil dedicado a divertir a l@s m\u00e1s j\u00f3venes.</p>\n<p>Saludos, os esperamos a tod@s.</p>\n<p><a href=\"http://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI.jpg\"><img class=\"alignnone size-medium wp-image-6\" src=\"http://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI-212x300.jpg\" alt=\"\" width=\"212\" height=\"300\" srcset=\"https://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI-212x300.jpg 212w, https://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI.jpg 424w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Seg\u00fan lo consensuado en la \u00faltima asamblea se convoca una nueva para el S\u00e1bado 11 de Junio, en la plaza del pueblo, a las 12h. Es importante la asistencia, ya que coincide con el d\u00eda de la investidura de la &hellip; <a href=\"https://soto.tomalosbarrios.net/2011/06/07/asamblea-popular-soto-del-real/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
-            "protected": false
-        },
-        "author": 304,
-        "featured_media": 0,
-        "comment_status": "open",
-        "ping_status": "open",
-        "sticky": false,
-        "template": "",
-        "format": "standard",
-        "meta": [],
-        "categories": [
-            1
-        ],
-        "tags": [],
-        "jetpack_featured_media_url": "",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/posts/5"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/posts"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/types/post"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/users/304"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/comments?post=5"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 3,
-                    "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/posts/5/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 9,
-                    "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/posts/5/revisions/9"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/media?parent=5"
-                }
-            ],
-            "wp:term": [
-                {
-                    "taxonomy": "category",
-                    "embeddable": true,
-                    "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/categories?post=5"
-                },
-                {
-                    "taxonomy": "post_tag",
-                    "embeddable": true,
-                    "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/tags?post=5"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
+    "content": {
+      "rendered": "<p>Las diferentes formas que tienes de contactar con Asamblea Popular Soto del Real:</p>\n<p>&nbsp;</p>\n<p><strong>e-mail:</strong> asambleasoto@gmail.com</p>\n<p><strong>facebook:</strong> Asamblea Popular Soto del Real</p>\n<p><strong>grupo Google:</strong> http://groups.google.com/group/asambleasoto</p>\n<p><strong>twitter:</strong> @asambleasoto</p>\n<p><strong>tuenti:</strong> Soto del Real</p>\n",
+      "protected": false
     },
-    {
-        "id": 6,
-        "date": "2011-06-07T17:42:32",
-        "date_gmt": "2011-06-07T17:42:32",
-        "guid": {
-            "rendered": "http://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI.jpg"
-        },
-        "modified": "2011-06-07T17:42:32",
-        "modified_gmt": "2011-06-07T17:42:32",
-        "slug": "cartel_asamblea_11junio_mini",
-        "status": "inherit",
-        "type": "attachment",
-        "link": "https://soto.tomalosbarrios.net/2011/06/07/asamblea-popular-soto-del-real/cartel_asamblea_11junio_mini/",
-        "title": {
-            "rendered": "Cartel Asamblea 11/06"
-        },
-        "author": 304,
-        "comment_status": "open",
-        "ping_status": "open",
-        "template": "",
-        "meta": [],
-        "description": {
-            "rendered": "<p class=\"attachment\"><a href='https://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI.jpg'><img width=\"212\" height=\"300\" src=\"https://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI-212x300.jpg 212w, https://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI.jpg 424w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
-        },
-        "caption": {
-            "rendered": ""
-        },
-        "alt_text": "",
-        "media_type": "image",
-        "mime_type": "image/jpeg",
-        "media_details": {
-            "width": "424",
-            "height": "600",
-            "hwstring_small": "height='96' width='67'",
-            "file": "2011/06/cartel_asamblea_11junio_MINI.jpg",
-            "sizes": {
-                "thumbnail": {
-                    "file": "cartel_asamblea_11junio_MINI-150x150.jpg",
-                    "width": "150",
-                    "height": "150",
-                    "source_url": "https://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI-150x150.jpg"
-                },
-                "medium": {
-                    "file": "cartel_asamblea_11junio_MINI-212x300.jpg",
-                    "width": "212",
-                    "height": "300",
-                    "source_url": "https://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI-212x300.jpg"
-                },
-                "post-thumbnail": {
-                    "file": "cartel_asamblea_11junio_MINI-424x198.jpg",
-                    "width": "424",
-                    "height": "198",
-                    "source_url": "https://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI-424x198.jpg"
-                },
-                "full": {
-                    "file": "cartel_asamblea_11junio_MINI.jpg",
-                    "width": 424,
-                    "height": 600,
-                    "mime_type": "image/jpeg",
-                    "source_url": "https://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI.jpg"
-                }
-            },
-            "image_meta": {
-                "aperture": "0",
-                "credit": "",
-                "camera": "",
-                "caption": "",
-                "created_timestamp": "0",
-                "copyright": "",
-                "focal_length": "0",
-                "iso": "0",
-                "shutter_speed": "0",
-                "title": ""
-            }
-        },
-        "post": 5,
-        "source_url": "https://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI.jpg",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/media/6"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/media"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/types/attachment"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/users/304"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/comments?post=6"
-                }
-            ]
+    "excerpt": {
+      "rendered": "<p>Las diferentes formas que tienes de contactar con Asamblea Popular Soto del Real: &nbsp; e-mail: asambleasoto@gmail.com facebook: Asamblea Popular Soto del Real grupo Google: http://groups.google.com/group/asambleasoto twitter: @asambleasoto tuenti: Soto del Real</p>\n",
+      "protected": false
+    },
+    "author": 304,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "open",
+    "ping_status": "open",
+    "template": "",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/pages/14"
         }
+      ],
+      "collection": [
+        {
+          "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/users/304"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/comments?post=14"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 4,
+          "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/pages/14/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 16,
+          "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/pages/14/revisions/16"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/media?parent=14"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
     }
+  },
+  {
+    "id": 12,
+    "date": "2011-06-07T18:33:44",
+    "date_gmt": "2011-06-07T18:33:44",
+    "guid": {
+      "rendered": "http://soto.tomalosbarrios.net/?page_id=12"
+    },
+    "modified": "2011-06-07T21:27:53",
+    "modified_gmt": "2011-06-07T20:27:53",
+    "slug": "actas",
+    "status": "publish",
+    "type": "page",
+    "link": "https://soto.tomalosbarrios.net/actas/",
+    "title": {
+      "rendered": "Actas"
+    },
+    "content": {
+      "rendered": "<p><strong>Acta N\u00ba 1 : 28 de mayo de 2011</strong></p>\n<p><!--more--></p>\n<p>1. Periodicidad de las asambleas:<br />\n\u2022 Pr\u00f3xima asamblea: S\u00e1bado 4 de junio de 2011 a las 12:00 en la Plaza del Ayuntamiento.<br />\n\u2022 Se intentar\u00e1 mantener el lugar y horario de las asambleas: 12:00 de la ma\u00f1ana en la Plaza<br />\ndel Ayuntamiento.<br />\n\u2022 En las pr\u00f3ximas asambleas se decidir\u00e1 los d\u00edas o periodicidad de las siguientes asambleas.</p>\n<p>2. Comunicaci\u00f3n entre los integrantes de las asambleas:<br />\n\u2022 La comunicaci\u00f3n entre los integrantes de las asambleas se realizar\u00e1 mediante e-mail, blogs&#8230;<br />\n\u2022 Comisi\u00f3n de comunicaci\u00f3n:<br />\n\u2013 Ana<br />\n\u2013 Nacho<br />\n\u2013 David<br />\n\u2013 Max<br />\n\u2013 Fernando<br />\n\u2013 Daniel<br />\n\u2013 Felix</p>\n<p>3. Representantes para la asamblea en la plaza de Sol 29/mayo/2011:<br />\n\u2022 Se reunir\u00e1n en la esquina del Rodilla a las 11:55<br />\n\u2013 Sonsoles<br />\n\u2013 Tania<br />\n\u2013 Sol<br />\n\u2013 Juan Pedro<br />\n\u2013 Ana</p>\n<p>4. Acampada de Sol:<br />\n\u2022 Transmitirles nuestro apoyo<br />\n\u2022 Que no quiten las asambleas de Sol</p>\n<p>5. Decisiones sobre las asambleas de Sol:<br />\n\u2022 Creemos importante marcas tiempos razonables para la toma de decisiones desde los<br />\npueblos hacia Sol.</p>\n<p>6. Objetivos de las asambleas de Soto del Real:<br />\n\u2022 Objetivos nacionales<br />\n\u2022 Objetivos locales</p>\n<p>7. Entretenimiento para ni\u00f1os: grupo de voluntarios<br />\n-Pablo<br />\n&#8211; Miriam<br />\n&#8211; Andrea<br />\n-Sara<br />\n&#8211; Mar\u00eda<br />\n&#8211; Kim<br />\n&#8211; Nacho<br />\n* Hay m\u00e1s gente que se ir\u00e1n apuntando</p>\n<p>8. N\u00famero de asistentes a la asamblea:<br />\n\u2022 se ha contado un ir y venir de aproximadamente 150 personas.</p>\n<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211;</p>\n<p><strong>Acta N\u00ba 2 : 4 de junio de 2011</strong></p>\n<p>Se informa de la asamblea general celebrada en Sol el d\u00eda 29/5/2011.</p>\n<p>El grupo de comunicaci\u00f3n, informa de los sitios de Internet donde est\u00e1<br />\npresente la asamblea de Soto del Real:<br />\n\u2022 Creaci\u00f3n de un grupo en Google. <a href=\"http://groups.google.com/group/\" target=\"_blank\">groups.google.com/group/</a>asambleasoto , este grupo tiene asignado un e-mail,<br />\n<a href=\"mailto:asambleasoto@gmail.com\">asambleasoto@gmail.com</a>.<br />\n\u2022P\u00e1gina web, <a href=\"http://soto.tomalosbarrios.net/\" target=\"_blank\">soto.tomalosbarrios.net</a>.<br />\n\u2022Tambi\u00e9n estamos en Facebook, Twenti y Tweeter</p>\n<p>Orden del d\u00eda:</p>\n<p>\u2022 Consenso de m\u00ednimos de la Asamblea General de Acampada Sol:<br />\n1 \u2013 Reforma electoral, encaminada a una democracia mas representativa<br />\ny de proporcionalidad real con el objetivo adicional de desarrollar<br />\nmecanismos efectivos de participaci\u00f3n ciudadana.<br />\n2 \u2013 Luchar contra la corrupci\u00f3n mediante normas orientadas a una total<br />\ntransparencia pol\u00edtica.<br />\n3 \u2013 Separaci\u00f3n efectiva de los poderes p\u00fablicos.<br />\n4 \u2013 Creaci\u00f3n de mecanismos de control ciudadano para la exigencia<br />\nefectiva de responsabilidad pol\u00edtica.</p>\n<p>\u2022 D\u00eda y hora de las asambleas de Soto del Real, todos los s\u00e1bados a<br />\nlas 12:00h en la plaza del Ayuntamiento.</p>\n<p>\u2022 Reforma electoral, se propone crear un apartado en el e-mail sobre<br />\nlas leyes.</p>\n<p>\u2022 Comunicaci\u00f3n con la Asamblea General Acampada Sol v\u00eda e-mail.</p>\n<p>\u2022 Creaci\u00f3n de un grupo rotativo en las Asambleas de Tomalosbarrios en<br />\nSol.</p>\n<p>\u2022 Creaci\u00f3n de una comisi\u00f3n de an\u00e1lisis legislativo.</p>\n<p>Se llega a un consenso por unanimidad de todos los puntos anteriores.</p>\n<p>Otros temas tratados:</p>\n<p>\u2022 Plenos del Ayuntamiento.<br />\nAsistencia a los plenos del Ayuntamiento solicitando voluntarios<br />\npara asistir a los mismos. \u00a0 \u00a0 \u00a0 \u00a0Elevar propuestas a los partidos<br />\npol\u00edticos para que sean tratadas en los plenos y hacer un<br />\nseguimiento.<br />\nEl grupo de comunicaci\u00f3n informar\u00e1 cuando se celebrar\u00e1n los<br />\nplenos.</p>\n<p>Se llega a un consenso por unanimidad.</p>\n<p>\u2022 Pleno de investidura del d\u00eda 11 de junio.<br />\nTras un intenso debate y m\u00faltiples propuestas sobre la asistencia al<br />\nmismo, se consens\u00faa no asistir ya que podr\u00eda ser considerado como una<br />\npostura en contra de un partido pol\u00edtico.</p>\n<p>\u2022 Apoyar el car\u00e1cter no partidista de esta movilizaci\u00f3n. Consenso por<br />\nunanimidad</p>\n<p>Un grupo de la Asamblea de Soto, asisti\u00f3 a la asamblea de pueblos que<br />\nse celebr\u00f3 en Manzanares el Real, en la que hubo representaci\u00f3n de 29<br />\npueblos, en la que el representante de cada pueblo inform\u00f3 de las<br />\nacciones emprendidas en cada una de sus Asambleas y de las que mas<br />\nadelante informaremos.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Acta N\u00ba 1 : 28 de mayo de 2011</p>\n",
+      "protected": false
+    },
+    "author": 304,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "open",
+    "ping_status": "open",
+    "template": "",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/pages/12"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/users/304"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/comments?post=12"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 8,
+          "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/pages/12/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 34,
+          "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/pages/12/revisions/34"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/media?parent=12"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "date": "2011-06-07T17:42:32",
+    "date_gmt": "2011-06-07T17:42:32",
+    "guid": {
+      "rendered": "http://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI.jpg"
+    },
+    "modified": "2011-06-07T17:42:32",
+    "modified_gmt": "2011-06-07T17:42:32",
+    "slug": "cartel_asamblea_11junio_mini",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://soto.tomalosbarrios.net/2011/06/07/asamblea-popular-soto-del-real/cartel_asamblea_11junio_mini/",
+    "title": {
+      "rendered": "Cartel Asamblea 11/06"
+    },
+    "author": 304,
+    "comment_status": "open",
+    "ping_status": "open",
+    "template": "",
+    "meta": [],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI.jpg'><img width=\"212\" height=\"300\" src=\"https://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI-212x300.jpg 212w, https://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI.jpg 424w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    },
+    "caption": {
+      "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": "424",
+      "height": "600",
+      "hwstring_small": "height='96' width='67'",
+      "file": "2011/06/cartel_asamblea_11junio_MINI.jpg",
+      "sizes": {
+        "thumbnail": {
+          "file": "cartel_asamblea_11junio_MINI-150x150.jpg",
+          "width": "150",
+          "height": "150",
+          "source_url": "https://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI-150x150.jpg"
+        },
+        "medium": {
+          "file": "cartel_asamblea_11junio_MINI-212x300.jpg",
+          "width": "212",
+          "height": "300",
+          "source_url": "https://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI-212x300.jpg"
+        },
+        "post-thumbnail": {
+          "file": "cartel_asamblea_11junio_MINI-424x198.jpg",
+          "width": "424",
+          "height": "198",
+          "source_url": "https://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI-424x198.jpg"
+        },
+        "full": {
+          "file": "cartel_asamblea_11junio_MINI.jpg",
+          "width": 424,
+          "height": 600,
+          "mime_type": "image/jpeg",
+          "source_url": "https://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI.jpg"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": ""
+      }
+    },
+    "post": 5,
+    "source_url": "https://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI.jpg",
+    "_links": {
+      "self": [
+        {
+          "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/media/6"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/users/304"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/comments?post=6"
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "date": "2011-06-07T17:43:55",
+    "date_gmt": "2011-06-07T17:43:55",
+    "guid": {
+      "rendered": "http://soto.tomalosbarrios.net/?p=5"
+    },
+    "modified": "2011-06-07T17:43:55",
+    "modified_gmt": "2011-06-07T17:43:55",
+    "slug": "asamblea-popular-soto-del-real",
+    "status": "publish",
+    "type": "post",
+    "link": "https://soto.tomalosbarrios.net/2011/06/07/asamblea-popular-soto-del-real/",
+    "title": {
+      "rendered": "Asamblea Popular Soto del Real"
+    },
+    "content": {
+      "rendered": "<p>Seg\u00fan lo consensuado en la \u00faltima asamblea se convoca una nueva para el S\u00e1bado 11 de Junio, en la plaza del pueblo, a las 12h.</p>\n<p>Es importante la asistencia, ya que coincide con el d\u00eda de la investidura de la alcaldesa y los nuevos cargos electos. Os invitamos a participar para demostrar que el pueblo no est\u00e1 dormido.</p>\n<p>Recordad que tambi\u00e9n habr\u00e1 un grupo de apoyo infantil dedicado a divertir a l@s m\u00e1s j\u00f3venes.</p>\n<p>Saludos, os esperamos a tod@s.</p>\n<p><a href=\"http://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI.jpg\"><img class=\"alignnone size-medium wp-image-6\" src=\"http://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI-212x300.jpg\" alt=\"\" width=\"212\" height=\"300\" srcset=\"https://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI-212x300.jpg 212w, https://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI.jpg 424w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Seg\u00fan lo consensuado en la \u00faltima asamblea se convoca una nueva para el S\u00e1bado 11 de Junio, en la plaza del pueblo, a las 12h. Es importante la asistencia, ya que coincide con el d\u00eda de la investidura de la &hellip; <a href=\"https://soto.tomalosbarrios.net/2011/06/07/asamblea-popular-soto-del-real/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+      "protected": false
+    },
+    "author": 304,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "jetpack_featured_media_url": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/posts/5"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/users/304"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/comments?post=5"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 3,
+          "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/posts/5/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 9,
+          "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/posts/5/revisions/9"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/media?parent=5"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/categories?post=5"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/tags?post=5"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
 ]

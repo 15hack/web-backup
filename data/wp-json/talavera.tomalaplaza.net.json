@@ -1,1130 +1,1130 @@
 [
-    {
-        "id": 27,
-        "date": "2012-06-05T10:01:46",
-        "date_gmt": "2012-06-05T09:01:46",
-        "guid": {
-            "rendered": "http://talavera.tomalaplaza.net/files/2012/06/cropped-250563_105329832892168_104973002927851_49056_2387397_n.jpg"
-        },
-        "modified": "2012-06-05T10:01:46",
-        "modified_gmt": "2012-06-05T09:01:46",
-        "slug": "cropped-250563_105329832892168_104973002927851_49056_2387397_n-jpg",
-        "status": "inherit",
-        "type": "attachment",
-        "link": "https://talavera.tomalaplaza.net/cropped-250563_105329832892168_104973002927851_49056_2387397_n-jpg/",
-        "title": {
-            "rendered": "cropped-250563_105329832892168_104973002927851_49056_2387397_n.jpg"
-        },
-        "author": 114,
-        "comment_status": "closed",
-        "ping_status": "open",
-        "template": "",
-        "meta": [],
-        "description": {
-            "rendered": "<p class=\"attachment\"><a href='https://talavera.tomalaplaza.net/files/2012/06/cropped-250563_105329832892168_104973002927851_49056_2387397_n.jpg'><img width=\"300\" height=\"86\" src=\"https://talavera.tomalaplaza.net/files/2012/06/cropped-250563_105329832892168_104973002927851_49056_2387397_n-300x86.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://talavera.tomalaplaza.net/files/2012/06/cropped-250563_105329832892168_104973002927851_49056_2387397_n-300x86.jpg 300w, https://talavera.tomalaplaza.net/files/2012/06/cropped-250563_105329832892168_104973002927851_49056_2387397_n-500x144.jpg 500w, https://talavera.tomalaplaza.net/files/2012/06/cropped-250563_105329832892168_104973002927851_49056_2387397_n.jpg 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>http://talavera.tomalaplaza.net/files/2012/06/cropped-250563_105329832892168_104973002927851_49056_2387397_n.jpg</p>\n"
-        },
-        "caption": {
-            "rendered": "<p>http://talavera.tomalaplaza.net/files/2012/06/cropped-250563_105329832892168_104973002927851_49056_2387397_n.jpg</p>\n"
-        },
-        "alt_text": "",
-        "media_type": "image",
-        "mime_type": "image/jpeg",
-        "media_details": {
-            "width": "1000",
-            "height": "288",
-            "hwstring_small": "height='36' width='128'",
-            "file": "2012/06/cropped-250563_105329832892168_104973002927851_49056_2387397_n.jpg",
-            "sizes": {
-                "thumbnail": {
-                    "file": "cropped-250563_105329832892168_104973002927851_49056_2387397_n-150x150.jpg",
-                    "width": "150",
-                    "height": "150",
-                    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-250563_105329832892168_104973002927851_49056_2387397_n-150x150.jpg"
-                },
-                "medium": {
-                    "file": "cropped-250563_105329832892168_104973002927851_49056_2387397_n-300x86.jpg",
-                    "width": "300",
-                    "height": "86",
-                    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-250563_105329832892168_104973002927851_49056_2387397_n-300x86.jpg"
-                },
-                "small-feature": {
-                    "file": "cropped-250563_105329832892168_104973002927851_49056_2387397_n-500x144.jpg",
-                    "width": "500",
-                    "height": "144",
-                    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-250563_105329832892168_104973002927851_49056_2387397_n-500x144.jpg"
-                },
-                "full": {
-                    "file": "cropped-250563_105329832892168_104973002927851_49056_2387397_n.jpg",
-                    "width": 1000,
-                    "height": 288,
-                    "mime_type": "image/jpeg",
-                    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-250563_105329832892168_104973002927851_49056_2387397_n.jpg"
-                }
-            },
-            "image_meta": {
-                "aperture": "0",
-                "credit": "",
-                "camera": "",
-                "caption": "",
-                "created_timestamp": "0",
-                "copyright": "",
-                "focal_length": "0",
-                "iso": "0",
-                "shutter_speed": "0",
-                "title": ""
-            }
-        },
-        "post": null,
-        "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-250563_105329832892168_104973002927851_49056_2387397_n.jpg",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media/27"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/types/attachment"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/users/114"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/comments?post=27"
-                }
-            ]
-        }
+  {
+    "id": 27,
+    "date": "2012-06-05T10:01:46",
+    "date_gmt": "2012-06-05T09:01:46",
+    "guid": {
+      "rendered": "http://talavera.tomalaplaza.net/files/2012/06/cropped-250563_105329832892168_104973002927851_49056_2387397_n.jpg"
     },
-    {
-        "id": 26,
-        "date": "2012-06-05T10:00:45",
-        "date_gmt": "2012-06-05T09:00:45",
-        "guid": {
-            "rendered": "http://talavera.tomalaplaza.net/files/2012/06/cropped-425993_241317955960021_104973002927851_496923_783157529_n.jpg"
-        },
-        "modified": "2012-06-05T10:00:45",
-        "modified_gmt": "2012-06-05T09:00:45",
-        "slug": "cropped-425993_241317955960021_104973002927851_496923_783157529_n-jpg",
-        "status": "inherit",
-        "type": "attachment",
-        "link": "https://talavera.tomalaplaza.net/cropped-425993_241317955960021_104973002927851_496923_783157529_n-jpg/",
-        "title": {
-            "rendered": "cropped-425993_241317955960021_104973002927851_496923_783157529_n.jpg"
-        },
-        "author": 114,
-        "comment_status": "closed",
-        "ping_status": "open",
-        "template": "",
-        "meta": [],
-        "description": {
-            "rendered": "<p class=\"attachment\"><a href='https://talavera.tomalaplaza.net/files/2012/06/cropped-425993_241317955960021_104973002927851_496923_783157529_n.jpg'><img width=\"300\" height=\"86\" src=\"https://talavera.tomalaplaza.net/files/2012/06/cropped-425993_241317955960021_104973002927851_496923_783157529_n-300x86.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://talavera.tomalaplaza.net/files/2012/06/cropped-425993_241317955960021_104973002927851_496923_783157529_n-300x86.jpg 300w, https://talavera.tomalaplaza.net/files/2012/06/cropped-425993_241317955960021_104973002927851_496923_783157529_n-500x144.jpg 500w, https://talavera.tomalaplaza.net/files/2012/06/cropped-425993_241317955960021_104973002927851_496923_783157529_n.jpg 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>http://talavera.tomalaplaza.net/files/2012/06/cropped-425993_241317955960021_104973002927851_496923_783157529_n.jpg</p>\n"
-        },
-        "caption": {
-            "rendered": "<p>http://talavera.tomalaplaza.net/files/2012/06/cropped-425993_241317955960021_104973002927851_496923_783157529_n.jpg</p>\n"
-        },
-        "alt_text": "",
-        "media_type": "image",
-        "mime_type": "image/jpeg",
-        "media_details": {
-            "width": "1000",
-            "height": "288",
-            "hwstring_small": "height='36' width='128'",
-            "file": "2012/06/cropped-425993_241317955960021_104973002927851_496923_783157529_n.jpg",
-            "sizes": {
-                "thumbnail": {
-                    "file": "cropped-425993_241317955960021_104973002927851_496923_783157529_n-150x150.jpg",
-                    "width": "150",
-                    "height": "150",
-                    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-425993_241317955960021_104973002927851_496923_783157529_n-150x150.jpg"
-                },
-                "medium": {
-                    "file": "cropped-425993_241317955960021_104973002927851_496923_783157529_n-300x86.jpg",
-                    "width": "300",
-                    "height": "86",
-                    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-425993_241317955960021_104973002927851_496923_783157529_n-300x86.jpg"
-                },
-                "small-feature": {
-                    "file": "cropped-425993_241317955960021_104973002927851_496923_783157529_n-500x144.jpg",
-                    "width": "500",
-                    "height": "144",
-                    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-425993_241317955960021_104973002927851_496923_783157529_n-500x144.jpg"
-                },
-                "full": {
-                    "file": "cropped-425993_241317955960021_104973002927851_496923_783157529_n.jpg",
-                    "width": 1000,
-                    "height": 288,
-                    "mime_type": "image/jpeg",
-                    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-425993_241317955960021_104973002927851_496923_783157529_n.jpg"
-                }
-            },
-            "image_meta": {
-                "aperture": "0",
-                "credit": "",
-                "camera": "",
-                "caption": "",
-                "created_timestamp": "0",
-                "copyright": "",
-                "focal_length": "0",
-                "iso": "0",
-                "shutter_speed": "0",
-                "title": ""
-            }
-        },
-        "post": null,
-        "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-425993_241317955960021_104973002927851_496923_783157529_n.jpg",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media/26"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/types/attachment"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/users/114"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/comments?post=26"
-                }
-            ]
-        }
+    "modified": "2012-06-05T10:01:46",
+    "modified_gmt": "2012-06-05T09:01:46",
+    "slug": "cropped-250563_105329832892168_104973002927851_49056_2387397_n-jpg",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://talavera.tomalaplaza.net/cropped-250563_105329832892168_104973002927851_49056_2387397_n-jpg/",
+    "title": {
+      "rendered": "cropped-250563_105329832892168_104973002927851_49056_2387397_n.jpg"
     },
-    {
-        "id": 24,
-        "date": "2012-06-05T09:48:24",
-        "date_gmt": "2012-06-05T08:48:24",
-        "guid": {
-            "rendered": "http://talavera.tomalaplaza.net/files/2012/06/cropped-320510_152306628194488_104973002927851_264601_1878254980_n.jpg"
-        },
-        "modified": "2012-06-05T09:48:24",
-        "modified_gmt": "2012-06-05T08:48:24",
-        "slug": "cropped-320510_152306628194488_104973002927851_264601_1878254980_n-jpg",
-        "status": "inherit",
-        "type": "attachment",
-        "link": "https://talavera.tomalaplaza.net/cropped-320510_152306628194488_104973002927851_264601_1878254980_n-jpg/",
-        "title": {
-            "rendered": "cropped-320510_152306628194488_104973002927851_264601_1878254980_n.jpg"
-        },
-        "author": 114,
-        "comment_status": "closed",
-        "ping_status": "open",
-        "template": "",
-        "meta": [],
-        "description": {
-            "rendered": "<p class=\"attachment\"><a href='https://talavera.tomalaplaza.net/files/2012/06/cropped-320510_152306628194488_104973002927851_264601_1878254980_n.jpg'><img width=\"300\" height=\"54\" src=\"https://talavera.tomalaplaza.net/files/2012/06/cropped-320510_152306628194488_104973002927851_264601_1878254980_n-300x54.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://talavera.tomalaplaza.net/files/2012/06/cropped-320510_152306628194488_104973002927851_264601_1878254980_n-300x54.jpg 300w, https://talavera.tomalaplaza.net/files/2012/06/cropped-320510_152306628194488_104973002927851_264601_1878254980_n.jpg 990w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>http://talavera.tomalaplaza.net/files/2012/06/cropped-320510_152306628194488_104973002927851_264601_1878254980_n.jpg</p>\n"
-        },
-        "caption": {
-            "rendered": "<p>http://talavera.tomalaplaza.net/files/2012/06/cropped-320510_152306628194488_104973002927851_264601_1878254980_n.jpg</p>\n"
-        },
-        "alt_text": "",
-        "media_type": "image",
-        "mime_type": "image/jpeg",
-        "media_details": {
-            "width": "990",
-            "height": "180",
-            "hwstring_small": "height='23' width='128'",
-            "file": "2012/06/cropped-320510_152306628194488_104973002927851_264601_1878254980_n.jpg",
-            "sizes": {
-                "thumbnail": {
-                    "file": "cropped-320510_152306628194488_104973002927851_264601_1878254980_n-150x150.jpg",
-                    "width": "150",
-                    "height": "150",
-                    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-320510_152306628194488_104973002927851_264601_1878254980_n-150x150.jpg"
-                },
-                "medium": {
-                    "file": "cropped-320510_152306628194488_104973002927851_264601_1878254980_n-300x54.jpg",
-                    "width": "300",
-                    "height": "54",
-                    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-320510_152306628194488_104973002927851_264601_1878254980_n-300x54.jpg"
-                },
-                "full": {
-                    "file": "cropped-320510_152306628194488_104973002927851_264601_1878254980_n.jpg",
-                    "width": 990,
-                    "height": 180,
-                    "mime_type": "image/jpeg",
-                    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-320510_152306628194488_104973002927851_264601_1878254980_n.jpg"
-                }
-            },
-            "image_meta": {
-                "aperture": "0",
-                "credit": "",
-                "camera": "",
-                "caption": "",
-                "created_timestamp": "0",
-                "copyright": "",
-                "focal_length": "0",
-                "iso": "0",
-                "shutter_speed": "0",
-                "title": ""
-            }
-        },
-        "post": null,
-        "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-320510_152306628194488_104973002927851_264601_1878254980_n.jpg",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media/24"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/types/attachment"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/users/114"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/comments?post=24"
-                }
-            ]
-        }
+    "author": 114,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "template": "",
+    "meta": [],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://talavera.tomalaplaza.net/files/2012/06/cropped-250563_105329832892168_104973002927851_49056_2387397_n.jpg'><img width=\"300\" height=\"86\" src=\"https://talavera.tomalaplaza.net/files/2012/06/cropped-250563_105329832892168_104973002927851_49056_2387397_n-300x86.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://talavera.tomalaplaza.net/files/2012/06/cropped-250563_105329832892168_104973002927851_49056_2387397_n-300x86.jpg 300w, https://talavera.tomalaplaza.net/files/2012/06/cropped-250563_105329832892168_104973002927851_49056_2387397_n-500x144.jpg 500w, https://talavera.tomalaplaza.net/files/2012/06/cropped-250563_105329832892168_104973002927851_49056_2387397_n.jpg 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>http://talavera.tomalaplaza.net/files/2012/06/cropped-250563_105329832892168_104973002927851_49056_2387397_n.jpg</p>\n"
     },
-    {
-        "id": 23,
-        "date": "2012-06-05T09:47:15",
-        "date_gmt": "2012-06-05T08:47:15",
-        "guid": {
-            "rendered": "http://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o-1.jpg"
-        },
-        "modified": "2012-06-05T09:47:15",
-        "modified_gmt": "2012-06-05T08:47:15",
-        "slug": "242085_110083732416778_104973002927851_94222_1736929_o-1-jpg",
-        "status": "inherit",
-        "type": "attachment",
-        "link": "https://talavera.tomalaplaza.net/242085_110083732416778_104973002927851_94222_1736929_o-1-jpg/",
-        "title": {
-            "rendered": "242085_110083732416778_104973002927851_94222_1736929_o-1.jpg"
-        },
-        "author": 114,
-        "comment_status": "closed",
-        "ping_status": "open",
-        "template": "",
-        "meta": [],
-        "description": {
-            "rendered": "<p class=\"attachment\"><a href='https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o-1.jpg'><img width=\"1\" height=\"1\" src=\"https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o-1.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" /></a></p>\n<p>http://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o-1.jpg</p>\n"
-        },
-        "caption": {
-            "rendered": "<p>http://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o-1.jpg</p>\n"
-        },
-        "alt_text": "",
-        "media_type": "image",
-        "mime_type": "image/jpeg",
-        "media_details": {},
-        "post": null,
-        "source_url": "https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o-1.jpg",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media/23"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/types/attachment"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/users/114"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/comments?post=23"
-                }
-            ]
-        }
+    "caption": {
+      "rendered": "<p>http://talavera.tomalaplaza.net/files/2012/06/cropped-250563_105329832892168_104973002927851_49056_2387397_n.jpg</p>\n"
     },
-    {
-        "id": 14,
-        "date": "2012-06-05T00:30:30",
-        "date_gmt": "2012-06-04T23:30:30",
-        "guid": {
-            "rendered": ""
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": "1000",
+      "height": "288",
+      "hwstring_small": "height='36' width='128'",
+      "file": "2012/06/cropped-250563_105329832892168_104973002927851_49056_2387397_n.jpg",
+      "sizes": {
+        "thumbnail": {
+          "file": "cropped-250563_105329832892168_104973002927851_49056_2387397_n-150x150.jpg",
+          "width": "150",
+          "height": "150",
+          "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-250563_105329832892168_104973002927851_49056_2387397_n-150x150.jpg"
         },
-        "modified": "2012-06-05T00:30:30",
-        "modified_gmt": "2012-06-04T23:30:30",
-        "slug": "pagelines-242085_110083732416778_104973002927851_94222_1736929_o1-jpg-2",
-        "status": "inherit",
-        "type": "attachment",
-        "link": "https://talavera.tomalaplaza.net/pagelines-242085_110083732416778_104973002927851_94222_1736929_o1-jpg-2/",
-        "title": {
-            "rendered": "PageLines- 242085_110083732416778_104973002927851_94222_1736929_o1.jpg"
+        "medium": {
+          "file": "cropped-250563_105329832892168_104973002927851_49056_2387397_n-300x86.jpg",
+          "width": "300",
+          "height": "86",
+          "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-250563_105329832892168_104973002927851_49056_2387397_n-300x86.jpg"
         },
-        "author": 114,
-        "comment_status": "closed",
-        "ping_status": "open",
-        "template": "",
-        "meta": [],
-        "description": {
-            "rendered": "<p class=\"attachment\"><a href='https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o11.jpg'><img width=\"300\" height=\"215\" src=\"https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o11-300x215.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o11-300x215.jpg 300w, https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o11.jpg 842w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+        "small-feature": {
+          "file": "cropped-250563_105329832892168_104973002927851_49056_2387397_n-500x144.jpg",
+          "width": "500",
+          "height": "144",
+          "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-250563_105329832892168_104973002927851_49056_2387397_n-500x144.jpg"
         },
-        "caption": {
-            "rendered": ""
-        },
-        "alt_text": "",
-        "media_type": "image",
-        "mime_type": "image/jpeg",
-        "media_details": {
-            "width": "842",
-            "height": "604",
-            "hwstring_small": "height='91' width='128'",
-            "file": "2012/06/242085_110083732416778_104973002927851_94222_1736929_o11.jpg",
-            "sizes": {
-                "thumbnail": {
-                    "file": "242085_110083732416778_104973002927851_94222_1736929_o11-150x150.jpg",
-                    "width": "150",
-                    "height": "150",
-                    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o11-150x150.jpg"
-                },
-                "medium": {
-                    "file": "242085_110083732416778_104973002927851_94222_1736929_o11-300x215.jpg",
-                    "width": "300",
-                    "height": "215",
-                    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o11-300x215.jpg"
-                },
-                "full": {
-                    "file": "242085_110083732416778_104973002927851_94222_1736929_o11.jpg",
-                    "width": 842,
-                    "height": 604,
-                    "mime_type": "image/jpeg",
-                    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o11.jpg"
-                }
-            },
-            "image_meta": {
-                "aperture": "0",
-                "credit": "",
-                "camera": "",
-                "caption": "",
-                "created_timestamp": "0",
-                "copyright": "",
-                "focal_length": "0",
-                "iso": "0",
-                "shutter_speed": "0",
-                "title": ""
-            }
-        },
-        "post": null,
-        "source_url": "https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o11.jpg",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media/14"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/types/attachment"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/users/114"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/comments?post=14"
-                }
-            ]
+        "full": {
+          "file": "cropped-250563_105329832892168_104973002927851_49056_2387397_n.jpg",
+          "width": 1000,
+          "height": 288,
+          "mime_type": "image/jpeg",
+          "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-250563_105329832892168_104973002927851_49056_2387397_n.jpg"
         }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": ""
+      }
     },
-    {
-        "id": 13,
-        "date": "2012-06-05T00:17:03",
-        "date_gmt": "2012-06-04T23:17:03",
-        "guid": {
-            "rendered": ""
-        },
-        "modified": "2012-06-05T00:17:03",
-        "modified_gmt": "2012-06-04T23:17:03",
-        "slug": "pagelines-242085_110083732416778_104973002927851_94222_1736929_o1-jpg",
-        "status": "inherit",
-        "type": "attachment",
-        "link": "https://talavera.tomalaplaza.net/pagelines-242085_110083732416778_104973002927851_94222_1736929_o1-jpg/",
-        "title": {
-            "rendered": "PageLines- 242085_110083732416778_104973002927851_94222_1736929_o1.jpg"
-        },
-        "author": 114,
-        "comment_status": "closed",
-        "ping_status": "open",
-        "template": "",
-        "meta": [],
-        "description": {
-            "rendered": "<p class=\"attachment\"><a href='https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o1.jpg'><img width=\"300\" height=\"215\" src=\"https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o1-300x215.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o1-300x215.jpg 300w, https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o1.jpg 842w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
-        },
-        "caption": {
-            "rendered": ""
-        },
-        "alt_text": "",
-        "media_type": "image",
-        "mime_type": "image/jpeg",
-        "media_details": {
-            "width": "842",
-            "height": "604",
-            "hwstring_small": "height='91' width='128'",
-            "file": "2012/06/242085_110083732416778_104973002927851_94222_1736929_o1.jpg",
-            "sizes": {
-                "thumbnail": {
-                    "file": "242085_110083732416778_104973002927851_94222_1736929_o1-150x150.jpg",
-                    "width": "150",
-                    "height": "150",
-                    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o1-150x150.jpg"
-                },
-                "medium": {
-                    "file": "242085_110083732416778_104973002927851_94222_1736929_o1-300x215.jpg",
-                    "width": "300",
-                    "height": "215",
-                    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o1-300x215.jpg"
-                },
-                "full": {
-                    "file": "242085_110083732416778_104973002927851_94222_1736929_o1.jpg",
-                    "width": 842,
-                    "height": 604,
-                    "mime_type": "image/jpeg",
-                    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o1.jpg"
-                }
-            },
-            "image_meta": {
-                "aperture": "0",
-                "credit": "",
-                "camera": "",
-                "caption": "",
-                "created_timestamp": "0",
-                "copyright": "",
-                "focal_length": "0",
-                "iso": "0",
-                "shutter_speed": "0",
-                "title": ""
-            }
-        },
-        "post": null,
-        "source_url": "https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o1.jpg",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media/13"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/types/attachment"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/users/114"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/comments?post=13"
-                }
-            ]
+    "post": null,
+    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-250563_105329832892168_104973002927851_49056_2387397_n.jpg",
+    "_links": {
+      "self": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media/27"
         }
-    },
-    {
-        "id": 7,
-        "date": "2012-06-04T22:54:26",
-        "date_gmt": "2012-06-04T22:54:26",
-        "guid": {
-            "rendered": "http://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039.jpg"
-        },
-        "modified": "2012-06-04T22:54:26",
-        "modified_gmt": "2012-06-04T22:54:26",
-        "slug": "cropped-dsc_0039-jpg-2",
-        "status": "inherit",
-        "type": "attachment",
-        "link": "https://talavera.tomalaplaza.net/cropped-dsc_0039-jpg-2/",
-        "title": {
-            "rendered": "cropped-DSC_0039.jpg"
-        },
-        "author": 114,
-        "comment_status": "closed",
-        "ping_status": "open",
-        "template": "",
-        "meta": [],
-        "description": {
-            "rendered": "<p class=\"attachment\"><a href='https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039.jpg'><img width=\"300\" height=\"86\" src=\"https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-300x86.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-300x86.jpg 300w, https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039.jpg 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>http://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039.jpg</p>\n"
-        },
-        "caption": {
-            "rendered": "<p>http://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039.jpg</p>\n"
-        },
-        "alt_text": "",
-        "media_type": "image",
-        "mime_type": "image/jpeg",
-        "media_details": {
-            "width": "1000",
-            "height": "288",
-            "hwstring_small": "height='36' width='128'",
-            "file": "2012/06/cropped-DSC_0039.jpg",
-            "sizes": {
-                "thumbnail": {
-                    "file": "cropped-DSC_0039-150x150.jpg",
-                    "width": "150",
-                    "height": "150",
-                    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-150x150.jpg"
-                },
-                "medium": {
-                    "file": "cropped-DSC_0039-300x86.jpg",
-                    "width": "300",
-                    "height": "86",
-                    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-300x86.jpg"
-                },
-                "single-thumb": {
-                    "file": "cropped-DSC_0039-620x250.jpg",
-                    "width": "620",
-                    "height": "250",
-                    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-620x250.jpg"
-                },
-                "sidebar-thumb": {
-                    "file": "cropped-DSC_0039-36x36.jpg",
-                    "width": "36",
-                    "height": "36",
-                    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-36x36.jpg"
-                },
-                "featured-slideshow-thumb": {
-                    "file": "cropped-DSC_0039-640x250.jpg",
-                    "width": "640",
-                    "height": "250",
-                    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-640x250.jpg"
-                },
-                "node-based-thumb": {
-                    "file": "cropped-DSC_0039-195x110.jpg",
-                    "width": "195",
-                    "height": "110",
-                    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-195x110.jpg"
-                },
-                "quick-preview-thumb": {
-                    "file": "cropped-DSC_0039-115x115.jpg",
-                    "width": "115",
-                    "height": "115",
-                    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-115x115.jpg"
-                },
-                "full": {
-                    "file": "cropped-DSC_0039.jpg",
-                    "width": 1000,
-                    "height": 288,
-                    "mime_type": "image/jpeg",
-                    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039.jpg"
-                }
-            },
-            "image_meta": {
-                "aperture": "0",
-                "credit": "",
-                "camera": "",
-                "caption": "",
-                "created_timestamp": "0",
-                "copyright": "",
-                "focal_length": "0",
-                "iso": "0",
-                "shutter_speed": "0",
-                "title": ""
-            }
-        },
-        "post": null,
-        "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039.jpg",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media/7"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/types/attachment"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/users/114"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/comments?post=7"
-                }
-            ]
+      ],
+      "collection": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media"
         }
-    },
-    {
-        "id": 6,
-        "date": "2012-06-04T22:53:50",
-        "date_gmt": "2012-06-04T22:53:50",
-        "guid": {
-            "rendered": "http://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039.jpg"
-        },
-        "modified": "2012-06-04T22:53:50",
-        "modified_gmt": "2012-06-04T22:53:50",
-        "slug": "cropped-dsc_0039-jpg",
-        "status": "inherit",
-        "type": "attachment",
-        "link": "https://talavera.tomalaplaza.net/cropped-dsc_0039-jpg/",
-        "title": {
-            "rendered": "cropped-DSC_0039.jpg"
-        },
-        "author": 114,
-        "comment_status": "closed",
-        "ping_status": "open",
-        "template": "",
-        "meta": [],
-        "description": {
-            "rendered": "<p class=\"attachment\"><a href='https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039.jpg'><img width=\"300\" height=\"86\" src=\"https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-300x86.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-300x86.jpg 300w, https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039.jpg 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>http://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039.jpg</p>\n"
-        },
-        "caption": {
-            "rendered": "<p>http://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039.jpg</p>\n"
-        },
-        "alt_text": "",
-        "media_type": "image",
-        "mime_type": "image/jpeg",
-        "media_details": {
-            "width": "1000",
-            "height": "288",
-            "hwstring_small": "height='36' width='128'",
-            "file": "2012/06/cropped-DSC_0039.jpg",
-            "sizes": {
-                "thumbnail": {
-                    "file": "cropped-DSC_0039-150x150.jpg",
-                    "width": "150",
-                    "height": "150",
-                    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-150x150.jpg"
-                },
-                "medium": {
-                    "file": "cropped-DSC_0039-300x86.jpg",
-                    "width": "300",
-                    "height": "86",
-                    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-300x86.jpg"
-                },
-                "single-thumb": {
-                    "file": "cropped-DSC_0039-620x250.jpg",
-                    "width": "620",
-                    "height": "250",
-                    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-620x250.jpg"
-                },
-                "sidebar-thumb": {
-                    "file": "cropped-DSC_0039-36x36.jpg",
-                    "width": "36",
-                    "height": "36",
-                    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-36x36.jpg"
-                },
-                "featured-slideshow-thumb": {
-                    "file": "cropped-DSC_0039-640x250.jpg",
-                    "width": "640",
-                    "height": "250",
-                    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-640x250.jpg"
-                },
-                "node-based-thumb": {
-                    "file": "cropped-DSC_0039-195x110.jpg",
-                    "width": "195",
-                    "height": "110",
-                    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-195x110.jpg"
-                },
-                "quick-preview-thumb": {
-                    "file": "cropped-DSC_0039-115x115.jpg",
-                    "width": "115",
-                    "height": "115",
-                    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-115x115.jpg"
-                },
-                "full": {
-                    "file": "cropped-DSC_0039.jpg",
-                    "width": 1000,
-                    "height": 288,
-                    "mime_type": "image/jpeg",
-                    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039.jpg"
-                }
-            },
-            "image_meta": {
-                "aperture": "0",
-                "credit": "",
-                "camera": "",
-                "caption": "",
-                "created_timestamp": "0",
-                "copyright": "",
-                "focal_length": "0",
-                "iso": "0",
-                "shutter_speed": "0",
-                "title": ""
-            }
-        },
-        "post": null,
-        "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039.jpg",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media/6"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/types/attachment"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/users/114"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/comments?post=6"
-                }
-            ]
+      ],
+      "about": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/types/attachment"
         }
-    },
-    {
-        "id": 2,
-        "date": "2012-06-04T22:10:39",
-        "date_gmt": "2012-06-04T22:10:39",
-        "guid": {
-            "rendered": "http://talavera.tomalaplaza.net/?page_id=2"
-        },
-        "modified": "2012-06-04T22:10:39",
-        "modified_gmt": "2012-06-04T22:10:39",
-        "slug": "pagina-ejemplo",
-        "status": "publish",
-        "type": "page",
-        "link": "https://talavera.tomalaplaza.net/pagina-ejemplo/",
-        "title": {
-            "rendered": "P\u00e1gina de ejemplo"
-        },
-        "content": {
-            "rendered": "<p>Esta es una p\u00e1gina de ejemplo, Es diferente a una entrada de un blog porque se mantiene est\u00e1tica y, en la mayor\u00eda de temas, se mostrar\u00e1 en la barra de navegaci\u00f3n. Casi todo el mundo comienza con una p\u00e1gina Sobre m\u00ed para presentarse a los potenciales visitantes. Puede decir algo as\u00ed:</p>\n<blockquote><p>\u00a1Hola!: Soy f\u00edsico durante el d\u00eda, lector de manga por las noches y este es mi blog. Vivo en Albacete y tengo un gato llamado Alex. Me encantan los mojitos (y mirar a la gente corriendo en los parques)</p></blockquote>\n<p>O algo as\u00ed:</p>\n<blockquote><p>La empresa Calcetines XYC se fund\u00f3 en 1973, y ha estado produciendo calcetines de calidad para sus clientes desde entonces. Se encuentra en Vetusta, tiene unos 2.000 empleados e intenta ayudar en lo que puede para mejorar la vida en Vestusta</p></blockquote>\n<p>Deber\u00edas ir a <a href=\"http://talavera.tomalaplaza.net/wp-admin/\">tu escritorio</a>, borrar esta p\u00e1gina y crear algunas nuevas con tu contenido. \u00a1A divertirse!</p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Esta es una p\u00e1gina de ejemplo, Es diferente a una entrada de un blog porque se mantiene est\u00e1tica y, en la mayor\u00eda de temas, se</p>\n",
-            "protected": false
-        },
-        "author": 114,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/pages/2"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/users/114"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/comments?post=2"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 0,
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/pages/2/revisions"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media?parent=2"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/users/114"
         }
-    },
-    {
-        "id": 19,
-        "date": "2011-06-28T09:43:53",
-        "date_gmt": "2011-06-28T08:43:53",
-        "guid": {
-            "rendered": "http://talavera.tomalaplaza.net/?p=19"
-        },
-        "modified": "2012-06-05T09:44:45",
-        "modified_gmt": "2012-06-05T08:44:45",
-        "slug": "acta-2762011",
-        "status": "publish",
-        "type": "post",
-        "link": "https://talavera.tomalaplaza.net/2011/06/28/acta-2762011/",
-        "title": {
-            "rendered": "Acta 27/6/2011"
-        },
-        "content": {
-            "rendered": "<p><strong>ACTA DE REUNI\u00d3N</strong><strong>\u00a0</strong></p>\n<p>En Talavera de la Reina a 27 de junio de 2011 se re\u00fanen alrededor de 40 personas para iniciar la Reuni\u00f3n de Comisiones.</p>\n<p><strong>ORDEN DEL D\u00cdA</strong></p>\n<p><strong>1. Asambleas de los mi\u00e9rcoles.</strong></p>\n<p>Se va a comenzar con las asambleas de barrio, por lo que se sugiere fusionar las Asambleas Itinerantes de los mi\u00e9rcoles con dichas Asambleas de Barrio. Se lanza la propuesta, se vota y se aprueba.</p>\n<p>Los compa\u00f1eros Alfon y Dani traen una propuesta sobre la estructura de las Asambleas de Barrio, as\u00ed como ideas para su difusi\u00f3n y preparaci\u00f3n.</p>\n<p>La estructura, a grandes rasgos, ser\u00eda la siguiente:</p>\n<ul>\n<li>Explicaci\u00f3n del funcionamiento de la asamblea</li>\n<li>Definici\u00f3n del Movimiento y Consenso de m\u00ednimos</li>\n<li>Intercambio de inquietudes con lxs asistentes</li>\n</ul>\n<p>Se debate ampliamente dicha estructura por errores de interpretaci\u00f3n y opiniones diversas sobre sus posibles contenidos. Finalmente se concreta en los puntos se\u00f1alados, se vota y se aprueba.</p>\n<p>Respecto a la difusi\u00f3n de dichos eventos, se llevar\u00e1 a cabo mediante:</p>\n<p>a) Dos pancartas colocadas en el lugar de realizaci\u00f3n de la Asamblea: una que diga \u201cPasadoma\u00f1ana asamblea ciudadana 15m en esta plaza\u201d y otra para el mismo d\u00eda de celebraci\u00f3n d ela Asamblea que diga \u201cHoy Asamblea ciudadana aqu\u00ed\u201d.</p>\n<p>b) Carteles, Folletos, tarjetas, d\u00edpticos, etc. seg\u00fan se vayan viendo necesidades.</p>\n<p>Se vota y aprueba la necesidad de crear un folleto est\u00e1ndar en el que se expliquen el consenso de m\u00ednimos, que nos valdr\u00eda para todas las ocasiones.</p>\n<p>Se propone crear otro en el que de manera m\u00e1s visual se anima a la participaci\u00f3n ciudadana y en el que se incluir\u00edan las fechas y lugares de las siguientes asambleas. No se llega al consenso en este sentido, se retomar\u00e1 el tema en pr\u00f3xima asamblea</p>\n<p>c) Se continuar\u00e1 la difusi\u00f3n en internet: correo-e y redes sociales</p>\n<p>d) Con vistas a optimizar los medios de difusi\u00f3n, se propone hacer un sondeo, que podr\u00eda ser en cada asamblea de barrio, en el que lxs asistentes nos hicieran saber c\u00f3mo se han enterado de la convocatoria\u00a0 y as\u00ed conocer cual de las v\u00edas de promoci\u00f3n llega mejor a lxs ciudadanxs.</p>\n<p>Las asambleas de barrio dar\u00e1n comienzo el pr\u00f3ximo mi\u00e9rcoles 6 de julio. Se vota y se aprueba. Las zonas consensuadas, ampliables posteriormente, son: Parque del Gitanillo, Patrocinio, La Solana, Plaza Santa Leocadio y Carmelitas de momento.</p>\n<p>&nbsp;</p>\n<p><strong>2. Asamblea del mi\u00e9rcoles 29 de Julio.</strong></p>\n<p>Se propone realizarla en la Plaza del Pan por practicidad. Se vota y se aprueba.</p>\n<p>Se retomar\u00e1 en esta asamblea la organizaci\u00f3n de las asambleas de barrio, concreci\u00f3n de la estructura y posibles aportes, as\u00ed como la definici\u00f3n espec\u00edfica del debate del viernes.</p>\n<p>&nbsp;</p>\n<p><strong>3. Debate del viernes 1 de julio.</strong></p>\n<p>Se propone hacer la segunda parte del debate de educaci\u00f3n. Se aprueba. Para la asamblea del mi\u00e9rcoles se traer\u00e1n propuestas m\u00e1s concretas para centrar el tema. Los coordinadores de la actividad ser\u00e1n Lara y Javi.</p>\n<p>Sin m\u00e1s asuntos a tratar se levanta la reuni\u00f3n a las 23:30 horas.</p>\n<p>En Talavera de la Reina a 28 de junio de 2011.</p>\n<p>Asamblea Talavera.</p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>ACTA DE REUNI\u00d3N\u00a0 En Talavera de la Reina a 27 de junio de 2011 se re\u00fanen alrededor de 40 personas para iniciar la Reuni\u00f3n de</p>\n",
-            "protected": false
-        },
-        "author": 114,
-        "featured_media": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "sticky": false,
-        "template": "",
-        "format": "standard",
-        "meta": [],
-        "categories": [
-            3
-        ],
-        "tags": [],
-        "jetpack_featured_media_url": "",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/posts/19"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/posts"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/types/post"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/users/114"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/comments?post=19"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 2,
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/posts/19/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 21,
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/posts/19/revisions/21"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media?parent=19"
-                }
-            ],
-            "wp:term": [
-                {
-                    "taxonomy": "category",
-                    "embeddable": true,
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/categories?post=19"
-                },
-                {
-                    "taxonomy": "post_tag",
-                    "embeddable": true,
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/tags?post=19"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/comments?post=27"
         }
-    },
-    {
-        "id": 15,
-        "date": "2011-06-23T09:39:12",
-        "date_gmt": "2011-06-23T08:39:12",
-        "guid": {
-            "rendered": "http://talavera.tomalaplaza.net/?p=15"
-        },
-        "modified": "2012-06-05T09:45:25",
-        "modified_gmt": "2012-06-05T08:45:25",
-        "slug": "acta-2262011",
-        "status": "publish",
-        "type": "post",
-        "link": "https://talavera.tomalaplaza.net/2011/06/23/acta-2262011/",
-        "title": {
-            "rendered": "Acta 22/6/2011"
-        },
-        "content": {
-            "rendered": "<p><strong>ACTA DE REUNI\u00d3N</strong></p>\n<p>En Talavera de la Reina a 22 de junio de 2011 se re\u00fanen alrededor de 26 personas para iniciar la asamblea itinerante, sita hoy en Reloj de Sol de Ronda del Sur.</p>\n<p><strong>ORDEN DEL D\u00cdA</strong></p>\n<p><strong>1.- Presentaci\u00f3n de Comisiones para lxs asistentes nuevo</strong></p>\n<p>Se comenta el funcionamiento de las Comisiones existentes, as\u00ed como las posibilidad de incorporarse a cualquiera de ellas o crear nuevas seg\u00fan necesidades emergentes.</p>\n<p><strong>2.- An\u00e1lisis de las Propuestas de presidencia regional</strong></p>\n<p>En el momento de celebraci\u00f3n de esta asamblea, la nueva presidenta de la comunidad, Maria Dolores de Cospedal, realiza la toma de posesi\u00f3n de su cargo. Por ello, y tras tres d\u00edas de debate de investidura, se analizan sus propuestas en debate asambleario, recordando que velaremos por el cumplimiento de las que se consideren adecuadas y enfrentaremos aquellas que se consideren injustas o improcedentes.</p>\n<p><strong>3.- Contacto con compa\u00f1erxs en Toledo</strong><strong>\u00a0</strong></p>\n<p>Durante la celebraci\u00f3n d ela presente asamblea, recibimos noticias de lxs compa\u00f1erxs que han asistido en Toledo al acto de protesta simult\u00e1neo a la toma de posesi\u00f3n de la nueva presidenta regional. Se nos comunica que est\u00e1n teniendo altercados con la polic\u00eda y que no se les permite circular con libertad.</p>\n<p><strong>4.- Coloquio sobre noticias del Movimiento 15M</strong></p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 El Congreso aprueba por unanimidad estudiar propuestas del 15-M. Debate abierto sobre el tema.</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Marcha Indignada desde toda Espa\u00f1a, con llegada a Madrid el 23 de Julio. Propuestas que surgen:</p>\n<ul>\n<li>Contactar con las acampadas de Extremadura, para que la marcha pase por Talavera, concretar fecha y hacer Asamblea ese d\u00eda y alg\u00fan otro acto o actividad significativa.</li>\n<li>Planear una concentraci\u00f3n para el 23 de Julio, d\u00eda de llegada a Madrid, en la que incluir, entre otras cosas, una charla informativa que recapitule y resuma todo lo realizado por el movimiento hasta ese d\u00eda, para dejar claro todo lo que se puede hacer en solo dos meses.</li>\n</ul>\n<p><strong>5.- An\u00e1lisis de las v\u00edas de difusi\u00f3n de actos y actividades</strong></p>\n<p>Desde la comisi\u00f3n de comunicaci\u00f3n, se sondea a lxs asistentes para que propongan como mejorar la difusi\u00f3n del movimiento en base a lo que, hasta ahora, se ha echado de menos a la hora de informarse sobra las actividades en nuestra ciudad. Se plantea como necesario:</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Cubrir (realmente) todas las zonas, seleccionando un punto clave en cada una de ellas, y con mapa en la mano para hacer un reparto eficaz.</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Hacer m\u00e1s comunicaci\u00f3n \u201cpersona a persona\u201d, ya que el reparto de folletos a secas, parece no llegar.</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Aumentar el n\u00famero de pegatinas a repartir, por su mayor permanencia temporal.</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Personarse para la difusi\u00f3n en lugares de elevada concurrencia: Hospital, Centros Sanitarios, Centros educativos, etc.</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Se se\u00f1ala como uno de los factores m\u00e1s importantes a mejorar, la antelaci\u00f3n con la que se debe empezar la difusi\u00f3n de cada acto importante, que debe ser mucho mayor.</p>\n<p><strong>6. Taller de Comunicaci\u00f3n</strong></p>\n<p>Desde la Comisi\u00f3n de Comunicaci\u00f3n, se ha decidido recibir formaci\u00f3n a nivel interno para la interacci\u00f3n con los medios. Se va a realizar un peque\u00f1o seminario de comunicaci\u00f3n eficaz impartido de manera voluntaria por un especialista en el tema.</p>\n<p>Se propone a medio plazo, hacer seminarios, ya abiertos al resto de integrantes del movimiento que quieran participar, sobre Habilidades Sociales y Comunicaci\u00f3n.</p>\n<p>Lxs asistentes muestran su conformidad y deseo de que as\u00ed sea.</p>\n<p>Sin m\u00e1s asuntos a tratar se levanta la reuni\u00f3n a las 23:30 horas.</p>\n<p>En Talavera de la Reina a 22 de junio de 2011.</p>\n<p>Asamblea Talavera.</p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>ACTA DE REUNI\u00d3N En Talavera de la Reina a 22 de junio de 2011 se re\u00fanen alrededor de 26 personas para iniciar la asamblea itinerante,</p>\n",
-            "protected": false
-        },
-        "author": 114,
-        "featured_media": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "sticky": false,
-        "template": "",
-        "format": "standard",
-        "meta": [],
-        "categories": [
-            3
-        ],
-        "tags": [],
-        "jetpack_featured_media_url": "",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/posts/15"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/posts"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/types/post"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/users/114"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/comments?post=15"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 3,
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/posts/15/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 22,
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/posts/15/revisions/22"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media?parent=15"
-                }
-            ],
-            "wp:term": [
-                {
-                    "taxonomy": "category",
-                    "embeddable": true,
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/categories?post=15"
-                },
-                {
-                    "taxonomy": "post_tag",
-                    "embeddable": true,
-                    "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/tags?post=15"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
+      ]
     }
+  },
+  {
+    "id": 26,
+    "date": "2012-06-05T10:00:45",
+    "date_gmt": "2012-06-05T09:00:45",
+    "guid": {
+      "rendered": "http://talavera.tomalaplaza.net/files/2012/06/cropped-425993_241317955960021_104973002927851_496923_783157529_n.jpg"
+    },
+    "modified": "2012-06-05T10:00:45",
+    "modified_gmt": "2012-06-05T09:00:45",
+    "slug": "cropped-425993_241317955960021_104973002927851_496923_783157529_n-jpg",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://talavera.tomalaplaza.net/cropped-425993_241317955960021_104973002927851_496923_783157529_n-jpg/",
+    "title": {
+      "rendered": "cropped-425993_241317955960021_104973002927851_496923_783157529_n.jpg"
+    },
+    "author": 114,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "template": "",
+    "meta": [],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://talavera.tomalaplaza.net/files/2012/06/cropped-425993_241317955960021_104973002927851_496923_783157529_n.jpg'><img width=\"300\" height=\"86\" src=\"https://talavera.tomalaplaza.net/files/2012/06/cropped-425993_241317955960021_104973002927851_496923_783157529_n-300x86.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://talavera.tomalaplaza.net/files/2012/06/cropped-425993_241317955960021_104973002927851_496923_783157529_n-300x86.jpg 300w, https://talavera.tomalaplaza.net/files/2012/06/cropped-425993_241317955960021_104973002927851_496923_783157529_n-500x144.jpg 500w, https://talavera.tomalaplaza.net/files/2012/06/cropped-425993_241317955960021_104973002927851_496923_783157529_n.jpg 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>http://talavera.tomalaplaza.net/files/2012/06/cropped-425993_241317955960021_104973002927851_496923_783157529_n.jpg</p>\n"
+    },
+    "caption": {
+      "rendered": "<p>http://talavera.tomalaplaza.net/files/2012/06/cropped-425993_241317955960021_104973002927851_496923_783157529_n.jpg</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": "1000",
+      "height": "288",
+      "hwstring_small": "height='36' width='128'",
+      "file": "2012/06/cropped-425993_241317955960021_104973002927851_496923_783157529_n.jpg",
+      "sizes": {
+        "thumbnail": {
+          "file": "cropped-425993_241317955960021_104973002927851_496923_783157529_n-150x150.jpg",
+          "width": "150",
+          "height": "150",
+          "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-425993_241317955960021_104973002927851_496923_783157529_n-150x150.jpg"
+        },
+        "medium": {
+          "file": "cropped-425993_241317955960021_104973002927851_496923_783157529_n-300x86.jpg",
+          "width": "300",
+          "height": "86",
+          "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-425993_241317955960021_104973002927851_496923_783157529_n-300x86.jpg"
+        },
+        "small-feature": {
+          "file": "cropped-425993_241317955960021_104973002927851_496923_783157529_n-500x144.jpg",
+          "width": "500",
+          "height": "144",
+          "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-425993_241317955960021_104973002927851_496923_783157529_n-500x144.jpg"
+        },
+        "full": {
+          "file": "cropped-425993_241317955960021_104973002927851_496923_783157529_n.jpg",
+          "width": 1000,
+          "height": 288,
+          "mime_type": "image/jpeg",
+          "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-425993_241317955960021_104973002927851_496923_783157529_n.jpg"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": ""
+      }
+    },
+    "post": null,
+    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-425993_241317955960021_104973002927851_496923_783157529_n.jpg",
+    "_links": {
+      "self": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media/26"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/users/114"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/comments?post=26"
+        }
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "date": "2012-06-05T09:48:24",
+    "date_gmt": "2012-06-05T08:48:24",
+    "guid": {
+      "rendered": "http://talavera.tomalaplaza.net/files/2012/06/cropped-320510_152306628194488_104973002927851_264601_1878254980_n.jpg"
+    },
+    "modified": "2012-06-05T09:48:24",
+    "modified_gmt": "2012-06-05T08:48:24",
+    "slug": "cropped-320510_152306628194488_104973002927851_264601_1878254980_n-jpg",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://talavera.tomalaplaza.net/cropped-320510_152306628194488_104973002927851_264601_1878254980_n-jpg/",
+    "title": {
+      "rendered": "cropped-320510_152306628194488_104973002927851_264601_1878254980_n.jpg"
+    },
+    "author": 114,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "template": "",
+    "meta": [],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://talavera.tomalaplaza.net/files/2012/06/cropped-320510_152306628194488_104973002927851_264601_1878254980_n.jpg'><img width=\"300\" height=\"54\" src=\"https://talavera.tomalaplaza.net/files/2012/06/cropped-320510_152306628194488_104973002927851_264601_1878254980_n-300x54.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://talavera.tomalaplaza.net/files/2012/06/cropped-320510_152306628194488_104973002927851_264601_1878254980_n-300x54.jpg 300w, https://talavera.tomalaplaza.net/files/2012/06/cropped-320510_152306628194488_104973002927851_264601_1878254980_n.jpg 990w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>http://talavera.tomalaplaza.net/files/2012/06/cropped-320510_152306628194488_104973002927851_264601_1878254980_n.jpg</p>\n"
+    },
+    "caption": {
+      "rendered": "<p>http://talavera.tomalaplaza.net/files/2012/06/cropped-320510_152306628194488_104973002927851_264601_1878254980_n.jpg</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": "990",
+      "height": "180",
+      "hwstring_small": "height='23' width='128'",
+      "file": "2012/06/cropped-320510_152306628194488_104973002927851_264601_1878254980_n.jpg",
+      "sizes": {
+        "thumbnail": {
+          "file": "cropped-320510_152306628194488_104973002927851_264601_1878254980_n-150x150.jpg",
+          "width": "150",
+          "height": "150",
+          "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-320510_152306628194488_104973002927851_264601_1878254980_n-150x150.jpg"
+        },
+        "medium": {
+          "file": "cropped-320510_152306628194488_104973002927851_264601_1878254980_n-300x54.jpg",
+          "width": "300",
+          "height": "54",
+          "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-320510_152306628194488_104973002927851_264601_1878254980_n-300x54.jpg"
+        },
+        "full": {
+          "file": "cropped-320510_152306628194488_104973002927851_264601_1878254980_n.jpg",
+          "width": 990,
+          "height": 180,
+          "mime_type": "image/jpeg",
+          "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-320510_152306628194488_104973002927851_264601_1878254980_n.jpg"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": ""
+      }
+    },
+    "post": null,
+    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-320510_152306628194488_104973002927851_264601_1878254980_n.jpg",
+    "_links": {
+      "self": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media/24"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/users/114"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/comments?post=24"
+        }
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "date": "2012-06-05T09:47:15",
+    "date_gmt": "2012-06-05T08:47:15",
+    "guid": {
+      "rendered": "http://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o-1.jpg"
+    },
+    "modified": "2012-06-05T09:47:15",
+    "modified_gmt": "2012-06-05T08:47:15",
+    "slug": "242085_110083732416778_104973002927851_94222_1736929_o-1-jpg",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://talavera.tomalaplaza.net/242085_110083732416778_104973002927851_94222_1736929_o-1-jpg/",
+    "title": {
+      "rendered": "242085_110083732416778_104973002927851_94222_1736929_o-1.jpg"
+    },
+    "author": 114,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "template": "",
+    "meta": [],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o-1.jpg'><img width=\"1\" height=\"1\" src=\"https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o-1.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" /></a></p>\n<p>http://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o-1.jpg</p>\n"
+    },
+    "caption": {
+      "rendered": "<p>http://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o-1.jpg</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {},
+    "post": null,
+    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o-1.jpg",
+    "_links": {
+      "self": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media/23"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/users/114"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/comments?post=23"
+        }
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "date": "2011-06-28T09:43:53",
+    "date_gmt": "2011-06-28T08:43:53",
+    "guid": {
+      "rendered": "http://talavera.tomalaplaza.net/?p=19"
+    },
+    "modified": "2012-06-05T09:44:45",
+    "modified_gmt": "2012-06-05T08:44:45",
+    "slug": "acta-2762011",
+    "status": "publish",
+    "type": "post",
+    "link": "https://talavera.tomalaplaza.net/2011/06/28/acta-2762011/",
+    "title": {
+      "rendered": "Acta 27/6/2011"
+    },
+    "content": {
+      "rendered": "<p><strong>ACTA DE REUNI\u00d3N</strong><strong>\u00a0</strong></p>\n<p>En Talavera de la Reina a 27 de junio de 2011 se re\u00fanen alrededor de 40 personas para iniciar la Reuni\u00f3n de Comisiones.</p>\n<p><strong>ORDEN DEL D\u00cdA</strong></p>\n<p><strong>1. Asambleas de los mi\u00e9rcoles.</strong></p>\n<p>Se va a comenzar con las asambleas de barrio, por lo que se sugiere fusionar las Asambleas Itinerantes de los mi\u00e9rcoles con dichas Asambleas de Barrio. Se lanza la propuesta, se vota y se aprueba.</p>\n<p>Los compa\u00f1eros Alfon y Dani traen una propuesta sobre la estructura de las Asambleas de Barrio, as\u00ed como ideas para su difusi\u00f3n y preparaci\u00f3n.</p>\n<p>La estructura, a grandes rasgos, ser\u00eda la siguiente:</p>\n<ul>\n<li>Explicaci\u00f3n del funcionamiento de la asamblea</li>\n<li>Definici\u00f3n del Movimiento y Consenso de m\u00ednimos</li>\n<li>Intercambio de inquietudes con lxs asistentes</li>\n</ul>\n<p>Se debate ampliamente dicha estructura por errores de interpretaci\u00f3n y opiniones diversas sobre sus posibles contenidos. Finalmente se concreta en los puntos se\u00f1alados, se vota y se aprueba.</p>\n<p>Respecto a la difusi\u00f3n de dichos eventos, se llevar\u00e1 a cabo mediante:</p>\n<p>a) Dos pancartas colocadas en el lugar de realizaci\u00f3n de la Asamblea: una que diga \u201cPasadoma\u00f1ana asamblea ciudadana 15m en esta plaza\u201d y otra para el mismo d\u00eda de celebraci\u00f3n d ela Asamblea que diga \u201cHoy Asamblea ciudadana aqu\u00ed\u201d.</p>\n<p>b) Carteles, Folletos, tarjetas, d\u00edpticos, etc. seg\u00fan se vayan viendo necesidades.</p>\n<p>Se vota y aprueba la necesidad de crear un folleto est\u00e1ndar en el que se expliquen el consenso de m\u00ednimos, que nos valdr\u00eda para todas las ocasiones.</p>\n<p>Se propone crear otro en el que de manera m\u00e1s visual se anima a la participaci\u00f3n ciudadana y en el que se incluir\u00edan las fechas y lugares de las siguientes asambleas. No se llega al consenso en este sentido, se retomar\u00e1 el tema en pr\u00f3xima asamblea</p>\n<p>c) Se continuar\u00e1 la difusi\u00f3n en internet: correo-e y redes sociales</p>\n<p>d) Con vistas a optimizar los medios de difusi\u00f3n, se propone hacer un sondeo, que podr\u00eda ser en cada asamblea de barrio, en el que lxs asistentes nos hicieran saber c\u00f3mo se han enterado de la convocatoria\u00a0 y as\u00ed conocer cual de las v\u00edas de promoci\u00f3n llega mejor a lxs ciudadanxs.</p>\n<p>Las asambleas de barrio dar\u00e1n comienzo el pr\u00f3ximo mi\u00e9rcoles 6 de julio. Se vota y se aprueba. Las zonas consensuadas, ampliables posteriormente, son: Parque del Gitanillo, Patrocinio, La Solana, Plaza Santa Leocadio y Carmelitas de momento.</p>\n<p>&nbsp;</p>\n<p><strong>2. Asamblea del mi\u00e9rcoles 29 de Julio.</strong></p>\n<p>Se propone realizarla en la Plaza del Pan por practicidad. Se vota y se aprueba.</p>\n<p>Se retomar\u00e1 en esta asamblea la organizaci\u00f3n de las asambleas de barrio, concreci\u00f3n de la estructura y posibles aportes, as\u00ed como la definici\u00f3n espec\u00edfica del debate del viernes.</p>\n<p>&nbsp;</p>\n<p><strong>3. Debate del viernes 1 de julio.</strong></p>\n<p>Se propone hacer la segunda parte del debate de educaci\u00f3n. Se aprueba. Para la asamblea del mi\u00e9rcoles se traer\u00e1n propuestas m\u00e1s concretas para centrar el tema. Los coordinadores de la actividad ser\u00e1n Lara y Javi.</p>\n<p>Sin m\u00e1s asuntos a tratar se levanta la reuni\u00f3n a las 23:30 horas.</p>\n<p>En Talavera de la Reina a 28 de junio de 2011.</p>\n<p>Asamblea Talavera.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>ACTA DE REUNI\u00d3N\u00a0 En Talavera de la Reina a 27 de junio de 2011 se re\u00fanen alrededor de 40 personas para iniciar la Reuni\u00f3n de</p>\n",
+      "protected": false
+    },
+    "author": 114,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [
+      3
+    ],
+    "tags": [],
+    "jetpack_featured_media_url": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/posts/19"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/users/114"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/comments?post=19"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/posts/19/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 21,
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/posts/19/revisions/21"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media?parent=19"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/categories?post=19"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/tags?post=19"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "date": "2011-06-23T09:39:12",
+    "date_gmt": "2011-06-23T08:39:12",
+    "guid": {
+      "rendered": "http://talavera.tomalaplaza.net/?p=15"
+    },
+    "modified": "2012-06-05T09:45:25",
+    "modified_gmt": "2012-06-05T08:45:25",
+    "slug": "acta-2262011",
+    "status": "publish",
+    "type": "post",
+    "link": "https://talavera.tomalaplaza.net/2011/06/23/acta-2262011/",
+    "title": {
+      "rendered": "Acta 22/6/2011"
+    },
+    "content": {
+      "rendered": "<p><strong>ACTA DE REUNI\u00d3N</strong></p>\n<p>En Talavera de la Reina a 22 de junio de 2011 se re\u00fanen alrededor de 26 personas para iniciar la asamblea itinerante, sita hoy en Reloj de Sol de Ronda del Sur.</p>\n<p><strong>ORDEN DEL D\u00cdA</strong></p>\n<p><strong>1.- Presentaci\u00f3n de Comisiones para lxs asistentes nuevo</strong></p>\n<p>Se comenta el funcionamiento de las Comisiones existentes, as\u00ed como las posibilidad de incorporarse a cualquiera de ellas o crear nuevas seg\u00fan necesidades emergentes.</p>\n<p><strong>2.- An\u00e1lisis de las Propuestas de presidencia regional</strong></p>\n<p>En el momento de celebraci\u00f3n de esta asamblea, la nueva presidenta de la comunidad, Maria Dolores de Cospedal, realiza la toma de posesi\u00f3n de su cargo. Por ello, y tras tres d\u00edas de debate de investidura, se analizan sus propuestas en debate asambleario, recordando que velaremos por el cumplimiento de las que se consideren adecuadas y enfrentaremos aquellas que se consideren injustas o improcedentes.</p>\n<p><strong>3.- Contacto con compa\u00f1erxs en Toledo</strong><strong>\u00a0</strong></p>\n<p>Durante la celebraci\u00f3n d ela presente asamblea, recibimos noticias de lxs compa\u00f1erxs que han asistido en Toledo al acto de protesta simult\u00e1neo a la toma de posesi\u00f3n de la nueva presidenta regional. Se nos comunica que est\u00e1n teniendo altercados con la polic\u00eda y que no se les permite circular con libertad.</p>\n<p><strong>4.- Coloquio sobre noticias del Movimiento 15M</strong></p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 El Congreso aprueba por unanimidad estudiar propuestas del 15-M. Debate abierto sobre el tema.</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Marcha Indignada desde toda Espa\u00f1a, con llegada a Madrid el 23 de Julio. Propuestas que surgen:</p>\n<ul>\n<li>Contactar con las acampadas de Extremadura, para que la marcha pase por Talavera, concretar fecha y hacer Asamblea ese d\u00eda y alg\u00fan otro acto o actividad significativa.</li>\n<li>Planear una concentraci\u00f3n para el 23 de Julio, d\u00eda de llegada a Madrid, en la que incluir, entre otras cosas, una charla informativa que recapitule y resuma todo lo realizado por el movimiento hasta ese d\u00eda, para dejar claro todo lo que se puede hacer en solo dos meses.</li>\n</ul>\n<p><strong>5.- An\u00e1lisis de las v\u00edas de difusi\u00f3n de actos y actividades</strong></p>\n<p>Desde la comisi\u00f3n de comunicaci\u00f3n, se sondea a lxs asistentes para que propongan como mejorar la difusi\u00f3n del movimiento en base a lo que, hasta ahora, se ha echado de menos a la hora de informarse sobra las actividades en nuestra ciudad. Se plantea como necesario:</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Cubrir (realmente) todas las zonas, seleccionando un punto clave en cada una de ellas, y con mapa en la mano para hacer un reparto eficaz.</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Hacer m\u00e1s comunicaci\u00f3n \u201cpersona a persona\u201d, ya que el reparto de folletos a secas, parece no llegar.</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Aumentar el n\u00famero de pegatinas a repartir, por su mayor permanencia temporal.</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Personarse para la difusi\u00f3n en lugares de elevada concurrencia: Hospital, Centros Sanitarios, Centros educativos, etc.</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Se se\u00f1ala como uno de los factores m\u00e1s importantes a mejorar, la antelaci\u00f3n con la que se debe empezar la difusi\u00f3n de cada acto importante, que debe ser mucho mayor.</p>\n<p><strong>6. Taller de Comunicaci\u00f3n</strong></p>\n<p>Desde la Comisi\u00f3n de Comunicaci\u00f3n, se ha decidido recibir formaci\u00f3n a nivel interno para la interacci\u00f3n con los medios. Se va a realizar un peque\u00f1o seminario de comunicaci\u00f3n eficaz impartido de manera voluntaria por un especialista en el tema.</p>\n<p>Se propone a medio plazo, hacer seminarios, ya abiertos al resto de integrantes del movimiento que quieran participar, sobre Habilidades Sociales y Comunicaci\u00f3n.</p>\n<p>Lxs asistentes muestran su conformidad y deseo de que as\u00ed sea.</p>\n<p>Sin m\u00e1s asuntos a tratar se levanta la reuni\u00f3n a las 23:30 horas.</p>\n<p>En Talavera de la Reina a 22 de junio de 2011.</p>\n<p>Asamblea Talavera.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>ACTA DE REUNI\u00d3N En Talavera de la Reina a 22 de junio de 2011 se re\u00fanen alrededor de 26 personas para iniciar la asamblea itinerante,</p>\n",
+      "protected": false
+    },
+    "author": 114,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [
+      3
+    ],
+    "tags": [],
+    "jetpack_featured_media_url": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/posts/15"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/users/114"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/comments?post=15"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 3,
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/posts/15/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 22,
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/posts/15/revisions/22"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media?parent=15"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/categories?post=15"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/tags?post=15"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "date": "2012-06-05T00:30:30",
+    "date_gmt": "2012-06-04T23:30:30",
+    "guid": {
+      "rendered": ""
+    },
+    "modified": "2012-06-05T00:30:30",
+    "modified_gmt": "2012-06-04T23:30:30",
+    "slug": "pagelines-242085_110083732416778_104973002927851_94222_1736929_o1-jpg-2",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://talavera.tomalaplaza.net/pagelines-242085_110083732416778_104973002927851_94222_1736929_o1-jpg-2/",
+    "title": {
+      "rendered": "PageLines- 242085_110083732416778_104973002927851_94222_1736929_o1.jpg"
+    },
+    "author": 114,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "template": "",
+    "meta": [],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o11.jpg'><img width=\"300\" height=\"215\" src=\"https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o11-300x215.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o11-300x215.jpg 300w, https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o11.jpg 842w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    },
+    "caption": {
+      "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": "842",
+      "height": "604",
+      "hwstring_small": "height='91' width='128'",
+      "file": "2012/06/242085_110083732416778_104973002927851_94222_1736929_o11.jpg",
+      "sizes": {
+        "thumbnail": {
+          "file": "242085_110083732416778_104973002927851_94222_1736929_o11-150x150.jpg",
+          "width": "150",
+          "height": "150",
+          "source_url": "https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o11-150x150.jpg"
+        },
+        "medium": {
+          "file": "242085_110083732416778_104973002927851_94222_1736929_o11-300x215.jpg",
+          "width": "300",
+          "height": "215",
+          "source_url": "https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o11-300x215.jpg"
+        },
+        "full": {
+          "file": "242085_110083732416778_104973002927851_94222_1736929_o11.jpg",
+          "width": 842,
+          "height": 604,
+          "mime_type": "image/jpeg",
+          "source_url": "https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o11.jpg"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": ""
+      }
+    },
+    "post": null,
+    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o11.jpg",
+    "_links": {
+      "self": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media/14"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/users/114"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/comments?post=14"
+        }
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "date": "2012-06-05T00:17:03",
+    "date_gmt": "2012-06-04T23:17:03",
+    "guid": {
+      "rendered": ""
+    },
+    "modified": "2012-06-05T00:17:03",
+    "modified_gmt": "2012-06-04T23:17:03",
+    "slug": "pagelines-242085_110083732416778_104973002927851_94222_1736929_o1-jpg",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://talavera.tomalaplaza.net/pagelines-242085_110083732416778_104973002927851_94222_1736929_o1-jpg/",
+    "title": {
+      "rendered": "PageLines- 242085_110083732416778_104973002927851_94222_1736929_o1.jpg"
+    },
+    "author": 114,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "template": "",
+    "meta": [],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o1.jpg'><img width=\"300\" height=\"215\" src=\"https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o1-300x215.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o1-300x215.jpg 300w, https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o1.jpg 842w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    },
+    "caption": {
+      "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": "842",
+      "height": "604",
+      "hwstring_small": "height='91' width='128'",
+      "file": "2012/06/242085_110083732416778_104973002927851_94222_1736929_o1.jpg",
+      "sizes": {
+        "thumbnail": {
+          "file": "242085_110083732416778_104973002927851_94222_1736929_o1-150x150.jpg",
+          "width": "150",
+          "height": "150",
+          "source_url": "https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o1-150x150.jpg"
+        },
+        "medium": {
+          "file": "242085_110083732416778_104973002927851_94222_1736929_o1-300x215.jpg",
+          "width": "300",
+          "height": "215",
+          "source_url": "https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o1-300x215.jpg"
+        },
+        "full": {
+          "file": "242085_110083732416778_104973002927851_94222_1736929_o1.jpg",
+          "width": 842,
+          "height": 604,
+          "mime_type": "image/jpeg",
+          "source_url": "https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o1.jpg"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": ""
+      }
+    },
+    "post": null,
+    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/242085_110083732416778_104973002927851_94222_1736929_o1.jpg",
+    "_links": {
+      "self": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media/13"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/users/114"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/comments?post=13"
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "date": "2012-06-04T22:54:26",
+    "date_gmt": "2012-06-04T22:54:26",
+    "guid": {
+      "rendered": "http://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039.jpg"
+    },
+    "modified": "2012-06-04T22:54:26",
+    "modified_gmt": "2012-06-04T22:54:26",
+    "slug": "cropped-dsc_0039-jpg-2",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://talavera.tomalaplaza.net/cropped-dsc_0039-jpg-2/",
+    "title": {
+      "rendered": "cropped-DSC_0039.jpg"
+    },
+    "author": 114,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "template": "",
+    "meta": [],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039.jpg'><img width=\"300\" height=\"86\" src=\"https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-300x86.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-300x86.jpg 300w, https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039.jpg 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>http://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039.jpg</p>\n"
+    },
+    "caption": {
+      "rendered": "<p>http://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039.jpg</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": "1000",
+      "height": "288",
+      "hwstring_small": "height='36' width='128'",
+      "file": "2012/06/cropped-DSC_0039.jpg",
+      "sizes": {
+        "thumbnail": {
+          "file": "cropped-DSC_0039-150x150.jpg",
+          "width": "150",
+          "height": "150",
+          "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-150x150.jpg"
+        },
+        "medium": {
+          "file": "cropped-DSC_0039-300x86.jpg",
+          "width": "300",
+          "height": "86",
+          "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-300x86.jpg"
+        },
+        "single-thumb": {
+          "file": "cropped-DSC_0039-620x250.jpg",
+          "width": "620",
+          "height": "250",
+          "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-620x250.jpg"
+        },
+        "sidebar-thumb": {
+          "file": "cropped-DSC_0039-36x36.jpg",
+          "width": "36",
+          "height": "36",
+          "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-36x36.jpg"
+        },
+        "featured-slideshow-thumb": {
+          "file": "cropped-DSC_0039-640x250.jpg",
+          "width": "640",
+          "height": "250",
+          "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-640x250.jpg"
+        },
+        "node-based-thumb": {
+          "file": "cropped-DSC_0039-195x110.jpg",
+          "width": "195",
+          "height": "110",
+          "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-195x110.jpg"
+        },
+        "quick-preview-thumb": {
+          "file": "cropped-DSC_0039-115x115.jpg",
+          "width": "115",
+          "height": "115",
+          "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-115x115.jpg"
+        },
+        "full": {
+          "file": "cropped-DSC_0039.jpg",
+          "width": 1000,
+          "height": 288,
+          "mime_type": "image/jpeg",
+          "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039.jpg"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": ""
+      }
+    },
+    "post": null,
+    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039.jpg",
+    "_links": {
+      "self": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media/7"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/users/114"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/comments?post=7"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "date": "2012-06-04T22:53:50",
+    "date_gmt": "2012-06-04T22:53:50",
+    "guid": {
+      "rendered": "http://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039.jpg"
+    },
+    "modified": "2012-06-04T22:53:50",
+    "modified_gmt": "2012-06-04T22:53:50",
+    "slug": "cropped-dsc_0039-jpg",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://talavera.tomalaplaza.net/cropped-dsc_0039-jpg/",
+    "title": {
+      "rendered": "cropped-DSC_0039.jpg"
+    },
+    "author": 114,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "template": "",
+    "meta": [],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039.jpg'><img width=\"300\" height=\"86\" src=\"https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-300x86.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-300x86.jpg 300w, https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039.jpg 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>http://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039.jpg</p>\n"
+    },
+    "caption": {
+      "rendered": "<p>http://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039.jpg</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": "1000",
+      "height": "288",
+      "hwstring_small": "height='36' width='128'",
+      "file": "2012/06/cropped-DSC_0039.jpg",
+      "sizes": {
+        "thumbnail": {
+          "file": "cropped-DSC_0039-150x150.jpg",
+          "width": "150",
+          "height": "150",
+          "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-150x150.jpg"
+        },
+        "medium": {
+          "file": "cropped-DSC_0039-300x86.jpg",
+          "width": "300",
+          "height": "86",
+          "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-300x86.jpg"
+        },
+        "single-thumb": {
+          "file": "cropped-DSC_0039-620x250.jpg",
+          "width": "620",
+          "height": "250",
+          "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-620x250.jpg"
+        },
+        "sidebar-thumb": {
+          "file": "cropped-DSC_0039-36x36.jpg",
+          "width": "36",
+          "height": "36",
+          "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-36x36.jpg"
+        },
+        "featured-slideshow-thumb": {
+          "file": "cropped-DSC_0039-640x250.jpg",
+          "width": "640",
+          "height": "250",
+          "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-640x250.jpg"
+        },
+        "node-based-thumb": {
+          "file": "cropped-DSC_0039-195x110.jpg",
+          "width": "195",
+          "height": "110",
+          "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-195x110.jpg"
+        },
+        "quick-preview-thumb": {
+          "file": "cropped-DSC_0039-115x115.jpg",
+          "width": "115",
+          "height": "115",
+          "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039-115x115.jpg"
+        },
+        "full": {
+          "file": "cropped-DSC_0039.jpg",
+          "width": 1000,
+          "height": 288,
+          "mime_type": "image/jpeg",
+          "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039.jpg"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": ""
+      }
+    },
+    "post": null,
+    "source_url": "https://talavera.tomalaplaza.net/files/2012/06/cropped-DSC_0039.jpg",
+    "_links": {
+      "self": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media/6"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/users/114"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/comments?post=6"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "date": "2012-06-04T22:10:39",
+    "date_gmt": "2012-06-04T22:10:39",
+    "guid": {
+      "rendered": "http://talavera.tomalaplaza.net/?page_id=2"
+    },
+    "modified": "2012-06-04T22:10:39",
+    "modified_gmt": "2012-06-04T22:10:39",
+    "slug": "pagina-ejemplo",
+    "status": "publish",
+    "type": "page",
+    "link": "https://talavera.tomalaplaza.net/pagina-ejemplo/",
+    "title": {
+      "rendered": "P\u00e1gina de ejemplo"
+    },
+    "content": {
+      "rendered": "<p>Esta es una p\u00e1gina de ejemplo, Es diferente a una entrada de un blog porque se mantiene est\u00e1tica y, en la mayor\u00eda de temas, se mostrar\u00e1 en la barra de navegaci\u00f3n. Casi todo el mundo comienza con una p\u00e1gina Sobre m\u00ed para presentarse a los potenciales visitantes. Puede decir algo as\u00ed:</p>\n<blockquote><p>\u00a1Hola!: Soy f\u00edsico durante el d\u00eda, lector de manga por las noches y este es mi blog. Vivo en Albacete y tengo un gato llamado Alex. Me encantan los mojitos (y mirar a la gente corriendo en los parques)</p></blockquote>\n<p>O algo as\u00ed:</p>\n<blockquote><p>La empresa Calcetines XYC se fund\u00f3 en 1973, y ha estado produciendo calcetines de calidad para sus clientes desde entonces. Se encuentra en Vetusta, tiene unos 2.000 empleados e intenta ayudar en lo que puede para mejorar la vida en Vestusta</p></blockquote>\n<p>Deber\u00edas ir a <a href=\"http://talavera.tomalaplaza.net/wp-admin/\">tu escritorio</a>, borrar esta p\u00e1gina y crear algunas nuevas con tu contenido. \u00a1A divertirse!</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Esta es una p\u00e1gina de ejemplo, Es diferente a una entrada de un blog porque se mantiene est\u00e1tica y, en la mayor\u00eda de temas, se</p>\n",
+      "protected": false
+    },
+    "author": 114,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/pages/2"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/users/114"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/comments?post=2"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/pages/2/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/media?parent=2"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
 ]
