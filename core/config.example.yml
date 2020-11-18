@@ -12,7 +12,6 @@ url_ban:
   - dominio/url a excluir
 db_meta:
   esquema.prefijo:
-      purl: http://wiki.tomalaplaza.net
       site: wiki.tomalaplaza.net
       api: http://wiki.tomalaplaza.net/mediawiki/api.php?format=json&action=
 ---
