@@ -153,6 +153,7 @@ class SiteDBLite(DBLite):
             phpbb_posts
             phpbb_media
             wk_pages
+            wk_media
         '''.strip().split())
         for t in tables:
             if t not in self.tables:
@@ -294,7 +295,8 @@ class SiteDBLite(DBLite):
         re_rem = re.compile(r"^\s*_.*$", re.MULTILINE)
         with open(file, "w") as f:
             write(f, "BEGIN TRANSACTION")
-            write(f, "DELETE from wp_tags where (site, post) in (select site, id from wp_posts where url is null)")
+            write(f, "DELETE from wp_tags where (site, post) in (select site, id from wp_posts where url is null);")
+            write(f, "DELETE from wk_media where url is null;")
             sql = "SELECT type, name FROM sqlite_master WHERE type in ('view', 'table') and name like '^_%' ESCAPE '^'"
             for r in self.select(sql):
                 write(f, "DROP {0} {1}", *r, end=";\n")

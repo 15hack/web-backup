@@ -49,6 +49,9 @@ for data in scr.phpbb.media:
 for data in scr.wiki.pages:
     db.insert("wk_pages", **data)
 
+for data in scr.wiki.media:
+    db.insert("wk_media", **data)
+
 fnd.close()
 db.execute("sql/update.sql")
 db.commit()

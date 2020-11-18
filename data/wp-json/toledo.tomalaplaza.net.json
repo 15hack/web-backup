@@ -1,473 +1,467 @@
-[
-  {
-    "id": 44,
-    "date": "2017-01-22T13:57:29",
-    "date_gmt": "2017-01-22T13:57:29",
-    "guid": {
-      "rendered": "http://toledo.tomalaplaza.net/community/"
-    },
-    "modified": "2017-01-22T13:57:29",
-    "modified_gmt": "2017-01-22T13:57:29",
-    "slug": "community",
-    "status": "publish",
-    "type": "page",
-    "link": "https://toledo.tomalaplaza.net/community/",
-    "title": {
-      "rendered": "Forum"
-    },
-    "content": {
-      "rendered": "<p>[wpforo]</p>\n",
-      "protected": false
-    },
-    "excerpt": {
-      "rendered": "<p>[wpforo]</p>\n",
-      "protected": false
-    },
-    "author": 1657,
-    "featured_media": 0,
-    "parent": 0,
-    "menu_order": 0,
-    "comment_status": "close",
-    "ping_status": "close",
-    "template": "",
-    "meta": [],
-    "_links": {
-      "self": [
-        {
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/pages/44"
-        }
-      ],
-      "collection": [
-        {
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/pages"
-        }
-      ],
-      "about": [
-        {
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/types/page"
-        }
-      ],
-      "author": [
-        {
-          "embeddable": true,
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/users/1657"
-        }
-      ],
-      "replies": [
-        {
-          "embeddable": true,
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/comments?post=44"
-        }
-      ],
-      "version-history": [
-        {
-          "count": 0,
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/pages/44/revisions"
-        }
-      ],
-      "wp:attachment": [
-        {
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/media?parent=44"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https://api.w.org/{rel}",
-          "templated": true
-        }
-      ]
-    }
+[{
+  "id": 44,
+  "date": "2017-01-22T13:57:29",
+  "date_gmt": "2017-01-22T13:57:29",
+  "guid": {
+    "rendered": "http://toledo.tomalaplaza.net/community/"
   },
-  {
-    "id": 26,
-    "date": "2011-06-28T21:23:46",
-    "date_gmt": "2011-06-28T21:23:46",
-    "guid": {
-      "rendered": "http://toledo.tomalaplaza.net/?p=26"
-    },
-    "modified": "2011-08-13T15:52:08",
-    "modified_gmt": "2011-08-13T15:52:08",
-    "slug": "no-a-la-supresion-del-defensor-del-pueblo-en-castilla-la-mancha",
-    "status": "publish",
-    "type": "post",
-    "link": "https://toledo.tomalaplaza.net/no-a-la-supresion-del-defensor-del-pueblo-en-castilla-la-mancha/",
-    "title": {
-      "rendered": "No a la supresi\u00f3n del Defensor del Pueblo en Castilla La Mancha"
-    },
-    "content": {
-      "rendered": "<p>&nbsp;</p>\n<p>Fuente: peticiones.es<br />\nLa Instituci\u00f3n de la Defensor\u00eda del Pueblo de Castilla-La Mancha fue creada por Ley, con unanimidad, el a\u00f1o 2001.</p>\n<p>A partir de esta fecha, la ciudadan\u00eda de nuestra Regi\u00f3n ha podido utilizar esa Oficina para defenderse de las actuaciones irregulares de las administraciones p\u00fablicas (Junta de Comunidades y Ayuntamientos) que vulnerasen sus derechos constitucionales (Salud, Educaci\u00f3n\u2026)</p>\n<p>En el a\u00f1o 2010, la Ley de Igualdad de Castilla-La Mancha la designa como garante del derecho a la igualdad y a la no discriminaci\u00f3n por raz\u00f3n de sexo.</p>\n<p>Pese a que la existencia del Defensor del Pueblo constituye una garant\u00eda para los derechos de las personas, el pasado 20 de junio, en su discurso de investidura, la nueva Presidenta del Gobierno Regional, Mar\u00eda Dolores de Cospedal, anunci\u00f3 que suprimir\u00eda esta Instituci\u00f3n.</p>\n<p>Entendemos que esta medida resulta contraria a los intereses de los hombres y mujeres de esta Regi\u00f3n, potenciales usuarios y usuarias de la Instituci\u00f3n, por las siguientes razones:</p>\n<p>-Porque, si se elimina esta figura, veremos recortados nuestros derechos y se nos privar\u00e1 de un medio de defensa cercano, gratuito, \u00e1gil y eficaz frente a la actuaci\u00f3n irregular\u00a0 de las Administraciones P\u00fablicas.</p>\n<p>-Porque permitiremos al Gobierno Regional deshacerse de una Instituci\u00f3n cuya funci\u00f3n es el control de su actividad: Menos control=mayor impunidad.</p>\n<p>-Porque la supresi\u00f3n de la Instituci\u00f3n nos convertir\u00e1, otra vez, en ciudadanos y ciudadanas \u201cde segunda\u201d, al privarnos de una Oficina a la que s\u00ed pueden acudir quienes residen en la casi totalidad de las Comunidades Aut\u00f3nomas, desde Murcia o Valencia, hasta Catalu\u00f1a o el Pa\u00eds Vasco.</p>\n<p>-Porque el mantenimiento de este servicio supone un gasto inferior a un euro por habitante y a\u00f1o que, sin embargo, permite atender anualmente las reclamaciones de m\u00e1s de 15.000 personas.</p>\n<p>Ante tal iniciativa, la plataforma \u201cNO A LA SUPRESI\u00d3N DEL DEFENSOR DEL PUEBLO\u201d pretende recabar el apoyo y la adhesi\u00f3n de quienes entendemos que esta Instituci\u00f3n debe seguir desarrollando sus funciones de protecci\u00f3n de los derechos de las personas y control del gobierno y de la administraci\u00f3n.</p>\n<p><a href=\"http://www.peticiones.es/peticion/por-los-derechos-en-castilla-la-mancha/447\">http://www.peticiones.es/peticion/por-los-derechos-en-castilla-la-mancha/447</a></p>\n",
-      "protected": false
-    },
-    "excerpt": {
-      "rendered": "<p>&nbsp; Fuente: peticiones.es La Instituci\u00f3n de la Defensor\u00eda del Pueblo de Castilla-La Mancha fue creada por Ley, con unanimidad, el a\u00f1o 2001. A partir de esta fecha, la ciudadan\u00eda de nuestra Regi\u00f3n ha podido utilizar esa Oficina para defenderse de las actuaciones irregulares de las administraciones p\u00fablicas (Junta de Comunidades y Ayuntamientos) que vulnerasen sus <a href='https://toledo.tomalaplaza.net/no-a-la-supresion-del-defensor-del-pueblo-en-castilla-la-mancha/' class='excerpt-more'>[&#8230;]</a></p>\n",
-      "protected": false
-    },
-    "author": 12,
-    "featured_media": 0,
-    "comment_status": "closed",
-    "ping_status": "closed",
-    "sticky": false,
-    "template": "",
-    "format": "standard",
-    "meta": [],
-    "categories": [
-      3
-    ],
-    "tags": [],
-    "jetpack_featured_media_url": "",
-    "_links": {
-      "self": [
-        {
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/posts/26"
-        }
-      ],
-      "collection": [
-        {
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/posts"
-        }
-      ],
-      "about": [
-        {
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/types/post"
-        }
-      ],
-      "author": [
-        {
-          "embeddable": true,
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/users/12"
-        }
-      ],
-      "replies": [
-        {
-          "embeddable": true,
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/comments?post=26"
-        }
-      ],
-      "version-history": [
-        {
-          "count": 2,
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/posts/26/revisions"
-        }
-      ],
-      "predecessor-version": [
-        {
-          "id": 31,
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/posts/26/revisions/31"
-        }
-      ],
-      "wp:attachment": [
-        {
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/media?parent=26"
-        }
-      ],
-      "wp:term": [
-        {
-          "taxonomy": "category",
-          "embeddable": true,
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/categories?post=26"
-        },
-        {
-          "taxonomy": "post_tag",
-          "embeddable": true,
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/tags?post=26"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https://api.w.org/{rel}",
-          "templated": true
-        }
-      ]
-    }
+  "modified": "2017-01-22T13:57:29",
+  "modified_gmt": "2017-01-22T13:57:29",
+  "slug": "community",
+  "status": "publish",
+  "type": "page",
+  "link": "https://toledo.tomalaplaza.net/community/",
+  "title": {
+    "rendered": "Forum"
   },
-  {
-    "id": 22,
-    "date": "2011-06-24T09:22:46",
-    "date_gmt": "2011-06-24T09:22:46",
-    "guid": {
-      "rendered": "http://toledo.tomalaplaza.net/?p=22"
-    },
-    "modified": "2011-06-24T09:22:46",
-    "modified_gmt": "2011-06-24T09:22:46",
-    "slug": "comunicado-acontecimientos-22-de-junio",
-    "status": "publish",
-    "type": "post",
-    "link": "https://toledo.tomalaplaza.net/comunicado-acontecimientos-22-de-junio/",
-    "title": {
-      "rendered": "Comunicado Acontecimientos 22 de junio"
-    },
-    "content": {
-      "rendered": "<p>Tras los hechos acontecidos ayer en la ciudad de Toledo, cuando peque\u00f1os grupos de ciudadanos que se acercaron a protestar pac\u00edficamente a los aleda\u00f1os de San Pedro M\u00e1rtir donde se celebraba<br />\nla investidura de la nueva presidenta de Castilla La Mancha, fueron acordonados por la polic\u00eda, que les impidi\u00f3 el paso rode\u00e1ndolos de vallas y releg\u00e1ndoles a un peque\u00f1o espacio de la calle con empujones e insultos, creemos necesario emitir el presente comunicado. Se sufrieron momentos de tensi\u00f3n cuando algunos de los ciudadanos, que estaban recibiendo dichos empujones y patadas en los tobillos, solicitaron a los agentes su n\u00famero de identificaci\u00f3n. Tras negarse en reiteradas ocasiones, uno de ellos lo sac\u00f3 y se lo estamp\u00f3, literalmente, en la cara a uno de los ciudadanos, existiendo contacto f\u00edsico en tal acci\u00f3n. Otro de los ciudadanos fue sacado a tirones del grupo por estar haciendo fotos de los sucesos. Otra de las ciudadanas all\u00ed reunidas fue tirada al suelo al ser<br />\nempujada por un polic\u00eda mientras estaba de pie en mitad de la calle sin que hubiera motivo alguno para tal contundencia, polic\u00eda que tampoco quiso mostrar su n\u00famero de identificaci\u00f3n cuando le fue solicitado, siendo estos \u00fanicamente algunos ejemplos. En ning\u00fan momento se respondi\u00f3 a tales agresiones por parte de los ciudadanos que asist\u00edan at\u00f3nitos a los sucesos, retirando a los<br />\nciudadanos agredidos y pidiendo a la polic\u00eda mesura y calma.</p>\n<p>Despu\u00e9s, voluntaria y pac\u00edficamente, para no interceder en los actos que con motivo del Corpus<br />\nChristi se celebran estos d\u00edas en la localidad y mostrando su respeto a vecinos y visitantes, se trasladaron tranquilamente a las cercan\u00edas de San Juan de los Reyes, donde fueron interceptados sin motivo alguno por un grupo de polic\u00edas que cortaron el paso a los ciudadanos. Al verse bloqueados, un grupo de menos de 10 personas, rode\u00f3 San Juan de los Reyes bajando hasta la puerta del Cambr\u00f3n. Posteriormente, otro grupo reducido de no m\u00e1s de 12 personas se acerc\u00f3<br />\nigualmente a la zona. Mientras el primer grupo se tomaba un \u00a0refrigerio en una terraza de la zona, el\u00a0segundo grupo se sentaba en la plaza que hay justo enfrente. De repente, bajaron por la calle un n\u00famero indeterminado de polic\u00edas que rodearon a ambos grupos, y un furg\u00f3n de la Polic\u00eda Nacional, que estacion\u00f3 encima de la acera entorpeciendo moment\u00e1neamente el tr\u00e1fico. Los impidieron marcharse, moverse, incluso cruzar la calle, siendo retenidos de forma irregular por m\u00e1s de 40 minutos, momento en que otro grupo de personas lleg\u00f3 en transporte urbano y r\u00e1pidamente fueron igualmente rodeados. Cuando parec\u00eda que los dejaban marchar, transcurridos esos 40 minutos aproximadamente, \u00a0y pudieron cruzar a la acera de la plaza para seguir camino del Paseo de Recaredo, fueron nuevamente bloqueados a las puertas mismas del arco del Cambr\u00f3n, donde la polic\u00eda iba trayendo a la fuerza a los ciudadanos que quedaban fuera del cord\u00f3n policial. En ning\u00fan caso, ninguna de las personas all\u00ed retenidas respondi\u00f3 a las provocaciones, siendo en todo momento su actitud pac\u00edfica. De la mayor\u00eda de los hechos, conversaciones y situaciones vividas hay documentaci\u00f3n audiovisual. Reserv\u00e1ndose el derecho a<br />\nemprender cuantas acciones legales consideren oportunas en virtud de los hechos ocurridos.</p>\n<p>&nbsp;</p>\n<p>Por tanto:</p>\n<p>-Condenamos cualquier acto de violencia, en particular la que ocasionan los Cuerpos y Fuerzas de Seguridad del Estado, en esta caso la Polic\u00eda Nacional, para intimidar, coaccionar y acosar a ciudadanos que pac\u00edficamente ejercen su derecho de libre reuni\u00f3n y circulaci\u00f3n en la v\u00eda p\u00fablica, habiendo sido agrupados por la misma polic\u00eda al acordonar la calle e impidiendo el libre acceso al resto de calles aleda\u00f1as, exigiendo la dimisi\u00f3n inmediata de quien permita, ordene o competa dichas actuaciones que atentan contra la ciudadan\u00eda, a quien debieran proteger y no amedrentar.</p>\n<p>-Denunciamos igualmente, la desprotecci\u00f3n a la que se ven sometidos los ciudadanos y la vulneraci\u00f3n de derechos que sufren cuando quieren ser acallados por las esferas pol\u00edticas<br />\ntemerosas de la voz ciudadana. Ellos diferencian a estos ciudadanos de los que les otorgan su confianza en las urnas y vuelven a equivocarse, gobiernan para todos, no s\u00f3lo para sus votantes. Por lo que condenamos el abuso de poder que ejercen impunemente frente a ciudadanos pac\u00edficos y la discriminaci\u00f3n sufrida por no ser considerados ciudadanos leg\u00edtimos en cuanto al uso de derechos elementales como la libertad de expresi\u00f3n, manifestando nuestro m\u00e1s profundo<br />\nrechazo a la violencia ejercida desde las Instituciones P\u00fablicas sobre el grueso de los ciudadanos con los recortes sociales en sanidad, educaci\u00f3n y \u00e1mbito laboral a la que someten a la ciudadan\u00eda, mientras eliminan impuestos como los de sucesiones y patrimonio.</p>\n<p>-As\u00ed mismo, condenamos los casos de violencia medi\u00e1tica, y a todos aquellos que acallen este tipo de sucesos, haci\u00e9ndole el juego sucio al poder pol\u00edtico y financiero, atendiendo a sus propios intereses en vez de cumplir con su c\u00f3digo \u00e9tico y profesional.</p>\n<p>En Toledo, a 23 de junio de 2011.</p>\n<p>Acampada Toledo, Movimiento 15M.</p>\n<p><a href=\"mailto:acampadatoledo.comunicacion@gmail.com\">acampadatoledo.comunicacion@gmail.com</a></p>\n",
-      "protected": false
-    },
-    "excerpt": {
-      "rendered": "<p>Tras los hechos acontecidos ayer en la ciudad de Toledo, cuando peque\u00f1os grupos de ciudadanos que se acercaron a protestar pac\u00edficamente a los aleda\u00f1os de San Pedro M\u00e1rtir donde se celebraba la investidura de la nueva presidenta de Castilla La Mancha, fueron acordonados por la polic\u00eda, que les impidi\u00f3 el paso rode\u00e1ndolos de vallas y <a href='https://toledo.tomalaplaza.net/comunicado-acontecimientos-22-de-junio/' class='excerpt-more'>[&#8230;]</a></p>\n",
-      "protected": false
-    },
-    "author": 12,
-    "featured_media": 0,
-    "comment_status": "closed",
-    "ping_status": "closed",
-    "sticky": false,
-    "template": "",
-    "format": "standard",
-    "meta": [],
-    "categories": [
-      7
-    ],
-    "tags": [],
-    "jetpack_featured_media_url": "",
-    "_links": {
-      "self": [
-        {
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/posts/22"
-        }
-      ],
-      "collection": [
-        {
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/posts"
-        }
-      ],
-      "about": [
-        {
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/types/post"
-        }
-      ],
-      "author": [
-        {
-          "embeddable": true,
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/users/12"
-        }
-      ],
-      "replies": [
-        {
-          "embeddable": true,
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/comments?post=22"
-        }
-      ],
-      "version-history": [
-        {
-          "count": 2,
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/posts/22/revisions"
-        }
-      ],
-      "predecessor-version": [
-        {
-          "id": 24,
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/posts/22/revisions/24"
-        }
-      ],
-      "wp:attachment": [
-        {
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/media?parent=22"
-        }
-      ],
-      "wp:term": [
-        {
-          "taxonomy": "category",
-          "embeddable": true,
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/categories?post=22"
-        },
-        {
-          "taxonomy": "post_tag",
-          "embeddable": true,
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/tags?post=22"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https://api.w.org/{rel}",
-          "templated": true
-        }
-      ]
-    }
+  "content": {
+    "rendered": "<p>[wpforo]</p>\n",
+    "protected": false
   },
-  {
-    "id": 18,
-    "date": "2011-06-07T01:30:01",
-    "date_gmt": "2011-06-07T01:30:01",
-    "guid": {
-      "rendered": "http://toledo.tomalaplaza.net/?page_id=18"
-    },
-    "modified": "2011-06-07T01:30:01",
-    "modified_gmt": "2011-06-07T01:30:01",
-    "slug": "scheduler",
-    "status": "publish",
-    "type": "page",
-    "link": "https://toledo.tomalaplaza.net/scheduler/",
-    "title": {
-      "rendered": "scheduler"
-    },
-    "content": {
-      "rendered": "<p>[[scheduler_plugin]]</p>\n",
-      "protected": false
-    },
-    "excerpt": {
-      "rendered": "<p>[[scheduler_plugin]]</p>\n",
-      "protected": false
-    },
-    "author": 1,
-    "featured_media": 0,
-    "parent": 0,
-    "menu_order": 0,
-    "comment_status": "closed",
-    "ping_status": "closed",
-    "template": "",
-    "meta": [],
-    "_links": {
-      "self": [
-        {
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/pages/18"
-        }
-      ],
-      "collection": [
-        {
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/pages"
-        }
-      ],
-      "about": [
-        {
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/types/page"
-        }
-      ],
-      "author": [
-        {
-          "embeddable": true,
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/users/1"
-        }
-      ],
-      "replies": [
-        {
-          "embeddable": true,
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/comments?post=18"
-        }
-      ],
-      "version-history": [
-        {
-          "count": 0,
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/pages/18/revisions"
-        }
-      ],
-      "wp:attachment": [
-        {
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/media?parent=18"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https://api.w.org/{rel}",
-          "templated": true
-        }
-      ]
-    }
+  "excerpt": {
+    "rendered": "<p>[wpforo]</p>\n",
+    "protected": false
   },
-  {
-    "id": 5,
-    "date": "2011-05-19T17:49:15",
-    "date_gmt": "2011-05-19T17:49:15",
-    "guid": {
-      "rendered": "http://toledo.tomalaplaza.net/?p=5"
-    },
-    "modified": "2011-05-19T17:49:15",
-    "modified_gmt": "2011-05-19T17:49:15",
-    "slug": "%c2%bfcomo-protestar-con-mi-voto",
-    "status": "publish",
-    "type": "post",
-    "link": "https://toledo.tomalaplaza.net/%c2%bfcomo-protestar-con-mi-voto/",
-    "title": {
-      "rendered": "\u00bfC\u00d3MO PROTESTAR CON MI VOTO?"
-    },
-    "content": {
-      "rendered": "<p style=\"text-align: center\"><strong>\u201cNO<br />\nLLAMAMOS A LA ABSTENCI\u00d3N\u201d </strong></p>\n<p style=\"text-align: center\">&nbsp;</p>\n<p style=\"text-align: center\"><strong>\u201cS\u00cd A<br />\nVOTAR EN CONCIENCIA\u201d</strong></p>\n<p>Somos una movilizaci\u00f3n apartidista y espont\u00e1nea que<br />\nllamamos a los ciudadanos a ejercer su derecho a voto de una forma responsable.</p>\n<p>No nos sentimos representados por los pol\u00edticos<br />\nactuales, ni pedimos el voto para ning\u00fan partido, cada cu\u00e1l es libre de decidir<br />\nsu voto y creemos interesante informar de las repercusiones que cada voto tiene<br />\nen las urnas.</p>\n<p>&nbsp;</p>\n<p><strong>Votar en blanco</strong></p>\n<p>El voto en blanco consiste en ejercer el derecho al<br />\nvoto pero <strong>sin meter nada en el sobre</strong>. <span style=\"text-decoration: underline\">Es un voto v\u00e1lido</span> y se<br />\ncomputa, tiene efecto directo a favor de los grandes partidos en perjuicio de<br />\nlos peque\u00f1os porque no se tienen en cuenta en la repartici\u00f3n de esca\u00f1os</p>\n<p style=\"text-align: center\">\u201cExpresa la queja contra los partidos pero <span style=\"text-decoration: underline\">beneficia<br />\na los partidos mayoritarios</span>\u201d</p>\n<p>&nbsp;</p>\n<p><strong>Voto nulo</strong></p>\n<p>El voto nulo<strong> es un voto con deficiencias</strong><br />\n(papeletas tachadas, introducir otra cosa que no sean papeletas, etc.). <span style=\"text-decoration: underline\">Es<br />\nun voto inv\u00e1lido</span>. No se computa, por tanto, no cuenta para nada.</p>\n<p style=\"text-align: center\">\u201cNo deja relevancia del mensaje de la protesta en los<br />\nresultados electorales\u201d</p>\n<p>&nbsp;</p>\n<p><strong>La abstenci\u00f3n</strong></p>\n<p>La abstenci\u00f3n consiste en <span style=\"text-decoration: underline\">no acudir a votar</span>.</p>\n<p style=\"text-align: center\">\u201cNo deja relevancia del mensaje de<br />\nla protesta en los resultados electorales\u201d</p>\n<p>&nbsp;</p>\n<p><strong>Partidos minoritarios</strong></p>\n<p><strong>E</strong>l sistema actual <strong>favorece a los<br />\npartidos m\u00e1s grandes </strong>y dificulta la representatividad de los m\u00e1s peque\u00f1os.</p>\n<p style=\"text-align: center\">\u201cExpresa las quejas contra un<br />\nsistema en el que no nos sentimos representados. Restaremos poder a los<br />\npartidos mayoritarios oblig\u00e1ndoles a tener en cuenta al resto\u201d</p>\n<p>&nbsp;</p>\n",
-      "protected": false
-    },
-    "excerpt": {
-      "rendered": "<p>\u201cNO LLAMAMOS A LA ABSTENCI\u00d3N\u201d &nbsp; \u201cS\u00cd A VOTAR EN CONCIENCIA\u201d Somos una movilizaci\u00f3n apartidista y espont\u00e1nea que llamamos a los ciudadanos a ejercer su derecho a voto de una forma responsable. No nos sentimos representados por los pol\u00edticos actuales, ni pedimos el voto para ning\u00fan partido, cada cu\u00e1l es libre de decidir su voto <a href='https://toledo.tomalaplaza.net/%c2%bfcomo-protestar-con-mi-voto/' class='excerpt-more'>[&#8230;]</a></p>\n",
-      "protected": false
-    },
-    "author": 12,
-    "featured_media": 0,
-    "comment_status": "closed",
-    "ping_status": "closed",
-    "sticky": false,
-    "template": "",
-    "format": "standard",
-    "meta": [],
-    "categories": [
-      3
+  "author": 1657,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "close",
+  "ping_status": "close",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/pages/44"
+      }
     ],
-    "tags": [
-      4
+    "collection": [
+      {
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/pages"
+      }
     ],
-    "jetpack_featured_media_url": "",
-    "_links": {
-      "self": [
-        {
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/posts/5"
-        }
-      ],
-      "collection": [
-        {
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/posts"
-        }
-      ],
-      "about": [
-        {
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/types/post"
-        }
-      ],
-      "author": [
-        {
-          "embeddable": true,
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/users/12"
-        }
-      ],
-      "replies": [
-        {
-          "embeddable": true,
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/comments?post=5"
-        }
-      ],
-      "version-history": [
-        {
-          "count": 2,
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/posts/5/revisions"
-        }
-      ],
-      "predecessor-version": [
-        {
-          "id": 7,
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/posts/5/revisions/7"
-        }
-      ],
-      "wp:attachment": [
-        {
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/media?parent=5"
-        }
-      ],
-      "wp:term": [
-        {
-          "taxonomy": "category",
-          "embeddable": true,
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/categories?post=5"
-        },
-        {
-          "taxonomy": "post_tag",
-          "embeddable": true,
-          "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/tags?post=5"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https://api.w.org/{rel}",
-          "templated": true
-        }
-      ]
-    }
+    "about": [
+      {
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/users/1657"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/comments?post=44"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/pages/44/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/media?parent=44"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
   }
-]
+},{
+  "id": 26,
+  "date": "2011-06-28T21:23:46",
+  "date_gmt": "2011-06-28T21:23:46",
+  "guid": {
+    "rendered": "http://toledo.tomalaplaza.net/?p=26"
+  },
+  "modified": "2011-08-13T15:52:08",
+  "modified_gmt": "2011-08-13T15:52:08",
+  "slug": "no-a-la-supresion-del-defensor-del-pueblo-en-castilla-la-mancha",
+  "status": "publish",
+  "type": "post",
+  "link": "https://toledo.tomalaplaza.net/no-a-la-supresion-del-defensor-del-pueblo-en-castilla-la-mancha/",
+  "title": {
+    "rendered": "No a la supresi\u00f3n del Defensor del Pueblo en Castilla La Mancha"
+  },
+  "content": {
+    "rendered": "<p>&nbsp;</p>\n<p>Fuente: peticiones.es<br />\nLa Instituci\u00f3n de la Defensor\u00eda del Pueblo de Castilla-La Mancha fue creada por Ley, con unanimidad, el a\u00f1o 2001.</p>\n<p>A partir de esta fecha, la ciudadan\u00eda de nuestra Regi\u00f3n ha podido utilizar esa Oficina para defenderse de las actuaciones irregulares de las administraciones p\u00fablicas (Junta de Comunidades y Ayuntamientos) que vulnerasen sus derechos constitucionales (Salud, Educaci\u00f3n\u2026)</p>\n<p>En el a\u00f1o 2010, la Ley de Igualdad de Castilla-La Mancha la designa como garante del derecho a la igualdad y a la no discriminaci\u00f3n por raz\u00f3n de sexo.</p>\n<p>Pese a que la existencia del Defensor del Pueblo constituye una garant\u00eda para los derechos de las personas, el pasado 20 de junio, en su discurso de investidura, la nueva Presidenta del Gobierno Regional, Mar\u00eda Dolores de Cospedal, anunci\u00f3 que suprimir\u00eda esta Instituci\u00f3n.</p>\n<p>Entendemos que esta medida resulta contraria a los intereses de los hombres y mujeres de esta Regi\u00f3n, potenciales usuarios y usuarias de la Instituci\u00f3n, por las siguientes razones:</p>\n<p>-Porque, si se elimina esta figura, veremos recortados nuestros derechos y se nos privar\u00e1 de un medio de defensa cercano, gratuito, \u00e1gil y eficaz frente a la actuaci\u00f3n irregular\u00a0 de las Administraciones P\u00fablicas.</p>\n<p>-Porque permitiremos al Gobierno Regional deshacerse de una Instituci\u00f3n cuya funci\u00f3n es el control de su actividad: Menos control=mayor impunidad.</p>\n<p>-Porque la supresi\u00f3n de la Instituci\u00f3n nos convertir\u00e1, otra vez, en ciudadanos y ciudadanas \u201cde segunda\u201d, al privarnos de una Oficina a la que s\u00ed pueden acudir quienes residen en la casi totalidad de las Comunidades Aut\u00f3nomas, desde Murcia o Valencia, hasta Catalu\u00f1a o el Pa\u00eds Vasco.</p>\n<p>-Porque el mantenimiento de este servicio supone un gasto inferior a un euro por habitante y a\u00f1o que, sin embargo, permite atender anualmente las reclamaciones de m\u00e1s de 15.000 personas.</p>\n<p>Ante tal iniciativa, la plataforma \u201cNO A LA SUPRESI\u00d3N DEL DEFENSOR DEL PUEBLO\u201d pretende recabar el apoyo y la adhesi\u00f3n de quienes entendemos que esta Instituci\u00f3n debe seguir desarrollando sus funciones de protecci\u00f3n de los derechos de las personas y control del gobierno y de la administraci\u00f3n.</p>\n<p><a href=\"http://www.peticiones.es/peticion/por-los-derechos-en-castilla-la-mancha/447\">http://www.peticiones.es/peticion/por-los-derechos-en-castilla-la-mancha/447</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>&nbsp; Fuente: peticiones.es La Instituci\u00f3n de la Defensor\u00eda del Pueblo de Castilla-La Mancha fue creada por Ley, con unanimidad, el a\u00f1o 2001. A partir de esta fecha, la ciudadan\u00eda de nuestra Regi\u00f3n ha podido utilizar esa Oficina para defenderse de las actuaciones irregulares de las administraciones p\u00fablicas (Junta de Comunidades y Ayuntamientos) que vulnerasen sus <a href='https://toledo.tomalaplaza.net/no-a-la-supresion-del-defensor-del-pueblo-en-castilla-la-mancha/' class='excerpt-more'>[&#8230;]</a></p>\n",
+    "protected": false
+  },
+  "author": 12,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "categories": [
+    3
+  ],
+  "tags": [],
+  "jetpack_featured_media_url": "",
+  "_links": {
+    "self": [
+      {
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/posts/26"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/users/12"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/comments?post=26"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/posts/26/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 31,
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/posts/26/revisions/31"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/media?parent=26"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/categories?post=26"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/tags?post=26"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+},{
+  "id": 22,
+  "date": "2011-06-24T09:22:46",
+  "date_gmt": "2011-06-24T09:22:46",
+  "guid": {
+    "rendered": "http://toledo.tomalaplaza.net/?p=22"
+  },
+  "modified": "2011-06-24T09:22:46",
+  "modified_gmt": "2011-06-24T09:22:46",
+  "slug": "comunicado-acontecimientos-22-de-junio",
+  "status": "publish",
+  "type": "post",
+  "link": "https://toledo.tomalaplaza.net/comunicado-acontecimientos-22-de-junio/",
+  "title": {
+    "rendered": "Comunicado Acontecimientos 22 de junio"
+  },
+  "content": {
+    "rendered": "<p>Tras los hechos acontecidos ayer en la ciudad de Toledo, cuando peque\u00f1os grupos de ciudadanos que se acercaron a protestar pac\u00edficamente a los aleda\u00f1os de San Pedro M\u00e1rtir donde se celebraba<br />\nla investidura de la nueva presidenta de Castilla La Mancha, fueron acordonados por la polic\u00eda, que les impidi\u00f3 el paso rode\u00e1ndolos de vallas y releg\u00e1ndoles a un peque\u00f1o espacio de la calle con empujones e insultos, creemos necesario emitir el presente comunicado. Se sufrieron momentos de tensi\u00f3n cuando algunos de los ciudadanos, que estaban recibiendo dichos empujones y patadas en los tobillos, solicitaron a los agentes su n\u00famero de identificaci\u00f3n. Tras negarse en reiteradas ocasiones, uno de ellos lo sac\u00f3 y se lo estamp\u00f3, literalmente, en la cara a uno de los ciudadanos, existiendo contacto f\u00edsico en tal acci\u00f3n. Otro de los ciudadanos fue sacado a tirones del grupo por estar haciendo fotos de los sucesos. Otra de las ciudadanas all\u00ed reunidas fue tirada al suelo al ser<br />\nempujada por un polic\u00eda mientras estaba de pie en mitad de la calle sin que hubiera motivo alguno para tal contundencia, polic\u00eda que tampoco quiso mostrar su n\u00famero de identificaci\u00f3n cuando le fue solicitado, siendo estos \u00fanicamente algunos ejemplos. En ning\u00fan momento se respondi\u00f3 a tales agresiones por parte de los ciudadanos que asist\u00edan at\u00f3nitos a los sucesos, retirando a los<br />\nciudadanos agredidos y pidiendo a la polic\u00eda mesura y calma.</p>\n<p>Despu\u00e9s, voluntaria y pac\u00edficamente, para no interceder en los actos que con motivo del Corpus<br />\nChristi se celebran estos d\u00edas en la localidad y mostrando su respeto a vecinos y visitantes, se trasladaron tranquilamente a las cercan\u00edas de San Juan de los Reyes, donde fueron interceptados sin motivo alguno por un grupo de polic\u00edas que cortaron el paso a los ciudadanos. Al verse bloqueados, un grupo de menos de 10 personas, rode\u00f3 San Juan de los Reyes bajando hasta la puerta del Cambr\u00f3n. Posteriormente, otro grupo reducido de no m\u00e1s de 12 personas se acerc\u00f3<br />\nigualmente a la zona. Mientras el primer grupo se tomaba un \u00a0refrigerio en una terraza de la zona, el\u00a0segundo grupo se sentaba en la plaza que hay justo enfrente. De repente, bajaron por la calle un n\u00famero indeterminado de polic\u00edas que rodearon a ambos grupos, y un furg\u00f3n de la Polic\u00eda Nacional, que estacion\u00f3 encima de la acera entorpeciendo moment\u00e1neamente el tr\u00e1fico. Los impidieron marcharse, moverse, incluso cruzar la calle, siendo retenidos de forma irregular por m\u00e1s de 40 minutos, momento en que otro grupo de personas lleg\u00f3 en transporte urbano y r\u00e1pidamente fueron igualmente rodeados. Cuando parec\u00eda que los dejaban marchar, transcurridos esos 40 minutos aproximadamente, \u00a0y pudieron cruzar a la acera de la plaza para seguir camino del Paseo de Recaredo, fueron nuevamente bloqueados a las puertas mismas del arco del Cambr\u00f3n, donde la polic\u00eda iba trayendo a la fuerza a los ciudadanos que quedaban fuera del cord\u00f3n policial. En ning\u00fan caso, ninguna de las personas all\u00ed retenidas respondi\u00f3 a las provocaciones, siendo en todo momento su actitud pac\u00edfica. De la mayor\u00eda de los hechos, conversaciones y situaciones vividas hay documentaci\u00f3n audiovisual. Reserv\u00e1ndose el derecho a<br />\nemprender cuantas acciones legales consideren oportunas en virtud de los hechos ocurridos.</p>\n<p>&nbsp;</p>\n<p>Por tanto:</p>\n<p>-Condenamos cualquier acto de violencia, en particular la que ocasionan los Cuerpos y Fuerzas de Seguridad del Estado, en esta caso la Polic\u00eda Nacional, para intimidar, coaccionar y acosar a ciudadanos que pac\u00edficamente ejercen su derecho de libre reuni\u00f3n y circulaci\u00f3n en la v\u00eda p\u00fablica, habiendo sido agrupados por la misma polic\u00eda al acordonar la calle e impidiendo el libre acceso al resto de calles aleda\u00f1as, exigiendo la dimisi\u00f3n inmediata de quien permita, ordene o competa dichas actuaciones que atentan contra la ciudadan\u00eda, a quien debieran proteger y no amedrentar.</p>\n<p>-Denunciamos igualmente, la desprotecci\u00f3n a la que se ven sometidos los ciudadanos y la vulneraci\u00f3n de derechos que sufren cuando quieren ser acallados por las esferas pol\u00edticas<br />\ntemerosas de la voz ciudadana. Ellos diferencian a estos ciudadanos de los que les otorgan su confianza en las urnas y vuelven a equivocarse, gobiernan para todos, no s\u00f3lo para sus votantes. Por lo que condenamos el abuso de poder que ejercen impunemente frente a ciudadanos pac\u00edficos y la discriminaci\u00f3n sufrida por no ser considerados ciudadanos leg\u00edtimos en cuanto al uso de derechos elementales como la libertad de expresi\u00f3n, manifestando nuestro m\u00e1s profundo<br />\nrechazo a la violencia ejercida desde las Instituciones P\u00fablicas sobre el grueso de los ciudadanos con los recortes sociales en sanidad, educaci\u00f3n y \u00e1mbito laboral a la que someten a la ciudadan\u00eda, mientras eliminan impuestos como los de sucesiones y patrimonio.</p>\n<p>-As\u00ed mismo, condenamos los casos de violencia medi\u00e1tica, y a todos aquellos que acallen este tipo de sucesos, haci\u00e9ndole el juego sucio al poder pol\u00edtico y financiero, atendiendo a sus propios intereses en vez de cumplir con su c\u00f3digo \u00e9tico y profesional.</p>\n<p>En Toledo, a 23 de junio de 2011.</p>\n<p>Acampada Toledo, Movimiento 15M.</p>\n<p><a href=\"mailto:acampadatoledo.comunicacion@gmail.com\">acampadatoledo.comunicacion@gmail.com</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Tras los hechos acontecidos ayer en la ciudad de Toledo, cuando peque\u00f1os grupos de ciudadanos que se acercaron a protestar pac\u00edficamente a los aleda\u00f1os de San Pedro M\u00e1rtir donde se celebraba la investidura de la nueva presidenta de Castilla La Mancha, fueron acordonados por la polic\u00eda, que les impidi\u00f3 el paso rode\u00e1ndolos de vallas y <a href='https://toledo.tomalaplaza.net/comunicado-acontecimientos-22-de-junio/' class='excerpt-more'>[&#8230;]</a></p>\n",
+    "protected": false
+  },
+  "author": 12,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "categories": [
+    7
+  ],
+  "tags": [],
+  "jetpack_featured_media_url": "",
+  "_links": {
+    "self": [
+      {
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/posts/22"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/users/12"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/comments?post=22"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/posts/22/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 24,
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/posts/22/revisions/24"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/media?parent=22"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/categories?post=22"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/tags?post=22"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+},{
+  "id": 18,
+  "date": "2011-06-07T01:30:01",
+  "date_gmt": "2011-06-07T01:30:01",
+  "guid": {
+    "rendered": "http://toledo.tomalaplaza.net/?page_id=18"
+  },
+  "modified": "2011-06-07T01:30:01",
+  "modified_gmt": "2011-06-07T01:30:01",
+  "slug": "scheduler",
+  "status": "publish",
+  "type": "page",
+  "link": "https://toledo.tomalaplaza.net/scheduler/",
+  "title": {
+    "rendered": "scheduler"
+  },
+  "content": {
+    "rendered": "<p>[[scheduler_plugin]]</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>[[scheduler_plugin]]</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/pages/18"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/comments?post=18"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/pages/18/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/media?parent=18"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+},{
+  "id": 5,
+  "date": "2011-05-19T17:49:15",
+  "date_gmt": "2011-05-19T17:49:15",
+  "guid": {
+    "rendered": "http://toledo.tomalaplaza.net/?p=5"
+  },
+  "modified": "2011-05-19T17:49:15",
+  "modified_gmt": "2011-05-19T17:49:15",
+  "slug": "%c2%bfcomo-protestar-con-mi-voto",
+  "status": "publish",
+  "type": "post",
+  "link": "https://toledo.tomalaplaza.net/%c2%bfcomo-protestar-con-mi-voto/",
+  "title": {
+    "rendered": "\u00bfC\u00d3MO PROTESTAR CON MI VOTO?"
+  },
+  "content": {
+    "rendered": "<p style=\"text-align: center\"><strong>\u201cNO<br />\nLLAMAMOS A LA ABSTENCI\u00d3N\u201d </strong></p>\n<p style=\"text-align: center\">&nbsp;</p>\n<p style=\"text-align: center\"><strong>\u201cS\u00cd A<br />\nVOTAR EN CONCIENCIA\u201d</strong></p>\n<p>Somos una movilizaci\u00f3n apartidista y espont\u00e1nea que<br />\nllamamos a los ciudadanos a ejercer su derecho a voto de una forma responsable.</p>\n<p>No nos sentimos representados por los pol\u00edticos<br />\nactuales, ni pedimos el voto para ning\u00fan partido, cada cu\u00e1l es libre de decidir<br />\nsu voto y creemos interesante informar de las repercusiones que cada voto tiene<br />\nen las urnas.</p>\n<p>&nbsp;</p>\n<p><strong>Votar en blanco</strong></p>\n<p>El voto en blanco consiste en ejercer el derecho al<br />\nvoto pero <strong>sin meter nada en el sobre</strong>. <span style=\"text-decoration: underline\">Es un voto v\u00e1lido</span> y se<br />\ncomputa, tiene efecto directo a favor de los grandes partidos en perjuicio de<br />\nlos peque\u00f1os porque no se tienen en cuenta en la repartici\u00f3n de esca\u00f1os</p>\n<p style=\"text-align: center\">\u201cExpresa la queja contra los partidos pero <span style=\"text-decoration: underline\">beneficia<br />\na los partidos mayoritarios</span>\u201d</p>\n<p>&nbsp;</p>\n<p><strong>Voto nulo</strong></p>\n<p>El voto nulo<strong> es un voto con deficiencias</strong><br />\n(papeletas tachadas, introducir otra cosa que no sean papeletas, etc.). <span style=\"text-decoration: underline\">Es<br />\nun voto inv\u00e1lido</span>. No se computa, por tanto, no cuenta para nada.</p>\n<p style=\"text-align: center\">\u201cNo deja relevancia del mensaje de la protesta en los<br />\nresultados electorales\u201d</p>\n<p>&nbsp;</p>\n<p><strong>La abstenci\u00f3n</strong></p>\n<p>La abstenci\u00f3n consiste en <span style=\"text-decoration: underline\">no acudir a votar</span>.</p>\n<p style=\"text-align: center\">\u201cNo deja relevancia del mensaje de<br />\nla protesta en los resultados electorales\u201d</p>\n<p>&nbsp;</p>\n<p><strong>Partidos minoritarios</strong></p>\n<p><strong>E</strong>l sistema actual <strong>favorece a los<br />\npartidos m\u00e1s grandes </strong>y dificulta la representatividad de los m\u00e1s peque\u00f1os.</p>\n<p style=\"text-align: center\">\u201cExpresa las quejas contra un<br />\nsistema en el que no nos sentimos representados. Restaremos poder a los<br />\npartidos mayoritarios oblig\u00e1ndoles a tener en cuenta al resto\u201d</p>\n<p>&nbsp;</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>\u201cNO LLAMAMOS A LA ABSTENCI\u00d3N\u201d &nbsp; \u201cS\u00cd A VOTAR EN CONCIENCIA\u201d Somos una movilizaci\u00f3n apartidista y espont\u00e1nea que llamamos a los ciudadanos a ejercer su derecho a voto de una forma responsable. No nos sentimos representados por los pol\u00edticos actuales, ni pedimos el voto para ning\u00fan partido, cada cu\u00e1l es libre de decidir su voto <a href='https://toledo.tomalaplaza.net/%c2%bfcomo-protestar-con-mi-voto/' class='excerpt-more'>[&#8230;]</a></p>\n",
+    "protected": false
+  },
+  "author": 12,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "categories": [
+    3
+  ],
+  "tags": [
+    4
+  ],
+  "jetpack_featured_media_url": "",
+  "_links": {
+    "self": [
+      {
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/posts/5"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/users/12"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/comments?post=5"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/posts/5/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 7,
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/posts/5/revisions/7"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/media?parent=5"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/categories?post=5"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/tags?post=5"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}]

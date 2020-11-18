@@ -3,7 +3,7 @@ import re
 
 from bunch import Bunch
 
-from .data import FindUrl, tuple_url, loadwpjson, loadwkjson
+from .data import FindUrl, tuple_url, loadwpjson, loadpageswkjson, loadimageswkjson
 from .util import find_value
 from functools import lru_cache
 import requests
@@ -526,9 +526,9 @@ class ScrapDB:
 
             sites={}
             for o in results:
-                data = db.db_url.get(o["prefix"])
+                data = db.db_meta.get(o["prefix"])
                 if data is None:
-                    print("%s sera descartado (no hay url en db_url)" % o["prefix"])
+                    print("%s sera descartado (no hay aparece en db_meta)" % o["prefix"])
                     continue
                 o = {**o, **data}
                 o["url"] = o["site"]
@@ -558,7 +558,8 @@ class ScrapDB:
                     CONVERT(t.old_text USING utf8) _content,
                     TIMESTAMP(rA.rev_timestamp) date,
                     TIMESTAMP(rZ.rev_timestamp) modified,
-                    TIMESTAMP(p.page_touched) touched
+                    TIMESTAMP(p.page_touched) touched,
+                    CONCAT('{api}', 'parse&prop=text&formatversion=2&pageid=', p.page_id) _parse
                 from
                     {prefix}page p
                     INNER JOIN
@@ -577,7 +578,7 @@ class ScrapDB:
             results = db.multi_execute(sites, '''
         		select
                     '{siteurl}' site,
-                    p.img_name ID,
+                    CONVERT(p.img_name USING utf8) ID,
                     CONCAT(p.img_major_mime, '/', p.img_minor_mime) type,
                     TIMESTAMP(p.img_timestamp) date
                 from
@@ -595,18 +596,29 @@ class ScrapDB:
             for i in wiki.pages:
                 if i["site"] == site:
                     _objs[i["ID"]] = i
-            meta["wkjson"] = loadwkjson(meta['api'], site, _objs)
+            meta["wkpagesjson"] = loadpageswkjson(meta['api'], site, _objs)
+            _objs = {}
+            for i in wiki.media:
+                if i["site"] == site:
+                    _objs[i["ID"]] = i
+            meta["wkimagesjson"] = loadimageswkjson(meta['api'], site, _objs)
         print("Recuperando información de api wk-json) 100%")
 
         for data in wiki.pages:
             site = wiki.sites[data["site"]]
-            wk_data = site["wkjson"].get(data["ID"], {})
+            wk_data = site["wkpagesjson"].get(data["ID"], {})
             data["_WKJSON"] = bool(wk_data)
             data["content"] = wk_data.get("text")
             title = (wk_data.get("title") or "").strip()
             if len(title)>0:
                 data["title"]=title
             data["url"] = find_value(wk_data, "canonicalurl", "fullurl", avoid="#")
+
+        for data in wiki.media:
+            site = wiki.sites[data["site"]]
+            wk_data = site["wkimagesjson"].get(data["ID"], {})
+            data["_WKJSON"] = bool(wk_data)
+            data["url"] = find_value(wk_data, "url", avoid="#")
 
         self.print_totales("wiki", wiki)
         return wiki

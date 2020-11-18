@@ -126,7 +126,7 @@ marchestobrussels.takethesquare.net
  122 https://marchestobrussels.takethesquare.net/files/2011/08/boton_facebook.png
  123 https://marchestobrussels.takethesquare.net/files/2011/08/boton_flickr.png
  124 https://marchestobrussels.takethesquare.net/files/2011/08/boton_twitter.png
- 125 http://marchestobrussels.takethesquare.net/files/2011/08/rss-e1313605950984.png
+ 125 https://marchestobrussels.takethesquare.net/files/2011/08/rss-e1313605950984.png
 2279 https://marchestobrussels.takethesquare.net/files/2011/10/SIGNOS-ASAMBLEARIOS-copia.jpg
 malaga.tomalaplaza.net
 3999 https://malaga.tomalaplaza.net/files/2012/11/482986_10151112272355754_1162603060_n.jpg
@@ -218,7 +218,7 @@ torrelaguna.tomalosbarrios.net
 -99670 https://torrelaguna.tomalosbarrios.net/cacerolada-14n/
  99670 https://torrelaguna.tomalosbarrios.net/files/2012/11/cacerolada-14n.jpg
 transitionday.takethesquare.net
-29 http://transitionday.takethesquare.net/files/2011/10/20111008occupy620.jpg
+29 https://transitionday.takethesquare.net/files/2011/10/20111008occupy620.jpg
 usera.tomalosbarrios.net
 -4156 https://usera.tomalosbarrios.net/cartel-f-1_12_2012/
 -3946 https://usera.tomalosbarrios.net/cartel-charla-energia/

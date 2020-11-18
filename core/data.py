@@ -152,18 +152,27 @@ def save_link_json(file, data):
         data = data.values()
     data = sorted(data, key=lambda x: x["id"], reverse=True)
     with open(file, "w") as f:
-        json.dump(data, f, indent=2)
+        if len(data)==0:
+            f.write("[]")
+        else:
+            f.write("[")
+            json.dump(data[0], f, indent=2)
+            for d in data[1:]:
+                f.write(",")
+                json.dump(d, f, indent=2)
+            f.write("]")
     file = file.rsplit(".", 1)[0] + ".txt"
     width = max((len(str(d["id"])) for d in data), default=3)
     line = "%"+str(width)+"s %s\n"
     with open(file, "w") as f:
         for d in data:
-            url = find_value(d, "canonicalurl", "fullurl", "source_url", "link", avoid="#")
+            url = find_value(d, "canonicalurl", "fullurl", "source_url", "link", "url", avoid="#")
             if url:
                 url = url.split("://", 1)[-1]
                 f.write(line % (d["id"], url))
 
-def loadwkjson(api, site, db_objs):
+def loadpageswkjson(api, site, db_objs):
+    # https://www.mediawiki.org/wiki/API:Main_page
     file = "data/wk-json/%s.json" % site.replace("/", "_")
     o_data = get_arr_json(file)
     o_data = [d for d in o_data if d["id"] in db_objs]
@@ -195,14 +204,52 @@ def loadwkjson(api, site, db_objs):
             try:
                 r = r.json()
             except simplejson.errors.JSONDecodeError:
-                p['__parse'] = url
+                p['error']={
+                    '__parse': url,
+                    "__text": r.text.strip(),
+                    "__code": r.status_code
+                }
                 continue
             if "error" in r:
-                p['__parse'] = url
                 p['error'] = r['error']
+                p['error']['__parse'] = url
                 continue
             r = r['parse']
             p['text'] = r['text']
+    save_link_json(file, data)
+    return data
+
+def loadimageswkjson(api, site, db_objs):
+    # https://www.mediawiki.org/wiki/API:Main_page
+    file = "data/wk-json/%s_img.json" % site.replace("/", "_")
+    o_data = get_arr_json(file)
+    o_data = [d for d in o_data if d["id"] in db_objs]
+    save_link_json(file, o_data)
+    exclude = set()
+    for i in o_data:
+        if 'error' in i:
+            continue
+        idb = db_objs.get(i["id"])
+        i_date = datetime.strptime(i["timestamp"], '%Y-%m-%dT%H:%M:%SZ')
+        if i_date == idb["date"]:
+            exclude.add(i["id"])
+    data = {d["id"]:d for d in o_data}
+    include=[i for i in sorted(db_objs.keys()) if i not in exclude]
+    if not include:
+        return data
+    while include:
+        id = include.pop(0)
+        url = api+"query&list=allimages&ailimit=500&aicontinue=" + id
+        r = requests.get(url)
+        r = r.json()
+        r = r['query']['allimages']
+        for p in r:
+            id = p["name"]
+            p["id"] = id
+            del p["name"]
+            data[id] = p
+            if id in include:
+                include.remove(id)
     save_link_json(file, data)
     return data
 

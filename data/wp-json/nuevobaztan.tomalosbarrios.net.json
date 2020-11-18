@@ -1,735 +1,725 @@
-[
-  {
-    "id": 31,
-    "date": "2012-06-09T21:45:58",
-    "date_gmt": "2012-06-09T19:45:58",
-    "guid": {
-      "rendered": "http://nuevobaztan.tomalosbarrios.net/?p=31"
-    },
-    "modified": "2012-06-09T21:45:58",
-    "modified_gmt": "2012-06-09T19:45:58",
-    "slug": "silo-de-tiempo",
-    "status": "publish",
-    "type": "post",
-    "link": "https://nuevobaztan.tomalosbarrios.net/2012/06/09/silo-de-tiempo/",
-    "title": {
-      "rendered": "Silo de Tiempo"
-    },
-    "content": {
-      "rendered": "<p>Proximamente pondremos en marcha nuestro Silo de Tiempo.<br />\nEl enlace es: <a href=\"http://www.silodetiempoalc15m.es\">www.silodetiempoalc15m.es</a></p>\n<p>Tambien existe un correo con el mismo nombre: silodetiempoalc15m.gmail.com, al que podeis dirigir vuestras peticiones de usuarios o aporte a esta idea.</p>\n",
-      "protected": false
-    },
-    "excerpt": {
-      "rendered": "<p>Proximamente pondremos en marcha nuestro Silo de Tiempo. El enlace es: www.silodetiempoalc15m.es Tambien existe un correo con el mismo nombre: silodetiempoalc15m.gmail.com, al que podeis dirigir vuestras peticiones de usuarios o aporte a esta idea.</p>\n",
-      "protected": false
-    },
-    "author": 614,
-    "featured_media": 0,
-    "comment_status": "open",
-    "ping_status": "open",
-    "sticky": false,
-    "template": "",
-    "format": "standard",
-    "meta": [],
-    "categories": [
-      1
+[{
+  "id": 31,
+  "date": "2012-06-09T21:45:58",
+  "date_gmt": "2012-06-09T19:45:58",
+  "guid": {
+    "rendered": "http://nuevobaztan.tomalosbarrios.net/?p=31"
+  },
+  "modified": "2012-06-09T21:45:58",
+  "modified_gmt": "2012-06-09T19:45:58",
+  "slug": "silo-de-tiempo",
+  "status": "publish",
+  "type": "post",
+  "link": "https://nuevobaztan.tomalosbarrios.net/2012/06/09/silo-de-tiempo/",
+  "title": {
+    "rendered": "Silo de Tiempo"
+  },
+  "content": {
+    "rendered": "<p>Proximamente pondremos en marcha nuestro Silo de Tiempo.<br />\nEl enlace es: <a href=\"http://www.silodetiempoalc15m.es\">www.silodetiempoalc15m.es</a></p>\n<p>Tambien existe un correo con el mismo nombre: silodetiempoalc15m.gmail.com, al que podeis dirigir vuestras peticiones de usuarios o aporte a esta idea.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Proximamente pondremos en marcha nuestro Silo de Tiempo. El enlace es: www.silodetiempoalc15m.es Tambien existe un correo con el mismo nombre: silodetiempoalc15m.gmail.com, al que podeis dirigir vuestras peticiones de usuarios o aporte a esta idea.</p>\n",
+    "protected": false
+  },
+  "author": 614,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "open",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "categories": [
+    1
+  ],
+  "tags": [],
+  "jetpack_featured_media_url": "",
+  "_links": {
+    "self": [
+      {
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/posts/31"
+      }
     ],
-    "tags": [],
-    "jetpack_featured_media_url": "",
-    "_links": {
-      "self": [
-        {
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/posts/31"
-        }
-      ],
-      "collection": [
-        {
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/posts"
-        }
-      ],
-      "about": [
-        {
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/types/post"
-        }
-      ],
-      "author": [
-        {
-          "embeddable": true,
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/users/614"
-        }
-      ],
-      "replies": [
-        {
-          "embeddable": true,
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/comments?post=31"
-        }
-      ],
-      "version-history": [
-        {
-          "count": 1,
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/posts/31/revisions"
-        }
-      ],
-      "predecessor-version": [
-        {
-          "id": 32,
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/posts/31/revisions/32"
-        }
-      ],
-      "wp:attachment": [
-        {
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/media?parent=31"
-        }
-      ],
-      "wp:term": [
-        {
-          "taxonomy": "category",
-          "embeddable": true,
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/categories?post=31"
-        },
-        {
-          "taxonomy": "post_tag",
-          "embeddable": true,
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/tags?post=31"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https://api.w.org/{rel}",
-          "templated": true
-        }
-      ]
-    }
-  },
-  {
-    "id": 22,
-    "date": "2011-10-11T07:15:13",
-    "date_gmt": "2011-10-11T07:15:13",
-    "guid": {
-      "rendered": "http://nuevobaztan.tomalosbarrios.net/files/2011/10/Acta-10-9-2011.pdf"
-    },
-    "modified": "2011-10-11T07:15:13",
-    "modified_gmt": "2011-10-11T07:15:13",
-    "slug": "acta-10-9-2011",
-    "status": "inherit",
-    "type": "attachment",
-    "link": "https://nuevobaztan.tomalosbarrios.net/actas/acta-10-9-2011/",
-    "title": {
-      "rendered": "Acta 10-9-2011"
-    },
-    "author": 614,
-    "comment_status": "open",
-    "ping_status": "open",
-    "template": "",
-    "meta": [],
-    "description": {
-      "rendered": "<p class=\"attachment\"><a href='https://nuevobaztan.tomalosbarrios.net/files/2011/10/Acta-10-9-2011.pdf'>Acta 10-9-2011</a></p>\n"
-    },
-    "caption": {
-      "rendered": "<p>Acta 10-9-2011</p>\n"
-    },
-    "alt_text": "",
-    "media_type": "file",
-    "mime_type": "application/pdf",
-    "media_details": {},
-    "post": 17,
-    "source_url": "https://nuevobaztan.tomalosbarrios.net/files/2011/10/Acta-10-9-2011.pdf",
-    "_links": {
-      "self": [
-        {
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/media/22"
-        }
-      ],
-      "collection": [
-        {
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/media"
-        }
-      ],
-      "about": [
-        {
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/types/attachment"
-        }
-      ],
-      "author": [
-        {
-          "embeddable": true,
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/users/614"
-        }
-      ],
-      "replies": [
-        {
-          "embeddable": true,
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/comments?post=22"
-        }
-      ]
-    }
-  },
-  {
-    "id": 20,
-    "date": "2011-10-11T07:12:28",
-    "date_gmt": "2011-10-11T07:12:28",
-    "guid": {
-      "rendered": "http://nuevobaztan.tomalosbarrios.net/files/2011/10/Acta-8.pdf"
-    },
-    "modified": "2011-10-11T07:12:28",
-    "modified_gmt": "2011-10-11T07:12:28",
-    "slug": "acta-8",
-    "status": "inherit",
-    "type": "attachment",
-    "link": "https://nuevobaztan.tomalosbarrios.net/actas/acta-8/",
-    "title": {
-      "rendered": "Acta 8"
-    },
-    "author": 614,
-    "comment_status": "open",
-    "ping_status": "open",
-    "template": "",
-    "meta": [],
-    "description": {
-      "rendered": "<p class=\"attachment\"><a href='https://nuevobaztan.tomalosbarrios.net/files/2011/10/Acta-8.pdf'>Acta 8</a></p>\n"
-    },
-    "caption": {
-      "rendered": "<p>Acta 8</p>\n"
-    },
-    "alt_text": "",
-    "media_type": "file",
-    "mime_type": "application/pdf",
-    "media_details": {},
-    "post": 17,
-    "source_url": "https://nuevobaztan.tomalosbarrios.net/files/2011/10/Acta-8.pdf",
-    "_links": {
-      "self": [
-        {
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/media/20"
-        }
-      ],
-      "collection": [
-        {
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/media"
-        }
-      ],
-      "about": [
-        {
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/types/attachment"
-        }
-      ],
-      "author": [
-        {
-          "embeddable": true,
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/users/614"
-        }
-      ],
-      "replies": [
-        {
-          "embeddable": true,
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/comments?post=20"
-        }
-      ]
-    }
-  },
-  {
-    "id": 19,
-    "date": "2011-10-11T07:12:25",
-    "date_gmt": "2011-10-11T07:12:25",
-    "guid": {
-      "rendered": "http://nuevobaztan.tomalosbarrios.net/files/2011/10/ACTA-7.pdf"
-    },
-    "modified": "2011-10-11T07:12:25",
-    "modified_gmt": "2011-10-11T07:12:25",
-    "slug": "acta-7",
-    "status": "inherit",
-    "type": "attachment",
-    "link": "https://nuevobaztan.tomalosbarrios.net/actas/acta-7/",
-    "title": {
-      "rendered": "ACTA 7"
-    },
-    "author": 614,
-    "comment_status": "open",
-    "ping_status": "open",
-    "template": "",
-    "meta": [],
-    "description": {
-      "rendered": "<p class=\"attachment\"><a href='https://nuevobaztan.tomalosbarrios.net/files/2011/10/ACTA-7.pdf'>ACTA 7</a></p>\n"
-    },
-    "caption": {
-      "rendered": "<p>ACTA 7</p>\n"
-    },
-    "alt_text": "",
-    "media_type": "file",
-    "mime_type": "application/pdf",
-    "media_details": {},
-    "post": 17,
-    "source_url": "https://nuevobaztan.tomalosbarrios.net/files/2011/10/ACTA-7.pdf",
-    "_links": {
-      "self": [
-        {
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/media/19"
-        }
-      ],
-      "collection": [
-        {
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/media"
-        }
-      ],
-      "about": [
-        {
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/types/attachment"
-        }
-      ],
-      "author": [
-        {
-          "embeddable": true,
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/users/614"
-        }
-      ],
-      "replies": [
-        {
-          "embeddable": true,
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/comments?post=19"
-        }
-      ]
-    }
-  },
-  {
-    "id": 18,
-    "date": "2011-10-11T07:12:23",
-    "date_gmt": "2011-10-11T07:12:23",
-    "guid": {
-      "rendered": "http://nuevobaztan.tomalosbarrios.net/files/2011/10/ACTA-6.pdf"
-    },
-    "modified": "2011-10-11T07:12:23",
-    "modified_gmt": "2011-10-11T07:12:23",
-    "slug": "acta-6",
-    "status": "inherit",
-    "type": "attachment",
-    "link": "https://nuevobaztan.tomalosbarrios.net/actas/acta-6/",
-    "title": {
-      "rendered": "ACTA 6"
-    },
-    "author": 614,
-    "comment_status": "open",
-    "ping_status": "open",
-    "template": "",
-    "meta": [],
-    "description": {
-      "rendered": "<p class=\"attachment\"><a href='https://nuevobaztan.tomalosbarrios.net/files/2011/10/ACTA-6.pdf'>ACTA 6</a></p>\n"
-    },
-    "caption": {
-      "rendered": "<p>ACTA 6</p>\n"
-    },
-    "alt_text": "",
-    "media_type": "file",
-    "mime_type": "application/pdf",
-    "media_details": {},
-    "post": 17,
-    "source_url": "https://nuevobaztan.tomalosbarrios.net/files/2011/10/ACTA-6.pdf",
-    "_links": {
-      "self": [
-        {
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/media/18"
-        }
-      ],
-      "collection": [
-        {
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/media"
-        }
-      ],
-      "about": [
-        {
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/types/attachment"
-        }
-      ],
-      "author": [
-        {
-          "embeddable": true,
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/users/614"
-        }
-      ],
-      "replies": [
-        {
-          "embeddable": true,
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/comments?post=18"
-        }
-      ]
-    }
-  },
-  {
-    "id": 17,
-    "date": "2011-10-11T07:13:30",
-    "date_gmt": "2011-10-11T07:13:30",
-    "guid": {
-      "rendered": "http://nuevobaztan.tomalosbarrios.net/?page_id=17"
-    },
-    "modified": "2011-10-11T07:16:06",
-    "modified_gmt": "2011-10-11T07:16:06",
-    "slug": "actas",
-    "status": "publish",
-    "type": "page",
-    "link": "https://nuevobaztan.tomalosbarrios.net/actas/",
-    "title": {
-      "rendered": "ACTAS"
-    },
-    "content": {
-      "rendered": "",
-      "protected": false
-    },
-    "excerpt": {
-      "rendered": "",
-      "protected": false
-    },
-    "author": 614,
-    "featured_media": 0,
-    "parent": 0,
-    "menu_order": 0,
-    "comment_status": "open",
-    "ping_status": "open",
-    "template": "",
-    "meta": [],
-    "_links": {
-      "self": [
-        {
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/pages/17"
-        }
-      ],
-      "collection": [
-        {
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/pages"
-        }
-      ],
-      "about": [
-        {
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/types/page"
-        }
-      ],
-      "author": [
-        {
-          "embeddable": true,
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/users/614"
-        }
-      ],
-      "replies": [
-        {
-          "embeddable": true,
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/comments?post=17"
-        }
-      ],
-      "version-history": [
-        {
-          "count": 2,
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/pages/17/revisions"
-        }
-      ],
-      "predecessor-version": [
-        {
-          "id": 23,
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/pages/17/revisions/23"
-        }
-      ],
-      "wp:attachment": [
-        {
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/media?parent=17"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https://api.w.org/{rel}",
-          "templated": true
-        }
-      ]
-    }
-  },
-  {
-    "id": 6,
-    "date": "2011-10-13T10:11:42",
-    "date_gmt": "2011-10-13T10:11:42",
-    "guid": {
-      "rendered": "http://nuevobaztan.tomalosbarrios.net/?p=6"
-    },
-    "modified": "2012-05-31T06:03:34",
-    "modified_gmt": "2012-05-31T06:03:34",
-    "slug": "apoyar-el-15-de-octubre",
-    "status": "publish",
-    "type": "post",
-    "link": "https://nuevobaztan.tomalosbarrios.net/2011/10/13/apoyar-el-15-de-octubre/",
-    "title": {
-      "rendered": "ACTA ULTIMA ASAMBLEA"
-    },
-    "content": {
-      "rendered": "<h6><strong>ASAMBLEA POPULAR 15M DE LA ALCARRIA MADRILE\u00d1A</strong></p>\n<p>Acta de la Asamblea realizada el d\u00eda 26 de mayo 2012</p>\n<p>Se comienza la Asamblea a las 12,30 horas aproximadamente con el siguiente,</p>\n<p>Orden del d\u00eda:</p>\n<p>\u2022 Banco del Tiempo<br />\n\u2022 Huertos ecol\u00f3gicos y Grupos de Consumo<br />\n\u2022 Fecha y hora Asambleas<br />\n\u2022 Nombre de la Asamblea<br />\n\u2022 ILP<br />\n\u2022 Mesa Unitaria<br />\n\u2022 Ruegos y preguntas</p>\n<p>Banco del Tiempo:</p>\n<p>Tema ya tratado en la \u00faltima asamblea, pero debido a la complejidad de su puesta en marcha, se trae nuevamente a la asamblea para debatir su activaci\u00f3n.<br />\nSe propone crear un grupo de trabajo, al cual se apuntan tres personas, que deber\u00e1n llevar acabo dicha activaci\u00f3n a la mayor brevedad posible.<br />\nSe trata de ubicarlo en la red a trav\u00e9s de una p\u00e1gina Web, cuyo dominio nos costar\u00e1 aproximadamente unos 30,- euros anuales. Y se crear\u00e1 un enlace al Banco del Tiempo directamente desde la p\u00e1gina Web de la Asamblea Popular 15M de la Alcarria Madrile\u00f1a. Los ejes centrales de la activaci\u00f3n son:<br />\n&#8211; Alta en la red<br />\n&#8211; Enlace a nuestra Web<br />\n&#8211; Bases del Banco del Tiempo<br />\n&#8211; Coordinaci\u00f3n con otros Bancos de Tiempo para recoger sus experiencias<br />\n&#8211; Difusi\u00f3n a trav\u00e9s de la Red: Web, Facebook, etc<br />\n&#8211; Publicidad: Carteles y folletos para llegar a toda la comarca (Ambite, Caraba\u00f1a, Nuevo Bazt\u00e1n, Olmeda de las Fuentes, Orusco, Tielmes, Villar del Olmo, etc., etc.)</p>\n<p>Los Bancos del Tiempo que nos servir\u00e1n de referencia son los de la asamblea 15M de Tetuan (Silo de Tiempo) y A.V. Manoteras (Banco del Tiempo), adem\u00e1s de los de Rivas, Loeches y Alcal\u00e1.</p>\n<p>Se decide abrir una cuenta de correo del Banco del Tiempo para que toda persona que este interesada pueda enviar sus datos, peticiones, sugerencias, etc., etc. La ubicaci\u00f3n se har\u00e1 en gmail.</p>\n<p>Se decide realizar un cartel informando sobre el Banco del Tiempo.</p>\n<p>Huertos Ecol\u00f3gicos y Grupos de Consumo:</p>\n<p>\u201cHuertos en la Vega del Taju\u00f1a. Se plantea la posibilidad de llegar a acuerdos con agricultores, propietarios de terrenos, ayuntamientos de la zona, para conseguir disponer de terrenos actualmente sin actividad y desarrollar trabajos agr\u00edcolas por parte de parados y personas en general interesadxs en agricultura ecol\u00f3gica y sostenible.\u201d Se\u00f1alado en la asamblea de fecha 21 de Abril 2012.</p>\n<p>Partiendo de lo ya manifestado en la asamblea anterior se hace un repaso a la propuesta y se incorpora una iniciativa m\u00e1s como lo es la de Grupos de Consumo, directamente relacionados con los Huertos Ecol\u00f3gicos y sostenibles.</p>\n<p>Se acuerda contactar a los ayuntamientos de la comarca para informarnos sobre terrenos de su propiedad que se encuentren sin actividad y puedan ser cedidos a parados y/o personas en general que est\u00e9n interesadxs.</p>\n<p>Acciones:</p>\n<p>&#8211; Carta a los Ayuntamientos<br />\n&#8211; Contacto con propietarios que tenga terrenos sin utilizar.<br />\n&#8211; Difusi\u00f3n a trav\u00e9s de un cartel informativo.</p>\n<p>Grupos de Consumo:</p>\n<p>&#8211; Realizar una lista de proveedores.<br />\nSe habla de productos como la miel, el yogurt, productos de la huerta y un largo etc., que podr\u00edan formar parte de una futura red de consumo alternativo.</p>\n<p>Fecha y hora asambleas:</p>\n<p>Se acuerda trasladar las asambleas a los viernes por la tarde, concretamente a las 20,00 hrs., en el mismo lugar, es decir plaza del pueblo de Nuevo Bazt\u00e1n, por ser un d\u00eda y una hora en la que pensamos pueden asistir m\u00e1s compa\u00f1erxs. Adem\u00e1s, se establece que sea semanal.</p>\n<p>Nombre Asamblea:</p>\n<p>Se propone y acuerda cambiar el nombre de nuestra asamblea que pasa a denominarse;<br />\nAsamblea Popular 15M de la Alcarria Madrile\u00f1a. El motivo del cambio se debe a que en la asamblea participan compa\u00f1erxs de varios pueblos de la comarca (Nuevo Bazt\u00e1n, Olmeda, Villar del Olmo, Caraba\u00f1a) y se considera que es un nombre m\u00e1s inclusivo.</p>\n<p>ILP:</p>\n<p>Actualmente se promueven dos Iniciativas Legislativas Populares por parte de las Asambleas del 15M y varias plataformas. Una de ellas es la que promueve la daci\u00f3n en pago en los desahucios y la otra la anulaci\u00f3n de la ley que impide la revisi\u00f3n y actualizaci\u00f3n de las pensiones a los jubiladxs.<br />\nEn nuestra asamblea contamos con varios fedatarios (personas reconocidas legalmente para certificar la recogida de firmas) relacionadas con la ILP de la Daci\u00f3n en Pago. Por lo que se plantea y consensua la instalaci\u00f3n de mesas en los diferentes pueblos y lugares en los que se vaya a desarrollar alguna actividad l\u00fadica, p\u00fablica, etc., para recoger firmas.<br />\nSe acuerda realizar una lista con los eventos en nuestros pueblos en los que ser\u00eda interesante poner dicha mesa. Uno de los primeros lugares propuestos ser\u00eda el mercadillo mensual (todos los domingos primeros de mes) que se instala en Caraba\u00f1a.</p>\n<p>Mesa Unitaria:</p>\n<p>En la Mesa Unitaria participan asambleas del 15M, as\u00ed como sindicatos minoritarios y nos han presentado una iniciativa para el d\u00eda 29 de Mayo 2012, contra la Reforma Laboral, en la que se plantea una huelga general de consumo y una manifestaci\u00f3n a las 19,30 de Atocha-Cibeles-Sol.<br />\nVer propuesta y acciones en; <a href=\"http://www.bloqueunitario.org/\" rel=\"nofollow nofollow\" target=\"_blank\">http://www.bloqueunitario.org/</a></p>\n<p>Por \u00faltimo se informa sobre los nuevos presupuestos acordados por el Ayuntamiento de Nuevo Bazt\u00e1n, en los que se constata de que las subvenciones a entidades y organizaciones han sido totalmente suprimidas del pr\u00f3ximo ejercicio, alegando falta de presupuesto.</p>\n<p>Sin nada m\u00e1s que tratar se da por terminada la asamblea sobre las 14,00 horas.</h6>\n",
-      "protected": false
-    },
-    "excerpt": {
-      "rendered": "<p>ASAMBLEA POPULAR 15M DE LA ALCARRIA MADRILE\u00d1A Acta de la Asamblea realizada el d\u00eda 26 de mayo 2012 Se comienza la Asamblea a las 12,30 horas aproximadamente con el siguiente, Orden del d\u00eda: \u2022 Banco del Tiempo \u2022 Huertos ecol\u00f3gicos &hellip; <a href=\"https://nuevobaztan.tomalosbarrios.net/2011/10/13/apoyar-el-15-de-octubre/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
-      "protected": false
-    },
-    "author": 614,
-    "featured_media": 0,
-    "comment_status": "open",
-    "ping_status": "open",
-    "sticky": false,
-    "template": "",
-    "format": "standard",
-    "meta": [],
-    "categories": [
-      1
+    "collection": [
+      {
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/posts"
+      }
     ],
-    "tags": [],
-    "jetpack_featured_media_url": "",
-    "_links": {
-      "self": [
-        {
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/posts/6"
-        }
-      ],
-      "collection": [
-        {
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/posts"
-        }
-      ],
-      "about": [
-        {
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/types/post"
-        }
-      ],
-      "author": [
-        {
-          "embeddable": true,
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/users/614"
-        }
-      ],
-      "replies": [
-        {
-          "embeddable": true,
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/comments?post=6"
-        }
-      ],
-      "version-history": [
-        {
-          "count": 4,
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/posts/6/revisions"
-        }
-      ],
-      "predecessor-version": [
-        {
-          "id": 28,
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/posts/6/revisions/28"
-        }
-      ],
-      "wp:attachment": [
-        {
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/media?parent=6"
-        }
-      ],
-      "wp:term": [
-        {
-          "taxonomy": "category",
-          "embeddable": true,
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/categories?post=6"
-        },
-        {
-          "taxonomy": "post_tag",
-          "embeddable": true,
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/tags?post=6"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https://api.w.org/{rel}",
-          "templated": true
-        }
-      ]
-    }
-  },
-  {
-    "id": 2,
-    "date": "2011-10-07T15:08:48",
-    "date_gmt": "2011-10-07T15:08:48",
-    "guid": {
-      "rendered": "http://nuevobaztan.tomalosbarrios.net/?page_id=2"
-    },
-    "modified": "2011-10-11T07:08:08",
-    "modified_gmt": "2011-10-11T07:08:08",
-    "slug": "pagina-ejemplo",
-    "status": "publish",
-    "type": "page",
-    "link": "https://nuevobaztan.tomalosbarrios.net/pagina-ejemplo/",
-    "title": {
-      "rendered": "INFORMACION DE LA ASAMBLEA"
-    },
-    "content": {
-      "rendered": "<p>El 15 de Octubre de 2011 en todo el mundo saldremos a la calle para expresar nuestro descontento con la situaci\u00f3n general del planeta.<br />\nLa asamblea ha preparado actividades par la ma\u00f1ana:</p>\n<p>&#8211; Mesa de Trueque</p>\n<p>&#8211; Arbol o Mural de los Deseos y Propuestas</p>\n<p>&#8211; Taller de pinturas para ni\u00f1os</p>\n<p>&#8211; Mesa informativa</p>\n<p>&#8211; La jornada se har\u00e1 desde las 10 de la ma\u00f1ana en la plaza de Nuevo Bazt\u00e1n, empezando por un Taller de Taichi de 10 11, hora en que empezar\u00e1n los talleres, se parar\u00e1 a las 12 para hacer la asamblea, , se continuar\u00e1 con los talleres, recogida de firmas y mesa informativa hasta que el cuerpo aguante.</p>\n<p>Por la tarde iremos a las concentraciones de Madrid, con la pancarta creada en los talleres.</p>\n<p>Se convoca a tod@s los participantes en la asamblea a una preasamblea/comisi\u00f3n de acci\u00f3n el 14 de Octubre\u00a0 a las 21h en la zona comercial de Eurovillas. El mi\u00e9rcoles 12, d\u00eda de fiesta,\u00a0pegada de carteles.</p>\n",
-      "protected": false
-    },
-    "excerpt": {
-      "rendered": "<p>El 15 de Octubre de 2011 en todo el mundo saldremos a la calle para expresar nuestro descontento con la situaci\u00f3n general del planeta. La asamblea ha preparado actividades par la ma\u00f1ana: &#8211; Mesa de Trueque &#8211; Arbol o Mural &hellip; <a href=\"https://nuevobaztan.tomalosbarrios.net/pagina-ejemplo/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
-      "protected": false
-    },
-    "author": 614,
-    "featured_media": 0,
-    "parent": 0,
-    "menu_order": 0,
-    "comment_status": "open",
-    "ping_status": "open",
-    "template": "",
-    "meta": [],
-    "_links": {
-      "self": [
-        {
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/pages/2"
-        }
-      ],
-      "collection": [
-        {
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/pages"
-        }
-      ],
-      "about": [
-        {
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/types/page"
-        }
-      ],
-      "author": [
-        {
-          "embeddable": true,
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/users/614"
-        }
-      ],
-      "replies": [
-        {
-          "embeddable": true,
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/comments?post=2"
-        }
-      ],
-      "version-history": [
-        {
-          "count": 3,
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/pages/2/revisions"
-        }
-      ],
-      "predecessor-version": [
-        {
-          "id": 3,
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/pages/2/revisions/3"
-        }
-      ],
-      "wp:attachment": [
-        {
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/media?parent=2"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https://api.w.org/{rel}",
-          "templated": true
-        }
-      ]
-    }
-  },
-  {
-    "id": 1,
-    "date": "2011-10-11T08:54:48",
-    "date_gmt": "2011-10-11T08:54:48",
-    "guid": {
-      "rendered": "http://nuevobaztan.tomalosbarrios.net/?p=1"
-    },
-    "modified": "2012-05-31T08:06:24",
-    "modified_gmt": "2012-05-31T06:06:24",
-    "slug": "nueva-pagina",
-    "status": "publish",
-    "type": "post",
-    "link": "https://nuevobaztan.tomalosbarrios.net/2011/10/11/nueva-pagina/",
-    "title": {
-      "rendered": "http://nuevobaztan.tomalosbarrios.net"
-    },
-    "content": {
-      "rendered": "",
-      "protected": false
-    },
-    "excerpt": {
-      "rendered": "",
-      "protected": false
-    },
-    "author": 614,
-    "featured_media": 0,
-    "comment_status": "open",
-    "ping_status": "open",
-    "sticky": false,
-    "template": "",
-    "format": "standard",
-    "meta": [],
-    "categories": [
-      1
+    "about": [
+      {
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/types/post"
+      }
     ],
-    "tags": [],
-    "jetpack_featured_media_url": "",
-    "_links": {
-      "self": [
-        {
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/posts/1"
-        }
-      ],
-      "collection": [
-        {
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/posts"
-        }
-      ],
-      "about": [
-        {
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/types/post"
-        }
-      ],
-      "author": [
-        {
-          "embeddable": true,
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/users/614"
-        }
-      ],
-      "replies": [
-        {
-          "embeddable": true,
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/comments?post=1"
-        }
-      ],
-      "version-history": [
-        {
-          "count": 2,
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/posts/1/revisions"
-        }
-      ],
-      "predecessor-version": [
-        {
-          "id": 30,
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/posts/1/revisions/30"
-        }
-      ],
-      "wp:attachment": [
-        {
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/media?parent=1"
-        }
-      ],
-      "wp:term": [
-        {
-          "taxonomy": "category",
-          "embeddable": true,
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/categories?post=1"
-        },
-        {
-          "taxonomy": "post_tag",
-          "embeddable": true,
-          "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/tags?post=1"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https://api.w.org/{rel}",
-          "templated": true
-        }
-      ]
-    }
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/users/614"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/comments?post=31"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/posts/31/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 32,
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/posts/31/revisions/32"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/media?parent=31"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/categories?post=31"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/tags?post=31"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
   }
-]
+},{
+  "id": 22,
+  "date": "2011-10-11T07:15:13",
+  "date_gmt": "2011-10-11T07:15:13",
+  "guid": {
+    "rendered": "http://nuevobaztan.tomalosbarrios.net/files/2011/10/Acta-10-9-2011.pdf"
+  },
+  "modified": "2011-10-11T07:15:13",
+  "modified_gmt": "2011-10-11T07:15:13",
+  "slug": "acta-10-9-2011",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://nuevobaztan.tomalosbarrios.net/actas/acta-10-9-2011/",
+  "title": {
+    "rendered": "Acta 10-9-2011"
+  },
+  "author": 614,
+  "comment_status": "open",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://nuevobaztan.tomalosbarrios.net/files/2011/10/Acta-10-9-2011.pdf'>Acta 10-9-2011</a></p>\n"
+  },
+  "caption": {
+    "rendered": "<p>Acta 10-9-2011</p>\n"
+  },
+  "alt_text": "",
+  "media_type": "file",
+  "mime_type": "application/pdf",
+  "media_details": {},
+  "post": 17,
+  "source_url": "https://nuevobaztan.tomalosbarrios.net/files/2011/10/Acta-10-9-2011.pdf",
+  "_links": {
+    "self": [
+      {
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/media/22"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/users/614"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/comments?post=22"
+      }
+    ]
+  }
+},{
+  "id": 20,
+  "date": "2011-10-11T07:12:28",
+  "date_gmt": "2011-10-11T07:12:28",
+  "guid": {
+    "rendered": "http://nuevobaztan.tomalosbarrios.net/files/2011/10/Acta-8.pdf"
+  },
+  "modified": "2011-10-11T07:12:28",
+  "modified_gmt": "2011-10-11T07:12:28",
+  "slug": "acta-8",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://nuevobaztan.tomalosbarrios.net/actas/acta-8/",
+  "title": {
+    "rendered": "Acta 8"
+  },
+  "author": 614,
+  "comment_status": "open",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://nuevobaztan.tomalosbarrios.net/files/2011/10/Acta-8.pdf'>Acta 8</a></p>\n"
+  },
+  "caption": {
+    "rendered": "<p>Acta 8</p>\n"
+  },
+  "alt_text": "",
+  "media_type": "file",
+  "mime_type": "application/pdf",
+  "media_details": {},
+  "post": 17,
+  "source_url": "https://nuevobaztan.tomalosbarrios.net/files/2011/10/Acta-8.pdf",
+  "_links": {
+    "self": [
+      {
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/media/20"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/users/614"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/comments?post=20"
+      }
+    ]
+  }
+},{
+  "id": 19,
+  "date": "2011-10-11T07:12:25",
+  "date_gmt": "2011-10-11T07:12:25",
+  "guid": {
+    "rendered": "http://nuevobaztan.tomalosbarrios.net/files/2011/10/ACTA-7.pdf"
+  },
+  "modified": "2011-10-11T07:12:25",
+  "modified_gmt": "2011-10-11T07:12:25",
+  "slug": "acta-7",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://nuevobaztan.tomalosbarrios.net/actas/acta-7/",
+  "title": {
+    "rendered": "ACTA 7"
+  },
+  "author": 614,
+  "comment_status": "open",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://nuevobaztan.tomalosbarrios.net/files/2011/10/ACTA-7.pdf'>ACTA 7</a></p>\n"
+  },
+  "caption": {
+    "rendered": "<p>ACTA 7</p>\n"
+  },
+  "alt_text": "",
+  "media_type": "file",
+  "mime_type": "application/pdf",
+  "media_details": {},
+  "post": 17,
+  "source_url": "https://nuevobaztan.tomalosbarrios.net/files/2011/10/ACTA-7.pdf",
+  "_links": {
+    "self": [
+      {
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/media/19"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/users/614"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/comments?post=19"
+      }
+    ]
+  }
+},{
+  "id": 18,
+  "date": "2011-10-11T07:12:23",
+  "date_gmt": "2011-10-11T07:12:23",
+  "guid": {
+    "rendered": "http://nuevobaztan.tomalosbarrios.net/files/2011/10/ACTA-6.pdf"
+  },
+  "modified": "2011-10-11T07:12:23",
+  "modified_gmt": "2011-10-11T07:12:23",
+  "slug": "acta-6",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://nuevobaztan.tomalosbarrios.net/actas/acta-6/",
+  "title": {
+    "rendered": "ACTA 6"
+  },
+  "author": 614,
+  "comment_status": "open",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://nuevobaztan.tomalosbarrios.net/files/2011/10/ACTA-6.pdf'>ACTA 6</a></p>\n"
+  },
+  "caption": {
+    "rendered": "<p>ACTA 6</p>\n"
+  },
+  "alt_text": "",
+  "media_type": "file",
+  "mime_type": "application/pdf",
+  "media_details": {},
+  "post": 17,
+  "source_url": "https://nuevobaztan.tomalosbarrios.net/files/2011/10/ACTA-6.pdf",
+  "_links": {
+    "self": [
+      {
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/media/18"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/users/614"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/comments?post=18"
+      }
+    ]
+  }
+},{
+  "id": 17,
+  "date": "2011-10-11T07:13:30",
+  "date_gmt": "2011-10-11T07:13:30",
+  "guid": {
+    "rendered": "http://nuevobaztan.tomalosbarrios.net/?page_id=17"
+  },
+  "modified": "2011-10-11T07:16:06",
+  "modified_gmt": "2011-10-11T07:16:06",
+  "slug": "actas",
+  "status": "publish",
+  "type": "page",
+  "link": "https://nuevobaztan.tomalosbarrios.net/actas/",
+  "title": {
+    "rendered": "ACTAS"
+  },
+  "content": {
+    "rendered": "",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "",
+    "protected": false
+  },
+  "author": 614,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "open",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/pages/17"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/users/614"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/comments?post=17"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/pages/17/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 23,
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/pages/17/revisions/23"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/media?parent=17"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+},{
+  "id": 6,
+  "date": "2011-10-13T10:11:42",
+  "date_gmt": "2011-10-13T10:11:42",
+  "guid": {
+    "rendered": "http://nuevobaztan.tomalosbarrios.net/?p=6"
+  },
+  "modified": "2012-05-31T06:03:34",
+  "modified_gmt": "2012-05-31T06:03:34",
+  "slug": "apoyar-el-15-de-octubre",
+  "status": "publish",
+  "type": "post",
+  "link": "https://nuevobaztan.tomalosbarrios.net/2011/10/13/apoyar-el-15-de-octubre/",
+  "title": {
+    "rendered": "ACTA ULTIMA ASAMBLEA"
+  },
+  "content": {
+    "rendered": "<h6><strong>ASAMBLEA POPULAR 15M DE LA ALCARRIA MADRILE\u00d1A</strong></p>\n<p>Acta de la Asamblea realizada el d\u00eda 26 de mayo 2012</p>\n<p>Se comienza la Asamblea a las 12,30 horas aproximadamente con el siguiente,</p>\n<p>Orden del d\u00eda:</p>\n<p>\u2022 Banco del Tiempo<br />\n\u2022 Huertos ecol\u00f3gicos y Grupos de Consumo<br />\n\u2022 Fecha y hora Asambleas<br />\n\u2022 Nombre de la Asamblea<br />\n\u2022 ILP<br />\n\u2022 Mesa Unitaria<br />\n\u2022 Ruegos y preguntas</p>\n<p>Banco del Tiempo:</p>\n<p>Tema ya tratado en la \u00faltima asamblea, pero debido a la complejidad de su puesta en marcha, se trae nuevamente a la asamblea para debatir su activaci\u00f3n.<br />\nSe propone crear un grupo de trabajo, al cual se apuntan tres personas, que deber\u00e1n llevar acabo dicha activaci\u00f3n a la mayor brevedad posible.<br />\nSe trata de ubicarlo en la red a trav\u00e9s de una p\u00e1gina Web, cuyo dominio nos costar\u00e1 aproximadamente unos 30,- euros anuales. Y se crear\u00e1 un enlace al Banco del Tiempo directamente desde la p\u00e1gina Web de la Asamblea Popular 15M de la Alcarria Madrile\u00f1a. Los ejes centrales de la activaci\u00f3n son:<br />\n&#8211; Alta en la red<br />\n&#8211; Enlace a nuestra Web<br />\n&#8211; Bases del Banco del Tiempo<br />\n&#8211; Coordinaci\u00f3n con otros Bancos de Tiempo para recoger sus experiencias<br />\n&#8211; Difusi\u00f3n a trav\u00e9s de la Red: Web, Facebook, etc<br />\n&#8211; Publicidad: Carteles y folletos para llegar a toda la comarca (Ambite, Caraba\u00f1a, Nuevo Bazt\u00e1n, Olmeda de las Fuentes, Orusco, Tielmes, Villar del Olmo, etc., etc.)</p>\n<p>Los Bancos del Tiempo que nos servir\u00e1n de referencia son los de la asamblea 15M de Tetuan (Silo de Tiempo) y A.V. Manoteras (Banco del Tiempo), adem\u00e1s de los de Rivas, Loeches y Alcal\u00e1.</p>\n<p>Se decide abrir una cuenta de correo del Banco del Tiempo para que toda persona que este interesada pueda enviar sus datos, peticiones, sugerencias, etc., etc. La ubicaci\u00f3n se har\u00e1 en gmail.</p>\n<p>Se decide realizar un cartel informando sobre el Banco del Tiempo.</p>\n<p>Huertos Ecol\u00f3gicos y Grupos de Consumo:</p>\n<p>\u201cHuertos en la Vega del Taju\u00f1a. Se plantea la posibilidad de llegar a acuerdos con agricultores, propietarios de terrenos, ayuntamientos de la zona, para conseguir disponer de terrenos actualmente sin actividad y desarrollar trabajos agr\u00edcolas por parte de parados y personas en general interesadxs en agricultura ecol\u00f3gica y sostenible.\u201d Se\u00f1alado en la asamblea de fecha 21 de Abril 2012.</p>\n<p>Partiendo de lo ya manifestado en la asamblea anterior se hace un repaso a la propuesta y se incorpora una iniciativa m\u00e1s como lo es la de Grupos de Consumo, directamente relacionados con los Huertos Ecol\u00f3gicos y sostenibles.</p>\n<p>Se acuerda contactar a los ayuntamientos de la comarca para informarnos sobre terrenos de su propiedad que se encuentren sin actividad y puedan ser cedidos a parados y/o personas en general que est\u00e9n interesadxs.</p>\n<p>Acciones:</p>\n<p>&#8211; Carta a los Ayuntamientos<br />\n&#8211; Contacto con propietarios que tenga terrenos sin utilizar.<br />\n&#8211; Difusi\u00f3n a trav\u00e9s de un cartel informativo.</p>\n<p>Grupos de Consumo:</p>\n<p>&#8211; Realizar una lista de proveedores.<br />\nSe habla de productos como la miel, el yogurt, productos de la huerta y un largo etc., que podr\u00edan formar parte de una futura red de consumo alternativo.</p>\n<p>Fecha y hora asambleas:</p>\n<p>Se acuerda trasladar las asambleas a los viernes por la tarde, concretamente a las 20,00 hrs., en el mismo lugar, es decir plaza del pueblo de Nuevo Bazt\u00e1n, por ser un d\u00eda y una hora en la que pensamos pueden asistir m\u00e1s compa\u00f1erxs. Adem\u00e1s, se establece que sea semanal.</p>\n<p>Nombre Asamblea:</p>\n<p>Se propone y acuerda cambiar el nombre de nuestra asamblea que pasa a denominarse;<br />\nAsamblea Popular 15M de la Alcarria Madrile\u00f1a. El motivo del cambio se debe a que en la asamblea participan compa\u00f1erxs de varios pueblos de la comarca (Nuevo Bazt\u00e1n, Olmeda, Villar del Olmo, Caraba\u00f1a) y se considera que es un nombre m\u00e1s inclusivo.</p>\n<p>ILP:</p>\n<p>Actualmente se promueven dos Iniciativas Legislativas Populares por parte de las Asambleas del 15M y varias plataformas. Una de ellas es la que promueve la daci\u00f3n en pago en los desahucios y la otra la anulaci\u00f3n de la ley que impide la revisi\u00f3n y actualizaci\u00f3n de las pensiones a los jubiladxs.<br />\nEn nuestra asamblea contamos con varios fedatarios (personas reconocidas legalmente para certificar la recogida de firmas) relacionadas con la ILP de la Daci\u00f3n en Pago. Por lo que se plantea y consensua la instalaci\u00f3n de mesas en los diferentes pueblos y lugares en los que se vaya a desarrollar alguna actividad l\u00fadica, p\u00fablica, etc., para recoger firmas.<br />\nSe acuerda realizar una lista con los eventos en nuestros pueblos en los que ser\u00eda interesante poner dicha mesa. Uno de los primeros lugares propuestos ser\u00eda el mercadillo mensual (todos los domingos primeros de mes) que se instala en Caraba\u00f1a.</p>\n<p>Mesa Unitaria:</p>\n<p>En la Mesa Unitaria participan asambleas del 15M, as\u00ed como sindicatos minoritarios y nos han presentado una iniciativa para el d\u00eda 29 de Mayo 2012, contra la Reforma Laboral, en la que se plantea una huelga general de consumo y una manifestaci\u00f3n a las 19,30 de Atocha-Cibeles-Sol.<br />\nVer propuesta y acciones en; <a href=\"http://www.bloqueunitario.org/\" rel=\"nofollow nofollow\" target=\"_blank\">http://www.bloqueunitario.org/</a></p>\n<p>Por \u00faltimo se informa sobre los nuevos presupuestos acordados por el Ayuntamiento de Nuevo Bazt\u00e1n, en los que se constata de que las subvenciones a entidades y organizaciones han sido totalmente suprimidas del pr\u00f3ximo ejercicio, alegando falta de presupuesto.</p>\n<p>Sin nada m\u00e1s que tratar se da por terminada la asamblea sobre las 14,00 horas.</h6>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>ASAMBLEA POPULAR 15M DE LA ALCARRIA MADRILE\u00d1A Acta de la Asamblea realizada el d\u00eda 26 de mayo 2012 Se comienza la Asamblea a las 12,30 horas aproximadamente con el siguiente, Orden del d\u00eda: \u2022 Banco del Tiempo \u2022 Huertos ecol\u00f3gicos &hellip; <a href=\"https://nuevobaztan.tomalosbarrios.net/2011/10/13/apoyar-el-15-de-octubre/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+    "protected": false
+  },
+  "author": 614,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "open",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "categories": [
+    1
+  ],
+  "tags": [],
+  "jetpack_featured_media_url": "",
+  "_links": {
+    "self": [
+      {
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/posts/6"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/users/614"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/comments?post=6"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/posts/6/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 28,
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/posts/6/revisions/28"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/media?parent=6"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/categories?post=6"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/tags?post=6"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+},{
+  "id": 2,
+  "date": "2011-10-07T15:08:48",
+  "date_gmt": "2011-10-07T15:08:48",
+  "guid": {
+    "rendered": "http://nuevobaztan.tomalosbarrios.net/?page_id=2"
+  },
+  "modified": "2011-10-11T07:08:08",
+  "modified_gmt": "2011-10-11T07:08:08",
+  "slug": "pagina-ejemplo",
+  "status": "publish",
+  "type": "page",
+  "link": "https://nuevobaztan.tomalosbarrios.net/pagina-ejemplo/",
+  "title": {
+    "rendered": "INFORMACION DE LA ASAMBLEA"
+  },
+  "content": {
+    "rendered": "<p>El 15 de Octubre de 2011 en todo el mundo saldremos a la calle para expresar nuestro descontento con la situaci\u00f3n general del planeta.<br />\nLa asamblea ha preparado actividades par la ma\u00f1ana:</p>\n<p>&#8211; Mesa de Trueque</p>\n<p>&#8211; Arbol o Mural de los Deseos y Propuestas</p>\n<p>&#8211; Taller de pinturas para ni\u00f1os</p>\n<p>&#8211; Mesa informativa</p>\n<p>&#8211; La jornada se har\u00e1 desde las 10 de la ma\u00f1ana en la plaza de Nuevo Bazt\u00e1n, empezando por un Taller de Taichi de 10 11, hora en que empezar\u00e1n los talleres, se parar\u00e1 a las 12 para hacer la asamblea, , se continuar\u00e1 con los talleres, recogida de firmas y mesa informativa hasta que el cuerpo aguante.</p>\n<p>Por la tarde iremos a las concentraciones de Madrid, con la pancarta creada en los talleres.</p>\n<p>Se convoca a tod@s los participantes en la asamblea a una preasamblea/comisi\u00f3n de acci\u00f3n el 14 de Octubre\u00a0 a las 21h en la zona comercial de Eurovillas. El mi\u00e9rcoles 12, d\u00eda de fiesta,\u00a0pegada de carteles.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>El 15 de Octubre de 2011 en todo el mundo saldremos a la calle para expresar nuestro descontento con la situaci\u00f3n general del planeta. La asamblea ha preparado actividades par la ma\u00f1ana: &#8211; Mesa de Trueque &#8211; Arbol o Mural &hellip; <a href=\"https://nuevobaztan.tomalosbarrios.net/pagina-ejemplo/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+    "protected": false
+  },
+  "author": 614,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "open",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/pages/2"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/users/614"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/comments?post=2"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/pages/2/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 3,
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/pages/2/revisions/3"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/media?parent=2"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+},{
+  "id": 1,
+  "date": "2011-10-11T08:54:48",
+  "date_gmt": "2011-10-11T08:54:48",
+  "guid": {
+    "rendered": "http://nuevobaztan.tomalosbarrios.net/?p=1"
+  },
+  "modified": "2012-05-31T08:06:24",
+  "modified_gmt": "2012-05-31T06:06:24",
+  "slug": "nueva-pagina",
+  "status": "publish",
+  "type": "post",
+  "link": "https://nuevobaztan.tomalosbarrios.net/2011/10/11/nueva-pagina/",
+  "title": {
+    "rendered": "http://nuevobaztan.tomalosbarrios.net"
+  },
+  "content": {
+    "rendered": "",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "",
+    "protected": false
+  },
+  "author": 614,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "open",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "categories": [
+    1
+  ],
+  "tags": [],
+  "jetpack_featured_media_url": "",
+  "_links": {
+    "self": [
+      {
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/posts/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/users/614"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/comments?post=1"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/posts/1/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 30,
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/posts/1/revisions/30"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/media?parent=1"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/categories?post=1"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/tags?post=1"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}]

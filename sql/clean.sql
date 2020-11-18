@@ -1,9 +1,9 @@
 BEGIN TRANSACTION;
 
-DELETE from wp_tags where (site, post) in (select site, id from wp_posts where url is null);
+DELETE from wp_tags where (site, post) in (select site, id from wp_posts where url is null);;
 
-DROP view _wp_posts;
-DROP view _wp_media;
+DELETE from wk_media where url is null;;
+
 
 ALTER TABLE sites RENAME TO temp_sites;
 
