@@ -578,7 +578,7 @@ class ScrapDB:
         		select
                     '{siteurl}' site,
                     p.img_name ID,
-                    (p.img_major_mime || '/' || p.img_minor_mime) type,
+                    CONCAT(p.img_major_mime, '/', p.img_minor_mime) type,
                     TIMESTAMP(p.img_timestamp) date
                 from
                     {prefix}image p

@@ -10,7 +10,7 @@ Datos desde el 2011-05-17 al 2020-11-17:
 * 629 registros en `phpbb_media`
 * 349 registros en `wk_pages`
 
-Lo que supone 68007 urls.
+Lo que supone 68356 urls.
 
 # Wordpress
 

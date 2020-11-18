@@ -153,7 +153,6 @@ AS
 SELECT ID, site,
   ('wp_' || type) type,
   date,
-  author,
   url
 FROM
   wp_posts
@@ -161,7 +160,6 @@ UNION
 SELECT ID, site,
   'wp_media' type,
   date,
-  author,
   url
 FROM
   wp_media
@@ -169,7 +167,6 @@ UNION
 SELECT ID, site,
   'wp_pmedia' type,
   date,
-  author,
   page url
 FROM
   wp_media
@@ -179,7 +176,6 @@ UNION
 SELECT ID, site,
   'phpbb_topic' type,
   date,
-  author,
   url
 FROM
   phpbb_topics
@@ -187,8 +183,14 @@ UNION
 SELECT ID, site,
   type,
   date,
-  author,
   url
 FROM
   phpbb_media
+UNION
+SELECT ID, site,
+  'wk_page' type,
+  date,
+  url
+FROM
+  wk_pages
 ;
