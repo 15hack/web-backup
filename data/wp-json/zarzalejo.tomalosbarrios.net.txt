@@ -5,9 +5,9 @@
 322 zarzalejo.tomalosbarrios.net/2012/04/06/asamblea-de-zarzalejo-24m/
 317 zarzalejo.tomalosbarrios.net/2012/03/04/mesas-de-votacion-en-zarzalejo/
 299 zarzalejo.tomalosbarrios.net/files/2012/01/Carta-respuesta-ayuntamiento2.pdf
-288 zarzalejo.tomalosbarrios.net/2012/01/20/carta-de-respuesta-del-ayuntamiento-a-nuestras-propuestas-de-actividades/
 293 zarzalejo.tomalosbarrios.net/calendar/
 291 zarzalejo.tomalosbarrios.net/files/2012/01/Carta-respuesta-ayuntamiento1.pdf
+288 zarzalejo.tomalosbarrios.net/2012/01/20/carta-de-respuesta-del-ayuntamiento-a-nuestras-propuestas-de-actividades/
 279 zarzalejo.tomalosbarrios.net/files/2012/01/Carta-respuesta-ayuntamiento.pdf
 272 zarzalejo.tomalosbarrios.net/2011/12/26/acta-asamblea-17-de-diciembre-2011/
 266 zarzalejo.tomalosbarrios.net/2011/12/04/carta-al-ayuntamiento/
@@ -23,7 +23,6 @@
 184 zarzalejo.tomalosbarrios.net/2011/07/19/informe-de-la-asistencia-al-pleno-municipal-14j/
 182 zarzalejo.tomalosbarrios.net/files/2011/07/Acta+comunicacion+asamblea+zarzalejo+14_07_2011.pdf
 162 zarzalejo.tomalosbarrios.net/files/2011/07/IGP31803.jpg
-127 zarzalejo.tomalosbarrios.net/2011/07/13/fotos-mani-19j-contra-el-pacto-de-euro/
 158 zarzalejo.tomalosbarrios.net/files/2011/07/IGP3232.jpg
 157 zarzalejo.tomalosbarrios.net/files/2011/07/IGP3216.jpg
 156 zarzalejo.tomalosbarrios.net/files/2011/07/IGP3215.jpg
@@ -52,6 +51,7 @@
 132 zarzalejo.tomalosbarrios.net/files/2011/07/IGP3193.jpg
 131 zarzalejo.tomalosbarrios.net/files/2011/07/IGP3191.jpg
 130 zarzalejo.tomalosbarrios.net/files/2011/07/IGP3180.jpg
+127 zarzalejo.tomalosbarrios.net/2011/07/13/fotos-mani-19j-contra-el-pacto-de-euro/
 121 zarzalejo.tomalosbarrios.net/2011/07/12/acta-asamblea-9j/
 117 zarzalejo.tomalosbarrios.net/2011/07/12/informe-apm-10j/
 112 zarzalejo.tomalosbarrios.net/files/2011/06/3ª-ASAMBLEA-ZARZALEJO.pdf
@@ -71,16 +71,16 @@
  81 zarzalejo.tomalosbarrios.net/files/2011/07/Foto1203.jpg
  80 zarzalejo.tomalosbarrios.net/files/2011/07/Foto1201.jpg
  79 zarzalejo.tomalosbarrios.net/files/2011/07/Foto1525.jpg
- 73 zarzalejo.tomalosbarrios.net/2011/06/30/propuestas-de-zarzalejo-en-transicion/
  76 zarzalejo.tomalosbarrios.net/files/2011/06/PROPUESTAS-Zarzalejo-en-transición.pdf
- 68 zarzalejo.tomalosbarrios.net/2011/06/30/apm-26j-en-sol/
+ 73 zarzalejo.tomalosbarrios.net/2011/06/30/propuestas-de-zarzalejo-en-transicion/
  71 zarzalejo.tomalosbarrios.net/files/2011/06/APM-Sol-26-J.pdf
- 62 zarzalejo.tomalosbarrios.net/2011/06/30/acta-asamblea-25j/
+ 68 zarzalejo.tomalosbarrios.net/2011/06/30/apm-26j-en-sol/
  65 zarzalejo.tomalosbarrios.net/files/2011/06/Acta-asamblea-25J.pdf
- 56 zarzalejo.tomalosbarrios.net/2011/06/25/asamblea-25j/
+ 62 zarzalejo.tomalosbarrios.net/2011/06/30/acta-asamblea-25j/
  59 zarzalejo.tomalosbarrios.net/files/2011/06/Asamblea-25J.pdf
- 50 zarzalejo.tomalosbarrios.net/2011/06/25/acta-asamblea-11-de-junio/
+ 56 zarzalejo.tomalosbarrios.net/2011/06/25/asamblea-25j/
  53 zarzalejo.tomalosbarrios.net/files/2011/06/Acta-11-de-Junio-de-2011.pdf
+ 50 zarzalejo.tomalosbarrios.net/2011/06/25/acta-asamblea-11-de-junio/
  48 zarzalejo.tomalosbarrios.net/files/2011/06/Acta-primera-asamblea-28-de-mayo-de-20112.pdf
  43 zarzalejo.tomalosbarrios.net/2011/06/25/acta-asamblea-28-de-mayo/
  37 zarzalejo.tomalosbarrios.net/2011/06/25/asamblea-el-sabado-25-a-las-19hs/

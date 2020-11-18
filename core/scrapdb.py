@@ -3,7 +3,8 @@ import re
 
 from bunch import Bunch
 
-from .data import FindUrl, tuple_url, loadwpjson
+from .data import FindUrl, tuple_url, loadwpjson, loadpageswkjson, loadimageswkjson
+from .util import find_value
 from functools import lru_cache
 import requests
 
@@ -12,7 +13,7 @@ re_tg1 = re.compile(r'^(\s*"[^"]+?"\s*)+$')
 re_tg2 = re.compile(r'"[^"]+?"')
 re_rem = re.compile(r"^[^/]+")
 
-def title(s, c='=', l=10):
+def frm_title(s, c='=', l=10):
     s = "{1} {0} {1}".format(s, c*(l-len(s)))
     if len(s) % 2 == 1:
         s = c + s
@@ -30,7 +31,7 @@ class ScrapDB:
 
     @property
     def sites(self):
-        for key, val in {"wp":self.wp, "phpbb":self.phpbb}.items():
+        for key, val in {"wp":self.wp, "phpbb":self.phpbb, "wiki":self.wiki}.items():
             for site, meta in sorted(val.sites.items(), key=lambda x: tuple_url(x[0])):
                 meta["type"]=key
                 yield meta
@@ -38,7 +39,7 @@ class ScrapDB:
     @property
     def rows(self):
         rows = 0
-        for d in (self.wp, self.phpbb):
+        for d in (self.wp, self.phpbb, self.wiki):
             rows = rows + sum((len(i) for i in dict(d).values()), 0)
         return rows
 
@@ -53,7 +54,7 @@ class ScrapDB:
             sites={},
         )
         for db in self.dbs:
-            print(title(db.host))
+            print(frm_title(db.host))
             db.connect()
             # https://codex.wordpress.org/Option_Reference
 
@@ -342,7 +343,7 @@ class ScrapDB:
             sites={},
         )
         for db in self.dbs:
-            print(title(db.host))
+            print(frm_title(db.host))
             db.connect()
             # https://wiki.phpbb.com/Tables
 
@@ -507,8 +508,127 @@ class ScrapDB:
         self.print_totales("phpbb", phpbb)
         return phpbb
 
+    @property
+    @lru_cache(maxsize=None)
+    def wiki(self):
+        wiki = Bunch(
+            pages=[],
+            media=[],
+            sites={},
+        )
+        for db in self.dbs:
+            print(frm_title(db.host))
+            db.connect()
+            # https://www.mediawiki.org/wiki/Manual:Database_layout
+
+            results = db.execute('sql/search/wiki.sql')
+            print("%s wikis encontrados" % len(results))
+
+            sites={}
+            for o in results:
+                data = db.db_meta.get(o["prefix"])
+                if data is None:
+                    print("%s sera descartado (no hay aparece en db_meta)" % o["prefix"])
+                    continue
+                o = {**o, **data}
+                o["url"] = o["site"]
+                o["siteurl"] = o["site"]
+                key = (o["prefix"], o["site"])
+                if key not in db.forze_ok:
+                    if o["prefix"] in db.db_ban:
+                        print("%s (%s) sera descartado" % key)
+                        continue
+                    if not db.isOkDom(o["purl"]) or not db.isOk(o["site"]):
+                        print("%s (%s) sera descartado" % key)
+                        continue
+                sites[o["site"]]=o
+
+            if not sites:
+                db.close()
+                print("")
+                continue
+
+            # https://gerrit.wikimedia.org/g/mediawiki/core/+/HEAD/includes/Defines.php#64
+            results = db.multi_execute(sites, '''
+        		select
+                    '{siteurl}' site,
+                    p.page_id ID,
+                    p.page_namespace namespace,
+                    CONVERT(p.page_title USING utf8) title,
+                    CONVERT(t.old_text USING utf8) _content,
+                    TIMESTAMP(rA.rev_timestamp) date,
+                    TIMESTAMP(rZ.rev_timestamp) modified,
+                    TIMESTAMP(p.page_touched) touched,
+                    CONCAT('{api}', 'parse&prop=text&formatversion=2&pageid=', p.page_id) _parse
+                from
+                    {prefix}page p
+                    INNER JOIN
+                    {prefix}revision rZ ON p.page_latest = rZ.rev_id
+                    INNER JOIN
+                    {prefix}revision rA ON p.page_id = rA.rev_page
+                    INNER JOIN
+                    {prefix}text t ON rZ.rev_text_id = t.old_id
+                where
+                    rZ.rev_deleted = 0 and
+                    rA.rev_parent_id = 0 and
+                    p.page_is_redirect = 0
+        	''', debug="wiki-pages", order="site, ID")
+            wiki.pages.extend(results)
+
+            results = db.multi_execute(sites, '''
+        		select
+                    '{siteurl}' site,
+                    CONVERT(p.img_name USING utf8) ID,
+                    CONCAT(p.img_major_mime, '/', p.img_minor_mime) type,
+                    TIMESTAMP(p.img_timestamp) date
+                from
+                    {prefix}image p
+        	''', debug="wiki-media", order="site, ID")
+            wiki.media.extend(results)
+
+            db.close()
+            wiki.sites = {**wiki.sites, **sites}
+            print("")
+
+        print("Recuperando información de api wk-json ...", end="\r")
+        for site, meta in wiki.sites.items():
+            _objs = {}
+            for i in wiki.pages:
+                if i["site"] == site:
+                    _objs[i["ID"]] = i
+            meta["wkpagesjson"] = loadpageswkjson(meta['api'], site, _objs)
+            _objs = {}
+            for i in wiki.media:
+                if i["site"] == site:
+                    _objs[i["ID"]] = i
+            meta["wkimagesjson"] = loadimageswkjson(meta['api'], site, _objs)
+        print("Recuperando información de api wk-json) 100%")
+
+        for data in wiki.pages:
+            site = wiki.sites[data["site"]]
+            wk_data = site["wkpagesjson"].get(data["ID"], {})
+            data["_WKJSON"] = bool(wk_data)
+            data["content"] = wk_data.get("text")
+            title = (wk_data.get("title") or "").strip()
+            if len(title)>0:
+                data["title"]=title
+            data["url"] = find_value(wk_data, "canonicalurl", "fullurl", avoid="#")
+
+        for data in wiki.media:
+            site = wiki.sites[data["site"]]
+            wk_data = site["wkimagesjson"].get(data["ID"], {})
+            data["_WKJSON"] = bool(wk_data)
+            data["url"] = find_value(wk_data, "url", avoid="#")
+
+        self.print_totales("wiki", wiki)
+        return wiki
+
 if __name__ == "__main__":
     import json
     from .connect import DBs
     scr = ScrapDB(None, *DBs)
-    print(json.dumps(scr.phpbb.sites, indent=4))
+    for m in scr.wiki.sites.values():
+        for k in list(m.keys()):
+            if "json" in k:
+                del m[k]
+    print(json.dumps(scr.wiki.sites, indent=2))

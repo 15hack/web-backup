@@ -1,9 +1,9 @@
 BEGIN TRANSACTION;
 
-DELETE from wp_tags where (site, post) in (select site, id from wp_posts where url is null);
+DELETE from wp_tags where (site, post) in (select site, id from wp_posts where url is null);;
 
-DROP view _wp_posts;
-DROP view _wp_media;
+DELETE from wk_media where url is null;;
+
 
 ALTER TABLE sites RENAME TO temp_sites;
 
@@ -138,5 +138,29 @@ FROM
     temp_phpbb_posts;
 
 DROP TABLE temp_phpbb_posts;
+
+ALTER TABLE wk_pages RENAME TO temp_wk_pages;
+
+CREATE TABLE wk_pages (
+  site INTEGER REFERENCES sites(ID),
+  ID INTEGER,
+  namespace INTEGER,
+  date TEXT,
+  modified TEXT,
+  content TEXT,
+  title TEXT,
+  url TEXT,
+  PRIMARY KEY (site, id)
+);
+
+INSERT INTO wk_pages
+    (site, ID, namespace, date, modified, content, title, url)
+SELECT
+    site, ID, namespace, date, modified, content, title, url
+FROM
+    temp_wk_pages
+where url is not null;
+
+DROP TABLE temp_wk_pages;
 
 COMMIT;

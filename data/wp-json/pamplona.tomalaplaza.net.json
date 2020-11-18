@@ -1,2271 +1,2246 @@
-[
-    {
-        "id": 155,
-        "date": "2017-01-22T14:18:37",
-        "date_gmt": "2017-01-22T14:18:37",
-        "guid": {
-            "rendered": "http://pamplona.tomalaplaza.net/community/"
-        },
-        "modified": "2017-01-22T14:18:37",
-        "modified_gmt": "2017-01-22T14:18:37",
-        "slug": "community",
-        "status": "publish",
-        "type": "page",
-        "link": "https://pamplona.tomalaplaza.net/community/",
-        "title": {
-            "rendered": "Forum"
-        },
-        "content": {
-            "rendered": "<p>[wpforo]</p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>[wpforo]</p>\n",
-            "protected": false
-        },
-        "author": 1657,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "close",
-        "ping_status": "close",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/155"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/1657"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=155"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 0,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/155/revisions"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=155"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 145,
-        "date": "2011-06-07T01:30:48",
-        "date_gmt": "2011-06-07T01:30:48",
-        "guid": {
-            "rendered": "http://pamplona.tomalaplaza.net/?page_id=145"
-        },
-        "modified": "2011-06-07T01:30:48",
-        "modified_gmt": "2011-06-07T01:30:48",
-        "slug": "scheduler",
-        "status": "publish",
-        "type": "page",
-        "link": "https://pamplona.tomalaplaza.net/scheduler/",
-        "title": {
-            "rendered": "scheduler"
-        },
-        "content": {
-            "rendered": "<p>[[scheduler_plugin]]</p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>[[scheduler_plugin]]</p>\n",
-            "protected": false
-        },
-        "author": 1,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/145"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/1"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=145"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 0,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/145/revisions"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=145"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 143,
-        "date": "2011-05-28T14:03:20",
-        "date_gmt": "2011-05-28T14:03:20",
-        "guid": {
-            "rendered": "http://pamplona.tomalaplaza.net/?p=143"
-        },
-        "modified": "2011-05-28T14:03:20",
-        "modified_gmt": "2011-05-28T14:03:20",
-        "slug": "siguiente-objetivo-politicosas-corruptosas",
-        "status": "publish",
-        "type": "post",
-        "link": "https://pamplona.tomalaplaza.net/2011/05/28/siguiente-objetivo-politicosas-corruptosas/",
-        "title": {
-            "rendered": "siguiente objetivo: pol\u00edticos/as corruptos/as"
-        },
-        "content": {
-            "rendered": "<p>@sarko, se te ve un poco alica\u00eddo, no has dormido bien? y carla, ha dormido bien? :).<br />\nSiento no dec\u00edrtelo ni en franc\u00e9s ni en h\u00fangaro :(.<br />\nMe parece que empezar\u00e9 por el &#8220;franc\u00e9s&#8221;, que es m\u00e1s f\u00e1cil y encima se habla en gran parte de \u00e1frica ;).<br />\nMientras tanto, si quieres, te puedes volver a dar un paseo y continuar insultando a los inmigrantes como aquella vez, te acuerdas?<br />\nAh, y cuanto antes hagas el paseo, mejor para vosotros/as, porque ya se nos ha ocurrido c\u00f3mo saber qu\u00e9 pol\u00edtico ha echado mano a la caja y cu\u00e1l no.<br />\nDe momento no sabemos la cuant\u00eda. Pero poco a poco, esto no acaba m\u00e1s que empezar.<br />\n@p.corruptos, estaos tranquilos que no os vamos a hacer nada, al menos yo, como mucho os echar\u00e9 una foto ;).<br />\nSi pens\u00e1is que os vamos a mandar a la c\u00e1rcel o poner en los &#8220;guevillos&#8221; electrodos, bolsas, ba\u00f1eras, alejaos miles de km de la familia, no dejaros verla ni 1h/mes&#8230; vais muy equivocados/as.<br />\nEste juego nuevo que estamos empezando os necesita a todas y en la c\u00e1rcel no eres libre de salir a limpiar alcantarillas, platos, ba\u00f1os&#8230;<br />\n@ppsoe, tranqui vosotros tambi\u00e9n. Iremos limpiando uno a una y el que haya pillado&#8230;<br />\n@fse, gracias por entrar en raz\u00f3n. Una pregunta, ya est\u00e1is concentrados en alg\u00fan hotel? si necesit\u00e1is autob\u00fas para llevaros al campo, probablemente los de la mugiroarra tendr\u00e1n alguno disponible ahora que los propietarios de inasa [0] quieren quitar el bus, el comedor, externalizaci\u00f3n del almac\u00e9n, reducci\u00f3n voluntaria del salario 25%, recorte a proveedores del 25% y despedir a 50 y pico kurrelas.<br />\nY para colmo, las inversiones se har\u00e1n con el dinero generado por la propia inasa. Santiago Gonzalez [1], te ha costado mucho tiempo pensar el plan o estabas muy ocupado escuchando detr\u00e1s de la puerta?<br />\nOs agradecer\u00eda tambi\u00e9n que vay\u00e1is ahorrando para que de aqu\u00ed a 5 a\u00f1os cuando inasa desaparezca, se puedan quitar todas las chimeneas, naves,&#8230; y no parezca aquello tan desolado :(.<br />\nGracias.<br />\nSAX!<br />\nSeguiremos informando.<br />\nps: se me olvidaba, si el bar\u00e7a gana la champions, pues la gente que es del bar\u00e7a lo celebrar\u00e1 y los del mu, pues no tanto. Y viceversa. Tampoco es tan complicado, no? \ud83d\ude09<br />\n[0] http://www.baikap.de/index2.php<br />\n[1] http://www.knowcapital.net/news/?p=182</p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>@sarko, se te ve un poco alica\u00eddo, no has dormido bien? y carla, ha dormido bien? :). Siento no dec\u00edrtelo ni en franc\u00e9s ni en h\u00fangaro :(. Me parece que empezar\u00e9 por el &#8220;franc\u00e9s&#8221;, que es m\u00e1s f\u00e1cil y encima se habla en gran parte de \u00e1frica ;). Mientras tanto, si quieres, te puedes volver [&hellip;]</p>\n",
-            "protected": false
-        },
-        "author": 26,
-        "featured_media": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "sticky": false,
-        "template": "",
-        "format": "standard",
-        "meta": [],
-        "categories": [
-            1
-        ],
-        "tags": [],
-        "jetpack_featured_media_url": "",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/143"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/post"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=143"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 1,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/143/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 144,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/143/revisions/144"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=143"
-                }
-            ],
-            "wp:term": [
-                {
-                    "taxonomy": "category",
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/categories?post=143"
-                },
-                {
-                    "taxonomy": "post_tag",
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/tags?post=143"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 137,
-        "date": "2011-05-28T01:34:09",
-        "date_gmt": "2011-05-28T01:34:09",
-        "guid": {
-            "rendered": "http://pamplona.tomalaplaza.net/?p=137"
-        },
-        "modified": "2011-05-28T01:41:20",
-        "modified_gmt": "2011-05-28T01:41:20",
-        "slug": "1%c2%ba-foto",
-        "status": "publish",
-        "type": "post",
-        "link": "https://pamplona.tomalaplaza.net/2011/05/28/1%c2%ba-foto/",
-        "title": {
-            "rendered": "1\u00ba foto"
-        },
-        "content": {
-            "rendered": "<p>iremos soltando una a una hasta vaciar los 500 y pico mb :). (habr\u00e1 que hacer un peque\u00f1o script ;)).<br />\nque no&#8230; que es broma \ud83d\ude09<br />\nde momento solo se publicar\u00e1 la foto que est\u00e1 en pamplona.tomalaplaza.net, pero sin publicar. Me parece que hay m\u00e1s gente que tiene passwords, as\u00ed que si quer\u00e9is ver la foto, ya sab\u00e9is, sois libres ;).<br />\nbona nit<br />\nsax!<br />\nps0: @malos, ma\u00f1ana voy a volver a sacar mi arma (ya la estoy cargando) y encima he visto que hay un objetivo m\u00e1s largo :). As\u00ed que mejor que para divertiros un poco os propongo un juego:<br />\nporqu\u00e9 no coj\u00e9is 11 mossos y 11 nacionales, unos con las camis del bar\u00e7a i otros con las del madrid (con sus n\u00fameros) y os vais al camp nou a jugar un partido vestido de antidisturbios (dejadles unas botas de tacos, que estos capaces de jugar con las botas de reventar cabezas ;)).<br />\nps1: @amatxos, sois las mejores y para mi, la Maritxu es la mejor. Te quiero.<br />\nps2: ah, y a las que no os guste el f\u00fatbol pod\u00e9is ir a practicar sexo con perros, con flautas y hasta con inmigrantes ;). Gracias, porque me di\u00f3 un subid\u00f3n ese video :).</p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>iremos soltando una a una hasta vaciar los 500 y pico mb :). (habr\u00e1 que hacer un peque\u00f1o script ;)). que no&#8230; que es broma \ud83d\ude09 de momento solo se publicar\u00e1 la foto que est\u00e1 en pamplona.tomalaplaza.net, pero sin publicar. Me parece que hay m\u00e1s gente que tiene passwords, as\u00ed que si quer\u00e9is ver la [&hellip;]</p>\n",
-            "protected": false
-        },
-        "author": 26,
-        "featured_media": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "sticky": false,
-        "template": "",
-        "format": "standard",
-        "meta": [],
-        "categories": [
-            1
-        ],
-        "tags": [],
-        "jetpack_featured_media_url": "",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/137"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/post"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=137"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 5,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/137/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 142,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/137/revisions/142"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=137"
-                }
-            ],
-            "wp:term": [
-                {
-                    "taxonomy": "category",
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/categories?post=137"
-                },
-                {
-                    "taxonomy": "post_tag",
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/tags?post=137"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 136,
-        "date": "2011-05-28T01:01:29",
-        "date_gmt": "2011-05-28T01:01:29",
-        "guid": {
-            "rendered": "http://pamplona.tomalaplaza.net/files/2011/05/eskerrik_asko.jpg"
-        },
-        "modified": "2011-05-28T01:01:29",
-        "modified_gmt": "2011-05-28T01:01:29",
-        "slug": "eskerrik_asko",
-        "status": "inherit",
-        "type": "attachment",
-        "link": "https://pamplona.tomalaplaza.net/eskerrik_asko/",
-        "title": {
-            "rendered": "eskerrik_asko"
-        },
-        "author": 26,
-        "comment_status": "closed",
-        "ping_status": "open",
-        "template": "",
-        "meta": [],
-        "description": {
-            "rendered": "<p class=\"attachment\"><a href='https://pamplona.tomalaplaza.net/files/2011/05/eskerrik_asko.jpg'><img width=\"300\" height=\"225\" src=\"https://pamplona.tomalaplaza.net/files/2011/05/eskerrik_asko-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://pamplona.tomalaplaza.net/files/2011/05/eskerrik_asko-300x225.jpg 300w, https://pamplona.tomalaplaza.net/files/2011/05/eskerrik_asko-1024x768.jpg 1024w, https://pamplona.tomalaplaza.net/files/2011/05/eskerrik_asko.jpg 1632w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
-        },
-        "caption": {
-            "rendered": ""
-        },
-        "alt_text": "",
-        "media_type": "image",
+[{
+  "id": 155,
+  "date": "2017-01-22T14:18:37",
+  "date_gmt": "2017-01-22T14:18:37",
+  "guid": {
+    "rendered": "http://pamplona.tomalaplaza.net/community/"
+  },
+  "modified": "2017-01-22T14:18:37",
+  "modified_gmt": "2017-01-22T14:18:37",
+  "slug": "community",
+  "status": "publish",
+  "type": "page",
+  "link": "https://pamplona.tomalaplaza.net/community/",
+  "title": {
+    "rendered": "Forum"
+  },
+  "content": {
+    "rendered": "<p>[wpforo]</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>[wpforo]</p>\n",
+    "protected": false
+  },
+  "author": 1657,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "close",
+  "ping_status": "close",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/155"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/1657"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=155"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/155/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=155"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+},{
+  "id": 145,
+  "date": "2011-06-07T01:30:48",
+  "date_gmt": "2011-06-07T01:30:48",
+  "guid": {
+    "rendered": "http://pamplona.tomalaplaza.net/?page_id=145"
+  },
+  "modified": "2011-06-07T01:30:48",
+  "modified_gmt": "2011-06-07T01:30:48",
+  "slug": "scheduler",
+  "status": "publish",
+  "type": "page",
+  "link": "https://pamplona.tomalaplaza.net/scheduler/",
+  "title": {
+    "rendered": "scheduler"
+  },
+  "content": {
+    "rendered": "<p>[[scheduler_plugin]]</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>[[scheduler_plugin]]</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/145"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=145"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/145/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=145"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+},{
+  "id": 143,
+  "date": "2011-05-28T14:03:20",
+  "date_gmt": "2011-05-28T14:03:20",
+  "guid": {
+    "rendered": "http://pamplona.tomalaplaza.net/?p=143"
+  },
+  "modified": "2011-05-28T14:03:20",
+  "modified_gmt": "2011-05-28T14:03:20",
+  "slug": "siguiente-objetivo-politicosas-corruptosas",
+  "status": "publish",
+  "type": "post",
+  "link": "https://pamplona.tomalaplaza.net/2011/05/28/siguiente-objetivo-politicosas-corruptosas/",
+  "title": {
+    "rendered": "siguiente objetivo: pol\u00edticos/as corruptos/as"
+  },
+  "content": {
+    "rendered": "<p>@sarko, se te ve un poco alica\u00eddo, no has dormido bien? y carla, ha dormido bien? :).<br />\nSiento no dec\u00edrtelo ni en franc\u00e9s ni en h\u00fangaro :(.<br />\nMe parece que empezar\u00e9 por el &#8220;franc\u00e9s&#8221;, que es m\u00e1s f\u00e1cil y encima se habla en gran parte de \u00e1frica ;).<br />\nMientras tanto, si quieres, te puedes volver a dar un paseo y continuar insultando a los inmigrantes como aquella vez, te acuerdas?<br />\nAh, y cuanto antes hagas el paseo, mejor para vosotros/as, porque ya se nos ha ocurrido c\u00f3mo saber qu\u00e9 pol\u00edtico ha echado mano a la caja y cu\u00e1l no.<br />\nDe momento no sabemos la cuant\u00eda. Pero poco a poco, esto no acaba m\u00e1s que empezar.<br />\n@p.corruptos, estaos tranquilos que no os vamos a hacer nada, al menos yo, como mucho os echar\u00e9 una foto ;).<br />\nSi pens\u00e1is que os vamos a mandar a la c\u00e1rcel o poner en los &#8220;guevillos&#8221; electrodos, bolsas, ba\u00f1eras, alejaos miles de km de la familia, no dejaros verla ni 1h/mes&#8230; vais muy equivocados/as.<br />\nEste juego nuevo que estamos empezando os necesita a todas y en la c\u00e1rcel no eres libre de salir a limpiar alcantarillas, platos, ba\u00f1os&#8230;<br />\n@ppsoe, tranqui vosotros tambi\u00e9n. Iremos limpiando uno a una y el que haya pillado&#8230;<br />\n@fse, gracias por entrar en raz\u00f3n. Una pregunta, ya est\u00e1is concentrados en alg\u00fan hotel? si necesit\u00e1is autob\u00fas para llevaros al campo, probablemente los de la mugiroarra tendr\u00e1n alguno disponible ahora que los propietarios de inasa [0] quieren quitar el bus, el comedor, externalizaci\u00f3n del almac\u00e9n, reducci\u00f3n voluntaria del salario 25%, recorte a proveedores del 25% y despedir a 50 y pico kurrelas.<br />\nY para colmo, las inversiones se har\u00e1n con el dinero generado por la propia inasa. Santiago Gonzalez [1], te ha costado mucho tiempo pensar el plan o estabas muy ocupado escuchando detr\u00e1s de la puerta?<br />\nOs agradecer\u00eda tambi\u00e9n que vay\u00e1is ahorrando para que de aqu\u00ed a 5 a\u00f1os cuando inasa desaparezca, se puedan quitar todas las chimeneas, naves,&#8230; y no parezca aquello tan desolado :(.<br />\nGracias.<br />\nSAX!<br />\nSeguiremos informando.<br />\nps: se me olvidaba, si el bar\u00e7a gana la champions, pues la gente que es del bar\u00e7a lo celebrar\u00e1 y los del mu, pues no tanto. Y viceversa. Tampoco es tan complicado, no? \ud83d\ude09<br />\n[0] http://www.baikap.de/index2.php<br />\n[1] http://www.knowcapital.net/news/?p=182</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>@sarko, se te ve un poco alica\u00eddo, no has dormido bien? y carla, ha dormido bien? :). Siento no dec\u00edrtelo ni en franc\u00e9s ni en h\u00fangaro :(. Me parece que empezar\u00e9 por el &#8220;franc\u00e9s&#8221;, que es m\u00e1s f\u00e1cil y encima se habla en gran parte de \u00e1frica ;). Mientras tanto, si quieres, te puedes volver [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 26,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "categories": [
+    1
+  ],
+  "tags": [],
+  "jetpack_featured_media_url": "",
+  "_links": {
+    "self": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/143"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=143"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/143/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 144,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/143/revisions/144"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=143"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/categories?post=143"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/tags?post=143"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+},{
+  "id": 137,
+  "date": "2011-05-28T01:34:09",
+  "date_gmt": "2011-05-28T01:34:09",
+  "guid": {
+    "rendered": "http://pamplona.tomalaplaza.net/?p=137"
+  },
+  "modified": "2011-05-28T01:41:20",
+  "modified_gmt": "2011-05-28T01:41:20",
+  "slug": "1%c2%ba-foto",
+  "status": "publish",
+  "type": "post",
+  "link": "https://pamplona.tomalaplaza.net/2011/05/28/1%c2%ba-foto/",
+  "title": {
+    "rendered": "1\u00ba foto"
+  },
+  "content": {
+    "rendered": "<p>iremos soltando una a una hasta vaciar los 500 y pico mb :). (habr\u00e1 que hacer un peque\u00f1o script ;)).<br />\nque no&#8230; que es broma \ud83d\ude09<br />\nde momento solo se publicar\u00e1 la foto que est\u00e1 en pamplona.tomalaplaza.net, pero sin publicar. Me parece que hay m\u00e1s gente que tiene passwords, as\u00ed que si quer\u00e9is ver la foto, ya sab\u00e9is, sois libres ;).<br />\nbona nit<br />\nsax!<br />\nps0: @malos, ma\u00f1ana voy a volver a sacar mi arma (ya la estoy cargando) y encima he visto que hay un objetivo m\u00e1s largo :). As\u00ed que mejor que para divertiros un poco os propongo un juego:<br />\nporqu\u00e9 no coj\u00e9is 11 mossos y 11 nacionales, unos con las camis del bar\u00e7a i otros con las del madrid (con sus n\u00fameros) y os vais al camp nou a jugar un partido vestido de antidisturbios (dejadles unas botas de tacos, que estos capaces de jugar con las botas de reventar cabezas ;)).<br />\nps1: @amatxos, sois las mejores y para mi, la Maritxu es la mejor. Te quiero.<br />\nps2: ah, y a las que no os guste el f\u00fatbol pod\u00e9is ir a practicar sexo con perros, con flautas y hasta con inmigrantes ;). Gracias, porque me di\u00f3 un subid\u00f3n ese video :).</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>iremos soltando una a una hasta vaciar los 500 y pico mb :). (habr\u00e1 que hacer un peque\u00f1o script ;)). que no&#8230; que es broma \ud83d\ude09 de momento solo se publicar\u00e1 la foto que est\u00e1 en pamplona.tomalaplaza.net, pero sin publicar. Me parece que hay m\u00e1s gente que tiene passwords, as\u00ed que si quer\u00e9is ver la [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 26,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "categories": [
+    1
+  ],
+  "tags": [],
+  "jetpack_featured_media_url": "",
+  "_links": {
+    "self": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/137"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=137"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/137/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 142,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/137/revisions/142"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=137"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/categories?post=137"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/tags?post=137"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+},{
+  "id": 136,
+  "date": "2011-05-28T01:01:29",
+  "date_gmt": "2011-05-28T01:01:29",
+  "guid": {
+    "rendered": "http://pamplona.tomalaplaza.net/files/2011/05/eskerrik_asko.jpg"
+  },
+  "modified": "2011-05-28T01:01:29",
+  "modified_gmt": "2011-05-28T01:01:29",
+  "slug": "eskerrik_asko",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://pamplona.tomalaplaza.net/eskerrik_asko/",
+  "title": {
+    "rendered": "eskerrik_asko"
+  },
+  "author": 26,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://pamplona.tomalaplaza.net/files/2011/05/eskerrik_asko.jpg'><img width=\"300\" height=\"225\" src=\"https://pamplona.tomalaplaza.net/files/2011/05/eskerrik_asko-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://pamplona.tomalaplaza.net/files/2011/05/eskerrik_asko-300x225.jpg 300w, https://pamplona.tomalaplaza.net/files/2011/05/eskerrik_asko-1024x768.jpg 1024w, https://pamplona.tomalaplaza.net/files/2011/05/eskerrik_asko.jpg 1632w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": "1632",
+    "height": "1224",
+    "hwstring_small": "height='96' width='128'",
+    "file": "2011/05/eskerrik_asko.jpg",
+    "sizes": {
+      "thumbnail": {
+        "file": "eskerrik_asko-150x150.jpg",
+        "width": "150",
+        "height": "150",
+        "source_url": "https://pamplona.tomalaplaza.net/files/2011/05/eskerrik_asko-150x150.jpg"
+      },
+      "medium": {
+        "file": "eskerrik_asko-300x225.jpg",
+        "width": "300",
+        "height": "225",
+        "source_url": "https://pamplona.tomalaplaza.net/files/2011/05/eskerrik_asko-300x225.jpg"
+      },
+      "large": {
+        "file": "eskerrik_asko-1024x768.jpg",
+        "width": "1024",
+        "height": "768",
+        "source_url": "https://pamplona.tomalaplaza.net/files/2011/05/eskerrik_asko-1024x768.jpg"
+      },
+      "full": {
+        "file": "eskerrik_asko.jpg",
+        "width": 1632,
+        "height": 1224,
         "mime_type": "image/jpeg",
-        "media_details": {
-            "width": "1632",
-            "height": "1224",
-            "hwstring_small": "height='96' width='128'",
-            "file": "2011/05/eskerrik_asko.jpg",
-            "sizes": {
-                "thumbnail": {
-                    "file": "eskerrik_asko-150x150.jpg",
-                    "width": "150",
-                    "height": "150",
-                    "source_url": "https://pamplona.tomalaplaza.net/files/2011/05/eskerrik_asko-150x150.jpg"
-                },
-                "medium": {
-                    "file": "eskerrik_asko-300x225.jpg",
-                    "width": "300",
-                    "height": "225",
-                    "source_url": "https://pamplona.tomalaplaza.net/files/2011/05/eskerrik_asko-300x225.jpg"
-                },
-                "large": {
-                    "file": "eskerrik_asko-1024x768.jpg",
-                    "width": "1024",
-                    "height": "768",
-                    "source_url": "https://pamplona.tomalaplaza.net/files/2011/05/eskerrik_asko-1024x768.jpg"
-                },
-                "full": {
-                    "file": "eskerrik_asko.jpg",
-                    "width": 1632,
-                    "height": 1224,
-                    "mime_type": "image/jpeg",
-                    "source_url": "https://pamplona.tomalaplaza.net/files/2011/05/eskerrik_asko.jpg"
-                }
-            },
-            "image_meta": {
-                "aperture": "7.9",
-                "credit": "",
-                "camera": "E2000",
-                "caption": "",
-                "created_timestamp": "1092598453",
-                "copyright": "",
-                "focal_length": "5.8",
-                "iso": "50",
-                "shutter_speed": "0.008042328042328",
-                "title": ""
-            }
-        },
-        "post": null,
-        "source_url": "https://pamplona.tomalaplaza.net/files/2011/05/eskerrik_asko.jpg",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media/136"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/attachment"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=136"
-                }
-            ]
-        }
+        "source_url": "https://pamplona.tomalaplaza.net/files/2011/05/eskerrik_asko.jpg"
+      }
     },
-    {
-        "id": 119,
-        "date": "2011-05-26T06:14:10",
-        "date_gmt": "2011-05-26T06:14:10",
-        "guid": {
-            "rendered": "http://pamplona.tomalaplaza.net/?page_id=119"
-        },
-        "modified": "2011-05-26T07:19:18",
-        "modified_gmt": "2011-05-26T07:19:18",
-        "slug": "prog-semanal",
-        "status": "publish",
-        "type": "page",
-        "link": "https://pamplona.tomalaplaza.net/prog-semanal/",
-        "title": {
-            "rendered": "Prog. Semanal"
-        },
-        "content": {
-            "rendered": "<p>Semana 0. De jueves 26 de mayo a mi\u00e9rcoles 1 de junio:<br />\n<a href=\"https://spreadsheets.google.com/spreadsheet/ccc?key=0Atg7IdTjiD2idHJsZjd6azlKY1B1RHl3amJ5WUNqYmc&amp;hl=es\">Programaci\u00f3n actualizada</a></p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Semana 0. De jueves 26 de mayo a mi\u00e9rcoles 1 de junio: Programaci\u00f3n actualizada</p>\n",
-            "protected": false
-        },
-        "author": 26,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/119"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=119"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 4,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/119/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 122,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/119/revisions/122"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=119"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 120,
-        "date": "2011-05-26T06:11:54",
-        "date_gmt": "2011-05-26T06:11:54",
-        "guid": {
-            "rendered": "http://pamplona.tomalaplaza.net/files/2011/05/semana0.pdf"
-        },
-        "modified": "2011-05-26T06:11:54",
-        "modified_gmt": "2011-05-26T06:11:54",
-        "slug": "semana0",
-        "status": "inherit",
-        "type": "attachment",
-        "link": "https://pamplona.tomalaplaza.net/prog-semanal/semana0/",
-        "title": {
-            "rendered": "semana0_v0"
-        },
-        "author": 26,
-        "comment_status": "closed",
-        "ping_status": "open",
-        "template": "",
-        "meta": [],
-        "description": {
-            "rendered": "<p class=\"attachment\"><a href='https://pamplona.tomalaplaza.net/files/2011/05/semana0.pdf'>semana0_v0</a></p>\n"
-        },
-        "caption": {
-            "rendered": "<p>programaci\u00f3n_2605_0106_v0</p>\n"
-        },
-        "alt_text": "",
-        "media_type": "file",
-        "mime_type": "application/pdf",
-        "media_details": {},
-        "post": 119,
-        "source_url": "https://pamplona.tomalaplaza.net/files/2011/05/semana0.pdf",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media/120"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/attachment"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=120"
-                }
-            ]
-        }
-    },
-    {
-        "id": 102,
-        "date": "2011-05-26T04:52:20",
-        "date_gmt": "2011-05-26T04:52:20",
-        "guid": {
-            "rendered": "http://pamplona.tomalaplaza.net/?page_id=102"
-        },
-        "modified": "2011-05-26T04:52:44",
-        "modified_gmt": "2011-05-26T04:52:44",
-        "slug": "exvideos",
-        "status": "publish",
-        "type": "page",
-        "link": "https://pamplona.tomalaplaza.net/exvideos/",
-        "title": {
-            "rendered": "exvideos"
-        },
-        "content": {
-            "rendered": "<p><a href=\"http://www.youtube.com/watch?v=jLcTxHMpQPY\">Intereconom\u00eda &#8211; el gato al agua</a></p>\n<p><a href=\"http://www.youtube.com/watch?v=jD-30f_soP0&amp;feature=player_embedded\">As\u00ed son los acampados del 15M (Intermojonnnom\u00eda)</a></p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Intereconom\u00eda &#8211; el gato al agua As\u00ed son los acampados del 15M (Intermojonnnom\u00eda)</p>\n",
-            "protected": false
-        },
-        "author": 26,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/102"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=102"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 2,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/102/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 104,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/102/revisions/104"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=102"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 100,
-        "date": "2011-05-26T04:51:43",
-        "date_gmt": "2011-05-26T04:51:43",
-        "guid": {
-            "rendered": "http://pamplona.tomalaplaza.net/?page_id=100"
-        },
-        "modified": "2011-05-26T04:51:43",
-        "modified_gmt": "2011-05-26T04:51:43",
-        "slug": "videos",
-        "status": "publish",
-        "type": "page",
-        "link": "https://pamplona.tomalaplaza.net/videos/",
-        "title": {
-            "rendered": "videos"
-        },
-        "content": {
-            "rendered": "",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "",
-            "protected": false
-        },
-        "author": 26,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/100"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=100"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 1,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/100/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 101,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/100/revisions/101"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=100"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 96,
-        "date": "2011-05-26T04:50:34",
-        "date_gmt": "2011-05-26T04:50:34",
-        "guid": {
-            "rendered": "http://pamplona.tomalaplaza.net/?p=96"
-        },
-        "modified": "2011-05-27T15:41:46",
-        "modified_gmt": "2011-05-27T15:41:46",
-        "slug": "exvideos-2",
-        "status": "publish",
-        "type": "post",
-        "link": "https://pamplona.tomalaplaza.net/2011/05/26/exvideos-2/",
-        "title": {
-            "rendered": "aupa"
-        },
-        "content": {
-            "rendered": "<p>estatuko errepresio herramintak 2011-ko maiatzak 27-ko 18.00h-tan desagertzen ez badira, argazkiak argitaratzen hasiko gara.<br />\nSAX!</p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>estatuko errepresio herramintak 2011-ko maiatzak 27-ko 18.00h-tan desagertzen ez badira, argazkiak argitaratzen hasiko gara. SAX!</p>\n",
-            "protected": false
-        },
-        "author": 26,
-        "featured_media": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "sticky": false,
-        "template": "",
-        "format": "standard",
-        "meta": [],
-        "categories": [
-            1
-        ],
-        "tags": [],
-        "jetpack_featured_media_url": "",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/96"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/post"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=96"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 5,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/96/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 116,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/96/revisions/116"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=96"
-                }
-            ],
-            "wp:term": [
-                {
-                    "taxonomy": "category",
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/categories?post=96"
-                },
-                {
-                    "taxonomy": "post_tag",
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/tags?post=96"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 79,
-        "date": "2011-05-24T11:55:01",
-        "date_gmt": "2011-05-24T11:55:01",
-        "guid": {
-            "rendered": "http://pamplona.tomalaplaza.net/?p=79"
-        },
-        "modified": "2011-05-24T11:59:26",
-        "modified_gmt": "2011-05-24T11:59:26",
-        "slug": "asteartea-maiatzak-24-ko-programazioa",
-        "status": "publish",
-        "type": "post",
-        "link": "https://pamplona.tomalaplaza.net/2011/05/24/asteartea-maiatzak-24-ko-programazioa/",
-        "title": {
-            "rendered": "Asteartea maiatzak 24-ko programazioa"
-        },
-        "content": {
-            "rendered": "<p><strong>Gaztelu Enparantzan</strong><br />\n<strong>9:00-10:00</strong> Kanpaldia koordinatzeko asanblada eta eguneko antolakuntza (funtsesko erabakiak ez dira hartzen)<br />\n<strong>14:30-16:30</strong> Bazkari herrikoia autogestionatua<br />\n<strong>17:00-18:30</strong> Lan taldeek egindakoaren asanblada (orokorra)<br />\n<strong>18:30-20:00</strong> Lan talde asanbladak (lan taldekoak bakarrik)<br />\n<strong>20:00</strong> Asanblada orokorra<br />\n<strong>20:00</strong> \u201cLa crisis que viene\u201d liburuaren aurkezpena eta eztabaida<a href=\"http://15mpamplona.org/2011/05/24/presentacion-y-debate-en-torno-al-libro-la-crisis-que-viene/\"> + info</a><br />\n<strong>ITXOITEN ZAITUZTEGU!!!</strong></p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Gaztelu Enparantzan 9:00-10:00 Kanpaldia koordinatzeko asanblada eta eguneko antolakuntza (funtsesko erabakiak ez dira hartzen) 14:30-16:30 Bazkari herrikoia autogestionatua 17:00-18:30 Lan taldeek egindakoaren asanblada (orokorra) 18:30-20:00 Lan talde asanbladak (lan taldekoak bakarrik) 20:00 Asanblada orokorra 20:00 \u201cLa crisis que viene\u201d liburuaren aurkezpena eta eztabaida + info ITXOITEN ZAITUZTEGU!!!</p>\n",
-            "protected": false
-        },
-        "author": 26,
-        "featured_media": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "sticky": false,
-        "template": "",
-        "format": "standard",
-        "meta": [],
-        "categories": [
-            1
-        ],
-        "tags": [],
-        "jetpack_featured_media_url": "",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/79"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/post"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=79"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 3,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/79/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 82,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/79/revisions/82"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=79"
-                }
-            ],
-            "wp:term": [
-                {
-                    "taxonomy": "category",
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/categories?post=79"
-                },
-                {
-                    "taxonomy": "post_tag",
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/tags?post=79"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 77,
-        "date": "2011-05-24T11:52:29",
-        "date_gmt": "2011-05-24T11:52:29",
-        "guid": {
-            "rendered": "http://pamplona.tomalaplaza.net/?p=77"
-        },
-        "modified": "2011-05-24T11:55:42",
-        "modified_gmt": "2011-05-24T11:55:42",
-        "slug": "programacion-martes-24-mayo",
-        "status": "publish",
-        "type": "post",
-        "link": "https://pamplona.tomalaplaza.net/2011/05/24/programacion-martes-24-mayo/",
-        "title": {
-            "rendered": "Programaci\u00f3n Martes 24 mayo"
-        },
-        "content": {
-            "rendered": "<p><strong>En la Plaza del Castillo:</strong><br />\n<strong>9:00-10:00</strong> Asamblea coordinaci\u00f3n acampada y preparaci\u00f3n del dia (sin tomar decisiones transcendentes)<br />\n<strong>14:30-16:30</strong> Comida popular autogestionada<br />\n<strong>17:00-18:30</strong> Asamblea coordinaci\u00f3n grupos de trabajo (general)<br />\n<strong>18:30-20:00</strong> Asamblea grupos de trabajo (solo los del grupo)<br />\n<strong>20:00</strong> Asamblea general<br />\n<strong>20:00</strong> Presentaci\u00f3n y debate en torno al libro \u201cLa crisis que viene\u201d<a href=\"http://15mpamplona.org/2011/05/24/presentacion-y-debate-en-torno-al-libro-la-crisis-que-viene/\"> + info</a><br />\n<strong>OS ESPERAMOS!!!</strong></p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>En la Plaza del Castillo: 9:00-10:00 Asamblea coordinaci\u00f3n acampada y preparaci\u00f3n del dia (sin tomar decisiones transcendentes) 14:30-16:30 Comida popular autogestionada 17:00-18:30 Asamblea coordinaci\u00f3n grupos de trabajo (general) 18:30-20:00 Asamblea grupos de trabajo (solo los del grupo) 20:00 Asamblea general 20:00 Presentaci\u00f3n y debate en torno al libro \u201cLa crisis que viene\u201d + info OS [&hellip;]</p>\n",
-            "protected": false
-        },
-        "author": 26,
-        "featured_media": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "sticky": false,
-        "template": "",
-        "format": "standard",
-        "meta": [],
-        "categories": [
-            1
-        ],
-        "tags": [],
-        "jetpack_featured_media_url": "",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/77"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/post"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=77"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 2,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/77/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 81,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/77/revisions/81"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=77"
-                }
-            ],
-            "wp:term": [
-                {
-                    "taxonomy": "category",
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/categories?post=77"
-                },
-                {
-                    "taxonomy": "post_tag",
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/tags?post=77"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 67,
-        "date": "2011-05-24T02:16:30",
-        "date_gmt": "2011-05-24T02:16:30",
-        "guid": {
-            "rendered": "http://pamplona.tomalaplaza.net/?p=67"
-        },
-        "modified": "2011-05-26T15:18:15",
-        "modified_gmt": "2011-05-26T15:18:15",
-        "slug": "traslado-a-15mpamplona-org-15miruna-org",
-        "status": "publish",
-        "type": "post",
-        "link": "https://pamplona.tomalaplaza.net/2011/05/24/traslado-a-15mpamplona-org-15miruna-org/",
-        "title": {
-            "rendered": "Programaci\u00f3n 26 de mayo"
-        },
-        "content": {
-            "rendered": "<p>Plaza del Castillo:<br />\nEn Plaza Ayuntamiento:</p>\n<p>8:00-9:30 Desayuno</p>\n<p>12:00  Asamblea Comisi\u00f3n Comunicaci\u00f3n</p>\n<p>14:00:16:00 Comida autogestionada (cada un@ trae lo suyo)</p>\n<p>17:00 Asamblea Comisiones</p>\n<p>19:00 Traslado a Plaza del Castillo</p>\n<p>En Plaza del Castillo:</p>\n<p>20:00 Asamblea general</p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Plaza del Castillo: En Plaza Ayuntamiento: 8:00-9:30 Desayuno 12:00 Asamblea Comisi\u00f3n Comunicaci\u00f3n 14:00:16:00 Comida autogestionada (cada un@ trae lo suyo) 17:00 Asamblea Comisiones 19:00 Traslado a Plaza del Castillo En Plaza del Castillo: 20:00 Asamblea general</p>\n",
-            "protected": false
-        },
-        "author": 26,
-        "featured_media": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "sticky": false,
-        "template": "",
-        "format": "standard",
-        "meta": [],
-        "categories": [
-            4
-        ],
-        "tags": [],
-        "jetpack_featured_media_url": "",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/67"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/post"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=67"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 11,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/67/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 128,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/67/revisions/128"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=67"
-                }
-            ],
-            "wp:term": [
-                {
-                    "taxonomy": "category",
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/categories?post=67"
-                },
-                {
-                    "taxonomy": "post_tag",
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/tags?post=67"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 58,
-        "date": "2011-05-23T14:23:06",
-        "date_gmt": "2011-05-23T14:23:06",
-        "guid": {
-            "rendered": "http://pamplona.tomalaplaza.net/?p=58"
-        },
-        "modified": "2011-05-23T15:38:04",
-        "modified_gmt": "2011-05-23T15:38:04",
-        "slug": "s-o-s-esperientzia-duen-jendea-behar-dugu",
-        "status": "publish",
-        "type": "post",
-        "link": "https://pamplona.tomalaplaza.net/2011/05/23/s-o-s-esperientzia-duen-jendea-behar-dugu/",
-        "title": {
-            "rendered": "S.O.S. ESPERIENTZIA DUEN JENDEA BEHAR DUGU"
-        },
-        "content": {
-            "rendered": "<p>Esperientzia duen jendea behar dugu, zeinek irakasten diguna irakasle irudi gabe, arazoak konpotzea, inzidentziak, hobekuntzak&#8230;<br />\nHamaika kolektibo daude lurralde honetan tema sozialak oso landuak dituenak&#8230; Eta ez dago bat ere ez :(.<br />\nOso gazte gara, esperientzia gutxidunak eta zuek izandako akatsak egiten ari gara eta ekiditzea erakustea ondo egongo litzateke.<br />\nBestenaz hau ez da aterako, eta handia izan daiteke.<br />\nEskerrik asko</p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Esperientzia duen jendea behar dugu, zeinek irakasten diguna irakasle irudi gabe, arazoak konpotzea, inzidentziak, hobekuntzak&#8230; Hamaika kolektibo daude lurralde honetan tema sozialak oso landuak dituenak&#8230; Eta ez dago bat ere ez :(. Oso gazte gara, esperientzia gutxidunak eta zuek izandako akatsak egiten ari gara eta ekiditzea erakustea ondo egongo litzateke. Bestenaz hau ez da aterako, [&hellip;]</p>\n",
-            "protected": false
-        },
-        "author": 26,
-        "featured_media": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "sticky": false,
-        "template": "",
-        "format": "standard",
-        "meta": [],
-        "categories": [
-            1
-        ],
-        "tags": [],
-        "jetpack_featured_media_url": "",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/58"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/post"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=58"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 3,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/58/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 65,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/58/revisions/65"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=58"
-                }
-            ],
-            "wp:term": [
-                {
-                    "taxonomy": "category",
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/categories?post=58"
-                },
-                {
-                    "taxonomy": "post_tag",
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/tags?post=58"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 55,
-        "date": "2011-05-23T14:13:35",
-        "date_gmt": "2011-05-23T14:13:35",
-        "guid": {
-            "rendered": "http://pamplona.tomalaplaza.net/?p=55"
-        },
-        "modified": "2011-05-23T15:35:10",
-        "modified_gmt": "2011-05-23T15:35:10",
-        "slug": "s-o-s-necesitamos-gente-con-experiencia",
-        "status": "publish",
-        "type": "post",
-        "link": "https://pamplona.tomalaplaza.net/2011/05/23/s-o-s-necesitamos-gente-con-experiencia/",
-        "title": {
-            "rendered": "S.O.S NECESITAMOS GENTE CON EXPERIENCIA"
-        },
-        "content": {
-            "rendered": "<p>Se necesita gente con experiencia para que nos ense\u00f1en, sin parecer maestros a organizarnos, a resolver problemas, incidencias, mejoras &#8230;<br />\nHay un mont\u00f3n de colectivos que han trabajado diferentes temas sociales. Y no hay ninguno.<br />\nSomos muy j\u00f3venes, poco experimentadas y estamos haciendo errores que vosotras ya hab\u00e9is tenido y nos pod\u00e9is ense\u00f1ar a evitarlo.<br />\nSi no, esto no va a salir, y puede ser algo grande.<br />\nGracias.</p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Se necesita gente con experiencia para que nos ense\u00f1en, sin parecer maestros a organizarnos, a resolver problemas, incidencias, mejoras &#8230; Hay un mont\u00f3n de colectivos que han trabajado diferentes temas sociales. Y no hay ninguno. Somos muy j\u00f3venes, poco experimentadas y estamos haciendo errores que vosotras ya hab\u00e9is tenido y nos pod\u00e9is ense\u00f1ar a evitarlo. [&hellip;]</p>\n",
-            "protected": false
-        },
-        "author": 26,
-        "featured_media": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "sticky": false,
-        "template": "",
-        "format": "standard",
-        "meta": [],
-        "categories": [
-            1
-        ],
-        "tags": [],
-        "jetpack_featured_media_url": "",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/55"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/post"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=55"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 6,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/55/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 64,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/55/revisions/64"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=55"
-                }
-            ],
-            "wp:term": [
-                {
-                    "taxonomy": "category",
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/categories?post=55"
-                },
-                {
-                    "taxonomy": "post_tag",
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/tags?post=55"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 53,
-        "date": "2011-05-23T11:54:17",
-        "date_gmt": "2011-05-23T11:54:17",
-        "guid": {
-            "rendered": "http://pamplona.tomalaplaza.net/?p=53"
-        },
-        "modified": "2011-05-23T11:54:17",
-        "modified_gmt": "2011-05-23T11:54:17",
-        "slug": "como-estan-las-cosas-hasta-ahora-lunes",
-        "status": "publish",
-        "type": "post",
-        "link": "https://pamplona.tomalaplaza.net/2011/05/23/como-estan-las-cosas-hasta-ahora-lunes/",
-        "title": {
-            "rendered": "C\u00f3mo est\u00e1n las cosas hasta ahora (lunes)"
-        },
-        "content": {
-            "rendered": "<p>Desde la Acampada, os informamos de un par de cosillas:</p>\n<p>&#8211; A partir de hoy, vamos a intentar &#8220;legalizar&#8221; nuestra estancia en la Plaza. Dado el car\u00e1cter pac\u00edfico de la acampada y la acogida por parte de la ciudadan\u00eda, la concesi\u00f3n o no de permisos depende entonces de decisiones pol\u00edticas por parte de los gobiernos estatal, foral y local.</p>\n<p>&#8211; Se est\u00e1n usando tiendas de campa\u00f1a para facilitar el descanso de las acampadas. Necesitamos algunas tiendas pero, sobre todo, gente que quiera dormir. Van a establecerse turnos de acampada, de manera que ninguno tengamos que dormir toda la semana all\u00ed &#8211;aunque quien quiera, es m\u00e1s que bienvenida \ud83d\ude09 &#8211; y que en ning\u00fan momento se quede con poca gente.</p>\n<p>&#8211; Ya han comenzado a funcionar los grupos de trabajo. Ayer se reunieron en torno a 6 temas: 1) educaci\u00f3n, 2) empleo (desempleo, reparto del trabajo, etc.), 3) clase pol\u00edtica y sistema electoral, 4) vivienda, 5) Econom\u00eda, sistema bancario, finaciarizaci\u00f3n&#8230;, 6) Ecolog\u00eda.<br />\nLos Grupos de Trabajo son abiertos. Existen actas a disposici\u00f3n de todas, de manera que, si ayer no pudiste sumarte a uno de ellos, p\u00e1sate por el punto de informaci\u00f3n y solicita que la Comisi\u00f3n de Documentaci\u00f3n te env\u00ede el acta de ayer, de manera que puedas seguir el debate de hoy sin que se repitan temas.</p>\n<p>No obstante, se pueden proponer grupos de trabajo nuevos en la Asamblea general.</p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Desde la Acampada, os informamos de un par de cosillas: &#8211; A partir de hoy, vamos a intentar &#8220;legalizar&#8221; nuestra estancia en la Plaza. Dado el car\u00e1cter pac\u00edfico de la acampada y la acogida por parte de la ciudadan\u00eda, la concesi\u00f3n o no de permisos depende entonces de decisiones pol\u00edticas por parte de los gobiernos [&hellip;]</p>\n",
-            "protected": false
-        },
-        "author": 26,
-        "featured_media": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "sticky": false,
-        "template": "",
-        "format": "standard",
-        "meta": [],
-        "categories": [
-            1
-        ],
-        "tags": [],
-        "jetpack_featured_media_url": "",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/53"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/post"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=53"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 1,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/53/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 54,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/53/revisions/54"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=53"
-                }
-            ],
-            "wp:term": [
-                {
-                    "taxonomy": "category",
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/categories?post=53"
-                },
-                {
-                    "taxonomy": "post_tag",
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/tags?post=53"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 40,
-        "date": "2011-05-21T19:46:20",
-        "date_gmt": "2011-05-21T19:46:20",
-        "guid": {
-            "rendered": "http://pamplona.tomalaplaza.net/?page_id=40"
-        },
-        "modified": "2011-05-22T00:37:51",
-        "modified_gmt": "2011-05-22T00:37:51",
-        "slug": "tus-fotos",
-        "status": "publish",
-        "type": "page",
-        "link": "https://pamplona.tomalaplaza.net/tus-fotos/",
-        "title": {
-            "rendered": "Tus fotos"
-        },
-        "content": {
-            "rendered": "<p>Existe un <a href=\"http://www.flickr.com/groups/15mpamplona\">grupo de Flickr</a> en el que cualquiera puede incluir sus fotos.</p>\n<ul>\n<li>&#8211; \u00bfTienes ya cuenta Flickr? Agr\u00e9galas al siguiente grupo: <a href=\"http://www.flickr.com/groups/15mpamplona\">http://www.flickr.com/groups/15mpamplona</a></li>\n<li>&#8211; \u00bfNo tienes cuenta y no deseas hacerte (requiere un email de Yahoo)? M\u00e1ndanos tus fotos a <a href=\"mailto:fotos.15mpamplona@yahoo.com\">fotos.15mpamplona@yahoo.com</a><br />\ny las subiremos nosotros y agregaremos al grupo por ti (ind\u00edcanos tu nombre si deseas que lo publiquemos).</li>\n</ul>\n<p><!--FOTOS:--></p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Existe un grupo de Flickr en el que cualquiera puede incluir sus fotos. &#8211; \u00bfTienes ya cuenta Flickr? Agr\u00e9galas al siguiente grupo: http://www.flickr.com/groups/15mpamplona &#8211; \u00bfNo tienes cuenta y no deseas hacerte (requiere un email de Yahoo)? M\u00e1ndanos tus fotos a fotos.15mpamplona@yahoo.com y las subiremos nosotros y agregaremos al grupo por ti (ind\u00edcanos tu nombre si [&hellip;]</p>\n",
-            "protected": false
-        },
-        "author": 26,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/40"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=40"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 6,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/40/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 50,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/40/revisions/50"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=40"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 38,
-        "date": "2011-05-21T19:24:17",
-        "date_gmt": "2011-05-21T19:24:17",
-        "guid": {
-            "rendered": "http://pamplona.tomalaplaza.net/?p=38"
-        },
-        "modified": "2011-05-23T11:39:50",
-        "modified_gmt": "2011-05-23T11:39:50",
-        "slug": "orden-del-dia-acampada-permanente-irunea",
-        "status": "publish",
-        "type": "post",
-        "link": "https://pamplona.tomalaplaza.net/2011/05/21/orden-del-dia-acampada-permanente-irunea/",
-        "title": {
-            "rendered": "Horario general Acampada Permanente Iru\u00f1ea"
-        },
-        "content": {
-            "rendered": "<p>Con car\u00e1cter general mientras dure nuestra estancia en la Plaza del Castillo, nuestra particular Plaza Tahrir, este ser\u00e1 el horario habitual, v\u00e1lido hasta el viernes:</p>\n<p>&#8211; 12h Reuni\u00f3n matinal de la acampada: temas urgentes, gestiones<br />\n&#8211; 14:30h Comida popular autogestionada. Es aconsejable traerse algo para aportar.<br />\n&#8211; 17h Reuni\u00f3n de Coordinaci\u00f3n de Comisiones y de las Comisiones<br />\n&#8211; 20h Asamblea general y grupos de debate</p>\n<p>An\u00edmense a participar, sumarse a las comisiones, aportar a los debates, etc. Agradecemos a toda la pe\u00f1a que nos est\u00e1 prestando los m\u00e1s diversos artilugios &#8211;desde material de cocina a equipos de sonido- de manera solidaria. Tambi\u00e9n a los que han aportado pasta, nos est\u00e1n dejando hacer fotocopias, usar la electricidad. Gracias a ellos esto est\u00e1 m\u00e1s vivo que nunca.</p>\n<p>Si hay cambios, este blog y el punto de informaci\u00f3n de la Plaza del Castillo, junto con el twitter @15MPamplona y la p\u00e1gina de facebook que se crear\u00e1 dentro de poco, son los lugares donde vamos a ir publicando la informaci\u00f3n &#8220;oficial&#8221;.</p>\n<p>Mila esker! Seguimos resistiendo en la plaza. No nos vamos!</p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Con car\u00e1cter general mientras dure nuestra estancia en la Plaza del Castillo, nuestra particular Plaza Tahrir, este ser\u00e1 el horario habitual, v\u00e1lido hasta el viernes: &#8211; 12h Reuni\u00f3n matinal de la acampada: temas urgentes, gestiones &#8211; 14:30h Comida popular autogestionada. Es aconsejable traerse algo para aportar. &#8211; 17h Reuni\u00f3n de Coordinaci\u00f3n de Comisiones y de [&hellip;]</p>\n",
-            "protected": false
-        },
-        "author": 26,
-        "featured_media": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "sticky": false,
-        "template": "",
-        "format": "standard",
-        "meta": [],
-        "categories": [
-            1
-        ],
-        "tags": [],
-        "jetpack_featured_media_url": "",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/38"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/post"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=38"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 3,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/38/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 51,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/38/revisions/51"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=38"
-                }
-            ],
-            "wp:term": [
-                {
-                    "taxonomy": "category",
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/categories?post=38"
-                },
-                {
-                    "taxonomy": "post_tag",
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/tags?post=38"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 36,
-        "date": "2011-05-21T14:24:40",
-        "date_gmt": "2011-05-21T14:24:40",
-        "guid": {
-            "rendered": "http://pamplona.tomalaplaza.net/?p=36"
-        },
-        "modified": "2011-05-26T15:20:35",
-        "modified_gmt": "2011-05-26T15:20:35",
-        "slug": "manifiesto-y-materiales",
-        "status": "publish",
-        "type": "post",
-        "link": "https://pamplona.tomalaplaza.net/2011/05/21/manifiesto-y-materiales/",
-        "title": {
-            "rendered": "Manifiesto"
-        },
-        "content": {
-            "rendered": "",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "",
-            "protected": false
-        },
-        "author": 26,
-        "featured_media": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "sticky": false,
-        "template": "",
-        "format": "standard",
-        "meta": [],
-        "categories": [
-            4
-        ],
-        "tags": [],
-        "jetpack_featured_media_url": "",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/36"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/post"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=36"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 2,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/36/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 130,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/36/revisions/130"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=36"
-                }
-            ],
-            "wp:term": [
-                {
-                    "taxonomy": "category",
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/categories?post=36"
-                },
-                {
-                    "taxonomy": "post_tag",
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/tags?post=36"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 33,
-        "date": "2011-05-21T14:19:42",
-        "date_gmt": "2011-05-21T14:19:42",
-        "guid": {
-            "rendered": "http://pamplona.tomalaplaza.net/files/2011/05/20110518_manifiesto_dry.pdf"
-        },
-        "modified": "2011-05-21T14:19:42",
-        "modified_gmt": "2011-05-21T14:19:42",
-        "slug": "20110518_manifiesto_dry",
-        "status": "inherit",
-        "type": "attachment",
-        "link": "https://pamplona.tomalaplaza.net/manifiesto-materiales/20110518_manifiesto_dry/",
-        "title": {
-            "rendered": "Manifiesto Democracia Real Ya (PDF)"
-        },
-        "author": 26,
-        "comment_status": "closed",
-        "ping_status": "open",
-        "template": "",
-        "meta": [],
-        "description": {
-            "rendered": "<p class=\"attachment\"><a href='https://pamplona.tomalaplaza.net/files/2011/05/20110518_manifiesto_dry.pdf'>Manifiesto Democracia Real Ya (PDF)</a></p>\n"
-        },
-        "caption": {
-            "rendered": "<p>Manifiesto Democracia Real Ya (PDF)</p>\n"
-        },
-        "alt_text": "",
-        "media_type": "file",
-        "mime_type": "application/pdf",
-        "media_details": {},
-        "post": 2,
-        "source_url": "https://pamplona.tomalaplaza.net/files/2011/05/20110518_manifiesto_dry.pdf",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media/33"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/attachment"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=33"
-                }
-            ]
-        }
-    },
-    {
-        "id": 25,
-        "date": "2011-05-21T12:52:33",
-        "date_gmt": "2011-05-21T12:52:33",
-        "guid": {
-            "rendered": "http://pamplona.tomalaplaza.net/?p=25"
-        },
-        "modified": "2011-05-21T12:54:42",
-        "modified_gmt": "2011-05-21T12:54:42",
-        "slug": "gaztelu-enparantzatik-zuzenean-directo-desde-la-plaza-del-castillo",
-        "status": "publish",
-        "type": "post",
-        "link": "https://pamplona.tomalaplaza.net/2011/05/21/gaztelu-enparantzatik-zuzenean-directo-desde-la-plaza-del-castillo/",
-        "title": {
-            "rendered": "Gaztelu enparantzatik zuzenean / Directo desde la plaza del castillo"
-        },
-        "content": {
-            "rendered": "<p><a title=\"webcam\" href=\"http://webcam-pamplona.sanfermintv.com/\">Webcam</a> en directo (va lenta) de la Plaza del Castillo.</p>\n<p><a title=\"Zuzenean\" href=\"http://webcam-pamplona.sanfermintv.com/\">Zuzenean</a> Gaztelu enparantzatik:</p>\n<p>@comunicacion, pod\u00e9is publicar si hay algo para hoy?</p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Webcam en directo (va lenta) de la Plaza del Castillo. Zuzenean Gaztelu enparantzatik: @comunicacion, pod\u00e9is publicar si hay algo para hoy?</p>\n",
-            "protected": false
-        },
-        "author": 26,
-        "featured_media": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "sticky": false,
-        "template": "",
-        "format": "standard",
-        "meta": [],
-        "categories": [
-            1
-        ],
-        "tags": [],
-        "jetpack_featured_media_url": "",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/25"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/post"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=25"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 3,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/25/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 27,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/25/revisions/27"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=25"
-                }
-            ],
-            "wp:term": [
-                {
-                    "taxonomy": "category",
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/categories?post=25"
-                },
-                {
-                    "taxonomy": "post_tag",
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/tags?post=25"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 18,
-        "date": "2011-05-20T12:37:01",
-        "date_gmt": "2011-05-20T12:37:01",
-        "guid": {
-            "rendered": "http://pamplona.tomalaplaza.net/?p=18"
-        },
-        "modified": "2011-05-21T12:56:05",
-        "modified_gmt": "2011-05-21T12:56:05",
-        "slug": "orden-del-dia",
-        "status": "publish",
-        "type": "post",
-        "link": "https://pamplona.tomalaplaza.net/2011/05/20/orden-del-dia/",
-        "title": {
-            "rendered": "Orden del d\u00eda viernes 20 de mayo"
-        },
-        "content": {
-            "rendered": "<p>Con el objetivo de seguir alimentando el movimiento conseguido en Pamplona para luchar por una democracia m\u00e1s justa y participativa, estamos desarrollando un programa de actividades para el d\u00eda de hoy:</p>\n<ul>\n<li> &#8211; De 14.30 a 16.00h se celebrar\u00e1 una comida popular en la Plaza del Ayuntamiento con la gente que quiera venir. Se ruega que los asistentes traigan algo de comer al menos para ellos, pues la organizaci\u00f3n no puede prever la asistencia y proveer alimentos para todos.</li>\n<li> &#8211; A las 17.00 se celebrar\u00e1n reuniones de los diferentes grupos de trabajo establecidos ayer durante la asamblea general, a los cuales podr\u00e1 sumarse todo aquel que quiera aportar algo.</li>\n<li>&#8211; A las 19.00 trasladaremos el campamento base a la Plaza del Castillo, donde se celebrar\u00e1 la concentraci\u00f3n principal del d\u00eda.</li>\n<li>&#8211; A las 20.00 comenzar\u00e1 la asamblea general en torno al kiosco de la Plaza del Castillo, a la cual se espera una asistencia masiva.</li>\n</ul>\n<p>Ven, <strong>\u00fanete</strong>, hazte o\u00edr. <strong>Por los que no tienen voz.</strong></p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Con el objetivo de seguir alimentando el movimiento conseguido en Pamplona para luchar por una democracia m\u00e1s justa y participativa, estamos desarrollando un programa de actividades para el d\u00eda de hoy: &#8211; De 14.30 a 16.00h se celebrar\u00e1 una comida popular en la Plaza del Ayuntamiento con la gente que quiera venir. Se ruega que [&hellip;]</p>\n",
-            "protected": false
-        },
-        "author": 26,
-        "featured_media": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "sticky": false,
-        "template": "",
-        "format": "standard",
-        "meta": [],
-        "categories": [
-            1
-        ],
-        "tags": [],
-        "jetpack_featured_media_url": "",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/18"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/post"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=18"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 6,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/18/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 22,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/18/revisions/22"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=18"
-                }
-            ],
-            "wp:term": [
-                {
-                    "taxonomy": "category",
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/categories?post=18"
-                },
-                {
-                    "taxonomy": "post_tag",
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/tags?post=18"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 5,
-        "date": "2011-05-20T04:20:15",
-        "date_gmt": "2011-05-20T04:20:15",
-        "guid": {
-            "rendered": "http://pamplona.tomalaplaza.net/?p=5"
-        },
-        "modified": "2011-05-21T00:19:25",
-        "modified_gmt": "2011-05-21T00:19:25",
-        "slug": "programacion-viernes-20-mayo",
-        "status": "publish",
-        "type": "post",
-        "link": "https://pamplona.tomalaplaza.net/2011/05/20/programacion-viernes-20-mayo/",
-        "title": {
-            "rendered": "Programaci\u00f3n viernes 20 Mayo"
-        },
-        "content": {
-            "rendered": "<p><strong>En Plaza Ayuntamiento:</strong></p>\n<p>8:00-9:30 Desayuno</p>\n<p>12:00\u00a0 Asamblea Comisi\u00f3n Comunicaci\u00f3n</p>\n<p>14:00:16:00 Comida autogestionada (cada un@ trae lo suyo)</p>\n<p>17:00 Asamblea Comisiones</p>\n<p>19:00 Traslado a Plaza del Castillo</p>\n<p><strong>En Plaza del Castillo:</strong></p>\n<p>20:00 Asamblea general</p>\n<p>&nbsp;</p>\n<p><strong>\u00a1AHORA NOS TOCA A LOS NADIE!</strong></p>\n<p><strong><br />\n</strong></p>\n<p>nota0: estamos en proceso de organizaci\u00f3n continua :), este programa variar\u00e1 durante el d\u00eda.</p>\n<p>nota1: si quieres participar en alg\u00fan grupo de trabajo, p\u00e1sate por el punto de informaci\u00f3n.</p>\n<p>nota2: se ruega a l@s vecin@s de Plaza Ayuntamiento y Plaza del Castillo que abran sus wifis.</p>\n<p>nota3: euskerara itzultzeko/idazteko jendea behar da.</p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>En Plaza Ayuntamiento: 8:00-9:30 Desayuno 12:00\u00a0 Asamblea Comisi\u00f3n Comunicaci\u00f3n 14:00:16:00 Comida autogestionada (cada un@ trae lo suyo) 17:00 Asamblea Comisiones 19:00 Traslado a Plaza del Castillo En Plaza del Castillo: 20:00 Asamblea general &nbsp; \u00a1AHORA NOS TOCA A LOS NADIE! nota0: estamos en proceso de organizaci\u00f3n continua :), este programa variar\u00e1 durante el d\u00eda. nota1: [&hellip;]</p>\n",
-            "protected": false
-        },
-        "author": 26,
-        "featured_media": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "sticky": false,
-        "template": "",
-        "format": "standard",
-        "meta": [],
-        "categories": [
-            4,
-            1
-        ],
-        "tags": [
-            3,
-            6
-        ],
-        "jetpack_featured_media_url": "",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/5"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/post"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=5"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 10,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/5/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 7,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/5/revisions/7"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=5"
-                }
-            ],
-            "wp:term": [
-                {
-                    "taxonomy": "category",
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/categories?post=5"
-                },
-                {
-                    "taxonomy": "post_tag",
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/tags?post=5"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 2,
-        "date": "2011-05-19T17:06:26",
-        "date_gmt": "2011-05-19T17:06:26",
-        "guid": {
-            "rendered": "http://pamplona.tomalaplaza.net/?page_id=2"
-        },
-        "modified": "2011-05-26T04:59:04",
-        "modified_gmt": "2011-05-26T04:59:04",
-        "slug": "manifiesto-materiales",
-        "status": "publish",
-        "type": "page",
-        "link": "https://pamplona.tomalaplaza.net/manifiesto-materiales/",
-        "title": {
-            "rendered": "Manifiesto"
-        },
-        "content": {
-            "rendered": "<p><strong>MANIFIESTO Democracia Real Ya:</strong></p>\n<ul>\n<li><a href='http://pamplona.tomalaplaza.net/files/2011/05/20110518_manifiesto_dry.pdf'>Manifiesto Democracia Real Ya (PDF para descargar)</a></li>\n</ul>\n<p><strong>Aqu\u00ed pod\u00e9is encontrar una serie de recursos gr\u00e1ficos que llevar a las Acampadas.</strong></p>\n<p>Si dice que el archivo est\u00e1 temporalmente no disponible es que hay m\u00e1s gente baj\u00e1ndolo, probad\u00a0m\u00e1s tarde. Si os da muchos problemas, necesit\u00e1is otro formato, v\u00e9is un fallo, avisadme.Perdonad por repetir esto en un documento pero me parec\u00eda mejor mantenerlo as\u00ed y que nadie se pierda luego preguntando por los links.</p>\n<p><strong>Enlaces al cartel NOS VAN A O\u00cdR:</strong></p>\n<ul>\n<li><a href=\"http://www.megaupload.com/?d=WML6YWQ7\">Poster tama\u00f1o A4 COLOR formato JPG</a></li>\n<li><a href=\"https://www.yousendit.com/dl?phi_action=app%2ForchestrateDownload&amp;rurl=https%253A%252F%252Fwww.yousendit.com%252Ftransfer.php%253Faction%253Dbatch_download%2526batch_id%253DdkJweVducVg1UjQwTVE9PQ\">Poster tama\u00f1o A4 COLOR &#8211; JPG (2\u00ba enlace, si falla el anterior)</a></li>\n<li><a href=\"http://www.megaupload.com/?d=IO5GGJOF\">Poster tama\u00f1o A3 COLOR formato JPG</a></li>\n<li><a href=\"http://www.megaupload.com/?d=WHWQV95X\">2 Cuartillas BLANCO Y NEGRO en A4 formato JPG (para cortar)</a></li>\n<li><a href=\"http://www.megaupload.com/?d=WML6YWQ7\">Poster tama\u00f1o A4 BLANCO Y NEGRO formato JPG</a></li>\n</ul>\n<p><strong>Link cartel NOS VAN A OIR <em>en euskera</em>:</strong></p>\n<ul>\n<li><a href=\"http://www.megaupload.com/?d=QOJAZ94X\">Poster tama\u00f1o A3 COLOR formato JPG</a></li>\n<li><a href=\"http://www.megaupload.com/?d=S12Q8VG1\">Poster tama\u00f1o A4 COLOR formato JPG</a></li>\n<li><a href=\"http://www.megaupload.com/?d=ZCXI762P\">Poster tama\u00f1o A4 BLANCO Y NEGRO formato JPG</a></li>\n<li><a href=\"http://www.megaupload.com/?d=KHXIAHGW\">2 Cuartillas BLANCO Y NEGRO en A4 formato JPG (para cortar)</a></li>\n</ul>\n<p><strong>Flyers y cuartillas con el manifiesto:</strong></p>\n<p>Flyers: 4 por cada A4 con su manifiesto (doble cara). Hay 2 documentos,\u00a0front (cara poster) y back (cara manifiesto). Podeis imprimirlos por una cara\u00a0bajandoos s\u00f3lo la cara p\u00f3ster o por las dos bajandoos los dos archivos.</p>\n<ul>\n<li><a href=\"http://www.megaupload.com/?d=UGO2L27E\">4 Flyers Color A4 (cara poster)</a></li>\n<li><a href=\"http://www.megaupload.com/?d=DTATA6IZ\">4 Flyers color A4 (cara manifiesto)</a></li>\n<li><a href=\"http://www.megaupload.com/?d=XFMPHGTT\">4 Flyers blanco y negro A4 (cara poster)</a></li>\n<li><a href=\"http://www.megaupload.com/?d=T090RKI3\">4 Flyers blanco y negro A4 (cara manifiesto)</a></li>\n<li><a href=\"http://www.megaupload.com/?d=HZFA98ZW\">2 Cuartillas con manifiesto color A4</a></li>\n<li><a href=\"http://www.megaupload.com/?d=MWRQI2S9\">2 Cuartillas con manifiesto blanco y negro A4</a></li>\n</ul>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>MANIFIESTO Democracia Real Ya: Manifiesto Democracia Real Ya (PDF para descargar) Aqu\u00ed pod\u00e9is encontrar una serie de recursos gr\u00e1ficos que llevar a las Acampadas. Si dice que el archivo est\u00e1 temporalmente no disponible es que hay m\u00e1s gente baj\u00e1ndolo, probad\u00a0m\u00e1s tarde. Si os da muchos problemas, necesit\u00e1is otro formato, v\u00e9is un fallo, avisadme.Perdonad por repetir [&hellip;]</p>\n",
-            "protected": false
-        },
-        "author": 26,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/2"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=2"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 6,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/2/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 110,
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/2/revisions/110"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=2"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
+    "image_meta": {
+      "aperture": "7.9",
+      "credit": "",
+      "camera": "E2000",
+      "caption": "",
+      "created_timestamp": "1092598453",
+      "copyright": "",
+      "focal_length": "5.8",
+      "iso": "50",
+      "shutter_speed": "0.008042328042328",
+      "title": ""
     }
-]
+  },
+  "post": null,
+  "source_url": "https://pamplona.tomalaplaza.net/files/2011/05/eskerrik_asko.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media/136"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=136"
+      }
+    ]
+  }
+},{
+  "id": 120,
+  "date": "2011-05-26T06:11:54",
+  "date_gmt": "2011-05-26T06:11:54",
+  "guid": {
+    "rendered": "http://pamplona.tomalaplaza.net/files/2011/05/semana0.pdf"
+  },
+  "modified": "2011-05-26T06:11:54",
+  "modified_gmt": "2011-05-26T06:11:54",
+  "slug": "semana0",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://pamplona.tomalaplaza.net/prog-semanal/semana0/",
+  "title": {
+    "rendered": "semana0_v0"
+  },
+  "author": 26,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://pamplona.tomalaplaza.net/files/2011/05/semana0.pdf'>semana0_v0</a></p>\n"
+  },
+  "caption": {
+    "rendered": "<p>programaci\u00f3n_2605_0106_v0</p>\n"
+  },
+  "alt_text": "",
+  "media_type": "file",
+  "mime_type": "application/pdf",
+  "media_details": {},
+  "post": 119,
+  "source_url": "https://pamplona.tomalaplaza.net/files/2011/05/semana0.pdf",
+  "_links": {
+    "self": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media/120"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=120"
+      }
+    ]
+  }
+},{
+  "id": 119,
+  "date": "2011-05-26T06:14:10",
+  "date_gmt": "2011-05-26T06:14:10",
+  "guid": {
+    "rendered": "http://pamplona.tomalaplaza.net/?page_id=119"
+  },
+  "modified": "2011-05-26T07:19:18",
+  "modified_gmt": "2011-05-26T07:19:18",
+  "slug": "prog-semanal",
+  "status": "publish",
+  "type": "page",
+  "link": "https://pamplona.tomalaplaza.net/prog-semanal/",
+  "title": {
+    "rendered": "Prog. Semanal"
+  },
+  "content": {
+    "rendered": "<p>Semana 0. De jueves 26 de mayo a mi\u00e9rcoles 1 de junio:<br />\n<a href=\"https://spreadsheets.google.com/spreadsheet/ccc?key=0Atg7IdTjiD2idHJsZjd6azlKY1B1RHl3amJ5WUNqYmc&amp;hl=es\">Programaci\u00f3n actualizada</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Semana 0. De jueves 26 de mayo a mi\u00e9rcoles 1 de junio: Programaci\u00f3n actualizada</p>\n",
+    "protected": false
+  },
+  "author": 26,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/119"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=119"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/119/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 122,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/119/revisions/122"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=119"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+},{
+  "id": 102,
+  "date": "2011-05-26T04:52:20",
+  "date_gmt": "2011-05-26T04:52:20",
+  "guid": {
+    "rendered": "http://pamplona.tomalaplaza.net/?page_id=102"
+  },
+  "modified": "2011-05-26T04:52:44",
+  "modified_gmt": "2011-05-26T04:52:44",
+  "slug": "exvideos",
+  "status": "publish",
+  "type": "page",
+  "link": "https://pamplona.tomalaplaza.net/exvideos/",
+  "title": {
+    "rendered": "exvideos"
+  },
+  "content": {
+    "rendered": "<p><a href=\"http://www.youtube.com/watch?v=jLcTxHMpQPY\">Intereconom\u00eda &#8211; el gato al agua</a></p>\n<p><a href=\"http://www.youtube.com/watch?v=jD-30f_soP0&amp;feature=player_embedded\">As\u00ed son los acampados del 15M (Intermojonnnom\u00eda)</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Intereconom\u00eda &#8211; el gato al agua As\u00ed son los acampados del 15M (Intermojonnnom\u00eda)</p>\n",
+    "protected": false
+  },
+  "author": 26,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/102"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=102"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/102/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 104,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/102/revisions/104"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=102"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+},{
+  "id": 100,
+  "date": "2011-05-26T04:51:43",
+  "date_gmt": "2011-05-26T04:51:43",
+  "guid": {
+    "rendered": "http://pamplona.tomalaplaza.net/?page_id=100"
+  },
+  "modified": "2011-05-26T04:51:43",
+  "modified_gmt": "2011-05-26T04:51:43",
+  "slug": "videos",
+  "status": "publish",
+  "type": "page",
+  "link": "https://pamplona.tomalaplaza.net/videos/",
+  "title": {
+    "rendered": "videos"
+  },
+  "content": {
+    "rendered": "",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "",
+    "protected": false
+  },
+  "author": 26,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/100"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=100"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/100/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 101,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/100/revisions/101"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=100"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+},{
+  "id": 96,
+  "date": "2011-05-26T04:50:34",
+  "date_gmt": "2011-05-26T04:50:34",
+  "guid": {
+    "rendered": "http://pamplona.tomalaplaza.net/?p=96"
+  },
+  "modified": "2011-05-27T15:41:46",
+  "modified_gmt": "2011-05-27T15:41:46",
+  "slug": "exvideos-2",
+  "status": "publish",
+  "type": "post",
+  "link": "https://pamplona.tomalaplaza.net/2011/05/26/exvideos-2/",
+  "title": {
+    "rendered": "aupa"
+  },
+  "content": {
+    "rendered": "<p>estatuko errepresio herramintak 2011-ko maiatzak 27-ko 18.00h-tan desagertzen ez badira, argazkiak argitaratzen hasiko gara.<br />\nSAX!</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>estatuko errepresio herramintak 2011-ko maiatzak 27-ko 18.00h-tan desagertzen ez badira, argazkiak argitaratzen hasiko gara. SAX!</p>\n",
+    "protected": false
+  },
+  "author": 26,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "categories": [
+    1
+  ],
+  "tags": [],
+  "jetpack_featured_media_url": "",
+  "_links": {
+    "self": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/96"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=96"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/96/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 116,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/96/revisions/116"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=96"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/categories?post=96"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/tags?post=96"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+},{
+  "id": 79,
+  "date": "2011-05-24T11:55:01",
+  "date_gmt": "2011-05-24T11:55:01",
+  "guid": {
+    "rendered": "http://pamplona.tomalaplaza.net/?p=79"
+  },
+  "modified": "2011-05-24T11:59:26",
+  "modified_gmt": "2011-05-24T11:59:26",
+  "slug": "asteartea-maiatzak-24-ko-programazioa",
+  "status": "publish",
+  "type": "post",
+  "link": "https://pamplona.tomalaplaza.net/2011/05/24/asteartea-maiatzak-24-ko-programazioa/",
+  "title": {
+    "rendered": "Asteartea maiatzak 24-ko programazioa"
+  },
+  "content": {
+    "rendered": "<p><strong>Gaztelu Enparantzan</strong><br />\n<strong>9:00-10:00</strong> Kanpaldia koordinatzeko asanblada eta eguneko antolakuntza (funtsesko erabakiak ez dira hartzen)<br />\n<strong>14:30-16:30</strong> Bazkari herrikoia autogestionatua<br />\n<strong>17:00-18:30</strong> Lan taldeek egindakoaren asanblada (orokorra)<br />\n<strong>18:30-20:00</strong> Lan talde asanbladak (lan taldekoak bakarrik)<br />\n<strong>20:00</strong> Asanblada orokorra<br />\n<strong>20:00</strong> \u201cLa crisis que viene\u201d liburuaren aurkezpena eta eztabaida<a href=\"http://15mpamplona.org/2011/05/24/presentacion-y-debate-en-torno-al-libro-la-crisis-que-viene/\"> + info</a><br />\n<strong>ITXOITEN ZAITUZTEGU!!!</strong></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Gaztelu Enparantzan 9:00-10:00 Kanpaldia koordinatzeko asanblada eta eguneko antolakuntza (funtsesko erabakiak ez dira hartzen) 14:30-16:30 Bazkari herrikoia autogestionatua 17:00-18:30 Lan taldeek egindakoaren asanblada (orokorra) 18:30-20:00 Lan talde asanbladak (lan taldekoak bakarrik) 20:00 Asanblada orokorra 20:00 \u201cLa crisis que viene\u201d liburuaren aurkezpena eta eztabaida + info ITXOITEN ZAITUZTEGU!!!</p>\n",
+    "protected": false
+  },
+  "author": 26,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "categories": [
+    1
+  ],
+  "tags": [],
+  "jetpack_featured_media_url": "",
+  "_links": {
+    "self": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/79"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=79"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/79/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 82,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/79/revisions/82"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=79"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/categories?post=79"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/tags?post=79"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+},{
+  "id": 77,
+  "date": "2011-05-24T11:52:29",
+  "date_gmt": "2011-05-24T11:52:29",
+  "guid": {
+    "rendered": "http://pamplona.tomalaplaza.net/?p=77"
+  },
+  "modified": "2011-05-24T11:55:42",
+  "modified_gmt": "2011-05-24T11:55:42",
+  "slug": "programacion-martes-24-mayo",
+  "status": "publish",
+  "type": "post",
+  "link": "https://pamplona.tomalaplaza.net/2011/05/24/programacion-martes-24-mayo/",
+  "title": {
+    "rendered": "Programaci\u00f3n Martes 24 mayo"
+  },
+  "content": {
+    "rendered": "<p><strong>En la Plaza del Castillo:</strong><br />\n<strong>9:00-10:00</strong> Asamblea coordinaci\u00f3n acampada y preparaci\u00f3n del dia (sin tomar decisiones transcendentes)<br />\n<strong>14:30-16:30</strong> Comida popular autogestionada<br />\n<strong>17:00-18:30</strong> Asamblea coordinaci\u00f3n grupos de trabajo (general)<br />\n<strong>18:30-20:00</strong> Asamblea grupos de trabajo (solo los del grupo)<br />\n<strong>20:00</strong> Asamblea general<br />\n<strong>20:00</strong> Presentaci\u00f3n y debate en torno al libro \u201cLa crisis que viene\u201d<a href=\"http://15mpamplona.org/2011/05/24/presentacion-y-debate-en-torno-al-libro-la-crisis-que-viene/\"> + info</a><br />\n<strong>OS ESPERAMOS!!!</strong></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>En la Plaza del Castillo: 9:00-10:00 Asamblea coordinaci\u00f3n acampada y preparaci\u00f3n del dia (sin tomar decisiones transcendentes) 14:30-16:30 Comida popular autogestionada 17:00-18:30 Asamblea coordinaci\u00f3n grupos de trabajo (general) 18:30-20:00 Asamblea grupos de trabajo (solo los del grupo) 20:00 Asamblea general 20:00 Presentaci\u00f3n y debate en torno al libro \u201cLa crisis que viene\u201d + info OS [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 26,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "categories": [
+    1
+  ],
+  "tags": [],
+  "jetpack_featured_media_url": "",
+  "_links": {
+    "self": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/77"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=77"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/77/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 81,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/77/revisions/81"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=77"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/categories?post=77"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/tags?post=77"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+},{
+  "id": 67,
+  "date": "2011-05-24T02:16:30",
+  "date_gmt": "2011-05-24T02:16:30",
+  "guid": {
+    "rendered": "http://pamplona.tomalaplaza.net/?p=67"
+  },
+  "modified": "2011-05-26T15:18:15",
+  "modified_gmt": "2011-05-26T15:18:15",
+  "slug": "traslado-a-15mpamplona-org-15miruna-org",
+  "status": "publish",
+  "type": "post",
+  "link": "https://pamplona.tomalaplaza.net/2011/05/24/traslado-a-15mpamplona-org-15miruna-org/",
+  "title": {
+    "rendered": "Programaci\u00f3n 26 de mayo"
+  },
+  "content": {
+    "rendered": "<p>Plaza del Castillo:<br />\nEn Plaza Ayuntamiento:</p>\n<p>8:00-9:30 Desayuno</p>\n<p>12:00  Asamblea Comisi\u00f3n Comunicaci\u00f3n</p>\n<p>14:00:16:00 Comida autogestionada (cada un@ trae lo suyo)</p>\n<p>17:00 Asamblea Comisiones</p>\n<p>19:00 Traslado a Plaza del Castillo</p>\n<p>En Plaza del Castillo:</p>\n<p>20:00 Asamblea general</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Plaza del Castillo: En Plaza Ayuntamiento: 8:00-9:30 Desayuno 12:00 Asamblea Comisi\u00f3n Comunicaci\u00f3n 14:00:16:00 Comida autogestionada (cada un@ trae lo suyo) 17:00 Asamblea Comisiones 19:00 Traslado a Plaza del Castillo En Plaza del Castillo: 20:00 Asamblea general</p>\n",
+    "protected": false
+  },
+  "author": 26,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "categories": [
+    4
+  ],
+  "tags": [],
+  "jetpack_featured_media_url": "",
+  "_links": {
+    "self": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/67"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=67"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 11,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/67/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 128,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/67/revisions/128"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=67"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/categories?post=67"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/tags?post=67"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+},{
+  "id": 58,
+  "date": "2011-05-23T14:23:06",
+  "date_gmt": "2011-05-23T14:23:06",
+  "guid": {
+    "rendered": "http://pamplona.tomalaplaza.net/?p=58"
+  },
+  "modified": "2011-05-23T15:38:04",
+  "modified_gmt": "2011-05-23T15:38:04",
+  "slug": "s-o-s-esperientzia-duen-jendea-behar-dugu",
+  "status": "publish",
+  "type": "post",
+  "link": "https://pamplona.tomalaplaza.net/2011/05/23/s-o-s-esperientzia-duen-jendea-behar-dugu/",
+  "title": {
+    "rendered": "S.O.S. ESPERIENTZIA DUEN JENDEA BEHAR DUGU"
+  },
+  "content": {
+    "rendered": "<p>Esperientzia duen jendea behar dugu, zeinek irakasten diguna irakasle irudi gabe, arazoak konpotzea, inzidentziak, hobekuntzak&#8230;<br />\nHamaika kolektibo daude lurralde honetan tema sozialak oso landuak dituenak&#8230; Eta ez dago bat ere ez :(.<br />\nOso gazte gara, esperientzia gutxidunak eta zuek izandako akatsak egiten ari gara eta ekiditzea erakustea ondo egongo litzateke.<br />\nBestenaz hau ez da aterako, eta handia izan daiteke.<br />\nEskerrik asko</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Esperientzia duen jendea behar dugu, zeinek irakasten diguna irakasle irudi gabe, arazoak konpotzea, inzidentziak, hobekuntzak&#8230; Hamaika kolektibo daude lurralde honetan tema sozialak oso landuak dituenak&#8230; Eta ez dago bat ere ez :(. Oso gazte gara, esperientzia gutxidunak eta zuek izandako akatsak egiten ari gara eta ekiditzea erakustea ondo egongo litzateke. Bestenaz hau ez da aterako, [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 26,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "categories": [
+    1
+  ],
+  "tags": [],
+  "jetpack_featured_media_url": "",
+  "_links": {
+    "self": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/58"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=58"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/58/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 65,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/58/revisions/65"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=58"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/categories?post=58"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/tags?post=58"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+},{
+  "id": 55,
+  "date": "2011-05-23T14:13:35",
+  "date_gmt": "2011-05-23T14:13:35",
+  "guid": {
+    "rendered": "http://pamplona.tomalaplaza.net/?p=55"
+  },
+  "modified": "2011-05-23T15:35:10",
+  "modified_gmt": "2011-05-23T15:35:10",
+  "slug": "s-o-s-necesitamos-gente-con-experiencia",
+  "status": "publish",
+  "type": "post",
+  "link": "https://pamplona.tomalaplaza.net/2011/05/23/s-o-s-necesitamos-gente-con-experiencia/",
+  "title": {
+    "rendered": "S.O.S NECESITAMOS GENTE CON EXPERIENCIA"
+  },
+  "content": {
+    "rendered": "<p>Se necesita gente con experiencia para que nos ense\u00f1en, sin parecer maestros a organizarnos, a resolver problemas, incidencias, mejoras &#8230;<br />\nHay un mont\u00f3n de colectivos que han trabajado diferentes temas sociales. Y no hay ninguno.<br />\nSomos muy j\u00f3venes, poco experimentadas y estamos haciendo errores que vosotras ya hab\u00e9is tenido y nos pod\u00e9is ense\u00f1ar a evitarlo.<br />\nSi no, esto no va a salir, y puede ser algo grande.<br />\nGracias.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Se necesita gente con experiencia para que nos ense\u00f1en, sin parecer maestros a organizarnos, a resolver problemas, incidencias, mejoras &#8230; Hay un mont\u00f3n de colectivos que han trabajado diferentes temas sociales. Y no hay ninguno. Somos muy j\u00f3venes, poco experimentadas y estamos haciendo errores que vosotras ya hab\u00e9is tenido y nos pod\u00e9is ense\u00f1ar a evitarlo. [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 26,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "categories": [
+    1
+  ],
+  "tags": [],
+  "jetpack_featured_media_url": "",
+  "_links": {
+    "self": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/55"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=55"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/55/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 64,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/55/revisions/64"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=55"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/categories?post=55"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/tags?post=55"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+},{
+  "id": 53,
+  "date": "2011-05-23T11:54:17",
+  "date_gmt": "2011-05-23T11:54:17",
+  "guid": {
+    "rendered": "http://pamplona.tomalaplaza.net/?p=53"
+  },
+  "modified": "2011-05-23T11:54:17",
+  "modified_gmt": "2011-05-23T11:54:17",
+  "slug": "como-estan-las-cosas-hasta-ahora-lunes",
+  "status": "publish",
+  "type": "post",
+  "link": "https://pamplona.tomalaplaza.net/2011/05/23/como-estan-las-cosas-hasta-ahora-lunes/",
+  "title": {
+    "rendered": "C\u00f3mo est\u00e1n las cosas hasta ahora (lunes)"
+  },
+  "content": {
+    "rendered": "<p>Desde la Acampada, os informamos de un par de cosillas:</p>\n<p>&#8211; A partir de hoy, vamos a intentar &#8220;legalizar&#8221; nuestra estancia en la Plaza. Dado el car\u00e1cter pac\u00edfico de la acampada y la acogida por parte de la ciudadan\u00eda, la concesi\u00f3n o no de permisos depende entonces de decisiones pol\u00edticas por parte de los gobiernos estatal, foral y local.</p>\n<p>&#8211; Se est\u00e1n usando tiendas de campa\u00f1a para facilitar el descanso de las acampadas. Necesitamos algunas tiendas pero, sobre todo, gente que quiera dormir. Van a establecerse turnos de acampada, de manera que ninguno tengamos que dormir toda la semana all\u00ed &#8211;aunque quien quiera, es m\u00e1s que bienvenida \ud83d\ude09 &#8211; y que en ning\u00fan momento se quede con poca gente.</p>\n<p>&#8211; Ya han comenzado a funcionar los grupos de trabajo. Ayer se reunieron en torno a 6 temas: 1) educaci\u00f3n, 2) empleo (desempleo, reparto del trabajo, etc.), 3) clase pol\u00edtica y sistema electoral, 4) vivienda, 5) Econom\u00eda, sistema bancario, finaciarizaci\u00f3n&#8230;, 6) Ecolog\u00eda.<br />\nLos Grupos de Trabajo son abiertos. Existen actas a disposici\u00f3n de todas, de manera que, si ayer no pudiste sumarte a uno de ellos, p\u00e1sate por el punto de informaci\u00f3n y solicita que la Comisi\u00f3n de Documentaci\u00f3n te env\u00ede el acta de ayer, de manera que puedas seguir el debate de hoy sin que se repitan temas.</p>\n<p>No obstante, se pueden proponer grupos de trabajo nuevos en la Asamblea general.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Desde la Acampada, os informamos de un par de cosillas: &#8211; A partir de hoy, vamos a intentar &#8220;legalizar&#8221; nuestra estancia en la Plaza. Dado el car\u00e1cter pac\u00edfico de la acampada y la acogida por parte de la ciudadan\u00eda, la concesi\u00f3n o no de permisos depende entonces de decisiones pol\u00edticas por parte de los gobiernos [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 26,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "categories": [
+    1
+  ],
+  "tags": [],
+  "jetpack_featured_media_url": "",
+  "_links": {
+    "self": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/53"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=53"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/53/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 54,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/53/revisions/54"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=53"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/categories?post=53"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/tags?post=53"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+},{
+  "id": 40,
+  "date": "2011-05-21T19:46:20",
+  "date_gmt": "2011-05-21T19:46:20",
+  "guid": {
+    "rendered": "http://pamplona.tomalaplaza.net/?page_id=40"
+  },
+  "modified": "2011-05-22T00:37:51",
+  "modified_gmt": "2011-05-22T00:37:51",
+  "slug": "tus-fotos",
+  "status": "publish",
+  "type": "page",
+  "link": "https://pamplona.tomalaplaza.net/tus-fotos/",
+  "title": {
+    "rendered": "Tus fotos"
+  },
+  "content": {
+    "rendered": "<p>Existe un <a href=\"http://www.flickr.com/groups/15mpamplona\">grupo de Flickr</a> en el que cualquiera puede incluir sus fotos.</p>\n<ul>\n<li>&#8211; \u00bfTienes ya cuenta Flickr? Agr\u00e9galas al siguiente grupo: <a href=\"http://www.flickr.com/groups/15mpamplona\">http://www.flickr.com/groups/15mpamplona</a></li>\n<li>&#8211; \u00bfNo tienes cuenta y no deseas hacerte (requiere un email de Yahoo)? M\u00e1ndanos tus fotos a <a href=\"mailto:fotos.15mpamplona@yahoo.com\">fotos.15mpamplona@yahoo.com</a><br />\ny las subiremos nosotros y agregaremos al grupo por ti (ind\u00edcanos tu nombre si deseas que lo publiquemos).</li>\n</ul>\n<p><!--FOTOS:--></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Existe un grupo de Flickr en el que cualquiera puede incluir sus fotos. &#8211; \u00bfTienes ya cuenta Flickr? Agr\u00e9galas al siguiente grupo: http://www.flickr.com/groups/15mpamplona &#8211; \u00bfNo tienes cuenta y no deseas hacerte (requiere un email de Yahoo)? M\u00e1ndanos tus fotos a fotos.15mpamplona@yahoo.com y las subiremos nosotros y agregaremos al grupo por ti (ind\u00edcanos tu nombre si [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 26,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/40"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=40"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/40/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 50,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/40/revisions/50"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=40"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+},{
+  "id": 38,
+  "date": "2011-05-21T19:24:17",
+  "date_gmt": "2011-05-21T19:24:17",
+  "guid": {
+    "rendered": "http://pamplona.tomalaplaza.net/?p=38"
+  },
+  "modified": "2011-05-23T11:39:50",
+  "modified_gmt": "2011-05-23T11:39:50",
+  "slug": "orden-del-dia-acampada-permanente-irunea",
+  "status": "publish",
+  "type": "post",
+  "link": "https://pamplona.tomalaplaza.net/2011/05/21/orden-del-dia-acampada-permanente-irunea/",
+  "title": {
+    "rendered": "Horario general Acampada Permanente Iru\u00f1ea"
+  },
+  "content": {
+    "rendered": "<p>Con car\u00e1cter general mientras dure nuestra estancia en la Plaza del Castillo, nuestra particular Plaza Tahrir, este ser\u00e1 el horario habitual, v\u00e1lido hasta el viernes:</p>\n<p>&#8211; 12h Reuni\u00f3n matinal de la acampada: temas urgentes, gestiones<br />\n&#8211; 14:30h Comida popular autogestionada. Es aconsejable traerse algo para aportar.<br />\n&#8211; 17h Reuni\u00f3n de Coordinaci\u00f3n de Comisiones y de las Comisiones<br />\n&#8211; 20h Asamblea general y grupos de debate</p>\n<p>An\u00edmense a participar, sumarse a las comisiones, aportar a los debates, etc. Agradecemos a toda la pe\u00f1a que nos est\u00e1 prestando los m\u00e1s diversos artilugios &#8211;desde material de cocina a equipos de sonido- de manera solidaria. Tambi\u00e9n a los que han aportado pasta, nos est\u00e1n dejando hacer fotocopias, usar la electricidad. Gracias a ellos esto est\u00e1 m\u00e1s vivo que nunca.</p>\n<p>Si hay cambios, este blog y el punto de informaci\u00f3n de la Plaza del Castillo, junto con el twitter @15MPamplona y la p\u00e1gina de facebook que se crear\u00e1 dentro de poco, son los lugares donde vamos a ir publicando la informaci\u00f3n &#8220;oficial&#8221;.</p>\n<p>Mila esker! Seguimos resistiendo en la plaza. No nos vamos!</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Con car\u00e1cter general mientras dure nuestra estancia en la Plaza del Castillo, nuestra particular Plaza Tahrir, este ser\u00e1 el horario habitual, v\u00e1lido hasta el viernes: &#8211; 12h Reuni\u00f3n matinal de la acampada: temas urgentes, gestiones &#8211; 14:30h Comida popular autogestionada. Es aconsejable traerse algo para aportar. &#8211; 17h Reuni\u00f3n de Coordinaci\u00f3n de Comisiones y de [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 26,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "categories": [
+    1
+  ],
+  "tags": [],
+  "jetpack_featured_media_url": "",
+  "_links": {
+    "self": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/38"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=38"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/38/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 51,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/38/revisions/51"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=38"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/categories?post=38"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/tags?post=38"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+},{
+  "id": 36,
+  "date": "2011-05-21T14:24:40",
+  "date_gmt": "2011-05-21T14:24:40",
+  "guid": {
+    "rendered": "http://pamplona.tomalaplaza.net/?p=36"
+  },
+  "modified": "2011-05-26T15:20:35",
+  "modified_gmt": "2011-05-26T15:20:35",
+  "slug": "manifiesto-y-materiales",
+  "status": "publish",
+  "type": "post",
+  "link": "https://pamplona.tomalaplaza.net/2011/05/21/manifiesto-y-materiales/",
+  "title": {
+    "rendered": "Manifiesto"
+  },
+  "content": {
+    "rendered": "",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "",
+    "protected": false
+  },
+  "author": 26,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "categories": [
+    4
+  ],
+  "tags": [],
+  "jetpack_featured_media_url": "",
+  "_links": {
+    "self": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/36"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=36"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/36/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 130,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/36/revisions/130"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=36"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/categories?post=36"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/tags?post=36"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+},{
+  "id": 33,
+  "date": "2011-05-21T14:19:42",
+  "date_gmt": "2011-05-21T14:19:42",
+  "guid": {
+    "rendered": "http://pamplona.tomalaplaza.net/files/2011/05/20110518_manifiesto_dry.pdf"
+  },
+  "modified": "2011-05-21T14:19:42",
+  "modified_gmt": "2011-05-21T14:19:42",
+  "slug": "20110518_manifiesto_dry",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://pamplona.tomalaplaza.net/manifiesto-materiales/20110518_manifiesto_dry/",
+  "title": {
+    "rendered": "Manifiesto Democracia Real Ya (PDF)"
+  },
+  "author": 26,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://pamplona.tomalaplaza.net/files/2011/05/20110518_manifiesto_dry.pdf'>Manifiesto Democracia Real Ya (PDF)</a></p>\n"
+  },
+  "caption": {
+    "rendered": "<p>Manifiesto Democracia Real Ya (PDF)</p>\n"
+  },
+  "alt_text": "",
+  "media_type": "file",
+  "mime_type": "application/pdf",
+  "media_details": {},
+  "post": 2,
+  "source_url": "https://pamplona.tomalaplaza.net/files/2011/05/20110518_manifiesto_dry.pdf",
+  "_links": {
+    "self": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media/33"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=33"
+      }
+    ]
+  }
+},{
+  "id": 25,
+  "date": "2011-05-21T12:52:33",
+  "date_gmt": "2011-05-21T12:52:33",
+  "guid": {
+    "rendered": "http://pamplona.tomalaplaza.net/?p=25"
+  },
+  "modified": "2011-05-21T12:54:42",
+  "modified_gmt": "2011-05-21T12:54:42",
+  "slug": "gaztelu-enparantzatik-zuzenean-directo-desde-la-plaza-del-castillo",
+  "status": "publish",
+  "type": "post",
+  "link": "https://pamplona.tomalaplaza.net/2011/05/21/gaztelu-enparantzatik-zuzenean-directo-desde-la-plaza-del-castillo/",
+  "title": {
+    "rendered": "Gaztelu enparantzatik zuzenean / Directo desde la plaza del castillo"
+  },
+  "content": {
+    "rendered": "<p><a title=\"webcam\" href=\"http://webcam-pamplona.sanfermintv.com/\">Webcam</a> en directo (va lenta) de la Plaza del Castillo.</p>\n<p><a title=\"Zuzenean\" href=\"http://webcam-pamplona.sanfermintv.com/\">Zuzenean</a> Gaztelu enparantzatik:</p>\n<p>@comunicacion, pod\u00e9is publicar si hay algo para hoy?</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Webcam en directo (va lenta) de la Plaza del Castillo. Zuzenean Gaztelu enparantzatik: @comunicacion, pod\u00e9is publicar si hay algo para hoy?</p>\n",
+    "protected": false
+  },
+  "author": 26,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "categories": [
+    1
+  ],
+  "tags": [],
+  "jetpack_featured_media_url": "",
+  "_links": {
+    "self": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/25"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=25"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/25/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 27,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/25/revisions/27"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=25"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/categories?post=25"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/tags?post=25"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+},{
+  "id": 18,
+  "date": "2011-05-20T12:37:01",
+  "date_gmt": "2011-05-20T12:37:01",
+  "guid": {
+    "rendered": "http://pamplona.tomalaplaza.net/?p=18"
+  },
+  "modified": "2011-05-21T12:56:05",
+  "modified_gmt": "2011-05-21T12:56:05",
+  "slug": "orden-del-dia",
+  "status": "publish",
+  "type": "post",
+  "link": "https://pamplona.tomalaplaza.net/2011/05/20/orden-del-dia/",
+  "title": {
+    "rendered": "Orden del d\u00eda viernes 20 de mayo"
+  },
+  "content": {
+    "rendered": "<p>Con el objetivo de seguir alimentando el movimiento conseguido en Pamplona para luchar por una democracia m\u00e1s justa y participativa, estamos desarrollando un programa de actividades para el d\u00eda de hoy:</p>\n<ul>\n<li> &#8211; De 14.30 a 16.00h se celebrar\u00e1 una comida popular en la Plaza del Ayuntamiento con la gente que quiera venir. Se ruega que los asistentes traigan algo de comer al menos para ellos, pues la organizaci\u00f3n no puede prever la asistencia y proveer alimentos para todos.</li>\n<li> &#8211; A las 17.00 se celebrar\u00e1n reuniones de los diferentes grupos de trabajo establecidos ayer durante la asamblea general, a los cuales podr\u00e1 sumarse todo aquel que quiera aportar algo.</li>\n<li>&#8211; A las 19.00 trasladaremos el campamento base a la Plaza del Castillo, donde se celebrar\u00e1 la concentraci\u00f3n principal del d\u00eda.</li>\n<li>&#8211; A las 20.00 comenzar\u00e1 la asamblea general en torno al kiosco de la Plaza del Castillo, a la cual se espera una asistencia masiva.</li>\n</ul>\n<p>Ven, <strong>\u00fanete</strong>, hazte o\u00edr. <strong>Por los que no tienen voz.</strong></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Con el objetivo de seguir alimentando el movimiento conseguido en Pamplona para luchar por una democracia m\u00e1s justa y participativa, estamos desarrollando un programa de actividades para el d\u00eda de hoy: &#8211; De 14.30 a 16.00h se celebrar\u00e1 una comida popular en la Plaza del Ayuntamiento con la gente que quiera venir. Se ruega que [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 26,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "categories": [
+    1
+  ],
+  "tags": [],
+  "jetpack_featured_media_url": "",
+  "_links": {
+    "self": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/18"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=18"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/18/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 22,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/18/revisions/22"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=18"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/categories?post=18"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/tags?post=18"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+},{
+  "id": 5,
+  "date": "2011-05-20T04:20:15",
+  "date_gmt": "2011-05-20T04:20:15",
+  "guid": {
+    "rendered": "http://pamplona.tomalaplaza.net/?p=5"
+  },
+  "modified": "2011-05-21T00:19:25",
+  "modified_gmt": "2011-05-21T00:19:25",
+  "slug": "programacion-viernes-20-mayo",
+  "status": "publish",
+  "type": "post",
+  "link": "https://pamplona.tomalaplaza.net/2011/05/20/programacion-viernes-20-mayo/",
+  "title": {
+    "rendered": "Programaci\u00f3n viernes 20 Mayo"
+  },
+  "content": {
+    "rendered": "<p><strong>En Plaza Ayuntamiento:</strong></p>\n<p>8:00-9:30 Desayuno</p>\n<p>12:00\u00a0 Asamblea Comisi\u00f3n Comunicaci\u00f3n</p>\n<p>14:00:16:00 Comida autogestionada (cada un@ trae lo suyo)</p>\n<p>17:00 Asamblea Comisiones</p>\n<p>19:00 Traslado a Plaza del Castillo</p>\n<p><strong>En Plaza del Castillo:</strong></p>\n<p>20:00 Asamblea general</p>\n<p>&nbsp;</p>\n<p><strong>\u00a1AHORA NOS TOCA A LOS NADIE!</strong></p>\n<p><strong><br />\n</strong></p>\n<p>nota0: estamos en proceso de organizaci\u00f3n continua :), este programa variar\u00e1 durante el d\u00eda.</p>\n<p>nota1: si quieres participar en alg\u00fan grupo de trabajo, p\u00e1sate por el punto de informaci\u00f3n.</p>\n<p>nota2: se ruega a l@s vecin@s de Plaza Ayuntamiento y Plaza del Castillo que abran sus wifis.</p>\n<p>nota3: euskerara itzultzeko/idazteko jendea behar da.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>En Plaza Ayuntamiento: 8:00-9:30 Desayuno 12:00\u00a0 Asamblea Comisi\u00f3n Comunicaci\u00f3n 14:00:16:00 Comida autogestionada (cada un@ trae lo suyo) 17:00 Asamblea Comisiones 19:00 Traslado a Plaza del Castillo En Plaza del Castillo: 20:00 Asamblea general &nbsp; \u00a1AHORA NOS TOCA A LOS NADIE! nota0: estamos en proceso de organizaci\u00f3n continua :), este programa variar\u00e1 durante el d\u00eda. nota1: [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 26,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "categories": [
+    4,
+    1
+  ],
+  "tags": [
+    3,
+    6
+  ],
+  "jetpack_featured_media_url": "",
+  "_links": {
+    "self": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/5"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=5"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 10,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/5/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 7,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/posts/5/revisions/7"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=5"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/categories?post=5"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/tags?post=5"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+},{
+  "id": 2,
+  "date": "2011-05-19T17:06:26",
+  "date_gmt": "2011-05-19T17:06:26",
+  "guid": {
+    "rendered": "http://pamplona.tomalaplaza.net/?page_id=2"
+  },
+  "modified": "2011-05-26T04:59:04",
+  "modified_gmt": "2011-05-26T04:59:04",
+  "slug": "manifiesto-materiales",
+  "status": "publish",
+  "type": "page",
+  "link": "https://pamplona.tomalaplaza.net/manifiesto-materiales/",
+  "title": {
+    "rendered": "Manifiesto"
+  },
+  "content": {
+    "rendered": "<p><strong>MANIFIESTO Democracia Real Ya:</strong></p>\n<ul>\n<li><a href='http://pamplona.tomalaplaza.net/files/2011/05/20110518_manifiesto_dry.pdf'>Manifiesto Democracia Real Ya (PDF para descargar)</a></li>\n</ul>\n<p><strong>Aqu\u00ed pod\u00e9is encontrar una serie de recursos gr\u00e1ficos que llevar a las Acampadas.</strong></p>\n<p>Si dice que el archivo est\u00e1 temporalmente no disponible es que hay m\u00e1s gente baj\u00e1ndolo, probad\u00a0m\u00e1s tarde. Si os da muchos problemas, necesit\u00e1is otro formato, v\u00e9is un fallo, avisadme.Perdonad por repetir esto en un documento pero me parec\u00eda mejor mantenerlo as\u00ed y que nadie se pierda luego preguntando por los links.</p>\n<p><strong>Enlaces al cartel NOS VAN A O\u00cdR:</strong></p>\n<ul>\n<li><a href=\"http://www.megaupload.com/?d=WML6YWQ7\">Poster tama\u00f1o A4 COLOR formato JPG</a></li>\n<li><a href=\"https://www.yousendit.com/dl?phi_action=app%2ForchestrateDownload&amp;rurl=https%253A%252F%252Fwww.yousendit.com%252Ftransfer.php%253Faction%253Dbatch_download%2526batch_id%253DdkJweVducVg1UjQwTVE9PQ\">Poster tama\u00f1o A4 COLOR &#8211; JPG (2\u00ba enlace, si falla el anterior)</a></li>\n<li><a href=\"http://www.megaupload.com/?d=IO5GGJOF\">Poster tama\u00f1o A3 COLOR formato JPG</a></li>\n<li><a href=\"http://www.megaupload.com/?d=WHWQV95X\">2 Cuartillas BLANCO Y NEGRO en A4 formato JPG (para cortar)</a></li>\n<li><a href=\"http://www.megaupload.com/?d=WML6YWQ7\">Poster tama\u00f1o A4 BLANCO Y NEGRO formato JPG</a></li>\n</ul>\n<p><strong>Link cartel NOS VAN A OIR <em>en euskera</em>:</strong></p>\n<ul>\n<li><a href=\"http://www.megaupload.com/?d=QOJAZ94X\">Poster tama\u00f1o A3 COLOR formato JPG</a></li>\n<li><a href=\"http://www.megaupload.com/?d=S12Q8VG1\">Poster tama\u00f1o A4 COLOR formato JPG</a></li>\n<li><a href=\"http://www.megaupload.com/?d=ZCXI762P\">Poster tama\u00f1o A4 BLANCO Y NEGRO formato JPG</a></li>\n<li><a href=\"http://www.megaupload.com/?d=KHXIAHGW\">2 Cuartillas BLANCO Y NEGRO en A4 formato JPG (para cortar)</a></li>\n</ul>\n<p><strong>Flyers y cuartillas con el manifiesto:</strong></p>\n<p>Flyers: 4 por cada A4 con su manifiesto (doble cara). Hay 2 documentos,\u00a0front (cara poster) y back (cara manifiesto). Podeis imprimirlos por una cara\u00a0bajandoos s\u00f3lo la cara p\u00f3ster o por las dos bajandoos los dos archivos.</p>\n<ul>\n<li><a href=\"http://www.megaupload.com/?d=UGO2L27E\">4 Flyers Color A4 (cara poster)</a></li>\n<li><a href=\"http://www.megaupload.com/?d=DTATA6IZ\">4 Flyers color A4 (cara manifiesto)</a></li>\n<li><a href=\"http://www.megaupload.com/?d=XFMPHGTT\">4 Flyers blanco y negro A4 (cara poster)</a></li>\n<li><a href=\"http://www.megaupload.com/?d=T090RKI3\">4 Flyers blanco y negro A4 (cara manifiesto)</a></li>\n<li><a href=\"http://www.megaupload.com/?d=HZFA98ZW\">2 Cuartillas con manifiesto color A4</a></li>\n<li><a href=\"http://www.megaupload.com/?d=MWRQI2S9\">2 Cuartillas con manifiesto blanco y negro A4</a></li>\n</ul>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>MANIFIESTO Democracia Real Ya: Manifiesto Democracia Real Ya (PDF para descargar) Aqu\u00ed pod\u00e9is encontrar una serie de recursos gr\u00e1ficos que llevar a las Acampadas. Si dice que el archivo est\u00e1 temporalmente no disponible es que hay m\u00e1s gente baj\u00e1ndolo, probad\u00a0m\u00e1s tarde. Si os da muchos problemas, necesit\u00e1is otro formato, v\u00e9is un fallo, avisadme.Perdonad por repetir [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 26,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/2"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/users/26"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/comments?post=2"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/2/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 110,
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/pages/2/revisions/110"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://pamplona.tomalaplaza.net/wp-json/wp/v2/media?parent=2"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}]

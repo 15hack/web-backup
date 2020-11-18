@@ -2,8 +2,8 @@
 134 berlinbienal.tomalaplaza.net/files/2012/04/CARTEL-BIENNALE-Madrid.jpg
 131 berlinbienal.tomalaplaza.net/files/2012/03/pancartas2.jpg
 127 berlinbienal.tomalaplaza.net/2012/05/02/queremos-otro-modelo%e2%80%8f/
-121 berlinbienal.tomalaplaza.net/2012/05/02/comienza-la-programacion-de-bb7-en-sevilla/
 122 berlinbienal.tomalaplaza.net/files/2012/05/presentacion_bb7_sevilla.jpg
+121 berlinbienal.tomalaplaza.net/2012/05/02/comienza-la-programacion-de-bb7-en-sevilla/
 119 berlinbienal.tomalaplaza.net/2012/04/29/performance-protesta-por-los-recortes-en-educacion/
 113 berlinbienal.tomalaplaza.net/2012/04/26/presentacion-berlin-biennale-en-sevilla/
 105 berlinbienal.tomalaplaza.net/2012/04/23/acta-ii-reunion-de-trabajo-del-grupo-de-sevilla/
@@ -21,10 +21,10 @@
  40 berlinbienal.tomalaplaza.net/files/2012/03/cartel-bienalviene_BJ.jpg
  38 berlinbienal.tomalaplaza.net/2012/03/25/dia-de-la-alegria/
  32 berlinbienal.tomalaplaza.net/ciudades/
- 24 berlinbienal.tomalaplaza.net/2012/03/25/se-busca-artistas-y-grupos-de-dinamizacion-local/
  25 berlinbienal.tomalaplaza.net/files/2012/03/Los-hombres-grises.jpg
+ 24 berlinbienal.tomalaplaza.net/2012/03/25/se-busca-artistas-y-grupos-de-dinamizacion-local/
  15 berlinbienal.tomalaplaza.net/2012/03/25/la-bienal-de-berlin-viene-a-la-ciudad/
-  7 berlinbienal.tomalaplaza.net/invitacion/
   8 berlinbienal.tomalaplaza.net/files/2012/03/logo-BB.png
+  7 berlinbienal.tomalaplaza.net/invitacion/
   5 berlinbienal.tomalaplaza.net/files/2012/03/cropped-cabecerabb1.jpg
   2 berlinbienal.tomalaplaza.net/pagina-ejemplo/

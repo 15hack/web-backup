@@ -1,369 +1,365 @@
-[
-    {
-        "id": 13,
-        "date": "2011-08-19T10:14:02",
-        "date_gmt": "2011-08-19T10:14:02",
-        "guid": {
-            "rendered": "http://radio.takethesquare.net/?p=13"
-        },
-        "modified": "2011-08-19T10:23:36",
-        "modified_gmt": "2011-08-19T10:23:36",
-        "slug": "franco-berardi-bifo-the-time-for-indignation-is-over",
-        "status": "publish",
-        "type": "post",
-        "link": "https://radio.takethesquare.net/2011/08/19/franco-berardi-bifo-the-time-for-indignation-is-over/",
-        "title": {
-            "rendered": "Franco Berardi Bifo | The time for indignation is over"
-        },
-        "content": {
-            "rendered": "<p>Nice reading of this article of Franco Berardi, <a title=\"Indignation\" href=\"http://posterous.com/getfile/files.posterous.com/temp-2011-07-27/nelzqaGwBoInnBfEIszHyEFyxrbAoxfgnCoolDxtzFBebxJezEJDssEvnsxA/Adbusters-97-7.mp3\">download the audio here</a>. Thanks to the adbusters!</p>\n<p><iframe src=\"http://player.vimeo.com/video/21160879?title=0&#038;byline=0&#038;portrait=0\" frameborder=\"0\" width=\"400\" height=\"225\"></iframe></p>\n<p><a href=\"http://vimeo.com/21160879\">Teaching Insurrection &#8211; Franco Berardi Bifo | Through Europe</a> from <a href=\"http://vimeo.com/user6301554\">Through Europe</a> on <a href=\"http://vimeo.com\">Vimeo</a>.</p>\n<p>&nbsp;</p>\n<blockquote><p>The obsession for profit and accumulation led our country and all European countries to the verge of a terrifying catastrophe into which we are now sinking, and we should realize we are already quite far into it. It is the catastrophe of barbarism and ignorance.</p>\n<p>In Italy, the reform of the Berlusconi government and of his crawlers has already taken 8 billion euros away from the school, university and the education system, and soon it will take away even more. In the face of this devastation and barbarization, we cannot continue complaining. We must say: \u201cFirst of all, you all have to go, then we will take care of the rest.\u201d They have to go, just like the citizens of Tunis and Cairo said. I don\u2019t know how it will end up, but I know that they revolted and they won. What did they do? They said: \u201cWe won\u2019t leave this place &#8230; We won\u2019t leave this square, we won\u2019t leave this station, we won\u2019t leave this parliament &#8230; We won\u2019t leave until the tyrant and his crawlers go.\u201d This is what we have to say, what we have to do. By the end of 2011, this is what has to happen in Italy. We will occupy the central train stations in Milan, in Bologna, and we will hold them until the tyrant and his lackeys flee.</p>\n<p>But the tyrant and his crawlers are not the real problem. The real problem is an obsession embodied in financial power, in the power of banks and in the idea that the life of society, the pleasure, well-being and culture of society is worthless. They say the only things that matter are accounting books and the profits of a minuscule class of exploiters and murderers. From our point of view, at the moment, these two problems, that of the tyrant and of his crawlers and that of the European financial dictatorship are one single problem.\n</p></blockquote>\n<p>via\u00a0 Adbusters Culturejammer Headquarters. <a href=\"http://www.adbusters.org/magazine/97/lesson-insurrection.html\">Read the whole article here..</a></p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Nice reading of this article of Franco Berardi, download the audio here. Thanks to the adbusters! Teaching Insurrection &#8211; Franco Berardi Bifo | Through Europe from Through Europe on Vimeo. &nbsp; The obsession&#8230;</p>\n",
-            "protected": false
-        },
-        "author": 13,
-        "featured_media": 0,
-        "comment_status": "open",
-        "ping_status": "open",
-        "sticky": false,
-        "template": "",
-        "format": "standard",
-        "meta": [],
-        "categories": [
-            19
-        ],
-        "tags": [
-            20,
-            21,
-            23,
-            22
-        ],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://radio.takethesquare.net/wp-json/wp/v2/posts/13"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://radio.takethesquare.net/wp-json/wp/v2/posts"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://radio.takethesquare.net/wp-json/wp/v2/types/post"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://radio.takethesquare.net/wp-json/wp/v2/users/13"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://radio.takethesquare.net/wp-json/wp/v2/comments?post=13"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 5,
-                    "href": "https://radio.takethesquare.net/wp-json/wp/v2/posts/13/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 16,
-                    "href": "https://radio.takethesquare.net/wp-json/wp/v2/posts/13/revisions/16"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://radio.takethesquare.net/wp-json/wp/v2/media?parent=13"
-                }
-            ],
-            "wp:term": [
-                {
-                    "taxonomy": "category",
-                    "embeddable": true,
-                    "href": "https://radio.takethesquare.net/wp-json/wp/v2/categories?post=13"
-                },
-                {
-                    "taxonomy": "post_tag",
-                    "embeddable": true,
-                    "href": "https://radio.takethesquare.net/wp-json/wp/v2/tags?post=13"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 7,
-        "date": "2011-08-05T18:48:01",
-        "date_gmt": "2011-08-05T18:48:01",
-        "guid": {
-            "rendered": "http://radio.takethesquare.net/files/2011/08/IMG_0015.jpg"
-        },
-        "modified": "2011-08-05T18:48:01",
-        "modified_gmt": "2011-08-05T18:48:01",
-        "slug": "img_0015-jpg",
-        "status": "inherit",
-        "type": "attachment",
-        "link": "https://radio.takethesquare.net/img_0015-jpg/",
-        "title": {
-            "rendered": "IMG_0015.jpg"
-        },
-        "author": 13,
-        "comment_status": "open",
-        "ping_status": "open",
-        "template": "",
-        "meta": [],
-        "description": {
-            "rendered": "<p class=\"attachment\"><a href='https://radio.takethesquare.net/files/2011/08/IMG_0015.jpg'><img width=\"300\" height=\"225\" src=\"https://radio.takethesquare.net/files/2011/08/IMG_0015-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://radio.takethesquare.net/files/2011/08/IMG_0015-300x225.jpg 300w, https://radio.takethesquare.net/files/2011/08/IMG_0015-1024x768.jpg 1024w, https://radio.takethesquare.net/files/2011/08/IMG_0015.jpg 1600w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>http://radio.takethesquare.net/files/2011/08/IMG_0015.jpg</p>\n"
-        },
-        "caption": {
-            "rendered": "<p>http://radio.takethesquare.net/files/2011/08/IMG_0015.jpg</p>\n"
-        },
-        "alt_text": "",
-        "media_type": "image",
+[{
+  "id": 13,
+  "date": "2011-08-19T10:14:02",
+  "date_gmt": "2011-08-19T10:14:02",
+  "guid": {
+    "rendered": "http://radio.takethesquare.net/?p=13"
+  },
+  "modified": "2011-08-19T10:23:36",
+  "modified_gmt": "2011-08-19T10:23:36",
+  "slug": "franco-berardi-bifo-the-time-for-indignation-is-over",
+  "status": "publish",
+  "type": "post",
+  "link": "https://radio.takethesquare.net/2011/08/19/franco-berardi-bifo-the-time-for-indignation-is-over/",
+  "title": {
+    "rendered": "Franco Berardi Bifo | The time for indignation is over"
+  },
+  "content": {
+    "rendered": "<p>Nice reading of this article of Franco Berardi, <a title=\"Indignation\" href=\"http://posterous.com/getfile/files.posterous.com/temp-2011-07-27/nelzqaGwBoInnBfEIszHyEFyxrbAoxfgnCoolDxtzFBebxJezEJDssEvnsxA/Adbusters-97-7.mp3\">download the audio here</a>. Thanks to the adbusters!</p>\n<p><iframe src=\"http://player.vimeo.com/video/21160879?title=0&#038;byline=0&#038;portrait=0\" frameborder=\"0\" width=\"400\" height=\"225\"></iframe></p>\n<p><a href=\"http://vimeo.com/21160879\">Teaching Insurrection &#8211; Franco Berardi Bifo | Through Europe</a> from <a href=\"http://vimeo.com/user6301554\">Through Europe</a> on <a href=\"http://vimeo.com\">Vimeo</a>.</p>\n<p>&nbsp;</p>\n<blockquote><p>The obsession for profit and accumulation led our country and all European countries to the verge of a terrifying catastrophe into which we are now sinking, and we should realize we are already quite far into it. It is the catastrophe of barbarism and ignorance.</p>\n<p>In Italy, the reform of the Berlusconi government and of his crawlers has already taken 8 billion euros away from the school, university and the education system, and soon it will take away even more. In the face of this devastation and barbarization, we cannot continue complaining. We must say: \u201cFirst of all, you all have to go, then we will take care of the rest.\u201d They have to go, just like the citizens of Tunis and Cairo said. I don\u2019t know how it will end up, but I know that they revolted and they won. What did they do? They said: \u201cWe won\u2019t leave this place &#8230; We won\u2019t leave this square, we won\u2019t leave this station, we won\u2019t leave this parliament &#8230; We won\u2019t leave until the tyrant and his crawlers go.\u201d This is what we have to say, what we have to do. By the end of 2011, this is what has to happen in Italy. We will occupy the central train stations in Milan, in Bologna, and we will hold them until the tyrant and his lackeys flee.</p>\n<p>But the tyrant and his crawlers are not the real problem. The real problem is an obsession embodied in financial power, in the power of banks and in the idea that the life of society, the pleasure, well-being and culture of society is worthless. They say the only things that matter are accounting books and the profits of a minuscule class of exploiters and murderers. From our point of view, at the moment, these two problems, that of the tyrant and of his crawlers and that of the European financial dictatorship are one single problem.\n</p></blockquote>\n<p>via\u00a0 Adbusters Culturejammer Headquarters. <a href=\"http://www.adbusters.org/magazine/97/lesson-insurrection.html\">Read the whole article here..</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Nice reading of this article of Franco Berardi, download the audio here. Thanks to the adbusters! Teaching Insurrection &#8211; Franco Berardi Bifo | Through Europe from Through Europe on Vimeo. &nbsp; The obsession&#8230;</p>\n",
+    "protected": false
+  },
+  "author": 13,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "open",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "categories": [
+    19
+  ],
+  "tags": [
+    20,
+    21,
+    23,
+    22
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://radio.takethesquare.net/wp-json/wp/v2/posts/13"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://radio.takethesquare.net/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://radio.takethesquare.net/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://radio.takethesquare.net/wp-json/wp/v2/users/13"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://radio.takethesquare.net/wp-json/wp/v2/comments?post=13"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://radio.takethesquare.net/wp-json/wp/v2/posts/13/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 16,
+        "href": "https://radio.takethesquare.net/wp-json/wp/v2/posts/13/revisions/16"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://radio.takethesquare.net/wp-json/wp/v2/media?parent=13"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://radio.takethesquare.net/wp-json/wp/v2/categories?post=13"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://radio.takethesquare.net/wp-json/wp/v2/tags?post=13"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+},{
+  "id": 7,
+  "date": "2011-08-05T18:48:01",
+  "date_gmt": "2011-08-05T18:48:01",
+  "guid": {
+    "rendered": "http://radio.takethesquare.net/files/2011/08/IMG_0015.jpg"
+  },
+  "modified": "2011-08-05T18:48:01",
+  "modified_gmt": "2011-08-05T18:48:01",
+  "slug": "img_0015-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://radio.takethesquare.net/img_0015-jpg/",
+  "title": {
+    "rendered": "IMG_0015.jpg"
+  },
+  "author": 13,
+  "comment_status": "open",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://radio.takethesquare.net/files/2011/08/IMG_0015.jpg'><img width=\"300\" height=\"225\" src=\"https://radio.takethesquare.net/files/2011/08/IMG_0015-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://radio.takethesquare.net/files/2011/08/IMG_0015-300x225.jpg 300w, https://radio.takethesquare.net/files/2011/08/IMG_0015-1024x768.jpg 1024w, https://radio.takethesquare.net/files/2011/08/IMG_0015.jpg 1600w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>http://radio.takethesquare.net/files/2011/08/IMG_0015.jpg</p>\n"
+  },
+  "caption": {
+    "rendered": "<p>http://radio.takethesquare.net/files/2011/08/IMG_0015.jpg</p>\n"
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": "1600",
+    "height": "1200",
+    "hwstring_small": "height='96' width='128'",
+    "file": "2011/08/IMG_0015.jpg",
+    "sizes": {
+      "thumbnail": {
+        "file": "IMG_0015-150x150.jpg",
+        "width": "150",
+        "height": "150",
+        "source_url": "https://radio.takethesquare.net/files/2011/08/IMG_0015-150x150.jpg"
+      },
+      "medium": {
+        "file": "IMG_0015-300x225.jpg",
+        "width": "300",
+        "height": "225",
+        "source_url": "https://radio.takethesquare.net/files/2011/08/IMG_0015-300x225.jpg"
+      },
+      "large": {
+        "file": "IMG_0015-1024x768.jpg",
+        "width": "1024",
+        "height": "768",
+        "source_url": "https://radio.takethesquare.net/files/2011/08/IMG_0015-1024x768.jpg"
+      },
+      "micro": {
+        "file": "IMG_0015-50x50.jpg",
+        "width": "50",
+        "height": "50",
+        "source_url": "https://radio.takethesquare.net/files/2011/08/IMG_0015-50x50.jpg"
+      },
+      "mini": {
+        "file": "IMG_0015-140x90.jpg",
+        "width": "140",
+        "height": "90",
+        "source_url": "https://radio.takethesquare.net/files/2011/08/IMG_0015-140x90.jpg"
+      },
+      "mini-ec": {
+        "file": "IMG_0015-135x80.jpg",
+        "width": "135",
+        "height": "80",
+        "source_url": "https://radio.takethesquare.net/files/2011/08/IMG_0015-135x80.jpg"
+      },
+      "general": {
+        "file": "IMG_0015-300x180.jpg",
+        "width": "300",
+        "height": "180",
+        "source_url": "https://radio.takethesquare.net/files/2011/08/IMG_0015-300x180.jpg"
+      },
+      "slide-home": {
+        "file": "IMG_0015-360x225.jpg",
+        "width": "360",
+        "height": "225",
+        "source_url": "https://radio.takethesquare.net/files/2011/08/IMG_0015-360x225.jpg"
+      },
+      "video-mini": {
+        "file": "IMG_0015-134x74.jpg",
+        "width": "134",
+        "height": "74",
+        "source_url": "https://radio.takethesquare.net/files/2011/08/IMG_0015-134x74.jpg"
+      },
+      "video": {
+        "file": "IMG_0015-460x260.jpg",
+        "width": "460",
+        "height": "260",
+        "source_url": "https://radio.takethesquare.net/files/2011/08/IMG_0015-460x260.jpg"
+      },
+      "full": {
+        "file": "IMG_0015.jpg",
+        "width": 1600,
+        "height": 1200,
         "mime_type": "image/jpeg",
-        "media_details": {
-            "width": "1600",
-            "height": "1200",
-            "hwstring_small": "height='96' width='128'",
-            "file": "2011/08/IMG_0015.jpg",
-            "sizes": {
-                "thumbnail": {
-                    "file": "IMG_0015-150x150.jpg",
-                    "width": "150",
-                    "height": "150",
-                    "source_url": "https://radio.takethesquare.net/files/2011/08/IMG_0015-150x150.jpg"
-                },
-                "medium": {
-                    "file": "IMG_0015-300x225.jpg",
-                    "width": "300",
-                    "height": "225",
-                    "source_url": "https://radio.takethesquare.net/files/2011/08/IMG_0015-300x225.jpg"
-                },
-                "large": {
-                    "file": "IMG_0015-1024x768.jpg",
-                    "width": "1024",
-                    "height": "768",
-                    "source_url": "https://radio.takethesquare.net/files/2011/08/IMG_0015-1024x768.jpg"
-                },
-                "micro": {
-                    "file": "IMG_0015-50x50.jpg",
-                    "width": "50",
-                    "height": "50",
-                    "source_url": "https://radio.takethesquare.net/files/2011/08/IMG_0015-50x50.jpg"
-                },
-                "mini": {
-                    "file": "IMG_0015-140x90.jpg",
-                    "width": "140",
-                    "height": "90",
-                    "source_url": "https://radio.takethesquare.net/files/2011/08/IMG_0015-140x90.jpg"
-                },
-                "mini-ec": {
-                    "file": "IMG_0015-135x80.jpg",
-                    "width": "135",
-                    "height": "80",
-                    "source_url": "https://radio.takethesquare.net/files/2011/08/IMG_0015-135x80.jpg"
-                },
-                "general": {
-                    "file": "IMG_0015-300x180.jpg",
-                    "width": "300",
-                    "height": "180",
-                    "source_url": "https://radio.takethesquare.net/files/2011/08/IMG_0015-300x180.jpg"
-                },
-                "slide-home": {
-                    "file": "IMG_0015-360x225.jpg",
-                    "width": "360",
-                    "height": "225",
-                    "source_url": "https://radio.takethesquare.net/files/2011/08/IMG_0015-360x225.jpg"
-                },
-                "video-mini": {
-                    "file": "IMG_0015-134x74.jpg",
-                    "width": "134",
-                    "height": "74",
-                    "source_url": "https://radio.takethesquare.net/files/2011/08/IMG_0015-134x74.jpg"
-                },
-                "video": {
-                    "file": "IMG_0015-460x260.jpg",
-                    "width": "460",
-                    "height": "260",
-                    "source_url": "https://radio.takethesquare.net/files/2011/08/IMG_0015-460x260.jpg"
-                },
-                "full": {
-                    "file": "IMG_0015.jpg",
-                    "width": 1600,
-                    "height": 1200,
-                    "mime_type": "image/jpeg",
-                    "source_url": "https://radio.takethesquare.net/files/2011/08/IMG_0015.jpg"
-                }
-            },
-            "image_meta": {
-                "aperture": "7.1",
-                "credit": "",
-                "camera": "Canon PowerShot A610",
-                "caption": "",
-                "created_timestamp": "1310244821",
-                "copyright": "",
-                "focal_length": "7.3",
-                "iso": "0",
-                "shutter_speed": "0.004",
-                "title": ""
-            }
-        },
-        "post": null,
-        "source_url": "https://radio.takethesquare.net/files/2011/08/IMG_0015.jpg",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://radio.takethesquare.net/wp-json/wp/v2/media/7"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://radio.takethesquare.net/wp-json/wp/v2/media"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://radio.takethesquare.net/wp-json/wp/v2/types/attachment"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://radio.takethesquare.net/wp-json/wp/v2/users/13"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://radio.takethesquare.net/wp-json/wp/v2/comments?post=7"
-                }
-            ]
-        }
+        "source_url": "https://radio.takethesquare.net/files/2011/08/IMG_0015.jpg"
+      }
     },
-    {
-        "id": 1,
-        "date": "2011-08-05T12:14:26",
-        "date_gmt": "2011-08-05T12:14:26",
-        "guid": {
-            "rendered": "http://radio.takethesquare.net/?p=1"
-        },
-        "modified": "2011-08-16T23:50:11",
-        "modified_gmt": "2011-08-16T23:50:11",
-        "slug": "hello-world",
-        "status": "publish",
-        "type": "post",
-        "link": "https://radio.takethesquare.net/2011/08/05/hello-world/",
-        "title": {
-            "rendered": "Radio indignada"
-        },
-        "content": {
-            "rendered": "<p>Escucha radio indignada cuando quieras, 24 horas de programaci\u00f3n sobre el movimiento del 15M.</p>\n<p>&nbsp;</p>\n<p>Escucha <a title=\"Radio indignada\" href=\"http://giss.tv:8000/indignada.ogg.m3u\">AQUI</a>!</p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Escucha radio indignada cuando quieras, 24 horas de programaci\u00f3n sobre el movimiento del 15M. &nbsp; Escucha AQUI!</p>\n",
-            "protected": false
-        },
-        "author": 13,
-        "featured_media": 0,
-        "comment_status": "open",
-        "ping_status": "open",
-        "sticky": false,
-        "template": "",
-        "format": "aside",
-        "meta": [],
-        "categories": [
-            3
-        ],
-        "tags": [
-            5,
-            12,
-            11,
-            7,
-            8,
-            9,
-            6,
-            10
-        ],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://radio.takethesquare.net/wp-json/wp/v2/posts/1"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://radio.takethesquare.net/wp-json/wp/v2/posts"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://radio.takethesquare.net/wp-json/wp/v2/types/post"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://radio.takethesquare.net/wp-json/wp/v2/users/13"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://radio.takethesquare.net/wp-json/wp/v2/comments?post=1"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 4,
-                    "href": "https://radio.takethesquare.net/wp-json/wp/v2/posts/1/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 5,
-                    "href": "https://radio.takethesquare.net/wp-json/wp/v2/posts/1/revisions/5"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://radio.takethesquare.net/wp-json/wp/v2/media?parent=1"
-                }
-            ],
-            "wp:term": [
-                {
-                    "taxonomy": "category",
-                    "embeddable": true,
-                    "href": "https://radio.takethesquare.net/wp-json/wp/v2/categories?post=1"
-                },
-                {
-                    "taxonomy": "post_tag",
-                    "embeddable": true,
-                    "href": "https://radio.takethesquare.net/wp-json/wp/v2/tags?post=1"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
+    "image_meta": {
+      "aperture": "7.1",
+      "credit": "",
+      "camera": "Canon PowerShot A610",
+      "caption": "",
+      "created_timestamp": "1310244821",
+      "copyright": "",
+      "focal_length": "7.3",
+      "iso": "0",
+      "shutter_speed": "0.004",
+      "title": ""
     }
-]
+  },
+  "post": null,
+  "source_url": "https://radio.takethesquare.net/files/2011/08/IMG_0015.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://radio.takethesquare.net/wp-json/wp/v2/media/7"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://radio.takethesquare.net/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://radio.takethesquare.net/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://radio.takethesquare.net/wp-json/wp/v2/users/13"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://radio.takethesquare.net/wp-json/wp/v2/comments?post=7"
+      }
+    ]
+  }
+},{
+  "id": 1,
+  "date": "2011-08-05T12:14:26",
+  "date_gmt": "2011-08-05T12:14:26",
+  "guid": {
+    "rendered": "http://radio.takethesquare.net/?p=1"
+  },
+  "modified": "2011-08-16T23:50:11",
+  "modified_gmt": "2011-08-16T23:50:11",
+  "slug": "hello-world",
+  "status": "publish",
+  "type": "post",
+  "link": "https://radio.takethesquare.net/2011/08/05/hello-world/",
+  "title": {
+    "rendered": "Radio indignada"
+  },
+  "content": {
+    "rendered": "<p>Escucha radio indignada cuando quieras, 24 horas de programaci\u00f3n sobre el movimiento del 15M.</p>\n<p>&nbsp;</p>\n<p>Escucha <a title=\"Radio indignada\" href=\"http://giss.tv:8000/indignada.ogg.m3u\">AQUI</a>!</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Escucha radio indignada cuando quieras, 24 horas de programaci\u00f3n sobre el movimiento del 15M. &nbsp; Escucha AQUI!</p>\n",
+    "protected": false
+  },
+  "author": 13,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "open",
+  "sticky": false,
+  "template": "",
+  "format": "aside",
+  "meta": [],
+  "categories": [
+    3
+  ],
+  "tags": [
+    5,
+    12,
+    11,
+    7,
+    8,
+    9,
+    6,
+    10
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://radio.takethesquare.net/wp-json/wp/v2/posts/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://radio.takethesquare.net/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://radio.takethesquare.net/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://radio.takethesquare.net/wp-json/wp/v2/users/13"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://radio.takethesquare.net/wp-json/wp/v2/comments?post=1"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://radio.takethesquare.net/wp-json/wp/v2/posts/1/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 5,
+        "href": "https://radio.takethesquare.net/wp-json/wp/v2/posts/1/revisions/5"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://radio.takethesquare.net/wp-json/wp/v2/media?parent=1"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://radio.takethesquare.net/wp-json/wp/v2/categories?post=1"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://radio.takethesquare.net/wp-json/wp/v2/tags?post=1"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}]

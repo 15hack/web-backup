@@ -1,200 +1,197 @@
-[
-    {
-        "id": 76,
-        "date": "2011-10-13T11:51:02",
-        "date_gmt": "2011-10-13T09:51:02",
-        "guid": {
-            "rendered": "http://burgos.tomalaplaza.net/?p=76"
-        },
-        "modified": "2011-10-15T16:45:01",
-        "modified_gmt": "2011-10-15T14:45:01",
-        "slug": "httpasambleageneralburgos-blogspot-com",
-        "status": "publish",
-        "type": "post",
-        "link": "https://burgos.tomalaplaza.net/2011/10/13/httpasambleageneralburgos-blogspot-com/",
-        "title": {
-            "rendered": "Web en construcci\u00f3n"
-        },
-        "content": {
-            "rendered": "<h1>Temporalmente nos puedes encontrar en:</h1>\n<h1><a title=\"http://asambleageneralburgos.blogspot.com/\" href=\"http://asambleageneralburgos.blogspot.com/\">www.asambleageneralburgos.blogspot.com</a></h1>\n<h1><span style=\"color: #ff0000\">Las asambleas se celebran los jueves a las 20:00 en la plaza Mayor.</span></h1>\n<h1>Contacto: <a href=\"mailto:correo@burgos.tomalaplaza.net\">correo@burgos.tomalaplaza.net</a></h1>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Temporalmente nos puedes encontrar en: www.asambleageneralburgos.blogspot.com Las asambleas se celebran los jueves a las 20:00 en la plaza Mayor. Contacto: correo@burgos.tomalaplaza.net</p>\n",
-            "protected": false
-        },
-        "author": 940,
-        "featured_media": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "sticky": false,
-        "template": "",
-        "format": "standard",
-        "meta": [],
-        "categories": [
-            1
-        ],
-        "tags": [],
-        "jetpack_featured_media_url": "",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://burgos.tomalaplaza.net/wp-json/wp/v2/posts/76"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://burgos.tomalaplaza.net/wp-json/wp/v2/posts"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://burgos.tomalaplaza.net/wp-json/wp/v2/types/post"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://burgos.tomalaplaza.net/wp-json/wp/v2/users/940"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://burgos.tomalaplaza.net/wp-json/wp/v2/comments?post=76"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 0,
-                    "href": "https://burgos.tomalaplaza.net/wp-json/wp/v2/posts/76/revisions"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://burgos.tomalaplaza.net/wp-json/wp/v2/media?parent=76"
-                }
-            ],
-            "wp:term": [
-                {
-                    "taxonomy": "category",
-                    "embeddable": true,
-                    "href": "https://burgos.tomalaplaza.net/wp-json/wp/v2/categories?post=76"
-                },
-                {
-                    "taxonomy": "post_tag",
-                    "embeddable": true,
-                    "href": "https://burgos.tomalaplaza.net/wp-json/wp/v2/tags?post=76"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 11,
-        "date": "2011-06-18T15:45:33",
-        "date_gmt": "2011-06-18T15:45:33",
-        "guid": {
-            "rendered": "http://burgos.tomalaplaza.net/files/2011/06/cropped-cid.jpg"
-        },
-        "modified": "2011-06-18T15:45:33",
-        "modified_gmt": "2011-06-18T15:45:33",
-        "slug": "cropped-cid-jpg",
-        "status": "inherit",
-        "type": "attachment",
-        "link": "https://burgos.tomalaplaza.net/cropped-cid-jpg/",
-        "title": {
-            "rendered": "cropped-cid.jpg"
-        },
-        "author": 645,
-        "comment_status": "closed",
-        "ping_status": "open",
-        "template": "",
-        "meta": [],
-        "description": {
-            "rendered": "<p class=\"attachment\"><a href='https://burgos.tomalaplaza.net/files/2011/06/cropped-cid.jpg'><img width=\"300\" height=\"63\" src=\"https://burgos.tomalaplaza.net/files/2011/06/cropped-cid-300x63.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://burgos.tomalaplaza.net/files/2011/06/cropped-cid-300x63.jpg 300w, https://burgos.tomalaplaza.net/files/2011/06/cropped-cid.jpg 940w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>http://burgos.tomalaplaza.net/files/2011/06/cropped-cid.jpg</p>\n"
-        },
-        "caption": {
-            "rendered": "<p>http://burgos.tomalaplaza.net/files/2011/06/cropped-cid.jpg</p>\n"
-        },
-        "alt_text": "",
-        "media_type": "image",
+[{
+  "id": 76,
+  "date": "2011-10-13T11:51:02",
+  "date_gmt": "2011-10-13T09:51:02",
+  "guid": {
+    "rendered": "http://burgos.tomalaplaza.net/?p=76"
+  },
+  "modified": "2011-10-15T16:45:01",
+  "modified_gmt": "2011-10-15T14:45:01",
+  "slug": "httpasambleageneralburgos-blogspot-com",
+  "status": "publish",
+  "type": "post",
+  "link": "https://burgos.tomalaplaza.net/2011/10/13/httpasambleageneralburgos-blogspot-com/",
+  "title": {
+    "rendered": "Web en construcci\u00f3n"
+  },
+  "content": {
+    "rendered": "<h1>Temporalmente nos puedes encontrar en:</h1>\n<h1><a title=\"http://asambleageneralburgos.blogspot.com/\" href=\"http://asambleageneralburgos.blogspot.com/\">www.asambleageneralburgos.blogspot.com</a></h1>\n<h1><span style=\"color: #ff0000\">Las asambleas se celebran los jueves a las 20:00 en la plaza Mayor.</span></h1>\n<h1>Contacto: <a href=\"mailto:correo@burgos.tomalaplaza.net\">correo@burgos.tomalaplaza.net</a></h1>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Temporalmente nos puedes encontrar en: www.asambleageneralburgos.blogspot.com Las asambleas se celebran los jueves a las 20:00 en la plaza Mayor. Contacto: correo@burgos.tomalaplaza.net</p>\n",
+    "protected": false
+  },
+  "author": 940,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "categories": [
+    1
+  ],
+  "tags": [],
+  "jetpack_featured_media_url": "",
+  "_links": {
+    "self": [
+      {
+        "href": "https://burgos.tomalaplaza.net/wp-json/wp/v2/posts/76"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://burgos.tomalaplaza.net/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://burgos.tomalaplaza.net/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://burgos.tomalaplaza.net/wp-json/wp/v2/users/940"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://burgos.tomalaplaza.net/wp-json/wp/v2/comments?post=76"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://burgos.tomalaplaza.net/wp-json/wp/v2/posts/76/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://burgos.tomalaplaza.net/wp-json/wp/v2/media?parent=76"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://burgos.tomalaplaza.net/wp-json/wp/v2/categories?post=76"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://burgos.tomalaplaza.net/wp-json/wp/v2/tags?post=76"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+},{
+  "id": 11,
+  "date": "2011-06-18T15:45:33",
+  "date_gmt": "2011-06-18T15:45:33",
+  "guid": {
+    "rendered": "http://burgos.tomalaplaza.net/files/2011/06/cropped-cid.jpg"
+  },
+  "modified": "2011-06-18T15:45:33",
+  "modified_gmt": "2011-06-18T15:45:33",
+  "slug": "cropped-cid-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://burgos.tomalaplaza.net/cropped-cid-jpg/",
+  "title": {
+    "rendered": "cropped-cid.jpg"
+  },
+  "author": 645,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://burgos.tomalaplaza.net/files/2011/06/cropped-cid.jpg'><img width=\"300\" height=\"63\" src=\"https://burgos.tomalaplaza.net/files/2011/06/cropped-cid-300x63.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://burgos.tomalaplaza.net/files/2011/06/cropped-cid-300x63.jpg 300w, https://burgos.tomalaplaza.net/files/2011/06/cropped-cid.jpg 940w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>http://burgos.tomalaplaza.net/files/2011/06/cropped-cid.jpg</p>\n"
+  },
+  "caption": {
+    "rendered": "<p>http://burgos.tomalaplaza.net/files/2011/06/cropped-cid.jpg</p>\n"
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": "940",
+    "height": "198",
+    "hwstring_small": "height='26' width='128'",
+    "file": "2011/06/cropped-cid.jpg",
+    "sizes": {
+      "thumbnail": {
+        "file": "cropped-cid-150x150.jpg",
+        "width": "150",
+        "height": "150",
+        "source_url": "https://burgos.tomalaplaza.net/files/2011/06/cropped-cid-150x150.jpg"
+      },
+      "medium": {
+        "file": "cropped-cid-300x63.jpg",
+        "width": "300",
+        "height": "63",
+        "source_url": "https://burgos.tomalaplaza.net/files/2011/06/cropped-cid-300x63.jpg"
+      },
+      "full": {
+        "file": "cropped-cid.jpg",
+        "width": 940,
+        "height": 198,
         "mime_type": "image/jpeg",
-        "media_details": {
-            "width": "940",
-            "height": "198",
-            "hwstring_small": "height='26' width='128'",
-            "file": "2011/06/cropped-cid.jpg",
-            "sizes": {
-                "thumbnail": {
-                    "file": "cropped-cid-150x150.jpg",
-                    "width": "150",
-                    "height": "150",
-                    "source_url": "https://burgos.tomalaplaza.net/files/2011/06/cropped-cid-150x150.jpg"
-                },
-                "medium": {
-                    "file": "cropped-cid-300x63.jpg",
-                    "width": "300",
-                    "height": "63",
-                    "source_url": "https://burgos.tomalaplaza.net/files/2011/06/cropped-cid-300x63.jpg"
-                },
-                "full": {
-                    "file": "cropped-cid.jpg",
-                    "width": 940,
-                    "height": 198,
-                    "mime_type": "image/jpeg",
-                    "source_url": "https://burgos.tomalaplaza.net/files/2011/06/cropped-cid.jpg"
-                }
-            },
-            "image_meta": {
-                "aperture": "0",
-                "credit": "",
-                "camera": "",
-                "caption": "",
-                "created_timestamp": "0",
-                "copyright": "",
-                "focal_length": "0",
-                "iso": "0",
-                "shutter_speed": "0",
-                "title": ""
-            }
-        },
-        "post": null,
-        "source_url": "https://burgos.tomalaplaza.net/files/2011/06/cropped-cid.jpg",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://burgos.tomalaplaza.net/wp-json/wp/v2/media/11"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://burgos.tomalaplaza.net/wp-json/wp/v2/media"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://burgos.tomalaplaza.net/wp-json/wp/v2/types/attachment"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://burgos.tomalaplaza.net/wp-json/wp/v2/users/645"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://burgos.tomalaplaza.net/wp-json/wp/v2/comments?post=11"
-                }
-            ]
-        }
+        "source_url": "https://burgos.tomalaplaza.net/files/2011/06/cropped-cid.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": ""
     }
-]
+  },
+  "post": null,
+  "source_url": "https://burgos.tomalaplaza.net/files/2011/06/cropped-cid.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://burgos.tomalaplaza.net/wp-json/wp/v2/media/11"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://burgos.tomalaplaza.net/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://burgos.tomalaplaza.net/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://burgos.tomalaplaza.net/wp-json/wp/v2/users/645"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://burgos.tomalaplaza.net/wp-json/wp/v2/comments?post=11"
+      }
+    ]
+  }
+}]

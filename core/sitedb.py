@@ -46,8 +46,8 @@ class SiteDBLite(DBLite):
     def get_site_id(self, site):
         if site not in self.id_sites:
             self.id_sites[site] = self.one("select ID from sites where url = '" + site + "'")
-        if site not in self.id_sites:
-            raise Exception("No se ha encontrad el ID del site "+site)
+        if site not in self.id_sites or self.id_sites[site] is None:
+            raise Exception("No se ha encontrado el ID del site "+site)
         return self.id_sites[site]
 
     def insert(self, table, **kargv):
@@ -122,7 +122,7 @@ class SiteDBLite(DBLite):
         if site is not None:
             where = " where site = "+str(site)
         fch = []
-        for t, c in self.find_cols("date"):
+        for t, c in self.find_cols("date", "modified"):
             if site is not None and "site" not in self.tables[t]:
                 continue
             fch.append("select substr({0}, 1, 10) d from {1}".format(c, t)+where)
@@ -152,6 +152,8 @@ class SiteDBLite(DBLite):
             phpbb_topics
             phpbb_posts
             phpbb_media
+            wk_pages
+            wk_media
         '''.strip().split())
         for t in tables:
             if t not in self.tables:
@@ -249,6 +251,37 @@ class SiteDBLite(DBLite):
                     ''' % max_site)
                 md.write(md_row.format(**row).strip())
             md.write("")
+            sites = self.select("select id, url from sites where type='wiki'")
+            sites = sorted(sites, key=_sort_sites)
+            max_site = max(len(x[1]) for x in sites)
+            md.write(dedent('''
+                # MediaWiki
+
+                | SITE | pages | Último uso | 1º uso |
+                |:-----|------:|-----------:|-------:|
+            ''').strip())
+            for id, url in sites:
+                info = self.get_info(id)
+                row = dict(info.counts)
+                row["ini"] = info.ini
+                row["fin"] = info.fin
+                row["site"] = url
+                if table_link:
+                    md_row = build_tr('''
+                        [{site}](http://{site})
+                        {wk_pages}
+                        {fin}
+                        {ini}
+                    ''', space="")
+                else:
+                    md_row = build_tr('''
+                        {site:<%s}
+                        {wk_pages:>6}
+                        {fin}
+                        {ini}
+                    ''' % max_site)
+                md.write(md_row.format(**row).strip())
+            md.write("")
             if table_link:
                 md.write(dedent('''
                     Para reordenar la tabla puede usar las extensiones
@@ -262,7 +295,8 @@ class SiteDBLite(DBLite):
         re_rem = re.compile(r"^\s*_.*$", re.MULTILINE)
         with open(file, "w") as f:
             write(f, "BEGIN TRANSACTION")
-            write(f, "DELETE from wp_tags where (site, post) in (select site, id from wp_posts where url is null)")
+            write(f, "DELETE from wp_tags where (site, post) in (select site, id from wp_posts where url is null);")
+            write(f, "DELETE from wk_media where url is null;")
             sql = "SELECT type, name FROM sqlite_master WHERE type in ('view', 'table') and name like '^_%' ESCAPE '^'"
             for r in self.select(sql):
                 write(f, "DROP {0} {1}", *r, end=";\n")

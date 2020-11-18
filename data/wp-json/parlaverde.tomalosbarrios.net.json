@@ -1,1289 +1,1275 @@
-[
-    {
-        "id": 147,
-        "date": "2016-11-02T20:06:58",
-        "date_gmt": "2016-11-02T20:06:58",
-        "guid": {
-            "rendered": "http://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo.jpg"
-        },
-        "modified": "2016-11-02T20:06:58",
-        "modified_gmt": "2016-11-02T20:06:58",
-        "slug": "cropped-logo-jpg",
-        "status": "inherit",
-        "type": "attachment",
-        "link": "https://parlaverde.tomalosbarrios.net/cropped-logo-jpg",
-        "title": {
-            "rendered": "cropped-logo.jpg"
-        },
-        "author": 864,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "description": {
-            "rendered": "<p class=\"attachment\"><a href='https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo.jpg'><img width=\"300\" height=\"300\" src=\"https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo-300x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo-300x300.jpg 300w, https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo-150x150.jpg 150w, https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo-144x144.jpg 144w, https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo-270x270.jpg 270w, https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo-192x192.jpg 192w, https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo-180x180.jpg 180w, https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo-32x32.jpg 32w, https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo.jpg 512w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>http://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo.jpg</p>\n"
-        },
-        "caption": {
-            "rendered": "<p>http://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo.jpg</p>\n"
-        },
-        "alt_text": "",
-        "media_type": "image",
+[{
+  "id": 147,
+  "date": "2016-11-02T20:06:58",
+  "date_gmt": "2016-11-02T20:06:58",
+  "guid": {
+    "rendered": "http://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo.jpg"
+  },
+  "modified": "2016-11-02T20:06:58",
+  "modified_gmt": "2016-11-02T20:06:58",
+  "slug": "cropped-logo-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://parlaverde.tomalosbarrios.net/cropped-logo-jpg",
+  "title": {
+    "rendered": "cropped-logo.jpg"
+  },
+  "author": 864,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo.jpg'><img width=\"300\" height=\"300\" src=\"https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo-300x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo-300x300.jpg 300w, https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo-150x150.jpg 150w, https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo-144x144.jpg 144w, https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo-270x270.jpg 270w, https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo-192x192.jpg 192w, https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo-180x180.jpg 180w, https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo-32x32.jpg 32w, https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo.jpg 512w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>http://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo.jpg</p>\n"
+  },
+  "caption": {
+    "rendered": "<p>http://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo.jpg</p>\n"
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 512,
+    "height": 512,
+    "file": "2016/11/cropped-logo.jpg",
+    "sizes": {
+      "thumbnail": {
+        "file": "cropped-logo-150x150.jpg",
+        "width": 150,
+        "height": 150,
         "mime_type": "image/jpeg",
-        "media_details": {
-            "width": 512,
-            "height": 512,
-            "file": "2016/11/cropped-logo.jpg",
-            "sizes": {
-                "thumbnail": {
-                    "file": "cropped-logo-150x150.jpg",
-                    "width": 150,
-                    "height": 150,
-                    "mime_type": "image/jpeg",
-                    "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo-150x150.jpg"
-                },
-                "medium": {
-                    "file": "cropped-logo-300x300.jpg",
-                    "width": 300,
-                    "height": 300,
-                    "mime_type": "image/jpeg",
-                    "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo-300x300.jpg"
-                },
-                "wptouch-new-thumbnail": {
-                    "file": "cropped-logo-144x144.jpg",
-                    "width": 144,
-                    "height": 144,
-                    "mime_type": "image/jpeg",
-                    "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo-144x144.jpg"
-                },
-                "site_icon-270": {
-                    "file": "cropped-logo-270x270.jpg",
-                    "width": 270,
-                    "height": 270,
-                    "mime_type": "image/jpeg",
-                    "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo-270x270.jpg"
-                },
-                "site_icon-192": {
-                    "file": "cropped-logo-192x192.jpg",
-                    "width": 192,
-                    "height": 192,
-                    "mime_type": "image/jpeg",
-                    "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo-192x192.jpg"
-                },
-                "site_icon-180": {
-                    "file": "cropped-logo-180x180.jpg",
-                    "width": 180,
-                    "height": 180,
-                    "mime_type": "image/jpeg",
-                    "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo-180x180.jpg"
-                },
-                "site_icon-32": {
-                    "file": "cropped-logo-32x32.jpg",
-                    "width": 32,
-                    "height": 32,
-                    "mime_type": "image/jpeg",
-                    "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo-32x32.jpg"
-                },
-                "full": {
-                    "file": "cropped-logo.jpg",
-                    "width": 512,
-                    "height": 512,
-                    "mime_type": "image/jpeg",
-                    "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo.jpg"
-                }
-            },
-            "image_meta": {
-                "aperture": "0",
-                "credit": "",
-                "camera": "",
-                "caption": "",
-                "created_timestamp": "0",
-                "copyright": "",
-                "focal_length": "0",
-                "iso": "0",
-                "shutter_speed": "0",
-                "title": "",
-                "orientation": "0",
-                "keywords": []
-            }
-        },
-        "post": null,
-        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo.jpg",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media/147"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/types/attachment"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/users/864"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/comments?post=147"
-                }
-            ]
-        }
-    },
-    {
-        "id": 146,
-        "date": "2016-11-02T20:06:40",
-        "date_gmt": "2016-11-02T20:06:40",
-        "guid": {
-            "rendered": "http://parlaverde.tomalosbarrios.net/files/2016/11/logo.jpg"
-        },
-        "modified": "2016-11-02T20:06:40",
-        "modified_gmt": "2016-11-02T20:06:40",
-        "slug": "logo",
-        "status": "inherit",
-        "type": "attachment",
-        "link": "https://parlaverde.tomalosbarrios.net/logo",
-        "title": {
-            "rendered": "logo"
-        },
-        "author": 864,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "description": {
-            "rendered": "<p class=\"attachment\"><a href='https://parlaverde.tomalosbarrios.net/files/2016/11/logo.jpg'><img width=\"166\" height=\"200\" src=\"https://parlaverde.tomalosbarrios.net/files/2016/11/logo.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" /></a></p>\n"
-        },
-        "caption": {
-            "rendered": ""
-        },
-        "alt_text": "",
-        "media_type": "image",
+        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo-150x150.jpg"
+      },
+      "medium": {
+        "file": "cropped-logo-300x300.jpg",
+        "width": 300,
+        "height": 300,
         "mime_type": "image/jpeg",
-        "media_details": {
-            "width": 166,
-            "height": 200,
-            "file": "2016/11/logo.jpg",
-            "sizes": {
-                "thumbnail": {
-                    "file": "logo-150x150.jpg",
-                    "width": 150,
-                    "height": 150,
-                    "mime_type": "image/jpeg",
-                    "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/logo-150x150.jpg"
-                },
-                "wptouch-new-thumbnail": {
-                    "file": "logo-144x144.jpg",
-                    "width": 144,
-                    "height": 144,
-                    "mime_type": "image/jpeg",
-                    "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/logo-144x144.jpg"
-                },
-                "full": {
-                    "file": "logo.jpg",
-                    "width": 166,
-                    "height": 200,
-                    "mime_type": "image/jpeg",
-                    "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/logo.jpg"
-                }
-            },
-            "image_meta": {
-                "aperture": "0",
-                "credit": "",
-                "camera": "",
-                "caption": "",
-                "created_timestamp": "0",
-                "copyright": "",
-                "focal_length": "0",
-                "iso": "0",
-                "shutter_speed": "0",
-                "title": "",
-                "orientation": "0",
-                "keywords": []
-            }
-        },
-        "post": null,
-        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/logo.jpg",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media/146"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/types/attachment"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/users/864"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/comments?post=146"
-                }
-            ]
-        }
-    },
-    {
-        "id": 145,
-        "date": "2016-11-02T20:06:24",
-        "date_gmt": "2016-11-02T20:06:24",
-        "guid": {
-            "rendered": "http://parlaverde.tomalosbarrios.net/files/2016/11/logo-grande.jpg"
-        },
-        "modified": "2016-11-02T20:06:24",
-        "modified_gmt": "2016-11-02T20:06:24",
-        "slug": "logo-grande",
-        "status": "inherit",
-        "type": "attachment",
-        "link": "https://parlaverde.tomalosbarrios.net/logo-grande",
-        "title": {
-            "rendered": "logo-grande"
-        },
-        "author": 864,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "description": {
-            "rendered": "<p class=\"attachment\"><a href='https://parlaverde.tomalosbarrios.net/files/2016/11/logo-grande.jpg'><img width=\"249\" height=\"300\" src=\"https://parlaverde.tomalosbarrios.net/files/2016/11/logo-grande-249x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://parlaverde.tomalosbarrios.net/files/2016/11/logo-grande-249x300.jpg 249w, https://parlaverde.tomalosbarrios.net/files/2016/11/logo-grande.jpg 498w\" sizes=\"(max-width: 249px) 100vw, 249px\" /></a></p>\n"
-        },
-        "caption": {
-            "rendered": ""
-        },
-        "alt_text": "",
-        "media_type": "image",
+        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo-300x300.jpg"
+      },
+      "wptouch-new-thumbnail": {
+        "file": "cropped-logo-144x144.jpg",
+        "width": 144,
+        "height": 144,
         "mime_type": "image/jpeg",
-        "media_details": {
-            "width": 498,
-            "height": 600,
-            "file": "2016/11/logo-grande.jpg",
-            "sizes": {
-                "thumbnail": {
-                    "file": "logo-grande-150x150.jpg",
-                    "width": 150,
-                    "height": 150,
-                    "mime_type": "image/jpeg",
-                    "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/logo-grande-150x150.jpg"
-                },
-                "medium": {
-                    "file": "logo-grande-249x300.jpg",
-                    "width": 249,
-                    "height": 300,
-                    "mime_type": "image/jpeg",
-                    "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/logo-grande-249x300.jpg"
-                },
-                "wptouch-new-thumbnail": {
-                    "file": "logo-grande-144x144.jpg",
-                    "width": 144,
-                    "height": 144,
-                    "mime_type": "image/jpeg",
-                    "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/logo-grande-144x144.jpg"
-                },
-                "full": {
-                    "file": "logo-grande.jpg",
-                    "width": 498,
-                    "height": 600,
-                    "mime_type": "image/jpeg",
-                    "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/logo-grande.jpg"
-                }
-            },
-            "image_meta": {
-                "aperture": "0",
-                "credit": "",
-                "camera": "",
-                "caption": "",
-                "created_timestamp": "0",
-                "copyright": "",
-                "focal_length": "0",
-                "iso": "0",
-                "shutter_speed": "0",
-                "title": "",
-                "orientation": "0",
-                "keywords": []
-            }
-        },
-        "post": null,
-        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/logo-grande.jpg",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media/145"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/types/attachment"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/users/864"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/comments?post=145"
-                }
-            ]
-        }
+        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo-144x144.jpg"
+      },
+      "site_icon-270": {
+        "file": "cropped-logo-270x270.jpg",
+        "width": 270,
+        "height": 270,
+        "mime_type": "image/jpeg",
+        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo-270x270.jpg"
+      },
+      "site_icon-192": {
+        "file": "cropped-logo-192x192.jpg",
+        "width": 192,
+        "height": 192,
+        "mime_type": "image/jpeg",
+        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo-192x192.jpg"
+      },
+      "site_icon-180": {
+        "file": "cropped-logo-180x180.jpg",
+        "width": 180,
+        "height": 180,
+        "mime_type": "image/jpeg",
+        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo-180x180.jpg"
+      },
+      "site_icon-32": {
+        "file": "cropped-logo-32x32.jpg",
+        "width": 32,
+        "height": 32,
+        "mime_type": "image/jpeg",
+        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo-32x32.jpg"
+      },
+      "full": {
+        "file": "cropped-logo.jpg",
+        "width": 512,
+        "height": 512,
+        "mime_type": "image/jpeg",
+        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo.jpg"
+      }
     },
-    {
-        "id": 144,
-        "date": "2016-11-02T13:58:45",
-        "date_gmt": "2016-11-02T13:58:45",
-        "guid": {
-            "rendered": "http://parlaverde.tomalosbarrios.net/files/2016/11/favicon-1-1.png"
-        },
-        "modified": "2016-11-02T13:58:45",
-        "modified_gmt": "2016-11-02T13:58:45",
-        "slug": "favicon-1-2",
-        "status": "inherit",
-        "type": "attachment",
-        "link": "https://parlaverde.tomalosbarrios.net/favicon-1-2",
-        "title": {
-            "rendered": "favicon-1"
-        },
-        "author": 864,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "description": {
-            "rendered": "<p class=\"attachment\"><a href='https://parlaverde.tomalosbarrios.net/files/2016/11/favicon-1-1.png'><img width=\"128\" height=\"128\" src=\"https://parlaverde.tomalosbarrios.net/files/2016/11/favicon-1-1.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" /></a></p>\n"
-        },
-        "caption": {
-            "rendered": ""
-        },
-        "alt_text": "",
-        "media_type": "image",
-        "mime_type": "image/png",
-        "media_details": {
-            "width": 128,
-            "height": 128,
-            "file": "2016/11/favicon-1-1.png",
-            "sizes": {},
-            "image_meta": {
-                "aperture": "0",
-                "credit": "",
-                "camera": "",
-                "caption": "",
-                "created_timestamp": "0",
-                "copyright": "",
-                "focal_length": "0",
-                "iso": "0",
-                "shutter_speed": "0",
-                "title": "",
-                "orientation": "0",
-                "keywords": []
-            }
-        },
-        "post": null,
-        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/favicon-1-1.png",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media/144"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/types/attachment"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/users/864"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/comments?post=144"
-                }
-            ]
-        }
-    },
-    {
-        "id": 143,
-        "date": "2016-11-02T13:53:40",
-        "date_gmt": "2016-11-02T13:53:40",
-        "guid": {
-            "rendered": "http://parlaverde.tomalosbarrios.net/files/2016/11/favicon-1.png"
-        },
-        "modified": "2016-11-02T13:53:40",
-        "modified_gmt": "2016-11-02T13:53:40",
-        "slug": "favicon-1",
-        "status": "inherit",
-        "type": "attachment",
-        "link": "https://parlaverde.tomalosbarrios.net/favicon-1",
-        "title": {
-            "rendered": "favicon-1"
-        },
-        "author": 864,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "description": {
-            "rendered": "<p class=\"attachment\"><a href='https://parlaverde.tomalosbarrios.net/files/2016/11/favicon-1.png'><img width=\"128\" height=\"128\" src=\"https://parlaverde.tomalosbarrios.net/files/2016/11/favicon-1.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" /></a></p>\n"
-        },
-        "caption": {
-            "rendered": ""
-        },
-        "alt_text": "",
-        "media_type": "image",
-        "mime_type": "image/png",
-        "media_details": {
-            "width": 128,
-            "height": 128,
-            "file": "2016/11/favicon-1.png",
-            "sizes": {},
-            "image_meta": {
-                "aperture": "0",
-                "credit": "",
-                "camera": "",
-                "caption": "",
-                "created_timestamp": "0",
-                "copyright": "",
-                "focal_length": "0",
-                "iso": "0",
-                "shutter_speed": "0",
-                "title": "",
-                "orientation": "0",
-                "keywords": []
-            }
-        },
-        "post": null,
-        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/favicon-1.png",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media/143"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/types/attachment"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/users/864"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/comments?post=143"
-                }
-            ]
-        }
-    },
-    {
-        "id": 142,
-        "date": "2016-11-02T12:48:57",
-        "date_gmt": "2016-11-02T12:48:57",
-        "guid": {
-            "rendered": "http://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon.png"
-        },
-        "modified": "2016-11-02T12:48:57",
-        "modified_gmt": "2016-11-02T12:48:57",
-        "slug": "cropped-favicon-png",
-        "status": "inherit",
-        "type": "attachment",
-        "link": "https://parlaverde.tomalosbarrios.net/cropped-favicon-png",
-        "title": {
-            "rendered": "cropped-favicon.png"
-        },
-        "author": 864,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "description": {
-            "rendered": "<p class=\"attachment\"><a href='https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon.png'><img width=\"300\" height=\"300\" src=\"https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon-300x300.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon-300x300.png 300w, https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon-150x150.png 150w, https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon-144x144.png 144w, https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon-270x270.png 270w, https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon-192x192.png 192w, https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon-180x180.png 180w, https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon-32x32.png 32w, https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon.png 512w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>http://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon.png</p>\n"
-        },
-        "caption": {
-            "rendered": "<p>http://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon.png</p>\n"
-        },
-        "alt_text": "",
-        "media_type": "image",
-        "mime_type": "image/png",
-        "media_details": {
-            "width": 512,
-            "height": 512,
-            "file": "2016/11/cropped-favicon.png",
-            "sizes": {
-                "thumbnail": {
-                    "file": "cropped-favicon-150x150.png",
-                    "width": 150,
-                    "height": 150,
-                    "mime_type": "image/png",
-                    "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon-150x150.png"
-                },
-                "medium": {
-                    "file": "cropped-favicon-300x300.png",
-                    "width": 300,
-                    "height": 300,
-                    "mime_type": "image/png",
-                    "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon-300x300.png"
-                },
-                "wptouch-new-thumbnail": {
-                    "file": "cropped-favicon-144x144.png",
-                    "width": 144,
-                    "height": 144,
-                    "mime_type": "image/png",
-                    "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon-144x144.png"
-                },
-                "site_icon-270": {
-                    "file": "cropped-favicon-270x270.png",
-                    "width": 270,
-                    "height": 270,
-                    "mime_type": "image/png",
-                    "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon-270x270.png"
-                },
-                "site_icon-192": {
-                    "file": "cropped-favicon-192x192.png",
-                    "width": 192,
-                    "height": 192,
-                    "mime_type": "image/png",
-                    "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon-192x192.png"
-                },
-                "site_icon-180": {
-                    "file": "cropped-favicon-180x180.png",
-                    "width": 180,
-                    "height": 180,
-                    "mime_type": "image/png",
-                    "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon-180x180.png"
-                },
-                "site_icon-32": {
-                    "file": "cropped-favicon-32x32.png",
-                    "width": 32,
-                    "height": 32,
-                    "mime_type": "image/png",
-                    "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon-32x32.png"
-                },
-                "full": {
-                    "file": "cropped-favicon.png",
-                    "width": 512,
-                    "height": 512,
-                    "mime_type": "image/png",
-                    "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon.png"
-                }
-            },
-            "image_meta": {
-                "aperture": "0",
-                "credit": "",
-                "camera": "",
-                "caption": "",
-                "created_timestamp": "0",
-                "copyright": "",
-                "focal_length": "0",
-                "iso": "0",
-                "shutter_speed": "0",
-                "title": "",
-                "orientation": "0",
-                "keywords": []
-            }
-        },
-        "post": null,
-        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon.png",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media/142"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/types/attachment"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/users/864"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/comments?post=142"
-                }
-            ]
-        }
-    },
-    {
-        "id": 141,
-        "date": "2016-11-02T12:47:51",
-        "date_gmt": "2016-11-02T12:47:51",
-        "guid": {
-            "rendered": "http://parlaverde.tomalosbarrios.net/files/2016/11/favicon.png"
-        },
-        "modified": "2016-11-02T12:47:51",
-        "modified_gmt": "2016-11-02T12:47:51",
-        "slug": "favicon",
-        "status": "inherit",
-        "type": "attachment",
-        "link": "https://parlaverde.tomalosbarrios.net/favicon",
-        "title": {
-            "rendered": "favicon"
-        },
-        "author": 864,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "description": {
-            "rendered": "<p class=\"attachment\"><a href='https://parlaverde.tomalosbarrios.net/files/2016/11/favicon.png'><img width=\"32\" height=\"32\" src=\"https://parlaverde.tomalosbarrios.net/files/2016/11/favicon.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" /></a></p>\n"
-        },
-        "caption": {
-            "rendered": ""
-        },
-        "alt_text": "",
-        "media_type": "image",
-        "mime_type": "image/png",
-        "media_details": {
-            "width": 32,
-            "height": 32,
-            "file": "2016/11/favicon.png",
-            "sizes": {},
-            "image_meta": {
-                "aperture": "0",
-                "credit": "",
-                "camera": "",
-                "caption": "",
-                "created_timestamp": "0",
-                "copyright": "",
-                "focal_length": "0",
-                "iso": "0",
-                "shutter_speed": "0",
-                "title": "",
-                "orientation": "0",
-                "keywords": []
-            }
-        },
-        "post": null,
-        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/favicon.png",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media/141"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/types/attachment"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/users/864"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/comments?post=141"
-                }
-            ]
-        }
-    },
-    {
-        "id": 140,
-        "date": "2016-11-02T12:45:10",
-        "date_gmt": "2016-11-02T12:45:10",
-        "guid": {
-            "rendered": "http://parlaverde.tomalosbarrios.net/files/2016/11/tree-146948_1280.png"
-        },
-        "modified": "2016-11-02T12:45:10",
-        "modified_gmt": "2016-11-02T12:45:10",
-        "slug": "tree-146948_1280",
-        "status": "inherit",
-        "type": "attachment",
-        "link": "https://parlaverde.tomalosbarrios.net/tree-146948_1280",
-        "title": {
-            "rendered": "tree-146948_1280"
-        },
-        "author": 864,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "description": {
-            "rendered": "<p class=\"attachment\"><a href='https://parlaverde.tomalosbarrios.net/files/2016/11/tree-146948_1280.png'><img width=\"165\" height=\"300\" src=\"https://parlaverde.tomalosbarrios.net/files/2016/11/tree-146948_1280-165x300.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://parlaverde.tomalosbarrios.net/files/2016/11/tree-146948_1280-165x300.png 165w, https://parlaverde.tomalosbarrios.net/files/2016/11/tree-146948_1280-562x1024.png 562w, https://parlaverde.tomalosbarrios.net/files/2016/11/tree-146948_1280.png 702w\" sizes=\"(max-width: 165px) 100vw, 165px\" /></a></p>\n"
-        },
-        "caption": {
-            "rendered": ""
-        },
-        "alt_text": "",
-        "media_type": "image",
-        "mime_type": "image/png",
-        "media_details": {
-            "width": 702,
-            "height": 1280,
-            "file": "2016/11/tree-146948_1280.png",
-            "sizes": {
-                "thumbnail": {
-                    "file": "tree-146948_1280-150x150.png",
-                    "width": 150,
-                    "height": 150,
-                    "mime_type": "image/png",
-                    "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/tree-146948_1280-150x150.png"
-                },
-                "medium": {
-                    "file": "tree-146948_1280-165x300.png",
-                    "width": 165,
-                    "height": 300,
-                    "mime_type": "image/png",
-                    "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/tree-146948_1280-165x300.png"
-                },
-                "large": {
-                    "file": "tree-146948_1280-562x1024.png",
-                    "width": 562,
-                    "height": 1024,
-                    "mime_type": "image/png",
-                    "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/tree-146948_1280-562x1024.png"
-                },
-                "wptouch-new-thumbnail": {
-                    "file": "tree-146948_1280-144x144.png",
-                    "width": 144,
-                    "height": 144,
-                    "mime_type": "image/png",
-                    "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/tree-146948_1280-144x144.png"
-                },
-                "full": {
-                    "file": "tree-146948_1280.png",
-                    "width": 702,
-                    "height": 1280,
-                    "mime_type": "image/png",
-                    "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/tree-146948_1280.png"
-                }
-            },
-            "image_meta": {
-                "aperture": "0",
-                "credit": "",
-                "camera": "",
-                "caption": "",
-                "created_timestamp": "0",
-                "copyright": "",
-                "focal_length": "0",
-                "iso": "0",
-                "shutter_speed": "0",
-                "title": "",
-                "orientation": "0",
-                "keywords": []
-            }
-        },
-        "post": null,
-        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/tree-146948_1280.png",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media/140"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/types/attachment"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/users/864"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/comments?post=140"
-                }
-            ]
-        }
-    },
-    {
-        "id": 133,
-        "date": "2016-11-01T10:30:36",
-        "date_gmt": "2016-11-01T10:30:36",
-        "guid": {
-            "rendered": "http://parlaverde.tomalosbarrios.net/?page_id=133"
-        },
-        "modified": "2016-11-02T20:58:21",
-        "modified_gmt": "2016-11-02T20:58:21",
-        "slug": "como-formar-parte-del-grupo",
-        "status": "publish",
-        "type": "page",
-        "link": "https://parlaverde.tomalosbarrios.net/como-formar-parte-del-grupo",
-        "title": {
-            "rendered": "C\u00f3mo formar parte del Grupo"
-        },
-        "content": {
-            "rendered": "<div style=\"background: white;padding: 10px\">\n<p style=\"text-align: center\"><strong><em><u>Pasos a seguir</u></em></strong></p>\n<ol>\n<li style=\"text-align: justify\">Registrarse en<span style=\"text-decoration: underline\"><strong> <a href=\"https://karakolas.cancamusa.net/\" target=\"_blank\">Karakolas</a></strong></span></li>\n<li style=\"text-align: justify\">Buscar el <strong>Grupo de Consumo de Parla </strong>y apuntarse en la lista de espera del mismo</li>\n<li style=\"text-align: justify\">Escribir un correo electr\u00f3nico con vuestro nombre y n\u00famero de tel\u00e9fono a <a href=\"mailto:grupoconsumoparla@gmail.com\">grupoconsumoparla@gmail.com</a> avisando de que est\u00e1is en lista de espera.</li>\n<li style=\"text-align: justify\">A partir de ese momento se os dar\u00e1 de alta en la herramienta de Karakolas para que pod\u00e1is ver los productos que pedimos (<em>estar\u00e9is activos una semana)</em>.</li>\n<li style=\"text-align: justify\">Si al final tom\u00e1is la decisi\u00f3n de formar parte del grupo volved a enviarnos un correo electr\u00f3nico y quedaremos con vosotros o vosotras para poderos explicar en persona todas las herramientas de comunicaci\u00f3n del grupo, cuotas y como nos autogestionamos.</li>\n<li style=\"text-align: justify\">En la misma reuni\u00f3n os incluiremos en el grupo de Whatsapp y os pasaremos claves y contrase\u00f1as del Drive en el que tenemos toda la documentaci\u00f3n interna del grupo: actas, cuentas, etc&#8230;.</li>\n</ol>\n<h5 style=\"text-align: right\"><em>NOTA: Las instrucciones para utilizar Karakolas las ten\u00e9is en un enlace a la derecha de este texto.</em></h5>\n<hr />\n<p style=\"text-align: center\"><strong><em><u>Cuota \u00fanica al darse de alta en el Grupo de Consumo</u></em></strong></p>\n<p style=\"text-align: justify\">Al entrar a formar parte del Grupo se paga una cuota <strong>\u00daNICA</strong> de 16 euros que va a parar a un fondo com\u00fan destinado a cubrir gastos generales como: aportaciones para mantener la p\u00e1gina web, aportaciones para el local, gastos de material (b\u00e1sculas, etc.) y cualquier otro gasto com\u00fan que le surja al Grupo.</p>\n<p style=\"text-align: justify\">Esta cuota se abona al entrar a formar parte del grupo y no se a\u00f1ade al saldo personal.</p>\n</div>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Pasos a seguir Registrarse en Karakolas Buscar el Grupo de Consumo de Parla y apuntarse en la lista de espera del mismo Escribir un correo electr\u00f3nico con vuestro nombre y n\u00famero de tel\u00e9fono a grupoconsumoparla@gmail.com avisando de que est\u00e1is en &hellip; <a href=\"https://parlaverde.tomalosbarrios.net/como-formar-parte-del-grupo\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
-            "protected": false
-        },
-        "author": 864,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/133"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/users/864"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/comments?post=133"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 3,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/133/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 152,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/133/revisions/152"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media?parent=133"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 131,
-        "date": "2016-11-01T10:28:54",
-        "date_gmt": "2016-11-01T10:28:54",
-        "guid": {
-            "rendered": "http://parlaverde.tomalosbarrios.net/?page_id=131"
-        },
-        "modified": "2016-11-02T20:59:08",
-        "modified_gmt": "2016-11-02T20:59:08",
-        "slug": "pedidos-y-pagos",
-        "status": "publish",
-        "type": "page",
-        "link": "https://parlaverde.tomalosbarrios.net/pedidos-y-pagos",
-        "title": {
-            "rendered": "Pedidos y Pagos"
-        },
-        "content": {
-            "rendered": "<div style=\"background: white;padding: 10px\">\n<h2 style=\"text-align: center\"><strong><em><u>Pedidos</u></em></strong></h2>\n<p style=\"text-align: justify\">Los pedidos los realizamos a trav\u00e9s de Karakolas (herramienta online) una semana antes de la recepci\u00f3n del mismo.</p>\n<p style=\"text-align: justify\">A trav\u00e9s del correo electr\u00f3nico recibimos toda la informaci\u00f3n que llega al grupo: informaci\u00f3n sobre los pedidos, incidencias de los mismos, etc.</p>\n<p style=\"text-align: justify\">Para la comunicaci\u00f3n r\u00e1pida y continua nos organizamos a trav\u00e9s de un grupo de whatsapp.</p>\n<hr />\n<h2 style=\"text-align: center\"><strong><em><u>Pagos</u></em></strong></h2>\n<p style=\"text-align: justify\">Los pedidos se pagan en efectivo cuando se recogen los productos.</p>\n<p style=\"text-align: justify\">Cada persona calcula el dinero que puede gastar al mes en pedidos y adelanta la cantidad estimada para que pueda hacerse frente a los pagos.</p>\n<p style=\"text-align: justify\">El grupo tiene un Drive por el que todas podremos estar al d\u00eda del saldo personal y de los movimientos del fondo com\u00fan<em> (se dispone de acceso pleno a esta informaci\u00f3n cuando se pasa a formar parte activa del grupo)</em></p>\n<p>&nbsp;</p>\n</div>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Pedidos Los pedidos los realizamos a trav\u00e9s de Karakolas (herramienta online) una semana antes de la recepci\u00f3n del mismo. A trav\u00e9s del correo electr\u00f3nico recibimos toda la informaci\u00f3n que llega al grupo: informaci\u00f3n sobre los pedidos, incidencias de los mismos, &hellip; <a href=\"https://parlaverde.tomalosbarrios.net/pedidos-y-pagos\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
-            "protected": false
-        },
-        "author": 864,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/131"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/users/864"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/comments?post=131"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 3,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/131/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 155,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/131/revisions/155"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media?parent=131"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 129,
-        "date": "2016-11-01T10:27:41",
-        "date_gmt": "2016-11-01T10:27:41",
-        "guid": {
-            "rendered": "http://parlaverde.tomalosbarrios.net/?page_id=129"
-        },
-        "modified": "2016-11-02T20:58:54",
-        "modified_gmt": "2016-11-02T20:58:54",
-        "slug": "distribuidores-y-productores",
-        "status": "publish",
-        "type": "page",
-        "link": "https://parlaverde.tomalosbarrios.net/distribuidores-y-productores",
-        "title": {
-            "rendered": "Distribuidores y Productores"
-        },
-        "content": {
-            "rendered": "<div style=\"background: white;padding: 10px\">\n<ul style=\"text-align: justify\">\n<li><a href=\"http://www.laecomarca.org/\" target=\"_blank\"><span style=\"text-decoration: underline\"><strong>La eComarca</strong></span><span style=\"text-decoration: underline\"><strong>, distribuidor en Madrid con una amplia gama de productos de todo tipo.</strong></span></a></li>\n</ul>\n<p style=\"text-align: justify\">Los pedidos se reciben los martes por la tarde, cada 15 d\u00edas, en el local situado en la C/ Jerusal\u00e9n, 15 posterior (entrando por el jard\u00edn).</p>\n<p style=\"text-align: justify\">Para la recogida de los productos existen dos turnos, uno sobre las 19:00- 19:30 (la hora exacta se comunica por el grupo de whatsapp) y otro entre las 21:00 y 21:15 horas</p>\n<hr />\n<ul style=\"text-align: justify\">\n<li><span style=\"text-decoration: underline\"><strong>Juan, productor valenciano de naranjas, mandarinas y limones.</strong></span></li>\n</ul>\n<p style=\"text-align: justify\">Los pedidos se reciben los martes, cada 15 d\u00edas, alternos a los martes de La eComarca</p>\n<p style=\"text-align: justify\">Los productos se recogen el mismo martes en horario de tienda en el herbolario Ventana Natural C/ San Ant\u00f3n, 37.</p>\n<hr />\n<ul style=\"text-align: justify\">\n<li><span style=\"text-decoration: underline\"><strong><a href=\"http://lamadrevieja.blogspot.com.es/\" target=\"_blank\">Huerta la Madre Vieja, productor de verduras de Ciempozuelos.</a></strong></span></li>\n</ul>\n<p style=\"text-align: justify\">Los pedidos se reciben los viernes de la misma semana en la que se recibe el pedido de La eComarca</p>\n<p style=\"text-align: justify\">Los productos se recogen el mismo viernes en horario de tienda en el herbolario Ventana Natural C/ San Ant\u00f3n, 37.</p>\n<hr />\n<ul style=\"text-align: justify\">\n<li><span style=\"text-decoration: underline\"><strong>Amancia, productora manchega de vinos, legumbres, etc.</strong></span></li>\n</ul>\n<p style=\"text-align: justify\">Los pedidos se reciben durante la semana del segundo pedido mensual de Ciempozuelos</p>\n<p style=\"text-align: justify\">Los productos se recogen el mismo d\u00eda que se recibe en horario de tienda en el herbolario Ventana Natural C/ San Ant\u00f3n, 37.</p>\n</div>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>La eComarca, distribuidor en Madrid con una amplia gama de productos de todo tipo. Los pedidos se reciben los martes por la tarde, cada 15 d\u00edas, en el local situado en la C/ Jerusal\u00e9n, 15 posterior (entrando por el jard\u00edn). &hellip; <a href=\"https://parlaverde.tomalosbarrios.net/distribuidores-y-productores\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
-            "protected": false
-        },
-        "author": 864,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/129"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/users/864"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/comments?post=129"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 2,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/129/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 154,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/129/revisions/154"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media?parent=129"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 127,
-        "date": "2016-11-01T10:26:10",
-        "date_gmt": "2016-11-01T10:26:10",
-        "guid": {
-            "rendered": "http://parlaverde.tomalosbarrios.net/?page_id=127"
-        },
-        "modified": "2016-11-02T20:58:02",
-        "modified_gmt": "2016-11-02T20:58:02",
-        "slug": "autogestion",
-        "status": "publish",
-        "type": "page",
-        "link": "https://parlaverde.tomalosbarrios.net/autogestion",
-        "title": {
-            "rendered": "Autogesti\u00f3n"
-        },
-        "content": {
-            "rendered": "<div style=\"background: white;padding: 10px\">\n<p style=\"text-align: justify\">Como somos un peque\u00f1o grupo autogestionado todas y todos tenemos tareas: gesti\u00f3n del correo, relaciones con el exterior, difusi\u00f3n, cuentas, apertura y cierre de pedidos, anotaci\u00f3n de incidencias, reparto de los productos recibidos por familias o personas, etc.</p>\n<p style=\"text-align: justify\">Tambi\u00e9n se contempla la posibilidad de que aquellas personas que no quieran participar en ninguna de las tareas de autogesti\u00f3n, puedan pagar 2 euros m\u00e1s por pedido y quedar\u00e1n exentas <em> (consenso recogido en acta).</em></p>\n</div>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Como somos un peque\u00f1o grupo autogestionado todas y todos tenemos tareas: gesti\u00f3n del correo, relaciones con el exterior, difusi\u00f3n, cuentas, apertura y cierre de pedidos, anotaci\u00f3n de incidencias, reparto de los productos recibidos por familias o personas, etc. Tambi\u00e9n se &hellip; <a href=\"https://parlaverde.tomalosbarrios.net/autogestion\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
-            "protected": false
-        },
-        "author": 864,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/127"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/users/864"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/comments?post=127"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 2,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/127/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 151,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/127/revisions/151"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media?parent=127"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 118,
-        "date": "2016-10-30T13:10:12",
-        "date_gmt": "2016-10-30T13:10:12",
-        "guid": {
-            "rendered": "http://parlaverde.tomalosbarrios.net/?page_id=118"
-        },
-        "modified": "2016-11-02T20:57:44",
-        "modified_gmt": "2016-11-02T20:57:44",
-        "slug": "grupo-de-consumo-parla",
-        "status": "publish",
-        "type": "page",
-        "link": "https://parlaverde.tomalosbarrios.net/",
-        "title": {
-            "rendered": "\u00bfQui\u00e9nes somos?"
-        },
-        "content": {
-            "rendered": "<div style=\"background: white;padding: 10px\">\n<p style=\"text-align: justify\">Un peque\u00f1o Grupo autogestionado de personas que promueven un modo de consumo que tenga en cuenta las consecuencias sociales y medioambientales.</p>\n<p style=\"text-align: justify\">Otro de nuestros objetivos es relacionarnos con distribuidores y productores que vendan sus productos en el <a href=\"http://www.konsumoresponsable.coop/blog/mercadosocialmadrid\" target=\"_blank\">Mercado Social</a> de Madrid <em>(red de comercios que trabajan con \u201cel boniato\u201d moneda alternativa al euro)</em> para de esta manera contribuir a una econom\u00eda alternativa para que personas con pocos recursos econ\u00f3micos puedan intercambiar su trabajo o productos por &#171;boniatos&#187; que despu\u00e9s podr\u00e1n utilizar como moneda de pago.</p>\n<p style=\"text-align: justify\">El Grupo naci\u00f3 del colectivo de Medio Ambiente 15M de Parla el 11 de octubre de 2012 y durante el 2013 desarrollamos un camino de consolidaci\u00f3n que nos ha llevado a lo que somos ahora, un grupo autogestionado.</p>\n</div>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Un peque\u00f1o Grupo autogestionado de personas que promueven un modo de consumo que tenga en cuenta las consecuencias sociales y medioambientales. Otro de nuestros objetivos es relacionarnos con distribuidores y productores que vendan sus productos en el Mercado Social de &hellip; <a href=\"https://parlaverde.tomalosbarrios.net/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
-            "protected": false
-        },
-        "author": 864,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/118"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/users/864"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/comments?post=118"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 9,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/118/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 150,
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/118/revisions/150"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media?parent=118"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
     }
-]
+  },
+  "post": null,
+  "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-logo.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media/147"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/users/864"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/comments?post=147"
+      }
+    ]
+  }
+},{
+  "id": 146,
+  "date": "2016-11-02T20:06:40",
+  "date_gmt": "2016-11-02T20:06:40",
+  "guid": {
+    "rendered": "http://parlaverde.tomalosbarrios.net/files/2016/11/logo.jpg"
+  },
+  "modified": "2016-11-02T20:06:40",
+  "modified_gmt": "2016-11-02T20:06:40",
+  "slug": "logo",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://parlaverde.tomalosbarrios.net/logo",
+  "title": {
+    "rendered": "logo"
+  },
+  "author": 864,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://parlaverde.tomalosbarrios.net/files/2016/11/logo.jpg'><img width=\"166\" height=\"200\" src=\"https://parlaverde.tomalosbarrios.net/files/2016/11/logo.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 166,
+    "height": 200,
+    "file": "2016/11/logo.jpg",
+    "sizes": {
+      "thumbnail": {
+        "file": "logo-150x150.jpg",
+        "width": 150,
+        "height": 150,
+        "mime_type": "image/jpeg",
+        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/logo-150x150.jpg"
+      },
+      "wptouch-new-thumbnail": {
+        "file": "logo-144x144.jpg",
+        "width": 144,
+        "height": 144,
+        "mime_type": "image/jpeg",
+        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/logo-144x144.jpg"
+      },
+      "full": {
+        "file": "logo.jpg",
+        "width": 166,
+        "height": 200,
+        "mime_type": "image/jpeg",
+        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/logo.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": null,
+  "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/logo.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media/146"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/users/864"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/comments?post=146"
+      }
+    ]
+  }
+},{
+  "id": 145,
+  "date": "2016-11-02T20:06:24",
+  "date_gmt": "2016-11-02T20:06:24",
+  "guid": {
+    "rendered": "http://parlaverde.tomalosbarrios.net/files/2016/11/logo-grande.jpg"
+  },
+  "modified": "2016-11-02T20:06:24",
+  "modified_gmt": "2016-11-02T20:06:24",
+  "slug": "logo-grande",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://parlaverde.tomalosbarrios.net/logo-grande",
+  "title": {
+    "rendered": "logo-grande"
+  },
+  "author": 864,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://parlaverde.tomalosbarrios.net/files/2016/11/logo-grande.jpg'><img width=\"249\" height=\"300\" src=\"https://parlaverde.tomalosbarrios.net/files/2016/11/logo-grande-249x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://parlaverde.tomalosbarrios.net/files/2016/11/logo-grande-249x300.jpg 249w, https://parlaverde.tomalosbarrios.net/files/2016/11/logo-grande.jpg 498w\" sizes=\"(max-width: 249px) 100vw, 249px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 498,
+    "height": 600,
+    "file": "2016/11/logo-grande.jpg",
+    "sizes": {
+      "thumbnail": {
+        "file": "logo-grande-150x150.jpg",
+        "width": 150,
+        "height": 150,
+        "mime_type": "image/jpeg",
+        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/logo-grande-150x150.jpg"
+      },
+      "medium": {
+        "file": "logo-grande-249x300.jpg",
+        "width": 249,
+        "height": 300,
+        "mime_type": "image/jpeg",
+        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/logo-grande-249x300.jpg"
+      },
+      "wptouch-new-thumbnail": {
+        "file": "logo-grande-144x144.jpg",
+        "width": 144,
+        "height": 144,
+        "mime_type": "image/jpeg",
+        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/logo-grande-144x144.jpg"
+      },
+      "full": {
+        "file": "logo-grande.jpg",
+        "width": 498,
+        "height": 600,
+        "mime_type": "image/jpeg",
+        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/logo-grande.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": null,
+  "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/logo-grande.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media/145"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/users/864"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/comments?post=145"
+      }
+    ]
+  }
+},{
+  "id": 144,
+  "date": "2016-11-02T13:58:45",
+  "date_gmt": "2016-11-02T13:58:45",
+  "guid": {
+    "rendered": "http://parlaverde.tomalosbarrios.net/files/2016/11/favicon-1-1.png"
+  },
+  "modified": "2016-11-02T13:58:45",
+  "modified_gmt": "2016-11-02T13:58:45",
+  "slug": "favicon-1-2",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://parlaverde.tomalosbarrios.net/favicon-1-2",
+  "title": {
+    "rendered": "favicon-1"
+  },
+  "author": 864,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://parlaverde.tomalosbarrios.net/files/2016/11/favicon-1-1.png'><img width=\"128\" height=\"128\" src=\"https://parlaverde.tomalosbarrios.net/files/2016/11/favicon-1-1.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/png",
+  "media_details": {
+    "width": 128,
+    "height": 128,
+    "file": "2016/11/favicon-1-1.png",
+    "sizes": {},
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": null,
+  "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/favicon-1-1.png",
+  "_links": {
+    "self": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media/144"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/users/864"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/comments?post=144"
+      }
+    ]
+  }
+},{
+  "id": 143,
+  "date": "2016-11-02T13:53:40",
+  "date_gmt": "2016-11-02T13:53:40",
+  "guid": {
+    "rendered": "http://parlaverde.tomalosbarrios.net/files/2016/11/favicon-1.png"
+  },
+  "modified": "2016-11-02T13:53:40",
+  "modified_gmt": "2016-11-02T13:53:40",
+  "slug": "favicon-1",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://parlaverde.tomalosbarrios.net/favicon-1",
+  "title": {
+    "rendered": "favicon-1"
+  },
+  "author": 864,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://parlaverde.tomalosbarrios.net/files/2016/11/favicon-1.png'><img width=\"128\" height=\"128\" src=\"https://parlaverde.tomalosbarrios.net/files/2016/11/favicon-1.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/png",
+  "media_details": {
+    "width": 128,
+    "height": 128,
+    "file": "2016/11/favicon-1.png",
+    "sizes": {},
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": null,
+  "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/favicon-1.png",
+  "_links": {
+    "self": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media/143"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/users/864"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/comments?post=143"
+      }
+    ]
+  }
+},{
+  "id": 142,
+  "date": "2016-11-02T12:48:57",
+  "date_gmt": "2016-11-02T12:48:57",
+  "guid": {
+    "rendered": "http://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon.png"
+  },
+  "modified": "2016-11-02T12:48:57",
+  "modified_gmt": "2016-11-02T12:48:57",
+  "slug": "cropped-favicon-png",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://parlaverde.tomalosbarrios.net/cropped-favicon-png",
+  "title": {
+    "rendered": "cropped-favicon.png"
+  },
+  "author": 864,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon.png'><img width=\"300\" height=\"300\" src=\"https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon-300x300.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon-300x300.png 300w, https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon-150x150.png 150w, https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon-144x144.png 144w, https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon-270x270.png 270w, https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon-192x192.png 192w, https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon-180x180.png 180w, https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon-32x32.png 32w, https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon.png 512w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>http://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon.png</p>\n"
+  },
+  "caption": {
+    "rendered": "<p>http://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon.png</p>\n"
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/png",
+  "media_details": {
+    "width": 512,
+    "height": 512,
+    "file": "2016/11/cropped-favicon.png",
+    "sizes": {
+      "thumbnail": {
+        "file": "cropped-favicon-150x150.png",
+        "width": 150,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon-150x150.png"
+      },
+      "medium": {
+        "file": "cropped-favicon-300x300.png",
+        "width": 300,
+        "height": 300,
+        "mime_type": "image/png",
+        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon-300x300.png"
+      },
+      "wptouch-new-thumbnail": {
+        "file": "cropped-favicon-144x144.png",
+        "width": 144,
+        "height": 144,
+        "mime_type": "image/png",
+        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon-144x144.png"
+      },
+      "site_icon-270": {
+        "file": "cropped-favicon-270x270.png",
+        "width": 270,
+        "height": 270,
+        "mime_type": "image/png",
+        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon-270x270.png"
+      },
+      "site_icon-192": {
+        "file": "cropped-favicon-192x192.png",
+        "width": 192,
+        "height": 192,
+        "mime_type": "image/png",
+        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon-192x192.png"
+      },
+      "site_icon-180": {
+        "file": "cropped-favicon-180x180.png",
+        "width": 180,
+        "height": 180,
+        "mime_type": "image/png",
+        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon-180x180.png"
+      },
+      "site_icon-32": {
+        "file": "cropped-favicon-32x32.png",
+        "width": 32,
+        "height": 32,
+        "mime_type": "image/png",
+        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon-32x32.png"
+      },
+      "full": {
+        "file": "cropped-favicon.png",
+        "width": 512,
+        "height": 512,
+        "mime_type": "image/png",
+        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon.png"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": null,
+  "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/cropped-favicon.png",
+  "_links": {
+    "self": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media/142"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/users/864"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/comments?post=142"
+      }
+    ]
+  }
+},{
+  "id": 141,
+  "date": "2016-11-02T12:47:51",
+  "date_gmt": "2016-11-02T12:47:51",
+  "guid": {
+    "rendered": "http://parlaverde.tomalosbarrios.net/files/2016/11/favicon.png"
+  },
+  "modified": "2016-11-02T12:47:51",
+  "modified_gmt": "2016-11-02T12:47:51",
+  "slug": "favicon",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://parlaverde.tomalosbarrios.net/favicon",
+  "title": {
+    "rendered": "favicon"
+  },
+  "author": 864,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://parlaverde.tomalosbarrios.net/files/2016/11/favicon.png'><img width=\"32\" height=\"32\" src=\"https://parlaverde.tomalosbarrios.net/files/2016/11/favicon.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/png",
+  "media_details": {
+    "width": 32,
+    "height": 32,
+    "file": "2016/11/favicon.png",
+    "sizes": {},
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": null,
+  "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/favicon.png",
+  "_links": {
+    "self": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media/141"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/users/864"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/comments?post=141"
+      }
+    ]
+  }
+},{
+  "id": 140,
+  "date": "2016-11-02T12:45:10",
+  "date_gmt": "2016-11-02T12:45:10",
+  "guid": {
+    "rendered": "http://parlaverde.tomalosbarrios.net/files/2016/11/tree-146948_1280.png"
+  },
+  "modified": "2016-11-02T12:45:10",
+  "modified_gmt": "2016-11-02T12:45:10",
+  "slug": "tree-146948_1280",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://parlaverde.tomalosbarrios.net/tree-146948_1280",
+  "title": {
+    "rendered": "tree-146948_1280"
+  },
+  "author": 864,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://parlaverde.tomalosbarrios.net/files/2016/11/tree-146948_1280.png'><img width=\"165\" height=\"300\" src=\"https://parlaverde.tomalosbarrios.net/files/2016/11/tree-146948_1280-165x300.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://parlaverde.tomalosbarrios.net/files/2016/11/tree-146948_1280-165x300.png 165w, https://parlaverde.tomalosbarrios.net/files/2016/11/tree-146948_1280-562x1024.png 562w, https://parlaverde.tomalosbarrios.net/files/2016/11/tree-146948_1280.png 702w\" sizes=\"(max-width: 165px) 100vw, 165px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/png",
+  "media_details": {
+    "width": 702,
+    "height": 1280,
+    "file": "2016/11/tree-146948_1280.png",
+    "sizes": {
+      "thumbnail": {
+        "file": "tree-146948_1280-150x150.png",
+        "width": 150,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/tree-146948_1280-150x150.png"
+      },
+      "medium": {
+        "file": "tree-146948_1280-165x300.png",
+        "width": 165,
+        "height": 300,
+        "mime_type": "image/png",
+        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/tree-146948_1280-165x300.png"
+      },
+      "large": {
+        "file": "tree-146948_1280-562x1024.png",
+        "width": 562,
+        "height": 1024,
+        "mime_type": "image/png",
+        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/tree-146948_1280-562x1024.png"
+      },
+      "wptouch-new-thumbnail": {
+        "file": "tree-146948_1280-144x144.png",
+        "width": 144,
+        "height": 144,
+        "mime_type": "image/png",
+        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/tree-146948_1280-144x144.png"
+      },
+      "full": {
+        "file": "tree-146948_1280.png",
+        "width": 702,
+        "height": 1280,
+        "mime_type": "image/png",
+        "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/tree-146948_1280.png"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": null,
+  "source_url": "https://parlaverde.tomalosbarrios.net/files/2016/11/tree-146948_1280.png",
+  "_links": {
+    "self": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media/140"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/users/864"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/comments?post=140"
+      }
+    ]
+  }
+},{
+  "id": 133,
+  "date": "2016-11-01T10:30:36",
+  "date_gmt": "2016-11-01T10:30:36",
+  "guid": {
+    "rendered": "http://parlaverde.tomalosbarrios.net/?page_id=133"
+  },
+  "modified": "2016-11-02T20:58:21",
+  "modified_gmt": "2016-11-02T20:58:21",
+  "slug": "como-formar-parte-del-grupo",
+  "status": "publish",
+  "type": "page",
+  "link": "https://parlaverde.tomalosbarrios.net/como-formar-parte-del-grupo",
+  "title": {
+    "rendered": "C\u00f3mo formar parte del Grupo"
+  },
+  "content": {
+    "rendered": "<div style=\"background: white;padding: 10px\">\n<p style=\"text-align: center\"><strong><em><u>Pasos a seguir</u></em></strong></p>\n<ol>\n<li style=\"text-align: justify\">Registrarse en<span style=\"text-decoration: underline\"><strong> <a href=\"https://karakolas.cancamusa.net/\" target=\"_blank\">Karakolas</a></strong></span></li>\n<li style=\"text-align: justify\">Buscar el <strong>Grupo de Consumo de Parla </strong>y apuntarse en la lista de espera del mismo</li>\n<li style=\"text-align: justify\">Escribir un correo electr\u00f3nico con vuestro nombre y n\u00famero de tel\u00e9fono a <a href=\"mailto:grupoconsumoparla@gmail.com\">grupoconsumoparla@gmail.com</a> avisando de que est\u00e1is en lista de espera.</li>\n<li style=\"text-align: justify\">A partir de ese momento se os dar\u00e1 de alta en la herramienta de Karakolas para que pod\u00e1is ver los productos que pedimos (<em>estar\u00e9is activos una semana)</em>.</li>\n<li style=\"text-align: justify\">Si al final tom\u00e1is la decisi\u00f3n de formar parte del grupo volved a enviarnos un correo electr\u00f3nico y quedaremos con vosotros o vosotras para poderos explicar en persona todas las herramientas de comunicaci\u00f3n del grupo, cuotas y como nos autogestionamos.</li>\n<li style=\"text-align: justify\">En la misma reuni\u00f3n os incluiremos en el grupo de Whatsapp y os pasaremos claves y contrase\u00f1as del Drive en el que tenemos toda la documentaci\u00f3n interna del grupo: actas, cuentas, etc&#8230;.</li>\n</ol>\n<h5 style=\"text-align: right\"><em>NOTA: Las instrucciones para utilizar Karakolas las ten\u00e9is en un enlace a la derecha de este texto.</em></h5>\n<hr />\n<p style=\"text-align: center\"><strong><em><u>Cuota \u00fanica al darse de alta en el Grupo de Consumo</u></em></strong></p>\n<p style=\"text-align: justify\">Al entrar a formar parte del Grupo se paga una cuota <strong>\u00daNICA</strong> de 16 euros que va a parar a un fondo com\u00fan destinado a cubrir gastos generales como: aportaciones para mantener la p\u00e1gina web, aportaciones para el local, gastos de material (b\u00e1sculas, etc.) y cualquier otro gasto com\u00fan que le surja al Grupo.</p>\n<p style=\"text-align: justify\">Esta cuota se abona al entrar a formar parte del grupo y no se a\u00f1ade al saldo personal.</p>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Pasos a seguir Registrarse en Karakolas Buscar el Grupo de Consumo de Parla y apuntarse en la lista de espera del mismo Escribir un correo electr\u00f3nico con vuestro nombre y n\u00famero de tel\u00e9fono a grupoconsumoparla@gmail.com avisando de que est\u00e1is en &hellip; <a href=\"https://parlaverde.tomalosbarrios.net/como-formar-parte-del-grupo\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+    "protected": false
+  },
+  "author": 864,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/133"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/users/864"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/comments?post=133"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/133/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 152,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/133/revisions/152"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media?parent=133"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+},{
+  "id": 131,
+  "date": "2016-11-01T10:28:54",
+  "date_gmt": "2016-11-01T10:28:54",
+  "guid": {
+    "rendered": "http://parlaverde.tomalosbarrios.net/?page_id=131"
+  },
+  "modified": "2016-11-02T20:59:08",
+  "modified_gmt": "2016-11-02T20:59:08",
+  "slug": "pedidos-y-pagos",
+  "status": "publish",
+  "type": "page",
+  "link": "https://parlaverde.tomalosbarrios.net/pedidos-y-pagos",
+  "title": {
+    "rendered": "Pedidos y Pagos"
+  },
+  "content": {
+    "rendered": "<div style=\"background: white;padding: 10px\">\n<h2 style=\"text-align: center\"><strong><em><u>Pedidos</u></em></strong></h2>\n<p style=\"text-align: justify\">Los pedidos los realizamos a trav\u00e9s de Karakolas (herramienta online) una semana antes de la recepci\u00f3n del mismo.</p>\n<p style=\"text-align: justify\">A trav\u00e9s del correo electr\u00f3nico recibimos toda la informaci\u00f3n que llega al grupo: informaci\u00f3n sobre los pedidos, incidencias de los mismos, etc.</p>\n<p style=\"text-align: justify\">Para la comunicaci\u00f3n r\u00e1pida y continua nos organizamos a trav\u00e9s de un grupo de whatsapp.</p>\n<hr />\n<h2 style=\"text-align: center\"><strong><em><u>Pagos</u></em></strong></h2>\n<p style=\"text-align: justify\">Los pedidos se pagan en efectivo cuando se recogen los productos.</p>\n<p style=\"text-align: justify\">Cada persona calcula el dinero que puede gastar al mes en pedidos y adelanta la cantidad estimada para que pueda hacerse frente a los pagos.</p>\n<p style=\"text-align: justify\">El grupo tiene un Drive por el que todas podremos estar al d\u00eda del saldo personal y de los movimientos del fondo com\u00fan<em> (se dispone de acceso pleno a esta informaci\u00f3n cuando se pasa a formar parte activa del grupo)</em></p>\n<p>&nbsp;</p>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Pedidos Los pedidos los realizamos a trav\u00e9s de Karakolas (herramienta online) una semana antes de la recepci\u00f3n del mismo. A trav\u00e9s del correo electr\u00f3nico recibimos toda la informaci\u00f3n que llega al grupo: informaci\u00f3n sobre los pedidos, incidencias de los mismos, &hellip; <a href=\"https://parlaverde.tomalosbarrios.net/pedidos-y-pagos\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+    "protected": false
+  },
+  "author": 864,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/131"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/users/864"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/comments?post=131"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/131/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 155,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/131/revisions/155"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media?parent=131"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+},{
+  "id": 129,
+  "date": "2016-11-01T10:27:41",
+  "date_gmt": "2016-11-01T10:27:41",
+  "guid": {
+    "rendered": "http://parlaverde.tomalosbarrios.net/?page_id=129"
+  },
+  "modified": "2016-11-02T20:58:54",
+  "modified_gmt": "2016-11-02T20:58:54",
+  "slug": "distribuidores-y-productores",
+  "status": "publish",
+  "type": "page",
+  "link": "https://parlaverde.tomalosbarrios.net/distribuidores-y-productores",
+  "title": {
+    "rendered": "Distribuidores y Productores"
+  },
+  "content": {
+    "rendered": "<div style=\"background: white;padding: 10px\">\n<ul style=\"text-align: justify\">\n<li><a href=\"http://www.laecomarca.org/\" target=\"_blank\"><span style=\"text-decoration: underline\"><strong>La eComarca</strong></span><span style=\"text-decoration: underline\"><strong>, distribuidor en Madrid con una amplia gama de productos de todo tipo.</strong></span></a></li>\n</ul>\n<p style=\"text-align: justify\">Los pedidos se reciben los martes por la tarde, cada 15 d\u00edas, en el local situado en la C/ Jerusal\u00e9n, 15 posterior (entrando por el jard\u00edn).</p>\n<p style=\"text-align: justify\">Para la recogida de los productos existen dos turnos, uno sobre las 19:00- 19:30 (la hora exacta se comunica por el grupo de whatsapp) y otro entre las 21:00 y 21:15 horas</p>\n<hr />\n<ul style=\"text-align: justify\">\n<li><span style=\"text-decoration: underline\"><strong>Juan, productor valenciano de naranjas, mandarinas y limones.</strong></span></li>\n</ul>\n<p style=\"text-align: justify\">Los pedidos se reciben los martes, cada 15 d\u00edas, alternos a los martes de La eComarca</p>\n<p style=\"text-align: justify\">Los productos se recogen el mismo martes en horario de tienda en el herbolario Ventana Natural C/ San Ant\u00f3n, 37.</p>\n<hr />\n<ul style=\"text-align: justify\">\n<li><span style=\"text-decoration: underline\"><strong><a href=\"http://lamadrevieja.blogspot.com.es/\" target=\"_blank\">Huerta la Madre Vieja, productor de verduras de Ciempozuelos.</a></strong></span></li>\n</ul>\n<p style=\"text-align: justify\">Los pedidos se reciben los viernes de la misma semana en la que se recibe el pedido de La eComarca</p>\n<p style=\"text-align: justify\">Los productos se recogen el mismo viernes en horario de tienda en el herbolario Ventana Natural C/ San Ant\u00f3n, 37.</p>\n<hr />\n<ul style=\"text-align: justify\">\n<li><span style=\"text-decoration: underline\"><strong>Amancia, productora manchega de vinos, legumbres, etc.</strong></span></li>\n</ul>\n<p style=\"text-align: justify\">Los pedidos se reciben durante la semana del segundo pedido mensual de Ciempozuelos</p>\n<p style=\"text-align: justify\">Los productos se recogen el mismo d\u00eda que se recibe en horario de tienda en el herbolario Ventana Natural C/ San Ant\u00f3n, 37.</p>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>La eComarca, distribuidor en Madrid con una amplia gama de productos de todo tipo. Los pedidos se reciben los martes por la tarde, cada 15 d\u00edas, en el local situado en la C/ Jerusal\u00e9n, 15 posterior (entrando por el jard\u00edn). &hellip; <a href=\"https://parlaverde.tomalosbarrios.net/distribuidores-y-productores\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+    "protected": false
+  },
+  "author": 864,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/129"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/users/864"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/comments?post=129"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/129/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 154,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/129/revisions/154"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media?parent=129"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+},{
+  "id": 127,
+  "date": "2016-11-01T10:26:10",
+  "date_gmt": "2016-11-01T10:26:10",
+  "guid": {
+    "rendered": "http://parlaverde.tomalosbarrios.net/?page_id=127"
+  },
+  "modified": "2016-11-02T20:58:02",
+  "modified_gmt": "2016-11-02T20:58:02",
+  "slug": "autogestion",
+  "status": "publish",
+  "type": "page",
+  "link": "https://parlaverde.tomalosbarrios.net/autogestion",
+  "title": {
+    "rendered": "Autogesti\u00f3n"
+  },
+  "content": {
+    "rendered": "<div style=\"background: white;padding: 10px\">\n<p style=\"text-align: justify\">Como somos un peque\u00f1o grupo autogestionado todas y todos tenemos tareas: gesti\u00f3n del correo, relaciones con el exterior, difusi\u00f3n, cuentas, apertura y cierre de pedidos, anotaci\u00f3n de incidencias, reparto de los productos recibidos por familias o personas, etc.</p>\n<p style=\"text-align: justify\">Tambi\u00e9n se contempla la posibilidad de que aquellas personas que no quieran participar en ninguna de las tareas de autogesti\u00f3n, puedan pagar 2 euros m\u00e1s por pedido y quedar\u00e1n exentas <em> (consenso recogido en acta).</em></p>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Como somos un peque\u00f1o grupo autogestionado todas y todos tenemos tareas: gesti\u00f3n del correo, relaciones con el exterior, difusi\u00f3n, cuentas, apertura y cierre de pedidos, anotaci\u00f3n de incidencias, reparto de los productos recibidos por familias o personas, etc. Tambi\u00e9n se &hellip; <a href=\"https://parlaverde.tomalosbarrios.net/autogestion\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+    "protected": false
+  },
+  "author": 864,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/127"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/users/864"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/comments?post=127"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/127/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 151,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/127/revisions/151"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media?parent=127"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+},{
+  "id": 118,
+  "date": "2016-10-30T13:10:12",
+  "date_gmt": "2016-10-30T13:10:12",
+  "guid": {
+    "rendered": "http://parlaverde.tomalosbarrios.net/?page_id=118"
+  },
+  "modified": "2016-11-02T20:57:44",
+  "modified_gmt": "2016-11-02T20:57:44",
+  "slug": "grupo-de-consumo-parla",
+  "status": "publish",
+  "type": "page",
+  "link": "https://parlaverde.tomalosbarrios.net/",
+  "title": {
+    "rendered": "\u00bfQui\u00e9nes somos?"
+  },
+  "content": {
+    "rendered": "<div style=\"background: white;padding: 10px\">\n<p style=\"text-align: justify\">Un peque\u00f1o Grupo autogestionado de personas que promueven un modo de consumo que tenga en cuenta las consecuencias sociales y medioambientales.</p>\n<p style=\"text-align: justify\">Otro de nuestros objetivos es relacionarnos con distribuidores y productores que vendan sus productos en el <a href=\"http://www.konsumoresponsable.coop/blog/mercadosocialmadrid\" target=\"_blank\">Mercado Social</a> de Madrid <em>(red de comercios que trabajan con \u201cel boniato\u201d moneda alternativa al euro)</em> para de esta manera contribuir a una econom\u00eda alternativa para que personas con pocos recursos econ\u00f3micos puedan intercambiar su trabajo o productos por &#171;boniatos&#187; que despu\u00e9s podr\u00e1n utilizar como moneda de pago.</p>\n<p style=\"text-align: justify\">El Grupo naci\u00f3 del colectivo de Medio Ambiente 15M de Parla el 11 de octubre de 2012 y durante el 2013 desarrollamos un camino de consolidaci\u00f3n que nos ha llevado a lo que somos ahora, un grupo autogestionado.</p>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Un peque\u00f1o Grupo autogestionado de personas que promueven un modo de consumo que tenga en cuenta las consecuencias sociales y medioambientales. Otro de nuestros objetivos es relacionarnos con distribuidores y productores que vendan sus productos en el Mercado Social de &hellip; <a href=\"https://parlaverde.tomalosbarrios.net/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+    "protected": false
+  },
+  "author": 864,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/118"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/users/864"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/comments?post=118"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 9,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/118/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 150,
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/118/revisions/150"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/media?parent=118"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}]

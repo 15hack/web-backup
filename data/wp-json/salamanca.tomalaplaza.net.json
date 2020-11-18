@@ -1,185 +1,182 @@
-[
-    {
-        "id": 12,
-        "date": "2011-06-07T03:39:42",
-        "date_gmt": "2011-06-07T03:39:42",
-        "guid": {
-            "rendered": "http://salamanca.tomalaplaza.net/?page_id=12"
-        },
-        "modified": "2011-06-07T03:39:42",
-        "modified_gmt": "2011-06-07T03:39:42",
-        "slug": "scheduler",
-        "status": "publish",
-        "type": "page",
-        "link": "https://salamanca.tomalaplaza.net/scheduler/",
-        "title": {
-            "rendered": "scheduler"
-        },
-        "content": {
-            "rendered": "<p>[[scheduler_plugin]]</p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>[[scheduler_plugin]]</p>\n",
-            "protected": false
-        },
-        "author": 1,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/pages/12"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/users/1"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/comments?post=12"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 0,
-                    "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/pages/12/revisions"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/media?parent=12"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 8,
-        "date": "2011-05-21T21:45:48",
-        "date_gmt": "2011-05-21T21:45:48",
-        "guid": {
-            "rendered": "http://salamanca.tomalaplaza.net/?p=8"
-        },
-        "modified": "2011-05-21T23:13:21",
-        "modified_gmt": "2011-05-21T23:13:21",
-        "slug": "acampada-salamanca",
-        "status": "publish",
-        "type": "post",
-        "link": "https://salamanca.tomalaplaza.net/2011/05/21/acampada-salamanca/",
-        "title": {
-            "rendered": "Acampada Salamanca"
-        },
-        "content": {
-            "rendered": "<p>Estamos en el blog: <strong>http://acampadasalamanca.blogspot.com</strong></p>\n<p><strong>Twitter: @acampadasala</strong></p>\n<p><strong>Facebook: Acampada Salamanca</strong></p>\n<p><strong>Tuenti: Acampada Salamanca</strong></p>\n<p><strong>Flickr: acampadasalamanca2</strong></p>\n<p><strong> acampadasala </strong></p>\n<p><strong> Grupo Flickr: Acampada Salamanca\u00a0http://www.flickr.com/groups/1656803@N24/</strong></p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Estamos en el blog: http://acampadasalamanca.blogspot.com Twitter: @acampadasala Facebook: Acampada Salamanca Tuenti: Acampada Salamanca Flickr: acampadasalamanca2 acampadasala Grupo Flickr: Acampada Salamanca\u00a0http://www.flickr.com/groups/1656803@N24/</p>\n",
-            "protected": false
-        },
-        "author": 42,
-        "featured_media": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "sticky": false,
-        "template": "",
-        "format": "standard",
-        "meta": [],
-        "categories": [
-            1
-        ],
-        "tags": [],
-        "jetpack_featured_media_url": "",
-        "_links": {
-            "self": [
-                {
-                    "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/posts/8"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/posts"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/types/post"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/users/42"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/comments?post=8"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 3,
-                    "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/posts/8/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 10,
-                    "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/posts/8/revisions/10"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/media?parent=8"
-                }
-            ],
-            "wp:term": [
-                {
-                    "taxonomy": "category",
-                    "embeddable": true,
-                    "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/categories?post=8"
-                },
-                {
-                    "taxonomy": "post_tag",
-                    "embeddable": true,
-                    "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/tags?post=8"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    }
-]
+[{
+  "id": 12,
+  "date": "2011-06-07T03:39:42",
+  "date_gmt": "2011-06-07T03:39:42",
+  "guid": {
+    "rendered": "http://salamanca.tomalaplaza.net/?page_id=12"
+  },
+  "modified": "2011-06-07T03:39:42",
+  "modified_gmt": "2011-06-07T03:39:42",
+  "slug": "scheduler",
+  "status": "publish",
+  "type": "page",
+  "link": "https://salamanca.tomalaplaza.net/scheduler/",
+  "title": {
+    "rendered": "scheduler"
+  },
+  "content": {
+    "rendered": "<p>[[scheduler_plugin]]</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>[[scheduler_plugin]]</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/pages/12"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/comments?post=12"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/pages/12/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/media?parent=12"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+},{
+  "id": 8,
+  "date": "2011-05-21T21:45:48",
+  "date_gmt": "2011-05-21T21:45:48",
+  "guid": {
+    "rendered": "http://salamanca.tomalaplaza.net/?p=8"
+  },
+  "modified": "2011-05-21T23:13:21",
+  "modified_gmt": "2011-05-21T23:13:21",
+  "slug": "acampada-salamanca",
+  "status": "publish",
+  "type": "post",
+  "link": "https://salamanca.tomalaplaza.net/2011/05/21/acampada-salamanca/",
+  "title": {
+    "rendered": "Acampada Salamanca"
+  },
+  "content": {
+    "rendered": "<p>Estamos en el blog: <strong>http://acampadasalamanca.blogspot.com</strong></p>\n<p><strong>Twitter: @acampadasala</strong></p>\n<p><strong>Facebook: Acampada Salamanca</strong></p>\n<p><strong>Tuenti: Acampada Salamanca</strong></p>\n<p><strong>Flickr: acampadasalamanca2</strong></p>\n<p><strong> acampadasala </strong></p>\n<p><strong> Grupo Flickr: Acampada Salamanca\u00a0http://www.flickr.com/groups/1656803@N24/</strong></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Estamos en el blog: http://acampadasalamanca.blogspot.com Twitter: @acampadasala Facebook: Acampada Salamanca Tuenti: Acampada Salamanca Flickr: acampadasalamanca2 acampadasala Grupo Flickr: Acampada Salamanca\u00a0http://www.flickr.com/groups/1656803@N24/</p>\n",
+    "protected": false
+  },
+  "author": 42,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "categories": [
+    1
+  ],
+  "tags": [],
+  "jetpack_featured_media_url": "",
+  "_links": {
+    "self": [
+      {
+        "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/posts/8"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/users/42"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/comments?post=8"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/posts/8/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 10,
+        "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/posts/8/revisions/10"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/media?parent=8"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/categories?post=8"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/tags?post=8"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}]
