@@ -10,6 +10,11 @@ dom_ban:
   - dominios a excluir
 url_ban:
   - dominio/url a excluir
+db_meta:
+  schema.wiki0_:
+      purl: http://wiki.tomalaplaza.net
+      site: wiki.tomalaplaza.net
+      api: http://wiki.tomalaplaza.net/mediawiki/api.php?format=json&action=
 ---
 server: un dominio cualquiera de los que se va a recuperar, sera usado para obtener la ip del servidor
 host: host tal como esta en .ssh/config
