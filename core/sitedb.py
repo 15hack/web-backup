@@ -125,6 +125,8 @@ class SiteDBLite(DBLite):
         for t, c in self.find_cols("date", "modified"):
             if site is not None and "site" not in self.tables[t]:
                 continue
+            if t == "wp_comments":
+                continue
             fch.append("select substr({0}, 1, 10) d from {1}".format(c, t)+where)
         fch = '''
         select
