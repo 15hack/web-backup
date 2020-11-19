@@ -1,6 +1,4 @@
-Se han escaneado 172 `sites`, con datos desde el 2011-05-17 al 2020-05-16,
-repartidos en:
-
+Se han escaneado 172 `sites`, con datos desde el 2011-05-17 al 2020-05-16, repartidos en:
 
 * 168 sitios `wp`
 * 3 sitios `phpbb`

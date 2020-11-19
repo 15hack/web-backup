@@ -333,6 +333,14 @@ class FindUrl:
         self.log.write(line+end)
         self.log.flush()
 
+    def check(self, url):
+        r = get_response(url)
+        r.textlink = text_link(r.url)
+        if int(r.code/100) in (4, 5, 9):
+            self.writeln("`{0}` [{2}]({1})", r.code, r.url, r.textlink)
+            return None
+        return r
+
     def get(self, blog, obj, attachment_id=False):
         blog=Blog(blog)
         obj=Bunch(obj)

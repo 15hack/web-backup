@@ -614,6 +614,8 @@ class ScrapDB:
             if len(title)>0:
                 data["title"]=title
             data["url"] = find_value(wk_data, "canonicalurl", "fullurl", avoid="#")
+            if data["url"] and "error" in wk_data:
+                self.fnd.check(data["url"])
 
         for data in wiki.media:
             site = wiki.sites[data["site"]]
@@ -627,9 +629,12 @@ class ScrapDB:
 if __name__ == "__main__":
     import json
     from .connect import DBs
-    scr = ScrapDB(None, *DBs)
+    from .data import FindUrl
+    fnd = FindUrl("/tmp/error.md")
+    scr = ScrapDB(fnd, *DBs)
     for m in scr.wiki.sites.values():
         for k in list(m.keys()):
             if "json" in k:
                 del m[k]
     print(json.dumps(scr.wiki.sites, indent=2))
+    fnd.close()

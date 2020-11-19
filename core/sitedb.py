@@ -169,9 +169,8 @@ class SiteDBLite(DBLite):
         md=MDWriter(file)
         r = self.get_info()
         md.write(dedent('''
-            Se han escaneado {t_sites} `sites`, con datos desde el {ini} al {fin},
-            repartidos en:
-        ''').format(t_sites=r.counts['sites']['_total_'], **dict(r)), end="\n\n")
+            Se han escaneado {t_sites} `sites`, con datos desde el {ini} al {fin}, repartidos en:
+        ''').format(t_sites=r.counts['sites']['_total_'], **dict(r)))
         del r.counts['sites']['_total_']
         for t, c in r.counts['sites'].items():
             s = "" if c == 1 else "s"

@@ -13,7 +13,7 @@ abspath = os.path.abspath(__file__)
 dname = os.path.dirname(abspath)
 os.chdir(dname)
 
-fnd = FindUrl("log/error.md")
+fnd = FindUrl("out/error.md")
 scr = ScrapDB(fnd, *DBs)
 
 db = SiteDBLite("sites.db", total=scr.rows, overwrite=True)
