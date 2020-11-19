@@ -531,6 +531,7 @@ class ScrapDB:
                     print("%s sera descartado (no hay aparece en db_meta)" % o["prefix"])
                     continue
                 o = {**o, **data}
+                o["_DB"] = o["prefix"]
                 o["url"] = o["site"]
                 o["siteurl"] = o["site"]
                 key = (o["prefix"], o["site"])
