@@ -4,19 +4,30 @@ import re
 from bunch import Bunch
 
 from .data import FindUrl, tuple_url, loadwpjson, loadpageswkjson, loadimageswkjson
-from .util import find_value
+from .util import find_value, get_yml
+from .connect import DB, SSHFile
 from functools import lru_cache
 import requests
+import json
+from datetime import datetime
 
+me = os.path.realpath(__file__)
+dr = os.path.dirname(me)
 
 re_tg1 = re.compile(r'^(\s*"[^"]+?"\s*)+$')
 re_tg2 = re.compile(r'"[^"]+?"')
 re_rem = re.compile(r"^[^/]+")
 
+flag_frm_title=False
+
 def frm_title(s, c='=', l=10):
+    global flag_frm_title
     s = "{1} {0} {1}".format(s, c*(l-len(s)))
     if len(s) % 2 == 1:
         s = c + s
+    if flag_frm_title:
+        s = "\n" + s
+    flag_frm_title = True
     return s
 
 def clean_url(url):
@@ -24,22 +35,39 @@ def clean_url(url):
     url = url.rstrip("/")
     return url
 
-class ScrapDB:
-    def __init__(self, fnd, *args, **kargv):
-        self.fnd = fnd
-        self.dbs = args
+class Scrap:
+    def __init__(self, **kargv):
+        self.fnd = FindUrl("out/error.md")
+        self.config = get_yml(dr+"/config.yml")
+        self.dbs = tuple(
+            DB(**c) for c in self.config if c.get("db_user")
+        )
+        self.files = tuple(
+            SSHFile(**c, debug="debug/") for c in self.config if c.get("file")
+        )
+
+    def close(self):
+        self.fnd.close()
 
     @property
     def sites(self):
-        for key, val in {"wp":self.wp, "phpbb":self.phpbb, "wiki":self.wiki}.items():
-            for site, meta in sorted(val.sites.items(), key=lambda x: tuple_url(x[0])):
+        for key, val in {
+            "wp":self.wp,
+            "phpbb":self.phpbb,
+            "wiki":self.wiki,
+            "mailman":self.mailman
+        }.items():
+            val = val.sites
+            if isinstance(val, dict):
+                val = val.values()
+            for meta in sorted(val, key=lambda x: tuple_url(x["url"])):
                 meta["type"]=key
                 yield meta
 
     @property
     def rows(self):
         rows = 0
-        for d in (self.wp, self.phpbb, self.wiki):
+        for d in (self.wp, self.phpbb, self.wiki, self.mailman):
             rows = rows + sum((len(i) for i in dict(d).values()), 0)
         return rows
 
@@ -79,13 +107,12 @@ class ScrapDB:
                 siteurl = r["siteurl"]
                 site = clean_url(siteurl)
                 key = (p2, site)
-                if key not in db.forze_ok:
-                    if p1 in db.db_ban or p2 in db.db_ban:
-                        print("%s (%s) sera descartado" % (p2, site))
-                        continue
-                    if not db.isOkDom(siteurl) or not db.isOk(site):
-                        print("%s (%s) sera descartado" % (p2, site))
-                        continue
+                if p1 in db.db_ban or p2 in db.db_ban:
+                    print("%s (%s) sera descartado" % key)
+                    continue
+                if not db.isOkDom(siteurl) or not db.isOk(site):
+                    print("%s (%s) sera descartado" % key)
+                    continue
                 r["siteurl"] = site
                 r["url"] = site
                 r["_DB"] = r["prefix2"]
@@ -277,7 +304,6 @@ class ScrapDB:
 
             db.close()
             wp.sites = {**wp.sites, **sites}
-            print("")
 
         self.print_totales("wordpress", wp)
 
@@ -331,7 +357,6 @@ class ScrapDB:
             k = k.replace("_", "/")
             s = s_total+k
             print(s % v)
-        print("")
 
     @property
     @lru_cache(maxsize=None)
@@ -382,13 +407,12 @@ class ScrapDB:
                 o["url"] = site
                 o["purl"]= o["server_protocol"] + site
                 key = (o["prefix"], site)
-                if key not in db.forze_ok:
-                    if o["prefix"] in db.db_ban:
-                        print("%s (%s) sera descartado" % key)
-                        continue
-                    if not db.isOkDom(o["purl"]) or not db.isOk(site):
-                        print("%s (%s) sera descartado" % key)
-                        continue
+                if o["prefix"] in db.db_ban:
+                    print("%s (%s) sera descartado" % key)
+                    continue
+                if not db.isOkDom(o["purl"]) or not db.isOk(site):
+                    print("%s (%s) sera descartado" % key)
+                    continue
                 if db.one("select count(*) from "+o["_DB"]+"posts") == 0:
                     print("%s (%s) sera descartado (0 posts)" % (o["prefix"], site))
                     continue
@@ -424,7 +448,6 @@ class ScrapDB:
 
             if not sites:
                 db.close()
-                print("")
                 continue
 
             results = db.multi_execute(sites, '''
@@ -503,7 +526,6 @@ class ScrapDB:
 
             db.close()
             phpbb.sites = {**phpbb.sites, **sites}
-            print("")
 
         self.print_totales("phpbb", phpbb)
         return phpbb
@@ -535,18 +557,16 @@ class ScrapDB:
                 o["url"] = o["site"]
                 o["siteurl"] = o["site"]
                 key = (o["prefix"], o["site"])
-                if key not in db.forze_ok:
-                    if o["prefix"] in db.db_ban:
-                        print("%s (%s) sera descartado" % key)
-                        continue
-                    if not db.isOkDom(o["purl"]) or not db.isOk(o["site"]):
-                        print("%s (%s) sera descartado" % key)
-                        continue
+                if o["prefix"] in db.db_ban:
+                    print("%s (%s) sera descartado" % key)
+                    continue
+                if not db.isOkDom(o["purl"]) or not db.isOk(o["site"]):
+                    print("%s (%s) sera descartado" % key)
+                    continue
                 sites[o["site"]]=o
 
             if not sites:
                 db.close()
-                print("")
                 continue
 
             # https://gerrit.wikimedia.org/g/mediawiki/core/+/HEAD/includes/Defines.php#64
@@ -589,7 +609,6 @@ class ScrapDB:
 
             db.close()
             wiki.sites = {**wiki.sites, **sites}
-            print("")
 
         print("Recuperando información de api wk-json ...", end="\r")
         for site, meta in wiki.sites.items():
@@ -626,15 +645,74 @@ class ScrapDB:
         self.print_totales("wiki", wiki)
         return wiki
 
+    @property
+    @lru_cache(maxsize=None)
+    def mailman(self):
+        mailman = Bunch(
+            sites=[],
+            lists=[]
+        )
+        for sshfile in self.files:
+            if not sshfile.file.get("mailman"):
+                continue
+            print(frm_title(sshfile.host))
+            sites = []
+            fdate = None
+            for site, lsts in sshfile.file['mailman'].items():
+                if site.startswith("__"):
+                    if site == "__timestamp__":
+                        fdate = datetime.fromtimestamp(lsts)
+                    continue
+                if not sshfile.isOkDom(site) or not sshfile.isOk(site):
+                    print("%s sera descartado" % site)
+                    continue
+                r = self.fnd.check(site)
+                if int(r.code/100) in (4, 5, 9):
+                    print("%s sera descartado (%s)" % (site, r.code))
+                    continue
+                sites.append(site)
+
+            if fdate:
+                print("%s mailman encontrados (%s)" % (len(sites), fdate.strftime("%Y-%m-%d")))
+            else:
+                print("%s mailman encontrados" % len(sites))
+
+            for site in sites:
+                lsts = sshfile.file['mailman'][site]
+                site = site.split("://", 1)[-1]
+                mailman.sites.append({
+                    "url": site
+                })
+                for l in lsts:
+                    ls = {
+                        "site": site,
+                        "ID": l["mail"],
+                        "first_mail": l["archive"]["first_date"],
+                        "last_mail": l["archive"]["last_date"],
+                        "date": l["created_at"],
+                        "url": l["url"]["listinfo"],
+                        "archive": l["url"]["archive"],
+                        "owner": l["users"]["owner"],
+                        "moderator": l["users"]["moderator"],
+                        "members": l["users"]["members"],
+                        "total_users": l["users"]["total"],
+                        "mails": l["archive"]["mails"],
+                        "archiving": l["archive"]["archive"],
+                        "exists_archive": l["archive"]["__exists__"],
+                    }
+                    for k, v in list(ls.items()):
+                        if v is not None and isinstance(v, list):
+                            ls[k]=len(v)
+                    #if ls["last_mail"] is None or ls["last_mail"]<l["last_post_time"]:
+                    #    ls["last_mail"] = l["last_post_time"]
+                    for k in "date last_mail first_mail".split():
+                        if ls[k] is not None:
+                            ls[k]=datetime.fromtimestamp(ls[k])
+                    mailman.lists.append(ls)
+        self.print_totales("mailman", mailman)
+        return mailman
+
 if __name__ == "__main__":
-    import json
-    from .connect import DBs
-    from .data import FindUrl
-    fnd = FindUrl("/tmp/error.md")
-    scr = ScrapDB(fnd, *DBs)
-    for m in scr.wiki.sites.values():
-        for k in list(m.keys()):
-            if "json" in k:
-                del m[k]
-    print(json.dumps(scr.wiki.sites, indent=2))
-    fnd.close()
+    scr = Scrap()
+    print(json.dumps(scr.mailman.sites, indent=2))
+    scr.close()

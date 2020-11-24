@@ -5,6 +5,8 @@ from socket import gaierror, gethostbyname
 from subprocess import DEVNULL, STDOUT, check_call
 from urllib.parse import urlparse
 from functools import lru_cache
+from fabric.connection import Connection
+import json
 
 import MySQLdb
 import yaml
@@ -16,6 +18,8 @@ ip_dom = {}
 
 
 def get_ip(dom):
+    if dom.startswith("http"):
+        dom = urlparse(dom).netloc
     if dom in ip_dom:
         return ip_dom[dom]
     try:
@@ -24,14 +28,6 @@ def get_ip(dom):
         ip = -1
     ip_dom[dom] = ip
     return ip
-
-
-def get_yml(path):
-    if not os.path.isfile(path):
-        return []
-    with open(path, "r") as f:
-        return list(yaml.load_all(f, Loader=yaml.FullLoader))
-
 
 def str_list(s):
     if s is None or len(s) == 0:
@@ -78,23 +74,59 @@ def flat(*args):
                 arr.append(i)
     return arr
 
+class ConfigItem:
+    def __init__(self, server, host, **kargv):
+        self.host = host
+        self.ip = get_ip(server)
+        self.url_ban = str_list(kargv.get("url_ban"))
+        self.dom_ban = str_list(kargv.get("dom_ban"))
 
-class DB:
-    def __init__(self, server, host, ssh_private_key_password, user, passwd, remote_bind_address='127.0.0.1', remote_bind_port=3306, **kargv):
+    def isOk(self, url):
+        for u in self.url_ban:
+            if u in url:
+                return False
+        return True
+
+    def isOkDom(self, dom):
+        if dom.startswith("http"):
+            dom = urlparse(dom).netloc
+        if get_ip(dom) != self.ip:
+            return False
+        for d in self.dom_ban:
+            if dom == d or dom.endswith("." + d):
+                return False
+        return True
+
+class SSHFile(ConfigItem):
+    def __init__(self, file, debug=None, **kargv):
+        super().__init__(**kargv)
+        self.file = {}
+        self.debug = debug
+        self._load(file)
+
+    def _load(self, files):
+        with Connection(self.host) as c:
+            with c.sftp() as sftp:
+                for k, file in files.items():
+                    with sftp.open(file) as f:
+                        self.file[k]=json.load(f)
+        if self.debug:
+            for k, v in self.file.items():
+                with open(self.debug+self.host+"-"+k+".json", "w") as f:
+                    json.dump(v, f, indent=2)
+
+class DB(ConfigItem):
+    def __init__(self, ssh_private_key_password, db_user, db_passwd, remote_bind_address='127.0.0.1', remote_bind_port=3306, **kargv):
+        super().__init__(**kargv)
         self.server = SSHTunnelForwarder(
-            host,
+            self.host,
             ssh_private_key_password=ssh_private_key_password,
             remote_bind_address=(remote_bind_address, remote_bind_port)
         )
-        self.host = host
-        self.user = user
-        self.passwd = passwd
+        self.user = db_user
+        self.passwd = db_passwd
         self.db = None
-        self.ip = get_ip(server)
-        self.forze_ok = [tuple(i.split(":", 1)) for i in str_list(kargv.get("forze_ok"))]
         self.db_ban = str_list(kargv.get("db_ban"))
-        self.url_ban = str_list(kargv.get("url_ban"))
-        self.dom_ban = str_list(kargv.get("dom_ban"))
         self.db_meta = kargv.get("db_meta", {})
 
     def connect(self):
@@ -130,22 +162,6 @@ class DB:
         for c in args:
             if c in cols:
                 return c
-
-    def isOk(self, url):
-        for u in self.url_ban:
-            if u in url:
-                return False
-        return True
-
-    def isOkDom(self, dom):
-        if dom.startswith("http"):
-            dom = urlparse(dom).netloc
-        if get_ip(dom) != self.ip:
-            return False
-        for d in self.dom_ban:
-            if dom == d or dom.endswith("." + d):
-                return False
-        return True
 
     def execute(self, file, to_tuples=False):
         cursor = self.db.cursor()
@@ -208,10 +224,3 @@ class DB:
         file = "debug/"+self.host+"_"+debug+".sql"
         with open(file, "r") as f:
             return f.read()
-
-me = os.path.realpath(__file__)
-dr = os.path.dirname(me)
-
-DBs = (
-    DB(**config) for config in get_yml(dr+"/config.yml")
-)

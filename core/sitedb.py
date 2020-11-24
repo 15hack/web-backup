@@ -1,4 +1,4 @@
-from .lite import DBLite, one_factory
+from .lite import DBLite, one_factory, dict_factory
 from .writer import MDWriter
 import sqlite3
 from bunch import Bunch
@@ -26,7 +26,7 @@ def build_tr(md_row, space=" "):
     md_row = "|"+space+md_row+space+"|"
     return md_row
 
-def write(f, sql, *args, end=None):
+def sqlwrite(f, sql, *args, end=None):
     if end is None:
         end = ";\n\n"
     if len(args) > 0:
@@ -80,6 +80,9 @@ class SiteDBLite(DBLite):
                 url!='#' and (
                     type!='wp_pmedia' or
                     (site, ID) in (select site, object from wp_comments)
+                ) and not(
+                    ID=0 and type='wp' and
+                    (url || '/') in (select url from wp_posts)
                 )
             order by
                 site, ID
@@ -152,6 +155,7 @@ class SiteDBLite(DBLite):
             tags
             pages
             topics
+            lists
         '''.strip().split())
         if site is None:
             r.counts['sites']={
@@ -204,14 +208,15 @@ class SiteDBLite(DBLite):
                 row = dict(info.counts)
                 row["ini"] = info.ini
                 row["fin"] = info.fin
-                row["site"] = url
-                row["admin"] = "https://{}/wp-admin/".format(url)
+                row["site"] = url.split("://", 1)[-1]
+                row["url"] = url
+                row["admin"] = "{}/wp-admin/".format(url)
                 row["ult_comment"] = self.one("select IFNULL(substr(max(date), 1, 10), '') from wp_comments where site="+str(id))
                 if row["ult_comment"] is None:
                     row["ult_comment"] = ""
                 if table_link:
                     md_row = build_tr('''
-                        [{site}](https://{site})
+                        [{site}]({url})
                         [{wp_posts}]({admin}edit.php?orderby=date&order=desc)
                         [{wp_comments}]({admin}edit-comments.php?comment_type=comment&orderby=comment_date&order=desc)
                         {fin}
@@ -243,10 +248,11 @@ class SiteDBLite(DBLite):
                 row = dict(info.counts)
                 row["ini"] = info.ini
                 row["fin"] = info.fin
-                row["site"] = url
+                row["site"] = url.split("://", 1)[-1]
+                row["url"] = url
                 if table_link:
                     md_row = build_tr('''
-                        [{site}](http://{site})
+                        [{site}]({url})
                         {phpbb_topics}
                         {phpbb_posts}
                         {fin}
@@ -276,10 +282,11 @@ class SiteDBLite(DBLite):
                 row = dict(info.counts)
                 row["ini"] = info.ini
                 row["fin"] = info.fin
-                row["site"] = url
+                row["site"] = url.split("://", 1)[-1]
+                row["url"] = url
                 if table_link:
                     md_row = build_tr('''
-                        [{site}](http://{site})
+                        [{site}]({url})
                         {wk_pages}
                         {fin}
                         {ini}
@@ -291,6 +298,90 @@ class SiteDBLite(DBLite):
                         {fin}
                         {ini}
                     ''' % max_site)
+                md.write(md_row.format(**row).strip())
+            md.write("")
+            sites = self.select("select id, url from sites where type='mailman'")
+            sites = sorted(sites, key=_sort_sites)
+            max_site = max(len(x[1]) for x in sites)
+            md.write(dedent('''
+                # Mailman
+
+                | SITE | lists | Último uso | 1º uso |
+                |:-----|------:|-----------:|-------:|
+            ''').strip())
+            for id, url in sites:
+                row = self.one('''
+                    select
+                        CASE
+                            when min(first_mail) is null then substr(min(date), 1, 10)
+                            else substr(min(first_mail), 1, 10)
+                        END ini,
+                        substr(min(last_mail), 1, 10) fin,
+                        count(*) lists
+                    from
+                        mailman_lists
+                    where
+                        site={}
+                '''.format(id), row_factory=dict_factory)
+                row["site"] = url.split("://", 1)[-1]
+                row["url"] = url
+                if table_link:
+                    md_row = build_tr('''
+                        [{site}]({url})
+                        {lists}
+                        {fin}
+                        {ini}
+                    ''', space="")
+                else:
+                    md_row = build_tr('''
+                        {site:<%s}
+                        {lists:>6}
+                        {fin}
+                        {ini}
+                    ''' % max_site)
+                row = {k:("" if v is None else v) for k,v in row.items()}
+                md.write(md_row.format(**row).strip())
+            md.write("")
+
+            mailman_lists = self.to_list('''
+                select
+                    ID,
+                    url,
+                    archive,
+                    CASE
+                        when first_mail is null then substr(date, 1, 10)
+                        else substr(first_mail, 1, 10)
+                    END ini,
+                    substr(last_mail, 1, 10) fin,
+                    mails
+                from
+                    mailman_lists
+                order by
+                    site, ID
+            ''', row_factory=dict_factory)
+            max_site = max(len(x['ID']) for x in mailman_lists)
+            md.write(dedent('''
+                ## Listas Mailman
+
+                | LIST | mails | Último uso | 1º uso |
+                |:-----|------:|-----------:|-------:|
+            ''').strip())
+            for row in mailman_lists:
+                if table_link:
+                    md_row = build_tr('''
+                        [{ID}]({url})
+                        {mails}
+                        {fin}
+                        [{ini}]({archive})
+                    ''', space="")
+                else:
+                    md_row = build_tr('''
+                        {ID:<%s}
+                        {mails}
+                        {fin}
+                        {ini}
+                    ''' % max_site)
+                row = {k:("" if v is None else v) for k,v in row.items()}
                 md.write(md_row.format(**row).strip())
             md.write("")
             if table_link:
@@ -305,21 +396,16 @@ class SiteDBLite(DBLite):
     def minimize(self, file):
         re_rem = re.compile(r"^\s*_.*$", re.MULTILINE)
         with open(file, "w") as f:
-            write(f, "BEGIN TRANSACTION")
-            write(f, "DELETE from wp_tags where (site, post) in (select site, id from wp_posts where url is null);")
-            write(f, "DELETE from wk_media where url is null;")
+            sqlwrite(f, """
+                BEGIN TRANSACTION;
+                DELETE from wp_tags where (site, post) in (select site, id from wp_posts where url is null);
+                DELETE from wk_media where url is null;
+            """, end="\n")
             sql = "SELECT type, name FROM sqlite_master WHERE type in ('view', 'table') and name like '^_%' ESCAPE '^'"
             for r in self.select(sql):
-                write(f, "DROP {0} {1}", *r, end=";\n")
-            write(f, "", end="\n")
+                sqlwrite(f, "DROP {0} {1}", *r, end=";\n")
+            sqlwrite(f, "", end="\n")
             tables = [i for i in self.tables.items() if not i[0].startswith("_")]
-            flag = False
-            for t, cs in tables:
-                if "_delete" in cs:
-                    write(f, "DELETE from {0} where _delete=1", t, end=";\n")
-                    flag = True
-            if flag:
-                f.write("\n")
             for t, cs in tables:
                 ok = []
                 ko = []
@@ -329,14 +415,14 @@ class SiteDBLite(DBLite):
                     else:
                         ok.append(c)
                 if len(ko) > 0:
-                    write(f, "ALTER TABLE {0} RENAME TO temp_{0}", t)
+                    sqlwrite(f, "ALTER TABLE {0} RENAME TO temp_{0}", t)
                     sql = self.get_sql_table(t)
                     sql = re_rem.sub("", sql)
-                    write(f, sql)
+                    sqlwrite(f, sql)
                     end = None
                     if "url" in ok:
                         end = "\nwhere url is not null;\n\n"
-                    write(f, '''
+                    sqlwrite(f, '''
                         INSERT INTO {0}
                             ({1})
                         SELECT
@@ -344,8 +430,8 @@ class SiteDBLite(DBLite):
                         FROM
                             temp_{0}
                     ''', t, ", ".join(ok), ", ".join(ok), end=end)
-                    write(f, "DROP TABLE temp_{0}", t)
-            write(f, "COMMIT", end=";")
+                    sqlwrite(f, "DROP TABLE temp_{0}", t)
+            sqlwrite(f, "COMMIT", end=";")
 
         self.execute(file)
 

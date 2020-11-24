@@ -1,8 +1,8 @@
 server: un dominio cualquiera de los que se va a recuperar, sera usado para obtener la ip del servidor
 host: host tal como esta en .ssh/config
 ssh_private_key_password: clave de la ssh key usada en .ssh/config para el host anteriormente indicado (por alguna razón no funciona y la sigue pidiendo igualmente)
-user: usuario de la base de datos
-passwd: contraseña de la base de datos
+db_user: usuario de la base de datos
+db_passwd: contraseña de la base de datos
 remote_bind_address: ip a la que saltar si la base de datos esta en otra maquina
 db_ban:
   - esquema.prefijo de las bases de datos a excluir
@@ -18,5 +18,11 @@ db_meta:
 server: un dominio cualquiera de los que se va a recuperar, sera usado para obtener la ip del servidor
 host: host tal como esta en .ssh/config
 ssh_private_key_password: clave de la ssh key usada en .ssh/config para el host anteriormente indicado (por alguna razón no funciona y la sigue pidiendo igualmente)
-user: usuario de la base de datos
-passwd: contraseña de la base de datos
+db_user: usuario de la base de datos
+db_passwd: contraseña de la base de datos
+---
+server: un dominio cualquiera de los que se va a recuperar, sera usado para obtener la ip del servidor
+host: host tal como esta en .ssh/config
+ssh_private_key_password: clave de la ssh key usada en .ssh/config para el host anteriormente indicado (por alguna razón no funciona y la sigue pidiendo igualmente)
+file:
+  mailman: fichero generado con mailman-map.py de https://github.com/15hack/mailman

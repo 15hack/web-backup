@@ -1,9 +1,6 @@
 BEGIN TRANSACTION;
-
-DELETE from wp_tags where (site, post) in (select site, id from wp_posts where url is null);;
-
-DELETE from wk_media where url is null;;
-
+DELETE from wp_tags where (site, post) in (select site, id from wp_posts where url is null);
+DELETE from wk_media where url is null;
 
 ALTER TABLE sites RENAME TO temp_sites;
 
@@ -162,5 +159,29 @@ FROM
 where url is not null;
 
 DROP TABLE temp_wk_pages;
+
+ALTER TABLE mailman_lists RENAME TO temp_mailman_lists;
+
+CREATE TABLE mailman_lists (
+  site INTEGER REFERENCES sites(ID),
+  ID TEXT,
+  date TEXT,
+  first_mail TEXT,
+  last_mail TEXT,
+  mails INTEGER,
+  url TEXT,
+  archive TEXT,
+  PRIMARY KEY (site, id)
+);
+
+INSERT INTO mailman_lists
+    (site, ID, date, first_mail, last_mail, mails, url, archive)
+SELECT
+    site, ID, date, first_mail, last_mail, mails, url, archive
+FROM
+    temp_mailman_lists
+where url is not null;
+
+DROP TABLE temp_mailman_lists;
 
 COMMIT;

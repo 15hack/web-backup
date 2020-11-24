@@ -127,8 +127,36 @@ CREATE TABLE wk_media (
   PRIMARY KEY (site, id)
 );
 
+CREATE TABLE mailman_lists (
+  site INTEGER REFERENCES sites(ID),
+  ID TEXT,
+  date TEXT,
+  first_mail TEXT,
+  last_mail TEXT,
+  mails INTEGER,
+  url TEXT,
+  archive TEXT,
+  _owner INTEGER,
+  _moderator INTEGER,
+  _members INTEGER,
+  _total_users INTEGER,
+  _private_roster INTEGER,
+  _archiving INTEGER,
+  _exists_archive INTEGER,
+  _archive_private INTEGER,
+  _advertised INTEGER,
+  PRIMARY KEY (site, id)
+);
+
 CREATE VIEW objects
 AS
+SELECT 0 ID, ID site,
+  type,
+  null date,
+  url
+FROM
+  sites
+UNION
 SELECT ID, site,
   ('wp_' || type) type,
   date,
@@ -179,4 +207,18 @@ SELECT ID, site,
   url
 FROM
   wk_media
+UNION
+SELECT ID, site,
+  'mailman_lists' type,
+  date,
+  url
+FROM
+  mailman_lists
+UNION
+SELECT ID, site,
+  'mailman_archive' type,
+  date,
+  archive url
+FROM
+  mailman_lists
 ;

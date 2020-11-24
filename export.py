@@ -4,17 +4,15 @@ import re
 
 from bunch import Bunch
 
-from core.connect import DBs
 from core.sitedb import SiteDBLite
-from core.data import FindUrl, tuple_url, loadwpjson
-from core.scrapdb import ScrapDB
+from core.data import FindUrl, tuple_url, loadwpjson, get_protocol
+from core.scrap import Scrap
 
 abspath = os.path.abspath(__file__)
 dname = os.path.dirname(abspath)
 os.chdir(dname)
 
-fnd = FindUrl("out/error.md")
-scr = ScrapDB(fnd, *DBs)
+scr = Scrap()
 
 db = SiteDBLite("sites.db", total=scr.rows, overwrite=True)
 print("Creando sqlite 0%", end="\r")
@@ -52,7 +50,14 @@ for data in scr.wiki.pages:
 for data in scr.wiki.media:
     db.insert("wk_media", **data)
 
-fnd.close()
+for data in scr.mailman.lists:
+    db.insert("mailman_lists", **data)
+
+for id, url in db.to_list("select id, url from sites"):
+    p = get_protocol(url)
+    db.update("sites", url=p+"://"+url, ID=id)
+
+scr.close()
 db.execute("sql/update.sql")
 db.commit()
 db.close(vacuum=True)

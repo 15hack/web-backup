@@ -3,6 +3,13 @@ import tempfile
 from subprocess import DEVNULL, STDOUT, check_call
 import os
 from glob import glob
+import yaml
+
+def get_yml(path):
+    if not os.path.isfile(path):
+        return []
+    with open(path, "r") as f:
+        return list(yaml.load_all(f, Loader=yaml.FullLoader))
 
 def find_value(o, *args, avoid=None):
     if avoid is None:

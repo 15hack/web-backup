@@ -93,7 +93,7 @@ def get_protocol(site):
                 return p
         except:
             pass
-    cache_protocol["site"] = "https"
+    cache_protocol[site] = "https"
     return "https"
 
 def loadwpjson(site, db_objs):
@@ -338,7 +338,6 @@ class FindUrl:
         r.textlink = text_link(r.url)
         if int(r.code/100) in (4, 5, 9):
             self.writeln("`{0}` [{2}]({1})", r.code, r.url, r.textlink)
-            return None
         return r
 
     def get(self, blog, obj, attachment_id=False):

@@ -136,7 +136,12 @@ class DBLite:
         sql = "insert or "+insert_or if insert_or else "insert"
         sql = sql+" into %s (%s) values (%s)" % (
             table, ', '.join(keys), ', '.join(prm))
-        self.con.execute(sql, vals)
+        try:
+            self.con.execute(sql, vals)
+        except sqlite3.InterfaceError:
+            print(sql)
+            print(vals)
+            raise
         return sobra
 
     def update(self, table, **kargv):
@@ -225,7 +230,7 @@ class DBLite:
         self.con.row_factory=None
         if not r:
             return None
-        if len(r)==1:
+        if row_factory is None and len(r)==1:
             return r[0]
         return r
 
