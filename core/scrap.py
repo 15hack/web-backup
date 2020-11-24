@@ -550,7 +550,7 @@ class Scrap:
             for o in results:
                 data = db.db_meta.get(o["prefix"])
                 if data is None:
-                    print("%s sera descartado (no hay aparece en db_meta)" % o["prefix"])
+                    print("%s sera descartado (no aparece en db_meta)" % o["prefix"])
                     continue
                 o = {**o, **data}
                 o["_DB"] = o["prefix"]
@@ -700,6 +700,7 @@ class Scrap:
                         "archiving": l["archive"]["archive"],
                         "exists_archive": l["archive"]["__exists__"],
                     }
+                    ls = {**l['visibility'], **ls}
                     for k, v in list(ls.items()):
                         if v is not None and isinstance(v, list):
                             ls[k]=len(v)

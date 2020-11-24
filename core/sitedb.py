@@ -188,12 +188,17 @@ class SiteDBLite(DBLite):
         if "url" in self.tables["sites"]:
             def _sort_sites(x):
                 id, url = x[:2]
+                pro, url = url.split("://", 1)
                 r = re.split(r"[/\?]", url, maxsplit=1)
-                r[0]=tuple(reversed(r[0].split(".")))
-                if len(r)==1:
-                    r.append("")
-                r.append(id)
-                return tuple(r+list(x[2:]))
+                dom = r[0]
+                path = r[1] if len(r)>1 else None
+                r = [
+                    tuple(reversed(dom.split("."))),
+                    path,
+                    id,
+                    pro
+                ]+list(x[2:])
+                return tuple(r)
 
             md.write("")
             md.write("Lo que supone {urls} urls.".format(urls=len(self.links)))
