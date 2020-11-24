@@ -15,7 +15,7 @@ Se han escaneado 191 `sites`, con datos desde el 2011-05-17 al 2020-05-16, repar
 * 42649 registros en `wp_posts`
 * 102026 registros en `wp_tags`
 
-Lo que supone 69071 urls.
+Lo que supone 68928 urls.
 
 # Wordpress
 

@@ -83,6 +83,9 @@ class SiteDBLite(DBLite):
                 ) and not(
                     ID=0 and type='wp' and
                     (url || '/') in (select url from wp_posts)
+                ) and not(
+                    type='mailman_archive' and
+                    url like '%/mailman/private/%'
                 )
             order by
                 site, ID
