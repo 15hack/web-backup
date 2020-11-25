@@ -673,7 +673,7 @@ class Scrap:
                 sites.append(site)
 
             if fdate:
-                print("%s mailman encontrados (%s)" % (len(sites), fdate.strftime("%Y-%m-%d")))
+                print("%s mailman encontrados (%s)" % (len(sites), fdate.strftime("%Y-%m-%d %H:%M")))
             else:
                 print("%s mailman encontrados" % len(sites))
 
