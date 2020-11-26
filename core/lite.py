@@ -54,6 +54,15 @@ class CaseInsensitiveDict(dict):
     def __getitem__(self, key):
         return dict.__getitem__(self, key.lower())
 
+    def do_null(self):
+        for k in self.keys():
+            self[k]=None
+
+    def rm_null(self):
+        for k, v in list(self.items()):
+            if v is None:
+                del self[k]
+
 class DBLite:
     def __init__(self, file, readonly=False, overwrite=False):
         self.file = file
@@ -67,8 +76,7 @@ class DBLite:
         else:
             self.con = sqlite3.connect(
                 self.file, detect_types=sqlite3.PARSE_DECLTYPES)
-        self.tables = None
-        self._tables=[]
+        self.tables = CaseInsensitiveDict()
         self.load_tables()
         self.inTransaction = False
 
@@ -100,19 +108,15 @@ class DBLite:
         cursor.close()
         return cols
 
+
     def load_tables(self):
-        tables=[]
+        self.tables.do_null()
         for t in self.to_list("SELECT name FROM sqlite_master WHERE type = 'table'"):
             try:
-                tables.append((t, self.get_cols("select * from "+t+" limit 0")))
-                if t not in self._tables:
-                    self._tables.append(t)
+                self.tables[t] = self.get_cols("select * from "+t+" limit 0")
             except:
                 pass
-        self.tables = CaseInsensitiveDict()
-        tables = sorted(tables, key=lambda x:self._tables.index(x[0]))
-        for t, c in tables:
-            self.tables[t]=c
+        self.tables.rm_null()
 
     def insert(self, table, insert_or=None, **kargv):
         sobra = {}
