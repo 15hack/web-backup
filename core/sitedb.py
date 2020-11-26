@@ -76,6 +76,7 @@ class SiteDBLite(DBLite):
             from
                 objects
             where
+                type!='mailman_mail' and
                 url is not null and
                 url!='#' and (
                     type!='wp_pmedia' or
@@ -84,7 +85,7 @@ class SiteDBLite(DBLite):
                     ID=0 and type='wp' and
                     (url || '/') in (select url from wp_posts)
                 ) and not(
-                    type='mailman_archive' and
+                    type in ('mailman_archive', 'mailman_mail') and
                     url like '%/mailman/private/%'
                 )
             order by
@@ -151,15 +152,6 @@ class SiteDBLite(DBLite):
             fin=fin,
             counts={}
         )
-        tables = tuple('''
-            posts
-            media
-            comments
-            tags
-            pages
-            topics
-            lists
-        '''.strip().split())
         if site is None:
             r.counts['sites']={
                 '_total_':self.one("select count(*) from sites")
@@ -167,7 +159,7 @@ class SiteDBLite(DBLite):
             for tp, c in self.select("select type, count(*) c from sites group by type order by count(*) desc"):
                 r.counts['sites'][tp]=c
         for t in sorted(self.tables):
-            if t not in tables and t.split("_", 1)[-1] not in tables:
+            if t == "sites":
                 continue
             r.counts[t]=self.one("select count(*) from "+t+where)
         return r
@@ -353,19 +345,22 @@ class SiteDBLite(DBLite):
 
             mailman_lists = self.to_list('''
                 select
-                    ID,
-                    url,
-                    archive,
+                    l.ID,
+                    l.url,
                     CASE
-                        when first_mail is null then substr(date, 1, 10)
-                        else substr(first_mail, 1, 10)
+                        when l.first_mail is null then substr(l.date, 1, 10)
+                        else substr(l.first_mail, 1, 10)
                     END ini,
-                    substr(last_mail, 1, 10) fin,
-                    mails
+                    substr(l.last_mail, 1, 10) fin,
+                    l.mails,
+                    a.url archive
                 from
-                    mailman_lists
+                    mailman_lists l left join mailman_archive a on
+						a.type='archive' and
+                        a.list=l.ID and
+                        a.site=l.site
                 order by
-                    site, ID
+                    l.site, l.ID
             ''', row_factory=dict_factory)
             max_site = max(len(x['ID']) for x in mailman_lists)
             md.write(dedent('''
@@ -408,6 +403,7 @@ class SiteDBLite(DBLite):
                 BEGIN TRANSACTION;
                 DELETE from wp_tags where (site, post) in (select site, id from wp_posts where url is null);
                 DELETE from wk_media where url is null;
+                DELETE from mailman_archive where type='mail' and url like '%/mailman/private/%';
             """, end="\n")
             sql = "SELECT type, name FROM sqlite_master WHERE type in ('view', 'table') and name like '^_%' ESCAPE '^'"
             for r in self.select(sql):

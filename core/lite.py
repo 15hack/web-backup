@@ -99,18 +99,9 @@ class DBLite:
         cursor.close()
         return cols
 
-    def get_objects(self, *tp):
-        if len(tp)==1:
-            sql = "SELECT name FROM sqlite_master WHERE type = '%s'" % tp[0]
-        else:
-            if not tp:
-                tp = ('table', 'view')
-            sql = "SELECT name FROM sqlite_master WHERE type in " + str(tp)
-        return list(self.select(sql, row_factory=one_factory))
-
     def load_tables(self):
         self.tables = CaseInsensitiveDict()
-        for t in self.get_objects():
+        for t in self.to_list("SELECT name FROM sqlite_master WHERE type = 'table'"):
             try:
                 self.tables[t] = self.get_cols("select * from "+t+" limit 0")
             except:
@@ -264,13 +255,7 @@ class DBLite:
         return self.size(zip)
 
     def find_cols(self, *cols):
-        cls = None
-        for t in self.get_objects('table'):
-            try:
-                cls = self.get_cols("select * from "+t+" limit 0")
-            except:
-                continue
-            for t, cls in self.tables.items():
-                for c in cols:
-                    if c in cls:
-                        yield (t, c)
+        for t, cls in self.tables.items():
+            for c in cols:
+                if c in cls:
+                    yield (t, c)

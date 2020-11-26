@@ -4,6 +4,7 @@ Se han escaneado 191 `sites`, con datos desde el 2011-05-17 al 2020-05-16, repar
 * 19 sitios `mailman`
 * 3 sitios `phpbb`
 * 1 sitio `wiki`
+* 28722 registros en `mailman_archive`
 * 222 registros en `mailman_lists`
 * 629 registros en `phpbb_media`
 * 4042 registros en `phpbb_posts`
@@ -15,7 +16,7 @@ Se han escaneado 191 `sites`, con datos desde el 2011-05-17 al 2020-05-16, repar
 * 42649 registros en `wp_posts`
 * 102026 registros en `wp_tags`
 
-Lo que supone 68928 urls.
+Lo que supone 68927 urls.
 
 # Wordpress
 
@@ -23,9 +24,9 @@ Lo que supone 68928 urls.
 |:-----|----------:|------------:|-----------:|-------:|------------------:|
 |[takethesquare.net](https://takethesquare.net)|[925](https://takethesquare.net/wp-admin/edit.php?orderby=date&order=desc)|[2](https://takethesquare.net/wp-admin/edit-comments.php?comment_type=comment&orderby=comment_date&order=desc)|2020-02-01|2011-07-06|2012-07-14|
 |[15oct.takethesquare.net](https://15oct.takethesquare.net)|[64](https://15oct.takethesquare.net/wp-admin/edit.php?orderby=date&order=desc)|[600](https://15oct.takethesquare.net/wp-admin/edit-comments.php?comment_type=comment&orderby=comment_date&order=desc)|2012-05-06|2011-08-15|2011-11-16|
-|[antibanks.takethesquare.net](http://antibanks.takethesquare.net)|[19](http://antibanks.takethesquare.net/wp-admin/edit.php?orderby=date&order=desc)|[64](http://antibanks.takethesquare.net/wp-admin/edit-comments.php?comment_type=comment&orderby=comment_date&order=desc)|2012-02-23|2011-08-15|2011-09-19|
-|[dec10.takethesquare.net](http://dec10.takethesquare.net)|[36](http://dec10.takethesquare.net/wp-admin/edit.php?orderby=date&order=desc)|[178](http://dec10.takethesquare.net/wp-admin/edit-comments.php?comment_type=comment&orderby=comment_date&order=desc)|2011-11-30|2011-11-03|2011-12-12|
-|[howtocamp.takethesquare.net](http://howtocamp.takethesquare.net)|[246](http://howtocamp.takethesquare.net/wp-admin/edit.php?orderby=date&order=desc)|[936](http://howtocamp.takethesquare.net/wp-admin/edit-comments.php?comment_type=comment&orderby=comment_date&order=desc)|2012-09-05|2011-10-10|2013-02-12|
+|[antibanks.takethesquare.net](https://antibanks.takethesquare.net)|[19](https://antibanks.takethesquare.net/wp-admin/edit.php?orderby=date&order=desc)|[64](https://antibanks.takethesquare.net/wp-admin/edit-comments.php?comment_type=comment&orderby=comment_date&order=desc)|2012-02-23|2011-08-15|2011-09-19|
+|[dec10.takethesquare.net](https://dec10.takethesquare.net)|[36](https://dec10.takethesquare.net/wp-admin/edit.php?orderby=date&order=desc)|[178](https://dec10.takethesquare.net/wp-admin/edit-comments.php?comment_type=comment&orderby=comment_date&order=desc)|2011-11-30|2011-11-03|2011-12-12|
+|[howtocamp.takethesquare.net](https://howtocamp.takethesquare.net)|[246](https://howtocamp.takethesquare.net/wp-admin/edit.php?orderby=date&order=desc)|[936](https://howtocamp.takethesquare.net/wp-admin/edit-comments.php?comment_type=comment&orderby=comment_date&order=desc)|2012-09-05|2011-10-10|2013-02-12|
 |[marchestobrussels.takethesquare.net](https://marchestobrussels.takethesquare.net)|[578](https://marchestobrussels.takethesquare.net/wp-admin/edit.php?orderby=date&order=desc)|[41](https://marchestobrussels.takethesquare.net/wp-admin/edit-comments.php?comment_type=comment&orderby=comment_date&order=desc)|2011-10-31|2011-07-18|2011-10-28|
 |[radio.takethesquare.net](https://radio.takethesquare.net)|[2](https://radio.takethesquare.net/wp-admin/edit.php?orderby=date&order=desc)|[0](https://radio.takethesquare.net/wp-admin/edit-comments.php?comment_type=comment&orderby=comment_date&order=desc)|2011-08-19|2011-08-05||
 |[transitionday.takethesquare.net](https://transitionday.takethesquare.net)|[33](https://transitionday.takethesquare.net/wp-admin/edit.php?orderby=date&order=desc)|[6](https://transitionday.takethesquare.net/wp-admin/edit-comments.php?comment_type=comment&orderby=comment_date&order=desc)|2012-05-26|2011-10-25|2012-02-23|
@@ -185,8 +186,8 @@ Lo que supone 68928 urls.
 |[villadevallecas.tomalosbarrios.net](https://villadevallecas.tomalosbarrios.net)|[1469](https://villadevallecas.tomalosbarrios.net/wp-admin/edit.php?orderby=date&order=desc)|[211](https://villadevallecas.tomalosbarrios.net/wp-admin/edit-comments.php?comment_type=comment&orderby=comment_date&order=desc)|2012-09-16|2011-06-02|2012-09-12|
 |[villaverde.tomalosbarrios.net](https://villaverde.tomalosbarrios.net)|[1361](https://villaverde.tomalosbarrios.net/wp-admin/edit.php?orderby=date&order=desc)|[43](https://villaverde.tomalosbarrios.net/wp-admin/edit-comments.php?comment_type=comment&orderby=comment_date&order=desc)|2015-12-03|2011-05-23|2015-11-23|
 |[zarzalejo.tomalosbarrios.net](https://zarzalejo.tomalosbarrios.net)|[33](https://zarzalejo.tomalosbarrios.net/wp-admin/edit.php?orderby=date&order=desc)|[13](https://zarzalejo.tomalosbarrios.net/wp-admin/edit-comments.php?comment_type=comment&orderby=comment_date&order=desc)|2012-10-27|2011-06-02|2012-05-29|
-|[madrid15m.org](https://madrid15m.org)|[658](https://madrid15m.org/wp-admin/edit.php?orderby=date&order=desc)|[14](https://madrid15m.org/wp-admin/edit-comments.php?comment_type=comment&orderby=comment_date&order=desc)|2019-05-10|2012-02-01|2017-04-24|
-|[www.tomalatele.tv/guindatv](https://www.tomalatele.tv/guindatv)|[36](https://www.tomalatele.tv/guindatv/wp-admin/edit.php?orderby=date&order=desc)|[0](https://www.tomalatele.tv/guindatv/wp-admin/edit-comments.php?comment_type=comment&orderby=comment_date&order=desc)|2019-03-28|2014-04-10||
+|[madrid15m.org](http://madrid15m.org)|[658](http://madrid15m.org/wp-admin/edit.php?orderby=date&order=desc)|[14](http://madrid15m.org/wp-admin/edit-comments.php?comment_type=comment&orderby=comment_date&order=desc)|2019-05-10|2012-02-01|2017-04-24|
+|[www.tomalatele.tv/guindatv](http://www.tomalatele.tv/guindatv)|[36](http://www.tomalatele.tv/guindatv/wp-admin/edit.php?orderby=date&order=desc)|[0](http://www.tomalatele.tv/guindatv/wp-admin/edit-comments.php?comment_type=comment&orderby=comment_date&order=desc)|2019-03-28|2014-04-10||
 |[www.tomalatele.tv/web](https://www.tomalatele.tv/web)|[2468](https://www.tomalatele.tv/web/wp-admin/edit.php?orderby=date&order=desc)|[727](https://www.tomalatele.tv/web/wp-admin/edit-comments.php?comment_type=comment&orderby=comment_date&order=desc)|2018-11-14|2011-08-06|2019-10-22|
 |[www.tomalatele.tv/web/streaming](https://www.tomalatele.tv/web/streaming)|[33](https://www.tomalatele.tv/web/streaming/wp-admin/edit.php?orderby=date&order=desc)|[0](https://www.tomalatele.tv/web/streaming/wp-admin/edit-comments.php?comment_type=comment&orderby=comment_date&order=desc)|2012-09-25|2012-05-09||
 
@@ -194,15 +195,15 @@ Lo que supone 68928 urls.
 
 | SITE | topics | posts | Último uso | 1º uso |
 |:-----|-------:|------:|-----------:|-------:|
-|[15hack.tomalaplaza.net/foro](https://15hack.tomalaplaza.net/foro)|13|29|2016-09-21|2015-04-29|
+|[15hack.tomalaplaza.net/foro](http://15hack.tomalaplaza.net/foro)|13|29|2016-09-21|2015-04-29|
 |[foro.tomalosbarrios.net](http://foro.tomalosbarrios.net)|1458|3932|2018-11-24|2011-09-02|
-|[www.tomalatele.tv/foro](https://www.tomalatele.tv/foro)|31|81|2013-03-22|2012-03-26|
+|[www.tomalatele.tv/foro](http://www.tomalatele.tv/foro)|31|81|2013-03-22|2012-03-26|
 
 # MediaWiki
 
 | SITE | pages | Último uso | 1º uso |
 |:-----|------:|-----------:|-------:|
-|[wiki.tomalaplaza.net](https://wiki.tomalaplaza.net)|349|2016-02-26|2011-05-20|
+|[wiki.tomalaplaza.net](http://wiki.tomalaplaza.net)|349|2016-02-26|2011-05-20|
 
 # Mailman
 
@@ -436,7 +437,7 @@ Lo que supone 68928 urls.
 |[difusion15m.sierranorte@madrid.tomalosbarrios.net](https://madrid.tomalosbarrios.net/mailman/listinfo/difusion15m.sierranorte)|3|2016-05-31|[2016-05-31](https://madrid.tomalosbarrios.net/mailman/pipermail/madrid.tomalosbarrios.net/difusion15m.sierranorte/)|
 |[gti.pedrezuela@madrid.tomalosbarrios.net](https://madrid.tomalosbarrios.net/mailman/listinfo/gti.pedrezuela)|1334|2017-06-07|[2015-04-06](https://madrid.tomalosbarrios.net/mailman/pipermail/madrid.tomalosbarrios.net/gti.pedrezuela/)|
 |[gti.sierranorte@madrid.tomalosbarrios.net](https://madrid.tomalosbarrios.net/mailman/listinfo/gti.sierranorte)|1477|2020-11-02|[2015-11-30](https://madrid.tomalosbarrios.net/mailman/pipermail/madrid.tomalosbarrios.net/gti.sierranorte/)|
-|[infogetafe15m@madrid.tomalosbarrios.net](https://madrid.tomalosbarrios.net/mailman/listinfo/infogetafe15m)|6509|2020-11-24|[2015-04-06](https://madrid.tomalosbarrios.net/mailman/pipermail/madrid.tomalosbarrios.net/infogetafe15m/)|
+|[infogetafe15m@madrid.tomalosbarrios.net](https://madrid.tomalosbarrios.net/mailman/listinfo/infogetafe15m)|6512|2020-11-25|[2015-04-06](https://madrid.tomalosbarrios.net/mailman/pipermail/madrid.tomalosbarrios.net/infogetafe15m/)|
 |[plataforma-vivienda-pueblosur@madrid.tomalosbarrios.net](https://madrid.tomalosbarrios.net/mailman/listinfo/plataforma-vivienda-pueblosur)|0||[2012-07-18](https://madrid.tomalosbarrios.net/mailman/private/plataforma-vivienda-pueblosur/)|
 |[tecnologiapopular.sierranorte@madrid.tomalosbarrios.net](https://madrid.tomalosbarrios.net/mailman/listinfo/tecnologiapopular.sierranorte)|0||[2012-07-17](https://madrid.tomalosbarrios.net/mailman/private/tecnologiapopular.sierranorte/)|
 |[webgetafe15m@madrid.tomalosbarrios.net](https://madrid.tomalosbarrios.net/mailman/listinfo/webgetafe15m)|849|2020-11-24|[2015-04-06](https://madrid.tomalosbarrios.net/mailman/pipermail/madrid.tomalosbarrios.net/webgetafe15m/)|

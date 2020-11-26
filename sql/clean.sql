@@ -1,6 +1,7 @@
 BEGIN TRANSACTION;
 DELETE from wp_tags where (site, post) in (select site, id from wp_posts where url is null);
 DELETE from wk_media where url is null;
+DELETE from mailman_archive where type='mail' and url like '%/mailman/private/%';
 
 ALTER TABLE sites RENAME TO temp_sites;
 
@@ -170,14 +171,13 @@ CREATE TABLE mailman_lists (
   last_mail TEXT,
   mails INTEGER,
   url TEXT,
-  archive TEXT,
   PRIMARY KEY (site, id)
 );
 
 INSERT INTO mailman_lists
-    (site, ID, date, first_mail, last_mail, mails, url, archive)
+    (site, ID, date, first_mail, last_mail, mails, url)
 SELECT
-    site, ID, date, first_mail, last_mail, mails, url, archive
+    site, ID, date, first_mail, last_mail, mails, url
 FROM
     temp_mailman_lists
 where url is not null;

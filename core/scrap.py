@@ -650,7 +650,8 @@ class Scrap:
     def mailman(self):
         mailman = Bunch(
             sites=[],
-            lists=[]
+            lists=[],
+            archive=[]
         )
         for sshfile in self.files:
             if not sshfile.file.get("mailman"):
@@ -691,7 +692,6 @@ class Scrap:
                         "last_mail": l["archive"]["last_date"],
                         "date": l["created_at"],
                         "url": l["url"]["listinfo"],
-                        "archive": l["url"]["archive"],
                         "owner": l["users"]["owner"],
                         "moderator": l["users"]["moderator"],
                         "members": l["users"]["members"],
@@ -710,6 +710,20 @@ class Scrap:
                         if ls[k] is not None:
                             ls[k]=datetime.fromtimestamp(ls[k])
                     mailman.lists.append(ls)
+                    if l["url"]["archive"]:
+                        mailman.archive.append({
+                            "site": site,
+                            "list": l["mail"],
+                            "type": "archive",
+                            "url": l["url"]["archive"]
+                        })
+                    for url in l["archive"]["urls"]:
+                        mailman.archive.append({
+                            "site": site,
+                            "list": l["mail"],
+                            "type": "mail",
+                            "url": url
+                        })
         self.print_totales("mailman", mailman)
         return mailman
 

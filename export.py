@@ -53,8 +53,31 @@ for data in scr.wiki.media:
 for data in scr.mailman.lists:
     db.insert("mailman_lists", **data)
 
+for data in scr.mailman.archive:
+    db.insert("mailman_archive", **data)
+
+sql=[]
+for t, cls in db.tables.items():
+    if "site" in cls and "url" in cls:
+        sql.append('select site, substr(url, 1, INSTR(url, "://")-1) p from '+t)
+sql = "\nUNION ALL\n".join(sql)
+sql='''
+select site, p, count(*) c from (
+    {}
+)
+where p in ("http", "https")
+group by site, p
+order by count(*)
+'''.format(sql)
+
+site_pro={}
+for s, p, _ in db.select(sql):
+    site_pro[s]=p
+
 for id, url in db.to_list("select id, url from sites"):
-    p = get_protocol(url)
+    p = site_pro.get(id)
+    if p is None:
+        p = get_protocol(url)
     db.update("sites", url=p+"://"+url, ID=id)
 
 scr.close()

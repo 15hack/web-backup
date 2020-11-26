@@ -135,7 +135,6 @@ CREATE TABLE mailman_lists (
   last_mail TEXT,
   mails INTEGER,
   url TEXT,
-  archive TEXT,
   _owner INTEGER,
   _moderator INTEGER,
   _members INTEGER,
@@ -146,6 +145,13 @@ CREATE TABLE mailman_lists (
   _archive_private INTEGER,
   _advertised INTEGER,
   PRIMARY KEY (site, id)
+);
+
+CREATE TABLE mailman_archive (
+  site INTEGER REFERENCES sites(ID),
+  list TEXT REFERENCES mailman_lists(ID),
+  type TEXT,
+  url TEXT
 );
 
 CREATE VIEW objects
@@ -215,10 +221,10 @@ SELECT ID, site,
 FROM
   mailman_lists
 UNION
-SELECT ID, site,
-  'mailman_archive' type,
-  date,
-  archive url
+SELECT list ID, site,
+  ('mailman_' || type) type,
+  null date,
+  url
 FROM
-  mailman_lists
+  mailman_archive
 ;
