@@ -68,6 +68,7 @@ class DBLite:
             self.con = sqlite3.connect(
                 self.file, detect_types=sqlite3.PARSE_DECLTYPES)
         self.tables = None
+        self._tables=[]
         self.load_tables()
         self.inTransaction = False
 
@@ -100,12 +101,18 @@ class DBLite:
         return cols
 
     def load_tables(self):
-        self.tables = CaseInsensitiveDict()
+        tables=[]
         for t in self.to_list("SELECT name FROM sqlite_master WHERE type = 'table'"):
             try:
-                self.tables[t] = self.get_cols("select * from "+t+" limit 0")
+                tables.append((t, self.get_cols("select * from "+t+" limit 0")))
+                if t not in self._tables:
+                    self._tables.append(t)
             except:
                 pass
+        self.tables = CaseInsensitiveDict()
+        tables = sorted(tables, key=lambda x:self._tables.index(x[0]))
+        for t, c in tables:
+            self.tables[t]=c
 
     def insert(self, table, insert_or=None, **kargv):
         sobra = {}

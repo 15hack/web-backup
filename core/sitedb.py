@@ -158,7 +158,7 @@ class SiteDBLite(DBLite):
             }
             for tp, c in self.select("select type, count(*) c from sites group by type order by count(*) desc"):
                 r.counts['sites'][tp]=c
-        for t in sorted(self.tables):
+        for t in self.tables.keys():
             if t == "sites":
                 continue
             r.counts[t]=self.one("select count(*) from "+t+where)
