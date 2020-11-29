@@ -1,21 +1,23 @@
 Se han escaneado 197 `sites`, con datos desde el 2011-05-17 al 2020-05-16, repartidos en:
 
-* 168 sitios `wp`
-* 19 sitios `mailman`
-* 6 sitios `apache`
-* 3 sitios `phpbb`
-* 1 sitio `wiki`
-* 42649 registros en `wp_posts`
-* 23294 registros en `wp_media`
-* 102026 registros en `wp_tags`
-* 43302 registros en `wp_comments`
-* 1502 registros en `phpbb_topics`
-* 4042 registros en `phpbb_posts`
-* 629 registros en `phpbb_media`
-* 349 registros en `wk_pages`
-* 98 registros en `wk_media`
-* 222 registros en `mailman_lists`
-* 28722 registros en `mailman_archive`
+|  items | tabla |
+|-------:|-------|
+|    168 | sites[type='wp'] |
+|     19 | sites[type='mailman'] |
+|      6 | sites[type='apache'] |
+|      3 | sites[type='phpbb'] |
+|      1 | sites[type='wiki'] |
+|  42649 | wp_posts |
+|  23294 | wp_media |
+| 102026 | wp_tags |
+|  43302 | wp_comments |
+|   1502 | phpbb_topics |
+|   4042 | phpbb_posts |
+|    629 | phpbb_media |
+|    349 | wk_pages |
+|     98 | wk_media |
+|    222 | mailman_lists |
+|  28722 | mailman_archive |
 
 Lo que supone 68933 urls.
 

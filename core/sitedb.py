@@ -169,14 +169,25 @@ class SiteDBLite(DBLite):
         r = self.get_info()
         md.write(dedent('''
             Se han escaneado {t_sites} `sites`, con datos desde el {ini} al {fin}, repartidos en:
-        ''').format(t_sites=r.counts['sites']['_total_'], **dict(r)))
+
+            |  items | tabla |
+            |-------:|-------|
+        ''').format(t_sites=r.counts['sites']['_total_'], **dict(r)).strip())
         del r.counts['sites']['_total_']
+        max_width = max(len(str(v)) for k,v in r.counts.items() if k!='sites')
         for t, c in r.counts['sites'].items():
-            s = "" if c == 1 else "s"
-            md.write("* {rows} sitio{s} `{type}`".format(type=t, rows=c, s=s))
+            row = build_tr('''
+                {rows:>%s}
+                sites[type='{type}']
+            ''' % max_width)
+            md.write(row.format(type=t, rows=c).strip())
         del r.counts['sites']
         for t, c in r.counts.items():
-            md.write("* {rows} registros en `{table}`".format(table=t, rows=c))
+            row = build_tr('''
+                {rows:>%s}
+                {table}
+            ''' % max_width)
+            md.write(row.format(table=t, rows=c).strip())
         if "url" in self.tables["sites"]:
             def _sort_sites(x):
                 id, url = x[:2]
