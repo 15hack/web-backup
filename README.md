@@ -6,7 +6,7 @@ Actualmente solo funciona para **wordpress**, **phpbb**
 y parcialmente **mediawiki** y **mailman** pero lo deseable es que
 se extienda a todos los servicios posibles.
 Adicionalmente busca en la configuración de **apache** dominios
-que no se hayan detectado aun.
+que no se hayan detectado aún.
 
 En funcionamiento básico es el siguiente:
 
@@ -17,7 +17,7 @@ En funcionamiento básico es el siguiente:
     * [`la api wordpress`](https://developer.wordpress.org/rest-api/)
     * [`la api mediawiki`](https://www.mediawiki.org/wiki/API:Main_page)
 5. Obtenemos un mapa de `mailman` generado con [`mailman-map.py`](https://github.com/15hack/mailman)
-6. Buscamos en `apache` más sitios web.
+6. Buscamos en `apache` más sitios web
 7. Creamos la base de datos `SQLite` con dicha información
 
 # Fichero de configuración y scripts
