@@ -4,6 +4,7 @@ import requests
 from bunch import Bunch
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse, urlencode
+import simplejson
 
 
 def get_targets(url, html):
@@ -56,9 +57,12 @@ class WP:
             self.last_url = r.url
             js = r.json()
             return js
-        except requests.exceptions.ConnectionError as e:
+        except requests.exceptions.ConnectionError:
             print(url)
-            raise e from None
+            raise
+        except simplejson.errors.JSONDecodeError:
+            print(url)
+            raise
 
     def get_object(self, tp, size=100, page=1, **kargv):
         url = "/wp/v2/{}/&per_page={}&page={}".format(tp, size, page)

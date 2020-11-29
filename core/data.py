@@ -87,10 +87,18 @@ def get_protocol(site):
     if site not in cache_protocol:
         try:
             r = requests.head("http://"+site, allow_redirects=False, verify=False)
+            p = r.url.split("://")[0]
             if r.status_code == 200:
-                p = r.url.split("://")[0]
                 cache_protocol[site] = p
                 return p
+            elif r.status_code == 301:
+                location = r.headers.get('location', None)
+                if location:
+                    o_dom = urlparse(r.url).netloc
+                    n_dom = urlparse(location).netloc
+                    if o_dom == n_dom:
+                        cache_protocol[site] = p
+                        return p
         except:
             pass
     cache_protocol[site] = "https"
@@ -268,6 +276,7 @@ def get_response(url, default=None):
     r.n_dom = urlparse(r.url).netloc
     if r.o_dom != r.n_dom and "wp-signup.php?new=" in r.url:
         r.code = 999
+        r.url = url
     return r
 
 def text_link(url):
@@ -334,6 +343,8 @@ class FindUrl:
         self.log.flush()
 
     def check(self, url):
+        if not url.startswith("http"):
+            url = get_protocol(url)+"://"+url
         r = get_response(url)
         r.textlink = text_link(r.url)
         if int(r.code/100) in (4, 5, 9):

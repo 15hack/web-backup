@@ -387,6 +387,23 @@ class SiteDBLite(DBLite):
                 row = {k:("" if v is None else v) for k,v in row.items()}
                 md.write(md_row.format(**row).strip())
             md.write("")
+            sites = self.select("select id, url from sites where type='apache'")
+            sites = sorted(sites, key=_sort_sites)
+            max_site = max(len(x[1]) for x in sites)
+            md.write(dedent('''
+                # Apache
+            ''').strip())
+            for id, url in sites:
+                if table_link:
+                    md_row = '''
+                        * [{site}]({url})
+                    '''
+                else:
+                    md_row = '''
+                        * {site:<%s}
+                    ''' % max_site
+                md.write(md_row.format(url=url, site=url.split("://", 1)[-1]).strip())
+            md.write("")
             if table_link:
                 md.write(dedent('''
                     Para reordenar la tabla puede usar las extensiones

@@ -1,7 +1,8 @@
-Se han escaneado 191 `sites`, con datos desde el 2011-05-17 al 2020-05-16, repartidos en:
+Se han escaneado 197 `sites`, con datos desde el 2011-05-17 al 2020-05-16, repartidos en:
 
 * 168 sitios `wp`
 * 19 sitios `mailman`
+* 6 sitios `apache`
 * 3 sitios `phpbb`
 * 1 sitio `wiki`
 * 42649 registros en `wp_posts`
@@ -16,7 +17,7 @@ Se han escaneado 191 `sites`, con datos desde el 2011-05-17 al 2020-05-16, repar
 * 222 registros en `mailman_lists`
 * 28722 registros en `mailman_archive`
 
-Lo que supone 68927 urls.
+Lo que supone 68933 urls.
 
 # Wordpress
 
@@ -455,6 +456,15 @@ Lo que supone 68927 urls.
 |[lamorada@tcj.tomalaplaza.net](https://tcj.tomalaplaza.net/mailman/listinfo/lamorada)|2301|2017-10-02|[2014-04-01](https://tcj.tomalaplaza.net/mailman/pipermail/tcj.tomalaplaza.net/lamorada/)|
 |[mailman](http://vemail.tomalaplaza.net/mailman/listinfo/mailman)|1|2011-05-25|[2011-05-25](https://vemail.tomalaplaza.net/mailman/pipermail/vemail.tomalaplaza.net/mailman/)|
 |[coordinacion@zaragoza.tomalosbarrios.net](https://zaragoza.tomalosbarrios.net/mailman/listinfo/coordinacion)|26|2013-06-12|[2012-06-05](https://zaragoza.tomalosbarrios.net/mailman/pipermail/zaragoza.tomalosbarrios.net/coordinacion/)|
+
+# Apache
+
+* [jitsi.tomalaplaza.net](https://jitsi.tomalaplaza.net)
+* [optt.tomalaplaza.net](https://optt.tomalaplaza.net)
+* [pads.tomalaplaza.net](https://pads.tomalaplaza.net)
+* [pve.tomalaplaza.net](https://pve.tomalaplaza.net)
+* [stats.tomalaplaza.net](https://stats.tomalaplaza.net)
+* [titulizaciones.tomalaplaza.net](https://titulizaciones.tomalaplaza.net)
 
 Para reordenar la tabla puede usar las extensiones
 [`Tampermonkey`](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=es)

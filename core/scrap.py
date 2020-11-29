@@ -5,7 +5,7 @@ from bunch import Bunch
 
 from .data import FindUrl, tuple_url, loadwpjson, loadpageswkjson, loadimageswkjson
 from .util import find_value, get_yml
-from .connect import DB, SSHFile
+from .connect import DB, SSHFile, SSHCmd
 from functools import lru_cache
 import requests
 import json
@@ -31,9 +31,24 @@ def frm_title(s, c='=', l=10):
     return s
 
 def clean_url(url):
-    url = url.split("://", 1)[1]
+    if "://" in url:
+        url = url.split("://", 1)[1]
     url = url.rstrip("/")
     return url
+
+class SetDom(set):
+    def add(self, a, www=True):
+        super().add(a)
+        a = clean_url(a)
+        super().add(a)
+        if "/" in a:
+            super().add(a.split("/", 1)[0])
+        if www:
+            if a.startswith("www."):
+                a = a[4:]
+                self.add(a, www=False)
+            else:
+                self.add("www." + a, www=False)
 
 class Scrap:
     def __init__(self, **kargv):
@@ -45,6 +60,10 @@ class Scrap:
         self.files = tuple(
             SSHFile(**c, debug="debug/") for c in self.config if c.get("file")
         )
+        self.cmd = tuple(
+            SSHCmd(**c, debug="debug/") for c in self.config if c.get("cmd")
+        )
+        self.done=SetDom()
 
     def close(self):
         self.fnd.close()
@@ -55,7 +74,8 @@ class Scrap:
             "wp":self.wp,
             "phpbb":self.phpbb,
             "wiki":self.wiki,
-            "mailman":self.mailman
+            "mailman":self.mailman,
+            "apache":self.apache
         }.items():
             val = val.sites
             if isinstance(val, dict):
@@ -67,7 +87,7 @@ class Scrap:
     @property
     def rows(self):
         rows = 0
-        for d in (self.wp, self.phpbb, self.wiki, self.mailman):
+        for d in (self.wp, self.phpbb, self.wiki, self.mailman, self.apache):
             rows = rows + sum((len(i) for i in dict(d).values()), 0)
         return rows
 
@@ -106,6 +126,7 @@ class Scrap:
                 p2 = r["prefix2"]
                 siteurl = r["siteurl"]
                 site = clean_url(siteurl)
+                self.done.add(site)
                 key = (p2, site)
                 if p1 in db.db_ban or p2 in db.db_ban:
                     print("%s (%s) sera descartado" % key)
@@ -348,6 +369,14 @@ class Scrap:
         totales = {
             k:len(v) for k, v in dict(obj).items() if k!="sites"
         }
+        val = obj.sites
+        if isinstance(val, dict):
+            val = val.values()
+        for s in val:
+            self.done.add(s['url'])
+        if not totales:
+            print("%s %s serán guardados" % (len(obj.sites), label))
+            return
 
         s_total = max(len(str(t)) for t in totales.values())
         s_total = "%"+str(s_total)+"s "
@@ -727,7 +756,42 @@ class Scrap:
         self.print_totales("mailman", mailman)
         return mailman
 
+    @property
+    @lru_cache(maxsize=None)
+    def apache(self):
+        apache = Bunch(
+            sites=[],
+        )
+        for sshcmd in self.cmd:
+            if not sshcmd.cmd.get("apache"):
+                continue
+            print(frm_title(sshcmd.host))
+            sites=set()
+            for site in sshcmd.cmd['apache']:
+                if site.startswith("#"):
+                    continue
+                site = site.split(None, 1)[-1]
+                if site[0] in ("*", "$"):
+                    continue
+                if site in self.done:
+                    continue
+                sites.add(site)
+            print("%s sitios apache encontrados" % len(sites))
+            for site in sorted(sites, key=lambda x: tuple_url(x)):
+                if not sshcmd.isOkDom(site) or not sshcmd.isOk(site):
+                    print("%s sera descartado" % site)
+                    continue
+                r = self.fnd.check(site)
+                if int(r.code/100) in (4, 5, 9):
+                    print("%s sera descartado (%s)" % (site, r.code))
+                    continue
+                apache.sites.append({
+                    "url": site
+                })
+        self.print_totales("apache", apache)
+        return apache
+
 if __name__ == "__main__":
     scr = Scrap()
-    print(json.dumps(scr.mailman.sites, indent=2))
+    print(json.dumps(scr.apache.sites, indent=2))
     scr.close()

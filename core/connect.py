@@ -115,6 +115,21 @@ class SSHFile(ConfigItem):
                 with open(self.debug+self.host+"-"+k+".json", "w") as f:
                     json.dump(v, f, indent=2)
 
+class SSHCmd(ConfigItem):
+    def __init__(self, cmd, debug=None, **kargv):
+        super().__init__(**kargv)
+        self.cmd = {}
+        self.debug = debug
+        self._load(cmd)
+
+    def _load(self, cmd):
+        with Connection(self.host) as c:
+            for k, r in cmd.items():
+                r = c.run(r, hide=True)
+                r = r.stdout.strip()
+                r = [i.strip() for i in r.split("\n")]
+                self.cmd[k]= r
+
 class DB(ConfigItem):
     def __init__(self, ssh_private_key_password, db_user, db_passwd, remote_bind_address='127.0.0.1', remote_bind_port=3306, **kargv):
         super().__init__(**kargv)
