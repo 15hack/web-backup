@@ -7,6 +7,7 @@ from urllib.parse import urlparse
 from functools import lru_cache
 from fabric.connection import Connection
 import json
+import chardet
 
 import MySQLdb
 import yaml
@@ -75,9 +76,9 @@ def flat(*args):
     return arr
 
 class ConfigItem:
-    def __init__(self, server, host, **kargv):
+    def __init__(self, host, server=None, **kargv):
         self.host = host
-        self.ip = get_ip(server)
+        self.ip = get_ip(server) if server else None
         self.url_ban = str_list(kargv.get("url_ban"))
         self.dom_ban = str_list(kargv.get("dom_ban"))
 
@@ -108,8 +109,20 @@ class SSHFile(ConfigItem):
         with Connection(self.host) as c:
             with c.sftp() as sftp:
                 for k, file in files.items():
+                    ext = file.rsplit(".", 1)[-1]
+                    if ext not in ("json", "txt"):
+                        raise Exception(file+" not supported")
                     with sftp.open(file) as f:
-                        self.file[k]=json.load(f)
+                        if ext == "json":
+                            self.file[k]=json.load(f)
+                        elif ext == "txt":
+                            txt = f.read()
+                            #enc = chardet.detect(txt)
+                            txt = txt.decode()#enc['encoding'])
+                            txt = txt.strip()
+                            lines = txt.split("\n")
+                            lines = [l.strip() for l in lines if l.strip()]
+                            self.file[k]=lines
         if self.debug:
             for k, v in self.file.items():
                 with open(self.debug+self.host+"-"+k+".json", "w") as f:

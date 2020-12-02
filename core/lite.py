@@ -124,8 +124,12 @@ class DBLite:
         keys = []
         vals = []
         for k, v in kargv.items():
-            if v is None or (isinstance(v, str) and len(v) == 0):
+            if v is None:
                 continue
+            if isinstance(v, str):
+                v = v.strip()
+                if len(v)==0:
+                    continue
             _k = "_" + k
             if k not in ok_keys and _k in ok_keys and _k not in kargv:
                 k = _k
@@ -154,8 +158,12 @@ class DBLite:
         sql_set = []
         id = None
         for k, v in kargv.items():
-            if v is None or (isinstance(v, str) and len(v) == 0):
+            if v is None:
                 continue
+            if isinstance(v, str):
+                v = v.strip()
+                if len(v)==0:
+                    continue
             _k = "_" + k
             if k not in ok_keys and _k in ok_keys and _k not in kargv:
                 k = _k

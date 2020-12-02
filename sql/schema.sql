@@ -1,6 +1,7 @@
 CREATE TABLE sites (
   _DB TEXT,
   ID INTEGER,
+  title TEXT,
   url TEXT,
   type TEXT,
   page_size INTEGER,
@@ -130,6 +131,7 @@ CREATE TABLE wk_media (
 CREATE TABLE mailman_lists (
   site INTEGER REFERENCES sites(ID),
   ID TEXT,
+  description TEXT,
   date TEXT,
   first_mail TEXT,
   last_mail TEXT,

@@ -83,6 +83,7 @@ for id, url in db.to_list("select id, url from sites"):
 scr.close()
 db.execute("sql/update.sql")
 db.commit()
+print("")
 db.close(vacuum=True)
 
 print("Creando sqlite 100%")

@@ -3,13 +3,13 @@ import re
 
 from bunch import Bunch
 
-from .data import FindUrl, tuple_url, loadwpjson, loadpageswkjson, loadimageswkjson
+from .data import FindUrl, tuple_url, loadwpjson, loadpageswkjson, loadimageswkjson, requests_json
 from .util import find_value, get_yml
 from .connect import DB, SSHFile, SSHCmd
 from functools import lru_cache
-import requests
 import json
 from datetime import datetime
+import requests
 
 me = os.path.realpath(__file__)
 dr = os.path.dirname(me)
@@ -146,6 +146,7 @@ class Scrap:
                         when option_name = 'fileupload_url' then 'files'
                         when option_name = 'permalink_structure' then 'permalink'
                         when option_name = 'comments_per_page' then 'page_size'
+                        when option_name = 'blogname' then 'title'
                         else option_name
                     end name,
                     option_value value
@@ -159,7 +160,8 @@ class Scrap:
                         'upload_url_path',
                         'upload_path',
                         'uploads_use_yearmonth_folders',
-                        'comments_per_page'
+                        'comments_per_page',
+                        'blogname'
                     )
         	''', order="siteurl", debug="wp-metasite", to_tuples=True)
 
@@ -410,6 +412,7 @@ class Scrap:
                     case
                         when config_name = 'upload_path' then 'files'
                         when config_name = 'posts_per_page' then 'page_size'
+                        when config_name = 'sitename' then 'title'
                         else config_name
                     end name,
                     config_value value
@@ -421,7 +424,8 @@ class Scrap:
                         'script_path',
                         'server_protocol',
                         'posts_per_page',
-                        'upload_path'
+                        'upload_path',
+                        'sitename'
                     )
         	''', debug="phpbb-sites")
 
@@ -592,6 +596,7 @@ class Scrap:
                 if not db.isOkDom(o["purl"]) or not db.isOk(o["site"]):
                     print("%s (%s) sera descartado" % key)
                     continue
+                o["title"] = requests_json(o["api"]+"query&meta=siteinfo", "query", "general", "sitename")
                 sites[o["site"]]=o
 
             if not sites:
@@ -711,7 +716,7 @@ class Scrap:
                 lsts = sshfile.file['mailman'][site]
                 site = site.split("://", 1)[-1]
                 mailman.sites.append({
-                    "url": site
+                    "url": site,
                 })
                 for l in lsts:
                     ls = {
@@ -728,6 +733,7 @@ class Scrap:
                         "mails": l["archive"]["mails"],
                         "archiving": l["archive"]["archive"],
                         "exists_archive": l["archive"]["__exists__"],
+                        "description": l["description"]
                     }
                     ls = {**l['visibility'], **ls}
                     for k, v in list(ls.items()):

@@ -8,6 +8,7 @@ wp-files-ls.sh
 schemaspy/*.jar
 out/*.7z
 *.db
+remote-tools
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

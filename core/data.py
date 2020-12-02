@@ -21,6 +21,12 @@ cache_protocol={}
 txt_dict = "data/dict.txt"
 now = time.time()
 
+def requests_json(url, *path):
+    r = requests.get(url)
+    r = r.json()
+    for p in path:
+        r = r[p]
+    return r
 
 def get_arr_json(file):
     if os.path.isfile(file):
@@ -174,7 +180,13 @@ def save_link_json(file, data):
     line = "%"+str(width)+"s %s\n"
     with open(file, "w") as f:
         for d in data:
-            url = find_value(d, "canonicalurl", "fullurl", "source_url", "link", "url", avoid="#")
+            url = find_value(d,
+                "canonicalurl",
+                "fullurl",
+                "source_url",
+                "link",
+                "url",
+                avoid="#")
             if url:
                 url = url.split("://", 1)[-1]
                 f.write(line % (d["id"], url))
@@ -220,6 +232,11 @@ def loadpageswkjson(api, site, db_objs):
                 continue
             if "error" in r:
                 p['error'] = r['error']
+                info = p['error'].get('info') or ""
+                if info.startswith("["):
+                    info = info.split("]", 1)
+                    info = info[-1].strip()
+                    p['error']['info'] = info
                 p['error']['__parse'] = url
                 continue
             r = r['parse']
