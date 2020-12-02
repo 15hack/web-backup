@@ -24,7 +24,7 @@
   },
   "author": 633,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "sticky": false,
   "template": "",
@@ -65,14 +65,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/posts/169/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 171,
-        "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/posts/169/revisions/171"
       }
     ],
     "wp:attachment": [
@@ -126,7 +120,7 @@
   },
   "author": 633,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "sticky": false,
   "template": "",
@@ -167,14 +161,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/posts/161/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 163,
-        "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/posts/161/revisions/163"
       }
     ],
     "wp:attachment": [
@@ -228,7 +216,7 @@
   },
   "author": 633,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "sticky": false,
   "template": "",
@@ -269,14 +257,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/posts/156/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 158,
-        "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/posts/156/revisions/158"
       }
     ],
     "wp:attachment": [
@@ -330,7 +312,7 @@
   },
   "author": 633,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "sticky": false,
   "template": "",
@@ -371,14 +353,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/posts/153/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 155,
-        "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/posts/153/revisions/155"
       }
     ],
     "wp:attachment": [
@@ -432,7 +408,7 @@
   },
   "author": 633,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "sticky": false,
   "template": "",
@@ -473,14 +449,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/posts/148/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 150,
-        "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/posts/148/revisions/150"
       }
     ],
     "wp:attachment": [
@@ -534,7 +504,7 @@
   },
   "author": 633,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "sticky": false,
   "template": "",
@@ -575,14 +545,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/posts/145/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 147,
-        "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/posts/145/revisions/147"
       }
     ],
     "wp:attachment": [
@@ -636,7 +600,7 @@
   },
   "author": 633,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "sticky": false,
   "template": "",
@@ -677,14 +641,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/posts/142/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 143,
-        "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/posts/142/revisions/143"
       }
     ],
     "wp:attachment": [
@@ -738,7 +696,7 @@
   },
   "author": 633,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "sticky": false,
   "template": "",
@@ -779,14 +737,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/posts/138/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 141,
-        "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/posts/138/revisions/141"
       }
     ],
     "wp:attachment": [
@@ -840,7 +792,7 @@
   },
   "author": 633,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "sticky": false,
   "template": "",
@@ -881,14 +833,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/posts/133/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 136,
-        "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/posts/133/revisions/136"
       }
     ],
     "wp:attachment": [
@@ -942,7 +888,7 @@
   },
   "author": 633,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "sticky": false,
   "template": "",
@@ -983,14 +929,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/posts/102/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 104,
-        "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/posts/102/revisions/104"
       }
     ],
     "wp:attachment": [
@@ -1035,7 +975,7 @@
     "rendered": "Nuestro debate sobre el estado de la naci\u00f3n"
   },
   "content": {
-    "rendered": "<p><img class=\"alignleft\" src=\"https://lh5.googleusercontent.com/-81XC65ihvpM/Tgchx7G-fzI/AAAAAAAAAZI/xVnbGeL-4aw/DPEN.jpg\" alt=\"\" width=\"195\" height=\"274\" />Buenos d\u00edas a tod@s, ayer desde Sol, varias asambleas comentaron su intenci\u00f3n de realizar un debate paralelo al Debate sobre el Estado de la Naci\u00f3n que se celebrar\u00e1 en el Congreso esta semana. Si quer\u00e9is participar en esta propuesta y debatir los verdaderos problemas de nuestra naci\u00f3n pod\u00e9is informaros aqu\u00ed: <a href=\"http://arganzuela.tomalosbarrios.net/2011/06/22/convocamos-a-nuestro-debate-sobre-el-estado-de-la-nacion/\" target=\"_blank\">http://arganzuela.tomalosbarrios.net/2011/06/22/convocamos-a-nuestro-debate-sobre-el-estado-de-la-nacion/</a></p>\n<p>Gracias a tod@s por participar.</p>\n",
+    "rendered": "<p><img loading=\"lazy\" class=\"alignleft\" src=\"https://lh5.googleusercontent.com/-81XC65ihvpM/Tgchx7G-fzI/AAAAAAAAAZI/xVnbGeL-4aw/DPEN.jpg\" alt=\"\" width=\"195\" height=\"274\" />Buenos d\u00edas a tod@s, ayer desde Sol, varias asambleas comentaron su intenci\u00f3n de realizar un debate paralelo al Debate sobre el Estado de la Naci\u00f3n que se celebrar\u00e1 en el Congreso esta semana. Si quer\u00e9is participar en esta propuesta y debatir los verdaderos problemas de nuestra naci\u00f3n pod\u00e9is informaros aqu\u00ed: <a href=\"http://arganzuela.tomalosbarrios.net/2011/06/22/convocamos-a-nuestro-debate-sobre-el-estado-de-la-nacion/\" target=\"_blank\">http://arganzuela.tomalosbarrios.net/2011/06/22/convocamos-a-nuestro-debate-sobre-el-estado-de-la-nacion/</a></p>\n<p>Gracias a tod@s por participar.</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -1044,7 +984,7 @@
   },
   "author": 633,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "sticky": false,
   "template": "",
@@ -1085,14 +1025,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/posts/94/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 96,
-        "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/posts/94/revisions/96"
       }
     ],
     "wp:attachment": [
@@ -1146,7 +1080,7 @@
   },
   "author": 633,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "sticky": false,
   "template": "",
@@ -1187,14 +1121,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/posts/90/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 100,
-        "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/posts/90/revisions/100"
       }
     ],
     "wp:attachment": [
@@ -1248,7 +1176,7 @@
   },
   "author": 633,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "sticky": false,
   "template": "",
@@ -1289,14 +1217,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/posts/79/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 82,
-        "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/posts/79/revisions/82"
       }
     ],
     "wp:attachment": [
@@ -1350,7 +1272,7 @@
   },
   "author": 633,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "sticky": false,
   "template": "",
@@ -1391,14 +1313,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/posts/75/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 78,
-        "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/posts/75/revisions/78"
       }
     ],
     "wp:attachment": [
@@ -1452,7 +1368,7 @@
   },
   "author": 633,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "sticky": false,
   "template": "",
@@ -1493,14 +1409,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/posts/70/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 74,
-        "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/posts/70/revisions/74"
       }
     ],
     "wp:attachment": [
@@ -1556,7 +1466,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -1590,14 +1500,8 @@
     ],
     "version-history": [
       {
-        "count": 10,
+        "count": 0,
         "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/pages/57/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 137,
-        "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/pages/57/revisions/137"
       }
     ],
     "wp:attachment": [
@@ -1639,7 +1543,7 @@
   },
   "author": 633,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "sticky": false,
   "template": "",
@@ -1680,14 +1584,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/posts/31/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 35,
-        "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/posts/31/revisions/35"
       }
     ],
     "wp:attachment": [
@@ -1741,7 +1639,7 @@
   },
   "author": 633,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1782,14 +1680,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/posts/25/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 37,
-        "href": "https://fuencarral.tomalosbarrios.net/wp-json/wp/v2/posts/25/revisions/37"
       }
     ],
     "wp:attachment": [

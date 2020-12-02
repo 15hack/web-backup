@@ -26,7 +26,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -60,14 +60,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/pages/14/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 16,
-        "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/pages/14/revisions/16"
       }
     ],
     "wp:attachment": [
@@ -111,7 +105,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -145,14 +139,8 @@
     ],
     "version-history": [
       {
-        "count": 8,
+        "count": 0,
         "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/pages/12/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 34,
-        "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/pages/12/revisions/34"
       }
     ],
     "wp:attachment": [
@@ -185,12 +173,12 @@
     "rendered": "Cartel Asamblea 11/06"
   },
   "author": 304,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI.jpg'><img width=\"212\" height=\"300\" src=\"https://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI-212x300.jpg 212w, https://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI.jpg 424w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI.jpg'><img width=\"212\" height=\"300\" src=\"https://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI-212x300.jpg 212w, https://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI.jpg 424w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -291,7 +279,7 @@
     "rendered": "Asamblea Popular Soto del Real"
   },
   "content": {
-    "rendered": "<p>Seg\u00fan lo consensuado en la \u00faltima asamblea se convoca una nueva para el S\u00e1bado 11 de Junio, en la plaza del pueblo, a las 12h.</p>\n<p>Es importante la asistencia, ya que coincide con el d\u00eda de la investidura de la alcaldesa y los nuevos cargos electos. Os invitamos a participar para demostrar que el pueblo no est\u00e1 dormido.</p>\n<p>Recordad que tambi\u00e9n habr\u00e1 un grupo de apoyo infantil dedicado a divertir a l@s m\u00e1s j\u00f3venes.</p>\n<p>Saludos, os esperamos a tod@s.</p>\n<p><a href=\"http://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI.jpg\"><img class=\"alignnone size-medium wp-image-6\" src=\"http://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI-212x300.jpg\" alt=\"\" width=\"212\" height=\"300\" srcset=\"https://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI-212x300.jpg 212w, https://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI.jpg 424w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n",
+    "rendered": "<p>Seg\u00fan lo consensuado en la \u00faltima asamblea se convoca una nueva para el S\u00e1bado 11 de Junio, en la plaza del pueblo, a las 12h.</p>\n<p>Es importante la asistencia, ya que coincide con el d\u00eda de la investidura de la alcaldesa y los nuevos cargos electos. Os invitamos a participar para demostrar que el pueblo no est\u00e1 dormido.</p>\n<p>Recordad que tambi\u00e9n habr\u00e1 un grupo de apoyo infantil dedicado a divertir a l@s m\u00e1s j\u00f3venes.</p>\n<p>Saludos, os esperamos a tod@s.</p>\n<p><a href=\"http://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-6\" src=\"http://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI-212x300.jpg\" alt=\"\" width=\"212\" height=\"300\" srcset=\"https://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI-212x300.jpg 212w, https://soto.tomalosbarrios.net/files/2011/06/cartel_asamblea_11junio_MINI.jpg 424w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -300,7 +288,7 @@
   },
   "author": 304,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -341,14 +329,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/posts/5/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 9,
-        "href": "https://soto.tomalosbarrios.net/wp-json/wp/v2/posts/5/revisions/9"
       }
     ],
     "wp:attachment": [

@@ -15,7 +15,7 @@
     "rendered": "BB7 arranca en Madrid de la mano del III Encuentro de Creador_s [2 y 3 de Junio]"
   },
   "content": {
-    "rendered": "<p>Desde la comisi\u00f3n de Cultura Sol integramos la participaci\u00f3n en la Berlin Biennale dentro de nuestro III Encuentro de Creador_s (2 y 3 de Junio).</p>\n<p>Proponemos la aplicaci\u00f3n de un formato que permita generar un Juego de Interacci\u00f3n com\u00fan que invite a simultanear acciones creativas en cualquier lugar.</p>\n<p>El encuentro se celebrar\u00e1 en el Parque del Retiro, en la zona del\u00a0Parque Chino destras del Palacio de Cristal, los d\u00edas\u00a02 y 3 de Junio de 12 a 22h</p>\n<p>&nbsp;</p>\n<p><a href=\"http://berlinbienal.tomalaplaza.net/files/2012/04/CARTEL-BIENNALE-Madrid.jpg\"><img class=\"alignleft size-medium wp-image-134\" src=\"http://berlinbienal.tomalaplaza.net/files/2012/04/CARTEL-BIENNALE-Madrid-212x300.jpg\" alt=\"\" width=\"212\" height=\"300\" srcset=\"https://berlinbienal.tomalaplaza.net/files/2012/04/CARTEL-BIENNALE-Madrid-212x300.jpg 212w, https://berlinbienal.tomalaplaza.net/files/2012/04/CARTEL-BIENNALE-Madrid.jpg 401w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n<p>&nbsp;</p>\n",
+    "rendered": "<p>Desde la comisi\u00f3n de Cultura Sol integramos la participaci\u00f3n en la Berlin Biennale dentro de nuestro III Encuentro de Creador_s (2 y 3 de Junio).</p>\n<p>Proponemos la aplicaci\u00f3n de un formato que permita generar un Juego de Interacci\u00f3n com\u00fan que invite a simultanear acciones creativas en cualquier lugar.</p>\n<p>El encuentro se celebrar\u00e1 en el Parque del Retiro, en la zona del\u00a0Parque Chino destras del Palacio de Cristal, los d\u00edas\u00a02 y 3 de Junio de 12 a 22h</p>\n<p>&nbsp;</p>\n<p><a href=\"http://berlinbienal.tomalaplaza.net/files/2012/04/CARTEL-BIENNALE-Madrid.jpg\"><img loading=\"lazy\" class=\"alignleft size-medium wp-image-134\" src=\"http://berlinbienal.tomalaplaza.net/files/2012/04/CARTEL-BIENNALE-Madrid-212x300.jpg\" alt=\"\" width=\"212\" height=\"300\" srcset=\"https://berlinbienal.tomalaplaza.net/files/2012/04/CARTEL-BIENNALE-Madrid-212x300.jpg 212w, https://berlinbienal.tomalaplaza.net/files/2012/04/CARTEL-BIENNALE-Madrid.jpg 401w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n<p>&nbsp;</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -66,14 +66,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/posts/136/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 138,
-        "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/posts/136/revisions/138"
       }
     ],
     "wp:attachment": [
@@ -123,7 +117,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://berlinbienal.tomalaplaza.net/files/2012/04/CARTEL-BIENNALE-Madrid.jpg'><img width=\"212\" height=\"300\" src=\"https://berlinbienal.tomalaplaza.net/files/2012/04/CARTEL-BIENNALE-Madrid-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://berlinbienal.tomalaplaza.net/files/2012/04/CARTEL-BIENNALE-Madrid-212x300.jpg 212w, https://berlinbienal.tomalaplaza.net/files/2012/04/CARTEL-BIENNALE-Madrid.jpg 401w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://berlinbienal.tomalaplaza.net/files/2012/04/CARTEL-BIENNALE-Madrid.jpg'><img width=\"212\" height=\"300\" src=\"https://berlinbienal.tomalaplaza.net/files/2012/04/CARTEL-BIENNALE-Madrid-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://berlinbienal.tomalaplaza.net/files/2012/04/CARTEL-BIENNALE-Madrid-212x300.jpg 212w, https://berlinbienal.tomalaplaza.net/files/2012/04/CARTEL-BIENNALE-Madrid.jpg 401w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -241,7 +235,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://berlinbienal.tomalaplaza.net/files/2012/03/pancartas2.jpg'><img width=\"300\" height=\"200\" src=\"https://berlinbienal.tomalaplaza.net/files/2012/03/pancartas2-300x200.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://berlinbienal.tomalaplaza.net/files/2012/03/pancartas2-300x200.jpg 300w, https://berlinbienal.tomalaplaza.net/files/2012/03/pancartas2-450x300.jpg 450w, https://berlinbienal.tomalaplaza.net/files/2012/03/pancartas2.jpg 567w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://berlinbienal.tomalaplaza.net/files/2012/03/pancartas2.jpg'><img width=\"300\" height=\"200\" src=\"https://berlinbienal.tomalaplaza.net/files/2012/03/pancartas2-300x200.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://berlinbienal.tomalaplaza.net/files/2012/03/pancartas2-300x200.jpg 300w, https://berlinbienal.tomalaplaza.net/files/2012/03/pancartas2-450x300.jpg 450w, https://berlinbienal.tomalaplaza.net/files/2012/03/pancartas2.jpg 567w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -404,14 +398,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/posts/127/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 130,
-        "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/posts/127/revisions/130"
       }
     ],
     "wp:attachment": [
@@ -461,7 +449,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://berlinbienal.tomalaplaza.net/files/2012/05/presentacion_bb7_sevilla.jpg'><img width=\"300\" height=\"200\" src=\"https://berlinbienal.tomalaplaza.net/files/2012/05/presentacion_bb7_sevilla-300x200.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://berlinbienal.tomalaplaza.net/files/2012/05/presentacion_bb7_sevilla-300x200.jpg 300w, https://berlinbienal.tomalaplaza.net/files/2012/05/presentacion_bb7_sevilla-450x300.jpg 450w, https://berlinbienal.tomalaplaza.net/files/2012/05/presentacion_bb7_sevilla.jpg 567w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://berlinbienal.tomalaplaza.net/files/2012/05/presentacion_bb7_sevilla.jpg'><img width=\"300\" height=\"200\" src=\"https://berlinbienal.tomalaplaza.net/files/2012/05/presentacion_bb7_sevilla-300x200.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://berlinbienal.tomalaplaza.net/files/2012/05/presentacion_bb7_sevilla-300x200.jpg 300w, https://berlinbienal.tomalaplaza.net/files/2012/05/presentacion_bb7_sevilla-450x300.jpg 450w, https://berlinbienal.tomalaplaza.net/files/2012/05/presentacion_bb7_sevilla.jpg 567w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -574,7 +562,7 @@
     "rendered": "Comienza la programaci\u00f3n de BB7 en Sevilla"
   },
   "content": {
-    "rendered": "<p>El pasado sabado 28 de Abril dimos comienzo a las actividades en Sevilla de la <strong>Bienal Global de Arte Contempor\u00e1neo BB7</strong>, con una Performance de presentaci\u00f3n entre la Plaza del Museo y Las Setas.</p>\n<p>Os invitamos a participar en el Taller de preparaci\u00f3n de Pancartas Bonitas y materiales para la Manifestaci\u00f3n Global del 12M, los dias 5 y 6 de Mayo a partir de las 16h en las Setas.</p>\n<p><a href=\"http://berlinbienal.tomalaplaza.net/files/2012/05/presentacion_bb7_sevilla.jpg\"><img class=\"alignleft size-full wp-image-122\" src=\"http://berlinbienal.tomalaplaza.net/files/2012/05/presentacion_bb7_sevilla.jpg\" alt=\"\" width=\"567\" height=\"378\" srcset=\"https://berlinbienal.tomalaplaza.net/files/2012/05/presentacion_bb7_sevilla.jpg 567w, https://berlinbienal.tomalaplaza.net/files/2012/05/presentacion_bb7_sevilla-300x200.jpg 300w, https://berlinbienal.tomalaplaza.net/files/2012/05/presentacion_bb7_sevilla-450x300.jpg 450w\" sizes=\"(max-width: 567px) 100vw, 567px\" /></a></p>\n<p>Proponemos que a lo largo de los pr\u00f3ximos 2 meses tambien Sevilla sea un lienzo en blanco para la creatividad y para la reivindicaci\u00f3n social, haciendonos eco de la invitaci\u00f3n de la Bienal de Berlina los movimientos sociales para autoorganizar libremente la edici\u00f3n de 2012.</p>\n<p>Todxs estais invitados a imaginar y a participar!</p>\n<p>El programa es abierto, algunas de las actividades ya programadas son:</p>\n<p><strong>5 y 6 Mayo:</strong></p>\n<p>16h // Taller de preparaci\u00f3n de pancartas y materiales artisticos para la Manifestaci\u00f3n Global del 12M.</p>\n<p><strong>13,14 Mayo:</strong></p>\n<p>Todo el d\u00eda // Taller de elaboraci\u00f3n de carteler\u00eda an\u00f3nima 15M. Las Setas.</p>\n<p><strong>15 Mayo:</strong></p>\n<p>Pegada de Carteler\u00eda An\u00f3nima por toda la ciudad. Inicio en Las Setas.</p>\n<p><strong>18 Mayo:</strong></p>\n<p>23:59h // Photorally \u201cSue\u00f1os invisibles, dormir en la calle\u201d. Inicio en la parte central de la Alameda de H\u00e9rcules.</p>\n<p>Os invitamos a participar y a proponer!!! El plazo de propuestas es abierto y continuado a trav\u00e9s de la lista participaberlinbienal@googlegroups.com y del blog.</p>\n<p>&nbsp;</p>\n",
+    "rendered": "<p>El pasado sabado 28 de Abril dimos comienzo a las actividades en Sevilla de la <strong>Bienal Global de Arte Contempor\u00e1neo BB7</strong>, con una Performance de presentaci\u00f3n entre la Plaza del Museo y Las Setas.</p>\n<p>Os invitamos a participar en el Taller de preparaci\u00f3n de Pancartas Bonitas y materiales para la Manifestaci\u00f3n Global del 12M, los dias 5 y 6 de Mayo a partir de las 16h en las Setas.</p>\n<p><a href=\"http://berlinbienal.tomalaplaza.net/files/2012/05/presentacion_bb7_sevilla.jpg\"><img loading=\"lazy\" class=\"alignleft size-full wp-image-122\" src=\"http://berlinbienal.tomalaplaza.net/files/2012/05/presentacion_bb7_sevilla.jpg\" alt=\"\" width=\"567\" height=\"378\" srcset=\"https://berlinbienal.tomalaplaza.net/files/2012/05/presentacion_bb7_sevilla.jpg 567w, https://berlinbienal.tomalaplaza.net/files/2012/05/presentacion_bb7_sevilla-300x200.jpg 300w, https://berlinbienal.tomalaplaza.net/files/2012/05/presentacion_bb7_sevilla-450x300.jpg 450w\" sizes=\"(max-width: 567px) 100vw, 567px\" /></a></p>\n<p>Proponemos que a lo largo de los pr\u00f3ximos 2 meses tambien Sevilla sea un lienzo en blanco para la creatividad y para la reivindicaci\u00f3n social, haciendonos eco de la invitaci\u00f3n de la Bienal de Berlina los movimientos sociales para autoorganizar libremente la edici\u00f3n de 2012.</p>\n<p>Todxs estais invitados a imaginar y a participar!</p>\n<p>El programa es abierto, algunas de las actividades ya programadas son:</p>\n<p><strong>5 y 6 Mayo:</strong></p>\n<p>16h // Taller de preparaci\u00f3n de pancartas y materiales artisticos para la Manifestaci\u00f3n Global del 12M.</p>\n<p><strong>13,14 Mayo:</strong></p>\n<p>Todo el d\u00eda // Taller de elaboraci\u00f3n de carteler\u00eda an\u00f3nima 15M. Las Setas.</p>\n<p><strong>15 Mayo:</strong></p>\n<p>Pegada de Carteler\u00eda An\u00f3nima por toda la ciudad. Inicio en Las Setas.</p>\n<p><strong>18 Mayo:</strong></p>\n<p>23:59h // Photorally \u201cSue\u00f1os invisibles, dormir en la calle\u201d. Inicio en la parte central de la Alameda de H\u00e9rcules.</p>\n<p>Os invitamos a participar y a proponer!!! El plazo de propuestas es abierto y continuado a trav\u00e9s de la lista participaberlinbienal@googlegroups.com y del blog.</p>\n<p>&nbsp;</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -626,14 +614,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/posts/121/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 124,
-        "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/posts/121/revisions/124"
       }
     ],
     "wp:attachment": [
@@ -728,14 +710,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/posts/119/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 120,
-        "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/posts/119/revisions/120"
       }
     ],
     "wp:attachment": [
@@ -830,14 +806,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/posts/113/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 117,
-        "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/posts/113/revisions/117"
       }
     ],
     "wp:attachment": [
@@ -932,14 +902,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/posts/105/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 106,
-        "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/posts/105/revisions/106"
       }
     ],
     "wp:attachment": [
@@ -1034,14 +998,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/posts/100/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 102,
-        "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/posts/100/revisions/102"
       }
     ],
     "wp:attachment": [
@@ -1136,14 +1094,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/posts/91/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 92,
-        "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/posts/91/revisions/92"
       }
     ],
     "wp:attachment": [
@@ -1238,14 +1190,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/posts/88/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 90,
-        "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/posts/88/revisions/90"
       }
     ],
     "wp:attachment": [
@@ -1290,7 +1236,7 @@
     "rendered": "Madrid [esp]"
   },
   "content": {
-    "rendered": "<div>\n<h1><strong>2 y 3 de Junio &#8211;\u00a0Berlin Biennale arranca de la mano del III Encuentro de Creador_s\u00a0</strong></h1>\n<p><a href=\"http://berlinbienal.tomalaplaza.net/files/2012/04/CARTEL-BIENNALE-Madrid.jpg\"><img class=\"alignleft size-medium wp-image-134\" src=\"http://berlinbienal.tomalaplaza.net/files/2012/04/CARTEL-BIENNALE-Madrid-212x300.jpg\" alt=\"\" width=\"212\" height=\"300\" srcset=\"https://berlinbienal.tomalaplaza.net/files/2012/04/CARTEL-BIENNALE-Madrid-212x300.jpg 212w, https://berlinbienal.tomalaplaza.net/files/2012/04/CARTEL-BIENNALE-Madrid.jpg 401w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n<div></div>\n<div>Desde la comisi\u00f3n de Cultura Sol integramos la participaci\u00f3n en la Berlin Biennale dentro de nuestro III Encuentro de Creador_s (2 y 3 de Junio)</div>\n<div>\n<div></div>\n<div>Proponemos la aplicaci\u00f3n de un formato que permita generar un\u00a0<strong>Juego de Interacci\u00f3n com\u00fan</strong>\u00a0que invite a simultanear acciones creativas en cualquier lugar.</div>\n<div></div>\n<div>La propuesta ser\u00eda utilizar esta herramienta para repetir programas de intervenci\u00f3n creativa y generar organismos locales que puedan simultanear acciones. Estas herramientas permiten visibilizar los acuerdos comunes, ayudan a la auto-organizaci\u00f3n y a la difusi\u00f3n de acciones creativas conjuntas.</div>\n</div>\n<div></div>\n<div></div>\n<div>\n<div>\n<div><em>Nuestro lema es:<strong>Porque tod@s somos creador@s.\u00a0Porque tod@s somos cultura.\u00a0\u00a1Participa!</strong></em></div>\n</div>\n<div><span style=\"color: #ff0000\"><strong><em><br />\n</em></strong></span></p>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div><em>As\u00ed que os invitamos\u00a0a que compart\u00e1is con nosotros vuestras propuestas para: debates, lecturas, talleres, teatro, m\u00fasica, danza, pintura, costura, construcci\u00f3n, exposici\u00f3n\u2026 o alguna actividad que hay\u00e1is realizado en vuestro barrio y haya tenido buena acogida y que sobre todo, teng\u00e1is ilusi\u00f3n en compartir. Todav\u00eda hay tiempo para sumarse al programa. Cuantos m\u00e1s seamos m\u00e1s ricos seremos&#8230;</em></div>\n<div>\n<div><em><br />\n</em></div>\n<div><em>Las propuestas se reciben a trav\u00e9s de este mail\u00a0<a>encuentroscultura@gmail.com</a>\u00a0o in-situ, en el d\u00eda del Encuentro, en donde habr\u00e1 una zona de \u201cautoprogramaci\u00f3n\u201d que esperamos est\u00e9 muy viva.<br />\nOs esperamos.</em></div>\n<div><em>Para m\u00e1s informaci\u00f3n:<br />\n<a href=\"http://wmail11.movistar.es/cp/ps/Mail/ExternalURLProxy?d=telefonica.net&amp;u=mdvg&amp;url=1884813333\" target=\"_blank\">http://culturasol15m.wordpress.com/2012/04/16/1386/#more-1386</a></em></div>\n<p><em><a href=\"http://culturasol15m.wordpress.com/2012/05/25/iii-encuentro-de-creadores/\" target=\"_blank\">http://culturasol15m.wordpress.com/2012/05/25/iii-encuentro-de-creadores/</a><br />\n<a href=\"http://culturasol15m.wordpress.com/2012/05/29/4-dias-para-el-iii-encuentro-de-creador_s/\" target=\"_blank\">http://culturasol15m.wordpress.com/2012/05/29/4-dias-para-el-iii-encuentro-de-creador_s/</a></em></div>\n</div>\n<div><em><br />\n</em></div>\n<div><em>Evento en Facebook:\u00a0\u00a0<a href=\"http://www.facebook.com/events/378470308876113/\" target=\"_blank\">http://www.facebook.com/events/378470308876113/</a>\u00a0</em></div>\n<div><em><br />\n</em></div>\n<div><em>Contacto directo:\u00a0artistasanonimxs@gmail.com</em></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div></div>\n<div>&#8212;</div>\n<div><strong>Abril</strong></div>\n<div></div>\n<div>Cualquier persona interesada en desarrollar acciones artisticas en relacion con la Berlin Biennale puede acercarse a las asambleas de <strong>Cultura Sol</strong> que son los <strong>Martes a las 20h en la plaza de las Descalzas</strong>, hay un grupo de Coordinaci\u00f3n espec\u00edfico para el III Encuentro de Creadores que este Martes estar\u00e1 en el mismo lugar a las 21.30h.</div>\n<div>.</div>\n<div>De momento, se plantea integrar las primeras acciones en el\u00a0III Encuentro de Creadores, que tendr\u00e1 lugar los d\u00edas 2-3 de Junio en el Parque del Retiro de Madrid, pero la iniciativa es abierta a utilizar toda la extensi\u00f3n de la Bienal (28 Abril-1 de Julio) si hay gente dispuesta a ello.</div>\n<div></div>\n<div>Saludos!</div>\n<div></div>\n<div>&#8212;</div>\n<div>&#8212;</div>\n<div>Hola!</div>\n<div></div>\n<div>En Madrid se va a celebrar una primera reuni\u00f3n de aproximaci\u00f3n a la iniciativa el pr\u00f3ximo domingo 15 de Abril a las 17:30h en los alrededores del Palacio de Cristal del parque del Retiro.</div>\n<div></div>\n<div><strong>17:00\u00a0</strong>&#8211; Grupo de\u00a0<strong>Organizaci\u00f3n del III Encuentro de Creadores.</strong> Lugar:\u00a0Alrededores<strong>\u00a0Palacio de Cristal</strong>\u00a0(Retiro)</div>\n<div></div>\n<div><strong>17:30</strong>\u00a0&#8211;\u00a0<strong>Encuentro de Creativxs</strong>\u00a0interesados en participar en\u00a0<strong>Occupy Berlin Biennale</strong>, con el objetivo de generar un\u00a0<strong>grupo de dinamizaci\u00f3n local (propuestas). </strong>Lugar:\u00a0\u00a0Alrededores\u00a0<strong>Palacio de Cristal</strong>\u00a0(Retiro).</div>\n<div></div>\n<div>Recuerda que si quieres puedes <a href=\"http://groups.google.com/group/participaberlinbienal\" target=\"_blank\">sumarte a la lista de preparaci\u00f3n de iniciativas aqu\u00ed.</a></div>\n",
+    "rendered": "<div>\n<h1><strong>2 y 3 de Junio &#8211;\u00a0Berlin Biennale arranca de la mano del III Encuentro de Creador_s\u00a0</strong></h1>\n<p><a href=\"http://berlinbienal.tomalaplaza.net/files/2012/04/CARTEL-BIENNALE-Madrid.jpg\"><img loading=\"lazy\" class=\"alignleft size-medium wp-image-134\" src=\"http://berlinbienal.tomalaplaza.net/files/2012/04/CARTEL-BIENNALE-Madrid-212x300.jpg\" alt=\"\" width=\"212\" height=\"300\" srcset=\"https://berlinbienal.tomalaplaza.net/files/2012/04/CARTEL-BIENNALE-Madrid-212x300.jpg 212w, https://berlinbienal.tomalaplaza.net/files/2012/04/CARTEL-BIENNALE-Madrid.jpg 401w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n<div></div>\n<div>Desde la comisi\u00f3n de Cultura Sol integramos la participaci\u00f3n en la Berlin Biennale dentro de nuestro III Encuentro de Creador_s (2 y 3 de Junio)</div>\n<div>\n<div></div>\n<div>Proponemos la aplicaci\u00f3n de un formato que permita generar un\u00a0<strong>Juego de Interacci\u00f3n com\u00fan</strong>\u00a0que invite a simultanear acciones creativas en cualquier lugar.</div>\n<div></div>\n<div>La propuesta ser\u00eda utilizar esta herramienta para repetir programas de intervenci\u00f3n creativa y generar organismos locales que puedan simultanear acciones. Estas herramientas permiten visibilizar los acuerdos comunes, ayudan a la auto-organizaci\u00f3n y a la difusi\u00f3n de acciones creativas conjuntas.</div>\n</div>\n<div></div>\n<div></div>\n<div>\n<div>\n<div><em>Nuestro lema es:<strong>Porque tod@s somos creador@s.\u00a0Porque tod@s somos cultura.\u00a0\u00a1Participa!</strong></em></div>\n</div>\n<div><span style=\"color: #ff0000\"><strong><em><br />\n</em></strong></span></p>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div><em>As\u00ed que os invitamos\u00a0a que compart\u00e1is con nosotros vuestras propuestas para: debates, lecturas, talleres, teatro, m\u00fasica, danza, pintura, costura, construcci\u00f3n, exposici\u00f3n\u2026 o alguna actividad que hay\u00e1is realizado en vuestro barrio y haya tenido buena acogida y que sobre todo, teng\u00e1is ilusi\u00f3n en compartir. Todav\u00eda hay tiempo para sumarse al programa. Cuantos m\u00e1s seamos m\u00e1s ricos seremos&#8230;</em></div>\n<div>\n<div><em><br />\n</em></div>\n<div><em>Las propuestas se reciben a trav\u00e9s de este mail\u00a0<a>encuentroscultura@gmail.com</a>\u00a0o in-situ, en el d\u00eda del Encuentro, en donde habr\u00e1 una zona de \u201cautoprogramaci\u00f3n\u201d que esperamos est\u00e9 muy viva.<br />\nOs esperamos.</em></div>\n<div><em>Para m\u00e1s informaci\u00f3n:<br />\n<a href=\"http://wmail11.movistar.es/cp/ps/Mail/ExternalURLProxy?d=telefonica.net&amp;u=mdvg&amp;url=1884813333\" target=\"_blank\">http://culturasol15m.wordpress.com/2012/04/16/1386/#more-1386</a></em></div>\n<p><em><a href=\"http://culturasol15m.wordpress.com/2012/05/25/iii-encuentro-de-creadores/\" target=\"_blank\">http://culturasol15m.wordpress.com/2012/05/25/iii-encuentro-de-creadores/</a><br />\n<a href=\"http://culturasol15m.wordpress.com/2012/05/29/4-dias-para-el-iii-encuentro-de-creador_s/\" target=\"_blank\">http://culturasol15m.wordpress.com/2012/05/29/4-dias-para-el-iii-encuentro-de-creador_s/</a></em></div>\n</div>\n<div><em><br />\n</em></div>\n<div><em>Evento en Facebook:\u00a0\u00a0<a href=\"http://www.facebook.com/events/378470308876113/\" target=\"_blank\">http://www.facebook.com/events/378470308876113/</a>\u00a0</em></div>\n<div><em><br />\n</em></div>\n<div><em>Contacto directo:\u00a0artistasanonimxs@gmail.com</em></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div></div>\n<div>&#8212;</div>\n<div><strong>Abril</strong></div>\n<div></div>\n<div>Cualquier persona interesada en desarrollar acciones artisticas en relacion con la Berlin Biennale puede acercarse a las asambleas de <strong>Cultura Sol</strong> que son los <strong>Martes a las 20h en la plaza de las Descalzas</strong>, hay un grupo de Coordinaci\u00f3n espec\u00edfico para el III Encuentro de Creadores que este Martes estar\u00e1 en el mismo lugar a las 21.30h.</div>\n<div>.</div>\n<div>De momento, se plantea integrar las primeras acciones en el\u00a0III Encuentro de Creadores, que tendr\u00e1 lugar los d\u00edas 2-3 de Junio en el Parque del Retiro de Madrid, pero la iniciativa es abierta a utilizar toda la extensi\u00f3n de la Bienal (28 Abril-1 de Julio) si hay gente dispuesta a ello.</div>\n<div></div>\n<div>Saludos!</div>\n<div></div>\n<div>&#8212;</div>\n<div>&#8212;</div>\n<div>Hola!</div>\n<div></div>\n<div>En Madrid se va a celebrar una primera reuni\u00f3n de aproximaci\u00f3n a la iniciativa el pr\u00f3ximo domingo 15 de Abril a las 17:30h en los alrededores del Palacio de Cristal del parque del Retiro.</div>\n<div></div>\n<div><strong>17:00\u00a0</strong>&#8211; Grupo de\u00a0<strong>Organizaci\u00f3n del III Encuentro de Creadores.</strong> Lugar:\u00a0Alrededores<strong>\u00a0Palacio de Cristal</strong>\u00a0(Retiro)</div>\n<div></div>\n<div><strong>17:30</strong>\u00a0&#8211;\u00a0<strong>Encuentro de Creativxs</strong>\u00a0interesados en participar en\u00a0<strong>Occupy Berlin Biennale</strong>, con el objetivo de generar un\u00a0<strong>grupo de dinamizaci\u00f3n local (propuestas). </strong>Lugar:\u00a0\u00a0Alrededores\u00a0<strong>Palacio de Cristal</strong>\u00a0(Retiro).</div>\n<div></div>\n<div>Recuerda que si quieres puedes <a href=\"http://groups.google.com/group/participaberlinbienal\" target=\"_blank\">sumarte a la lista de preparaci\u00f3n de iniciativas aqu\u00ed.</a></div>\n",
     "protected": false
   },
   "excerpt": {
@@ -1335,14 +1281,8 @@
     ],
     "version-history": [
       {
-        "count": 8,
+        "count": 0,
         "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/pages/84/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 86,
-        "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/pages/84/revisions/86"
       }
     ],
     "up": [
@@ -1431,14 +1371,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/posts/75/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 79,
-        "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/posts/75/revisions/79"
       }
     ],
     "wp:attachment": [
@@ -1533,14 +1467,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/posts/66/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 69,
-        "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/posts/66/revisions/69"
       }
     ],
     "wp:attachment": [
@@ -1635,14 +1563,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/posts/63/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 65,
-        "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/posts/63/revisions/65"
       }
     ],
     "wp:attachment": [
@@ -1732,14 +1654,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/pages/57/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 58,
-        "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/pages/57/revisions/58"
       }
     ],
     "wp:attachment": [
@@ -1777,7 +1693,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://berlinbienal.tomalaplaza.net/files/2012/03/plano7bb.jpg'><img width=\"300\" height=\"189\" src=\"https://berlinbienal.tomalaplaza.net/files/2012/03/plano7bb-300x189.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://berlinbienal.tomalaplaza.net/files/2012/03/plano7bb-300x189.jpg 300w, https://berlinbienal.tomalaplaza.net/files/2012/03/plano7bb-1024x645.jpg 1024w, https://berlinbienal.tomalaplaza.net/files/2012/03/plano7bb-475x300.jpg 475w, https://berlinbienal.tomalaplaza.net/files/2012/03/plano7bb.jpg 1067w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://berlinbienal.tomalaplaza.net/files/2012/03/plano7bb.jpg'><img width=\"300\" height=\"189\" src=\"https://berlinbienal.tomalaplaza.net/files/2012/03/plano7bb-300x189.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://berlinbienal.tomalaplaza.net/files/2012/03/plano7bb-300x189.jpg 300w, https://berlinbienal.tomalaplaza.net/files/2012/03/plano7bb-1024x645.jpg 1024w, https://berlinbienal.tomalaplaza.net/files/2012/03/plano7bb-475x300.jpg 475w, https://berlinbienal.tomalaplaza.net/files/2012/03/plano7bb.jpg 1067w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -1946,14 +1862,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/posts/48/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 51,
-        "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/posts/48/revisions/51"
       }
     ],
     "wp:attachment": [
@@ -1998,7 +1908,7 @@
     "rendered": "Sevilla [esp]"
   },
   "content": {
-    "rendered": "<p><strong><a href=\"https://www.google.com/calendar/embed?src=ajentesmith%40gmail.com&amp;ctz=Europe/Madrid\" target=\"_blank\">AQUI PUEDES CONSULTA EL CALENDARIO DE ACCIONES PROGRAMADAS**</a>.</strong></p>\n<p>** Recuerda que en cualquier momento pueden sumarse nuevas acciones!! \ud83d\ude42</p>\n<p>&nbsp;</p>\n<p><strong>28-04-2012 \u00a0COMIENZA LA PROGRAMACI\u00d3N DE BB7 EN SEVILLA</strong></p>\n<p>El pasado sabado 28 de Abril dimos comienzo a las actividades en Sevilla de la\u00a0<strong>Bienal Global de Arte Contempor\u00e1neo BB7</strong>, con una Performance de presentaci\u00f3n entre la Plaza del Museo y Las Setas.</p>\n<p><a href=\"http://berlinbienal.tomalaplaza.net/files/2012/05/presentacion_bb7_sevilla.jpg\"><img src=\"http://berlinbienal.tomalaplaza.net/files/2012/05/presentacion_bb7_sevilla.jpg\" alt=\"\" width=\"567\" height=\"378\" /></a></p>\n<p>Proponemos que a lo largo de los pr\u00f3ximos 2 meses tambien Sevilla sea un lienzo en blanco para la creatividad y para la reivindicaci\u00f3n social, haciendonos eco de la invitaci\u00f3n de la Bienal de Berlina los movimientos sociales para autoorganizar libremente la edici\u00f3n de 2012.</p>\n<p>Todxs estais invitados a imaginar y a participar!</p>\n<p>El programa es abierto, algunas de las actividades ya programadas son:</p>\n<p><strong>5 y 6 Mayo:</strong></p>\n<p>16h // Taller de preparaci\u00f3n de pancartas y materiales artisticos para la Manifestaci\u00f3n Global del 12M.</p>\n<p><a href=\"http://berlinbienal.tomalaplaza.net/files/2012/03/pancartas2.jpg\"><img class=\"alignleft size-medium wp-image-131\" src=\"http://berlinbienal.tomalaplaza.net/files/2012/03/pancartas2-300x200.jpg\" alt=\"\" width=\"300\" height=\"200\" srcset=\"https://berlinbienal.tomalaplaza.net/files/2012/03/pancartas2-300x200.jpg 300w, https://berlinbienal.tomalaplaza.net/files/2012/03/pancartas2-450x300.jpg 450w, https://berlinbienal.tomalaplaza.net/files/2012/03/pancartas2.jpg 567w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>13,14 Mayo:</strong></p>\n<p>Todo el d\u00eda // Taller de elaboraci\u00f3n de carteler\u00eda an\u00f3nima 15M. Las Setas.</p>\n<p><strong>15 Mayo:</strong></p>\n<p>Pegada de Carteler\u00eda An\u00f3nima por toda la ciudad. Inicio en Las Setas.</p>\n<p><strong>18 Mayo // APLAZADO:</strong></p>\n<p>23:59h // Photorally \u201cSue\u00f1os invisibles, dormir en la calle\u201d. Inicio en la parte central de la Alameda de H\u00e9rcules.</p>\n<p><strong>4 Junio:</strong></p>\n<p>19:00h // &#8220;Ejercicio Democr\u00e1tico&#8221; &#8211; Recital de poes\u00eda punk. En Las Setas.</p>\n<p>Os invitamos a participar y a proponer!!! El plazo de propuestas es abierto y continuado a trav\u00e9s de la lista participaberlinbienal@googlegroups.com y del blog.</p>\n<p>&nbsp;</p>\n<p><strong>26/04/2012 &#8211; PRESENTACI\u00d3N BERLIN BIENNALE</strong></p>\n<div></div>\n<div>Hola compa\u00f1erxs!</div>\n<div></div>\n<div>El pr\u00f3ximo\u00a0<strong>s\u00e1bado 28 de Abril</strong>\u00a0haremos en Sevilla la presentaci\u00f3n de la iniciativa &#8220;<a href=\"http://berlinbienal.tomalaplaza.net/invitacion/\">Berlin Bienal viene a la Ciudad!!</a>&#8220;</div>\n<div></div>\n<div>Lo haremos realizando una performance distribuida por todo el centro de Sevilla: 4 cantores vestidos de negro recorrer\u00e1n el centro dando la noticia, mientras colaboradores &#8220;espont\u00e1neos&#8221; ir\u00e1n &#8220;despertando&#8221; a lo largo del recorrido, sumandose a la marcha a su paso.</div>\n<div></div>\n<div>Necesitamos colaboradores para hacer de &#8220;espont\u00e1neos&#8221;.<strong>\u00a0El grupo de preparaci\u00f3n hemos quedado a las 16:30h en la plaza del Museo</strong>. Desde all\u00ed nos distribuiremos por el recorrido, que\u00a0<strong>recorrer\u00e1 las calles m\u00e1s centricas hasta llegar a las Setas a las 18h</strong>, donde se presentar\u00e1n las primeras actividades programadas y realizaremos un<strong>\u00a0taller de elaboraci\u00f3n de carteles</strong>\u00a0\ud83d\ude42</div>\n<div></div>\n<div>Os esperamos,estais todxs invitados a participar!!</div>\n<div></div>\n<div>\ud83d\ude09</div>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>(13/04/2012) Redaccion resumen y conclusiones primera reunion grupo de trabajo.</strong></p>\n<p><a href=\"https://docs.google.com/document/d/1UOxGhUFjsCufFVI-WyQDn9cwMGv5e0wxYpl4AGR-pxo/edit\" target=\"_blank\">ver la fuente de este documento.</a></p>\n<p>Hola!<br />\nAyer viernes 13/04 nos juntamos por primera vez la gente del grupo de trabajo de sevilla para la Berlin Biennale.</p>\n<p>PUNTOS IMPORTANTES:</p>\n<p><strong>1) Preparaci\u00f3n de la apertura de la Bienal /// 28 de Abril</strong></p>\n<p>Planteamos hacer una &#8220;presentaci\u00f3n&#8221; de la bienal el dia que comienza, el <strong>28 de Abril.</strong></p>\n<p>La parte de la &#8220;presentaci\u00f3n propiamente dicha&#8221; acordamos que tuviese una hora y lugar establecidos para poder convocar (a gente y a medios etc). <strong>La hora de convocatoria ser\u00e1 a las 18h en las Setas.</strong></p>\n<p>Como queremos que la presentaci\u00f3n tenga un caracter explosivo, artistico y proactivo (ser\u00e1 una invitaci\u00f3n a todo el mundo a participar en las acciones de la BB7), planeamos hacer algunas acciones llamativas antes/durante la presentaci\u00f3n.</p>\n<p><strong>La idea es quedar todxs antes en un sitio del centro y desde all\u00ed dispersarnos para recorrer las calles corriendo y haciendo difusi\u00f3n</strong> &#8220;a voz en grito&#8221;, <strong>con alegr\u00eda</strong>, y en plan cabras locas.</p>\n<p><em>// Hay que concretar que vestimenta nos pondremos y c\u00f3mo hacemos exactamente la difusi\u00f3n</em></p>\n<p><em>// como vestimenta, est\u00e1 la idea de colgarnos cintas de colores en los brazos para que vuelen detr\u00e1s nuestra, etc.</em></p>\n<p><em>// otra idea de la difusi\u00f3n entremedias podr\u00eda ser pegar carteles en la espalda de algunos transeuntes, o quien sabe. \u00a1\u00a1a imaginar cosas bonitas y chocantes!! \ud83d\ude42</em></p>\n<p><strong>Llegando a las setas cada unos por una zona y reuniendonos a las 18h en las escaleras principales</strong> para gritar todxs a la vez que la bienal de berlin ha llegado a la ciudad.</p>\n<p><em>// hay que pensar qu\u00e9 vamos a decir exactamente.</em></p>\n<p><em>// tambi\u00e9n <strong>preparar un texto para entregar</strong>, que puede ser la hoja de presentaci\u00f3n que ya tenemos pero actualizada: <a href=\"https://n-1.cc/pg/file/read/1245859/invitacion-berlinbienal\">https://n-1.cc/pg/file/read/1245859/invitacion-berlinbienal</a></em></p>\n<p><em>// tambi\u00e9n estar\u00eda bien tener ubicadas en el tiempo algunas acciones o talleres para decirlo el dia de la presentaci\u00f3n, en plan: tal dia taller de preparacion de la mani, tal dia accion de nosequ\u00e9 etc. <strong>Preparar un &#8220;inicio de programa de actividades&#8221;</strong></em></p>\n<p><em>// si podemos contar con alguna batucada que empiece a tocar tras &#8220;presentar la bienal&#8221; (gritar lo que sea y entregar los papeles) estar\u00eda muy bien. Por otra parte, est\u00e1 la idea de alzar una cometa en forma de sol que corone el acto en las escaleras. Eso ser\u00eda precioso, en combinaci\u00f3n con la batucada \ud83d\ude42 &#8212;&gt; tenemos que ver si tenemos fuerzas para montarlo todo y tenerlo listo a tiempo..</em></p>\n<p><strong>2) Conseguir un espacio de almacen de materiales</strong></p>\n<p>Lo suyo ser\u00eda contar con un espacio-almac\u00e9n donde ir acumulando todo tipo de materiales que nos puedar ir sirviendo (pintura reciclada, alambres, rollos de papel etc etc etc)</p>\n<p>Lo ideal ser\u00eda que lxs que esteis en Bellas artes consigais que podamos contar con una sala all\u00ed (segundo sotano o lo que sea&#8230;) A ver si lo podeis mover cuanto antes, para empezar a llevar \u00a0alli cosas.</p>\n<p><em>// jose se\u00f1ala que en ese caso, hay que tener en cuenta que la facultad cierra de viernes por la tarde a lunes.</em></p>\n<p><strong>3 ) Difusi\u00f3n durante la feria (17-22/04)</strong></p>\n<p>Como aqu\u00ed en sevilla la semana antes va a estar todo el mundo en la feria, pensamos que habr\u00eda que ir a la feria a difundir.</p>\n<p>\u00bfc\u00f3mo?<br />\n<strong>Para no desentonar, la idea es hacernos trajes folcloricos con materiales reciclados y irnos pay\u00e1.</strong></p>\n<p><em>// Llevar panfletillos para entregar en mano anunciando la presentaci\u00f3n del dia 28 y &#8220;que se preparen para las sorpresas&#8221;</em></p>\n<p><em>// podemos llevar tambi\u00e9n un &#8220;bote&#8221; para que la gente que quiera colaborar economicamente para materiales etc pues que se animen y echen \ud83d\ude09</em></p>\n<p><em>// podiamos quedar un dia para hacernos los trajes!</em></p>\n<p><strong>4) Preparaci\u00f3n de acciones para la la manifestaci\u00f3n del 12 de mayo y la acampada.</strong></p>\n<p>La idea es aportar un toque artistico y sorprendente para la manifestaci\u00f3n, que d\u00e9 alegr\u00eda y fuerza.</p>\n<p><em>// podr\u00edamos <strong>establecer un dia (o dos, podria ser s\u00e1bado+domingo) de taller de preparaci\u00f3n de la mani</strong>, donde nos pongamos a hacer manualidades (pancartas,etc etc). Podr\u00eda ser el fin de semana anterior, 5-6 de mayo, en las setas.&#8212;&gt; la fecha que digamos la podemos incluir ya en el programa de la presentaci\u00f3n.</em></p>\n<p><em>// una idea es <strong>construir un &#8220;drag\u00f3n chino&#8221; devorador de personas</strong>, con armazon de alambre, cabeza de papel-mach\u00e9 y escamas de billetes o similar. \ud83d\ude00</em></p>\n<p><em>&#8212;-&gt; podemos hacer las escamas con las p\u00e1ginas naranja de economia del periodico. asi nos saldr\u00eda mas barato (podemos reciclarlos en los contenedores) y mas sencillo de montar (le damos unos tijeretazos a cada pagina y ya tenemos los flecos. Hay que pensar la estructura y el tema de la cabeza. \ud83d\ude42</em></p>\n<p><em>// como idea para la noche de acampada, est\u00e1 la idea de hacer un lanzamiento de farolillos tipo japoneses con deseos de las personas \ud83d\ude42</em></p>\n<p><strong>5) extension de redes</strong></p>\n<p><em>// <strong>involucrar a la comisi\u00f3n de comunicaci\u00f3n y sobre todo a setasTV</strong> en la difusion y cobertura de las acciones. // Miguel est\u00e1 en la comision de comunicacion del 15m y se encarga de ello.Tambi\u00e9n estamos en contacto con la gente que lo est\u00e1 montando en berlin. \ud83d\ude42</em></p>\n<p><em>// <strong>Coordinaci\u00f3n con las jornadas culturales de la facultad de bellas artes</strong> : difusi\u00f3n, traslado de ciertos actos a la bienal, involucrar a personas interesadas. &#8211;&gt; de esto os podeis encargar activamente lxs que estudiais all\u00ed.</em></p>\n<p><em>// La universidad, a trav\u00e9s del <strong>cicus</strong>, va a ceder los muros muertos de las facultades para unas jornadas que organiza mano a mano con el espacio <strong>delimbo</strong>. Hay que <strong>localizar esos muros muertos, echarles fotos y pasarselos para que nos digan cuales est\u00e1n disponibles</strong> y cuales no.</em></p>\n<p><em>// igualmente, <strong>buscar todos los espacios que puedan acoger alg\u00fana accion</strong> o iniciativa (plazas, rincones, calles, edificios, galerias de arte, talleres, librerias etc etc&#8230;)</em></p>\n<p><strong>6) proxima reunion:</strong><br />\nComo no dijimos nada, y echandole un vistazo al panorama que tenemos,<strong> os proponemos que nos reunamos de nuevo el pr\u00f3ximo vienes 21 de abril a las 17h en la entrada de la facultad de Bellas Artes.</strong></p>\n<p>1 saludo y gracias!!!!<br />\n\ud83d\ude42</p>\n<p>&nbsp;</p>\n<p>&#8212;&#8212;&#8212;&#8211;</p>\n<p>Hola!</p>\n<p>Todas las personas creativas o con ganas de aportar sus ideas o sus manos\u00a0<strong>estais invitadas a participar en el primer encuentro del grupo de coordinaci\u00f3n en sevilla, el pr\u00f3ximo viernes 13 de Abril a las 17h en la puerta de la Facultad de Bellas Artes</strong>\u00a0(junto a las Setas). La idea es hacer una lluvia de ideas mientras damos un paseo buscando espacios que puedan acoger y/o inspirar nuestras fantasias \ud83d\ude42</p>\n<p>&#8212;&#8212;-</p>\n<p>En Sevilla acabamos de lanzar el grupo de dinamizaci\u00f3n.</p>\n<p><strong>Hemos comenzado recopilando contactos</strong> de todxs las personas que nos hemos ido encontrando, <strong>y tambi\u00e9n nos hemos acercado a algunos espacios artisticos de creaci\u00f3n contempor\u00e1nea</strong>, como talleres de pintura, galer\u00edas de exposici\u00f3n horizontales, o el CICUS (Centro para Iniciativas Culturales de la Universidad de Sevilla).</p>\n<p><strong>La respuesta est\u00e1 siendo muy positiva</strong> y pronto tenemos pensado realizar un paseo por la ciudad para localizar espacios e inspirarnos con lo que se nos ocurra que podamos hacer all\u00ed \ud83d\ude42</p>\n<p>&nbsp;</p>\n",
+    "rendered": "<p><strong><a href=\"https://www.google.com/calendar/embed?src=ajentesmith%40gmail.com&amp;ctz=Europe/Madrid\" target=\"_blank\">AQUI PUEDES CONSULTA EL CALENDARIO DE ACCIONES PROGRAMADAS**</a>.</strong></p>\n<p>** Recuerda que en cualquier momento pueden sumarse nuevas acciones!! \ud83d\ude42</p>\n<p>&nbsp;</p>\n<p><strong>28-04-2012 \u00a0COMIENZA LA PROGRAMACI\u00d3N DE BB7 EN SEVILLA</strong></p>\n<p>El pasado sabado 28 de Abril dimos comienzo a las actividades en Sevilla de la\u00a0<strong>Bienal Global de Arte Contempor\u00e1neo BB7</strong>, con una Performance de presentaci\u00f3n entre la Plaza del Museo y Las Setas.</p>\n<p><a href=\"http://berlinbienal.tomalaplaza.net/files/2012/05/presentacion_bb7_sevilla.jpg\"><img loading=\"lazy\" src=\"http://berlinbienal.tomalaplaza.net/files/2012/05/presentacion_bb7_sevilla.jpg\" alt=\"\" width=\"567\" height=\"378\" /></a></p>\n<p>Proponemos que a lo largo de los pr\u00f3ximos 2 meses tambien Sevilla sea un lienzo en blanco para la creatividad y para la reivindicaci\u00f3n social, haciendonos eco de la invitaci\u00f3n de la Bienal de Berlina los movimientos sociales para autoorganizar libremente la edici\u00f3n de 2012.</p>\n<p>Todxs estais invitados a imaginar y a participar!</p>\n<p>El programa es abierto, algunas de las actividades ya programadas son:</p>\n<p><strong>5 y 6 Mayo:</strong></p>\n<p>16h // Taller de preparaci\u00f3n de pancartas y materiales artisticos para la Manifestaci\u00f3n Global del 12M.</p>\n<p><a href=\"http://berlinbienal.tomalaplaza.net/files/2012/03/pancartas2.jpg\"><img loading=\"lazy\" class=\"alignleft size-medium wp-image-131\" src=\"http://berlinbienal.tomalaplaza.net/files/2012/03/pancartas2-300x200.jpg\" alt=\"\" width=\"300\" height=\"200\" srcset=\"https://berlinbienal.tomalaplaza.net/files/2012/03/pancartas2-300x200.jpg 300w, https://berlinbienal.tomalaplaza.net/files/2012/03/pancartas2-450x300.jpg 450w, https://berlinbienal.tomalaplaza.net/files/2012/03/pancartas2.jpg 567w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>13,14 Mayo:</strong></p>\n<p>Todo el d\u00eda // Taller de elaboraci\u00f3n de carteler\u00eda an\u00f3nima 15M. Las Setas.</p>\n<p><strong>15 Mayo:</strong></p>\n<p>Pegada de Carteler\u00eda An\u00f3nima por toda la ciudad. Inicio en Las Setas.</p>\n<p><strong>18 Mayo // APLAZADO:</strong></p>\n<p>23:59h // Photorally \u201cSue\u00f1os invisibles, dormir en la calle\u201d. Inicio en la parte central de la Alameda de H\u00e9rcules.</p>\n<p><strong>4 Junio:</strong></p>\n<p>19:00h // &#8220;Ejercicio Democr\u00e1tico&#8221; &#8211; Recital de poes\u00eda punk. En Las Setas.</p>\n<p>Os invitamos a participar y a proponer!!! El plazo de propuestas es abierto y continuado a trav\u00e9s de la lista participaberlinbienal@googlegroups.com y del blog.</p>\n<p>&nbsp;</p>\n<p><strong>26/04/2012 &#8211; PRESENTACI\u00d3N BERLIN BIENNALE</strong></p>\n<div></div>\n<div>Hola compa\u00f1erxs!</div>\n<div></div>\n<div>El pr\u00f3ximo\u00a0<strong>s\u00e1bado 28 de Abril</strong>\u00a0haremos en Sevilla la presentaci\u00f3n de la iniciativa &#8220;<a href=\"http://berlinbienal.tomalaplaza.net/invitacion/\">Berlin Bienal viene a la Ciudad!!</a>&#8220;</div>\n<div></div>\n<div>Lo haremos realizando una performance distribuida por todo el centro de Sevilla: 4 cantores vestidos de negro recorrer\u00e1n el centro dando la noticia, mientras colaboradores &#8220;espont\u00e1neos&#8221; ir\u00e1n &#8220;despertando&#8221; a lo largo del recorrido, sumandose a la marcha a su paso.</div>\n<div></div>\n<div>Necesitamos colaboradores para hacer de &#8220;espont\u00e1neos&#8221;.<strong>\u00a0El grupo de preparaci\u00f3n hemos quedado a las 16:30h en la plaza del Museo</strong>. Desde all\u00ed nos distribuiremos por el recorrido, que\u00a0<strong>recorrer\u00e1 las calles m\u00e1s centricas hasta llegar a las Setas a las 18h</strong>, donde se presentar\u00e1n las primeras actividades programadas y realizaremos un<strong>\u00a0taller de elaboraci\u00f3n de carteles</strong>\u00a0\ud83d\ude42</div>\n<div></div>\n<div>Os esperamos,estais todxs invitados a participar!!</div>\n<div></div>\n<div>\ud83d\ude09</div>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>(13/04/2012) Redaccion resumen y conclusiones primera reunion grupo de trabajo.</strong></p>\n<p><a href=\"https://docs.google.com/document/d/1UOxGhUFjsCufFVI-WyQDn9cwMGv5e0wxYpl4AGR-pxo/edit\" target=\"_blank\">ver la fuente de este documento.</a></p>\n<p>Hola!<br />\nAyer viernes 13/04 nos juntamos por primera vez la gente del grupo de trabajo de sevilla para la Berlin Biennale.</p>\n<p>PUNTOS IMPORTANTES:</p>\n<p><strong>1) Preparaci\u00f3n de la apertura de la Bienal /// 28 de Abril</strong></p>\n<p>Planteamos hacer una &#8220;presentaci\u00f3n&#8221; de la bienal el dia que comienza, el <strong>28 de Abril.</strong></p>\n<p>La parte de la &#8220;presentaci\u00f3n propiamente dicha&#8221; acordamos que tuviese una hora y lugar establecidos para poder convocar (a gente y a medios etc). <strong>La hora de convocatoria ser\u00e1 a las 18h en las Setas.</strong></p>\n<p>Como queremos que la presentaci\u00f3n tenga un caracter explosivo, artistico y proactivo (ser\u00e1 una invitaci\u00f3n a todo el mundo a participar en las acciones de la BB7), planeamos hacer algunas acciones llamativas antes/durante la presentaci\u00f3n.</p>\n<p><strong>La idea es quedar todxs antes en un sitio del centro y desde all\u00ed dispersarnos para recorrer las calles corriendo y haciendo difusi\u00f3n</strong> &#8220;a voz en grito&#8221;, <strong>con alegr\u00eda</strong>, y en plan cabras locas.</p>\n<p><em>// Hay que concretar que vestimenta nos pondremos y c\u00f3mo hacemos exactamente la difusi\u00f3n</em></p>\n<p><em>// como vestimenta, est\u00e1 la idea de colgarnos cintas de colores en los brazos para que vuelen detr\u00e1s nuestra, etc.</em></p>\n<p><em>// otra idea de la difusi\u00f3n entremedias podr\u00eda ser pegar carteles en la espalda de algunos transeuntes, o quien sabe. \u00a1\u00a1a imaginar cosas bonitas y chocantes!! \ud83d\ude42</em></p>\n<p><strong>Llegando a las setas cada unos por una zona y reuniendonos a las 18h en las escaleras principales</strong> para gritar todxs a la vez que la bienal de berlin ha llegado a la ciudad.</p>\n<p><em>// hay que pensar qu\u00e9 vamos a decir exactamente.</em></p>\n<p><em>// tambi\u00e9n <strong>preparar un texto para entregar</strong>, que puede ser la hoja de presentaci\u00f3n que ya tenemos pero actualizada: <a href=\"https://n-1.cc/pg/file/read/1245859/invitacion-berlinbienal\">https://n-1.cc/pg/file/read/1245859/invitacion-berlinbienal</a></em></p>\n<p><em>// tambi\u00e9n estar\u00eda bien tener ubicadas en el tiempo algunas acciones o talleres para decirlo el dia de la presentaci\u00f3n, en plan: tal dia taller de preparacion de la mani, tal dia accion de nosequ\u00e9 etc. <strong>Preparar un &#8220;inicio de programa de actividades&#8221;</strong></em></p>\n<p><em>// si podemos contar con alguna batucada que empiece a tocar tras &#8220;presentar la bienal&#8221; (gritar lo que sea y entregar los papeles) estar\u00eda muy bien. Por otra parte, est\u00e1 la idea de alzar una cometa en forma de sol que corone el acto en las escaleras. Eso ser\u00eda precioso, en combinaci\u00f3n con la batucada \ud83d\ude42 &#8212;&gt; tenemos que ver si tenemos fuerzas para montarlo todo y tenerlo listo a tiempo..</em></p>\n<p><strong>2) Conseguir un espacio de almacen de materiales</strong></p>\n<p>Lo suyo ser\u00eda contar con un espacio-almac\u00e9n donde ir acumulando todo tipo de materiales que nos puedar ir sirviendo (pintura reciclada, alambres, rollos de papel etc etc etc)</p>\n<p>Lo ideal ser\u00eda que lxs que esteis en Bellas artes consigais que podamos contar con una sala all\u00ed (segundo sotano o lo que sea&#8230;) A ver si lo podeis mover cuanto antes, para empezar a llevar \u00a0alli cosas.</p>\n<p><em>// jose se\u00f1ala que en ese caso, hay que tener en cuenta que la facultad cierra de viernes por la tarde a lunes.</em></p>\n<p><strong>3 ) Difusi\u00f3n durante la feria (17-22/04)</strong></p>\n<p>Como aqu\u00ed en sevilla la semana antes va a estar todo el mundo en la feria, pensamos que habr\u00eda que ir a la feria a difundir.</p>\n<p>\u00bfc\u00f3mo?<br />\n<strong>Para no desentonar, la idea es hacernos trajes folcloricos con materiales reciclados y irnos pay\u00e1.</strong></p>\n<p><em>// Llevar panfletillos para entregar en mano anunciando la presentaci\u00f3n del dia 28 y &#8220;que se preparen para las sorpresas&#8221;</em></p>\n<p><em>// podemos llevar tambi\u00e9n un &#8220;bote&#8221; para que la gente que quiera colaborar economicamente para materiales etc pues que se animen y echen \ud83d\ude09</em></p>\n<p><em>// podiamos quedar un dia para hacernos los trajes!</em></p>\n<p><strong>4) Preparaci\u00f3n de acciones para la la manifestaci\u00f3n del 12 de mayo y la acampada.</strong></p>\n<p>La idea es aportar un toque artistico y sorprendente para la manifestaci\u00f3n, que d\u00e9 alegr\u00eda y fuerza.</p>\n<p><em>// podr\u00edamos <strong>establecer un dia (o dos, podria ser s\u00e1bado+domingo) de taller de preparaci\u00f3n de la mani</strong>, donde nos pongamos a hacer manualidades (pancartas,etc etc). Podr\u00eda ser el fin de semana anterior, 5-6 de mayo, en las setas.&#8212;&gt; la fecha que digamos la podemos incluir ya en el programa de la presentaci\u00f3n.</em></p>\n<p><em>// una idea es <strong>construir un &#8220;drag\u00f3n chino&#8221; devorador de personas</strong>, con armazon de alambre, cabeza de papel-mach\u00e9 y escamas de billetes o similar. \ud83d\ude00</em></p>\n<p><em>&#8212;-&gt; podemos hacer las escamas con las p\u00e1ginas naranja de economia del periodico. asi nos saldr\u00eda mas barato (podemos reciclarlos en los contenedores) y mas sencillo de montar (le damos unos tijeretazos a cada pagina y ya tenemos los flecos. Hay que pensar la estructura y el tema de la cabeza. \ud83d\ude42</em></p>\n<p><em>// como idea para la noche de acampada, est\u00e1 la idea de hacer un lanzamiento de farolillos tipo japoneses con deseos de las personas \ud83d\ude42</em></p>\n<p><strong>5) extension de redes</strong></p>\n<p><em>// <strong>involucrar a la comisi\u00f3n de comunicaci\u00f3n y sobre todo a setasTV</strong> en la difusion y cobertura de las acciones. // Miguel est\u00e1 en la comision de comunicacion del 15m y se encarga de ello.Tambi\u00e9n estamos en contacto con la gente que lo est\u00e1 montando en berlin. \ud83d\ude42</em></p>\n<p><em>// <strong>Coordinaci\u00f3n con las jornadas culturales de la facultad de bellas artes</strong> : difusi\u00f3n, traslado de ciertos actos a la bienal, involucrar a personas interesadas. &#8211;&gt; de esto os podeis encargar activamente lxs que estudiais all\u00ed.</em></p>\n<p><em>// La universidad, a trav\u00e9s del <strong>cicus</strong>, va a ceder los muros muertos de las facultades para unas jornadas que organiza mano a mano con el espacio <strong>delimbo</strong>. Hay que <strong>localizar esos muros muertos, echarles fotos y pasarselos para que nos digan cuales est\u00e1n disponibles</strong> y cuales no.</em></p>\n<p><em>// igualmente, <strong>buscar todos los espacios que puedan acoger alg\u00fana accion</strong> o iniciativa (plazas, rincones, calles, edificios, galerias de arte, talleres, librerias etc etc&#8230;)</em></p>\n<p><strong>6) proxima reunion:</strong><br />\nComo no dijimos nada, y echandole un vistazo al panorama que tenemos,<strong> os proponemos que nos reunamos de nuevo el pr\u00f3ximo vienes 21 de abril a las 17h en la entrada de la facultad de Bellas Artes.</strong></p>\n<p>1 saludo y gracias!!!!<br />\n\ud83d\ude42</p>\n<p>&nbsp;</p>\n<p>&#8212;&#8212;&#8212;&#8211;</p>\n<p>Hola!</p>\n<p>Todas las personas creativas o con ganas de aportar sus ideas o sus manos\u00a0<strong>estais invitadas a participar en el primer encuentro del grupo de coordinaci\u00f3n en sevilla, el pr\u00f3ximo viernes 13 de Abril a las 17h en la puerta de la Facultad de Bellas Artes</strong>\u00a0(junto a las Setas). La idea es hacer una lluvia de ideas mientras damos un paseo buscando espacios que puedan acoger y/o inspirar nuestras fantasias \ud83d\ude42</p>\n<p>&#8212;&#8212;-</p>\n<p>En Sevilla acabamos de lanzar el grupo de dinamizaci\u00f3n.</p>\n<p><strong>Hemos comenzado recopilando contactos</strong> de todxs las personas que nos hemos ido encontrando, <strong>y tambi\u00e9n nos hemos acercado a algunos espacios artisticos de creaci\u00f3n contempor\u00e1nea</strong>, como talleres de pintura, galer\u00edas de exposici\u00f3n horizontales, o el CICUS (Centro para Iniciativas Culturales de la Universidad de Sevilla).</p>\n<p><strong>La respuesta est\u00e1 siendo muy positiva</strong> y pronto tenemos pensado realizar un paseo por la ciudad para localizar espacios e inspirarnos con lo que se nos ocurra que podamos hacer all\u00ed \ud83d\ude42</p>\n<p>&nbsp;</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -2043,14 +1953,8 @@
     ],
     "version-history": [
       {
-        "count": 13,
+        "count": 0,
         "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/pages/42/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 141,
-        "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/pages/42/revisions/141"
       }
     ],
     "up": [
@@ -2094,7 +1998,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://berlinbienal.tomalaplaza.net/files/2012/03/cartel-bienalviene_BJ.jpg'><img width=\"212\" height=\"300\" src=\"https://berlinbienal.tomalaplaza.net/files/2012/03/cartel-bienalviene_BJ-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://berlinbienal.tomalaplaza.net/files/2012/03/cartel-bienalviene_BJ-212x300.jpg 212w, https://berlinbienal.tomalaplaza.net/files/2012/03/cartel-bienalviene_BJ.jpg 401w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://berlinbienal.tomalaplaza.net/files/2012/03/cartel-bienalviene_BJ.jpg'><img width=\"212\" height=\"300\" src=\"https://berlinbienal.tomalaplaza.net/files/2012/03/cartel-bienalviene_BJ-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://berlinbienal.tomalaplaza.net/files/2012/03/cartel-bienalviene_BJ-212x300.jpg 212w, https://berlinbienal.tomalaplaza.net/files/2012/03/cartel-bienalviene_BJ.jpg 401w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2257,14 +2161,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/posts/38/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 39,
-        "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/posts/38/revisions/39"
       }
     ],
     "wp:attachment": [
@@ -2309,7 +2207,7 @@
     "rendered": "CIUDADES"
   },
   "content": {
-    "rendered": "<p>La invitaci\u00f3n a extender la Berlin Biennale es global. <strong>Te animamos a crear un grupo de dinamizaci\u00f3n local en tu ciudad y lanzarte a ello!!</strong></p>\n<p>En esta p\u00e1gina iremos listando todas las ciudades que se sumen a la iniciativa y las diferentes intervenciones que se vayan a realizar en cada una de ellas \ud83d\ude42</p>\n<p>Si tienes una propuesta que s\u00f3lo se vaya a realizar en una determinada ciudad, indicalo al inicio de la propuesta escribiendo el nombre de la ciudad en may\u00fasculas.</p>\n<p><a href=\"https://n-1.cc/pg/file/read/1245859/invitacion-berlinbienal\" target=\"_blank\">\u00a0Aqui puedes descargar un texto de invitaci\u00f3n</a> para llevar a tus asambleas o a los sitios y colectivos que creas que pueden estar interesados en participar</p>\n<p>Para promocionar la bienal en tu ciudad e invitar a los artistas a participar, puedes utilizar <a href=\"https://n-1.cc/pg/file/read/1242022/cartel-difusion-estatal-berlin-bienal\" target=\"_blank\">este cartel</a> (o dise\u00f1ar el tuyo propio)</p>\n<p><a href=\"https://n-1.cc/pg/file/read/1242022/cartel-difusion-estatal-berlin-bienal\"><img class=\"alignleft size-full wp-image-40\" src=\"http://berlinbienal.tomalaplaza.net/files/2012/03/cartel-bienalviene_BJ.jpg\" alt=\"\" width=\"401\" height=\"567\" srcset=\"https://berlinbienal.tomalaplaza.net/files/2012/03/cartel-bienalviene_BJ.jpg 401w, https://berlinbienal.tomalaplaza.net/files/2012/03/cartel-bienalviene_BJ-212x300.jpg 212w\" sizes=\"(max-width: 401px) 100vw, 401px\" /></a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>\u00a1\u00a1\u00a1que disfrutes de la Revoluci\u00f3n!!!</strong> \ud83d\ude09</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
+    "rendered": "<p>La invitaci\u00f3n a extender la Berlin Biennale es global. <strong>Te animamos a crear un grupo de dinamizaci\u00f3n local en tu ciudad y lanzarte a ello!!</strong></p>\n<p>En esta p\u00e1gina iremos listando todas las ciudades que se sumen a la iniciativa y las diferentes intervenciones que se vayan a realizar en cada una de ellas \ud83d\ude42</p>\n<p>Si tienes una propuesta que s\u00f3lo se vaya a realizar en una determinada ciudad, indicalo al inicio de la propuesta escribiendo el nombre de la ciudad en may\u00fasculas.</p>\n<p><a href=\"https://n-1.cc/pg/file/read/1245859/invitacion-berlinbienal\" target=\"_blank\">\u00a0Aqui puedes descargar un texto de invitaci\u00f3n</a> para llevar a tus asambleas o a los sitios y colectivos que creas que pueden estar interesados en participar</p>\n<p>Para promocionar la bienal en tu ciudad e invitar a los artistas a participar, puedes utilizar <a href=\"https://n-1.cc/pg/file/read/1242022/cartel-difusion-estatal-berlin-bienal\" target=\"_blank\">este cartel</a> (o dise\u00f1ar el tuyo propio)</p>\n<p><a href=\"https://n-1.cc/pg/file/read/1242022/cartel-difusion-estatal-berlin-bienal\"><img loading=\"lazy\" class=\"alignleft size-full wp-image-40\" src=\"http://berlinbienal.tomalaplaza.net/files/2012/03/cartel-bienalviene_BJ.jpg\" alt=\"\" width=\"401\" height=\"567\" srcset=\"https://berlinbienal.tomalaplaza.net/files/2012/03/cartel-bienalviene_BJ.jpg 401w, https://berlinbienal.tomalaplaza.net/files/2012/03/cartel-bienalviene_BJ-212x300.jpg 212w\" sizes=\"(max-width: 401px) 100vw, 401px\" /></a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>\u00a1\u00a1\u00a1que disfrutes de la Revoluci\u00f3n!!!</strong> \ud83d\ude09</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -2354,14 +2252,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/pages/32/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 36,
-        "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/pages/32/revisions/36"
       }
     ],
     "wp:attachment": [
@@ -2399,7 +2291,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://berlinbienal.tomalaplaza.net/files/2012/03/Los-hombres-grises.jpg'><img width=\"300\" height=\"151\" src=\"https://berlinbienal.tomalaplaza.net/files/2012/03/Los-hombres-grises-300x151.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://berlinbienal.tomalaplaza.net/files/2012/03/Los-hombres-grises-300x151.jpg 300w, https://berlinbienal.tomalaplaza.net/files/2012/03/Los-hombres-grises-1024x516.jpg 1024w, https://berlinbienal.tomalaplaza.net/files/2012/03/Los-hombres-grises-500x252.jpg 500w, https://berlinbienal.tomalaplaza.net/files/2012/03/Los-hombres-grises.jpg 1192w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://berlinbienal.tomalaplaza.net/files/2012/03/Los-hombres-grises.jpg'><img width=\"300\" height=\"151\" src=\"https://berlinbienal.tomalaplaza.net/files/2012/03/Los-hombres-grises-300x151.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://berlinbienal.tomalaplaza.net/files/2012/03/Los-hombres-grises-300x151.jpg 300w, https://berlinbienal.tomalaplaza.net/files/2012/03/Los-hombres-grises-1024x516.jpg 1024w, https://berlinbienal.tomalaplaza.net/files/2012/03/Los-hombres-grises-500x252.jpg 500w, https://berlinbienal.tomalaplaza.net/files/2012/03/Los-hombres-grises.jpg 1192w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2518,7 +2410,7 @@
     "rendered": "Se busca: artistas y grupos de dinamizaci\u00f3n local."
   },
   "content": {
-    "rendered": "<p><a href=\"http://berlinbienal.tomalaplaza.net/files/2012/03/Los-hombres-grises.jpg\"><img class=\"alignleft size-full wp-image-25\" src=\"http://berlinbienal.tomalaplaza.net/files/2012/03/Los-hombres-grises.jpg\" alt=\"\" width=\"1192\" height=\"601\" srcset=\"https://berlinbienal.tomalaplaza.net/files/2012/03/Los-hombres-grises.jpg 1192w, https://berlinbienal.tomalaplaza.net/files/2012/03/Los-hombres-grises-300x151.jpg 300w, https://berlinbienal.tomalaplaza.net/files/2012/03/Los-hombres-grises-1024x516.jpg 1024w, https://berlinbienal.tomalaplaza.net/files/2012/03/Los-hombres-grises-500x252.jpg 500w\" sizes=\"(max-width: 1192px) 100vw, 1192px\" /></a></p>\n<p>&nbsp;</p>\n<p>Mira a tu alrededor&#8230;\u00a1\u00a1todo gris!! Cabezas bajas, todo apagado, plagado de tristeza, ausente de ilusiones&#8230;.<strong>Imagina que de pronto</strong>, en un rinc\u00f3n, te encuentras inesperadamente con un momento de magia, de luz, \u00a1\u00a1o de choke!! que se cuela en tu mente, que se te clava en el coraz\u00f3n y que te hace plantearte \u201c\u00bfpero c\u00f3mo es posible?\u00bfc\u00f3mo es posible este mundo?\u201d</p>\n<p><strong>Eso es lo que buscamos lograr</strong> en todas las ciudades con motivo de la <a href=\"http://www.berlinbiennale.de/blog/en/\" target=\"_blank\">Berlin Biennale</a> de este a\u00f1o, a la que el 15M en su conjunto ha sido invitado a participar.</p>\n<p>Queremos extender la creatividad para inundar todas las plazas de instantes de magia que agiten las consciencias, que cuestionen la realidad, la verosimilitud del mundo en que vivimos.</p>\n<p><strong>Toda persona con la creatividad despierta (o que la quiera despertar), sea o no sea \u201cartista\u201d est\u00e1 invitada</strong> a participar de esta explosi\u00f3n creativa global que conectaremos con el espacio de Berlin en una especie de \u201cespejo m\u00e1gico de Alicia\u201d en el que todo cabe.</p>\n<p><strong>Buscamos la creaci\u00f3n de grupos dinamizadores locales para coordinar las diferentes iniciativas que se vayan generando</strong>: algunas ser\u00e1n compartidas y simult\u00e1neas en varias ciudades, otras tendr\u00e1n lugar s\u00f3lo en un lugar y se podr\u00e1 seguir en Berlin y por internet&#8230;.<strong>\u00a1\u00a1Animate!!</strong></p>\n<p>&nbsp;</p>\n<p><a href=\"http://groups.google.com/group/participaberlinbienal\" target=\"_blank\"><strong>Apuntate</strong> a la lista de correos</a> o escribe a <a href=\"mailto:participaberlinbienal@googlegroups.com\">participaberlinbienal@googlegroups.com</a>\u00a0\u00a0&#8230;y comparte tus ideas, recursos, habilidades&#8230;</p>\n<p><strong>Esta es una iniciativa a nivel global \u00a1\u00a1difundela por todas partes!!</strong></p>\n<p>PARA RESOLVER CUESTIONES DE LOGISTICA HEMOS HABILITADO <a href=\"http://titanpad.com/preparacionberlinbiennal\" target=\"_blank\">ESTE TITANPAD COLABORATIVO</a>.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
+    "rendered": "<p><a href=\"http://berlinbienal.tomalaplaza.net/files/2012/03/Los-hombres-grises.jpg\"><img loading=\"lazy\" class=\"alignleft size-full wp-image-25\" src=\"http://berlinbienal.tomalaplaza.net/files/2012/03/Los-hombres-grises.jpg\" alt=\"\" width=\"1192\" height=\"601\" srcset=\"https://berlinbienal.tomalaplaza.net/files/2012/03/Los-hombres-grises.jpg 1192w, https://berlinbienal.tomalaplaza.net/files/2012/03/Los-hombres-grises-300x151.jpg 300w, https://berlinbienal.tomalaplaza.net/files/2012/03/Los-hombres-grises-1024x516.jpg 1024w, https://berlinbienal.tomalaplaza.net/files/2012/03/Los-hombres-grises-500x252.jpg 500w\" sizes=\"(max-width: 1192px) 100vw, 1192px\" /></a></p>\n<p>&nbsp;</p>\n<p>Mira a tu alrededor&#8230;\u00a1\u00a1todo gris!! Cabezas bajas, todo apagado, plagado de tristeza, ausente de ilusiones&#8230;.<strong>Imagina que de pronto</strong>, en un rinc\u00f3n, te encuentras inesperadamente con un momento de magia, de luz, \u00a1\u00a1o de choke!! que se cuela en tu mente, que se te clava en el coraz\u00f3n y que te hace plantearte \u201c\u00bfpero c\u00f3mo es posible?\u00bfc\u00f3mo es posible este mundo?\u201d</p>\n<p><strong>Eso es lo que buscamos lograr</strong> en todas las ciudades con motivo de la <a href=\"http://www.berlinbiennale.de/blog/en/\" target=\"_blank\">Berlin Biennale</a> de este a\u00f1o, a la que el 15M en su conjunto ha sido invitado a participar.</p>\n<p>Queremos extender la creatividad para inundar todas las plazas de instantes de magia que agiten las consciencias, que cuestionen la realidad, la verosimilitud del mundo en que vivimos.</p>\n<p><strong>Toda persona con la creatividad despierta (o que la quiera despertar), sea o no sea \u201cartista\u201d est\u00e1 invitada</strong> a participar de esta explosi\u00f3n creativa global que conectaremos con el espacio de Berlin en una especie de \u201cespejo m\u00e1gico de Alicia\u201d en el que todo cabe.</p>\n<p><strong>Buscamos la creaci\u00f3n de grupos dinamizadores locales para coordinar las diferentes iniciativas que se vayan generando</strong>: algunas ser\u00e1n compartidas y simult\u00e1neas en varias ciudades, otras tendr\u00e1n lugar s\u00f3lo en un lugar y se podr\u00e1 seguir en Berlin y por internet&#8230;.<strong>\u00a1\u00a1Animate!!</strong></p>\n<p>&nbsp;</p>\n<p><a href=\"http://groups.google.com/group/participaberlinbienal\" target=\"_blank\"><strong>Apuntate</strong> a la lista de correos</a> o escribe a <a href=\"mailto:participaberlinbienal@googlegroups.com\">participaberlinbienal@googlegroups.com</a>\u00a0\u00a0&#8230;y comparte tus ideas, recursos, habilidades&#8230;</p>\n<p><strong>Esta es una iniciativa a nivel global \u00a1\u00a1difundela por todas partes!!</strong></p>\n<p>PARA RESOLVER CUESTIONES DE LOGISTICA HEMOS HABILITADO <a href=\"http://titanpad.com/preparacionberlinbiennal\" target=\"_blank\">ESTE TITANPAD COLABORATIVO</a>.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -2568,14 +2460,8 @@
     ],
     "version-history": [
       {
-        "count": 7,
+        "count": 0,
         "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/posts/24/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 46,
-        "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/posts/24/revisions/46"
       }
     ],
     "wp:attachment": [
@@ -2670,14 +2556,8 @@
     ],
     "version-history": [
       {
-        "count": 8,
+        "count": 0,
         "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/posts/15/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 22,
-        "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/posts/15/revisions/22"
       }
     ],
     "wp:attachment": [
@@ -2727,7 +2607,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://berlinbienal.tomalaplaza.net/files/2012/03/logo-BB.png'><img width=\"167\" height=\"167\" src=\"https://berlinbienal.tomalaplaza.net/files/2012/03/logo-BB.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://berlinbienal.tomalaplaza.net/files/2012/03/logo-BB.png 167w, https://berlinbienal.tomalaplaza.net/files/2012/03/logo-BB-150x150.png 150w\" sizes=\"(max-width: 167px) 100vw, 167px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://berlinbienal.tomalaplaza.net/files/2012/03/logo-BB.png'><img width=\"167\" height=\"167\" src=\"https://berlinbienal.tomalaplaza.net/files/2012/03/logo-BB.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://berlinbienal.tomalaplaza.net/files/2012/03/logo-BB.png 167w, https://berlinbienal.tomalaplaza.net/files/2012/03/logo-BB-150x150.png 150w\" sizes=\"(max-width: 167px) 100vw, 167px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2816,7 +2696,7 @@
     "rendered": "INVITACI\u00d3N A PARTICIPAR EN LA 7th BERLIN BIENNALE"
   },
   "content": {
-    "rendered": "<p><a href=\"http://berlinbienal.tomalaplaza.net/files/2012/03/logo-BB.png\"><img class=\"alignleft size-full wp-image-8\" src=\"http://berlinbienal.tomalaplaza.net/files/2012/03/logo-BB.png\" alt=\"\" width=\"167\" height=\"167\" srcset=\"https://berlinbienal.tomalaplaza.net/files/2012/03/logo-BB.png 167w, https://berlinbienal.tomalaplaza.net/files/2012/03/logo-BB-150x150.png 150w\" sizes=\"(max-width: 167px) 100vw, 167px\" /></a>INVITACI\u00d3N AL MOVIMIENTO 15M A PARTICIPAR EN LA BIENAL DE ARTE CONTEMPORANEO DE BERLIN</p>\n<p>Lxs organizadorxs de la Bienal de Arte contempor\u00e1neo de Berlin (KW Institute for Contemporary Art) han invitado a los movimientos sociales prodemocr\u00e1ticos 15M y OCCUPY a organizar, coordinar y participar activamente en la Bienal de este a\u00f1o.</p>\n<p>El espacio del KW de Berlin ser\u00e1 abierto a todas las iniciativas que puedan surgir, y se organizar\u00e1 all\u00ed un \u00c1gora Global y una plaz abierta, del 28 de Abril al 1 de Julio.</p>\n<p>Desde Coordinaci\u00f3n Estatal queremos llevar m\u00e1s all\u00e1 la posibilidad de esta invitaci\u00f3n y extender la Bienal de Berlin a todas las ciudades, abriendo la posibilidad de realizar todo tipo de intervenciones artisticas-reivindicativas y conect\u00e1ndolas con el espacio de la Bienal en Berl\u00edn. Todas estais invitadas a imaginar!!!</p>\n<p>Para realizar esta conexi\u00f3n y coordinar las propuestas har\u00e1 falta formar grupos de trabajo locales de dinamizaci\u00f3n.</p>\n<p>Pedimos m\u00e1xima difusi\u00f3n a todos los niveles para lograr crear una aut\u00e9ntica explosi\u00f3n de creatividad, que sorprenda y agite las mentes de toda la ciudad.</p>\n<p>Imagina, crea, comparte!!!</p>\n<p>&nbsp;</p>\n<p><a href=\"http://groups.google.com/group/participaberlinbienal\" target=\"_blank\"><strong>Apuntate</strong>\u00a0a la lista de correos</a>\u00a0o escribe a\u00a0<a href=\"mailto:participaberlinbienal@googlegroups.com\">participaberlinbienal@googlegroups.com</a>\u00a0\u00a0&#8230;y comparte tus ideas, recursos, habilidades&#8230;</p>\n<p>PARA RESOLVER CUESTIONES DE LOGISTICA HEMOS HABILITADO\u00a0<a href=\"http://titanpad.com/preparacionberlinbiennal\" target=\"_blank\">ESTE TITANPAD COLABORATIVO</a>.</p>\n<p><strong>Esta es una iniciativa a nivel global \u00a1\u00a1difundela por todas partes!!</strong></p>\n<p>&nbsp;</p>\n<p><strong>EL ESPACIO EN BERLIN</strong></p>\n<p>la sala que se utiliza en el interior del edificio KW <strong>debe servir como una gran plataforma para nuestro movimiento y como espacio en el que se puede experimentar genuinamente</strong> la forma de vida que creemos que es el apropiado para la vida social y pol\u00edtica, por ejemplo, como el que estamos tratando de hacer con las asambleas como ejemplo para la toma de decisiones. La palabra clave que utilizamos para hablar en este contexto es la<strong> INTERACTIVIDAD</strong>.</p>\n<p>Siempre dejando claro que se puede hacer ambas cosas: acciones en el espacio p\u00fablico, fuera, en la calle y acciones en el interior, en el edificio de KW.</p>\n<p><a href=\"http://berlinbienal.tomalaplaza.net/files/2012/03/plano7bb.jpg\"><img class=\"alignleft size-full wp-image-54\" src=\"http://berlinbienal.tomalaplaza.net/files/2012/03/plano7bb.jpg\" alt=\"\" width=\"1067\" height=\"673\" srcset=\"https://berlinbienal.tomalaplaza.net/files/2012/03/plano7bb.jpg 1067w, https://berlinbienal.tomalaplaza.net/files/2012/03/plano7bb-300x189.jpg 300w, https://berlinbienal.tomalaplaza.net/files/2012/03/plano7bb-1024x645.jpg 1024w, https://berlinbienal.tomalaplaza.net/files/2012/03/plano7bb-475x300.jpg 475w\" sizes=\"(max-width: 1067px) 100vw, 1067px\" /></a></p>\n<p>&nbsp;</p>\n<p align=\"JUSTIFY\">Por ahora la sala se divide en diferentes \u00e1reas, que sirve para diferentes tipos de acciones y necesidades, la integraci\u00f3n de todas las actividades y proyectos que se adapten a las diferentes \u00e1reas, no s\u00f3lo a los planificados por el grupo de Berl\u00edn (s\u00ed, la sala es grande , pero no infinita).</p>\n<p align=\"LEFT\">Habr\u00e1 algunas <strong>\u00e1reas planeadas</strong> para:<br />\n&#8211; Las actividades creativas (como perfomances, teatro o la preparaci\u00f3n de una acci\u00f3n al aire libre)<br />\n&#8211; Instalaciones permanentes (por supuesto con \u2018mensaje pol\u00edtico\u2019)<br />\n&#8211; Acciones espont\u00e1neas.<br />\n&#8211; Las acciones de la Universidad Aut\u00f3noma (seminarios, talleres y espacios de debate, una biblioteca abierta, tal vez un poco de cine)<br />\n&#8211; Espacio de convivencia.<br />\n&#8211; Cocina, comedor.<br />\n&#8211; Media Center, hacklab, espacios para inform\u00e1tica.<br />\n&#8211; Dormir (por favor, intente llegar a un acuerdo con nosotros si viene con un grupo m\u00e1s grande y necesita lugar para dormir)<br />\n&#8211; Asambleas.</p>\n<p align=\"LEFT\">Contacto: Rainer (rainer.goerss@berlin.de)</p>\n<p align=\"LEFT\"><strong>4. ORGANIZACI\u00d3N Y COMUNICACI\u00d3N</strong></p>\n<p>El GT de organizaci\u00f3n y comunicaci\u00f3n en Berl\u00edn se encargar\u00e1 de:</p>\n<p>&#8211; Comunicaci\u00f3n Internacional.<br />\n&#8211; La comunicaci\u00f3n con las personas que trabajan para la Bienal de la KW.<br />\n&#8211; Coordinar las diferentes actividades: Habr\u00e1 una LINEA DE TIEMPO/HORARIO en Internet instalado lo antes posible, en la que cada grupo necesita completar con su acci\u00f3n (con un t\u00edtulo corto) en el tiempo concreto / d\u00eda / d\u00edas que quieren desarrollar la actividad.</p>\n<p>Contacto: Mona (louiisphilippe@googlemail.com)</p>\n<p><strong>Para entrar en contacto con otros activistas de diferentes pa\u00edses o gente de la KW s\u00f3lo tiene que utilizar la lista de distribuci\u00f3n general: berlinbiennale@lists.takethesquare.net</strong></p>\n<p>Grupo internacional de coordinaci\u00f3n en N-1:</p>\n<p><a href=\"https://n-1.cc/pg/groups/1116512/berlin-biennale-working-group/\" target=\"_blank\">https://n-1.cc/pg/groups/1116512/berlin-biennale-working-group/</a></p>\n<p>Subscripci\u00f3n a la lista de correo internacional:<br />\n<a href=\"https://lists.takethesquare.net/mailman/listinfo/berlinbiennale\">https://lists.takethesquare.net/mailman/listinfo/berlinbiennale</a></p>\n<p>Red \u00a0social:<br />\n<a href=\"http://biennale.theoccupyproject.org/user/register\" target=\"_blank\">http://biennale.theoccupyproject.org/user/register</a></p>\n<p>&nbsp;<br />\n<a href=\"http://acampadabcninternacional.wordpress.com/2012/03/14/como-participar-en-la-7-bienal-de-berlin-encuentro-15moccupyarabspring-27apr-1jul-2012-acampadabcn-15m-puntosol/\" target=\"_blank\">fuente de la info</a></p>\n",
+    "rendered": "<p><a href=\"http://berlinbienal.tomalaplaza.net/files/2012/03/logo-BB.png\"><img loading=\"lazy\" class=\"alignleft size-full wp-image-8\" src=\"http://berlinbienal.tomalaplaza.net/files/2012/03/logo-BB.png\" alt=\"\" width=\"167\" height=\"167\" srcset=\"https://berlinbienal.tomalaplaza.net/files/2012/03/logo-BB.png 167w, https://berlinbienal.tomalaplaza.net/files/2012/03/logo-BB-150x150.png 150w\" sizes=\"(max-width: 167px) 100vw, 167px\" /></a>INVITACI\u00d3N AL MOVIMIENTO 15M A PARTICIPAR EN LA BIENAL DE ARTE CONTEMPORANEO DE BERLIN</p>\n<p>Lxs organizadorxs de la Bienal de Arte contempor\u00e1neo de Berlin (KW Institute for Contemporary Art) han invitado a los movimientos sociales prodemocr\u00e1ticos 15M y OCCUPY a organizar, coordinar y participar activamente en la Bienal de este a\u00f1o.</p>\n<p>El espacio del KW de Berlin ser\u00e1 abierto a todas las iniciativas que puedan surgir, y se organizar\u00e1 all\u00ed un \u00c1gora Global y una plaz abierta, del 28 de Abril al 1 de Julio.</p>\n<p>Desde Coordinaci\u00f3n Estatal queremos llevar m\u00e1s all\u00e1 la posibilidad de esta invitaci\u00f3n y extender la Bienal de Berlin a todas las ciudades, abriendo la posibilidad de realizar todo tipo de intervenciones artisticas-reivindicativas y conect\u00e1ndolas con el espacio de la Bienal en Berl\u00edn. Todas estais invitadas a imaginar!!!</p>\n<p>Para realizar esta conexi\u00f3n y coordinar las propuestas har\u00e1 falta formar grupos de trabajo locales de dinamizaci\u00f3n.</p>\n<p>Pedimos m\u00e1xima difusi\u00f3n a todos los niveles para lograr crear una aut\u00e9ntica explosi\u00f3n de creatividad, que sorprenda y agite las mentes de toda la ciudad.</p>\n<p>Imagina, crea, comparte!!!</p>\n<p>&nbsp;</p>\n<p><a href=\"http://groups.google.com/group/participaberlinbienal\" target=\"_blank\"><strong>Apuntate</strong>\u00a0a la lista de correos</a>\u00a0o escribe a\u00a0<a href=\"mailto:participaberlinbienal@googlegroups.com\">participaberlinbienal@googlegroups.com</a>\u00a0\u00a0&#8230;y comparte tus ideas, recursos, habilidades&#8230;</p>\n<p>PARA RESOLVER CUESTIONES DE LOGISTICA HEMOS HABILITADO\u00a0<a href=\"http://titanpad.com/preparacionberlinbiennal\" target=\"_blank\">ESTE TITANPAD COLABORATIVO</a>.</p>\n<p><strong>Esta es una iniciativa a nivel global \u00a1\u00a1difundela por todas partes!!</strong></p>\n<p>&nbsp;</p>\n<p><strong>EL ESPACIO EN BERLIN</strong></p>\n<p>la sala que se utiliza en el interior del edificio KW <strong>debe servir como una gran plataforma para nuestro movimiento y como espacio en el que se puede experimentar genuinamente</strong> la forma de vida que creemos que es el apropiado para la vida social y pol\u00edtica, por ejemplo, como el que estamos tratando de hacer con las asambleas como ejemplo para la toma de decisiones. La palabra clave que utilizamos para hablar en este contexto es la<strong> INTERACTIVIDAD</strong>.</p>\n<p>Siempre dejando claro que se puede hacer ambas cosas: acciones en el espacio p\u00fablico, fuera, en la calle y acciones en el interior, en el edificio de KW.</p>\n<p><a href=\"http://berlinbienal.tomalaplaza.net/files/2012/03/plano7bb.jpg\"><img loading=\"lazy\" class=\"alignleft size-full wp-image-54\" src=\"http://berlinbienal.tomalaplaza.net/files/2012/03/plano7bb.jpg\" alt=\"\" width=\"1067\" height=\"673\" srcset=\"https://berlinbienal.tomalaplaza.net/files/2012/03/plano7bb.jpg 1067w, https://berlinbienal.tomalaplaza.net/files/2012/03/plano7bb-300x189.jpg 300w, https://berlinbienal.tomalaplaza.net/files/2012/03/plano7bb-1024x645.jpg 1024w, https://berlinbienal.tomalaplaza.net/files/2012/03/plano7bb-475x300.jpg 475w\" sizes=\"(max-width: 1067px) 100vw, 1067px\" /></a></p>\n<p>&nbsp;</p>\n<p align=\"JUSTIFY\">Por ahora la sala se divide en diferentes \u00e1reas, que sirve para diferentes tipos de acciones y necesidades, la integraci\u00f3n de todas las actividades y proyectos que se adapten a las diferentes \u00e1reas, no s\u00f3lo a los planificados por el grupo de Berl\u00edn (s\u00ed, la sala es grande , pero no infinita).</p>\n<p align=\"LEFT\">Habr\u00e1 algunas <strong>\u00e1reas planeadas</strong> para:<br />\n&#8211; Las actividades creativas (como perfomances, teatro o la preparaci\u00f3n de una acci\u00f3n al aire libre)<br />\n&#8211; Instalaciones permanentes (por supuesto con \u2018mensaje pol\u00edtico\u2019)<br />\n&#8211; Acciones espont\u00e1neas.<br />\n&#8211; Las acciones de la Universidad Aut\u00f3noma (seminarios, talleres y espacios de debate, una biblioteca abierta, tal vez un poco de cine)<br />\n&#8211; Espacio de convivencia.<br />\n&#8211; Cocina, comedor.<br />\n&#8211; Media Center, hacklab, espacios para inform\u00e1tica.<br />\n&#8211; Dormir (por favor, intente llegar a un acuerdo con nosotros si viene con un grupo m\u00e1s grande y necesita lugar para dormir)<br />\n&#8211; Asambleas.</p>\n<p align=\"LEFT\">Contacto: Rainer (rainer.goerss@berlin.de)</p>\n<p align=\"LEFT\"><strong>4. ORGANIZACI\u00d3N Y COMUNICACI\u00d3N</strong></p>\n<p>El GT de organizaci\u00f3n y comunicaci\u00f3n en Berl\u00edn se encargar\u00e1 de:</p>\n<p>&#8211; Comunicaci\u00f3n Internacional.<br />\n&#8211; La comunicaci\u00f3n con las personas que trabajan para la Bienal de la KW.<br />\n&#8211; Coordinar las diferentes actividades: Habr\u00e1 una LINEA DE TIEMPO/HORARIO en Internet instalado lo antes posible, en la que cada grupo necesita completar con su acci\u00f3n (con un t\u00edtulo corto) en el tiempo concreto / d\u00eda / d\u00edas que quieren desarrollar la actividad.</p>\n<p>Contacto: Mona (louiisphilippe@googlemail.com)</p>\n<p><strong>Para entrar en contacto con otros activistas de diferentes pa\u00edses o gente de la KW s\u00f3lo tiene que utilizar la lista de distribuci\u00f3n general: berlinbiennale@lists.takethesquare.net</strong></p>\n<p>Grupo internacional de coordinaci\u00f3n en N-1:</p>\n<p><a href=\"https://n-1.cc/pg/groups/1116512/berlin-biennale-working-group/\" target=\"_blank\">https://n-1.cc/pg/groups/1116512/berlin-biennale-working-group/</a></p>\n<p>Subscripci\u00f3n a la lista de correo internacional:<br />\n<a href=\"https://lists.takethesquare.net/mailman/listinfo/berlinbiennale\">https://lists.takethesquare.net/mailman/listinfo/berlinbiennale</a></p>\n<p>Red \u00a0social:<br />\n<a href=\"http://biennale.theoccupyproject.org/user/register\" target=\"_blank\">http://biennale.theoccupyproject.org/user/register</a></p>\n<p>&nbsp;<br />\n<a href=\"http://acampadabcninternacional.wordpress.com/2012/03/14/como-participar-en-la-7-bienal-de-berlin-encuentro-15moccupyarabspring-27apr-1jul-2012-acampadabcn-15m-puntosol/\" target=\"_blank\">fuente de la info</a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -2861,14 +2741,8 @@
     ],
     "version-history": [
       {
-        "count": 12,
+        "count": 0,
         "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/pages/7/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 53,
-        "href": "https://berlinbienal.tomalaplaza.net/wp-json/wp/v2/pages/7/revisions/53"
       }
     ],
     "wp:attachment": [

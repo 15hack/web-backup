@@ -24,7 +24,7 @@
   },
   "author": 662,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -65,14 +65,8 @@
     ],
     "version-history": [
       {
-        "count": 7,
+        "count": 0,
         "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/posts/330/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 339,
-        "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/posts/330/revisions/339"
       }
     ],
     "wp:attachment": [
@@ -117,12 +111,12 @@
     "rendered": "P1020454"
   },
   "author": 662,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://lasmatas.tomalosbarrios.net/files/2011/10/P1020454.jpg'><img width=\"300\" height=\"225\" src=\"https://lasmatas.tomalosbarrios.net/files/2011/10/P1020454-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://lasmatas.tomalosbarrios.net/files/2011/10/P1020454-300x225.jpg 300w, https://lasmatas.tomalosbarrios.net/files/2011/10/P1020454.jpg 640w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://lasmatas.tomalosbarrios.net/files/2011/10/P1020454.jpg'><img width=\"300\" height=\"225\" src=\"https://lasmatas.tomalosbarrios.net/files/2011/10/P1020454-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://lasmatas.tomalosbarrios.net/files/2011/10/P1020454-300x225.jpg 300w, https://lasmatas.tomalosbarrios.net/files/2011/10/P1020454.jpg 640w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -223,7 +217,7 @@
     "rendered": "Fecaltour Las Rozas"
   },
   "content": {
-    "rendered": "<p><a href=\"http://lasmatas.tomalosbarrios.net/files/2011/10/P1020454.jpg\"><img class=\"alignleft size-medium wp-image-320\" src=\"http://lasmatas.tomalosbarrios.net/files/2011/10/P1020454-300x225.jpg\" alt=\"\" width=\"300\" height=\"225\" srcset=\"https://lasmatas.tomalosbarrios.net/files/2011/10/P1020454-300x225.jpg 300w, https://lasmatas.tomalosbarrios.net/files/2011/10/P1020454.jpg 640w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>En colaboraci\u00f3n con www.salvemoslasrozas.org hemos participado en el Fecaltour Las Rozas Octubre 2011.</p>\n<p>Sinceramente da p\u00e1nico ver el estado en el que se vuelcan aguas fecales sin ning\u00fan tipo de tratamiento a los cauces de nuestros r\u00edos.</p>\n<p>Si quieres saber cuan lejos vives de un vertido te invito a visitar nuestro mapa de la Asamblea arriba a la derecha en el menu o directamente en:</p>\n<p>http://lasmatas.tomalosbarrios.net/mapa-de-la-asamble-de-las-matas/</p>\n",
+    "rendered": "<p><a href=\"http://lasmatas.tomalosbarrios.net/files/2011/10/P1020454.jpg\"><img loading=\"lazy\" class=\"alignleft size-medium wp-image-320\" src=\"http://lasmatas.tomalosbarrios.net/files/2011/10/P1020454-300x225.jpg\" alt=\"\" width=\"300\" height=\"225\" srcset=\"https://lasmatas.tomalosbarrios.net/files/2011/10/P1020454-300x225.jpg 300w, https://lasmatas.tomalosbarrios.net/files/2011/10/P1020454.jpg 640w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>En colaboraci\u00f3n con www.salvemoslasrozas.org hemos participado en el Fecaltour Las Rozas Octubre 2011.</p>\n<p>Sinceramente da p\u00e1nico ver el estado en el que se vuelcan aguas fecales sin ning\u00fan tipo de tratamiento a los cauces de nuestros r\u00edos.</p>\n<p>Si quieres saber cuan lejos vives de un vertido te invito a visitar nuestro mapa de la Asamblea arriba a la derecha en el menu o directamente en:</p>\n<p>http://lasmatas.tomalosbarrios.net/mapa-de-la-asamble-de-las-matas/</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -232,7 +226,7 @@
   },
   "author": 662,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -273,14 +267,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/posts/315/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 324,
-        "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/posts/315/revisions/324"
       }
     ],
     "wp:attachment": [
@@ -325,7 +313,7 @@
     "rendered": "Foto-del-muro.jpg"
   },
   "author": 662,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -431,7 +419,7 @@
     "rendered": "octavilla 15o1"
   },
   "author": 662,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -493,7 +481,7 @@
     "rendered": "Cartel presentaci\u00f3n CSA Zarzalejo"
   },
   "author": 662,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -555,16 +543,16 @@
     "rendered": "Iniciativa consumo"
   },
   "content": {
-    "rendered": "<p>Informaci\u00f3n recibida para vuestra consideraci\u00f3n:</p>\n<p>[gview file=&#187;http://lasmatas.tomalosbarrios.net/files/2011/09/Cartel-presentaci\u00f3n-CSA-Zarzalejo.pdf&#187;]</p>\n",
+    "rendered": "<p>Informaci\u00f3n recibida para vuestra consideraci\u00f3n:</p>\n<p>[gview file=\u00bbhttp://lasmatas.tomalosbarrios.net/files/2011/09/Cartel-presentaci\u00f3n-CSA-Zarzalejo.pdf\u00bb]</p>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>Informaci\u00f3n recibida para vuestra consideraci\u00f3n: [gview file=&#187;http://lasmatas.tomalosbarrios.net/files/2011/09/Cartel-presentaci\u00f3n-CSA-Zarzalejo.pdf&#187;]</p>\n",
+    "rendered": "<p>Informaci\u00f3n recibida para vuestra consideraci\u00f3n: [gview file=\u00bbhttp://lasmatas.tomalosbarrios.net/files/2011/09/Cartel-presentaci\u00f3n-CSA-Zarzalejo.pdf\u00bb]</p>\n",
     "protected": false
   },
   "author": 662,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -605,14 +593,8 @@
     ],
     "version-history": [
       {
-        "count": 14,
+        "count": 0,
         "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/posts/283/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 352,
-        "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/posts/283/revisions/352"
       }
     ],
     "wp:attachment": [
@@ -666,7 +648,7 @@
   },
   "author": 662,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -707,14 +689,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/posts/275/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 279,
-        "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/posts/275/revisions/279"
       }
     ],
     "wp:attachment": [
@@ -759,16 +735,16 @@
     "rendered": "Una frase mas&#8230;"
   },
   "content": {
-    "rendered": "<p>\u00bfOs suena conocido?</p>\n<div><strong>&#171;Cuando advierta que para producir necesita obtener autorizaci\u00f3n de quienes no producen nada; cuando compruebe que el dinero fluye hacia quienes trafican no bienes, sino favores; cuando perciba que muchos se hacen ricos por el soborno y por influencias mas que por el trabajo, y que las leyes no lo protegen contra ellos, sino, por el contrario son ellos los que est\u00e1n protegidos contra usted; cuando repare que la corrupci\u00f3n es recompensada y la honradez se convierte en un autosacrificio, entonces podr\u00e1, afirmar sin temor a equivocarse, que su sociedad est\u00e1 condenada.&#187;</strong><strong> </strong></div>\n<p><strong>AYN RAND (1950</strong><strong>)</strong></p>\n",
+    "rendered": "<p>\u00bfOs suena conocido?</p>\n<div><strong>\u00abCuando advierta que para producir necesita obtener autorizaci\u00f3n de quienes no producen nada; cuando compruebe que el dinero fluye hacia quienes trafican no bienes, sino favores; cuando perciba que muchos se hacen ricos por el soborno y por influencias mas que por el trabajo, y que las leyes no lo protegen contra ellos, sino, por el contrario son ellos los que est\u00e1n protegidos contra usted; cuando repare que la corrupci\u00f3n es recompensada y la honradez se convierte en un autosacrificio, entonces podr\u00e1, afirmar sin temor a equivocarse, que su sociedad est\u00e1 condenada.\u00bb</strong><strong> </strong></div>\n<p><strong>AYN RAND (1950</strong><strong>)</strong></p>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>\u00bfOs suena conocido? &#171;Cuando advierta que para producir necesita obtener autorizaci\u00f3n de quienes no producen nada; cuando compruebe que el dinero fluye hacia quienes trafican no bienes, sino favores; cuando perciba que muchos se hacen ricos por el soborno y &hellip; <a href=\"https://lasmatas.tomalosbarrios.net/2011/09/18/una-frase-mas/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+    "rendered": "<p>\u00bfOs suena conocido? \u00abCuando advierta que para producir necesita obtener autorizaci\u00f3n de quienes no producen nada; cuando compruebe que el dinero fluye hacia quienes trafican no bienes, sino favores; cuando perciba que muchos se hacen ricos por el soborno y &hellip; <a href=\"https://lasmatas.tomalosbarrios.net/2011/09/18/una-frase-mas/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
     "protected": false
   },
   "author": 662,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -809,14 +785,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/posts/269/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 272,
-        "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/posts/269/revisions/272"
       }
     ],
     "wp:attachment": [
@@ -861,7 +831,7 @@
     "rendered": "aviso"
   },
   "author": 662,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -923,7 +893,7 @@
     "rendered": "Acta Las Matas 31.07.2011"
   },
   "author": 662,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -985,16 +955,16 @@
     "rendered": "Veranos de Econom\u00eda en el Retiro"
   },
   "content": {
-    "rendered": "<p>Os invito a participar y difundir. Aunque el cartel es antiguo las reuniones siguen.</p>\n<p>[gview file=&#187;http://lasmatas.tomalosbarrios.net/files/2011/08/CARTEL+RETIRO2x.pdf&#187;]</p>\n",
+    "rendered": "<p>Os invito a participar y difundir. Aunque el cartel es antiguo las reuniones siguen.</p>\n<p>[gview file=\u00bbhttp://lasmatas.tomalosbarrios.net/files/2011/08/CARTEL+RETIRO2x.pdf\u00bb]</p>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>Os invito a participar y difundir. Aunque el cartel es antiguo las reuniones siguen. [gview file=&#187;http://lasmatas.tomalosbarrios.net/files/2011/08/CARTEL+RETIRO2x.pdf&#187;]</p>\n",
+    "rendered": "<p>Os invito a participar y difundir. Aunque el cartel es antiguo las reuniones siguen. [gview file=\u00bbhttp://lasmatas.tomalosbarrios.net/files/2011/08/CARTEL+RETIRO2x.pdf\u00bb]</p>\n",
     "protected": false
   },
   "author": 662,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1035,14 +1005,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/posts/232/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 267,
-        "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/posts/232/revisions/267"
       }
     ],
     "wp:attachment": [
@@ -1087,7 +1051,7 @@
     "rendered": "CARTEL+RETIRO2x"
   },
   "author": 662,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1158,7 +1122,7 @@
   },
   "author": 662,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1199,14 +1163,8 @@
     ],
     "version-history": [
       {
-        "count": 7,
+        "count": 0,
         "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/posts/207/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 214,
-        "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/posts/207/revisions/214"
       }
     ],
     "wp:attachment": [
@@ -1251,7 +1209,7 @@
     "rendered": "Propuestas abiertas del grupo de trabajo de econom\u00eda"
   },
   "content": {
-    "rendered": "<p>El grupo de Econom\u00eda de Acampada Sol (15M) ha preparado un documento de propuestas de trabajo en el \u00e1rea de econom\u00eda que se puede leer siguiendo este link. Es una base te\u00f3rica justificada y de trabajo que fundamenta todas las iniciativas tomadas desde el 15M. Creo que su lectura y entendimiento es fundamental para todos aquellos que crean que la econom\u00eda debe estar al servicio de la sociedad y no a la inversa.</p>\n<p>[gview file=&#187;[gview file=&#187;http://lasmatas.tomalosbarrios.net/files/2011/07/doc-PROPUESTAS-ABIERTAS-DEL-GRUPO-DE-ECONOMIA-ACAMPADA-SOL-15-06-2011.pdf&#187; authonly=&#187;1&#8243;]&#187;]</p>\n<p>&nbsp;</p>\n",
+    "rendered": "<p>El grupo de Econom\u00eda de Acampada Sol (15M) ha preparado un documento de propuestas de trabajo en el \u00e1rea de econom\u00eda que se puede leer siguiendo este link. Es una base te\u00f3rica justificada y de trabajo que fundamenta todas las iniciativas tomadas desde el 15M. Creo que su lectura y entendimiento es fundamental para todos aquellos que crean que la econom\u00eda debe estar al servicio de la sociedad y no a la inversa.</p>\n<p>[gview file=\u00bb[gview file=\u00bbhttp://lasmatas.tomalosbarrios.net/files/2011/07/doc-PROPUESTAS-ABIERTAS-DEL-GRUPO-DE-ECONOMIA-ACAMPADA-SOL-15-06-2011.pdf\u00bb authonly=\u00bb1&#8243;]\u00bb]</p>\n<p>&nbsp;</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -1260,7 +1218,7 @@
   },
   "author": 662,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1303,14 +1261,8 @@
     ],
     "version-history": [
       {
-        "count": 10,
+        "count": 0,
         "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/posts/187/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 199,
-        "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/posts/187/revisions/199"
       }
     ],
     "wp:attachment": [
@@ -1355,7 +1307,7 @@
     "rendered": "doc PROPUESTAS ABIERTAS DEL GRUPO DE ECONOMIA &#8211; ACAMPADA SOL &#8211; 15-06-2011"
   },
   "author": 662,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1428,7 +1380,7 @@
   "featured_media": 0,
   "parent": 25,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1462,14 +1414,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/pages/178/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 182,
-        "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/pages/178/revisions/182"
       }
     ],
     "up": [
@@ -1519,7 +1465,7 @@
   "featured_media": 0,
   "parent": 25,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1553,14 +1499,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/pages/173/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 193,
-        "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/pages/173/revisions/193"
       }
     ],
     "up": [
@@ -1610,7 +1550,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -1644,14 +1584,8 @@
     ],
     "version-history": [
       {
-        "count": 10,
+        "count": 0,
         "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/pages/142/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 152,
-        "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/pages/142/revisions/152"
       }
     ],
     "wp:attachment": [
@@ -1695,7 +1629,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 8,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -1729,14 +1663,8 @@
     ],
     "version-history": [
       {
-        "count": 8,
+        "count": 0,
         "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/pages/110/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 114,
-        "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/pages/110/revisions/114"
       }
     ],
     "wp:attachment": [
@@ -1769,7 +1697,7 @@
     "rendered": "Texto de presentaci\u00f3n."
   },
   "author": 662,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1831,7 +1759,7 @@
     "rendered": "SubGrupo Diversidad Funcional SOL"
   },
   "author": 662,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1904,7 +1832,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1938,14 +1866,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/pages/73/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 205,
-        "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/pages/73/revisions/205"
       }
     ],
     "wp:attachment": [
@@ -1978,7 +1900,7 @@
     "rendered": "Acta II APM 12.06.11"
   },
   "author": 662,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2040,7 +1962,7 @@
     "rendered": "Propuesta de la Comision de Barrios para unas asambleas saludables"
   },
   "author": 662,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2102,7 +2024,7 @@
     "rendered": "Dibujo"
   },
   "author": 662,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2217,7 +2139,7 @@
   },
   "author": 662,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2258,14 +2180,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/posts/57/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 59,
-        "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/posts/57/revisions/59"
       }
     ],
     "wp:attachment": [
@@ -2310,7 +2226,7 @@
     "rendered": "ACTA ASAMBLEA LAS MATAS d\u00eda 29"
   },
   "author": 662,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2381,7 +2297,7 @@
   },
   "author": 662,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2422,14 +2338,8 @@
     ],
     "version-history": [
       {
-        "count": 13,
+        "count": 0,
         "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/posts/48/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 129,
-        "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/posts/48/revisions/129"
       }
     ],
     "wp:attachment": [
@@ -2485,7 +2395,7 @@
   "featured_media": 0,
   "parent": 25,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2519,14 +2429,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/pages/38/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 55,
-        "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/pages/38/revisions/55"
       }
     ],
     "up": [
@@ -2565,7 +2469,7 @@
     "rendered": "\u00a1Bienvenido!"
   },
   "content": {
-    "rendered": "<p>Esta es la p\u00e1gina principal de la Asamblea de Las Matas.<br />\nEn ella encontrar\u00e1s informaci\u00f3n general acerca de esta asamblea.<br />\nColabora con nosotros participando en nuestros grupos de trabajo y comisiones.</p>\n<p>Como es imposible mantener actualizada la p\u00e1gina en cuanto a convocatorias de acciones organizadas por las distintas plataformas os invito a visitar los v\u00ednculos &#171;Toma la plaza Madrid&#187; y &#171;Toma los barrios Madrid&#187; que est\u00e1n disponibles en esta misma p\u00e1gina a la derecha bajo el t\u00edtulo &#171;Importantes&#187;</p>\n",
+    "rendered": "<p>Esta es la p\u00e1gina principal de la Asamblea de Las Matas.<br />\nEn ella encontrar\u00e1s informaci\u00f3n general acerca de esta asamblea.<br />\nColabora con nosotros participando en nuestros grupos de trabajo y comisiones.</p>\n<p>Como es imposible mantener actualizada la p\u00e1gina en cuanto a convocatorias de acciones organizadas por las distintas plataformas os invito a visitar los v\u00ednculos \u00abToma la plaza Madrid\u00bb y \u00abToma los barrios Madrid\u00bb que est\u00e1n disponibles en esta misma p\u00e1gina a la derecha bajo el t\u00edtulo \u00abImportantes\u00bb</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -2574,7 +2478,7 @@
   },
   "author": 662,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2615,14 +2519,8 @@
     ],
     "version-history": [
       {
-        "count": 8,
+        "count": 0,
         "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/posts/36/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 135,
-        "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/posts/36/revisions/135"
       }
     ],
     "wp:attachment": [
@@ -2678,7 +2576,7 @@
   "featured_media": 0,
   "parent": 25,
   "menu_order": 1,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -2712,14 +2610,8 @@
     ],
     "version-history": [
       {
-        "count": 7,
+        "count": 0,
         "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/pages/31/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 43,
-        "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/pages/31/revisions/43"
       }
     ],
     "up": [
@@ -2758,7 +2650,7 @@
     "rendered": "ACTA LM 19.06.2011"
   },
   "author": 662,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2820,7 +2712,7 @@
     "rendered": "RAZONES EN CONTRA DEL PACTO POR EL EURO (version corta) &#8211; economia sol 17.06.11"
   },
   "author": 662,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2893,7 +2785,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2927,14 +2819,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/pages/25/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 72,
-        "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/pages/25/revisions/72"
       }
     ],
     "wp:attachment": [
@@ -2967,7 +2853,7 @@
     "rendered": "Acta G.T. Barreras Arquitectonicas 10.06.2011"
   },
   "author": 662,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3040,7 +2926,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3074,14 +2960,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/pages/14/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 20,
-        "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/pages/14/revisions/20"
       }
     ],
     "wp:attachment": [
@@ -3114,7 +2994,7 @@
     "rendered": "Acta Las Matas 12.06.2011"
   },
   "author": 662,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3176,7 +3056,7 @@
     "rendered": "Acta Las Matas 05.06.2011"
   },
   "author": 662,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3238,7 +3118,7 @@
     "rendered": "Acta Las Matas 28.05.2011"
   },
   "author": 662,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3300,18 +3180,18 @@
     "rendered": "Actas Las Matas"
   },
   "content": {
-    "rendered": "<p>En este apartado vamos a ir colgando las Actas de nuestras asambleas para que est\u00e9n a disposici\u00f3n de todxs.</p>\n<p>Cualquier duda, cambio o errata que detect\u00e9is, escribidnos a comunicacionlasmatas@gmail.com poniendo en el asunto &#171;ACTAS&#187;.</p>\n<p>\u00a1\u00a1\u00a1Muchas gracias a todxs!!!<br />\n<a href=\"http://lasmatas.tomalosbarrios.net/files/2011/08/Acta-Las-Matas-31.07.2011.pdf\" target=\"_blank\">Acta Las Matas 31.07.2011</a><br />\n<a href=\"https://docs.google.com/document/d/1MJ7N4gSEcIQ1vbYCyBDU0a2CbRrr4KY8Prs_Q5EJcQg/edit?hl=en_US\">Acta Las Matas 10.07.2011</a><br />\n<a href=\"https://docs.google.com/document/d/1hKBGx0ud1vA8EKzXyH_fk-XVqjkeTgp5BiYIVwi5q0Y/edit?hl=en_US\">Acta Las Matas 3.07.2011</a><br />\n<a href=\"http://lasmatas.tomalosbarrios.net/files/2011/06/ACTA-ASAMBLEA-LAS-MATAS-d%C3%ADa-29.pdf\" target=\"_blank\">Acta Las Matas 26.06.2011</a><br />\n<a title=\"acta 19.06.2011\" href=\"http://lasmatas.tomalosbarrios.net/files/2011/06/ACTA-LM-19.06.2011.pdf\" target=\"_blank\">Acta Las Matas 19.06.2011</a><br />\n<a href=\"http://lasmatas.tomalosbarrios.net/files/2011/06/ACTA-LM-12.06.2011.pdf\">Acta Las Matas 12.06.2011</a><br />\n<a href=\"http://lasmatas.tomalosbarrios.net/files/2011/06/ACTA-LM-05.06.2011.pdf\">Acta Las Matas 05.06.2011</a><br />\n<a href=\"../files/2011/06/ACTA-LM-28.05.2011.pdf\">Acta Las Matas 28.05.2011</a></p>\n",
+    "rendered": "<p>En este apartado vamos a ir colgando las Actas de nuestras asambleas para que est\u00e9n a disposici\u00f3n de todxs.</p>\n<p>Cualquier duda, cambio o errata que detect\u00e9is, escribidnos a comunicacionlasmatas@gmail.com poniendo en el asunto \u00abACTAS\u00bb.</p>\n<p>\u00a1\u00a1\u00a1Muchas gracias a todxs!!!<br />\n<a href=\"http://lasmatas.tomalosbarrios.net/files/2011/08/Acta-Las-Matas-31.07.2011.pdf\" target=\"_blank\">Acta Las Matas 31.07.2011</a><br />\n<a href=\"https://docs.google.com/document/d/1MJ7N4gSEcIQ1vbYCyBDU0a2CbRrr4KY8Prs_Q5EJcQg/edit?hl=en_US\">Acta Las Matas 10.07.2011</a><br />\n<a href=\"https://docs.google.com/document/d/1hKBGx0ud1vA8EKzXyH_fk-XVqjkeTgp5BiYIVwi5q0Y/edit?hl=en_US\">Acta Las Matas 3.07.2011</a><br />\n<a href=\"http://lasmatas.tomalosbarrios.net/files/2011/06/ACTA-ASAMBLEA-LAS-MATAS-d%C3%ADa-29.pdf\" target=\"_blank\">Acta Las Matas 26.06.2011</a><br />\n<a title=\"acta 19.06.2011\" href=\"http://lasmatas.tomalosbarrios.net/files/2011/06/ACTA-LM-19.06.2011.pdf\" target=\"_blank\">Acta Las Matas 19.06.2011</a><br />\n<a href=\"http://lasmatas.tomalosbarrios.net/files/2011/06/ACTA-LM-12.06.2011.pdf\">Acta Las Matas 12.06.2011</a><br />\n<a href=\"http://lasmatas.tomalosbarrios.net/files/2011/06/ACTA-LM-05.06.2011.pdf\">Acta Las Matas 05.06.2011</a><br />\n<a href=\"../files/2011/06/ACTA-LM-28.05.2011.pdf\">Acta Las Matas 28.05.2011</a></p>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>En este apartado vamos a ir colgando las Actas de nuestras asambleas para que est\u00e9n a disposici\u00f3n de todxs. Cualquier duda, cambio o errata que detect\u00e9is, escribidnos a comunicacionlasmatas@gmail.com poniendo en el asunto &#171;ACTAS&#187;. \u00a1\u00a1\u00a1Muchas gracias a todxs!!! Acta Las &hellip; <a href=\"https://lasmatas.tomalosbarrios.net/actas-las-matas/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+    "rendered": "<p>En este apartado vamos a ir colgando las Actas de nuestras asambleas para que est\u00e9n a disposici\u00f3n de todxs. Cualquier duda, cambio o errata que detect\u00e9is, escribidnos a comunicacionlasmatas@gmail.com poniendo en el asunto \u00abACTAS\u00bb. \u00a1\u00a1\u00a1Muchas gracias a todxs!!! Acta Las &hellip; <a href=\"https://lasmatas.tomalosbarrios.net/actas-las-matas/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
     "protected": false
   },
   "author": 662,
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3345,14 +3225,8 @@
     ],
     "version-history": [
       {
-        "count": 13,
+        "count": 0,
         "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/pages/4/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 10,
-        "href": "https://lasmatas.tomalosbarrios.net/wp-json/wp/v2/pages/4/revisions/10"
       }
     ],
     "wp:attachment": [

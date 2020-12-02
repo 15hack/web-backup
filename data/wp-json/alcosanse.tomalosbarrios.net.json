@@ -24,7 +24,7 @@
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -73,14 +73,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/1979321/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 1979326,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/1979321/revisions/1979326"
       }
     ],
     "wp:attachment": [
@@ -136,7 +130,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -170,14 +164,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/pages/913493/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 913497,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/pages/913493/revisions/913497"
       }
     ],
     "wp:attachment": [
@@ -210,7 +198,7 @@
     "rendered": "twitter"
   },
   "author": 1015,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -289,12 +277,12 @@
     "rendered": "AMAYA READMISION.JPG"
   },
   "author": 1015,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://alcosanse.tomalosbarrios.net/files/2013/10/AMAYA-READMISION.JPG.jpg'><img width=\"211\" height=\"300\" src=\"https://alcosanse.tomalosbarrios.net/files/2013/10/AMAYA-READMISION.JPG-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"AMAYA READMISION CARTEL_01\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2013/10/AMAYA-READMISION.JPG-211x300.jpg 211w, https://alcosanse.tomalosbarrios.net/files/2013/10/AMAYA-READMISION.JPG.jpg 565w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://alcosanse.tomalosbarrios.net/files/2013/10/AMAYA-READMISION.JPG.jpg'><img width=\"211\" height=\"300\" src=\"https://alcosanse.tomalosbarrios.net/files/2013/10/AMAYA-READMISION.JPG-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"AMAYA READMISION CARTEL_01\" loading=\"lazy\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2013/10/AMAYA-READMISION.JPG-211x300.jpg 211w, https://alcosanse.tomalosbarrios.net/files/2013/10/AMAYA-READMISION.JPG.jpg 565w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n"
   },
   "caption": {
     "rendered": "<p>Cartel Evento Amaya Readmision</p>\n"
@@ -439,7 +427,7 @@
     "rendered": "Concentraci\u00f3n por la Readmisi\u00f3n de Amaya"
   },
   "content": {
-    "rendered": "<p>La asamblea de Alcosanse 15M apoya la concentraci\u00f3n que tendr\u00e1 lugar ma\u00f1ana en la Sede de Konecta en Alcobendas por el despido de Amaya, el cual se produjo por acudir a su propio deshaucio.</p>\n<p style=\"text-align: center\"><span style=\"color: #993300\"><strong>Martes 29 octubre 19:00</strong></span></p>\n<p style=\"text-align: center\"><span style=\"color: #993300\"><strong>Avda. de la Industria, 49, Alcobendas. &lt;M&gt; La Granja, L 10 (<a href=\"http://goo.gl/maps/O7oLi\"><span style=\"color: #993300\">mapa</span></a>)</strong></span></p>\n<p style=\"text-align: center\"><span style=\"color: #993300\"><strong>#AMAYAREADMISION</strong></span></p>\n<p>Y a la que adem\u00e1s suman la Asamblea de vivienda de Madrid, la PAH Alcosanse, LA Plataforma frente a la Reforma Laboral , CNT, CGT, PAH y Red de Solidaridad Global</p>\n<p>Apoya y difunde,</p>\n<p><strong>Mas informaci\u00f3n:\u00a0</strong></p>\n<p><a href=\"http://madrid.tomalaplaza.net/2013/10/26/29948/\">http://madrid.tomalaplaza.net/2013/10/26/29948/</a></p>\n<p><a href=\"https://www.facebook.com/events/215510678626424/\">Evento de Facebook</a></p>\n<p><strong>Material Gr\u00e1fico:</strong></p>\n<div style=\"width: 169px\" class=\"wp-caption alignleft\"><a title=\"AMAYA_READMISION_01\" href=\"http://subefotos.com/ver/?e44910d346510cb8f618c84e431a5046o.jpg\"><img alt=\"Cartel_01 AMAYA READMISION\" src=\"http://thumbs.subefotos.com/e44910d346510cb8f618c84e431a5046o.jpg\" width=\"159\" height=\"225\" /></a><p class=\"wp-caption-text\">Cartel_01 AMAYA READMISION</p></div>\n<div style=\"width: 169px\" class=\"wp-caption alignright\"><a title=\"CARTEL_02 AMAYA READMISION\" href=\"http://subefotos.com/ver/?f5c1c9e6ae50e3cfcd3274ccbbad8e5bo.jpg\"><img alt=\"CARTEL_02 AMAYA READMISION\" src=\"http://thumbs.subefotos.com/f5c1c9e6ae50e3cfcd3274ccbbad8e5bo.jpg\" width=\"159\" height=\"225\" /></a><p class=\"wp-caption-text\">CARTEL_02 AMAYA READMISION</p></div>\n<div style=\"width: 169px\" class=\"wp-caption aligncenter\"><a href=\"http://subefotos.com/ver/?392d9cafb7b09fe98800c170cd614a97o.jpg\"><img alt=\"CARTEL_03 AMAYA READMISION\" src=\"http://thumbs.subefotos.com/392d9cafb7b09fe98800c170cd614a97o.jpg\" width=\"159\" height=\"225\" /></a><p class=\"wp-caption-text\">CARTEL_03 AMAYA READMISION</p></div>\n<p>&nbsp;</p>\n<div style=\"width: 235px\" class=\"wp-caption aligncenter\"><a href=\"http://subefotos.com/ver/?de42945cb059daf5d684cd8aacb9bd4eo.jpg\"><img alt=\"BANNER_01 AMAYA READMISION\" src=\"http://thumbs.subefotos.com/de42945cb059daf5d684cd8aacb9bd4eo.jpg\" width=\"225\" height=\"75\" /></a><p class=\"wp-caption-text\">BANNER_01 AMAYA READMISION<a style=\"font-size: 13px;line-height: 19px\" href=\"http://subefotos.com/ver/?169259623e3e566c1544e889de374983o.jpg\"><img alt=\"BANNER_02 AMAYA READMISION\" src=\"http://thumbs.subefotos.com/169259623e3e566c1544e889de374983o.jpg\" width=\"225\" height=\"75\" /></a></p></div>\n<dl class=\"wp-caption aligncenter\" style=\"width: 235px\">\n<dd class=\"wp-caption-dd\">BANNER_02 AMAYA READMISION</dd>\n</dl>\n<p>&nbsp;</p>\n<p><em>\u00bfTe indigna esta historia? Dir\u00edgete a Konecta y exige que readmitan a Amaya</em></p>\n<p>Grupo Konecta \u2013 Avda. de la Industria, 49. 28108 Alcobendas (Madrid)</p>\n<p>Web \u2013\u00a0<a href=\"http://www.grupokonecta.com/\">www.grupokonecta.com</a></p>\n<p>Facebook \u2013\u00a0<a href=\"https://www.facebook.com/fundacionkonecta\">www.facebook.com/fundacionkonecta</a></p>\n<p>Twitter:\u00a0<a href=\"https://twitter.com/gkonecta\">@gkonecta</a></p>\n<p><strong>Tel\u00e9fonos</strong>:</p>\n<p>902193106. Equivalente gratuito: 91 2036450</p>\n<p>\u00c1rea de Comunicaci\u00f3n y marketing:</p>\n<p>Eva M\u00aa Blanco Cueto \u2013 620 09 68 32</p>\n<p>Mar\u00eda Mart\u00ednez Fern\u00e1ndez-Mayoralas \u2013 610 49 21 93</p>\n<p>&nbsp;</p>\n",
+    "rendered": "<p>La asamblea de Alcosanse 15M apoya la concentraci\u00f3n que tendr\u00e1 lugar ma\u00f1ana en la Sede de Konecta en Alcobendas por el despido de Amaya, el cual se produjo por acudir a su propio deshaucio.</p>\n<p style=\"text-align: center\"><span style=\"color: #993300\"><strong>Martes 29 octubre 19:00</strong></span></p>\n<p style=\"text-align: center\"><span style=\"color: #993300\"><strong>Avda. de la Industria, 49, Alcobendas. &lt;M&gt; La Granja, L 10 (<a href=\"http://goo.gl/maps/O7oLi\"><span style=\"color: #993300\">mapa</span></a>)</strong></span></p>\n<p style=\"text-align: center\"><span style=\"color: #993300\"><strong>#AMAYAREADMISION</strong></span></p>\n<p>Y a la que adem\u00e1s suman la Asamblea de vivienda de Madrid, la PAH Alcosanse, LA Plataforma frente a la Reforma Laboral , CNT, CGT, PAH y Red de Solidaridad Global</p>\n<p>Apoya y difunde,</p>\n<p><strong>Mas informaci\u00f3n:\u00a0</strong></p>\n<p><a href=\"http://madrid.tomalaplaza.net/2013/10/26/29948/\">http://madrid.tomalaplaza.net/2013/10/26/29948/</a></p>\n<p><a href=\"https://www.facebook.com/events/215510678626424/\">Evento de Facebook</a></p>\n<p><strong>Material Gr\u00e1fico:</strong></p>\n<div style=\"width: 169px\" class=\"wp-caption alignleft\"><a title=\"AMAYA_READMISION_01\" href=\"http://subefotos.com/ver/?e44910d346510cb8f618c84e431a5046o.jpg\"><img loading=\"lazy\" alt=\"Cartel_01 AMAYA READMISION\" src=\"http://thumbs.subefotos.com/e44910d346510cb8f618c84e431a5046o.jpg\" width=\"159\" height=\"225\" /></a><p class=\"wp-caption-text\">Cartel_01 AMAYA READMISION</p></div>\n<div style=\"width: 169px\" class=\"wp-caption alignright\"><a title=\"CARTEL_02 AMAYA READMISION\" href=\"http://subefotos.com/ver/?f5c1c9e6ae50e3cfcd3274ccbbad8e5bo.jpg\"><img loading=\"lazy\" alt=\"CARTEL_02 AMAYA READMISION\" src=\"http://thumbs.subefotos.com/f5c1c9e6ae50e3cfcd3274ccbbad8e5bo.jpg\" width=\"159\" height=\"225\" /></a><p class=\"wp-caption-text\">CARTEL_02 AMAYA READMISION</p></div>\n<div style=\"width: 169px\" class=\"wp-caption aligncenter\"><a href=\"http://subefotos.com/ver/?392d9cafb7b09fe98800c170cd614a97o.jpg\"><img loading=\"lazy\" alt=\"CARTEL_03 AMAYA READMISION\" src=\"http://thumbs.subefotos.com/392d9cafb7b09fe98800c170cd614a97o.jpg\" width=\"159\" height=\"225\" /></a><p class=\"wp-caption-text\">CARTEL_03 AMAYA READMISION</p></div>\n<p>&nbsp;</p>\n<div style=\"width: 235px\" class=\"wp-caption aligncenter\"><a href=\"http://subefotos.com/ver/?de42945cb059daf5d684cd8aacb9bd4eo.jpg\"><img loading=\"lazy\" alt=\"BANNER_01 AMAYA READMISION\" src=\"http://thumbs.subefotos.com/de42945cb059daf5d684cd8aacb9bd4eo.jpg\" width=\"225\" height=\"75\" /></a><p class=\"wp-caption-text\">BANNER_01 AMAYA READMISION<a style=\"font-size: 13px;line-height: 19px\" href=\"http://subefotos.com/ver/?169259623e3e566c1544e889de374983o.jpg\"><img loading=\"lazy\" alt=\"BANNER_02 AMAYA READMISION\" src=\"http://thumbs.subefotos.com/169259623e3e566c1544e889de374983o.jpg\" width=\"225\" height=\"75\" /></a></p></div>\n<dl class=\"wp-caption aligncenter\" style=\"width: 235px\">\n<dd class=\"wp-caption-dd\">BANNER_02 AMAYA READMISION</dd>\n</dl>\n<p>&nbsp;</p>\n<p><em>\u00bfTe indigna esta historia? Dir\u00edgete a Konecta y exige que readmitan a Amaya</em></p>\n<p>Grupo Konecta \u2013 Avda. de la Industria, 49. 28108 Alcobendas (Madrid)</p>\n<p>Web \u2013\u00a0<a href=\"http://www.grupokonecta.com/\">www.grupokonecta.com</a></p>\n<p>Facebook \u2013\u00a0<a href=\"https://www.facebook.com/fundacionkonecta\">www.facebook.com/fundacionkonecta</a></p>\n<p>Twitter:\u00a0<a href=\"https://twitter.com/gkonecta\">@gkonecta</a></p>\n<p><strong>Tel\u00e9fonos</strong>:</p>\n<p>902193106. Equivalente gratuito: 91 2036450</p>\n<p>\u00c1rea de Comunicaci\u00f3n y marketing:</p>\n<p>Eva M\u00aa Blanco Cueto \u2013 620 09 68 32</p>\n<p>Mar\u00eda Mart\u00ednez Fern\u00e1ndez-Mayoralas \u2013 610 49 21 93</p>\n<p>&nbsp;</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -448,7 +436,7 @@
   },
   "author": 1015,
   "featured_media": 681040,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -501,14 +489,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/681034/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 681041,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/681034/revisions/681041"
       }
     ],
     "wp:featuredmedia": [
@@ -559,7 +541,7 @@
     "rendered": "MARTES: Protesta por la vivienda social y contra los desahucios"
   },
   "content": {
-    "rendered": "<p><span>La PAH convoca una protesta este MARTES 30 de Abril, de 11:30 a 13:30h, frente al pleno municipal del Ayuntamiento de Alcobendas, para exigirle que reaccione ante los desahucios con una pol\u00edtica social en materia de vivienda.</p>\n<p>Para ello realizaremos adem\u00e1s una Asamblea de Afectados en la plaza de la Gran Manzana, pues ni PP ni PSOE se han acercado a una pese a ser semanales. Con tu ayuda podemos empoderar a los afectados, rescatar nuestra dignidad y presionar a los bancos -culpables de la estafa- y al Ayuntamiento -culpable de al menos <span>30</span> a\u00f1os de agravios a la vivienda social-.</p>\n<p>Le exigiremos que baje el precio del alquiler VPO, que prepare de una vez las viviendas de emergencia social (que prometi\u00f3 como medidas urgentes ante los desahucios pero que llevan 5 meses &#171;en reformas), que apoye la ILP y se implique en la negociaci\u00f3n con los bancos para obtener la daci\u00f3n en pago y alquiler social&#8230;</p>\n<p>S\u00ed se puede pero no quieren. Pues les vamos a plantar cara.<br />\n</span></p>\n<div><span><span>Desde las 9 para apoya<span>r a los compa\u00f1eros univer<span>s</span>itarios de <span>#UniEnLaCalle hasta las 13:30h, concentrados <span>frente al Ayuntamiento donde a las 10 comienza el <span>P</span>leno.</span></span></span></span><br />\n</span></div>\n<div><span>\u00a0</span></div>\n<div><span>Gracias por tu tiempo. </span></div>\n<div></div>\n",
+    "rendered": "<p><span>La PAH convoca una protesta este MARTES 30 de Abril, de 11:30 a 13:30h, frente al pleno municipal del Ayuntamiento de Alcobendas, para exigirle que reaccione ante los desahucios con una pol\u00edtica social en materia de vivienda.</p>\n<p>Para ello realizaremos adem\u00e1s una Asamblea de Afectados en la plaza de la Gran Manzana, pues ni PP ni PSOE se han acercado a una pese a ser semanales. Con tu ayuda podemos empoderar a los afectados, rescatar nuestra dignidad y presionar a los bancos -culpables de la estafa- y al Ayuntamiento -culpable de al menos <span>30</span> a\u00f1os de agravios a la vivienda social-.</p>\n<p>Le exigiremos que baje el precio del alquiler VPO, que prepare de una vez las viviendas de emergencia social (que prometi\u00f3 como medidas urgentes ante los desahucios pero que llevan 5 meses \u00aben reformas), que apoye la ILP y se implique en la negociaci\u00f3n con los bancos para obtener la daci\u00f3n en pago y alquiler social&#8230;</p>\n<p>S\u00ed se puede pero no quieren. Pues les vamos a plantar cara.<br />\n</span></p>\n<div><span><span>Desde las 9 para apoya<span>r a los compa\u00f1eros univer<span>s</span>itarios de <span>#UniEnLaCalle hasta las 13:30h, concentrados <span>frente al Ayuntamiento donde a las 10 comienza el <span>P</span>leno.</span></span></span></span><br />\n</span></div>\n<div><span>\u00a0</span></div>\n<div><span>Gracias por tu tiempo. </span></div>\n<div></div>\n",
     "protected": false
   },
   "excerpt": {
@@ -568,7 +550,7 @@
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -609,14 +591,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/681026/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 681027,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/681026/revisions/681027"
       }
     ],
     "wp:attachment": [
@@ -661,12 +637,12 @@
     "rendered": "LOGO_Sanidad"
   },
   "author": 1015,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://alcosanse.tomalosbarrios.net/files/2013/03/LOGO_Sanidad.png'><img width=\"300\" height=\"290\" src=\"https://alcosanse.tomalosbarrios.net/files/2013/03/LOGO_Sanidad-300x290.png\" class=\"attachment-medium size-medium\" alt=\"Sanidad de calidad\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2013/03/LOGO_Sanidad-300x290.png 300w, https://alcosanse.tomalosbarrios.net/files/2013/03/LOGO_Sanidad-24x24.png 24w, https://alcosanse.tomalosbarrios.net/files/2013/03/LOGO_Sanidad-36x36.png 36w, https://alcosanse.tomalosbarrios.net/files/2013/03/LOGO_Sanidad.png 569w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>Sanidad de calidad</p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://alcosanse.tomalosbarrios.net/files/2013/03/LOGO_Sanidad.png'><img width=\"300\" height=\"290\" src=\"https://alcosanse.tomalosbarrios.net/files/2013/03/LOGO_Sanidad-300x290.png\" class=\"attachment-medium size-medium\" alt=\"Sanidad de calidad\" loading=\"lazy\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2013/03/LOGO_Sanidad-300x290.png 300w, https://alcosanse.tomalosbarrios.net/files/2013/03/LOGO_Sanidad-24x24.png 24w, https://alcosanse.tomalosbarrios.net/files/2013/03/LOGO_Sanidad-36x36.png 36w, https://alcosanse.tomalosbarrios.net/files/2013/03/LOGO_Sanidad.png 569w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>Sanidad de calidad</p>\n"
   },
   "caption": {
     "rendered": "<p>Sanidad de calidad</p>\n"
@@ -811,12 +787,12 @@
     "rendered": "banner_14M_sanidad"
   },
   "author": 1015,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://alcosanse.tomalosbarrios.net/files/2013/03/sanidad.png'><img width=\"300\" height=\"139\" src=\"https://alcosanse.tomalosbarrios.net/files/2013/03/sanidad-300x139.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2013/03/sanidad-300x139.png 300w, https://alcosanse.tomalosbarrios.net/files/2013/03/sanidad.png 493w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://alcosanse.tomalosbarrios.net/files/2013/03/sanidad.png'><img width=\"300\" height=\"139\" src=\"https://alcosanse.tomalosbarrios.net/files/2013/03/sanidad-300x139.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2013/03/sanidad-300x139.png 300w, https://alcosanse.tomalosbarrios.net/files/2013/03/sanidad.png 493w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -961,12 +937,12 @@
     "rendered": "Cartel_14M_YoSiSanidadUniversal"
   },
   "author": 1015,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://alcosanse.tomalosbarrios.net/files/2013/03/SANIDAD_PUBLICA_UNIVERSAL.jpg'><img width=\"211\" height=\"300\" src=\"https://alcosanse.tomalosbarrios.net/files/2013/03/SANIDAD_PUBLICA_UNIVERSAL-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"Cartel 14M\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2013/03/SANIDAD_PUBLICA_UNIVERSAL-211x300.jpg 211w, https://alcosanse.tomalosbarrios.net/files/2013/03/SANIDAD_PUBLICA_UNIVERSAL.jpg 678w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n<p>Cartel 14M</p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://alcosanse.tomalosbarrios.net/files/2013/03/SANIDAD_PUBLICA_UNIVERSAL.jpg'><img width=\"211\" height=\"300\" src=\"https://alcosanse.tomalosbarrios.net/files/2013/03/SANIDAD_PUBLICA_UNIVERSAL-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"Cartel 14M\" loading=\"lazy\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2013/03/SANIDAD_PUBLICA_UNIVERSAL-211x300.jpg 211w, https://alcosanse.tomalosbarrios.net/files/2013/03/SANIDAD_PUBLICA_UNIVERSAL.jpg 678w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n<p>Cartel 14M</p>\n"
   },
   "caption": {
     "rendered": "<p>Cartel 14M</p>\n"
@@ -1111,7 +1087,7 @@
     "rendered": "Este JUEVES 14M, manifestaci\u00f3n por la sanidad p\u00fablica desde Sanse a Alcobendas"
   },
   "content": {
-    "rendered": "<p><span>Dentro de la jornada estatal #14M por una sanidad universal, la Asamblea AlcoSanse15M se une a la manifestaci\u00f3n convocada en San Sebasti\u00e1n de los Reyes y Alcobendas por la <i>Plataforma ciudadana en defensa de la sanidad p\u00fablica de la zona norte</i> (NorteSanidad.es), este jueves 14 de Marzo a las 19:00h. <strong><br />\n</strong></span></p>\n<p><span><strong>Desde el Centro de la salud de la Avenida de Espa\u00f1a n\u00ba 20\u00a0 (San Sebasti\u00e1n de los Reyes)</strong><strong> hasta el Centro de especialidades Blas de Otero\u00a0 (Alcobendas).</strong></span></p>\n<p><span>\u00a0</span></p>\n<p><span>Porque creemos que nuestro sistema sanitario est\u00e1 sufriendo un acoso sistem\u00e1tico desde los distintos gobiernos auton\u00f3micos y estatales, que hoy nos lleva a una situaci\u00f3n de retroceso flagrante en los derechos fundamentales. Porque creemos en una sanidad 100% P\u00fablica, Universal, Gratuita y de Calidad. \u00a1La sanidad no se vende, se defiende!<br />\n</span></p>\n<p>Jueves 14 de Marzo, de 19 h a 20 h, desde Sanse hasta Alcobendas, \u00a1la sanidad no se vende, se defiende!<br />\nContacto: info @ nortesanidad.es</p>\n<p>EVENTO: http://www.facebook.com/events/574204612592739/</p>\n<p><span>Manifiesto de la <span>mesa <span>sector<span>ial</span></span></span> al respecto del #14M:<br />\n</span></p>\n<p><a href=\"http://nortesanidad.es/epages/con2091944.sf/es_ES/?ObjectPath=/Shops/con2091944/Categories/191_Quienes_somos/Manifiesto\" target=\"_blank\"><span>http://nortesanidad.es/epages/con2091944.sf/es_ES/?ObjectPath=/Shops/con2091944/Categories/191_Quienes_somos/Manifiesto</span></a></p>\n<p>&nbsp;</p>\n<div id=\"attachment_681017\" style=\"width: 160px\" class=\"wp-caption alignleft\"><a href=\"http://alcosanse.tomalosbarrios.net/files/2013/03/SANIDAD_PUBLICA_UNIVERSAL.jpg\"><img aria-describedby=\"caption-attachment-681017\" class=\"size-thumbnail wp-image-681017\" alt=\"Cartel 14M\" src=\"http://alcosanse.tomalosbarrios.net/files/2013/03/SANIDAD_PUBLICA_UNIVERSAL-150x150.jpg\" width=\"150\" height=\"150\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2013/03/SANIDAD_PUBLICA_UNIVERSAL-150x150.jpg 150w, https://alcosanse.tomalosbarrios.net/files/2013/03/SANIDAD_PUBLICA_UNIVERSAL-96x96.jpg 96w, https://alcosanse.tomalosbarrios.net/files/2013/03/SANIDAD_PUBLICA_UNIVERSAL-24x24.jpg 24w, https://alcosanse.tomalosbarrios.net/files/2013/03/SANIDAD_PUBLICA_UNIVERSAL-36x36.jpg 36w, https://alcosanse.tomalosbarrios.net/files/2013/03/SANIDAD_PUBLICA_UNIVERSAL-48x48.jpg 48w, https://alcosanse.tomalosbarrios.net/files/2013/03/SANIDAD_PUBLICA_UNIVERSAL-64x64.jpg 64w\" sizes=\"(max-width: 150px) 100vw, 150px\" /></a><p id=\"caption-attachment-681017\" class=\"wp-caption-text\">Cartel 14M</p></div>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><a href=\"http://alcosanse.tomalosbarrios.net/files/2013/03/sanidad.png\"><img class=\"alignleft size-thumbnail wp-image-681018\" alt=\"banner_14M_sanidad\" src=\"http://alcosanse.tomalosbarrios.net/files/2013/03/sanidad-150x150.png\" width=\"150\" height=\"150\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2013/03/sanidad-150x150.png 150w, https://alcosanse.tomalosbarrios.net/files/2013/03/sanidad-96x96.png 96w, https://alcosanse.tomalosbarrios.net/files/2013/03/sanidad-24x24.png 24w, https://alcosanse.tomalosbarrios.net/files/2013/03/sanidad-36x36.png 36w, https://alcosanse.tomalosbarrios.net/files/2013/03/sanidad-48x48.png 48w, https://alcosanse.tomalosbarrios.net/files/2013/03/sanidad-64x64.png 64w\" sizes=\"(max-width: 150px) 100vw, 150px\" /></a></p>\n<div id=\"attachment_681022\" style=\"width: 160px\" class=\"wp-caption alignleft\"><a href=\"http://alcosanse.tomalosbarrios.net/files/2013/03/LOGO_Sanidad.png\"><img aria-describedby=\"caption-attachment-681022\" class=\"size-thumbnail wp-image-681022\" alt=\"Sanidad de calidad\" src=\"http://alcosanse.tomalosbarrios.net/files/2013/03/LOGO_Sanidad-150x150.png\" width=\"150\" height=\"150\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2013/03/LOGO_Sanidad-150x150.png 150w, https://alcosanse.tomalosbarrios.net/files/2013/03/LOGO_Sanidad-96x96.png 96w, https://alcosanse.tomalosbarrios.net/files/2013/03/LOGO_Sanidad-24x24.png 24w, https://alcosanse.tomalosbarrios.net/files/2013/03/LOGO_Sanidad-36x36.png 36w, https://alcosanse.tomalosbarrios.net/files/2013/03/LOGO_Sanidad-48x48.png 48w, https://alcosanse.tomalosbarrios.net/files/2013/03/LOGO_Sanidad-64x64.png 64w\" sizes=\"(max-width: 150px) 100vw, 150px\" /></a><p id=\"caption-attachment-681022\" class=\"wp-caption-text\">Sanidad de calidad</p></div>\n",
+    "rendered": "<p><span>Dentro de la jornada estatal #14M por una sanidad universal, la Asamblea AlcoSanse15M se une a la manifestaci\u00f3n convocada en San Sebasti\u00e1n de los Reyes y Alcobendas por la <i>Plataforma ciudadana en defensa de la sanidad p\u00fablica de la zona norte</i> (NorteSanidad.es), este jueves 14 de Marzo a las 19:00h. <strong><br />\n</strong></span></p>\n<p><span><strong>Desde el Centro de la salud de la Avenida de Espa\u00f1a n\u00ba 20\u00a0 (San Sebasti\u00e1n de los Reyes)</strong><strong> hasta el Centro de especialidades Blas de Otero\u00a0 (Alcobendas).</strong></span></p>\n<p><span>\u00a0</span></p>\n<p><span>Porque creemos que nuestro sistema sanitario est\u00e1 sufriendo un acoso sistem\u00e1tico desde los distintos gobiernos auton\u00f3micos y estatales, que hoy nos lleva a una situaci\u00f3n de retroceso flagrante en los derechos fundamentales. Porque creemos en una sanidad 100% P\u00fablica, Universal, Gratuita y de Calidad. \u00a1La sanidad no se vende, se defiende!<br />\n</span></p>\n<p>Jueves 14 de Marzo, de 19 h a 20 h, desde Sanse hasta Alcobendas, \u00a1la sanidad no se vende, se defiende!<br />\nContacto: info @ nortesanidad.es</p>\n<p>EVENTO: http://www.facebook.com/events/574204612592739/</p>\n<p><span>Manifiesto de la <span>mesa <span>sector<span>ial</span></span></span> al respecto del #14M:<br />\n</span></p>\n<p><a href=\"http://nortesanidad.es/epages/con2091944.sf/es_ES/?ObjectPath=/Shops/con2091944/Categories/191_Quienes_somos/Manifiesto\" target=\"_blank\"><span>http://nortesanidad.es/epages/con2091944.sf/es_ES/?ObjectPath=/Shops/con2091944/Categories/191_Quienes_somos/Manifiesto</span></a></p>\n<p>&nbsp;</p>\n<div id=\"attachment_681017\" style=\"width: 160px\" class=\"wp-caption alignleft\"><a href=\"http://alcosanse.tomalosbarrios.net/files/2013/03/SANIDAD_PUBLICA_UNIVERSAL.jpg\"><img aria-describedby=\"caption-attachment-681017\" loading=\"lazy\" class=\"size-thumbnail wp-image-681017\" alt=\"Cartel 14M\" src=\"http://alcosanse.tomalosbarrios.net/files/2013/03/SANIDAD_PUBLICA_UNIVERSAL-150x150.jpg\" width=\"150\" height=\"150\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2013/03/SANIDAD_PUBLICA_UNIVERSAL-150x150.jpg 150w, https://alcosanse.tomalosbarrios.net/files/2013/03/SANIDAD_PUBLICA_UNIVERSAL-96x96.jpg 96w, https://alcosanse.tomalosbarrios.net/files/2013/03/SANIDAD_PUBLICA_UNIVERSAL-24x24.jpg 24w, https://alcosanse.tomalosbarrios.net/files/2013/03/SANIDAD_PUBLICA_UNIVERSAL-36x36.jpg 36w, https://alcosanse.tomalosbarrios.net/files/2013/03/SANIDAD_PUBLICA_UNIVERSAL-48x48.jpg 48w, https://alcosanse.tomalosbarrios.net/files/2013/03/SANIDAD_PUBLICA_UNIVERSAL-64x64.jpg 64w\" sizes=\"(max-width: 150px) 100vw, 150px\" /></a><p id=\"caption-attachment-681017\" class=\"wp-caption-text\">Cartel 14M</p></div>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><a href=\"http://alcosanse.tomalosbarrios.net/files/2013/03/sanidad.png\"><img loading=\"lazy\" class=\"alignleft size-thumbnail wp-image-681018\" alt=\"banner_14M_sanidad\" src=\"http://alcosanse.tomalosbarrios.net/files/2013/03/sanidad-150x150.png\" width=\"150\" height=\"150\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2013/03/sanidad-150x150.png 150w, https://alcosanse.tomalosbarrios.net/files/2013/03/sanidad-96x96.png 96w, https://alcosanse.tomalosbarrios.net/files/2013/03/sanidad-24x24.png 24w, https://alcosanse.tomalosbarrios.net/files/2013/03/sanidad-36x36.png 36w, https://alcosanse.tomalosbarrios.net/files/2013/03/sanidad-48x48.png 48w, https://alcosanse.tomalosbarrios.net/files/2013/03/sanidad-64x64.png 64w\" sizes=\"(max-width: 150px) 100vw, 150px\" /></a></p>\n<div id=\"attachment_681022\" style=\"width: 160px\" class=\"wp-caption alignleft\"><a href=\"http://alcosanse.tomalosbarrios.net/files/2013/03/LOGO_Sanidad.png\"><img aria-describedby=\"caption-attachment-681022\" loading=\"lazy\" class=\"size-thumbnail wp-image-681022\" alt=\"Sanidad de calidad\" src=\"http://alcosanse.tomalosbarrios.net/files/2013/03/LOGO_Sanidad-150x150.png\" width=\"150\" height=\"150\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2013/03/LOGO_Sanidad-150x150.png 150w, https://alcosanse.tomalosbarrios.net/files/2013/03/LOGO_Sanidad-96x96.png 96w, https://alcosanse.tomalosbarrios.net/files/2013/03/LOGO_Sanidad-24x24.png 24w, https://alcosanse.tomalosbarrios.net/files/2013/03/LOGO_Sanidad-36x36.png 36w, https://alcosanse.tomalosbarrios.net/files/2013/03/LOGO_Sanidad-48x48.png 48w, https://alcosanse.tomalosbarrios.net/files/2013/03/LOGO_Sanidad-64x64.png 64w\" sizes=\"(max-width: 150px) 100vw, 150px\" /></a><p id=\"caption-attachment-681022\" class=\"wp-caption-text\">Sanidad de calidad</p></div>\n",
     "protected": false
   },
   "excerpt": {
@@ -1120,7 +1096,7 @@
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1166,14 +1142,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/681014/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 681016,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/681014/revisions/681016"
       }
     ],
     "wp:attachment": [
@@ -1227,7 +1197,7 @@
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1271,14 +1241,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/681011/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 681012,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/681011/revisions/681012"
       }
     ],
     "wp:attachment": [
@@ -1332,7 +1296,7 @@
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1373,14 +1337,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/681004/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 681009,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/681004/revisions/681009"
       }
     ],
     "wp:attachment": [
@@ -1425,12 +1383,12 @@
     "rendered": "STOP DESAHUCIOS"
   },
   "author": 1015,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://alcosanse.tomalosbarrios.net/files/2013/02/STOP-DESAHUCIOS.jpg'><img width=\"300\" height=\"158\" src=\"https://alcosanse.tomalosbarrios.net/files/2013/02/STOP-DESAHUCIOS-300x158.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2013/02/STOP-DESAHUCIOS-300x158.jpg 300w, https://alcosanse.tomalosbarrios.net/files/2013/02/STOP-DESAHUCIOS.jpg 528w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://alcosanse.tomalosbarrios.net/files/2013/02/STOP-DESAHUCIOS.jpg'><img width=\"300\" height=\"158\" src=\"https://alcosanse.tomalosbarrios.net/files/2013/02/STOP-DESAHUCIOS-300x158.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2013/02/STOP-DESAHUCIOS-300x158.jpg 300w, https://alcosanse.tomalosbarrios.net/files/2013/02/STOP-DESAHUCIOS.jpg 528w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -1575,7 +1533,7 @@
     "rendered": "[SUSPENDIDO]Mi\u00e9rcoles 20, #stopDesahucios en Alcobendas"
   },
   "content": {
-    "rendered": "<p>El desahucio ha sido suspendido cautelarmente por 30 d\u00edas.</p>\n<p>Mas informaci\u00f3n:\u00a0<a href=\"http://www.sermadridnorte.com/noticias/paralizado-el-desahucio-de-la-calle-barcelona-de-alcobendas_31388/\">http://www.sermadridnorte.com/noticias/paralizado-el-desahucio-de-la-calle-barcelona-de-alcobendas_31388/</a></p>\n<p>&nbsp;</p>\n<p><del>Este mi\u00e9rcoles 20 est\u00e1 previsto que una familia se echada de su casa, para evitarlo convocamos a los vecinos a impedirlo sum\u00e1ndose a un #stopDesahucios en la C/ Barcelona, n\u00ba 34 de Alcobendas (junto al Centro de Arte) y as\u00ed evitar que la familia de Humberto se quede sin casa.</del></p>\n<p><del>A las 11:15h est\u00e1 prevista la llegada de la comisi\u00f3n ejecutora y por la experiencia de casos pasados debemos estar all\u00ed al menos 1h antes.</del></p>\n<p><del>Ayer se puso un escrito en el juzgado para que se acojan al c\u00f3digo de buenas pr\u00e1cticas, pero mantenemos la convocatoria al no tener una respuesta en estos momentos y estar la estabilidad familiar en peligro.</del></p>\n<p><del>No toleramos ni un desahucio m\u00e1s.</del></p>\n<p><del>La ILP se defiende d\u00eda a d\u00eda en AlcoSanse!</del></p>\n<p><del>Evento en Facebook para mantenerse al tanto de las novedades que puedan surgir:\u00a0<a href=\"http://www.facebook.com/events/155544914601000/\">http://www.facebook.com/events/155544914601000/</a></del></p>\n<p><a href=\"http://alcosanse.tomalosbarrios.net/files/2013/02/STOP-DESAHUCIOS.jpg\"><img class=\"alignleft size-thumbnail wp-image-672974\" alt=\"STOP DESAHUCIOS\" src=\"http://alcosanse.tomalosbarrios.net/files/2013/02/STOP-DESAHUCIOS-150x150.jpg\" width=\"150\" height=\"150\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2013/02/STOP-DESAHUCIOS-150x150.jpg 150w, https://alcosanse.tomalosbarrios.net/files/2013/02/STOP-DESAHUCIOS-96x96.jpg 96w, https://alcosanse.tomalosbarrios.net/files/2013/02/STOP-DESAHUCIOS-24x24.jpg 24w, https://alcosanse.tomalosbarrios.net/files/2013/02/STOP-DESAHUCIOS-36x36.jpg 36w, https://alcosanse.tomalosbarrios.net/files/2013/02/STOP-DESAHUCIOS-48x48.jpg 48w, https://alcosanse.tomalosbarrios.net/files/2013/02/STOP-DESAHUCIOS-64x64.jpg 64w\" sizes=\"(max-width: 150px) 100vw, 150px\" /></a></p>\n",
+    "rendered": "<p>El desahucio ha sido suspendido cautelarmente por 30 d\u00edas.</p>\n<p>Mas informaci\u00f3n:\u00a0<a href=\"http://www.sermadridnorte.com/noticias/paralizado-el-desahucio-de-la-calle-barcelona-de-alcobendas_31388/\">http://www.sermadridnorte.com/noticias/paralizado-el-desahucio-de-la-calle-barcelona-de-alcobendas_31388/</a></p>\n<p>&nbsp;</p>\n<p><del>Este mi\u00e9rcoles 20 est\u00e1 previsto que una familia se echada de su casa, para evitarlo convocamos a los vecinos a impedirlo sum\u00e1ndose a un #stopDesahucios en la C/ Barcelona, n\u00ba 34 de Alcobendas (junto al Centro de Arte) y as\u00ed evitar que la familia de Humberto se quede sin casa.</del></p>\n<p><del>A las 11:15h est\u00e1 prevista la llegada de la comisi\u00f3n ejecutora y por la experiencia de casos pasados debemos estar all\u00ed al menos 1h antes.</del></p>\n<p><del>Ayer se puso un escrito en el juzgado para que se acojan al c\u00f3digo de buenas pr\u00e1cticas, pero mantenemos la convocatoria al no tener una respuesta en estos momentos y estar la estabilidad familiar en peligro.</del></p>\n<p><del>No toleramos ni un desahucio m\u00e1s.</del></p>\n<p><del>La ILP se defiende d\u00eda a d\u00eda en AlcoSanse!</del></p>\n<p><del>Evento en Facebook para mantenerse al tanto de las novedades que puedan surgir:\u00a0<a href=\"http://www.facebook.com/events/155544914601000/\">http://www.facebook.com/events/155544914601000/</a></del></p>\n<p><a href=\"http://alcosanse.tomalosbarrios.net/files/2013/02/STOP-DESAHUCIOS.jpg\"><img loading=\"lazy\" class=\"alignleft size-thumbnail wp-image-672974\" alt=\"STOP DESAHUCIOS\" src=\"http://alcosanse.tomalosbarrios.net/files/2013/02/STOP-DESAHUCIOS-150x150.jpg\" width=\"150\" height=\"150\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2013/02/STOP-DESAHUCIOS-150x150.jpg 150w, https://alcosanse.tomalosbarrios.net/files/2013/02/STOP-DESAHUCIOS-96x96.jpg 96w, https://alcosanse.tomalosbarrios.net/files/2013/02/STOP-DESAHUCIOS-24x24.jpg 24w, https://alcosanse.tomalosbarrios.net/files/2013/02/STOP-DESAHUCIOS-36x36.jpg 36w, https://alcosanse.tomalosbarrios.net/files/2013/02/STOP-DESAHUCIOS-48x48.jpg 48w, https://alcosanse.tomalosbarrios.net/files/2013/02/STOP-DESAHUCIOS-64x64.jpg 64w\" sizes=\"(max-width: 150px) 100vw, 150px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -1584,7 +1542,7 @@
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1625,14 +1583,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/672973/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 672976,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/672973/revisions/672976"
       }
     ],
     "wp:attachment": [
@@ -1686,7 +1638,7 @@
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1727,14 +1679,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/642523/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 642763,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/642523/revisions/642763"
       }
     ],
     "wp:attachment": [
@@ -1779,12 +1725,12 @@
     "rendered": "CARTEL"
   },
   "author": 1015,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://alcosanse.tomalosbarrios.net/files/2013/02/cartel-concentracio\u0301n-corrupcio\u0301n.jpg'><img width=\"212\" height=\"300\" src=\"https://alcosanse.tomalosbarrios.net/files/2013/02/cartel-concentracio\u0301n-corrupcio\u0301n-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"Cartel Viernes 19.30h\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2013/02/cartel-concentracio\u0301n-corrupcio\u0301n-212x300.jpg 212w, https://alcosanse.tomalosbarrios.net/files/2013/02/cartel-concentracio\u0301n-corrupcio\u0301n-724x1024.jpg 724w, https://alcosanse.tomalosbarrios.net/files/2013/02/cartel-concentracio\u0301n-corrupcio\u0301n.jpg 1242w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n<p>Viernes 19:30h</p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://alcosanse.tomalosbarrios.net/files/2013/02/cartel-concentracio\u0301n-corrupcio\u0301n.jpg'><img width=\"212\" height=\"300\" src=\"https://alcosanse.tomalosbarrios.net/files/2013/02/cartel-concentracio\u0301n-corrupcio\u0301n-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"Cartel Viernes 19.30h\" loading=\"lazy\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2013/02/cartel-concentracio\u0301n-corrupcio\u0301n-212x300.jpg 212w, https://alcosanse.tomalosbarrios.net/files/2013/02/cartel-concentracio\u0301n-corrupcio\u0301n-724x1024.jpg 724w, https://alcosanse.tomalosbarrios.net/files/2013/02/cartel-concentracio\u0301n-corrupcio\u0301n.jpg 1242w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n<p>Viernes 19:30h</p>\n"
   },
   "caption": {
     "rendered": "<p>Viernes 19:30h</p>\n"
@@ -1936,16 +1882,16 @@
     "rendered": "PROTESTA EN ALCOSANSE CONTRA LA CORRUPCI\u00d3N. Viernes, 19:30h"
   },
   "content": {
-    "rendered": "<p>ALCOSANSE15M CONVOCA UNA PROTESTA CON EL LEMA &#171;Basta ya de corrupci\u00f3n, gobierno dimisi\u00f3n&#187;<br />\nQUE EMPEZAR\u00c1 FRENTE A LA SEDE DEL PP EN SANSE.</p>\n<p>No olvides llevarles tu sobre ESTE VIERNES d\u00eda 8F a las 19.30H en el Ayuntamiento de Sanse.</p>\n<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211;</p>\n<p><a title=\"Frente al Hay-Untamiento de Sanse\" href=\"http://www.facebook.com/events/423103011101300/\" target=\"_blank\">http://www.facebook.com/events/423103011101300/</a></p>\n<p>&nbsp;</p>\n<p>\u00a1No sobran derechos, sobran corruptos! Que no te callen, cada uno de estos casos lo acabas pagando t\u00fa de tu bolsillo. Que no son 4 trajes, sino la gesti\u00f3n del dinero p\u00fablico.</p>\n<div id=\"attachment_610660\" style=\"width: 160px\" class=\"wp-caption alignleft\"><a href=\"http://alcosanse.tomalosbarrios.net/files/2013/02/cartel-concentracio\u0301n-corrupcio\u0301n.jpg\"><img aria-describedby=\"caption-attachment-610660\" class=\"size-thumbnail wp-image-610660\" alt=\"Cartel Viernes 19.30h\" src=\"http://alcosanse.tomalosbarrios.net/files/2013/02/cartel-concentracio\u0301n-corrupcio\u0301n-150x150.jpg\" width=\"150\" height=\"150\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2013/02/cartel-concentracio\u0301n-corrupcio\u0301n-150x150.jpg 150w, https://alcosanse.tomalosbarrios.net/files/2013/02/cartel-concentracio\u0301n-corrupcio\u0301n-96x96.jpg 96w, https://alcosanse.tomalosbarrios.net/files/2013/02/cartel-concentracio\u0301n-corrupcio\u0301n-24x24.jpg 24w, https://alcosanse.tomalosbarrios.net/files/2013/02/cartel-concentracio\u0301n-corrupcio\u0301n-36x36.jpg 36w, https://alcosanse.tomalosbarrios.net/files/2013/02/cartel-concentracio\u0301n-corrupcio\u0301n-48x48.jpg 48w, https://alcosanse.tomalosbarrios.net/files/2013/02/cartel-concentracio\u0301n-corrupcio\u0301n-64x64.jpg 64w\" sizes=\"(max-width: 150px) 100vw, 150px\" /></a><p id=\"caption-attachment-610660\" class=\"wp-caption-text\">Viernes 19:30h</p></div>\n",
+    "rendered": "<p>ALCOSANSE15M CONVOCA UNA PROTESTA CON EL LEMA \u00abBasta ya de corrupci\u00f3n, gobierno dimisi\u00f3n\u00bb<br />\nQUE EMPEZAR\u00c1 FRENTE A LA SEDE DEL PP EN SANSE.</p>\n<p>No olvides llevarles tu sobre ESTE VIERNES d\u00eda 8F a las 19.30H en el Ayuntamiento de Sanse.</p>\n<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211;</p>\n<p><a title=\"Frente al Hay-Untamiento de Sanse\" href=\"http://www.facebook.com/events/423103011101300/\" target=\"_blank\">http://www.facebook.com/events/423103011101300/</a></p>\n<p>&nbsp;</p>\n<p>\u00a1No sobran derechos, sobran corruptos! Que no te callen, cada uno de estos casos lo acabas pagando t\u00fa de tu bolsillo. Que no son 4 trajes, sino la gesti\u00f3n del dinero p\u00fablico.</p>\n<div id=\"attachment_610660\" style=\"width: 160px\" class=\"wp-caption alignleft\"><a href=\"http://alcosanse.tomalosbarrios.net/files/2013/02/cartel-concentracio\u0301n-corrupcio\u0301n.jpg\"><img aria-describedby=\"caption-attachment-610660\" loading=\"lazy\" class=\"size-thumbnail wp-image-610660\" alt=\"Cartel Viernes 19.30h\" src=\"http://alcosanse.tomalosbarrios.net/files/2013/02/cartel-concentracio\u0301n-corrupcio\u0301n-150x150.jpg\" width=\"150\" height=\"150\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2013/02/cartel-concentracio\u0301n-corrupcio\u0301n-150x150.jpg 150w, https://alcosanse.tomalosbarrios.net/files/2013/02/cartel-concentracio\u0301n-corrupcio\u0301n-96x96.jpg 96w, https://alcosanse.tomalosbarrios.net/files/2013/02/cartel-concentracio\u0301n-corrupcio\u0301n-24x24.jpg 24w, https://alcosanse.tomalosbarrios.net/files/2013/02/cartel-concentracio\u0301n-corrupcio\u0301n-36x36.jpg 36w, https://alcosanse.tomalosbarrios.net/files/2013/02/cartel-concentracio\u0301n-corrupcio\u0301n-48x48.jpg 48w, https://alcosanse.tomalosbarrios.net/files/2013/02/cartel-concentracio\u0301n-corrupcio\u0301n-64x64.jpg 64w\" sizes=\"(max-width: 150px) 100vw, 150px\" /></a><p id=\"caption-attachment-610660\" class=\"wp-caption-text\">Viernes 19:30h</p></div>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>ALCOSANSE15M CONVOCA UNA PROTESTA CON EL LEMA &#171;Basta ya de corrupci\u00f3n, gobierno dimisi\u00f3n&#187; QUE EMPEZAR\u00c1 FRENTE A LA SEDE DEL PP EN SANSE. No olvides llevarles tu sobre ESTE VIERNES d\u00eda 8F a las 19.30H en el Ayuntamiento de Sanse. &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211; http://www.facebook.com/events/423103011101300/ &nbsp; \u00a1No sobran derechos, sobran corruptos! Que no te callen, cada uno de <a href='https://alcosanse.tomalosbarrios.net/2013/02/06/protesta-en-alcosanse-contra-la-corrupcion-viernes-1930h/' class='excerpt-more'>[&#8230;]</a></p>\n",
+    "rendered": "<p>ALCOSANSE15M CONVOCA UNA PROTESTA CON EL LEMA \u00abBasta ya de corrupci\u00f3n, gobierno dimisi\u00f3n\u00bb QUE EMPEZAR\u00c1 FRENTE A LA SEDE DEL PP EN SANSE. No olvides llevarles tu sobre ESTE VIERNES d\u00eda 8F a las 19.30H en el Ayuntamiento de Sanse. &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211; http://www.facebook.com/events/423103011101300/ &nbsp; \u00a1No sobran derechos, sobran corruptos! Que no te callen, cada uno de <a href='https://alcosanse.tomalosbarrios.net/2013/02/06/protesta-en-alcosanse-contra-la-corrupcion-viernes-1930h/' class='excerpt-more'>[&#8230;]</a></p>\n",
     "protected": false
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1986,14 +1932,8 @@
     ],
     "version-history": [
       {
-        "count": 8,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/601445/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 601447,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/601445/revisions/601447"
       }
     ],
     "wp:attachment": [
@@ -2038,12 +1978,12 @@
     "rendered": "CARTEL"
   },
   "author": 1015,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://alcosanse.tomalosbarrios.net/files/2013/02/CARTEL.jpg'><img width=\"212\" height=\"300\" src=\"https://alcosanse.tomalosbarrios.net/files/2013/02/CARTEL-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"Asamblea Hospital Infanta Sofia 9F\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2013/02/CARTEL-212x300.jpg 212w, https://alcosanse.tomalosbarrios.net/files/2013/02/CARTEL-724x1024.jpg 724w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n<p>Cartel de la Asamblea en el Hospital Infanta Sofia el 9F a las 11:30h.</p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://alcosanse.tomalosbarrios.net/files/2013/02/CARTEL.jpg'><img width=\"212\" height=\"300\" src=\"https://alcosanse.tomalosbarrios.net/files/2013/02/CARTEL-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"Asamblea Hospital Infanta Sofia 9F\" loading=\"lazy\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2013/02/CARTEL-212x300.jpg 212w, https://alcosanse.tomalosbarrios.net/files/2013/02/CARTEL-724x1024.jpg 724w, https://alcosanse.tomalosbarrios.net/files/2013/02/CARTEL.jpg 1754w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n<p>Cartel de la Asamblea en el Hospital Infanta Sofia el 9F a las 11:30h.</p>\n"
   },
   "caption": {
     "rendered": "<p>Asamblea por la Sanidad p\u00fablica</p>\n"
@@ -2195,7 +2135,7 @@
     "rendered": "Asamblea en el Hospital Infanta Sof\u00eda y llamamiento a la unidad"
   },
   "content": {
-    "rendered": "<p>Este s\u00e1bado 9 de febrero acudiremos e invitamos a todos a acudir a una Asamblea en el Hospital Infanta Sof\u00eda convocada por ciudadanos y profesionales de la sanidad y la salud.</p>\n<p>Su objetivo, compartido por la Asamblea General, es crear entre tod@s una plataforma desde la que defender la salud y la sanidad p\u00fablica.</p>\n<p>No queremos m\u00e1s euros por receta, costes para pensionistas, cierres de centros de salud, de urgencias, repagos&#8230; No queremos hospitales de gesti\u00f3n privada ni empresas que ganen a costa de un sistema sanitario que es de todos.</p>\n<p>Porque no podemos permitir un modelo sanitario que penaliza a los que menos tienen y m\u00e1s enfermos est\u00e1n.</p>\n<p><strong>S\u00e1bado, 9 de FEBRERO de 2013, a las 11.30 hs</strong><br />\n<strong>HOSPITAL INFANTA SOF\u00cdA</strong></p>\n<p>JUNT@S DEBEMOS DEFENDER LO QUE ES DE TOD@S:\u00a0 SANIDAD P\u00daBLICA 100%<br />\n\u00a1\u00a1SI NO ACTUAMOS YA MA\u00d1ANA SER\u00c1 TARDE!!</p>\n<p>Yo S\u00ed Sanidad Universal.</p>\n<div id=\"attachment_600496\" style=\"width: 160px\" class=\"wp-caption alignleft\"><a href=\"http://alcosanse.tomalosbarrios.net/files/2013/02/CARTEL.jpg\"><img aria-describedby=\"caption-attachment-600496\" class=\"size-thumbnail wp-image-600496\" alt=\"Asamblea Hospital Infanta Sofia 9F\" src=\"http://alcosanse.tomalosbarrios.net/files/2013/02/CARTEL-150x150.jpg\" width=\"150\" height=\"150\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2013/02/CARTEL-150x150.jpg 150w, https://alcosanse.tomalosbarrios.net/files/2013/02/CARTEL-96x96.jpg 96w, https://alcosanse.tomalosbarrios.net/files/2013/02/CARTEL-24x24.jpg 24w, https://alcosanse.tomalosbarrios.net/files/2013/02/CARTEL-36x36.jpg 36w, https://alcosanse.tomalosbarrios.net/files/2013/02/CARTEL-48x48.jpg 48w, https://alcosanse.tomalosbarrios.net/files/2013/02/CARTEL-64x64.jpg 64w\" sizes=\"(max-width: 150px) 100vw, 150px\" /></a><p id=\"caption-attachment-600496\" class=\"wp-caption-text\">Asamblea por la Sanidad p\u00fablica</p></div>\n",
+    "rendered": "<p>Este s\u00e1bado 9 de febrero acudiremos e invitamos a todos a acudir a una Asamblea en el Hospital Infanta Sof\u00eda convocada por ciudadanos y profesionales de la sanidad y la salud.</p>\n<p>Su objetivo, compartido por la Asamblea General, es crear entre tod@s una plataforma desde la que defender la salud y la sanidad p\u00fablica.</p>\n<p>No queremos m\u00e1s euros por receta, costes para pensionistas, cierres de centros de salud, de urgencias, repagos&#8230; No queremos hospitales de gesti\u00f3n privada ni empresas que ganen a costa de un sistema sanitario que es de todos.</p>\n<p>Porque no podemos permitir un modelo sanitario que penaliza a los que menos tienen y m\u00e1s enfermos est\u00e1n.</p>\n<p><strong>S\u00e1bado, 9 de FEBRERO de 2013, a las 11.30 hs</strong><br />\n<strong>HOSPITAL INFANTA SOF\u00cdA</strong></p>\n<p>JUNT@S DEBEMOS DEFENDER LO QUE ES DE TOD@S:\u00a0 SANIDAD P\u00daBLICA 100%<br />\n\u00a1\u00a1SI NO ACTUAMOS YA MA\u00d1ANA SER\u00c1 TARDE!!</p>\n<p>Yo S\u00ed Sanidad Universal.</p>\n<div id=\"attachment_600496\" style=\"width: 160px\" class=\"wp-caption alignleft\"><a href=\"http://alcosanse.tomalosbarrios.net/files/2013/02/CARTEL.jpg\"><img aria-describedby=\"caption-attachment-600496\" loading=\"lazy\" class=\"size-thumbnail wp-image-600496\" alt=\"Asamblea Hospital Infanta Sofia 9F\" src=\"http://alcosanse.tomalosbarrios.net/files/2013/02/CARTEL-150x150.jpg\" width=\"150\" height=\"150\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2013/02/CARTEL-150x150.jpg 150w, https://alcosanse.tomalosbarrios.net/files/2013/02/CARTEL-96x96.jpg 96w, https://alcosanse.tomalosbarrios.net/files/2013/02/CARTEL-24x24.jpg 24w, https://alcosanse.tomalosbarrios.net/files/2013/02/CARTEL-36x36.jpg 36w, https://alcosanse.tomalosbarrios.net/files/2013/02/CARTEL-48x48.jpg 48w, https://alcosanse.tomalosbarrios.net/files/2013/02/CARTEL-64x64.jpg 64w\" sizes=\"(max-width: 150px) 100vw, 150px\" /></a><p id=\"caption-attachment-600496\" class=\"wp-caption-text\">Asamblea por la Sanidad p\u00fablica</p></div>\n",
     "protected": false
   },
   "excerpt": {
@@ -2204,7 +2144,7 @@
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2245,14 +2185,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/600495/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 601444,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/600495/revisions/601444"
       }
     ],
     "wp:attachment": [
@@ -2306,7 +2240,7 @@
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2347,14 +2281,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/565796/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 578308,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/565796/revisions/578308"
       }
     ],
     "wp:attachment": [
@@ -2408,7 +2336,7 @@
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2450,14 +2378,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/524962/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 913635,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/524962/revisions/913635"
       }
     ],
     "wp:attachment": [
@@ -2502,16 +2424,16 @@
     "rendered": "Acto #stopMontajesPoliciales. Alfon &amp; \u00c1ngel absolucion."
   },
   "content": {
-    "rendered": "<div>Mural a grafitti, actuaciones y m\u00fasica en directo, intervenciones y entrega de mural a plataforma &#171;Alfon Libertad&#187;.</div>\n<p>&nbsp;</p>\n<div><a href=\"http://4.bp.blogspot.com/-ACYF-XfxqZE/UPgAE9AIVZI/AAAAAAAAArA/VWAyAfXTpXs/s1600/ALFOON2.jpg\"><img alt=\"\" src=\"http://4.bp.blogspot.com/-ACYF-XfxqZE/UPgAE9AIVZI/AAAAAAAAArA/VWAyAfXTpXs/s320/ALFOON2.jpg\" width=\"226\" height=\"320\" border=\"0\" /></a></div>\n<p>&nbsp;</p>\n<div></div>\n<div><span style=\"text-decoration: underline\">D\u00eda:</span>\u00a020 enero 2013. Hora: 12h-14h</div>\n<div><span style=\"text-decoration: underline\">Lugar</span>: finalmente se realizar\u00e1 en la\u00a0<b>Plaza de la Artesan\u00eda de Alcobendas,\u00a0</b>tras la negativa de la delegaci\u00f3n del gobierno de realizarlo en la Plaza de la Iglesia de San Pedro</div>\n<div></div>\n<div><span style=\"text-decoration: underline\">Bus:</span>\u00a0151 y 153 desde Pza. de Castilla.</div>\n<div><span style=\"text-decoration: underline\">Metro:</span>\u00a0Marqu\u00e9s de Valdavia</div>\n<div></div>\n<div><span style=\"text-decoration: underline\">Organiza</span>: Grupo de apoyo a Alfon y AlcoSanse frente a la reforma laboral.</div>\n<p>V\u00eda:\u00a0<a href=\"http://csiskra.blogspot.com.es/2013/01/domingo-20-enero-acto-de-apoyo-alfon-en.html\">http://csiskra.blogspot.com.es/2013/01/domingo-20-enero-acto-de-apoyo-alfon-en.html</a></p>\n",
+    "rendered": "<div>Mural a grafitti, actuaciones y m\u00fasica en directo, intervenciones y entrega de mural a plataforma \u00abAlfon Libertad\u00bb.</div>\n<p>&nbsp;</p>\n<div><a href=\"http://4.bp.blogspot.com/-ACYF-XfxqZE/UPgAE9AIVZI/AAAAAAAAArA/VWAyAfXTpXs/s1600/ALFOON2.jpg\"><img loading=\"lazy\" alt=\"\" src=\"http://4.bp.blogspot.com/-ACYF-XfxqZE/UPgAE9AIVZI/AAAAAAAAArA/VWAyAfXTpXs/s320/ALFOON2.jpg\" width=\"226\" height=\"320\" border=\"0\" /></a></div>\n<p>&nbsp;</p>\n<div></div>\n<div><span style=\"text-decoration: underline\">D\u00eda:</span>\u00a020 enero 2013. Hora: 12h-14h</div>\n<div><span style=\"text-decoration: underline\">Lugar</span>: finalmente se realizar\u00e1 en la\u00a0<b>Plaza de la Artesan\u00eda de Alcobendas,\u00a0</b>tras la negativa de la delegaci\u00f3n del gobierno de realizarlo en la Plaza de la Iglesia de San Pedro</div>\n<div></div>\n<div><span style=\"text-decoration: underline\">Bus:</span>\u00a0151 y 153 desde Pza. de Castilla.</div>\n<div><span style=\"text-decoration: underline\">Metro:</span>\u00a0Marqu\u00e9s de Valdavia</div>\n<div></div>\n<div><span style=\"text-decoration: underline\">Organiza</span>: Grupo de apoyo a Alfon y AlcoSanse frente a la reforma laboral.</div>\n<p>V\u00eda:\u00a0<a href=\"http://csiskra.blogspot.com.es/2013/01/domingo-20-enero-acto-de-apoyo-alfon-en.html\">http://csiskra.blogspot.com.es/2013/01/domingo-20-enero-acto-de-apoyo-alfon-en.html</a></p>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>Mural a grafitti, actuaciones y m\u00fasica en directo, intervenciones y entrega de mural a plataforma &#171;Alfon Libertad&#187;. &nbsp; &nbsp; D\u00eda:\u00a020 enero 2013. Hora: 12h-14h Lugar: finalmente se realizar\u00e1 en la\u00a0Plaza de la Artesan\u00eda de Alcobendas,\u00a0tras la negativa de la delegaci\u00f3n del gobierno de realizarlo en la Plaza de la Iglesia de San Pedro Bus:\u00a0151 y <a href='https://alcosanse.tomalosbarrios.net/2013/01/17/acto-stopmontajespoliciales-alfon-angel-absolucion/' class='excerpt-more'>[&#8230;]</a></p>\n",
+    "rendered": "<p>Mural a grafitti, actuaciones y m\u00fasica en directo, intervenciones y entrega de mural a plataforma \u00abAlfon Libertad\u00bb. &nbsp; &nbsp; D\u00eda:\u00a020 enero 2013. Hora: 12h-14h Lugar: finalmente se realizar\u00e1 en la\u00a0Plaza de la Artesan\u00eda de Alcobendas,\u00a0tras la negativa de la delegaci\u00f3n del gobierno de realizarlo en la Plaza de la Iglesia de San Pedro Bus:\u00a0151 y <a href='https://alcosanse.tomalosbarrios.net/2013/01/17/acto-stopmontajespoliciales-alfon-angel-absolucion/' class='excerpt-more'>[&#8230;]</a></p>\n",
     "protected": false
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2552,14 +2474,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/487903/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 487905,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/487903/revisions/487905"
       }
     ],
     "wp:attachment": [
@@ -2604,7 +2520,7 @@
     "rendered": "Conclusiones acto apoyo a Alfon"
   },
   "author": 1015,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2666,7 +2582,7 @@
     "rendered": "AlcoSanse AG 01062013"
   },
   "author": 1015,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2737,7 +2653,7 @@
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2778,14 +2694,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/472868/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 472873,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/472868/revisions/472873"
       }
     ],
     "wp:attachment": [
@@ -2839,7 +2749,7 @@
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2880,14 +2790,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/437813/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 437814,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/437813/revisions/437814"
       }
     ],
     "wp:attachment": [
@@ -2941,7 +2845,7 @@
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2982,14 +2886,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/436393/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 436395,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/436393/revisions/436395"
       }
     ],
     "wp:attachment": [
@@ -3034,7 +2932,7 @@
     "rendered": "Charla-coloquio sobre sanidad p\u00fablica, este martes en Alcobendas"
   },
   "content": {
-    "rendered": "<p>Tras la concentraci\u00f3n de hoy 15D contra la privatizaci\u00f3n del Hospital Infanta Sof\u00eda, vamos a dar el resto por una sanidad p\u00fablica de todos para todos:<br />\n#Domingo 16D: A las 9h en La Paz y a las 12h en Cibeles en la <span style=\"text-decoration: underline\">marea blanca</span>.<br />\n#Martes 18D: A las 19h en la Casa de las Asociaciones (C/C\u00e1ceres,18) en la <span style=\"text-decoration: underline\">charla-coloquio</span> que detallamos debajo.<br />\n#Mi\u00e9rcoles 19D: A las 18h <span style=\"text-decoration: underline\">rodeando la Asamblea</span> de Madrid contra los recortes que nos empobrecen. \u00a1Porque YO S\u00cd SANIDAD UNIVERSAL!</p>\n<p><strong>CHARLA-COLOQUIO &#171;Sanidad \u00a1P\u00fablica!&#187;</strong>:\u00a0 <span style=\"text-decoration: underline\">Martes</span> 18D, a las <strong>19:00h</strong> en la CASA DE LAS ASOCIACIONES de Alcobendas (C/C\u00e1ceres)<br />\nPonentes:<br />\n&#8211; \u00c1ngel Navarro (Coordinadora por la sanidad p\u00fablica)<br />\n&#8211; Carmen San Jos\u00e9 (Grupo de Sanidad 15M)<br />\n&#8211; \u00c1ngel Serrano (trabajador del Hospital Infanta Sof\u00eda)<br />\nOrganiza: Izquierda Ecologista.</p>\n",
+    "rendered": "<p>Tras la concentraci\u00f3n de hoy 15D contra la privatizaci\u00f3n del Hospital Infanta Sof\u00eda, vamos a dar el resto por una sanidad p\u00fablica de todos para todos:<br />\n#Domingo 16D: A las 9h en La Paz y a las 12h en Cibeles en la <span style=\"text-decoration: underline\">marea blanca</span>.<br />\n#Martes 18D: A las 19h en la Casa de las Asociaciones (C/C\u00e1ceres,18) en la <span style=\"text-decoration: underline\">charla-coloquio</span> que detallamos debajo.<br />\n#Mi\u00e9rcoles 19D: A las 18h <span style=\"text-decoration: underline\">rodeando la Asamblea</span> de Madrid contra los recortes que nos empobrecen. \u00a1Porque YO S\u00cd SANIDAD UNIVERSAL!</p>\n<p><strong>CHARLA-COLOQUIO \u00abSanidad \u00a1P\u00fablica!\u00bb</strong>:\u00a0 <span style=\"text-decoration: underline\">Martes</span> 18D, a las <strong>19:00h</strong> en la CASA DE LAS ASOCIACIONES de Alcobendas (C/C\u00e1ceres)<br />\nPonentes:<br />\n&#8211; \u00c1ngel Navarro (Coordinadora por la sanidad p\u00fablica)<br />\n&#8211; Carmen San Jos\u00e9 (Grupo de Sanidad 15M)<br />\n&#8211; \u00c1ngel Serrano (trabajador del Hospital Infanta Sof\u00eda)<br />\nOrganiza: Izquierda Ecologista.</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -3043,7 +2941,7 @@
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3086,14 +2984,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/305870/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 306105,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/305870/revisions/306105"
       }
     ],
     "wp:attachment": [
@@ -3138,7 +3030,7 @@
     "rendered": "Octavilla_DESAHUCIOS.pdf"
   },
   "author": 1015,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3200,7 +3092,7 @@
     "rendered": "OCTAVILLA_ampas_1cara.pdf"
   },
   "author": 1015,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3262,7 +3154,7 @@
     "rendered": "OCTAVILLA__ampas_2Caras.pdf"
   },
   "author": 1015,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3324,7 +3216,7 @@
     "rendered": "Manifiesto_Plataforma.pdf"
   },
   "author": 1015,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3386,7 +3278,7 @@
     "rendered": "Convocatoria_afectados.pdf"
   },
   "author": 1015,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3448,12 +3340,12 @@
     "rendered": "Cartel_Itinerario_15D.jpeg"
   },
   "author": 1015,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://alcosanse.tomalosbarrios.net/files/2012/12/Cartel_Itinerario_15D.jpg'><img width=\"212\" height=\"300\" src=\"https://alcosanse.tomalosbarrios.net/files/2012/12/Cartel_Itinerario_15D-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"Itinerario de la manifestaci\u00f3n\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2012/12/Cartel_Itinerario_15D-212x300.jpg 212w, https://alcosanse.tomalosbarrios.net/files/2012/12/Cartel_Itinerario_15D-723x1024.jpg 723w, https://alcosanse.tomalosbarrios.net/files/2012/12/Cartel_Itinerario_15D.jpg 1240w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://alcosanse.tomalosbarrios.net/files/2012/12/Cartel_Itinerario_15D.jpg'><img width=\"212\" height=\"300\" src=\"https://alcosanse.tomalosbarrios.net/files/2012/12/Cartel_Itinerario_15D-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"Itinerario de la manifestaci\u00f3n\" loading=\"lazy\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2012/12/Cartel_Itinerario_15D-212x300.jpg 212w, https://alcosanse.tomalosbarrios.net/files/2012/12/Cartel_Itinerario_15D-723x1024.jpg 723w, https://alcosanse.tomalosbarrios.net/files/2012/12/Cartel_Itinerario_15D.jpg 1240w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": "<p>Itinerario de la manifestaci\u00f3n</p>\n"
@@ -3596,7 +3488,7 @@
     "rendered": "Documentos: Manifestaci\u00f3n antidesahucios, s\u00e1bado 15"
   },
   "content": {
-    "rendered": "<p>Adjuntamos todos los documentos para difundir la manifestaci\u00f3n por la paralizaci\u00f3n de los desahucios, la daci\u00f3n en pago y el alquiler social.<br />\nEste s\u00e1bado 15 de Diciembre a las 12:00h, tras apoyar la concentraci\u00f3n a las 11:00h de los profesionales y usuarios del Hospital Infanta Sof\u00eda.</p>\n<p>-Itinerario previsto<br />\n-Octavillas<br />\n-Llamamiento por parte de los afectados<br />\n-Manifiesto de la plataforma antidesahucios de AlcoSanse</p>\n<p><a href='http://alcosanse.tomalosbarrios.net/files/2012/12/Octavilla_DESAHUCIOS.pdf'>Octavilla_DESAHUCIOS.pdf</a><br />\n<a href='http://alcosanse.tomalosbarrios.net/files/2012/12/Convocatoria_afectados.pdf'>Convocatoria_afectados.pdf</a><br />\n<div id=\"attachment_286440\" style=\"width: 160px\" class=\"wp-caption alignleft\"><a href=\"http://alcosanse.tomalosbarrios.net/files/2012/12/Cartel_Itinerario_15D.jpg\"><img aria-describedby=\"caption-attachment-286440\" src=\"http://alcosanse.tomalosbarrios.net/files/2012/12/Cartel_Itinerario_15D-150x150.jpg\" alt=\"Itinerario de la manifestaci\u00f3n\" width=\"150\" height=\"150\" class=\"size-thumbnail wp-image-286440\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2012/12/Cartel_Itinerario_15D-150x150.jpg 150w, https://alcosanse.tomalosbarrios.net/files/2012/12/Cartel_Itinerario_15D-96x96.jpg 96w, https://alcosanse.tomalosbarrios.net/files/2012/12/Cartel_Itinerario_15D-24x24.jpg 24w, https://alcosanse.tomalosbarrios.net/files/2012/12/Cartel_Itinerario_15D-36x36.jpg 36w, https://alcosanse.tomalosbarrios.net/files/2012/12/Cartel_Itinerario_15D-48x48.jpg 48w, https://alcosanse.tomalosbarrios.net/files/2012/12/Cartel_Itinerario_15D-64x64.jpg 64w\" sizes=\"(max-width: 150px) 100vw, 150px\" /></a><p id=\"caption-attachment-286440\" class=\"wp-caption-text\">Itinerario de la manifestaci\u00f3n</p></div><br />\n<a href='http://alcosanse.tomalosbarrios.net/files/2012/12/OCTAVILLA_ampas_1cara.pdf'>OCTAVILLA_ampas_1cara.pdf</a><br />\n<a href='http://alcosanse.tomalosbarrios.net/files/2012/12/OCTAVILLA__ampas_2Caras.pdf'>OCTAVILLA__ampas_2Caras.pdf</a><br />\n<a href='http://alcosanse.tomalosbarrios.net/files/2012/12/Manifiesto_Plataforma.pdf'>Manifiesto_Plataforma.pdf</a></p>\n",
+    "rendered": "<p>Adjuntamos todos los documentos para difundir la manifestaci\u00f3n por la paralizaci\u00f3n de los desahucios, la daci\u00f3n en pago y el alquiler social.<br />\nEste s\u00e1bado 15 de Diciembre a las 12:00h, tras apoyar la concentraci\u00f3n a las 11:00h de los profesionales y usuarios del Hospital Infanta Sof\u00eda.</p>\n<p>-Itinerario previsto<br />\n-Octavillas<br />\n-Llamamiento por parte de los afectados<br />\n-Manifiesto de la plataforma antidesahucios de AlcoSanse</p>\n<p><a href='http://alcosanse.tomalosbarrios.net/files/2012/12/Octavilla_DESAHUCIOS.pdf'>Octavilla_DESAHUCIOS.pdf</a><br />\n<a href='http://alcosanse.tomalosbarrios.net/files/2012/12/Convocatoria_afectados.pdf'>Convocatoria_afectados.pdf</a><br />\n<div id=\"attachment_286440\" style=\"width: 160px\" class=\"wp-caption alignleft\"><a href=\"http://alcosanse.tomalosbarrios.net/files/2012/12/Cartel_Itinerario_15D.jpg\"><img aria-describedby=\"caption-attachment-286440\" loading=\"lazy\" src=\"http://alcosanse.tomalosbarrios.net/files/2012/12/Cartel_Itinerario_15D-150x150.jpg\" alt=\"Itinerario de la manifestaci\u00f3n\" width=\"150\" height=\"150\" class=\"size-thumbnail wp-image-286440\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2012/12/Cartel_Itinerario_15D-150x150.jpg 150w, https://alcosanse.tomalosbarrios.net/files/2012/12/Cartel_Itinerario_15D-96x96.jpg 96w, https://alcosanse.tomalosbarrios.net/files/2012/12/Cartel_Itinerario_15D-24x24.jpg 24w, https://alcosanse.tomalosbarrios.net/files/2012/12/Cartel_Itinerario_15D-36x36.jpg 36w, https://alcosanse.tomalosbarrios.net/files/2012/12/Cartel_Itinerario_15D-48x48.jpg 48w, https://alcosanse.tomalosbarrios.net/files/2012/12/Cartel_Itinerario_15D-64x64.jpg 64w\" sizes=\"(max-width: 150px) 100vw, 150px\" /></a><p id=\"caption-attachment-286440\" class=\"wp-caption-text\">Itinerario de la manifestaci\u00f3n</p></div><br />\n<a href='http://alcosanse.tomalosbarrios.net/files/2012/12/OCTAVILLA_ampas_1cara.pdf'>OCTAVILLA_ampas_1cara.pdf</a><br />\n<a href='http://alcosanse.tomalosbarrios.net/files/2012/12/OCTAVILLA__ampas_2Caras.pdf'>OCTAVILLA__ampas_2Caras.pdf</a><br />\n<a href='http://alcosanse.tomalosbarrios.net/files/2012/12/Manifiesto_Plataforma.pdf'>Manifiesto_Plataforma.pdf</a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -3605,7 +3497,7 @@
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3646,14 +3538,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/286439/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 286446,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/286439/revisions/286446"
       }
     ],
     "wp:attachment": [
@@ -3698,12 +3584,12 @@
     "rendered": "Cartel #15D"
   },
   "author": 1015,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://alcosanse.tomalosbarrios.net/files/2012/12/cartel-mani-15_12_2012.png'><img width=\"212\" height=\"300\" src=\"https://alcosanse.tomalosbarrios.net/files/2012/12/cartel-mani-15_12_2012-212x300.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2012/12/cartel-mani-15_12_2012-212x300.png 212w, https://alcosanse.tomalosbarrios.net/files/2012/12/cartel-mani-15_12_2012-723x1024.png 723w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://alcosanse.tomalosbarrios.net/files/2012/12/cartel-mani-15_12_2012.png'><img width=\"212\" height=\"300\" src=\"https://alcosanse.tomalosbarrios.net/files/2012/12/cartel-mani-15_12_2012-212x300.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2012/12/cartel-mani-15_12_2012-212x300.png 212w, https://alcosanse.tomalosbarrios.net/files/2012/12/cartel-mani-15_12_2012-723x1024.png 723w, https://alcosanse.tomalosbarrios.net/files/2012/12/cartel-mani-15_12_2012.png 1619w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3846,7 +3732,7 @@
     "rendered": "Cartel para la manifestaci\u00f3n del #15D por el fin de los desahucios"
   },
   "content": {
-    "rendered": "<p><a href=\"http://alcosanse.tomalosbarrios.net/files/2012/12/cartel-mani-15_12_2012.png\"><img class=\"alignnone size-large wp-image-275016\" src=\"http://alcosanse.tomalosbarrios.net/files/2012/12/cartel-mani-15_12_2012-723x1024.png\" alt=\"\" width=\"695\" height=\"984\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2012/12/cartel-mani-15_12_2012-723x1024.png 723w, https://alcosanse.tomalosbarrios.net/files/2012/12/cartel-mani-15_12_2012-212x300.png 212w\" sizes=\"(max-width: 695px) 100vw, 695px\" /></a></p>\n<p>&nbsp;</p>\n",
+    "rendered": "<p><a href=\"http://alcosanse.tomalosbarrios.net/files/2012/12/cartel-mani-15_12_2012.png\"><img loading=\"lazy\" class=\"alignnone size-large wp-image-275016\" src=\"http://alcosanse.tomalosbarrios.net/files/2012/12/cartel-mani-15_12_2012-723x1024.png\" alt=\"\" width=\"695\" height=\"984\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2012/12/cartel-mani-15_12_2012-723x1024.png 723w, https://alcosanse.tomalosbarrios.net/files/2012/12/cartel-mani-15_12_2012-212x300.png 212w, https://alcosanse.tomalosbarrios.net/files/2012/12/cartel-mani-15_12_2012.png 1619w\" sizes=\"(max-width: 695px) 100vw, 695px\" /></a></p>\n<p>&nbsp;</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -3855,7 +3741,7 @@
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3896,14 +3782,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/275015/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 285969,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/275015/revisions/285969"
       }
     ],
     "wp:attachment": [
@@ -3948,16 +3828,16 @@
     "rendered": "Charla informativa sobre Sanidad, mi\u00e9rcoles 12 en Sanse"
   },
   "content": {
-    "rendered": "<p>Alentamos a asistir a la <strong>charla informativa</strong> &#171;<em>SANIDAD P\u00daBLICA: De todos para todos</em>&#171;, que este <strong>mi\u00e9rcoles 12</strong> de Diciembre <strong>a las 18h</strong> ofrecen los siguientes ponentes de nuestro Hospital Infanta Sof\u00eda:</p>\n<ul>\n<li>Doctor Jes\u00fas Torres. Jefe del Servicio de Cirug\u00eda general y digestiva.</li>\n</ul>\n<ul>\n<li>Doctora M Teresa Ramirez. Jefa de la Secci\u00f3n de neumolog\u00eda.</li>\n</ul>\n<ul>\n<li>Doctor Ramiro L\u00f3pez Menchaca, FEA (Facultativo Especialista de \u00c1rea) Medicina Interna</li>\n</ul>\n<ul>\n<li>Doctor \u00c1ngel Serrano, FEA Anestesiolog\u00eda y Reanimaci\u00f3n.</li>\n</ul>\n<ul>\n<li>Paz Ventosinos, TCAE (T\u00e9cnico en Cuidados Auxiliares de Enfermer\u00eda)</li>\n</ul>\n<p>Tendr\u00e1 lugar en el <strong>CENTRO DE FORMACION OCUPACIONAL</strong> (C/ Ram\u00f3n y Cajal, n\u00ba15) de San Sebasti\u00e1n de los Reyes.</p>\n<p>Organiza: AAVV Sanse.</p>\n<p>&nbsp;</p>\n",
+    "rendered": "<p>Alentamos a asistir a la <strong>charla informativa</strong> \u00ab<em>SANIDAD P\u00daBLICA: De todos para todos</em>\u00ab, que este <strong>mi\u00e9rcoles 12</strong> de Diciembre <strong>a las 18h</strong> ofrecen los siguientes ponentes de nuestro Hospital Infanta Sof\u00eda:</p>\n<ul>\n<li>Doctor Jes\u00fas Torres. Jefe del Servicio de Cirug\u00eda general y digestiva.</li>\n</ul>\n<ul>\n<li>Doctora M Teresa Ramirez. Jefa de la Secci\u00f3n de neumolog\u00eda.</li>\n</ul>\n<ul>\n<li>Doctor Ramiro L\u00f3pez Menchaca, FEA (Facultativo Especialista de \u00c1rea) Medicina Interna</li>\n</ul>\n<ul>\n<li>Doctor \u00c1ngel Serrano, FEA Anestesiolog\u00eda y Reanimaci\u00f3n.</li>\n</ul>\n<ul>\n<li>Paz Ventosinos, TCAE (T\u00e9cnico en Cuidados Auxiliares de Enfermer\u00eda)</li>\n</ul>\n<p>Tendr\u00e1 lugar en el <strong>CENTRO DE FORMACION OCUPACIONAL</strong> (C/ Ram\u00f3n y Cajal, n\u00ba15) de San Sebasti\u00e1n de los Reyes.</p>\n<p>Organiza: AAVV Sanse.</p>\n<p>&nbsp;</p>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>Alentamos a asistir a la charla informativa &#171;SANIDAD P\u00daBLICA: De todos para todos&#171;, que este mi\u00e9rcoles 12 de Diciembre a las 18h ofrecen los siguientes ponentes de nuestro Hospital Infanta Sof\u00eda: Doctor Jes\u00fas Torres. Jefe del Servicio de Cirug\u00eda general y digestiva. Doctora M Teresa Ramirez. Jefa de la Secci\u00f3n de neumolog\u00eda. Doctor Ramiro L\u00f3pez <a href='https://alcosanse.tomalosbarrios.net/2012/12/07/charla-informativa-sobre-sanidad-miercoles-12-en-sanse/' class='excerpt-more'>[&#8230;]</a></p>\n",
+    "rendered": "<p>Alentamos a asistir a la charla informativa \u00abSANIDAD P\u00daBLICA: De todos para todos\u00ab, que este mi\u00e9rcoles 12 de Diciembre a las 18h ofrecen los siguientes ponentes de nuestro Hospital Infanta Sof\u00eda: Doctor Jes\u00fas Torres. Jefe del Servicio de Cirug\u00eda general y digestiva. Doctora M Teresa Ramirez. Jefa de la Secci\u00f3n de neumolog\u00eda. Doctor Ramiro L\u00f3pez <a href='https://alcosanse.tomalosbarrios.net/2012/12/07/charla-informativa-sobre-sanidad-miercoles-12-en-sanse/' class='excerpt-more'>[&#8230;]</a></p>\n",
     "protected": false
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4000,14 +3880,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/259170/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 259172,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/259170/revisions/259172"
       }
     ],
     "wp:attachment": [
@@ -4061,7 +3935,7 @@
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4102,14 +3976,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/252700/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 252701,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/252700/revisions/252701"
       }
     ],
     "wp:attachment": [
@@ -4154,7 +4022,7 @@
     "rendered": "UNETE"
   },
   "author": 1015,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -4216,7 +4084,7 @@
     "rendered": "Manifiesto_v1"
   },
   "author": 1015,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -4287,7 +4155,7 @@
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4331,14 +4199,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/251539/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 681032,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/251539/revisions/681032"
       }
     ],
     "wp:attachment": [
@@ -4392,7 +4254,7 @@
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4433,14 +4295,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/223992/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 223993,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/223992/revisions/223993"
       }
     ],
     "wp:attachment": [
@@ -4485,7 +4341,7 @@
     "rendered": "Octavilla-manifestaci\u00f3n definitiva 2 dic"
   },
   "author": 1015,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -4547,12 +4403,12 @@
     "rendered": "cartel mani sanidad"
   },
   "author": 1015,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-mani-sanidad.jpg'><img width=\"212\" height=\"300\" src=\"https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-mani-sanidad-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-mani-sanidad-212x300.jpg 212w, https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-mani-sanidad-724x1024.jpg 724w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-mani-sanidad.jpg'><img width=\"212\" height=\"300\" src=\"https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-mani-sanidad-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-mani-sanidad-212x300.jpg 212w, https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-mani-sanidad-724x1024.jpg 724w, https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-mani-sanidad.jpg 1754w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4695,7 +4551,7 @@
     "rendered": "Octavilla-manifestaci\u00f3n definitiva 2 dic"
   },
   "author": 1015,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -4757,7 +4613,7 @@
     "rendered": "#2D &#8211; Jornada de Defensa de la sanidad p\u00fablica en AlcoSanse"
   },
   "content": {
-    "rendered": "<p style=\"text-align: justify\">El pr\u00f3ximo Domingo d\u00eda 2 de Diciembre, todos los sanitarios y pacientes de AlcoSanse y alrededores estamos convocados a una nueva jornada de lucha en defensa de la sanidad p\u00fablica.</p>\n<p style=\"text-align: justify\">Tras el anuncio del gobierno regional del la nueva ola privatizadora en la sanidad que afectar\u00e1 entre otros al hospital Infanta Sof\u00eda, los <strong>sanitarios</strong> se hallan en lucha con el gobierno para frenar dichos planes privatizadores. Igualmente, los <strong>usuarios</strong> de los servicios sanitarios, como afectados que seremos por estos cambios, estamos igualmente llamados a unirnos a las diversas movilizaciones que desde los hospitales se convoquen.</p>\n<p style=\"text-align: justify\">El encierro del hospital Infanta sof\u00eda en convergencia con otras asociaciones de AlcoSanse, entre ellas el 15M, decidieron convocar para el d\u00eda 2 de Diciembre una manifestaci\u00f3n por los 2 pueblos, acto que se llevar\u00e1 a cabo tras el acto &#171;ABRAZA TU HOSPITAL&#187;.</p>\n<p><strong>Antecedentes</strong></p>\n<p>Hace m\u00e1s de una d\u00e9cada, con la introducci\u00f3n del Decreto 15/1997 por PP-PSOE, se empez\u00f3 la privatizaci\u00f3n de la sanidad p\u00fablica, esto es, hacer de la salud un negocio. As\u00ed el grupo Ribera Salud (participado por Bankia y SabadellCAM) tiene anualmente varios millones de euros de beneficios, al igual que otra multinacional, Capio Sanidad, muy favorecida por varios gobiernos auton\u00f3micos. Beneficios que obtienen aumentando la ratio de pacientes/enfermera, disminuyendo las prestaciones qued\u00e1ndose s\u00f3lo con las m\u00e1s rentables&#8230;</p>\n<p>Ahora el real decreto 16/2012 directamente atenta contra el modelo sanitario espa\u00f1ol: La cobertura deja de ser universal y pasa a ser un modelo de tipo p\u00f3liza (ya no tienen derecho los que no tengan contrato de trabajo, o los mayores de 26 a\u00f1os que est\u00e9n en paro aunque su padre s\u00ed cotize&#8230; y m\u00e1s colectivos que tendr\u00e1n que pagarse un seguro para ser atendidos). La cartera se reduce a una cartera b\u00e1sica con copago y una cartera suplementaria de pago completo, as\u00ed como un aumento del precio de los medicamentos, incluso para pensionistas con una pensi\u00f3n de 650\u20ac. Es m\u00e1s, ya han declarado que a ellos les gustar\u00eda que pag\u00e1semos por cada visita al m\u00e9dico, parece pues claro de parte de qui\u00e9n est\u00e1n.</p>\n<p>La sanidad p\u00fablica, una de las mayores conquistas sociales, est\u00e1 siendo vendida trozo a trozo. No hay derecho a este atropello. Por eso este domingo saldremos a la calle a defender nuestro futuro, sabes que nos jugamos mucho en ello. No faltes.</p>\n<p>&nbsp;</p>\n<p>Este\u00a0<strong>domingo 2 de Diciembre</strong>\u00a0se llevar\u00e1n a cabo las siguientes acciones:</p>\n<p><strong>11:00h</strong>\u00a0ABRAZA TU HOSPITAL &#8211;&gt; Se formar\u00e1 una cadena humana alrededor del Hospital\u00a0<em>Infanta Sof\u00eda</em>, el cu\u00e1l quieren vender completamente.</p>\n<p><strong>12:00h</strong>\u00a0MANIFESTACI\u00d3N &#8211;&gt; Desde el Ayuntamiento de S.S.De los Reyes hasta el Ayuntamiento de Alcobendas.</p>\n<p>&nbsp;</p>\n<p><strong>Material gr\u00e1fico</strong></p>\n\n\t\t<style type='text/css'>\n\t\t\t#gallery-1 {\n\t\t\t\tmargin: auto;\n\t\t\t}\n\t\t\t#gallery-1 .gallery-item {\n\t\t\t\tfloat: left;\n\t\t\t\tmargin-top: 10px;\n\t\t\t\ttext-align: center;\n\t\t\t\twidth: 33%;\n\t\t\t}\n\t\t\t#gallery-1 img {\n\t\t\t\tborder: 2px solid #cfcfcf;\n\t\t\t}\n\t\t\t#gallery-1 .gallery-caption {\n\t\t\t\tmargin-left: 0;\n\t\t\t}\n\t\t\t/* see gallery_shortcode() in wp-includes/media.php */\n\t\t</style>\n\t\t<div id='gallery-1' class='gallery galleryid-209156 gallery-columns-3 gallery-size-thumbnail'><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-mani-sanidad.jpg'><img width=\"150\" height=\"150\" src=\"https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-mani-sanidad-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-mani-sanidad-150x150.jpg 150w, https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-mani-sanidad-96x96.jpg 96w, https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-mani-sanidad-24x24.jpg 24w, https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-mani-sanidad-36x36.jpg 36w, https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-mani-sanidad-48x48.jpg 48w, https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-mani-sanidad-64x64.jpg 64w\" sizes=\"(max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</dt></dl>\n\t\t\t<br style='clear: both' />\n\t\t</div>\n\n<p style=\"text-align: justify\"><a href=\"http://alcosanse.tomalosbarrios.net/files/2012/11/Octavilla-manifestaci\u00f3n-definitiva-2-dic1.pdf\">Octavilla-manifestaci\u00f3n definitiva 2 dic</a>.pdf</p>\n<p style=\"text-align: justify\">\n<h1><strong>Somos m\u00e9dicos, somos pacientes y nuestra sanidad no se vende. Defend\u00e1mosla.</strong></h1>\n",
+    "rendered": "<p style=\"text-align: justify\">El pr\u00f3ximo Domingo d\u00eda 2 de Diciembre, todos los sanitarios y pacientes de AlcoSanse y alrededores estamos convocados a una nueva jornada de lucha en defensa de la sanidad p\u00fablica.</p>\n<p style=\"text-align: justify\">Tras el anuncio del gobierno regional del la nueva ola privatizadora en la sanidad que afectar\u00e1 entre otros al hospital Infanta Sof\u00eda, los <strong>sanitarios</strong> se hallan en lucha con el gobierno para frenar dichos planes privatizadores. Igualmente, los <strong>usuarios</strong> de los servicios sanitarios, como afectados que seremos por estos cambios, estamos igualmente llamados a unirnos a las diversas movilizaciones que desde los hospitales se convoquen.</p>\n<p style=\"text-align: justify\">El encierro del hospital Infanta sof\u00eda en convergencia con otras asociaciones de AlcoSanse, entre ellas el 15M, decidieron convocar para el d\u00eda 2 de Diciembre una manifestaci\u00f3n por los 2 pueblos, acto que se llevar\u00e1 a cabo tras el acto \u00abABRAZA TU HOSPITAL\u00bb.</p>\n<p><strong>Antecedentes</strong></p>\n<p>Hace m\u00e1s de una d\u00e9cada, con la introducci\u00f3n del Decreto 15/1997 por PP-PSOE, se empez\u00f3 la privatizaci\u00f3n de la sanidad p\u00fablica, esto es, hacer de la salud un negocio. As\u00ed el grupo Ribera Salud (participado por Bankia y SabadellCAM) tiene anualmente varios millones de euros de beneficios, al igual que otra multinacional, Capio Sanidad, muy favorecida por varios gobiernos auton\u00f3micos. Beneficios que obtienen aumentando la ratio de pacientes/enfermera, disminuyendo las prestaciones qued\u00e1ndose s\u00f3lo con las m\u00e1s rentables&#8230;</p>\n<p>Ahora el real decreto 16/2012 directamente atenta contra el modelo sanitario espa\u00f1ol: La cobertura deja de ser universal y pasa a ser un modelo de tipo p\u00f3liza (ya no tienen derecho los que no tengan contrato de trabajo, o los mayores de 26 a\u00f1os que est\u00e9n en paro aunque su padre s\u00ed cotize&#8230; y m\u00e1s colectivos que tendr\u00e1n que pagarse un seguro para ser atendidos). La cartera se reduce a una cartera b\u00e1sica con copago y una cartera suplementaria de pago completo, as\u00ed como un aumento del precio de los medicamentos, incluso para pensionistas con una pensi\u00f3n de 650\u20ac. Es m\u00e1s, ya han declarado que a ellos les gustar\u00eda que pag\u00e1semos por cada visita al m\u00e9dico, parece pues claro de parte de qui\u00e9n est\u00e1n.</p>\n<p>La sanidad p\u00fablica, una de las mayores conquistas sociales, est\u00e1 siendo vendida trozo a trozo. No hay derecho a este atropello. Por eso este domingo saldremos a la calle a defender nuestro futuro, sabes que nos jugamos mucho en ello. No faltes.</p>\n<p>&nbsp;</p>\n<p>Este\u00a0<strong>domingo 2 de Diciembre</strong>\u00a0se llevar\u00e1n a cabo las siguientes acciones:</p>\n<p><strong>11:00h</strong>\u00a0ABRAZA TU HOSPITAL &#8211;&gt; Se formar\u00e1 una cadena humana alrededor del Hospital\u00a0<em>Infanta Sof\u00eda</em>, el cu\u00e1l quieren vender completamente.</p>\n<p><strong>12:00h</strong>\u00a0MANIFESTACI\u00d3N &#8211;&gt; Desde el Ayuntamiento de S.S.De los Reyes hasta el Ayuntamiento de Alcobendas.</p>\n<p>&nbsp;</p>\n<p><strong>Material gr\u00e1fico</strong></p>\n\n\t\t<style type=\"text/css\">\n\t\t\t#gallery-1 {\n\t\t\t\tmargin: auto;\n\t\t\t}\n\t\t\t#gallery-1 .gallery-item {\n\t\t\t\tfloat: left;\n\t\t\t\tmargin-top: 10px;\n\t\t\t\ttext-align: center;\n\t\t\t\twidth: 33%;\n\t\t\t}\n\t\t\t#gallery-1 img {\n\t\t\t\tborder: 2px solid #cfcfcf;\n\t\t\t}\n\t\t\t#gallery-1 .gallery-caption {\n\t\t\t\tmargin-left: 0;\n\t\t\t}\n\t\t\t/* see gallery_shortcode() in wp-includes/media.php */\n\t\t</style>\n\t\t<div id='gallery-1' class='gallery galleryid-209156 gallery-columns-3 gallery-size-thumbnail'><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-mani-sanidad.jpg'><img width=\"150\" height=\"150\" src=\"https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-mani-sanidad-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-mani-sanidad-150x150.jpg 150w, https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-mani-sanidad-96x96.jpg 96w, https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-mani-sanidad-24x24.jpg 24w, https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-mani-sanidad-36x36.jpg 36w, https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-mani-sanidad-48x48.jpg 48w, https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-mani-sanidad-64x64.jpg 64w\" sizes=\"(max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</dt></dl>\n\t\t\t<br style='clear: both' />\n\t\t</div>\n\n<p style=\"text-align: justify\"><a href=\"http://alcosanse.tomalosbarrios.net/files/2012/11/Octavilla-manifestaci\u00f3n-definitiva-2-dic1.pdf\">Octavilla-manifestaci\u00f3n definitiva 2 dic</a>.pdf</p>\n<p style=\"text-align: justify\">\n<h1><strong>Somos m\u00e9dicos, somos pacientes y nuestra sanidad no se vende. Defend\u00e1mosla.</strong></h1>\n",
     "protected": false
   },
   "excerpt": {
@@ -4766,7 +4622,7 @@
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4807,14 +4663,8 @@
     ],
     "version-history": [
       {
-        "count": 10,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/209156/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 209166,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/209156/revisions/209166"
       }
     ],
     "wp:attachment": [
@@ -4859,16 +4709,16 @@
     "rendered": "Martes 27, homenaje a la Plataforma de Afectados por la Hipoteca en Alcobendas"
   },
   "content": {
-    "rendered": "<p><span>Este <strong>martes 27</strong> de Noviembre a las <strong>19:30 h</strong> en el centro cultural Pablo Iglesias, el grupo de vivienda presentar\u00e1 a la Plataforma de Afectados por la Hipoteca, quien recibe merecidamente el premio &#171;Democracia Participativa 2012&#187; dentro del acto &#171;Reflexiones sobre la democracia: \u00bfestamos preparados para la democracia participativa?&#187;.</span></p>\n<p><span>Programa:<br />\n</span></p>\n<p><span>* Ponencia virtual del profesor Federico Mayor Zaragoza (ex-director general de la UNESCO) sobre democracia, seguida de una charla-coloquio sobre democracia participativa.<br />\n* PRESENTACI\u00d3N DE LA PAH Y ENTREGA DEL PREMIO DEMOCRACIA PARTICIPATIVA 2012 A LA PLATAFORMA DE AFECTADOS POR LA HIPOTECA<br />\n* Actuaci\u00f3n teatral, a cargo de los bufones Lady Chusta y Ambrosio.<br />\n* Poes\u00edas dedicadas, a cargo de Eduardo Andradas y Tom\u00e1s M. Serna.</span></p>\n<p>Organizado por la asociaci\u00f3n Impulso Participativo, ser\u00e1 en el sal\u00f3n de actos del C.C. Pablo Iglesias (Paseo de la Chopera, 59. ALCOBENDAS)</p>\n<p>Metro: Marques de la Valdavia (L10).\u00a0 Renfe: Valdelasfuentes (C1). Autob\u00fas: 154 (Plza.Castilla)</p>\n<p>&nbsp;</p>\n",
+    "rendered": "<p><span>Este <strong>martes 27</strong> de Noviembre a las <strong>19:30 h</strong> en el centro cultural Pablo Iglesias, el grupo de vivienda presentar\u00e1 a la Plataforma de Afectados por la Hipoteca, quien recibe merecidamente el premio \u00abDemocracia Participativa 2012\u00bb dentro del acto \u00abReflexiones sobre la democracia: \u00bfestamos preparados para la democracia participativa?\u00bb.</span></p>\n<p><span>Programa:<br />\n</span></p>\n<p><span>* Ponencia virtual del profesor Federico Mayor Zaragoza (ex-director general de la UNESCO) sobre democracia, seguida de una charla-coloquio sobre democracia participativa.<br />\n* PRESENTACI\u00d3N DE LA PAH Y ENTREGA DEL PREMIO DEMOCRACIA PARTICIPATIVA 2012 A LA PLATAFORMA DE AFECTADOS POR LA HIPOTECA<br />\n* Actuaci\u00f3n teatral, a cargo de los bufones Lady Chusta y Ambrosio.<br />\n* Poes\u00edas dedicadas, a cargo de Eduardo Andradas y Tom\u00e1s M. Serna.</span></p>\n<p>Organizado por la asociaci\u00f3n Impulso Participativo, ser\u00e1 en el sal\u00f3n de actos del C.C. Pablo Iglesias (Paseo de la Chopera, 59. ALCOBENDAS)</p>\n<p>Metro: Marques de la Valdavia (L10).\u00a0 Renfe: Valdelasfuentes (C1). Autob\u00fas: 154 (Plza.Castilla)</p>\n<p>&nbsp;</p>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>Este martes 27 de Noviembre a las 19:30 h en el centro cultural Pablo Iglesias, el grupo de vivienda presentar\u00e1 a la Plataforma de Afectados por la Hipoteca, quien recibe merecidamente el premio &#171;Democracia Participativa 2012&#187; dentro del acto &#171;Reflexiones sobre la democracia: \u00bfestamos preparados para la democracia participativa?&#187;. Programa: * Ponencia virtual del profesor <a href='https://alcosanse.tomalosbarrios.net/2012/11/25/martes-27-homenaje-a-la-plataforma-de-afectados-por-la-hipoteca/' class='excerpt-more'>[&#8230;]</a></p>\n",
+    "rendered": "<p>Este martes 27 de Noviembre a las 19:30 h en el centro cultural Pablo Iglesias, el grupo de vivienda presentar\u00e1 a la Plataforma de Afectados por la Hipoteca, quien recibe merecidamente el premio \u00abDemocracia Participativa 2012\u00bb dentro del acto \u00abReflexiones sobre la democracia: \u00bfestamos preparados para la democracia participativa?\u00bb. Programa: * Ponencia virtual del profesor <a href='https://alcosanse.tomalosbarrios.net/2012/11/25/martes-27-homenaje-a-la-plataforma-de-afectados-por-la-hipoteca/' class='excerpt-more'>[&#8230;]</a></p>\n",
     "protected": false
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4909,14 +4759,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/191596/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 191598,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/191596/revisions/191598"
       }
     ],
     "wp:attachment": [
@@ -4961,12 +4805,12 @@
     "rendered": "CARTEL COLOR"
   },
   "author": 1015,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-121.jpg'><img width=\"212\" height=\"300\" src=\"https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-121-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"Cartel charla 17N sanidad y salud\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-121-212x300.jpg 212w, https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-121-724x1024.jpg 724w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-121.jpg'><img width=\"212\" height=\"300\" src=\"https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-121-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"Cartel charla 17N sanidad y salud\" loading=\"lazy\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-121-212x300.jpg 212w, https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-121-724x1024.jpg 724w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -5109,12 +4953,12 @@
     "rendered": "Cartel BN"
   },
   "author": 1015,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-bn-Charla-17-11-12.jpg'><img width=\"212\" height=\"300\" src=\"https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-bn-Charla-17-11-12-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"Cartel BlancoNegro\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-bn-Charla-17-11-12-212x300.jpg 212w, https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-bn-Charla-17-11-12-724x1024.jpg 724w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-bn-Charla-17-11-12.jpg'><img width=\"212\" height=\"300\" src=\"https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-bn-Charla-17-11-12-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"Cartel BlancoNegro\" loading=\"lazy\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-bn-Charla-17-11-12-212x300.jpg 212w, https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-bn-Charla-17-11-12-724x1024.jpg 724w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": "<p>Cartel charla 17N sobre sanidad y salud</p>\n"
@@ -5257,7 +5101,7 @@
     "rendered": "CRISIS, SANIDAD y SALUD: Conferencia este s\u00e1bado 17N a las 12h en Alcobendas"
   },
   "content": {
-    "rendered": "<p>JORNADA\u00a0 \u201cEL IMPACTO DE LA CRISIS EN LA SALUD\u201d</p>\n<p>El <strong>s\u00e1bado</strong><strong> </strong><strong>17</strong><strong> </strong><strong>de</strong><strong> </strong><strong>noviembre</strong><strong> </strong><strong>a</strong><strong> </strong><strong>las</strong><strong> </strong><strong>12</strong>\u00a0 hs en la <strong>Casa</strong><strong> </strong><strong>de</strong><strong> </strong><strong>las</strong><strong> </strong><strong>Asociaciones</strong><strong> </strong><strong>de</strong><strong> </strong><strong>Alcobendas,</strong><strong> </strong><strong>calle</strong><strong> </strong><strong>C\u00e1ceres</strong><strong> </strong><strong>n\u00famero</strong><strong> </strong><strong>18</strong> tendr\u00e1 lugar una conferencia sobre el tema <strong><span style=\"text-decoration: underline\">\u201cEl impacto de la crisis en la salud\u201d</span></strong><strong><span style=\"text-decoration: underline\">.</span></strong><strong> </strong></p>\n<p>Organizada por la <strong>Asamblea</strong><strong> </strong><strong>Ciudadana</strong><strong> </strong><strong>15</strong><strong> </strong><strong>M</strong><strong> </strong><strong>de</strong><strong> </strong><strong>AlcoSanse</strong> varios profesionales de la medicina, colectivos de inmigrantes y ciudadanos intercambiar\u00e1n informaci\u00f3n sobre como la crisis que estamos viviendo afecta a nuestra salud y el estado de la sanidad p\u00fablica en nuestro pa\u00eds despu\u00e9s del Real Decreto Ley 16/2012.</p>\n<p>Al acto est\u00e1 prevista la asistencia como ponentes de:</p>\n<p>+ Un m\u00e9dico salubrista (especialista en sanidad p\u00fablica)</p>\n<p>+ Miembro de Ferine (federaci\u00f3n estatal de emigrantes)</p>\n<p>+ M\u00e9dica de familia.</p>\n<p>Esta jornada se plantea con dos objetivos principalmente.</p>\n<p>Uno es dar a conocer el <strong>grupo de sanidad del 15M de AlcoSanse</strong> e invitar a la ciudadan\u00eda a trabajar con nosotras y nosotros los temas de salud y sanidad que nos preocupan como vecinos y vecinas de estos pueblos.</p>\n<p>El segundo es dar a conocer en qu\u00e9 medida<strong> la crisis afecta nuestra salud</strong>. Y como el <strong>Real</strong><strong> </strong><strong>Decreto-Ley</strong><strong> </strong><strong>16/2012</strong> de 20 de abril en concreto <strong>desmantela sanidad p\u00fablica</strong>. Los recortes que sufrir\u00e1n colectivos como inmigrantes sin papeles, parados que hayan agotado el subsidio y no se inscriban en las oficinas de desempleo. Modificaciones en prestaciones sanitarias, medicamentos excluidos del Sistema Nacional de Salud, re-copago.</p>\n<p>En qu\u00e9 afectan los recortes en el tratamiento, atenci\u00f3n primaria, enfermedades cr\u00f3nicas de los ciudadanos. Las consecuencias que tendr\u00e1 sobre la salud el recorte de las prestaciones actuales. Lo que est\u00e1 ocurriendo en sanidad: <strong>\u00bfEs</strong><strong> </strong><strong>la</strong><strong> </strong><strong>crisis</strong><strong> </strong><strong>o</strong><strong> </strong><strong>el</strong><strong> </strong><strong>modelo</strong><strong> </strong><strong>de</strong><strong> </strong><strong>actuaci\u00f3n</strong><strong> </strong><strong>pol\u00edtico</strong><strong> </strong><strong>y</strong><strong> </strong><strong>social?</strong></p>\n<p>&nbsp;</p>\n<p><strong>Nos preocupan las personas, nos preocupa tu salud. </strong></p>\n<p><strong>Acude este s\u00e1bado 17 de Noviembre a las 12:00h a la Casa de las Asociaciones de Alcobendas.</strong></p>\n<p>&nbsp;</p>\n<div>\n<dl>\n<dt><a href=\"http://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-bn-Charla-17-11-12.jpg\"><img src=\"http://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-bn-Charla-17-11-12-150x150.jpg\" alt=\"Cartel BlancoNegro\" width=\"150\" height=\"150\" /></a><a href=\"http://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-121.jpg\"><img class=\"alignnone size-thumbnail wp-image-136503\" src=\"http://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-121-150x150.jpg\" alt=\"Cartel charla 17N sanidad y salud\" width=\"150\" height=\"150\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-121-150x150.jpg 150w, https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-121-96x96.jpg 96w, https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-121-24x24.jpg 24w, https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-121-36x36.jpg 36w, https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-121-48x48.jpg 48w, https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-121-64x64.jpg 64w\" sizes=\"(max-width: 150px) 100vw, 150px\" /></a></dt>\n</dl>\n</div>\n<p>&nbsp;</p>\n",
+    "rendered": "<p>JORNADA\u00a0 \u201cEL IMPACTO DE LA CRISIS EN LA SALUD\u201d</p>\n<p>El <strong>s\u00e1bado</strong><strong> </strong><strong>17</strong><strong> </strong><strong>de</strong><strong> </strong><strong>noviembre</strong><strong> </strong><strong>a</strong><strong> </strong><strong>las</strong><strong> </strong><strong>12</strong>\u00a0 hs en la <strong>Casa</strong><strong> </strong><strong>de</strong><strong> </strong><strong>las</strong><strong> </strong><strong>Asociaciones</strong><strong> </strong><strong>de</strong><strong> </strong><strong>Alcobendas,</strong><strong> </strong><strong>calle</strong><strong> </strong><strong>C\u00e1ceres</strong><strong> </strong><strong>n\u00famero</strong><strong> </strong><strong>18</strong> tendr\u00e1 lugar una conferencia sobre el tema <strong><span style=\"text-decoration: underline\">\u201cEl impacto de la crisis en la salud\u201d</span></strong><strong><span style=\"text-decoration: underline\">.</span></strong><strong> </strong></p>\n<p>Organizada por la <strong>Asamblea</strong><strong> </strong><strong>Ciudadana</strong><strong> </strong><strong>15</strong><strong> </strong><strong>M</strong><strong> </strong><strong>de</strong><strong> </strong><strong>AlcoSanse</strong> varios profesionales de la medicina, colectivos de inmigrantes y ciudadanos intercambiar\u00e1n informaci\u00f3n sobre como la crisis que estamos viviendo afecta a nuestra salud y el estado de la sanidad p\u00fablica en nuestro pa\u00eds despu\u00e9s del Real Decreto Ley 16/2012.</p>\n<p>Al acto est\u00e1 prevista la asistencia como ponentes de:</p>\n<p>+ Un m\u00e9dico salubrista (especialista en sanidad p\u00fablica)</p>\n<p>+ Miembro de Ferine (federaci\u00f3n estatal de emigrantes)</p>\n<p>+ M\u00e9dica de familia.</p>\n<p>Esta jornada se plantea con dos objetivos principalmente.</p>\n<p>Uno es dar a conocer el <strong>grupo de sanidad del 15M de AlcoSanse</strong> e invitar a la ciudadan\u00eda a trabajar con nosotras y nosotros los temas de salud y sanidad que nos preocupan como vecinos y vecinas de estos pueblos.</p>\n<p>El segundo es dar a conocer en qu\u00e9 medida<strong> la crisis afecta nuestra salud</strong>. Y como el <strong>Real</strong><strong> </strong><strong>Decreto-Ley</strong><strong> </strong><strong>16/2012</strong> de 20 de abril en concreto <strong>desmantela sanidad p\u00fablica</strong>. Los recortes que sufrir\u00e1n colectivos como inmigrantes sin papeles, parados que hayan agotado el subsidio y no se inscriban en las oficinas de desempleo. Modificaciones en prestaciones sanitarias, medicamentos excluidos del Sistema Nacional de Salud, re-copago.</p>\n<p>En qu\u00e9 afectan los recortes en el tratamiento, atenci\u00f3n primaria, enfermedades cr\u00f3nicas de los ciudadanos. Las consecuencias que tendr\u00e1 sobre la salud el recorte de las prestaciones actuales. Lo que est\u00e1 ocurriendo en sanidad: <strong>\u00bfEs</strong><strong> </strong><strong>la</strong><strong> </strong><strong>crisis</strong><strong> </strong><strong>o</strong><strong> </strong><strong>el</strong><strong> </strong><strong>modelo</strong><strong> </strong><strong>de</strong><strong> </strong><strong>actuaci\u00f3n</strong><strong> </strong><strong>pol\u00edtico</strong><strong> </strong><strong>y</strong><strong> </strong><strong>social?</strong></p>\n<p>&nbsp;</p>\n<p><strong>Nos preocupan las personas, nos preocupa tu salud. </strong></p>\n<p><strong>Acude este s\u00e1bado 17 de Noviembre a las 12:00h a la Casa de las Asociaciones de Alcobendas.</strong></p>\n<p>&nbsp;</p>\n<div>\n<dl>\n<dt><a href=\"http://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-bn-Charla-17-11-12.jpg\"><img loading=\"lazy\" src=\"http://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-bn-Charla-17-11-12-150x150.jpg\" alt=\"Cartel BlancoNegro\" width=\"150\" height=\"150\" /></a><a href=\"http://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-121.jpg\"><img loading=\"lazy\" class=\"alignnone size-thumbnail wp-image-136503\" src=\"http://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-121-150x150.jpg\" alt=\"Cartel charla 17N sanidad y salud\" width=\"150\" height=\"150\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-121-150x150.jpg 150w, https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-121-96x96.jpg 96w, https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-121-24x24.jpg 24w, https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-121-36x36.jpg 36w, https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-121-48x48.jpg 48w, https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-121-64x64.jpg 64w\" sizes=\"(max-width: 150px) 100vw, 150px\" /></a></dt>\n</dl>\n</div>\n<p>&nbsp;</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -5266,7 +5110,7 @@
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -5307,14 +5151,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/136287/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 136502,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/136287/revisions/136502"
       }
     ],
     "wp:attachment": [
@@ -5359,7 +5197,7 @@
     "rendered": "AlcoSanse-AG-04112012"
   },
   "author": 1015,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -5421,7 +5259,7 @@
     "rendered": "AlcoSanse-AG-04112012"
   },
   "author": 1015,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -5492,7 +5330,7 @@
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -5533,14 +5371,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/82689/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 83819,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/82689/revisions/83819"
       }
     ],
     "wp:attachment": [
@@ -5585,7 +5417,7 @@
     "rendered": "ACTA Alcosanse&#8230; 30-10-2012"
   },
   "author": 1015,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -5647,7 +5479,7 @@
     "rendered": "d\u00edptico imprimir Charla 17-11-12"
   },
   "author": 1015,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -5709,12 +5541,12 @@
     "rendered": "cartel A3 color Charla 17-11-12"
   },
   "author": 1015,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-12.jpg'><img width=\"212\" height=\"300\" src=\"https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-12-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-12-212x300.jpg 212w, https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-12-724x1024.jpg 724w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-12.jpg'><img width=\"212\" height=\"300\" src=\"https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-12-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-12-212x300.jpg 212w, https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-12-724x1024.jpg 724w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -5857,7 +5689,7 @@
     "rendered": "Comunicado Huelga 14-N"
   },
   "author": 1015,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -5919,7 +5751,7 @@
     "rendered": "ACTA Alcosanse&#8230; 30-10-2012"
   },
   "author": 1015,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -5981,7 +5813,7 @@
     "rendered": "Calendario 14N"
   },
   "author": 1015,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -6043,7 +5875,7 @@
     "rendered": "Resumen de comunicaci\u00f3n de Noviembre"
   },
   "content": {
-    "rendered": "<p>Debido a la gran carga de trabajo y actos que han planteados para este mes de noviembre, adjuntamos todos los documentos de los eventos que se van a producir ese mes.</p>\n<div>+Calendario de panfleteo de cara al 14N</div>\n<div><a href=\"http://alcosanse.tomalosbarrios.net/files/2012/11/Calendario-14N.pdf\">Calendario 14N</a></div>\n<div>+\u00daltima acta de la plataforma &#8216;AlcoSanse frente a la reforma laboral&#8217; (GT de Huelga general)</div>\n<div><a href=\"http://alcosanse.tomalosbarrios.net/files/2012/11/ACTA-Alcosanse...-30-10-20121.pdf\">ACTA Alcosanse&#8230; 30-10-2012</a></div>\n<div>+Comunicado de la plataforma\u00a0&#8216;AlcoSanse frente a la reforma laboral&#8217; y que ser\u00e1 el planfleto a repartir</div>\n<div><a href=\"http://alcosanse.tomalosbarrios.net/files/2012/11/Comunicado-Huelga-14-N.pdf\">Comunicado Huelga 14-N</a></div>\n<div>+Cartel del acto del 17 de Noviembre sobre los recortes en sanidad</div>\n<div><a href=\"http://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-12.jpg\"><img class=\"alignnone size-medium wp-image-77292\" src=\"http://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-12-212x300.jpg\" alt=\"\" width=\"212\" height=\"300\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-12-212x300.jpg 212w, https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-12-724x1024.jpg 724w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></div>\n<div>+D\u00edptico que se repartir\u00e1 para informar sobre el acto de los recortes en sanidad.</div>\n<div><a href=\"http://alcosanse.tomalosbarrios.net/files/2012/11/d\u00edptico-imprimir-Charla-17-11-12.pdf\">d\u00edptico imprimir Charla 17-11-12</a></div>\n<div></div>\n<div></div>\n<div>Calendario de los actos de noviembre:</div>\n<div><a href=\"https://www.google.com/calendar/embed?src=r0o87d8uo6fke1dtrr0bv239vs%40group.calendar.google.com&amp;ctz=Europe/Madrid\" target=\"_blank\">https://www.google.com/calendar/embed?src=r0o87d8uo6fke1dtrr0bv239vs%40group.calendar.google.com&amp;ctz=Europe/Madrid</a></div>\n<div></div>\n<div></div>\n<div></div>\n",
+    "rendered": "<p>Debido a la gran carga de trabajo y actos que han planteados para este mes de noviembre, adjuntamos todos los documentos de los eventos que se van a producir ese mes.</p>\n<div>+Calendario de panfleteo de cara al 14N</div>\n<div><a href=\"http://alcosanse.tomalosbarrios.net/files/2012/11/Calendario-14N.pdf\">Calendario 14N</a></div>\n<div>+\u00daltima acta de la plataforma &#8216;AlcoSanse frente a la reforma laboral&#8217; (GT de Huelga general)</div>\n<div><a href=\"http://alcosanse.tomalosbarrios.net/files/2012/11/ACTA-Alcosanse...-30-10-20121.pdf\">ACTA Alcosanse&#8230; 30-10-2012</a></div>\n<div>+Comunicado de la plataforma\u00a0&#8216;AlcoSanse frente a la reforma laboral&#8217; y que ser\u00e1 el planfleto a repartir</div>\n<div><a href=\"http://alcosanse.tomalosbarrios.net/files/2012/11/Comunicado-Huelga-14-N.pdf\">Comunicado Huelga 14-N</a></div>\n<div>+Cartel del acto del 17 de Noviembre sobre los recortes en sanidad</div>\n<div><a href=\"http://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-12.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-77292\" src=\"http://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-12-212x300.jpg\" alt=\"\" width=\"212\" height=\"300\" srcset=\"https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-12-212x300.jpg 212w, https://alcosanse.tomalosbarrios.net/files/2012/11/cartel-A3-color-Charla-17-11-12-724x1024.jpg 724w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></div>\n<div>+D\u00edptico que se repartir\u00e1 para informar sobre el acto de los recortes en sanidad.</div>\n<div><a href=\"http://alcosanse.tomalosbarrios.net/files/2012/11/d\u00edptico-imprimir-Charla-17-11-12.pdf\">d\u00edptico imprimir Charla 17-11-12</a></div>\n<div></div>\n<div></div>\n<div>Calendario de los actos de noviembre:</div>\n<div><a href=\"https://www.google.com/calendar/embed?src=r0o87d8uo6fke1dtrr0bv239vs%40group.calendar.google.com&amp;ctz=Europe/Madrid\" target=\"_blank\">https://www.google.com/calendar/embed?src=r0o87d8uo6fke1dtrr0bv239vs%40group.calendar.google.com&amp;ctz=Europe/Madrid</a></div>\n<div></div>\n<div></div>\n<div></div>\n",
     "protected": false
   },
   "excerpt": {
@@ -6052,7 +5884,7 @@
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -6093,14 +5925,8 @@
     ],
     "version-history": [
       {
-        "count": 9,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/77288/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 77303,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/77288/revisions/77303"
       }
     ],
     "wp:attachment": [
@@ -6154,7 +5980,7 @@
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -6195,14 +6021,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/77282/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 77287,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/77282/revisions/77287"
       }
     ],
     "wp:attachment": [
@@ -6256,7 +6076,7 @@
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -6297,14 +6117,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/34293/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 34295,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/34293/revisions/34295"
       }
     ],
     "wp:attachment": [
@@ -6349,7 +6163,7 @@
     "rendered": "Orden del d\u00eda de la asamblea general del 21 de Octubre"
   },
   "content": {
-    "rendered": "<p>Este orden del d\u00eda ser\u00e1 sometido a consenso al inicio de la asamblea y est\u00e1 sujeto a los cambios que se crean oportunos por la AG.</p>\n<p>&nbsp;</p>\n<ol>\n<li>Turno de libre expresi\u00f3n y consenso del orden del d\u00eda.</li>\n<li>GT de Sanidad: informaci\u00f3n del trabajo realizado y resumen de la asamblea informativa en 3cantos.</li>\n<li>GT de Vivienda: Informaci\u00f3n del trabajo realizado y apoyo acci\u00f3n desahuciada Mesa petitoria en puerta Ayto. dias 29, 30 y 31.</li>\n<li>GT de Educaci\u00f3n: Informaci\u00f3n del trabajo realizado, manifestaciones de las \u00faltimas semanas y apoyo a infraestructura manifestacion AMPAS de ALCOSANSE para el d\u00eda 11 de Noviembre contra la ley Wert, su dimisi\u00f3n y contra los recortes..</li>\n<li>GT de reivindicaciones: Apoyo acci\u00f3n a despedido de la Empresa Eulen, compa\u00f1ero de la Asamblea d\u00edas 22 y 23.\u00a0Apoyo a concentraci\u00f3n &#171;Rodea el Congreso&#187; d\u00eda 23 y 27 de Octubre, contra los Presupuestos.</li>\n<li>GT de Huelga General: Apoyo a convocatoria de Manifestaci\u00f3n COMUNICADA O NO durante la jornada de Huelga General el pr\u00f3ximo d\u00eda 14N a las 12H de Pueblo a Pueblo propuesto por la Plataforma ALCOSANSE FRENTE A LA REFORMA LABORAL y\u00a0Propuesta de lanzamiento de una campa\u00f1a para huelga de consumo en ALCOSANSE el pr\u00f3ximo d\u00eda 14N.</li>\n<li>Informaciones del resto de grupos de trabajo (radio, comunicaci\u00f3n, eurovegas, etc)</li>\n<li>Tesorer\u00eda y multas.</li>\n<li>Nuevas propuestas.</li>\n</ol>\n<p>&nbsp;</p>\n<p>La asamblea se celebrar\u00e1 a las 7 en la plaza del Ayto. de Alcobendas como de costumbre.</p>\n",
+    "rendered": "<p>Este orden del d\u00eda ser\u00e1 sometido a consenso al inicio de la asamblea y est\u00e1 sujeto a los cambios que se crean oportunos por la AG.</p>\n<p>&nbsp;</p>\n<ol>\n<li>Turno de libre expresi\u00f3n y consenso del orden del d\u00eda.</li>\n<li>GT de Sanidad: informaci\u00f3n del trabajo realizado y resumen de la asamblea informativa en 3cantos.</li>\n<li>GT de Vivienda: Informaci\u00f3n del trabajo realizado y apoyo acci\u00f3n desahuciada Mesa petitoria en puerta Ayto. dias 29, 30 y 31.</li>\n<li>GT de Educaci\u00f3n: Informaci\u00f3n del trabajo realizado, manifestaciones de las \u00faltimas semanas y apoyo a infraestructura manifestacion AMPAS de ALCOSANSE para el d\u00eda 11 de Noviembre contra la ley Wert, su dimisi\u00f3n y contra los recortes..</li>\n<li>GT de reivindicaciones: Apoyo acci\u00f3n a despedido de la Empresa Eulen, compa\u00f1ero de la Asamblea d\u00edas 22 y 23.\u00a0Apoyo a concentraci\u00f3n \u00abRodea el Congreso\u00bb d\u00eda 23 y 27 de Octubre, contra los Presupuestos.</li>\n<li>GT de Huelga General: Apoyo a convocatoria de Manifestaci\u00f3n COMUNICADA O NO durante la jornada de Huelga General el pr\u00f3ximo d\u00eda 14N a las 12H de Pueblo a Pueblo propuesto por la Plataforma ALCOSANSE FRENTE A LA REFORMA LABORAL y\u00a0Propuesta de lanzamiento de una campa\u00f1a para huelga de consumo en ALCOSANSE el pr\u00f3ximo d\u00eda 14N.</li>\n<li>Informaciones del resto de grupos de trabajo (radio, comunicaci\u00f3n, eurovegas, etc)</li>\n<li>Tesorer\u00eda y multas.</li>\n<li>Nuevas propuestas.</li>\n</ol>\n<p>&nbsp;</p>\n<p>La asamblea se celebrar\u00e1 a las 7 en la plaza del Ayto. de Alcobendas como de costumbre.</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -6358,7 +6172,7 @@
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -6399,14 +6213,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/31685/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 31687,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/31685/revisions/31687"
       }
     ],
     "wp:attachment": [
@@ -6451,7 +6259,7 @@
     "rendered": "El Ayuntamiento de Alcobendas fija el DESAHUCIO de una familia con 2 hijos menores, por un retraso de 3250\u20ac."
   },
   "content": {
-    "rendered": "<p style=\"text-align: justify\"><strong>El Ayuntamiento de Alcobendas a trav\u00e9s de la \u00a0empresa municipal de la vivienda (EMVIALSA) va a echar a la calle a Inmaculada Montolio -madre de 2 hijos menores-, por una deuda de 3.250\u20ac</strong>. Sin alternativa habitacional ni ninguna otra salida negociada, por lo que Inmaculada solicita auxilio.</p>\n<p style=\"text-align: justify\">Inmaculada tiene 2 hijos: una hija de 9 a\u00f1os y un hijo de 11 a quien debe cuidar ya que sufre par\u00e1lisis cerebral.\u00a0 Est\u00e1 divorciada y no puede contar con la ayuda de su ex-marido. Cuando trabajaba en ALCAMPO su madre atend\u00eda al nieto, pero cuando el abuelo fue operado del coraz\u00f3n necesit\u00f3 pedir una excedencia de 4 meses para atenderles a todos. <strong>Cuando pasado ese tiempo quiso reincorporarse al trabajo, ALCAMPO se lo neg\u00f3 y ahora la han dejado pendiente de que haya una vacante para reincorporarse, por lo que no cobra ni sueldo ni paro</strong>. O sea, para su desgracia se encuentra en el limbo (al no estar despedida no puede disponer de su prestaci\u00f3n por desempleo). Esto le supone no poder hacer frente al alquiler y malcomer para que sus hijos vivan dignamente, afrontando los gastos extra que supone tener un hijo discapacitado. El hijo recibe una ayuda de apenas 80\u20ac al mes, que le pagan cada 6 meses y que no llega para cubrir gastos.</p>\n<p style=\"text-align: justify\"><strong>Esta familia ha estado pagando 5 a\u00f1os de alquiler sin incidencias, como as\u00ed ha reconocido la propia EMVIALSA al renovarle el contrato</strong>. Es decir, claramente es una familia que mientras pudo era buena pagadora y que ahora s\u00f3lo necesita tiempo para devolver lo adeudado. Sin embargo, si no lo impedimos, el d\u00eda 7 de Noviembre el Juzgado aprobar\u00e1 la demanda y el desalojo fijado por EMVIALSA incluido en esta demanda. No queda ni un mes para el juicio y <strong>no le dan ninguna soluci\u00f3n</strong>, por lo cu\u00e1l actualmente la familia est\u00e1 desesperada y sin salidas, no tienen dinero para costearse un abogado. \u201c<em>Como madre duele decirlo, pero hoy mis hijos se mantienen gracias a su abuela</em>\u201d, nos cuenta Inmaculada.</p>\n<p style=\"text-align: justify\">Como ciudadanos, <strong>queremos solidariamente denunciar su grave situaci\u00f3n y la dolosa inacci\u00f3n del Ayuntamiento de Alcobendas, administrador \u00fanico de EMVIALSA</strong>. Reclamamos soluciones desde la iniciativa pol\u00edtica pues todos los grupos pol\u00edticos tienen vocales en el Consejo de EMVIALSA. Es m\u00e1s, nos encontramos con esta demanda de desahucio por 3250\u20ac cuando hace meses el Presidente de EMVIALSA, Alcalde Sr. Ignacio Garc\u00eda de Vinuesa, prometi\u00f3 en un encuentro con ciudadanos que &#171;<em>en Alcobendas nadie quedar\u00e1 en la calle por desahucio</em>&#171;. <strong>Entendimos que el Ayuntamiento iba a dar ejemplo y ofrecer soluciones antes de llegar al conflicto</strong>.</p>\n<p style=\"text-align: justify\">Pues bien, en su demanda ya fechan su desahucio total en Febrero, cuando ni los bancos ejecutan desahucios por 3250\u20ac. M\u00e1xime cuando <strong>EMVIALSA, que gestiona m\u00e1s de 250 viviendas en alquiler, tuvo 657.424\u20ac en beneficios</strong> al cierre del 2011, a libre disposici\u00f3n como reservas voluntarias. Dado que para este a\u00f1o tambi\u00e9n estiman cuantiosos beneficios en EMVIALSA (y que 3.250\u20ac es menos de lo que gasta el Ayuntamiento al mes en publicidad), <strong>solicitamos al Ayuntamiento de Alcobendas que desista de este desahucio, que se re\u00fana con Inmaculada para buscar una soluci\u00f3n no s\u00f3lo de su situaci\u00f3n en cuanto a la vivienda, sino de su situaci\u00f3n de indefensi\u00f3n en general, tanto econ\u00f3mica como social.</strong> Pedimos que los servicios sociales del Ayuntamiento atiendan a esta familia y a todas las familias en similar situaci\u00f3n, que para esto tambi\u00e9n les pagamos.</p>\n<p style=\"text-align: justify\">\u00bfD\u00f3nde est\u00e1n las <em>viviendas sociales</em> de las que debe disponer el Ayuntamiento para momentos de emergencia?\u00a0 \u00bfC\u00f3mo se gestionan estas viviendas, para que se diga a los ciudadanos que no hay, cuando sabemos que s\u00ed hay?</p>\n<p style=\"text-align: justify\">Esto debe cambiar. Hace m\u00e1s de 40 a\u00f1os que Espa\u00f1a firm\u00f3 un pacto internacional por los derechos sociales, en el que se especifica que <strong>se parar\u00edan los desalojos</strong> <strong>mientras no se diese soluci\u00f3n habitacional</strong>. <strong>Reclamamos vivienda digna para Inmaculada, adaptada a su familia; porque cuando quiere, el Ayuntamiento tiene los medios</strong>. No es de derecho que con 18 millones (hablamos s\u00f3lo en tesorer\u00eda) nuestro Ayuntamiento deje en la estacada por retrasos de 3250\u20ac a familias con hijos menores y sin ingresos, que no son responsables de la crisis. Dicho retraso lo abonar\u00e1n en cuanto su situaci\u00f3n mejore. <strong>Es rentable ayudar a las familias que por causas ajenas a su voluntad hoy se quedan sin trabajo, porque ma\u00f1ana ser\u00e1n nuestro futuro. Lo contrario es insostenible</strong> y por eso decimos: &#171;<em>NO a desahucios indignos en mi nombre. Porque s\u00ed hay soluciones, \u00a1STOP DESAHUCIOS!</em>&#171;</p>\n<p style=\"text-align: justify\"><strong>Le ruego que difunda este caso. Sepa que \u00a1\u00a1JUNTOS S\u00cd SE PUEDE!!</strong></p>\n<p style=\"text-align: justify\">Gracias por su tiempo y reciba un cordial saludo,</p>\n<p style=\"text-align: justify\"><em>PLATAFORMA CIUDADADANA DE APOYO A LOS AFECTADOS POR DESAHUCIO</em></p>\n<p style=\"text-align: justify\">En solidaridad con la familia de Inmaculada Montolio y de muchas otras familias que ma\u00f1ana pueden verse en su situaci\u00f3n.</p>\n",
+    "rendered": "<p style=\"text-align: justify\"><strong>El Ayuntamiento de Alcobendas a trav\u00e9s de la \u00a0empresa municipal de la vivienda (EMVIALSA) va a echar a la calle a Inmaculada Montolio -madre de 2 hijos menores-, por una deuda de 3.250\u20ac</strong>. Sin alternativa habitacional ni ninguna otra salida negociada, por lo que Inmaculada solicita auxilio.</p>\n<p style=\"text-align: justify\">Inmaculada tiene 2 hijos: una hija de 9 a\u00f1os y un hijo de 11 a quien debe cuidar ya que sufre par\u00e1lisis cerebral.\u00a0 Est\u00e1 divorciada y no puede contar con la ayuda de su ex-marido. Cuando trabajaba en ALCAMPO su madre atend\u00eda al nieto, pero cuando el abuelo fue operado del coraz\u00f3n necesit\u00f3 pedir una excedencia de 4 meses para atenderles a todos. <strong>Cuando pasado ese tiempo quiso reincorporarse al trabajo, ALCAMPO se lo neg\u00f3 y ahora la han dejado pendiente de que haya una vacante para reincorporarse, por lo que no cobra ni sueldo ni paro</strong>. O sea, para su desgracia se encuentra en el limbo (al no estar despedida no puede disponer de su prestaci\u00f3n por desempleo). Esto le supone no poder hacer frente al alquiler y malcomer para que sus hijos vivan dignamente, afrontando los gastos extra que supone tener un hijo discapacitado. El hijo recibe una ayuda de apenas 80\u20ac al mes, que le pagan cada 6 meses y que no llega para cubrir gastos.</p>\n<p style=\"text-align: justify\"><strong>Esta familia ha estado pagando 5 a\u00f1os de alquiler sin incidencias, como as\u00ed ha reconocido la propia EMVIALSA al renovarle el contrato</strong>. Es decir, claramente es una familia que mientras pudo era buena pagadora y que ahora s\u00f3lo necesita tiempo para devolver lo adeudado. Sin embargo, si no lo impedimos, el d\u00eda 7 de Noviembre el Juzgado aprobar\u00e1 la demanda y el desalojo fijado por EMVIALSA incluido en esta demanda. No queda ni un mes para el juicio y <strong>no le dan ninguna soluci\u00f3n</strong>, por lo cu\u00e1l actualmente la familia est\u00e1 desesperada y sin salidas, no tienen dinero para costearse un abogado. \u201c<em>Como madre duele decirlo, pero hoy mis hijos se mantienen gracias a su abuela</em>\u201d, nos cuenta Inmaculada.</p>\n<p style=\"text-align: justify\">Como ciudadanos, <strong>queremos solidariamente denunciar su grave situaci\u00f3n y la dolosa inacci\u00f3n del Ayuntamiento de Alcobendas, administrador \u00fanico de EMVIALSA</strong>. Reclamamos soluciones desde la iniciativa pol\u00edtica pues todos los grupos pol\u00edticos tienen vocales en el Consejo de EMVIALSA. Es m\u00e1s, nos encontramos con esta demanda de desahucio por 3250\u20ac cuando hace meses el Presidente de EMVIALSA, Alcalde Sr. Ignacio Garc\u00eda de Vinuesa, prometi\u00f3 en un encuentro con ciudadanos que \u00ab<em>en Alcobendas nadie quedar\u00e1 en la calle por desahucio</em>\u00ab. <strong>Entendimos que el Ayuntamiento iba a dar ejemplo y ofrecer soluciones antes de llegar al conflicto</strong>.</p>\n<p style=\"text-align: justify\">Pues bien, en su demanda ya fechan su desahucio total en Febrero, cuando ni los bancos ejecutan desahucios por 3250\u20ac. M\u00e1xime cuando <strong>EMVIALSA, que gestiona m\u00e1s de 250 viviendas en alquiler, tuvo 657.424\u20ac en beneficios</strong> al cierre del 2011, a libre disposici\u00f3n como reservas voluntarias. Dado que para este a\u00f1o tambi\u00e9n estiman cuantiosos beneficios en EMVIALSA (y que 3.250\u20ac es menos de lo que gasta el Ayuntamiento al mes en publicidad), <strong>solicitamos al Ayuntamiento de Alcobendas que desista de este desahucio, que se re\u00fana con Inmaculada para buscar una soluci\u00f3n no s\u00f3lo de su situaci\u00f3n en cuanto a la vivienda, sino de su situaci\u00f3n de indefensi\u00f3n en general, tanto econ\u00f3mica como social.</strong> Pedimos que los servicios sociales del Ayuntamiento atiendan a esta familia y a todas las familias en similar situaci\u00f3n, que para esto tambi\u00e9n les pagamos.</p>\n<p style=\"text-align: justify\">\u00bfD\u00f3nde est\u00e1n las <em>viviendas sociales</em> de las que debe disponer el Ayuntamiento para momentos de emergencia?\u00a0 \u00bfC\u00f3mo se gestionan estas viviendas, para que se diga a los ciudadanos que no hay, cuando sabemos que s\u00ed hay?</p>\n<p style=\"text-align: justify\">Esto debe cambiar. Hace m\u00e1s de 40 a\u00f1os que Espa\u00f1a firm\u00f3 un pacto internacional por los derechos sociales, en el que se especifica que <strong>se parar\u00edan los desalojos</strong> <strong>mientras no se diese soluci\u00f3n habitacional</strong>. <strong>Reclamamos vivienda digna para Inmaculada, adaptada a su familia; porque cuando quiere, el Ayuntamiento tiene los medios</strong>. No es de derecho que con 18 millones (hablamos s\u00f3lo en tesorer\u00eda) nuestro Ayuntamiento deje en la estacada por retrasos de 3250\u20ac a familias con hijos menores y sin ingresos, que no son responsables de la crisis. Dicho retraso lo abonar\u00e1n en cuanto su situaci\u00f3n mejore. <strong>Es rentable ayudar a las familias que por causas ajenas a su voluntad hoy se quedan sin trabajo, porque ma\u00f1ana ser\u00e1n nuestro futuro. Lo contrario es insostenible</strong> y por eso decimos: \u00ab<em>NO a desahucios indignos en mi nombre. Porque s\u00ed hay soluciones, \u00a1STOP DESAHUCIOS!</em>\u00ab</p>\n<p style=\"text-align: justify\"><strong>Le ruego que difunda este caso. Sepa que \u00a1\u00a1JUNTOS S\u00cd SE PUEDE!!</strong></p>\n<p style=\"text-align: justify\">Gracias por su tiempo y reciba un cordial saludo,</p>\n<p style=\"text-align: justify\"><em>PLATAFORMA CIUDADADANA DE APOYO A LOS AFECTADOS POR DESAHUCIO</em></p>\n<p style=\"text-align: justify\">En solidaridad con la familia de Inmaculada Montolio y de muchas otras familias que ma\u00f1ana pueden verse en su situaci\u00f3n.</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -6460,7 +6268,7 @@
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -6501,14 +6309,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/27568/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 28257,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/27568/revisions/28257"
       }
     ],
     "wp:attachment": [
@@ -6562,7 +6364,7 @@
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -6603,14 +6405,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/19619/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 19621,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/19619/revisions/19621"
       }
     ],
     "wp:attachment": [
@@ -6664,7 +6460,7 @@
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -6705,14 +6501,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/11775/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 11776,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/11775/revisions/11776"
       }
     ],
     "wp:attachment": [
@@ -6757,7 +6547,7 @@
     "rendered": "Acta asamblea general 7.10.2012"
   },
   "content": {
-    "rendered": "<p><strong>Orden del d\u00eda</strong></p>\n<ul>\n<li>Comunicaci\u00f3n del estado de los GTs</li>\n<li>Protocolo de actuaci\u00f3n en desahucios</li>\n<li>Liquidaci\u00f3n de Intercomisiones</li>\n<li>Apoyos a:</li>\n<li>Huelga general</li>\n<li>13O</li>\n<li>12O</li>\n<li>Huelga estudiantil</li>\n<li>Tarifazo del agua</li>\n</ul>\n<p>&nbsp;</p>\n<p>Turno libre</p>\n<p>Carlos: valoraci\u00f3n positiva de las mesas de la ILP<br />\nCarmelo: propuesta de volver a poner mesas para la ILP.<br />\nMiguel: poner mas cuidado con<br />\nlas fechas elegidas para no solapar eventos.<br />\nCarlos: propuesta de asamblea rotatoria con 3cantos, Colmenar viejo y Algete.<br />\nOlga: propuesta de entrevistar en la radio a la gente del &#171;Plesbiticio constituyente&#187;.<br />\nGT Vivienda</p>\n<p>Nuevo caso de desahucio, est\u00e1 divorciada y 2 hijos a su cargo, uno de ellos con par\u00e1lisis cerebral. La vivienda es propiedad del EMVIALSA. En Noviembre es el juicio y en Febrero la ejecuci\u00f3n.<br />\nSanidad</p>\n<p>Hay una propuesta de participaci\u00f3n en unos talleres de sanidad que se llevan a cabo en 3Cantos.<br />\nCarmen hace un repaso, nos recuerda que:<br />\nEl grupo sigue funcionando con talleres enfocados a frenar los recortes.<br />\nPropone una charla el d\u00eda S\u00e1bado 20 a las 12.30h en la plaza del Ayto de Alcobendas para hablar extensamente de los recortes y cambio en la sanidad. Propuesta consensuada.<br />\nEl reparto de folletos se llevar\u00e1 a cabo mas que mano-a-mano reparti\u00e9ndolos en puntos estrat\u00e9gicos tales como Casas de la mujer, centro de inmigrantes, etc.</p>\n<p>Consumo</p>\n<p>El d\u00eda 19 de Octubre llegar\u00e1 el primer pedido por lo que los interesados deben de hacer el pedido antes. Las opciones de pedido est\u00e1n indicadas en consumoalcosanse.wordpress.com<br />\nComunicaci\u00f3n</p>\n<p>Este grupo ha ca\u00eddo algo en el olvido y es necesario hacer funcional para poder informar adecuadamente de los trabajos que realizamos aqu\u00ed y estar comunicados y al d\u00eda de lo que se hace en el resto de sitios.<br />\nEl Jueves a las 19.00h se acuerda una reuni\u00f3n de re-lanzamiento que se llevar\u00e1 a cabo en la Pza. del Ayto de Alcobendas.</p>\n<p>&nbsp;</p>\n<p>Protocolo en caso de desahucios.</p>\n<p>(Link) Tras ser le\u00eddo se consens\u00faa.<br />\nRafi dice que puede tener ligeras discrepancias y matices, pero que el grueso del mismo lo ve aceptable y no ve motivo de bloqueo, sin embargo explica que esos matices deber\u00edan ser pulidos mas abiertamente durante las AG, no hacer simples lecturas y consensos sin haber debate.<br />\nSupresi\u00f3n de intercomisiones.</p>\n<p>Surge la confusi\u00f3n con esta propuesta y lo que representa con respecto a la propuesta de interasambleas. Tras un debate de diversos planteamientos se reformula la prouesta de Interasambleas y los consensos quedan tal que:<br />\n1- Se suprime intercomisiones pues de facto hab\u00eda dejado de funcionar y no cumpl\u00eda su cometido.<br />\n2- Se muestra la inclinaci\u00f3n inicial de participar de Interasambleas NNO, manteniendo de forma abierta la comunicaci\u00f3n y explicando durante los contactos las preferencias a la que la fecha no solape las AGs. Tras las propuestas finales se consensuar\u00e1 (o no) el participar.<br />\nApoyos a movilizaciones.</p>\n<p>12O.<br />\nEs un evento de car\u00e1cter festivo/reivindicativo que consiste en realizar un desfile civil el d\u00eda de las fuerzas armadas, desfilando con libros y similares en vez de armas. Se declina la propuesta por las connotaciones que tiene, si bien se anima a todo el mundo a participar del mismo si lo ve adecuado.</p>\n<p>13O.<br />\n#GlobalNoise. Cacerolada mundial contra el actual sistema. Se consens\u00faa asistir y tirar 150 carteles. La mani conmienza en la Plaza Emilio Castelar a las 18.00h por lo que se queda a las 17.00h en los &lt;C&gt; para encontrarnos en la cabecera.</p>\n<p>Huelga general.<br />\nSe trasvasa dicho trabajo de apoyo y puesta en marcha a la plataforma en la que nos encontramos (AlcoSanse frente a la reforma laboral) que se reunir\u00e1n para tratar este mismo tema a las 19.30 en la casa de las asociaciones este Lunes 8.</p>\n<p>Finaliza el orden del d\u00eda. Pr\u00f3xima AG el 21 de Octubre a las 19.00h en la Plaza del Ayto de Alcobendas.</p>\n",
+    "rendered": "<p><strong>Orden del d\u00eda</strong></p>\n<ul>\n<li>Comunicaci\u00f3n del estado de los GTs</li>\n<li>Protocolo de actuaci\u00f3n en desahucios</li>\n<li>Liquidaci\u00f3n de Intercomisiones</li>\n<li>Apoyos a:</li>\n<li>Huelga general</li>\n<li>13O</li>\n<li>12O</li>\n<li>Huelga estudiantil</li>\n<li>Tarifazo del agua</li>\n</ul>\n<p>&nbsp;</p>\n<p>Turno libre</p>\n<p>Carlos: valoraci\u00f3n positiva de las mesas de la ILP<br />\nCarmelo: propuesta de volver a poner mesas para la ILP.<br />\nMiguel: poner mas cuidado con<br />\nlas fechas elegidas para no solapar eventos.<br />\nCarlos: propuesta de asamblea rotatoria con 3cantos, Colmenar viejo y Algete.<br />\nOlga: propuesta de entrevistar en la radio a la gente del \u00abPlesbiticio constituyente\u00bb.<br />\nGT Vivienda</p>\n<p>Nuevo caso de desahucio, est\u00e1 divorciada y 2 hijos a su cargo, uno de ellos con par\u00e1lisis cerebral. La vivienda es propiedad del EMVIALSA. En Noviembre es el juicio y en Febrero la ejecuci\u00f3n.<br />\nSanidad</p>\n<p>Hay una propuesta de participaci\u00f3n en unos talleres de sanidad que se llevan a cabo en 3Cantos.<br />\nCarmen hace un repaso, nos recuerda que:<br />\nEl grupo sigue funcionando con talleres enfocados a frenar los recortes.<br />\nPropone una charla el d\u00eda S\u00e1bado 20 a las 12.30h en la plaza del Ayto de Alcobendas para hablar extensamente de los recortes y cambio en la sanidad. Propuesta consensuada.<br />\nEl reparto de folletos se llevar\u00e1 a cabo mas que mano-a-mano reparti\u00e9ndolos en puntos estrat\u00e9gicos tales como Casas de la mujer, centro de inmigrantes, etc.</p>\n<p>Consumo</p>\n<p>El d\u00eda 19 de Octubre llegar\u00e1 el primer pedido por lo que los interesados deben de hacer el pedido antes. Las opciones de pedido est\u00e1n indicadas en consumoalcosanse.wordpress.com<br />\nComunicaci\u00f3n</p>\n<p>Este grupo ha ca\u00eddo algo en el olvido y es necesario hacer funcional para poder informar adecuadamente de los trabajos que realizamos aqu\u00ed y estar comunicados y al d\u00eda de lo que se hace en el resto de sitios.<br />\nEl Jueves a las 19.00h se acuerda una reuni\u00f3n de re-lanzamiento que se llevar\u00e1 a cabo en la Pza. del Ayto de Alcobendas.</p>\n<p>&nbsp;</p>\n<p>Protocolo en caso de desahucios.</p>\n<p>(Link) Tras ser le\u00eddo se consens\u00faa.<br />\nRafi dice que puede tener ligeras discrepancias y matices, pero que el grueso del mismo lo ve aceptable y no ve motivo de bloqueo, sin embargo explica que esos matices deber\u00edan ser pulidos mas abiertamente durante las AG, no hacer simples lecturas y consensos sin haber debate.<br />\nSupresi\u00f3n de intercomisiones.</p>\n<p>Surge la confusi\u00f3n con esta propuesta y lo que representa con respecto a la propuesta de interasambleas. Tras un debate de diversos planteamientos se reformula la prouesta de Interasambleas y los consensos quedan tal que:<br />\n1- Se suprime intercomisiones pues de facto hab\u00eda dejado de funcionar y no cumpl\u00eda su cometido.<br />\n2- Se muestra la inclinaci\u00f3n inicial de participar de Interasambleas NNO, manteniendo de forma abierta la comunicaci\u00f3n y explicando durante los contactos las preferencias a la que la fecha no solape las AGs. Tras las propuestas finales se consensuar\u00e1 (o no) el participar.<br />\nApoyos a movilizaciones.</p>\n<p>12O.<br />\nEs un evento de car\u00e1cter festivo/reivindicativo que consiste en realizar un desfile civil el d\u00eda de las fuerzas armadas, desfilando con libros y similares en vez de armas. Se declina la propuesta por las connotaciones que tiene, si bien se anima a todo el mundo a participar del mismo si lo ve adecuado.</p>\n<p>13O.<br />\n#GlobalNoise. Cacerolada mundial contra el actual sistema. Se consens\u00faa asistir y tirar 150 carteles. La mani conmienza en la Plaza Emilio Castelar a las 18.00h por lo que se queda a las 17.00h en los &lt;C&gt; para encontrarnos en la cabecera.</p>\n<p>Huelga general.<br />\nSe trasvasa dicho trabajo de apoyo y puesta en marcha a la plataforma en la que nos encontramos (AlcoSanse frente a la reforma laboral) que se reunir\u00e1n para tratar este mismo tema a las 19.30 en la casa de las asociaciones este Lunes 8.</p>\n<p>Finaliza el orden del d\u00eda. Pr\u00f3xima AG el 21 de Octubre a las 19.00h en la Plaza del Ayto de Alcobendas.</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -6766,7 +6556,7 @@
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -6807,14 +6597,8 @@
     ],
     "version-history": [
       {
-        "count": 8,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/10777/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 10780,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/10777/revisions/10780"
       }
     ],
     "wp:attachment": [
@@ -6868,7 +6652,7 @@
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -6909,14 +6693,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/8379/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 8381,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/8379/revisions/8381"
       }
     ],
     "wp:attachment": [
@@ -6970,7 +6748,7 @@
   },
   "author": 1015,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -7011,14 +6789,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/6906/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 6911,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/6906/revisions/6911"
       }
     ],
     "wp:attachment": [
@@ -7072,7 +6844,7 @@
   },
   "author": 1013,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -7113,14 +6885,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/596/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 597,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/596/revisions/597"
       }
     ],
     "wp:attachment": [
@@ -7174,7 +6940,7 @@
   },
   "author": 1011,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -7215,14 +6981,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/324/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 325,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/posts/324/revisions/325"
       }
     ],
     "wp:attachment": [
@@ -7267,7 +7027,7 @@
     "rendered": "youtube"
   },
   "author": 1011,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -7397,7 +7157,7 @@
     "rendered": "twitter"
   },
   "author": 1011,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -7527,7 +7287,7 @@
     "rendered": "tuenti"
   },
   "author": 1011,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -7657,7 +7417,7 @@
     "rendered": "RSS"
   },
   "author": 1011,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -7757,7 +7517,7 @@
     "rendered": "n1"
   },
   "author": 1011,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -7869,7 +7629,7 @@
     "rendered": "flickr"
   },
   "author": 1011,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -7999,7 +7759,7 @@
     "rendered": "facebook"
   },
   "author": 1011,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -8129,7 +7889,7 @@
     "rendered": "radio"
   },
   "author": 1011,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -8271,7 +8031,7 @@
     "rendered": "logo"
   },
   "author": 1011,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -8424,7 +8184,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -8458,14 +8218,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/pages/309/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 311,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/pages/309/revisions/311"
       }
     ],
     "wp:attachment": [
@@ -8498,7 +8252,7 @@
     "rendered": "stop desahucios"
   },
   "author": 1011,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -8592,7 +8346,7 @@
     "rendered": "escuelapubl"
   },
   "author": 1011,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -8698,7 +8452,7 @@
     "rendered": "cartel canal copia"
   },
   "author": 1011,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -8810,7 +8564,7 @@
     "rendered": "top.png"
   },
   "author": 1011,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -8955,14 +8709,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/pages/5/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 681054,
-        "href": "https://alcosanse.tomalosbarrios.net/wp-json/wp/v2/pages/5/revisions/681054"
       }
     ],
     "wp:attachment": [
@@ -9006,7 +8754,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],

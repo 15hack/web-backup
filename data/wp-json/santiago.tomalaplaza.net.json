@@ -105,7 +105,7 @@
   "featured_media": 0,
   "parent": 10,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -258,7 +258,7 @@
     "rendered": "#acampadaobradoiro"
   },
   "content": {
-    "rendered": "<p>Estamos en\u00a0<a href=\"http://www.acampadascq.info/\">http://www.acampadascq.info/</a></p>\n<p>&nbsp;</p>\n<p><a title=\"... por Xabier.M, en Flickr\" href=\"http://www.flickr.com/photos/xabier-martinez/5744174044/\"><img src=\"http://farm4.static.flickr.com/3500/5744174044_fa53dd8800.jpg\" alt=\"...\" width=\"333\" height=\"500\" /></a></p>\n<p>&nbsp;</p>\n",
+    "rendered": "<p>Estamos en\u00a0<a href=\"http://www.acampadascq.info/\">http://www.acampadascq.info/</a></p>\n<p>&nbsp;</p>\n<p><a title=\"... por Xabier.M, en Flickr\" href=\"http://www.flickr.com/photos/xabier-martinez/5744174044/\"><img loading=\"lazy\" src=\"http://farm4.static.flickr.com/3500/5744174044_fa53dd8800.jpg\" alt=\"...\" width=\"333\" height=\"500\" /></a></p>\n<p>&nbsp;</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -311,14 +311,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://santiago.tomalaplaza.net/wp-json/wp/v2/posts/1/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 11,
-        "href": "https://santiago.tomalaplaza.net/wp-json/wp/v2/posts/1/revisions/11"
       }
     ],
     "wp:attachment": [

@@ -24,7 +24,7 @@
   },
   "author": 899,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -65,14 +65,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/327/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 328,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/327/revisions/328"
       }
     ],
     "wp:attachment": [
@@ -126,7 +120,7 @@
   },
   "author": 751,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -167,14 +161,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/324/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 325,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/324/revisions/325"
       }
     ],
     "wp:attachment": [
@@ -228,7 +216,7 @@
   },
   "author": 751,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -269,14 +257,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/321/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 323,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/321/revisions/323"
       }
     ],
     "wp:attachment": [
@@ -330,7 +312,7 @@
   },
   "author": 751,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -371,14 +353,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/318/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 319,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/318/revisions/319"
       }
     ],
     "wp:attachment": [
@@ -432,7 +408,7 @@
   },
   "author": 751,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -473,14 +449,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/315/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 316,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/315/revisions/316"
       }
     ],
     "wp:attachment": [
@@ -534,7 +504,7 @@
   },
   "author": 751,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -575,14 +545,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/312/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 314,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/312/revisions/314"
       }
     ],
     "wp:attachment": [
@@ -624,7 +588,7 @@
   "type": "post",
   "link": "https://stamariadelaalameda.tomalosbarrios.net/2012/09/25/aprobacion-de-ocupa-el-congreso/",
   "title": {
-    "rendered": "Aprobaci\u00f3n de &#171;Ocupa el Congreso&#187;"
+    "rendered": "Aprobaci\u00f3n de \u00abOcupa el Congreso\u00bb"
   },
   "content": {
     "rendered": "<p>Estimados compa\u00f1eros, en la reuni\u00f3n realizada el pasado domingo, se aprob\u00f3 por unanimidad y se suscit\u00f3 a asistir a las dos manifestaciones legales aprobadas con motivo de la acci\u00f3n Rodea al Congreso.</p>\n<p>Esta reuni\u00f3n del pasado domingo expres\u00f3 su apoyo al derecho a la manifestaci\u00f3n y de reuni\u00f3n, 3establecidas en nuestra Carta Magna, por lo que se reunir\u00e1 hoy martes a las 17:45 en la parte baja de la Calle de Moyano, la calle de los libreros, al lado de la estatua, con el 0bjeto de participar en las dos manifestaciones legalmente aprobadas por la delegaci\u00f3n de gobierno.</p>\n<p>Fue por unanimidad.</p>\n<p>All\u00ed nos vemos.</p>\n<p>Mr. Paine</p>\n<p>&nbsp;</p>\n",
@@ -636,7 +600,7 @@
   },
   "author": 751,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -677,14 +641,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/307/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 310,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/307/revisions/310"
       }
     ],
     "wp:attachment": [
@@ -738,7 +696,7 @@
   },
   "author": 751,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -779,14 +737,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/303/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 304,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/303/revisions/304"
       }
     ],
     "wp:attachment": [
@@ -840,7 +792,7 @@
   },
   "author": 751,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -881,14 +833,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/293/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 297,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/293/revisions/297"
       }
     ],
     "wp:attachment": [
@@ -942,7 +888,7 @@
   },
   "author": 899,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -983,14 +929,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/290/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 291,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/290/revisions/291"
       }
     ],
     "wp:attachment": [
@@ -1044,7 +984,7 @@
   },
   "author": 899,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1085,14 +1025,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/287/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 289,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/287/revisions/289"
       }
     ],
     "wp:attachment": [
@@ -1146,7 +1080,7 @@
   },
   "author": 899,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1187,14 +1121,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/284/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 285,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/284/revisions/285"
       }
     ],
     "wp:attachment": [
@@ -1248,7 +1176,7 @@
   },
   "author": 899,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1289,14 +1217,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/280/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 282,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/280/revisions/282"
       }
     ],
     "wp:attachment": [
@@ -1341,16 +1263,16 @@
     "rendered": "Fotos del Agua"
   },
   "content": {
-    "rendered": "<p>Estimados compa\u00f1eros, os &#171;subo&#187; las fotos del pasado domingo, d\u00eda en el que numerosos vecinos de nuestra localidad participaron en la actividad programada.</p>\n<p>Las dejo &#171;colgadas&#187; en la red, y que Dios reparta agua y suerte. bye:</p>\n<p>http://www.flickr.com/photos/81357493@N04/</p>\n<p>&nbsp;</p>\n<p>Espero que os gusten. Bye</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
+    "rendered": "<p>Estimados compa\u00f1eros, os \u00absubo\u00bb las fotos del pasado domingo, d\u00eda en el que numerosos vecinos de nuestra localidad participaron en la actividad programada.</p>\n<p>Las dejo \u00abcolgadas\u00bb en la red, y que Dios reparta agua y suerte. bye:</p>\n<p>http://www.flickr.com/photos/81357493@N04/</p>\n<p>&nbsp;</p>\n<p>Espero que os gusten. Bye</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>Estimados compa\u00f1eros, os &#171;subo&#187; las fotos del pasado domingo, d\u00eda en el que numerosos vecinos de nuestra localidad participaron en la actividad programada. Las dejo &#171;colgadas&#187; en la red, y que Dios reparta agua y suerte. bye: http://www.flickr.com/photos/81357493@N04/ &nbsp; Espero &hellip; <a href=\"https://stamariadelaalameda.tomalosbarrios.net/2012/06/27/fotos-del-agua/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+    "rendered": "<p>Estimados compa\u00f1eros, os \u00absubo\u00bb las fotos del pasado domingo, d\u00eda en el que numerosos vecinos de nuestra localidad participaron en la actividad programada. Las dejo \u00abcolgadas\u00bb en la red, y que Dios reparta agua y suerte. bye: http://www.flickr.com/photos/81357493@N04/ &nbsp; Espero &hellip; <a href=\"https://stamariadelaalameda.tomalosbarrios.net/2012/06/27/fotos-del-agua/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
     "protected": false
   },
   "author": 751,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1391,14 +1313,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/273/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 275,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/273/revisions/275"
       }
     ],
     "wp:attachment": [
@@ -1443,7 +1359,7 @@
     "rendered": "30 de junio"
   },
   "content": {
-    "rendered": "<p>Estimados compa\u00f1eros, este s\u00e1bado pasado estuvimos cuatro compa\u00f1eros decidiendo el futuro del pa\u00eds en la plaza de Santiago y acordamos determinadas cuestiones, que son muy relevantes para aquellos hipotecados que no puedan pagar la hipoteca.<br />\nRepartimos unas hojas/documentos, compulsados por la Junta Electoral Central, para recoger firmas a favor de la daci\u00f3n, cuesti\u00f3n que ya comentamos en la \u00faltima reuni\u00f3n de nuestra asamblea.</p>\n<p>Acordaros que el Art\u00edculo 87 de la Constituci\u00f3n Espa\u00f1ola, dice en el apartado 3, que &#171;Una ley org\u00e1nica regular\u00e1 las formas de ejercicio y requisitos de la iniciativa popular para la presentaci\u00f3n de proposiciones de ley. En todo caso se exigir\u00e1n no menos de 500.000 firmas acreditadas. No proceder\u00e1 dicha iniciativa en materias propias de ley org\u00e1nica, tributarias o de car\u00e1cter internacional, ni en lo relativo a la prerrogativa de gracia.&#187;</p>\n<p>Por tanto el objetivo es recoger las 500.000 firmas. Al parecer, y siempre seg\u00fan Juan Murillo, ya existen 250.000 firmas recogidas, o sea, la mitad. Hay que hacer un esfuerzo.</p>\n<p>Juan, que es un aut\u00e9ntico campe\u00f3n, reparti\u00f3 las hojas y todav\u00eda quedan algunas sin repartir, y \u00e9stas se repartir\u00e1n el pr\u00f3ximo d\u00eda de asamblea, el segundo s\u00e1bado de julio, a las 11h -y no a las 11:30 como algunos compa\u00f1eros cre\u00edan-; d\u00eda por cierto que no podr\u00e9 asistir.</p>\n<p>Por tanto, recogeremos las firmas y se dar\u00e1n m\u00e1s hojas el pr\u00f3ximo s\u00e1bado de asamblea. Hay tiempo de sobra. Se puede recoger firmas hasta octubre, nada menos.</p>\n<p>Un saludo a toda la cuadrilla. Cuando la &#171;prima&#187;llegue a 600 points, est\u00e1is todos invitados en mi casa a unas cervess.</p>\n<p>Critobal</p>\n",
+    "rendered": "<p>Estimados compa\u00f1eros, este s\u00e1bado pasado estuvimos cuatro compa\u00f1eros decidiendo el futuro del pa\u00eds en la plaza de Santiago y acordamos determinadas cuestiones, que son muy relevantes para aquellos hipotecados que no puedan pagar la hipoteca.<br />\nRepartimos unas hojas/documentos, compulsados por la Junta Electoral Central, para recoger firmas a favor de la daci\u00f3n, cuesti\u00f3n que ya comentamos en la \u00faltima reuni\u00f3n de nuestra asamblea.</p>\n<p>Acordaros que el Art\u00edculo 87 de la Constituci\u00f3n Espa\u00f1ola, dice en el apartado 3, que \u00abUna ley org\u00e1nica regular\u00e1 las formas de ejercicio y requisitos de la iniciativa popular para la presentaci\u00f3n de proposiciones de ley. En todo caso se exigir\u00e1n no menos de 500.000 firmas acreditadas. No proceder\u00e1 dicha iniciativa en materias propias de ley org\u00e1nica, tributarias o de car\u00e1cter internacional, ni en lo relativo a la prerrogativa de gracia.\u00bb</p>\n<p>Por tanto el objetivo es recoger las 500.000 firmas. Al parecer, y siempre seg\u00fan Juan Murillo, ya existen 250.000 firmas recogidas, o sea, la mitad. Hay que hacer un esfuerzo.</p>\n<p>Juan, que es un aut\u00e9ntico campe\u00f3n, reparti\u00f3 las hojas y todav\u00eda quedan algunas sin repartir, y \u00e9stas se repartir\u00e1n el pr\u00f3ximo d\u00eda de asamblea, el segundo s\u00e1bado de julio, a las 11h -y no a las 11:30 como algunos compa\u00f1eros cre\u00edan-; d\u00eda por cierto que no podr\u00e9 asistir.</p>\n<p>Por tanto, recogeremos las firmas y se dar\u00e1n m\u00e1s hojas el pr\u00f3ximo s\u00e1bado de asamblea. Hay tiempo de sobra. Se puede recoger firmas hasta octubre, nada menos.</p>\n<p>Un saludo a toda la cuadrilla. Cuando la \u00abprima\u00bbllegue a 600 points, est\u00e1is todos invitados en mi casa a unas cervess.</p>\n<p>Critobal</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -1452,7 +1368,7 @@
   },
   "author": 751,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1493,14 +1409,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/271/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 279,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/271/revisions/279"
       }
     ],
     "wp:attachment": [
@@ -1554,7 +1464,7 @@
   },
   "author": 751,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1595,14 +1505,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/269/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 270,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/269/revisions/270"
       }
     ],
     "wp:attachment": [
@@ -1644,10 +1548,10 @@
   "type": "post",
   "link": "https://stamariadelaalameda.tomalosbarrios.net/2012/06/20/participacion-en-los-murales-del-agua-de-parte-de-jessica/",
   "title": {
-    "rendered": "Participaci\u00f3n en &#171;Los Murales del agua&#187; (de parte de Jessica)"
+    "rendered": "Participaci\u00f3n en \u00abLos Murales del agua\u00bb (de parte de Jessica)"
   },
   "content": {
-    "rendered": "<p>Hola a tod@s!<br />\nOs reenvio este mail para saber si vamos a participar en esta acci\u00f3n como Asamblea de Sta. M\u00aa. NO QUEDA MUCHO TIEMPO SI OS ANIMAIS TENEMOS QUE EMPEZAR YA A MOVERLO!!!!<br />\nLa acci\u00f3n se llevar\u00e1 a cabo este domingo 24 J en diferentes puntos de la comunidad de Madrid, toda la informaci\u00f3n est\u00e1 al final del texto en &#171;como inscribirte&#187;.</p>\n<p>-Adjunto archivos de papeletas y carteles informativos.<br />\n\u00bfQuien podr\u00eda imprimirlas? Necesitar\u00edamos bastantes cuartillas, podemos decidir imprimirlas por nuestra cuenta o pedirlas (a un pedido conjunto que se hace desde 15 M)pagarlas entre todos y decidir quien las recoje.??<br />\nEn el caso de los carteles habr\u00eda que quedar para repartirlos</p>\n<p>-Si decidimos participar, hay que rellenar un FORMULARIO DE ADHESION y comunicarlo al Ayuntamiento (forma parte del protocolo que adjuntan).<br />\nEl lugar podr\u00eda ser la alambrada de las canchas del Polideportivo de Sta. M\u00aa Estaci\u00f3n, las cuartillas para formar el mural se colgar\u00edan con pinzas y clips directamente a la valla.<br />\n(en el cartel informativo se puede animar a la gente que bajen sus propias pinzas, clips, rotuladores, ceras de colores etc&#8230; para participar)</p>\n<p>SI EMPEZAMOS A TRABAJAR:<br />\nYo puedo rellenar el formulario, contar las papeletas al final de la jornada y repartir los carteles informativos con quien se anime.</p>\n<p>Por otro lado aprobecho para comunicaros que Chino y yo no asistiremos a la siguiente Asamblea porque estaremos unos dias fuera.</p>\n<p>Por favor contestar lo antes posible<br />\nGracias y nos vemos.</p>\n",
+    "rendered": "<p>Hola a tod@s!<br />\nOs reenvio este mail para saber si vamos a participar en esta acci\u00f3n como Asamblea de Sta. M\u00aa. NO QUEDA MUCHO TIEMPO SI OS ANIMAIS TENEMOS QUE EMPEZAR YA A MOVERLO!!!!<br />\nLa acci\u00f3n se llevar\u00e1 a cabo este domingo 24 J en diferentes puntos de la comunidad de Madrid, toda la informaci\u00f3n est\u00e1 al final del texto en \u00abcomo inscribirte\u00bb.</p>\n<p>-Adjunto archivos de papeletas y carteles informativos.<br />\n\u00bfQuien podr\u00eda imprimirlas? Necesitar\u00edamos bastantes cuartillas, podemos decidir imprimirlas por nuestra cuenta o pedirlas (a un pedido conjunto que se hace desde 15 M)pagarlas entre todos y decidir quien las recoje.??<br />\nEn el caso de los carteles habr\u00eda que quedar para repartirlos</p>\n<p>-Si decidimos participar, hay que rellenar un FORMULARIO DE ADHESION y comunicarlo al Ayuntamiento (forma parte del protocolo que adjuntan).<br />\nEl lugar podr\u00eda ser la alambrada de las canchas del Polideportivo de Sta. M\u00aa Estaci\u00f3n, las cuartillas para formar el mural se colgar\u00edan con pinzas y clips directamente a la valla.<br />\n(en el cartel informativo se puede animar a la gente que bajen sus propias pinzas, clips, rotuladores, ceras de colores etc&#8230; para participar)</p>\n<p>SI EMPEZAMOS A TRABAJAR:<br />\nYo puedo rellenar el formulario, contar las papeletas al final de la jornada y repartir los carteles informativos con quien se anime.</p>\n<p>Por otro lado aprobecho para comunicaros que Chino y yo no asistiremos a la siguiente Asamblea porque estaremos unos dias fuera.</p>\n<p>Por favor contestar lo antes posible<br />\nGracias y nos vemos.</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -1656,7 +1560,7 @@
   },
   "author": 751,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1697,14 +1601,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/267/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 268,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/267/revisions/268"
       }
     ],
     "wp:attachment": [
@@ -1758,7 +1656,7 @@
   },
   "author": 751,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1799,14 +1697,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/265/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 266,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/265/revisions/266"
       }
     ],
     "wp:attachment": [
@@ -1860,7 +1752,7 @@
   },
   "author": 751,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1901,14 +1793,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/263/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 264,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/263/revisions/264"
       }
     ],
     "wp:attachment": [
@@ -1962,7 +1848,7 @@
   },
   "author": 751,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2003,14 +1889,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/258/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 261,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/258/revisions/261"
       }
     ],
     "wp:attachment": [
@@ -2064,7 +1944,7 @@
   },
   "author": 751,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2105,14 +1985,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/257/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 262,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/257/revisions/262"
       }
     ],
     "wp:attachment": [
@@ -2157,7 +2031,7 @@
     "rendered": "Nivelazo"
   },
   "content": {
-    "rendered": "<p>Compa\u00f1eros, como ya os dije, la \u00faltima sesi\u00f3n fue un hito.</p>\n<p>Al documental Inside jobs, que fue el que vimos, ha sido galardonado con un superpremio:</p>\n<p>http://coyunturaeconomica.com/noticias/documental-inside-job-gano-un-oscar</p>\n<p>&nbsp;</p>\n<p>Pronto me d\u00ed cuenta del \u00e9xito/hito/mito del documental, cuando pregunt\u00e9 a dos viejucos que estaban en el gallinero de la sala, y que lo estaban viendo. Tendr\u00edan unos ochenta a\u00f1os, como poco. Les pregunt\u00e9 si les gustaba, a lo que respondieron, sin ninguna duda, que era &#171;entretenido y ameno&#187;.</p>\n<p>Qu\u00e9 nivelazo.</p>\n<p>&nbsp;</p>\n<p>Bye</p>\n",
+    "rendered": "<p>Compa\u00f1eros, como ya os dije, la \u00faltima sesi\u00f3n fue un hito.</p>\n<p>Al documental Inside jobs, que fue el que vimos, ha sido galardonado con un superpremio:</p>\n<p>http://coyunturaeconomica.com/noticias/documental-inside-job-gano-un-oscar</p>\n<p>&nbsp;</p>\n<p>Pronto me d\u00ed cuenta del \u00e9xito/hito/mito del documental, cuando pregunt\u00e9 a dos viejucos que estaban en el gallinero de la sala, y que lo estaban viendo. Tendr\u00edan unos ochenta a\u00f1os, como poco. Les pregunt\u00e9 si les gustaba, a lo que respondieron, sin ninguna duda, que era \u00abentretenido y ameno\u00bb.</p>\n<p>Qu\u00e9 nivelazo.</p>\n<p>&nbsp;</p>\n<p>Bye</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -2166,7 +2040,7 @@
   },
   "author": 751,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2207,14 +2081,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/253/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 256,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/253/revisions/256"
       }
     ],
     "wp:attachment": [
@@ -2268,7 +2136,7 @@
   },
   "author": 899,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2309,14 +2177,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/250/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 251,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/250/revisions/251"
       }
     ],
     "wp:attachment": [
@@ -2370,7 +2232,7 @@
   },
   "author": 751,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2411,14 +2273,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/245/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 249,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/245/revisions/249"
       }
     ],
     "wp:attachment": [
@@ -2472,7 +2328,7 @@
   },
   "author": 899,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2513,14 +2369,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/241/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 243,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/241/revisions/243"
       }
     ],
     "wp:attachment": [
@@ -2574,7 +2424,7 @@
   },
   "author": 899,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2615,14 +2465,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/239/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 240,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/239/revisions/240"
       }
     ],
     "wp:attachment": [
@@ -2676,7 +2520,7 @@
   },
   "author": 751,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2717,14 +2561,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/236/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 237,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/236/revisions/237"
       }
     ],
     "wp:attachment": [
@@ -2778,7 +2616,7 @@
   },
   "author": 899,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2819,14 +2657,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/232/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 234,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/232/revisions/234"
       }
     ],
     "wp:attachment": [
@@ -2880,7 +2712,7 @@
   },
   "author": 686,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2921,14 +2753,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/229/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 230,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/229/revisions/230"
       }
     ],
     "wp:attachment": [
@@ -2982,7 +2808,7 @@
   },
   "author": 751,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3023,14 +2849,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/224/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 227,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/224/revisions/227"
       }
     ],
     "wp:attachment": [
@@ -3084,7 +2904,7 @@
   },
   "author": 899,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3125,14 +2945,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/222/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 223,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/222/revisions/223"
       }
     ],
     "wp:attachment": [
@@ -3186,7 +3000,7 @@
   },
   "author": 899,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3227,14 +3041,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/220/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 221,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/220/revisions/221"
       }
     ],
     "wp:attachment": [
@@ -3288,7 +3096,7 @@
   },
   "author": 899,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3329,14 +3137,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/218/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 219,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/218/revisions/219"
       }
     ],
     "wp:attachment": [
@@ -3390,7 +3192,7 @@
   },
   "author": 899,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3431,14 +3233,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/216/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 217,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/216/revisions/217"
       }
     ],
     "wp:attachment": [
@@ -3492,7 +3288,7 @@
   },
   "author": 899,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3533,14 +3329,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/214/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 215,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/214/revisions/215"
       }
     ],
     "wp:attachment": [
@@ -3594,7 +3384,7 @@
   },
   "author": 899,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3635,14 +3425,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/212/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 213,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/212/revisions/213"
       }
     ],
     "wp:attachment": [
@@ -3696,7 +3480,7 @@
   },
   "author": 899,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3737,14 +3521,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/208/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 210,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/208/revisions/210"
       }
     ],
     "wp:attachment": [
@@ -3789,16 +3567,16 @@
     "rendered": "TODOS A LAS CALLES"
   },
   "content": {
-    "rendered": "<h2><strong><span style=\"color: #2f4f88;font-family: Arial;font-size: x-small\">MANIFESTACI\u00d3N EN TODA ESPA\u00d1A EL 13</span></strong></h2>\n<p><span style=\"color: black;font-family: Arial;font-size: x-small\">\u00a0\u00a0 Por otra parte, la vertiente madrile\u00f1a del 15-M ha anunciado la celebraci\u00f3n el pr\u00f3ximo domingo 13 de noviembre de una &#171;manifestaci\u00f3n estatal&#187;, que en Madrid saldr\u00e1 a las 12.00 horas de Atocha con destino a la Puerta del Sol, y para la que piden la &#171;m\u00e1xima difusi\u00f3n&#187;.</span></p>\n<p><span style=\"color: black;font-family: Arial;font-size: x-small\">\u00a0\u00a0 &#8216;Cambio de modelo ya&#8217;, &#8216;Defensa de los P\u00fablico&#8217;, &#8216;Participaci\u00f3n ciudadana&#8217; o &#8216;Stop corrupci\u00f3n son algunos de los lemas que proponen para dicha marcha, la cual, seg\u00fan detallan en su web, ir\u00e1 sucedida de un &#171;Foro Social por un Cambio de Modelo&#187; que tiene previsto celebrarse en Sol a partir de las 14.30, y al que invitan &#171;a todos los grupos de la Acampada Sol y dem\u00e1s asambleas del 15-M a presentar las propuestas que han elaborado&#187; desde que surgi\u00f3 el movimiento hace seis meses.</span></p>\n<p style=\"text-align: left\"><span style=\"color: black;font-family: Arial;font-size: x-small\">\u00a0\u00a0 &#171;Las causas y las consecuencias de este modelo econ\u00f3mico, social\u00a0\u00a0y pol\u00edtico son globales y se producen en el marco de una homogeneizaci\u00f3n cultural sin precedentes, de un neocolonialismo global y de una sociedad al servicio del consumismo salvaje. Por ello exigimos un cambio de modelo ya&#187;, reza el manifiesto consensuado por los indignados.</span></p>\n<p>&nbsp;</p>\n",
+    "rendered": "<h2><strong><span style=\"color: #2f4f88;font-family: Arial;font-size: x-small\">MANIFESTACI\u00d3N EN TODA ESPA\u00d1A EL 13</span></strong></h2>\n<p><span style=\"color: black;font-family: Arial;font-size: x-small\">\u00a0\u00a0 Por otra parte, la vertiente madrile\u00f1a del 15-M ha anunciado la celebraci\u00f3n el pr\u00f3ximo domingo 13 de noviembre de una \u00abmanifestaci\u00f3n estatal\u00bb, que en Madrid saldr\u00e1 a las 12.00 horas de Atocha con destino a la Puerta del Sol, y para la que piden la \u00abm\u00e1xima difusi\u00f3n\u00bb.</span></p>\n<p><span style=\"color: black;font-family: Arial;font-size: x-small\">\u00a0\u00a0 &#8216;Cambio de modelo ya&#8217;, &#8216;Defensa de los P\u00fablico&#8217;, &#8216;Participaci\u00f3n ciudadana&#8217; o &#8216;Stop corrupci\u00f3n son algunos de los lemas que proponen para dicha marcha, la cual, seg\u00fan detallan en su web, ir\u00e1 sucedida de un \u00abForo Social por un Cambio de Modelo\u00bb que tiene previsto celebrarse en Sol a partir de las 14.30, y al que invitan \u00aba todos los grupos de la Acampada Sol y dem\u00e1s asambleas del 15-M a presentar las propuestas que han elaborado\u00bb desde que surgi\u00f3 el movimiento hace seis meses.</span></p>\n<p style=\"text-align: left\"><span style=\"color: black;font-family: Arial;font-size: x-small\">\u00a0\u00a0 \u00abLas causas y las consecuencias de este modelo econ\u00f3mico, social\u00a0\u00a0y pol\u00edtico son globales y se producen en el marco de una homogeneizaci\u00f3n cultural sin precedentes, de un neocolonialismo global y de una sociedad al servicio del consumismo salvaje. Por ello exigimos un cambio de modelo ya\u00bb, reza el manifiesto consensuado por los indignados.</span></p>\n<p>&nbsp;</p>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>MANIFESTACI\u00d3N EN TODA ESPA\u00d1A EL 13 \u00a0\u00a0 Por otra parte, la vertiente madrile\u00f1a del 15-M ha anunciado la celebraci\u00f3n el pr\u00f3ximo domingo 13 de noviembre de una &#171;manifestaci\u00f3n estatal&#187;, que en Madrid saldr\u00e1 a las 12.00 horas de Atocha con &hellip; <a href=\"https://stamariadelaalameda.tomalosbarrios.net/2011/11/07/todos-a-las-calles/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+    "rendered": "<p>MANIFESTACI\u00d3N EN TODA ESPA\u00d1A EL 13 \u00a0\u00a0 Por otra parte, la vertiente madrile\u00f1a del 15-M ha anunciado la celebraci\u00f3n el pr\u00f3ximo domingo 13 de noviembre de una \u00abmanifestaci\u00f3n estatal\u00bb, que en Madrid saldr\u00e1 a las 12.00 horas de Atocha con &hellip; <a href=\"https://stamariadelaalameda.tomalosbarrios.net/2011/11/07/todos-a-las-calles/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
     "protected": false
   },
   "author": 899,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3839,14 +3617,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/203/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 205,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/203/revisions/205"
       }
     ],
     "wp:attachment": [
@@ -3900,7 +3672,7 @@
   },
   "author": 899,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3941,14 +3713,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/200/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 201,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/200/revisions/201"
       }
     ],
     "wp:attachment": [
@@ -4002,7 +3768,7 @@
   },
   "author": 899,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4043,14 +3809,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/198/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 199,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/198/revisions/199"
       }
     ],
     "wp:attachment": [
@@ -4104,7 +3864,7 @@
   },
   "author": 899,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4145,14 +3905,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/196/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 197,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/196/revisions/197"
       }
     ],
     "wp:attachment": [
@@ -4206,7 +3960,7 @@
   },
   "author": 899,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4247,14 +4001,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/194/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 195,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/194/revisions/195"
       }
     ],
     "wp:attachment": [
@@ -4308,7 +4056,7 @@
   },
   "author": 751,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4349,14 +4097,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/189/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 193,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/189/revisions/193"
       }
     ],
     "wp:attachment": [
@@ -4410,7 +4152,7 @@
   },
   "author": 899,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4451,14 +4193,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/187/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 188,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/187/revisions/188"
       }
     ],
     "wp:attachment": [
@@ -4512,7 +4248,7 @@
   },
   "author": 899,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4553,14 +4289,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/185/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 186,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/185/revisions/186"
       }
     ],
     "wp:attachment": [
@@ -4614,7 +4344,7 @@
   },
   "author": 899,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4655,14 +4385,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/183/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 184,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/183/revisions/184"
       }
     ],
     "wp:attachment": [
@@ -4716,7 +4440,7 @@
   },
   "author": 899,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4757,14 +4481,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/180/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 182,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/180/revisions/182"
       }
     ],
     "wp:attachment": [
@@ -4818,7 +4536,7 @@
   },
   "author": 899,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4859,14 +4577,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/178/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 179,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/178/revisions/179"
       }
     ],
     "wp:attachment": [
@@ -4920,7 +4632,7 @@
   },
   "author": 899,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4961,14 +4673,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/175/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 177,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/175/revisions/177"
       }
     ],
     "wp:attachment": [
@@ -5022,7 +4728,7 @@
   },
   "author": 899,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -5063,14 +4769,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/172/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 173,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/172/revisions/173"
       }
     ],
     "wp:attachment": [
@@ -5124,7 +4824,7 @@
   },
   "author": 899,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -5165,14 +4865,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/167/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 169,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/167/revisions/169"
       }
     ],
     "wp:attachment": [
@@ -5226,7 +4920,7 @@
   },
   "author": 874,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -5267,14 +4961,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/160/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 163,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/160/revisions/163"
       }
     ],
     "wp:attachment": [
@@ -5328,7 +5016,7 @@
   },
   "author": 874,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -5369,14 +5057,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/151/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 156,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/151/revisions/156"
       }
     ],
     "wp:attachment": [
@@ -5430,7 +5112,7 @@
   },
   "author": 686,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -5471,14 +5153,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/145/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 146,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/145/revisions/146"
       }
     ],
     "wp:attachment": [
@@ -5532,7 +5208,7 @@
   },
   "author": 686,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -5573,14 +5249,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/143/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 144,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/143/revisions/144"
       }
     ],
     "wp:attachment": [
@@ -5634,7 +5304,7 @@
   },
   "author": 751,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -5675,14 +5345,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/124/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 129,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/124/revisions/129"
       }
     ],
     "wp:attachment": [
@@ -5736,7 +5400,7 @@
   },
   "author": 751,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -5777,14 +5441,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/116/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 117,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/116/revisions/117"
       }
     ],
     "wp:attachment": [
@@ -5838,7 +5496,7 @@
   },
   "author": 751,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -5879,14 +5537,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/114/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 115,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/114/revisions/115"
       }
     ],
     "wp:attachment": [
@@ -5940,7 +5592,7 @@
   },
   "author": 751,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -5981,14 +5633,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/110/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 113,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/110/revisions/113"
       }
     ],
     "wp:attachment": [
@@ -6042,7 +5688,7 @@
   },
   "author": 686,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -6083,14 +5729,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/104/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 105,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/104/revisions/105"
       }
     ],
     "wp:attachment": [
@@ -6144,7 +5784,7 @@
   },
   "author": 751,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -6185,14 +5825,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/94/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 99,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/94/revisions/99"
       }
     ],
     "wp:attachment": [
@@ -6246,7 +5880,7 @@
   },
   "author": 686,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -6287,14 +5921,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/86/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 87,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/86/revisions/87"
       }
     ],
     "wp:attachment": [
@@ -6348,7 +5976,7 @@
   },
   "author": 686,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -6389,14 +6017,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/82/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 83,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/82/revisions/83"
       }
     ],
     "wp:attachment": [
@@ -6450,7 +6072,7 @@
   },
   "author": 686,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -6491,14 +6113,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/77/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 78,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/77/revisions/78"
       }
     ],
     "wp:attachment": [
@@ -6552,7 +6168,7 @@
   },
   "author": 686,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -6593,14 +6209,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/71/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 72,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/71/revisions/72"
       }
     ],
     "wp:attachment": [
@@ -6654,7 +6264,7 @@
   },
   "author": 692,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -6695,14 +6305,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/62/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 63,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/62/revisions/63"
       }
     ],
     "wp:attachment": [
@@ -6756,7 +6360,7 @@
   },
   "author": 686,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -6797,14 +6401,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/56/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 57,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/56/revisions/57"
       }
     ],
     "wp:attachment": [
@@ -6849,7 +6447,7 @@
     "rendered": "Acerca de algo que se dijo sobre los desahucios"
   },
   "content": {
-    "rendered": "<p>Hola.</p>\n<p>Quer\u00eda comentar algo que se habl\u00f3 en la asamblea y que en ese momento a m\u00ed no me cuadraba pero he tardado unas horas en pensarlo. Ana coment\u00f3 que hay (o puede haber) propietarios que han invertido de su propio bolsillo, digamos 80 mil euros, que si \u00a0pierden la casa por no pagar la cuota, tambi\u00e9n pierden los 80 mil euros.</p>\n<p>Es de sentido com\u00fan que no los tienen que perder y si el banco, llegado el caso, no se los devuelve, es una irregularidad denunciable. De todas maneras hay que asegurarse que en las documentaciones figure claramente el importe concedido y el precio de la propiedad, y ah\u00ed tiene que deducirse con toda facilidad qu\u00e9 cantidades aport\u00f3 el comprador y qu\u00e9 cantidades aport\u00f3 el banco. Si ni siquiera est\u00e1 eso, es que al comprador lo han estafado y hay que ser bastante ignorante para firmar el pr\u00e9stamo y que no aparezcan las cantidades aportadas por uno mismo.<br />\nPor poner un ejemplo sencillo: el banco compr\u00f3 por 200 mil euros, el propietario puso 80 y el banco 120 .No nos olvidemos todos los que alguna vez firmamos una hipoteca que hay un p\u00e1rrafo donde queda muy claro que la casa no es del propietario sino del banco hasta terminar de pagar el pr\u00e9stamo. Recuerdo que mi escritura dec\u00eda que yo me compromet\u00eda a cuidar la casa &#171;como un padre diligente&#187; (sic) Por eso hay dos escrituras: la de la casa y la del pr\u00e9stamo. Con la escritura del pr\u00e9stamo es con lo que el banco argumenta que la casa es de \u00e9l y&#8230;.nos guste o no&#8230;es cierto. El banco puso dinero, luego tiene derechos. L\u00f3gicamente, la casa empieza a ser verdaderamente del propietario cuando traspasa la barrera del 50% del pr\u00e9stamo.</p>\n<p>Supongamos que el propietario deja de pagar, por los motivos que sean, y le ejecutan la hipoteca, es decir, pierde la casa y \u00e9sta pasa a ser propiedad exclusiva del banco. En este punto el banco no le devuelve nada porque tampoco tiene de d\u00f3nde sacarlo: sus 120 mil euros fueron a parar al bolsillo del constructor (o el due\u00f1o anterior). La casa, en alg\u00fan momento, se vende otra vez a 200 mil euros. El comprador desahuciado recupera 80 mil euros MAS LAS CUOTAS PAGADAS, de esto no se habl\u00f3, pero tendr\u00eda que ser as\u00ed, porque es como cuando uno vende su propia casa antes de terminar de pagarla. Si yo puse 80 mil euros y pagu\u00e9 cuotas por 20 mil euros, mi derecho son 100 mil euros&#8230;creo yo..\u00bfo no? Creo que s\u00ed; yo le habr\u00e9 devuelto al banco, mes a mes, 20 mil euros, con lo cual, el pr\u00e9stamo se queda en 100 mil euros, que es lo que recupera el banco de sus 120 mil iniciales (habr\u00eda que tener en cuenta los intereses, o sea que es posible que en las cuotas por 20 mil euros una parte son intereses, pero el ejemplo es con n\u00fameros redondos para que yo pueda entenderlo)</p>\n<p>Bueno&#8230;&#8230;&#8230;quer\u00eda comentar esto porque no tuve rapidez mental para hacerlo en ese momento y porque, como dije en la asamblea, creo que hay que estar muy bien informados sobre los casos de desahucio.</p>\n<p>De paso, tambi\u00e9n quiero comentar y dejar como consejo, para todas las asambleas de todos los barrios, que va a ser necesaria MUCHA, pero MUCHA imaginaci\u00f3n para sacar de la crisis a los futuros desahuciados, a los parados de hoy y a los futuros parados y al pa\u00eds en general.</p>\n<p>Ninguna soluci\u00f3n deber\u00eda descartarse de antemano por descabellada que parezca. Si estamos como estamos es, justamente, por habernos comportado en forma descabellada. Lo digo en plural aunque yo, como casi todos, yo me port\u00e9 bien: pagu\u00e9 mi IRPF, no puedo evadir nada porque trabajo por cuenta ajena, no llego a fin de mes m\u00e1s que a base de truquillos de ahorro y siempre llego en n\u00fameros rojos. La crisis, si NO tiene un culpable, \u00e9se soy yo. Pero me toca pagar los aumentos como a todos, me toca que me quiten 80 euros en el sueldo como a muchos y no me quejo porque por lo menos tengo un empleo, tengo antig\u00fcedad y me siento bastante amparado en ese sentido.</p>\n<p>Cuando hablo de imaginaci\u00f3n me refiero a cosas como los microcr\u00e9ditos que otorga un banco hind\u00fa a ciudadanos de escas\u00edsimos recursos y que, por lo poco que he le\u00eddo, funciona bastante bien. No s\u00e9 qu\u00e9 ganancias tiene el banco pero los ciudadanos beneficiados con los cr\u00e9ditos han mejorado mucho su vida.</p>\n<p>En la Argentina exist\u00edan (no s\u00e9 si todav\u00eda) los microemprendimientos, que sol\u00edan ser familias con todos sus miembros desempleados y que iniciaban una actividad comercial (con ayuda tipo cr\u00e9dito) en plan familiar, sin alquiler de local, sin compra de maquinaria especializada&#8230;tal vez sin controles sanitarios, sin salida de humos, sin maquinaria de acero inoxidable, sin carnet de manipulaci\u00f3n de alimentos&#8230;&#8230;.y bueno&#8230;..\u00bfqueremos salir de la crisis? \u00bfC\u00f3mo se puede abrir un establecimiento en Espa\u00f1a si no hay m\u00e1s que reglamentaciones por todas partes? \u00bfC\u00f3mo se puede tener acceso a un cr\u00e9dito, por ejemplo ICO, si tienes que presentarles un plan de empresa que ,al menos en los papeles, d\u00e9 ganancias? \u00bfAlguien cree que algo d\u00e1 ganancias en este momento en Espa\u00f1a, como no sean los psic\u00f3logos?</p>\n<p>Hay que ser flexibles, hay que ser imaginativos y tambi\u00e9n hay que tener ganas de salir con el propio esfuerzo y no (ya s\u00e9 que esto que digo va a ser feo) no esperar permanentemente la prestaci\u00f3n por desempleo. La realidad es que no hay dinero. No gastamos porque no tenemos.</p>\n<p>Los bancos indudablemente son una parte muy pesada en la balanza de resposabilidades. Vale&#8230;no contemos con ellos. No s\u00e9 c\u00f3mo. Pero los bancos son un invento relativamente moderno, del Siglo&#8230;yo qu\u00e9 s\u00e9&#8230;.XV o XVI. \u00bfAntes c\u00f3mo hac\u00edamos?</p>\n<p>Cierto que el mundo no es igual. Si&#8230;nos mal-acostumbramos demasiado al cr\u00e9dito, un invento nefasto para el ciudadano de a pi\u00e9. En alguna \u00e9poca, me acuerdo que cada uno ten\u00eda asumido qu\u00e9 cosas pod\u00edamos tener y qu\u00e9 cosas NO pod\u00edamos tener. Yo nunca tuve un Scalextric. Fue el juguete que sab\u00eda que nunca iba a tener. Y no lo tuve. Mi hijo&#8230;.no tuvo TODAS las pel\u00edculas en video (aquel obsoleto VHS). Sus amigos s\u00ed, pero yo no pod\u00eda comprarle CADA pel\u00edcula que sal\u00eda en VHS. Habr\u00eda que&#8230;..pensar (por lo menos eso) acerca de d\u00f3nde est\u00e1 situado cada uno de nosotros. Todos nos merecemos una casa con calefacci\u00f3n y aire acondicionado. Pero si la instalaci\u00f3n va a costarme un 10% de mi sueldo durante 5 a\u00f1os&#8230;..tendr\u00e9 que pensar que la instalaci\u00f3n es cara, o que yo no puedo pagarla, y que en invierno andar\u00e9 con jersey adentro de casa (que es como fue mi infancia y adolescencia, y no por eso la recuerdo como una \u00e9poca de sufrimiento. M\u00e1s bien, nos agrup\u00e1bamos junto a las estufas o no atrincher\u00e1bamos en el sal\u00f3n, que durante un tiempo fu\u00e9 la \u00fanica estancia de la casa con una estufa tama\u00f1o familiar)<br />\nConoc\u00ed \u00e9pocas en las que se acostumbraba empezar a guardar billetes y monedas para comprar algo. Esper\u00e1bamos varios meses para comprar un electrodom\u00e9stico. Ahorr\u00e1bamos con vistas a las vacaciones. La ropa ten\u00eda que durarnos varias temporadas y nos las pas\u00e1bamos de hermanos a hermanos o hered\u00e1bamos de los primos mayores. Ahora no se hace porque la ropa barata es una basura que no dura un fin de semana&#8230;pero es barata y la gente compra MAL. La suela de los zapatos era de eso: de suela. Y se cambiaba cada tanto, porque el zapato era de piel (cuero) leg\u00edtimo y no \u00edbamos a tirarlo porque la suela tuviera un agujero. Si ahora quieres hacerlo, el zapatero se r\u00ede y te dice que te va a costar m\u00e1s que comprar un zapato nuevo. Claro&#8230;&#8230;&#8230;pero es que ese &#171;zapato nuevo&#187; no es de cuero, es sint\u00e9tico; la suela no es de suela, es sint\u00e9tica. Y no va a durar nada. Si los zapatos de verdad no costaran lo que cuestan, la gente los comprar\u00eda. Y lo mismo con jerseys, pantalones y etc. Pero si los comerciantes no se avienen a ganar un poco menos&#8230;&#8230;va a ser dif\u00edcil que la gente vuelva a gastar. Recuerdo que, a los pocos d\u00edas de la crisis o de alguno de sus picos, iba yo por la Gran V\u00eda y v\u00ed zapatos de cuero leg\u00edtimo que se vend\u00edan casi a un 50% de su precio de unas semanas antes. Me pregunt\u00e9 &#171;\u00bfPor qu\u00e9 el mal parido del comerciante no ten\u00eda estos precios ANTES de la crisis?; \u00bfrealmente, cu\u00e1l es el precio justo de estos zapatos?, \u00bfo se puede poner CUALQUIER precio, a ver si alg\u00fan incauto, o alguno de esos imb\u00e9ciles que pres\u00famen de gastar, lo paga sin discutir?&#187;</p>\n<p>Hay que echarle imaginaci\u00f3n, gastar con criterio, gastar en lo indispensable e imprescindible. Y, de momento, no contar con los bancos. Puede que una o dos generaciones de espa\u00f1oles no tenga casa propia, pero la siguiente la tendr\u00e1 a un precio justo y sin tener que pagar la \u00faltima cuota casi con el \u00faltimo aliento.</p>\n<p>Es todo.</p>\n",
+    "rendered": "<p>Hola.</p>\n<p>Quer\u00eda comentar algo que se habl\u00f3 en la asamblea y que en ese momento a m\u00ed no me cuadraba pero he tardado unas horas en pensarlo. Ana coment\u00f3 que hay (o puede haber) propietarios que han invertido de su propio bolsillo, digamos 80 mil euros, que si \u00a0pierden la casa por no pagar la cuota, tambi\u00e9n pierden los 80 mil euros.</p>\n<p>Es de sentido com\u00fan que no los tienen que perder y si el banco, llegado el caso, no se los devuelve, es una irregularidad denunciable. De todas maneras hay que asegurarse que en las documentaciones figure claramente el importe concedido y el precio de la propiedad, y ah\u00ed tiene que deducirse con toda facilidad qu\u00e9 cantidades aport\u00f3 el comprador y qu\u00e9 cantidades aport\u00f3 el banco. Si ni siquiera est\u00e1 eso, es que al comprador lo han estafado y hay que ser bastante ignorante para firmar el pr\u00e9stamo y que no aparezcan las cantidades aportadas por uno mismo.<br />\nPor poner un ejemplo sencillo: el banco compr\u00f3 por 200 mil euros, el propietario puso 80 y el banco 120 .No nos olvidemos todos los que alguna vez firmamos una hipoteca que hay un p\u00e1rrafo donde queda muy claro que la casa no es del propietario sino del banco hasta terminar de pagar el pr\u00e9stamo. Recuerdo que mi escritura dec\u00eda que yo me compromet\u00eda a cuidar la casa \u00abcomo un padre diligente\u00bb (sic) Por eso hay dos escrituras: la de la casa y la del pr\u00e9stamo. Con la escritura del pr\u00e9stamo es con lo que el banco argumenta que la casa es de \u00e9l y&#8230;.nos guste o no&#8230;es cierto. El banco puso dinero, luego tiene derechos. L\u00f3gicamente, la casa empieza a ser verdaderamente del propietario cuando traspasa la barrera del 50% del pr\u00e9stamo.</p>\n<p>Supongamos que el propietario deja de pagar, por los motivos que sean, y le ejecutan la hipoteca, es decir, pierde la casa y \u00e9sta pasa a ser propiedad exclusiva del banco. En este punto el banco no le devuelve nada porque tampoco tiene de d\u00f3nde sacarlo: sus 120 mil euros fueron a parar al bolsillo del constructor (o el due\u00f1o anterior). La casa, en alg\u00fan momento, se vende otra vez a 200 mil euros. El comprador desahuciado recupera 80 mil euros MAS LAS CUOTAS PAGADAS, de esto no se habl\u00f3, pero tendr\u00eda que ser as\u00ed, porque es como cuando uno vende su propia casa antes de terminar de pagarla. Si yo puse 80 mil euros y pagu\u00e9 cuotas por 20 mil euros, mi derecho son 100 mil euros&#8230;creo yo..\u00bfo no? Creo que s\u00ed; yo le habr\u00e9 devuelto al banco, mes a mes, 20 mil euros, con lo cual, el pr\u00e9stamo se queda en 100 mil euros, que es lo que recupera el banco de sus 120 mil iniciales (habr\u00eda que tener en cuenta los intereses, o sea que es posible que en las cuotas por 20 mil euros una parte son intereses, pero el ejemplo es con n\u00fameros redondos para que yo pueda entenderlo)</p>\n<p>Bueno&#8230;&#8230;&#8230;quer\u00eda comentar esto porque no tuve rapidez mental para hacerlo en ese momento y porque, como dije en la asamblea, creo que hay que estar muy bien informados sobre los casos de desahucio.</p>\n<p>De paso, tambi\u00e9n quiero comentar y dejar como consejo, para todas las asambleas de todos los barrios, que va a ser necesaria MUCHA, pero MUCHA imaginaci\u00f3n para sacar de la crisis a los futuros desahuciados, a los parados de hoy y a los futuros parados y al pa\u00eds en general.</p>\n<p>Ninguna soluci\u00f3n deber\u00eda descartarse de antemano por descabellada que parezca. Si estamos como estamos es, justamente, por habernos comportado en forma descabellada. Lo digo en plural aunque yo, como casi todos, yo me port\u00e9 bien: pagu\u00e9 mi IRPF, no puedo evadir nada porque trabajo por cuenta ajena, no llego a fin de mes m\u00e1s que a base de truquillos de ahorro y siempre llego en n\u00fameros rojos. La crisis, si NO tiene un culpable, \u00e9se soy yo. Pero me toca pagar los aumentos como a todos, me toca que me quiten 80 euros en el sueldo como a muchos y no me quejo porque por lo menos tengo un empleo, tengo antig\u00fcedad y me siento bastante amparado en ese sentido.</p>\n<p>Cuando hablo de imaginaci\u00f3n me refiero a cosas como los microcr\u00e9ditos que otorga un banco hind\u00fa a ciudadanos de escas\u00edsimos recursos y que, por lo poco que he le\u00eddo, funciona bastante bien. No s\u00e9 qu\u00e9 ganancias tiene el banco pero los ciudadanos beneficiados con los cr\u00e9ditos han mejorado mucho su vida.</p>\n<p>En la Argentina exist\u00edan (no s\u00e9 si todav\u00eda) los microemprendimientos, que sol\u00edan ser familias con todos sus miembros desempleados y que iniciaban una actividad comercial (con ayuda tipo cr\u00e9dito) en plan familiar, sin alquiler de local, sin compra de maquinaria especializada&#8230;tal vez sin controles sanitarios, sin salida de humos, sin maquinaria de acero inoxidable, sin carnet de manipulaci\u00f3n de alimentos&#8230;&#8230;.y bueno&#8230;..\u00bfqueremos salir de la crisis? \u00bfC\u00f3mo se puede abrir un establecimiento en Espa\u00f1a si no hay m\u00e1s que reglamentaciones por todas partes? \u00bfC\u00f3mo se puede tener acceso a un cr\u00e9dito, por ejemplo ICO, si tienes que presentarles un plan de empresa que ,al menos en los papeles, d\u00e9 ganancias? \u00bfAlguien cree que algo d\u00e1 ganancias en este momento en Espa\u00f1a, como no sean los psic\u00f3logos?</p>\n<p>Hay que ser flexibles, hay que ser imaginativos y tambi\u00e9n hay que tener ganas de salir con el propio esfuerzo y no (ya s\u00e9 que esto que digo va a ser feo) no esperar permanentemente la prestaci\u00f3n por desempleo. La realidad es que no hay dinero. No gastamos porque no tenemos.</p>\n<p>Los bancos indudablemente son una parte muy pesada en la balanza de resposabilidades. Vale&#8230;no contemos con ellos. No s\u00e9 c\u00f3mo. Pero los bancos son un invento relativamente moderno, del Siglo&#8230;yo qu\u00e9 s\u00e9&#8230;.XV o XVI. \u00bfAntes c\u00f3mo hac\u00edamos?</p>\n<p>Cierto que el mundo no es igual. Si&#8230;nos mal-acostumbramos demasiado al cr\u00e9dito, un invento nefasto para el ciudadano de a pi\u00e9. En alguna \u00e9poca, me acuerdo que cada uno ten\u00eda asumido qu\u00e9 cosas pod\u00edamos tener y qu\u00e9 cosas NO pod\u00edamos tener. Yo nunca tuve un Scalextric. Fue el juguete que sab\u00eda que nunca iba a tener. Y no lo tuve. Mi hijo&#8230;.no tuvo TODAS las pel\u00edculas en video (aquel obsoleto VHS). Sus amigos s\u00ed, pero yo no pod\u00eda comprarle CADA pel\u00edcula que sal\u00eda en VHS. Habr\u00eda que&#8230;..pensar (por lo menos eso) acerca de d\u00f3nde est\u00e1 situado cada uno de nosotros. Todos nos merecemos una casa con calefacci\u00f3n y aire acondicionado. Pero si la instalaci\u00f3n va a costarme un 10% de mi sueldo durante 5 a\u00f1os&#8230;..tendr\u00e9 que pensar que la instalaci\u00f3n es cara, o que yo no puedo pagarla, y que en invierno andar\u00e9 con jersey adentro de casa (que es como fue mi infancia y adolescencia, y no por eso la recuerdo como una \u00e9poca de sufrimiento. M\u00e1s bien, nos agrup\u00e1bamos junto a las estufas o no atrincher\u00e1bamos en el sal\u00f3n, que durante un tiempo fu\u00e9 la \u00fanica estancia de la casa con una estufa tama\u00f1o familiar)<br />\nConoc\u00ed \u00e9pocas en las que se acostumbraba empezar a guardar billetes y monedas para comprar algo. Esper\u00e1bamos varios meses para comprar un electrodom\u00e9stico. Ahorr\u00e1bamos con vistas a las vacaciones. La ropa ten\u00eda que durarnos varias temporadas y nos las pas\u00e1bamos de hermanos a hermanos o hered\u00e1bamos de los primos mayores. Ahora no se hace porque la ropa barata es una basura que no dura un fin de semana&#8230;pero es barata y la gente compra MAL. La suela de los zapatos era de eso: de suela. Y se cambiaba cada tanto, porque el zapato era de piel (cuero) leg\u00edtimo y no \u00edbamos a tirarlo porque la suela tuviera un agujero. Si ahora quieres hacerlo, el zapatero se r\u00ede y te dice que te va a costar m\u00e1s que comprar un zapato nuevo. Claro&#8230;&#8230;&#8230;pero es que ese \u00abzapato nuevo\u00bb no es de cuero, es sint\u00e9tico; la suela no es de suela, es sint\u00e9tica. Y no va a durar nada. Si los zapatos de verdad no costaran lo que cuestan, la gente los comprar\u00eda. Y lo mismo con jerseys, pantalones y etc. Pero si los comerciantes no se avienen a ganar un poco menos&#8230;&#8230;va a ser dif\u00edcil que la gente vuelva a gastar. Recuerdo que, a los pocos d\u00edas de la crisis o de alguno de sus picos, iba yo por la Gran V\u00eda y v\u00ed zapatos de cuero leg\u00edtimo que se vend\u00edan casi a un 50% de su precio de unas semanas antes. Me pregunt\u00e9 \u00ab\u00bfPor qu\u00e9 el mal parido del comerciante no ten\u00eda estos precios ANTES de la crisis?; \u00bfrealmente, cu\u00e1l es el precio justo de estos zapatos?, \u00bfo se puede poner CUALQUIER precio, a ver si alg\u00fan incauto, o alguno de esos imb\u00e9ciles que pres\u00famen de gastar, lo paga sin discutir?\u00bb</p>\n<p>Hay que echarle imaginaci\u00f3n, gastar con criterio, gastar en lo indispensable e imprescindible. Y, de momento, no contar con los bancos. Puede que una o dos generaciones de espa\u00f1oles no tenga casa propia, pero la siguiente la tendr\u00e1 a un precio justo y sin tener que pagar la \u00faltima cuota casi con el \u00faltimo aliento.</p>\n<p>Es todo.</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -6858,7 +6456,7 @@
   },
   "author": 692,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -6899,14 +6497,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/48/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 51,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/48/revisions/51"
       }
     ],
     "wp:attachment": [
@@ -6956,7 +6548,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://stamariadelaalameda.tomalosbarrios.net/files/2011/06/cropped-stamaria.jpg'><img width=\"300\" height=\"63\" src=\"https://stamariadelaalameda.tomalosbarrios.net/files/2011/06/cropped-stamaria-300x63.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://stamariadelaalameda.tomalosbarrios.net/files/2011/06/cropped-stamaria-300x63.jpg 300w, https://stamariadelaalameda.tomalosbarrios.net/files/2011/06/cropped-stamaria.jpg 940w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>http://stamariadelaalameda.tomalosbarrios.net/files/2011/06/cropped-stamaria.jpg</p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://stamariadelaalameda.tomalosbarrios.net/files/2011/06/cropped-stamaria.jpg'><img width=\"300\" height=\"63\" src=\"https://stamariadelaalameda.tomalosbarrios.net/files/2011/06/cropped-stamaria-300x63.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://stamariadelaalameda.tomalosbarrios.net/files/2011/06/cropped-stamaria-300x63.jpg 300w, https://stamariadelaalameda.tomalosbarrios.net/files/2011/06/cropped-stamaria.jpg 940w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>http://stamariadelaalameda.tomalosbarrios.net/files/2011/06/cropped-stamaria.jpg</p>\n"
   },
   "caption": {
     "rendered": "<p>http://stamariadelaalameda.tomalosbarrios.net/files/2011/06/cropped-stamaria.jpg</p>\n"
@@ -7060,7 +6652,7 @@
   },
   "author": 642,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -7101,14 +6693,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/37/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 44,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/37/revisions/44"
       }
     ],
     "wp:attachment": [
@@ -7162,7 +6748,7 @@
   },
   "author": 692,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -7203,14 +6789,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/17/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 18,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/17/revisions/18"
       }
     ],
     "wp:attachment": [
@@ -7264,7 +6844,7 @@
   },
   "author": 642,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -7305,14 +6885,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/5/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 9,
-        "href": "https://stamariadelaalameda.tomalosbarrios.net/wp-json/wp/v2/posts/5/revisions/9"
       }
     ],
     "wp:attachment": [

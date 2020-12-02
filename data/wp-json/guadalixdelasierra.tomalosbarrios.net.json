@@ -15,7 +15,7 @@
     "rendered": "1\u00aa JORNADA de CONSUMO ALTERNATIVO."
   },
   "content": {
-    "rendered": "<div>\n<p>Domingo, 18 de diciembre de 2011, a las 11 horas.</p>\n<div>\n<p>Local de Foco &#8211; Antiguo Kanguro -Ctra de Colmenar pasada la Urbanizaci\u00f3n Miralpantano., Ctra de Colmenar pasada la Urbanizaci\u00f3n Miralpantano., Guadalix de la Sierra</p>\n</div>\n<p>Mercadillo de Trueque.<br />\nGRUPOS DE TRABAJO.<br />\nCooperativas de Consumo &#8211; Banco de Tiempo.</p>\n<p>Comida popular al finalizar el evento. \u00a1Trae algo para compartir!<br />\n<img class=\"alignnone\" src=\"https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash4/379170_316981488326566_216786598346056_1133542_1853015351_n.jpg\" alt=\"\" width=\"672\" height=\"475\" /></p>\n</div>\n",
+    "rendered": "<div>\n<p>Domingo, 18 de diciembre de 2011, a las 11 horas.</p>\n<div>\n<p>Local de Foco &#8211; Antiguo Kanguro -Ctra de Colmenar pasada la Urbanizaci\u00f3n Miralpantano., Ctra de Colmenar pasada la Urbanizaci\u00f3n Miralpantano., Guadalix de la Sierra</p>\n</div>\n<p>Mercadillo de Trueque.<br />\nGRUPOS DE TRABAJO.<br />\nCooperativas de Consumo &#8211; Banco de Tiempo.</p>\n<p>Comida popular al finalizar el evento. \u00a1Trae algo para compartir!<br />\n<img loading=\"lazy\" class=\"alignnone\" src=\"https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash4/379170_316981488326566_216786598346056_1133542_1853015351_n.jpg\" alt=\"\" width=\"672\" height=\"475\" /></p>\n</div>\n",
     "protected": false
   },
   "excerpt": {
@@ -24,7 +24,7 @@
   },
   "author": 344,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -65,14 +65,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/195/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 201,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/195/revisions/201"
       }
     ],
     "wp:attachment": [
@@ -126,7 +120,7 @@
   },
   "author": 344,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -167,14 +161,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/188/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 191,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/188/revisions/191"
       }
     ],
     "wp:attachment": [
@@ -228,7 +216,7 @@
   },
   "author": 344,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -269,14 +257,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/184/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 192,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/184/revisions/192"
       }
     ],
     "wp:attachment": [
@@ -321,7 +303,7 @@
     "rendered": "Cartel Asamblea 23O"
   },
   "content": {
-    "rendered": "<p><a href=\"http://tomalaplazaguadalix.dkworld.es/carteles/cartel_convocatorias_23O.JPG\"><img class=\"alignnone\" src=\"http://tomalaplazaguadalix.dkworld.es/carteles/cartel_convocatorias_23O.JPG\" alt=\"Asamblea 23O\" width=\"485\" height=\"684\" /></a></p>\n",
+    "rendered": "<p><a href=\"http://tomalaplazaguadalix.dkworld.es/carteles/cartel_convocatorias_23O.JPG\"><img loading=\"lazy\" class=\"alignnone\" src=\"http://tomalaplazaguadalix.dkworld.es/carteles/cartel_convocatorias_23O.JPG\" alt=\"Asamblea 23O\" width=\"485\" height=\"684\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -330,7 +312,7 @@
   },
   "author": 344,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -371,14 +353,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/179/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 182,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/179/revisions/182"
       }
     ],
     "wp:attachment": [
@@ -432,7 +408,7 @@
   },
   "author": 344,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -473,14 +449,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/173/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 177,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/173/revisions/177"
       }
     ],
     "wp:attachment": [
@@ -534,7 +504,7 @@
   },
   "author": 344,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -575,14 +545,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/167/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 172,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/167/revisions/172"
       }
     ],
     "wp:attachment": [
@@ -636,7 +600,7 @@
   },
   "author": 344,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -677,14 +641,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/158/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 161,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/158/revisions/161"
       }
     ],
     "wp:attachment": [
@@ -729,7 +687,7 @@
     "rendered": "Cartel Acto 25 Septiembre"
   },
   "content": {
-    "rendered": "<p><a href=\"http://tomalaplazaguadalix.dkworld.es/carteles/CARTEL25septiembre.jpg\"><img class=\"alignnone\" src=\"http://tomalaplazaguadalix.dkworld.es/carteles/CARTEL25septiembre.jpg\" alt=\"\" width=\"512\" height=\"361\" /></a></p>\n",
+    "rendered": "<p><a href=\"http://tomalaplazaguadalix.dkworld.es/carteles/CARTEL25septiembre.jpg\"><img loading=\"lazy\" class=\"alignnone\" src=\"http://tomalaplazaguadalix.dkworld.es/carteles/CARTEL25septiembre.jpg\" alt=\"\" width=\"512\" height=\"361\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -738,7 +696,7 @@
   },
   "author": 344,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -779,14 +737,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/153/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 157,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/153/revisions/157"
       }
     ],
     "wp:attachment": [
@@ -840,7 +792,7 @@
   },
   "author": 344,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -881,14 +833,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/149/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 152,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/149/revisions/152"
       }
     ],
     "wp:attachment": [
@@ -933,7 +879,7 @@
     "rendered": "Cartel Asamblea 27 de Agosto"
   },
   "content": {
-    "rendered": "<p><a href=\"http:/tomalaplazaguadalix.dkworld.es/carteles/cartel_convocatorias_27A.jpg\"><img class=\"alignnone\" src=\"http:/tomalaplazaguadalix.dkworld.es/carteles/cartel_convocatorias_27A.jpg\" alt=\"Cartel 27A\" width=\"621\" height=\"876\" /></a></p>\n",
+    "rendered": "<p><a href=\"http:/tomalaplazaguadalix.dkworld.es/carteles/cartel_convocatorias_27A.jpg\"><img loading=\"lazy\" class=\"alignnone\" src=\"http:/tomalaplazaguadalix.dkworld.es/carteles/cartel_convocatorias_27A.jpg\" alt=\"Cartel 27A\" width=\"621\" height=\"876\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -942,7 +888,7 @@
   },
   "author": 344,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -983,14 +929,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/144/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 147,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/144/revisions/147"
       }
     ],
     "wp:attachment": [
@@ -1044,7 +984,7 @@
   },
   "author": 344,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1085,14 +1025,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/139/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 143,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/139/revisions/143"
       }
     ],
     "wp:attachment": [
@@ -1137,7 +1071,7 @@
     "rendered": "Cartel Asamblea 3 de Agosto"
   },
   "content": {
-    "rendered": "<p><a href=\"http://tomalaplazaguadalix.dkworld.es/carteles/cartel_convocatorias_3A.jpg\"><img class=\"aligncenter\" src=\"http://tomalaplazaguadalix.dkworld.es/carteles/cartel_convocatorias_3A.jpg\" alt=\"\" width=\"697\" height=\"984\" /></a></p>\n",
+    "rendered": "<p><a href=\"http://tomalaplazaguadalix.dkworld.es/carteles/cartel_convocatorias_3A.jpg\"><img loading=\"lazy\" class=\"aligncenter\" src=\"http://tomalaplazaguadalix.dkworld.es/carteles/cartel_convocatorias_3A.jpg\" alt=\"\" width=\"697\" height=\"984\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -1146,7 +1080,7 @@
   },
   "author": 344,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1187,14 +1121,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/134/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 138,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/134/revisions/138"
       }
     ],
     "wp:attachment": [
@@ -1248,7 +1176,7 @@
   },
   "author": 344,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1289,14 +1217,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/129/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 133,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/129/revisions/133"
       }
     ],
     "wp:attachment": [
@@ -1350,7 +1272,7 @@
   },
   "author": 344,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1391,14 +1313,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/124/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 127,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/124/revisions/127"
       }
     ],
     "wp:attachment": [
@@ -1443,7 +1359,7 @@
     "rendered": "Acta Asamblea 10 de Julio"
   },
   "content": {
-    "rendered": "<p><strong>PLAZA CONSISTORIAL, GUADALIX DE LA SIERRA,\u00a0 DOMINGO 10/07/2011 </strong></p>\n<p>Se inicia la asamblea a las 20:21 aproximadamente, con la presencia de Merche, Rosa, Radu, Ming, Raquel, Nadia, Silvia, Juan, Sergio, Ricardo, Jamie, Alfonso M,</p>\n<p>Se \u201cincorporan\u201d a la asamblea un grupo de alrededor de 36 personas que han sido convocadas para organizarse para intentar resolver el problema con el agua que sufre el pueblo de Guadalix de la Sierra.</p>\n<p>Este hecho hace que se <strong>consens\u00fae </strong>modificar el orden del d\u00eda y debatir en primer lugar el punto 8 del orden del d\u00eda 8. Acci\u00f3n &#171;derecho a ducharnos&#187;</p>\n<p>Se explica brevemente a las personas presentes lo que es la Asamblea Popular de Guadalix de la Sierra y se procede con los tres primeros puntos del orden del d\u00eda.</p>\n<p>&nbsp;</p>\n<p><strong>1. Lectura y aprobaci\u00f3n del orden del d\u00eda.</strong></p>\n<p><strong>2. Lectura y aprobaci\u00f3n del acta\u00a0 de la asamblea anterior (martes 28/06/2011)</strong></p>\n<p><strong>3.Distribuci\u00f3n funciones de moderaci\u00f3n, turno de palabra y redacci\u00f3n acta.</strong></p>\n<p>Moderaci\u00f3n: Rosa.</p>\n<p>Turno de palabra: Raquel.</p>\n<p>Redacci\u00f3n del acta: Ming.</p>\n<p>&nbsp;</p>\n<p><strong>8. Acci\u00f3n &#171;derecho a ducharnos&#187;.</strong></p>\n<p>Teresa expone que el problema con el agua en Guadalix ya ha sucedido otros a\u00f1os y propone una acci\u00f3n o protesta en la pza Consistorial simulando que vamos a ducharnos all\u00ed porque en casa no hay agua.</p>\n<p>Jamie expone que el problema se produce por la antig\u00fcedad de las infraestructuras, el crecimiento del n\u00famero de habitantes y urbanizaciones desde\u00a0 los a\u00f1os 90, la red no da abasto, la permisividad del ayuntamiento con los promotores por no exigirles construir la infraestructura necesaria,&#8230;</p>\n<p>Informa de que desde el 98 se dej\u00f3 de pagar al Canal de Isabel II y ahora los recibos del agua los cobra el Ayto. Seg\u00fan la Ley de aguas el dinero que se cobra por este concepto debe de ir destinado solamente para el suministro. Parece ser que el Ayuntamiento invierte este dinero en gasto corriente. Hay 2 millones y medio de deuda con el Canal de Isabel II y hay que traspasar las competencias al Canal. El ayto no facilita informaci\u00f3n. Era la rotura de una bomba y despu\u00e9s un consumo excesivo. No se aclaran. Es un problema de infraestructuras. Propone que lxs vecinxs se organicen. A Iu no le hacen caso en el Ayto. Ser\u00eda conveniente contactar con los medios de comunicaci\u00f3n. Una vecina dice que en el ayto le han dicho que el traspaso de las competencias al Canal est\u00e1 listo y solamente faltan dos firmas. Jamie aclara que es un proceso lento y que durar\u00eda por lo menos una a\u00f1o (Hay que aprobarlo en pleno, publicarlo en bocam, etc.)</p>\n<p>Carlos expone que el Ayto. lleva 6 a\u00f1os diciendo lo mismo. Es una tomadura de pelo. Est\u00e1 de acuerdo con hacer la protesta. No hay presi\u00f3n en el agua.</p>\n<p>Sergio coincide en que el problema viene de lejos y hay que resolverlo ya de una vez. Organizarse. Propone exigir cisternas aunque si no hay dep\u00f3sitos \u2026</p>\n<p>Alejandro dice que ya son 10 a\u00f1os con el problema Hay que protestar ya. No regar el jard\u00edn. Nadie baja a protestar. \u00c9l instal\u00f3 un deposito y un motor y no tiene el problema.</p>\n<p>Alguien no entiende que todo el mundo vot\u00f3 al PP a\u00fan sabiendo este problema.</p>\n<p>Una se\u00f1ora dice que el deposito y el motor hacen que baje la calidad del agua. Se queja de que aun pagando el agua, el IBI, impuestos, etc tengamos que buscar una soluci\u00f3n privada (motor/deposito). Hay que buscar una soluci\u00f3n definitiva.</p>\n<p>Javier. Vive arriba del camino de chozas. El pueblo no se entera del problema porque s\u00f3lo afecta a lxs vecinxs de arriba. En 2008 hab\u00eda agua. Dice que algo ha pasado. Sugiere que el reciente\u00a0 llenado de la piscina municipal tenga algo que ver. Puede ser que haya una aver\u00eda en la estaci\u00f3n de bombeo. Sale el agua hacia arriba pero no llega. Distribuye hacia arriba, en vez de mandar el agua arriba y que caiga por gravedad. Hay 3 y 4 cortes de agua diarios. Esta vez van 48 horas sin agua. Los t\u00e9cnicos han abandonado a los vecinos. No es momento de discursos pol\u00edticos. Ideas para presionar al Ayto. Exigimos tener agua. Propone una \u201ctormenta de ideas\u201d: Ba\u00f1arse en las fuentes p\u00fablicas, no pagar el agua. El precio del agua en Guadalix es de 50 centimos el metro c\u00fabico y en Madrid es de 1,90 euros. No pagar el IBI puntualmente. Cacerolada. Recoger firmas. Informar a la prensa. Circular pitando con los coches y cortar el tr\u00e1fico. Manifestarse en la piscina pac\u00edficamente. Denunciar ante la Guardia Civil. La Polic\u00eda le ha dicho que se puede hacer.</p>\n<p>Rosa propone reunir 600 firmar para una ILM. (15% del censo)</p>\n<p>Jamie. La ley de \u201cBases locales\u201d obliga al suministro de agua. Han pinchado un acu\u00edfero en la zona del instituto y est\u00e1n inyect\u00e1ndola al suministro. No ha podido ver el resultado de los an\u00e1lisis de control de la calidad del agua. Propone que se hagan p\u00fablicos o se contrate una empresa externa.</p>\n<p>Un vecino dice que la red pierde un 40% o un 50%. Una vecina propone cerrar el acceso de veh\u00edculos al pueblo.</p>\n<p>Laura propone formar una comisi\u00f3n sobre este tema y cerrar una acci\u00f3n de protesta para el s\u00e1bado.</p>\n<p>A Rosa no le gusta que se cierre el tr\u00e1fico a los veh\u00edculos.</p>\n<p>Mercedes propone crear una comisi\u00f3n.</p>\n<p>Rosa (como moderadora ofrece el feisbuk, blog, emails de TomalaPlaza Guadalix.)</p>\n<p>Nadia ofrece el Foro e internet. Ha tra\u00eddo papelitos con las direcciones de la web. No le gusta lo de cerrar el tr\u00e1fico. Es poco ecol\u00f3gico. Se deber\u00eda concretar alguna acci\u00f3n. Apoya el simulacro de ducha en la Pza.</p>\n<p>Rosa propone pedir firmas el s\u00e1bado.</p>\n<p>Ming propone crear una comisi\u00f3n de trabajo espec\u00edfica.</p>\n<p>Un vecino propone hacer la acci\u00f3n el s\u00e1bado a las 13horas. Traer una manguera desde la Fuente de la pza de la Libertad.</p>\n<p>Javi propone que le demos seguimiento.</p>\n<p>Ming insiste en crear una comisi\u00f3n.</p>\n<p>Una vecina propone llamar a los medios de comunicaci\u00f3n, no pagar el agua, exigir que el dinero de los recibos del agua se emplee en el suministro.</p>\n<p>Una vecina dice que Onda Sierra emite ma\u00f1ana sobre el problema. Van a llamar a casa de Javier y parece ser que intentar\u00e1n que el Alcalde se explique.</p>\n<p>Se propone establecer un d\u00eda para la siguiente reuni\u00f3n.</p>\n<p>Nadia propone crear comisi\u00f3n.</p>\n<p>Se propone acci\u00f3n para ma\u00f1ana d\u00eda 11 de julio.</p>\n<p>Juan expone que no debemos pensarlo mas. Es algo urgente pues los vecinas est\u00e1n sin agua.</p>\n<p><strong>SE CONSENS\u00daA quedar todas las tarde a partir de ma\u00f1ana d\u00eda 11 en la pza Consistorial.</strong></p>\n<p><strong> </strong></p>\n<p><strong>4.- Encuentro de Pueblos. Impresiones, compromisos adquiridos, propuestas realizadas\u2026.</strong></p>\n<p>&nbsp;</p>\n<p>Juan expone que se intercambiaron impresiones las Comisiones de Comunicaci\u00f3n de los pueblos que acudieron. Y se crear\u00e1 una red para filtrar la informaci\u00f3n. El pr\u00f3ximo encuentro ser\u00e1 el s\u00e1bado 6 de agosto a las 19 horas en El Berrueco. Se explica el desarrollo del encuentro.</p>\n<p>Ming plantea la falta de implicaci\u00f3n, dice que hay asambleas sobre temas concretos en Madrid (p.ej.: Asamblea de educaci\u00f3n en cortilandia), en Sol.</p>\n<p><strong>7.- Asambleas Sierra Norte (Comisi\u00f3n de comunicaci\u00f3n)</strong></p>\n<p>Tambi\u00e9n hubo un encuentro de Sierra Norte, y no estamos acudiendo.</p>\n<p>Juan explica el inicial desencuentro con el Blog de Sierra Norte y que ya se ha aclarado que fue un malentendido y habr\u00eda que mandar a alguien a siguientes reuniones.</p>\n<p><strong>6 .- Marchas de indignados a su paso por Cercedilla, Miraflores, Colmenar Viejo.</strong></p>\n<p>Se informa de la llegada de la Marcha indignada a Madrid el d\u00eda 23. Se prev\u00e9 que la marcha llegue el d\u00eda 20 a Manzanares el Real y a Colmenar Viejo el d\u00eda 21. <strong>Se consensu\u00e1 participar como Asamblea.</strong></p>\n<p>Ming plantea la necesidad de quedar miembros de la comisi\u00f3n de comunicaci\u00f3n o coordinaci\u00f3n con un ordenador y filtrar todos los correos electr\u00f3nicos que est\u00e1 recibiendo el buz\u00f3n de tomalaplaza.guadalix@gmail.com</p>\n<p>Se consens\u00faa que las personas que acudan a las reuniones u eventos con otras Asambleas no tienen capacidad de representar a la Asamblea. Si a informar pero no a tomar decisiones.</p>\n<p><strong>8.-\u00a0 Otros temas y propuestas. Propuesta de Juan sobre desarrollo de un taller sobre el funcionamiento de la Ley Electoral espa\u00f1ola.</strong></p>\n<p>&nbsp;</p>\n<p>Juan explica que quiere hacerlo en alguna Asamblea y que debido a su trabajo conoce como funciona la Ley D\u00b4Hont. No se concreta una fecha ni lugar para realizarlo.</p>\n<p><strong>5.- Comisi\u00f3n de Local: Clasificaci\u00f3n de propuestas por la comisi\u00f3n de Local y propuesta de trabajo.</strong></p>\n<p>La comisi\u00f3n de Local explica que han reunido todas las propuestas surgidas en Asambleas pasadas, las llegadas por internet y las recogidas en los papelorios del encuentro de Pueblos de la Sierra de Madrid. Se han hecho 8 grupos y 2 subgrupos. Se subir\u00e1n al foro. http://tomalaplazaguadalix.dkworld.es/</p>\n<p>Pol\u00edtica Municipal<strong><em><span style=\"text-decoration: underline\"> </span></em></strong></p>\n<p>Cultura<strong><em><span style=\"text-decoration: underline\"> </span></em></strong></p>\n<p>Educaci\u00f3n<strong><em><span style=\"text-decoration: underline\"> </span></em></strong></p>\n<p>Infraestructura, Ubanismo y Seguridad Vial<strong><em><span style=\"text-decoration: underline\"> </span></em></strong></p>\n<p>Medio Ambiente<strong><em><span style=\"text-decoration: underline\"> </span></em></strong></p>\n<p>Empleo y Econom\u00eda<strong><em><span style=\"text-decoration: underline\"> </span></em></strong></p>\n<p>Acci\u00f3n Social y Participaci\u00f3n<strong><em><span style=\"text-decoration: underline\"> </span></em></strong></p>\n<p>Sanidad<strong><em><span style=\"text-decoration: underline\"> </span></em></strong></p>\n<p>La propuesta es crear comisiones antes de la pr\u00f3xima Asamblea. Se propone que cada persona decida en cual de ellas quiere aportar y que estar\u00eda bien apuntarse a m\u00e1s de una para que se pueda dar forma a las propuestas.</p>\n<p><strong>8.-\u00a0 Otros temas y propuestas.</strong></p>\n<p><strong>Se consens\u00faa </strong>que\u00a0 en pr\u00f3ximas Asambleas se pondr\u00e1 una cuerda de tender entre dos \u00e1rboles o farolas para que las personas puedan aportar m\u00e1s propuestas.</p>\n<p>Mercedes expone que deber\u00edamos de cambiar el cartel de convocatoria de las Asambleas.</p>\n<p><strong>\u201cVEN, PARTICIPA Y LUCHA POR TUS PROPUESTAS\u201d</strong>. La idea es que la gente no venga solamente a traer propuestas para que alguien se las haga, sino que se implique en sacarlas adelante participando en la asamblea y trabajando en las comisiones.<br />\n<strong>Juntos podemos&#187;</strong></p>\n<p>Se expone que no estamos poniendo carteles en la Cafeter\u00eda, Bar Lafuente, tal y como se acord\u00f3. Se\u00a0 expone igualmente que Charo no va a poder realizar carteles y pegarlos durante un tiempo por cuestiones laborales.</p>\n<p>El pr\u00f3ximo pleno municipal ser\u00e1 el 25 de agosto y se plantea acudir con c\u00e1maras de video y la Ley y la Sentencia del Tribunal Supremo que establece el derecho a grabar el pleno.</p>\n<p>Se comenta la campa\u00f1a contra la Privatizaci\u00f3n del Canal de Isabel II.</p>\n<p><strong>9.- Convocatoria pr\u00f3xima Asamblea.</strong></p>\n<p><strong> </strong></p>\n<p>Se consens\u00faa que se celebre el pr\u00f3ximo mi\u00e9rcoles d\u00eda 20 a las 20 horas en la Pza. Consistorial.</p>\n<p>Se levanta la sesi\u00f3n asamblearia pasadas a las 22.20 horas</p>\n",
+    "rendered": "<p><strong>PLAZA CONSISTORIAL, GUADALIX DE LA SIERRA,\u00a0 DOMINGO 10/07/2011 </strong></p>\n<p>Se inicia la asamblea a las 20:21 aproximadamente, con la presencia de Merche, Rosa, Radu, Ming, Raquel, Nadia, Silvia, Juan, Sergio, Ricardo, Jamie, Alfonso M,</p>\n<p>Se \u201cincorporan\u201d a la asamblea un grupo de alrededor de 36 personas que han sido convocadas para organizarse para intentar resolver el problema con el agua que sufre el pueblo de Guadalix de la Sierra.</p>\n<p>Este hecho hace que se <strong>consens\u00fae </strong>modificar el orden del d\u00eda y debatir en primer lugar el punto 8 del orden del d\u00eda 8. Acci\u00f3n \u00abderecho a ducharnos\u00bb</p>\n<p>Se explica brevemente a las personas presentes lo que es la Asamblea Popular de Guadalix de la Sierra y se procede con los tres primeros puntos del orden del d\u00eda.</p>\n<p>&nbsp;</p>\n<p><strong>1. Lectura y aprobaci\u00f3n del orden del d\u00eda.</strong></p>\n<p><strong>2. Lectura y aprobaci\u00f3n del acta\u00a0 de la asamblea anterior (martes 28/06/2011)</strong></p>\n<p><strong>3.Distribuci\u00f3n funciones de moderaci\u00f3n, turno de palabra y redacci\u00f3n acta.</strong></p>\n<p>Moderaci\u00f3n: Rosa.</p>\n<p>Turno de palabra: Raquel.</p>\n<p>Redacci\u00f3n del acta: Ming.</p>\n<p>&nbsp;</p>\n<p><strong>8. Acci\u00f3n \u00abderecho a ducharnos\u00bb.</strong></p>\n<p>Teresa expone que el problema con el agua en Guadalix ya ha sucedido otros a\u00f1os y propone una acci\u00f3n o protesta en la pza Consistorial simulando que vamos a ducharnos all\u00ed porque en casa no hay agua.</p>\n<p>Jamie expone que el problema se produce por la antig\u00fcedad de las infraestructuras, el crecimiento del n\u00famero de habitantes y urbanizaciones desde\u00a0 los a\u00f1os 90, la red no da abasto, la permisividad del ayuntamiento con los promotores por no exigirles construir la infraestructura necesaria,&#8230;</p>\n<p>Informa de que desde el 98 se dej\u00f3 de pagar al Canal de Isabel II y ahora los recibos del agua los cobra el Ayto. Seg\u00fan la Ley de aguas el dinero que se cobra por este concepto debe de ir destinado solamente para el suministro. Parece ser que el Ayuntamiento invierte este dinero en gasto corriente. Hay 2 millones y medio de deuda con el Canal de Isabel II y hay que traspasar las competencias al Canal. El ayto no facilita informaci\u00f3n. Era la rotura de una bomba y despu\u00e9s un consumo excesivo. No se aclaran. Es un problema de infraestructuras. Propone que lxs vecinxs se organicen. A Iu no le hacen caso en el Ayto. Ser\u00eda conveniente contactar con los medios de comunicaci\u00f3n. Una vecina dice que en el ayto le han dicho que el traspaso de las competencias al Canal est\u00e1 listo y solamente faltan dos firmas. Jamie aclara que es un proceso lento y que durar\u00eda por lo menos una a\u00f1o (Hay que aprobarlo en pleno, publicarlo en bocam, etc.)</p>\n<p>Carlos expone que el Ayto. lleva 6 a\u00f1os diciendo lo mismo. Es una tomadura de pelo. Est\u00e1 de acuerdo con hacer la protesta. No hay presi\u00f3n en el agua.</p>\n<p>Sergio coincide en que el problema viene de lejos y hay que resolverlo ya de una vez. Organizarse. Propone exigir cisternas aunque si no hay dep\u00f3sitos \u2026</p>\n<p>Alejandro dice que ya son 10 a\u00f1os con el problema Hay que protestar ya. No regar el jard\u00edn. Nadie baja a protestar. \u00c9l instal\u00f3 un deposito y un motor y no tiene el problema.</p>\n<p>Alguien no entiende que todo el mundo vot\u00f3 al PP a\u00fan sabiendo este problema.</p>\n<p>Una se\u00f1ora dice que el deposito y el motor hacen que baje la calidad del agua. Se queja de que aun pagando el agua, el IBI, impuestos, etc tengamos que buscar una soluci\u00f3n privada (motor/deposito). Hay que buscar una soluci\u00f3n definitiva.</p>\n<p>Javier. Vive arriba del camino de chozas. El pueblo no se entera del problema porque s\u00f3lo afecta a lxs vecinxs de arriba. En 2008 hab\u00eda agua. Dice que algo ha pasado. Sugiere que el reciente\u00a0 llenado de la piscina municipal tenga algo que ver. Puede ser que haya una aver\u00eda en la estaci\u00f3n de bombeo. Sale el agua hacia arriba pero no llega. Distribuye hacia arriba, en vez de mandar el agua arriba y que caiga por gravedad. Hay 3 y 4 cortes de agua diarios. Esta vez van 48 horas sin agua. Los t\u00e9cnicos han abandonado a los vecinos. No es momento de discursos pol\u00edticos. Ideas para presionar al Ayto. Exigimos tener agua. Propone una \u201ctormenta de ideas\u201d: Ba\u00f1arse en las fuentes p\u00fablicas, no pagar el agua. El precio del agua en Guadalix es de 50 centimos el metro c\u00fabico y en Madrid es de 1,90 euros. No pagar el IBI puntualmente. Cacerolada. Recoger firmas. Informar a la prensa. Circular pitando con los coches y cortar el tr\u00e1fico. Manifestarse en la piscina pac\u00edficamente. Denunciar ante la Guardia Civil. La Polic\u00eda le ha dicho que se puede hacer.</p>\n<p>Rosa propone reunir 600 firmar para una ILM. (15% del censo)</p>\n<p>Jamie. La ley de \u201cBases locales\u201d obliga al suministro de agua. Han pinchado un acu\u00edfero en la zona del instituto y est\u00e1n inyect\u00e1ndola al suministro. No ha podido ver el resultado de los an\u00e1lisis de control de la calidad del agua. Propone que se hagan p\u00fablicos o se contrate una empresa externa.</p>\n<p>Un vecino dice que la red pierde un 40% o un 50%. Una vecina propone cerrar el acceso de veh\u00edculos al pueblo.</p>\n<p>Laura propone formar una comisi\u00f3n sobre este tema y cerrar una acci\u00f3n de protesta para el s\u00e1bado.</p>\n<p>A Rosa no le gusta que se cierre el tr\u00e1fico a los veh\u00edculos.</p>\n<p>Mercedes propone crear una comisi\u00f3n.</p>\n<p>Rosa (como moderadora ofrece el feisbuk, blog, emails de TomalaPlaza Guadalix.)</p>\n<p>Nadia ofrece el Foro e internet. Ha tra\u00eddo papelitos con las direcciones de la web. No le gusta lo de cerrar el tr\u00e1fico. Es poco ecol\u00f3gico. Se deber\u00eda concretar alguna acci\u00f3n. Apoya el simulacro de ducha en la Pza.</p>\n<p>Rosa propone pedir firmas el s\u00e1bado.</p>\n<p>Ming propone crear una comisi\u00f3n de trabajo espec\u00edfica.</p>\n<p>Un vecino propone hacer la acci\u00f3n el s\u00e1bado a las 13horas. Traer una manguera desde la Fuente de la pza de la Libertad.</p>\n<p>Javi propone que le demos seguimiento.</p>\n<p>Ming insiste en crear una comisi\u00f3n.</p>\n<p>Una vecina propone llamar a los medios de comunicaci\u00f3n, no pagar el agua, exigir que el dinero de los recibos del agua se emplee en el suministro.</p>\n<p>Una vecina dice que Onda Sierra emite ma\u00f1ana sobre el problema. Van a llamar a casa de Javier y parece ser que intentar\u00e1n que el Alcalde se explique.</p>\n<p>Se propone establecer un d\u00eda para la siguiente reuni\u00f3n.</p>\n<p>Nadia propone crear comisi\u00f3n.</p>\n<p>Se propone acci\u00f3n para ma\u00f1ana d\u00eda 11 de julio.</p>\n<p>Juan expone que no debemos pensarlo mas. Es algo urgente pues los vecinas est\u00e1n sin agua.</p>\n<p><strong>SE CONSENS\u00daA quedar todas las tarde a partir de ma\u00f1ana d\u00eda 11 en la pza Consistorial.</strong></p>\n<p><strong> </strong></p>\n<p><strong>4.- Encuentro de Pueblos. Impresiones, compromisos adquiridos, propuestas realizadas\u2026.</strong></p>\n<p>&nbsp;</p>\n<p>Juan expone que se intercambiaron impresiones las Comisiones de Comunicaci\u00f3n de los pueblos que acudieron. Y se crear\u00e1 una red para filtrar la informaci\u00f3n. El pr\u00f3ximo encuentro ser\u00e1 el s\u00e1bado 6 de agosto a las 19 horas en El Berrueco. Se explica el desarrollo del encuentro.</p>\n<p>Ming plantea la falta de implicaci\u00f3n, dice que hay asambleas sobre temas concretos en Madrid (p.ej.: Asamblea de educaci\u00f3n en cortilandia), en Sol.</p>\n<p><strong>7.- Asambleas Sierra Norte (Comisi\u00f3n de comunicaci\u00f3n)</strong></p>\n<p>Tambi\u00e9n hubo un encuentro de Sierra Norte, y no estamos acudiendo.</p>\n<p>Juan explica el inicial desencuentro con el Blog de Sierra Norte y que ya se ha aclarado que fue un malentendido y habr\u00eda que mandar a alguien a siguientes reuniones.</p>\n<p><strong>6 .- Marchas de indignados a su paso por Cercedilla, Miraflores, Colmenar Viejo.</strong></p>\n<p>Se informa de la llegada de la Marcha indignada a Madrid el d\u00eda 23. Se prev\u00e9 que la marcha llegue el d\u00eda 20 a Manzanares el Real y a Colmenar Viejo el d\u00eda 21. <strong>Se consensu\u00e1 participar como Asamblea.</strong></p>\n<p>Ming plantea la necesidad de quedar miembros de la comisi\u00f3n de comunicaci\u00f3n o coordinaci\u00f3n con un ordenador y filtrar todos los correos electr\u00f3nicos que est\u00e1 recibiendo el buz\u00f3n de tomalaplaza.guadalix@gmail.com</p>\n<p>Se consens\u00faa que las personas que acudan a las reuniones u eventos con otras Asambleas no tienen capacidad de representar a la Asamblea. Si a informar pero no a tomar decisiones.</p>\n<p><strong>8.-\u00a0 Otros temas y propuestas. Propuesta de Juan sobre desarrollo de un taller sobre el funcionamiento de la Ley Electoral espa\u00f1ola.</strong></p>\n<p>&nbsp;</p>\n<p>Juan explica que quiere hacerlo en alguna Asamblea y que debido a su trabajo conoce como funciona la Ley D\u00b4Hont. No se concreta una fecha ni lugar para realizarlo.</p>\n<p><strong>5.- Comisi\u00f3n de Local: Clasificaci\u00f3n de propuestas por la comisi\u00f3n de Local y propuesta de trabajo.</strong></p>\n<p>La comisi\u00f3n de Local explica que han reunido todas las propuestas surgidas en Asambleas pasadas, las llegadas por internet y las recogidas en los papelorios del encuentro de Pueblos de la Sierra de Madrid. Se han hecho 8 grupos y 2 subgrupos. Se subir\u00e1n al foro. http://tomalaplazaguadalix.dkworld.es/</p>\n<p>Pol\u00edtica Municipal<strong><em><span style=\"text-decoration: underline\"> </span></em></strong></p>\n<p>Cultura<strong><em><span style=\"text-decoration: underline\"> </span></em></strong></p>\n<p>Educaci\u00f3n<strong><em><span style=\"text-decoration: underline\"> </span></em></strong></p>\n<p>Infraestructura, Ubanismo y Seguridad Vial<strong><em><span style=\"text-decoration: underline\"> </span></em></strong></p>\n<p>Medio Ambiente<strong><em><span style=\"text-decoration: underline\"> </span></em></strong></p>\n<p>Empleo y Econom\u00eda<strong><em><span style=\"text-decoration: underline\"> </span></em></strong></p>\n<p>Acci\u00f3n Social y Participaci\u00f3n<strong><em><span style=\"text-decoration: underline\"> </span></em></strong></p>\n<p>Sanidad<strong><em><span style=\"text-decoration: underline\"> </span></em></strong></p>\n<p>La propuesta es crear comisiones antes de la pr\u00f3xima Asamblea. Se propone que cada persona decida en cual de ellas quiere aportar y que estar\u00eda bien apuntarse a m\u00e1s de una para que se pueda dar forma a las propuestas.</p>\n<p><strong>8.-\u00a0 Otros temas y propuestas.</strong></p>\n<p><strong>Se consens\u00faa </strong>que\u00a0 en pr\u00f3ximas Asambleas se pondr\u00e1 una cuerda de tender entre dos \u00e1rboles o farolas para que las personas puedan aportar m\u00e1s propuestas.</p>\n<p>Mercedes expone que deber\u00edamos de cambiar el cartel de convocatoria de las Asambleas.</p>\n<p><strong>\u201cVEN, PARTICIPA Y LUCHA POR TUS PROPUESTAS\u201d</strong>. La idea es que la gente no venga solamente a traer propuestas para que alguien se las haga, sino que se implique en sacarlas adelante participando en la asamblea y trabajando en las comisiones.<br />\n<strong>Juntos podemos\u00bb</strong></p>\n<p>Se expone que no estamos poniendo carteles en la Cafeter\u00eda, Bar Lafuente, tal y como se acord\u00f3. Se\u00a0 expone igualmente que Charo no va a poder realizar carteles y pegarlos durante un tiempo por cuestiones laborales.</p>\n<p>El pr\u00f3ximo pleno municipal ser\u00e1 el 25 de agosto y se plantea acudir con c\u00e1maras de video y la Ley y la Sentencia del Tribunal Supremo que establece el derecho a grabar el pleno.</p>\n<p>Se comenta la campa\u00f1a contra la Privatizaci\u00f3n del Canal de Isabel II.</p>\n<p><strong>9.- Convocatoria pr\u00f3xima Asamblea.</strong></p>\n<p><strong> </strong></p>\n<p>Se consens\u00faa que se celebre el pr\u00f3ximo mi\u00e9rcoles d\u00eda 20 a las 20 horas en la Pza. Consistorial.</p>\n<p>Se levanta la sesi\u00f3n asamblearia pasadas a las 22.20 horas</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -1452,7 +1368,7 @@
   },
   "author": 344,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1493,14 +1409,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/119/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 123,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/119/revisions/123"
       }
     ],
     "wp:attachment": [
@@ -1556,7 +1466,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1590,14 +1500,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/pages/113/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 117,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/pages/113/revisions/117"
       }
     ],
     "wp:attachment": [
@@ -1630,7 +1534,7 @@
     "rendered": "Cartel Asamblea 10 de Julio"
   },
   "content": {
-    "rendered": "<p><img class=\"aligncenter\" src=\"http://tomalaplazaguadalix.dkworld.es/carteles/cartel_convocatorias_10Ju.JPG\" alt=\"\" width=\"701\" height=\"990\" /></p>\n",
+    "rendered": "<p><img loading=\"lazy\" class=\"aligncenter\" src=\"http://tomalaplazaguadalix.dkworld.es/carteles/cartel_convocatorias_10Ju.JPG\" alt=\"\" width=\"701\" height=\"990\" /></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -1639,7 +1543,7 @@
   },
   "author": 344,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1680,14 +1584,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/108/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 112,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/108/revisions/112"
       }
     ],
     "wp:attachment": [
@@ -1741,7 +1639,7 @@
   },
   "author": 344,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1782,14 +1680,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/103/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 106,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/103/revisions/106"
       }
     ],
     "wp:attachment": [
@@ -1831,7 +1723,7 @@
   "type": "post",
   "link": "https://guadalixdelasierra.tomalosbarrios.net/2011/07/04/descargas-taller-%c2%bfque-es-un-ayuntamiento/",
   "title": {
-    "rendered": "Descargas Taller &#171;\u00bfQu\u00e9 es un Ayuntamiento?&#187;"
+    "rendered": "Descargas Taller \u00ab\u00bfQu\u00e9 es un Ayuntamiento?\u00bb"
   },
   "content": {
     "rendered": "<p>Hola a tod@s.</p>\n<p>Como muchos pedisteis, aqu\u00ed ten\u00e9is el power point de la presentaci\u00f3n de este evento que tuvimos en Guadalix. Proximamente el v\u00eddeo del evento entero.</p>\n<p><a href=\"http://tomalaplazaguadalix.dkworld.es/descargas/taller-ayto.ppt\" target=\"_blank\">\u00bfQu\u00e9 es un Ayuntamiento?, por JA Herencia y James Benyei</a></p>\n",
@@ -1843,7 +1735,7 @@
   },
   "author": 344,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1884,14 +1776,8 @@
     ],
     "version-history": [
       {
-        "count": 7,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/94/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 107,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/94/revisions/107"
       }
     ],
     "wp:attachment": [
@@ -1945,7 +1831,7 @@
   },
   "author": 344,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1986,14 +1872,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/85/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 92,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/85/revisions/92"
       }
     ],
     "wp:attachment": [
@@ -2038,12 +1918,12 @@
     "rendered": "cartel 2julio color"
   },
   "author": 344,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/cartel-2julio-color.jpg'><img width=\"212\" height=\"300\" src=\"https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/cartel-2julio-color-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/cartel-2julio-color-212x300.jpg 212w, https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/cartel-2julio-color-723x1024.jpg 723w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/cartel-2julio-color.jpg'><img width=\"212\" height=\"300\" src=\"https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/cartel-2julio-color-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/cartel-2julio-color-212x300.jpg 212w, https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/cartel-2julio-color-723x1024.jpg 723w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2150,12 +2030,12 @@
     "rendered": "Plano2julio"
   },
   "author": 344,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/Plano2julio.jpg'><img width=\"211\" height=\"300\" src=\"https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/Plano2julio-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/Plano2julio-211x300.jpg 211w, https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/Plano2julio.jpg 595w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/Plano2julio.jpg'><img width=\"211\" height=\"300\" src=\"https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/Plano2julio-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/Plano2julio-211x300.jpg 211w, https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/Plano2julio.jpg 595w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2256,12 +2136,12 @@
     "rendered": "GuadalixPlanoAmpl"
   },
   "author": 344,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlanoAmpl.jpg'><img width=\"300\" height=\"160\" src=\"https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlanoAmpl-300x160.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlanoAmpl-300x160.jpg 300w, https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlanoAmpl-1024x548.jpg 1024w, https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlanoAmpl.jpg 1440w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlanoAmpl.jpg'><img width=\"300\" height=\"160\" src=\"https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlanoAmpl-300x160.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlanoAmpl-300x160.jpg 300w, https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlanoAmpl-1024x548.jpg 1024w, https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlanoAmpl.jpg 1440w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2368,12 +2248,12 @@
     "rendered": "GuadalixPlano"
   },
   "author": 344,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlano.jpg'><img width=\"300\" height=\"160\" src=\"https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlano-300x160.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlano-300x160.jpg 300w, https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlano-1024x548.jpg 1024w, https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlano.jpg 1440w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlano.jpg'><img width=\"300\" height=\"160\" src=\"https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlano-300x160.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlano-300x160.jpg 300w, https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlano-1024x548.jpg 1024w, https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlano.jpg 1440w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2480,12 +2360,12 @@
     "rendered": "Cartel Encuentro 2 Julio B&amp;N"
   },
   "author": 344,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/Cartel-Encuentro-2-Julio-BN.jpg'><img width=\"240\" height=\"300\" src=\"https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/Cartel-Encuentro-2-Julio-BN-240x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/Cartel-Encuentro-2-Julio-BN-240x300.jpg 240w, https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/Cartel-Encuentro-2-Julio-BN-821x1024.jpg 821w\" sizes=\"(max-width: 240px) 100vw, 240px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/Cartel-Encuentro-2-Julio-BN.jpg'><img width=\"240\" height=\"300\" src=\"https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/Cartel-Encuentro-2-Julio-BN-240x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/Cartel-Encuentro-2-Julio-BN-240x300.jpg 240w, https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/Cartel-Encuentro-2-Julio-BN-821x1024.jpg 821w\" sizes=\"(max-width: 240px) 100vw, 240px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2601,7 +2481,7 @@
   },
   "author": 344,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2642,14 +2522,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/73/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 75,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/73/revisions/75"
       }
     ],
     "wp:attachment": [
@@ -2694,7 +2568,7 @@
     "rendered": "II Encuentro de Pueblos de la Sierra 2 de julio en Guadalix de la Sierra"
   },
   "content": {
-    "rendered": "<p>Estimadxs compa\u00f1erxs:</p>\n<p>La Asamblea Popular de Guadalix de la Sierra tiene el gusto de invitar a todos los ciudadanos de la Sierra de Madrid, as\u00ed como a todxs lxs que quieran acercarse a conocernos, interesarse por nuestras dificultades y las acciones que se est\u00e1n tomando al II Encuentro de Pueblos de la Sierra que se va a celebrar el s\u00e1bado 2 de julio de 2011 en Guadalix de la Sierra.</p>\n<p><strong>La comida</strong> se realizar\u00e1 en el conocido en el pueblo como \u201cparque de la piscina\u201d, <strong>a las 14 </strong><strong>horas</strong>. Este parque est\u00e1 casi en la primera entrada de Guadalix viniendo desde la A-1 (\u00faltima viniendo por la M-608 desde Soto del Real). Adjuntamos planos para mejor comprensi\u00f3n. Para los que se desplacen en coche, aqu\u00ed mismo se puede dejar sin problemas. Los asistentes tienen que traer su comida y su bebida.</p>\n<p><strong>A las 17 horas</strong> aproximadamente dar\u00e1 comienzo <strong>la Asamblea de Pueblos</strong>, en otra parte m\u00e1s c\u00e9ntrica del pueblo. La explanada (sombr\u00eda) donde se celebrar\u00e1 est\u00e1 al lado del Edificio Polivalente, tambi\u00e9n indicado en los planos. Durante la Asamblea se tratar\u00e1 de facilitar agua fresca a todos los asistentes.</p>\n<p>Al finalizar la Asamblea (se prev\u00e9 a las 19 \u00f3 19.30 horas), marcharemos a la Plaza Consistorial para terminar la jornada con un breve agradecimiento y unos aplausos.</p>\n<p>Habr\u00e1 dos puntos de informaci\u00f3n, uno en la plaza consistorial y otro en el lugar de la comida, para que seg\u00fan se vaya llegando, se informe del movimiento, se faciliten planos, se compartan direcciones de correo y, sobre todo, <strong>se apunten en unos paneles situados cerca de estos puntos informativos de las necesidades y posibles soluciones </strong><strong>que cada asistente quiera transmitir en el \u00e1mbito local o de la sierra.</strong></p>\n<p>Por \u00faltimo, informaros de que habr\u00e1 un grupo de colaboradores que se encargar\u00e1 de los ni\u00f1os que puedan asistir durante la Asamblea.</p>\n<p>Adjuntamos, aparte de los planos, los dos carteles que se han hecho para su difusi\u00f3n por los respectivos pueblos y la orden del d\u00eda en la Asamblea de Pueblos que se celebrar\u00e1, y a la que, por supuesto, estamos abiertos a cualquier sugerencia.</p>\n<p>\u00a1\u00a1\u00a1Nos vemos el s\u00e1bado 2 de julio!!!</p>\n<p style=\"text-align: left\"><a href=\"http://guadalixdelasierra.tomalosbarrios.net/files/2011/06/Cartel-Encuentro-2-Julio-BN.jpg\"><img class=\"size-thumbnail wp-image-76\" src=\"http://guadalixdelasierra.tomalosbarrios.net/files/2011/06/Cartel-Encuentro-2-Julio-BN-150x150.jpg\" alt=\"\" width=\"150\" height=\"150\" /></a><a href=\"http://guadalixdelasierra.tomalosbarrios.net/files/2011/06/cartel-2julio-color.jpg\"><img class=\"size-thumbnail wp-image-81\" src=\"http://guadalixdelasierra.tomalosbarrios.net/files/2011/06/cartel-2julio-color-150x150.jpg\" alt=\"\" width=\"150\" height=\"150\" /></a></p>\n<p>Orden del d\u00eda</p>\n<p><em>Encuentro de asamblea de los pueblos</em></p>\n<p>Guadalix de la Sierra 2 de julio de 2011</p>\n<p>1. Lectura      del orden del d\u00eda por la persona que modera.</p>\n<p>2. Presentaci\u00f3n      de la persona que modera, de quien toma el turno de palabra y de las dos      personas que se encargar\u00e1n del acta.</p>\n<p>3. Intervenci\u00f3n      de cada una de las asambleas:</p>\n<ul>\n<li>\u00bfDisminuye, se mantiene o crece el n\u00famero de asistentes a la asamblea popular de cada municipio?</li>\n<li>Comisiones, grupos de trabajo y acciones llevadas a cabo hasta la fecha.</li>\n<li>Dificultades operativas que se est\u00e1n encontrando en el funcionamiento de la asamblea.</li>\n</ul>\n<p>4. Vaciado      de la informaci\u00f3n recogida en los paneles de las mesas informativas:</p>\n<ul>\n<li>Necesidades a detectadas a nivel local o supralocal.</li>\n<li>Posibles acciones comunes entre varios municipios.</li>\n</ul>\n<p>5. Turno      libre de palabra.</p>\n<p>6. Fijar      lugar y fecha para el siguiente encuentro.</p>\n<p style=\"text-align: left\"><a href=\"http://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlano.jpg\"><img class=\"size-medium wp-image-77\" src=\"http://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlano-300x160.jpg\" alt=\"\" width=\"300\" height=\"160\" srcset=\"https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlano-300x160.jpg 300w, https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlano-1024x548.jpg 1024w, https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlano.jpg 1440w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlanoAmpl.jpg\"><img class=\"size-medium wp-image-78\" src=\"http://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlanoAmpl-300x160.jpg\" alt=\"\" width=\"300\" height=\"160\" srcset=\"https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlanoAmpl-300x160.jpg 300w, https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlanoAmpl-1024x548.jpg 1024w, https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlanoAmpl.jpg 1440w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p style=\"text-align: left\"><a href=\"http://guadalixdelasierra.tomalosbarrios.net/files/2011/06/Plano2julio.jpg\"><img class=\"size-medium wp-image-79\" src=\"http://guadalixdelasierra.tomalosbarrios.net/files/2011/06/Plano2julio-211x300.jpg\" alt=\"\" width=\"211\" height=\"300\" srcset=\"https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/Plano2julio-211x300.jpg 211w, https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/Plano2julio.jpg 595w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n",
+    "rendered": "<p>Estimadxs compa\u00f1erxs:</p>\n<p>La Asamblea Popular de Guadalix de la Sierra tiene el gusto de invitar a todos los ciudadanos de la Sierra de Madrid, as\u00ed como a todxs lxs que quieran acercarse a conocernos, interesarse por nuestras dificultades y las acciones que se est\u00e1n tomando al II Encuentro de Pueblos de la Sierra que se va a celebrar el s\u00e1bado 2 de julio de 2011 en Guadalix de la Sierra.</p>\n<p><strong>La comida</strong> se realizar\u00e1 en el conocido en el pueblo como \u201cparque de la piscina\u201d, <strong>a las 14 </strong><strong>horas</strong>. Este parque est\u00e1 casi en la primera entrada de Guadalix viniendo desde la A-1 (\u00faltima viniendo por la M-608 desde Soto del Real). Adjuntamos planos para mejor comprensi\u00f3n. Para los que se desplacen en coche, aqu\u00ed mismo se puede dejar sin problemas. Los asistentes tienen que traer su comida y su bebida.</p>\n<p><strong>A las 17 horas</strong> aproximadamente dar\u00e1 comienzo <strong>la Asamblea de Pueblos</strong>, en otra parte m\u00e1s c\u00e9ntrica del pueblo. La explanada (sombr\u00eda) donde se celebrar\u00e1 est\u00e1 al lado del Edificio Polivalente, tambi\u00e9n indicado en los planos. Durante la Asamblea se tratar\u00e1 de facilitar agua fresca a todos los asistentes.</p>\n<p>Al finalizar la Asamblea (se prev\u00e9 a las 19 \u00f3 19.30 horas), marcharemos a la Plaza Consistorial para terminar la jornada con un breve agradecimiento y unos aplausos.</p>\n<p>Habr\u00e1 dos puntos de informaci\u00f3n, uno en la plaza consistorial y otro en el lugar de la comida, para que seg\u00fan se vaya llegando, se informe del movimiento, se faciliten planos, se compartan direcciones de correo y, sobre todo, <strong>se apunten en unos paneles situados cerca de estos puntos informativos de las necesidades y posibles soluciones </strong><strong>que cada asistente quiera transmitir en el \u00e1mbito local o de la sierra.</strong></p>\n<p>Por \u00faltimo, informaros de que habr\u00e1 un grupo de colaboradores que se encargar\u00e1 de los ni\u00f1os que puedan asistir durante la Asamblea.</p>\n<p>Adjuntamos, aparte de los planos, los dos carteles que se han hecho para su difusi\u00f3n por los respectivos pueblos y la orden del d\u00eda en la Asamblea de Pueblos que se celebrar\u00e1, y a la que, por supuesto, estamos abiertos a cualquier sugerencia.</p>\n<p>\u00a1\u00a1\u00a1Nos vemos el s\u00e1bado 2 de julio!!!</p>\n<p style=\"text-align: left\"><a href=\"http://guadalixdelasierra.tomalosbarrios.net/files/2011/06/Cartel-Encuentro-2-Julio-BN.jpg\"><img loading=\"lazy\" class=\"size-thumbnail wp-image-76\" src=\"http://guadalixdelasierra.tomalosbarrios.net/files/2011/06/Cartel-Encuentro-2-Julio-BN-150x150.jpg\" alt=\"\" width=\"150\" height=\"150\" /></a><a href=\"http://guadalixdelasierra.tomalosbarrios.net/files/2011/06/cartel-2julio-color.jpg\"><img loading=\"lazy\" class=\"size-thumbnail wp-image-81\" src=\"http://guadalixdelasierra.tomalosbarrios.net/files/2011/06/cartel-2julio-color-150x150.jpg\" alt=\"\" width=\"150\" height=\"150\" /></a></p>\n<p>Orden del d\u00eda</p>\n<p><em>Encuentro de asamblea de los pueblos</em></p>\n<p>Guadalix de la Sierra 2 de julio de 2011</p>\n<p>1. Lectura      del orden del d\u00eda por la persona que modera.</p>\n<p>2. Presentaci\u00f3n      de la persona que modera, de quien toma el turno de palabra y de las dos      personas que se encargar\u00e1n del acta.</p>\n<p>3. Intervenci\u00f3n      de cada una de las asambleas:</p>\n<ul>\n<li>\u00bfDisminuye, se mantiene o crece el n\u00famero de asistentes a la asamblea popular de cada municipio?</li>\n<li>Comisiones, grupos de trabajo y acciones llevadas a cabo hasta la fecha.</li>\n<li>Dificultades operativas que se est\u00e1n encontrando en el funcionamiento de la asamblea.</li>\n</ul>\n<p>4. Vaciado      de la informaci\u00f3n recogida en los paneles de las mesas informativas:</p>\n<ul>\n<li>Necesidades a detectadas a nivel local o supralocal.</li>\n<li>Posibles acciones comunes entre varios municipios.</li>\n</ul>\n<p>5. Turno      libre de palabra.</p>\n<p>6. Fijar      lugar y fecha para el siguiente encuentro.</p>\n<p style=\"text-align: left\"><a href=\"http://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlano.jpg\"><img loading=\"lazy\" class=\"size-medium wp-image-77\" src=\"http://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlano-300x160.jpg\" alt=\"\" width=\"300\" height=\"160\" srcset=\"https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlano-300x160.jpg 300w, https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlano-1024x548.jpg 1024w, https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlano.jpg 1440w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlanoAmpl.jpg\"><img loading=\"lazy\" class=\"size-medium wp-image-78\" src=\"http://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlanoAmpl-300x160.jpg\" alt=\"\" width=\"300\" height=\"160\" srcset=\"https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlanoAmpl-300x160.jpg 300w, https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlanoAmpl-1024x548.jpg 1024w, https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/GuadalixPlanoAmpl.jpg 1440w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p style=\"text-align: left\"><a href=\"http://guadalixdelasierra.tomalosbarrios.net/files/2011/06/Plano2julio.jpg\"><img loading=\"lazy\" class=\"size-medium wp-image-79\" src=\"http://guadalixdelasierra.tomalosbarrios.net/files/2011/06/Plano2julio-211x300.jpg\" alt=\"\" width=\"211\" height=\"300\" srcset=\"https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/Plano2julio-211x300.jpg 211w, https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/Plano2julio.jpg 595w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -2703,7 +2577,7 @@
   },
   "author": 344,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2744,14 +2618,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/71/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 82,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/71/revisions/82"
       }
     ],
     "wp:attachment": [
@@ -2796,12 +2664,12 @@
     "rendered": "cartel_convocatorias_28J"
   },
   "author": 344,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/cartel_convocatorias_28J.jpg'><img width=\"212\" height=\"300\" src=\"https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/cartel_convocatorias_28J-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/cartel_convocatorias_28J-212x300.jpg 212w, https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/cartel_convocatorias_28J-723x1024.jpg 723w, https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/cartel_convocatorias_28J.jpg 1240w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/cartel_convocatorias_28J.jpg'><img width=\"212\" height=\"300\" src=\"https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/cartel_convocatorias_28J-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/cartel_convocatorias_28J-212x300.jpg 212w, https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/cartel_convocatorias_28J-723x1024.jpg 723w, https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/cartel_convocatorias_28J.jpg 1240w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2908,7 +2776,7 @@
     "rendered": "Cartel Asamblea del 28 de junio de 2011"
   },
   "content": {
-    "rendered": "<p><a href=\"http://guadalixdelasierra.tomalosbarrios.net/files/2011/06/cartel_convocatorias_28J.jpg\"><br />\n</a><a href=\"http://guadalixdelasierra.tomalosbarrios.net/files/2011/06/cartel_convocatorias_28J.jpg\"><img class=\"aligncenter size-full wp-image-66\" src=\"http://guadalixdelasierra.tomalosbarrios.net/files/2011/06/cartel_convocatorias_28J.jpg\" alt=\"\" width=\"1240\" height=\"1754\" srcset=\"https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/cartel_convocatorias_28J.jpg 1240w, https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/cartel_convocatorias_28J-212x300.jpg 212w, https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/cartel_convocatorias_28J-723x1024.jpg 723w\" sizes=\"(max-width: 1240px) 100vw, 1240px\" /></a></p>\n",
+    "rendered": "<p><a href=\"http://guadalixdelasierra.tomalosbarrios.net/files/2011/06/cartel_convocatorias_28J.jpg\"><br />\n</a><a href=\"http://guadalixdelasierra.tomalosbarrios.net/files/2011/06/cartel_convocatorias_28J.jpg\"><img loading=\"lazy\" class=\"aligncenter size-full wp-image-66\" src=\"http://guadalixdelasierra.tomalosbarrios.net/files/2011/06/cartel_convocatorias_28J.jpg\" alt=\"\" width=\"1240\" height=\"1754\" srcset=\"https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/cartel_convocatorias_28J.jpg 1240w, https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/cartel_convocatorias_28J-212x300.jpg 212w, https://guadalixdelasierra.tomalosbarrios.net/files/2011/06/cartel_convocatorias_28J-723x1024.jpg 723w\" sizes=\"(max-width: 1240px) 100vw, 1240px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -2917,7 +2785,7 @@
   },
   "author": 344,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2958,14 +2826,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/60/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 68,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/60/revisions/68"
       }
     ],
     "wp:attachment": [
@@ -3019,7 +2881,7 @@
   },
   "author": 344,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3060,14 +2922,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/52/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 70,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/52/revisions/70"
       }
     ],
     "wp:attachment": [
@@ -3112,7 +2968,7 @@
     "rendered": "Cartel Asamblea 22 de Junio"
   },
   "content": {
-    "rendered": "<p style=\"text-align: center\">&nbsp;</p>\n<div style=\"width: 612px\" class=\"wp-caption aligncenter\"><a href=\"http://tomalaplazaguadalix.dkworld.es/carteles/cartel_convocatorias_22J.jpg\"><img class=\" \" src=\"http://tomalaplazaguadalix.dkworld.es/carteles/cartel_convocatorias_22J.jpg\" alt=\"\" width=\"602\" height=\"850\" /></a><p class=\"wp-caption-text\">http://tomalaplazaguadalix.dkworld.es/carteles/cartel_convocatorias_22J.jpg</p></div>\n",
+    "rendered": "<p style=\"text-align: center\">&nbsp;</p>\n<div style=\"width: 612px\" class=\"wp-caption aligncenter\"><a href=\"http://tomalaplazaguadalix.dkworld.es/carteles/cartel_convocatorias_22J.jpg\"><img loading=\"lazy\" class=\" \" src=\"http://tomalaplazaguadalix.dkworld.es/carteles/cartel_convocatorias_22J.jpg\" alt=\"\" width=\"602\" height=\"850\" /></a><p class=\"wp-caption-text\">http://tomalaplazaguadalix.dkworld.es/carteles/cartel_convocatorias_22J.jpg</p></div>\n",
     "protected": false
   },
   "excerpt": {
@@ -3121,7 +2977,7 @@
   },
   "author": 344,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3162,14 +3018,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/42/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 46,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/42/revisions/46"
       }
     ],
     "wp:attachment": [
@@ -3214,7 +3064,7 @@
     "rendered": "Cartel Asamblea 18 de Junio"
   },
   "content": {
-    "rendered": "<p><a href=\"http://tomalaplazaguadalix.dkworld.es/carteles/cartel_convocatorias_18J.jpg\"><img src=\"http://tomalaplazaguadalix.dkworld.es/carteles/cartel_convocatorias_18J.jpg\" alt=\"\" width=\"627\" height=\"886\" /></a></p>\n",
+    "rendered": "<p><a href=\"http://tomalaplazaguadalix.dkworld.es/carteles/cartel_convocatorias_18J.jpg\"><img loading=\"lazy\" src=\"http://tomalaplazaguadalix.dkworld.es/carteles/cartel_convocatorias_18J.jpg\" alt=\"\" width=\"627\" height=\"886\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -3223,7 +3073,7 @@
   },
   "author": 344,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3264,14 +3114,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/38/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 47,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/38/revisions/47"
       }
     ],
     "wp:attachment": [
@@ -3325,7 +3169,7 @@
   },
   "author": 344,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3366,14 +3210,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/33/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 37,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/33/revisions/37"
       }
     ],
     "wp:attachment": [
@@ -3427,7 +3265,7 @@
   },
   "author": 344,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3468,14 +3306,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/26/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 29,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/26/revisions/29"
       }
     ],
     "wp:attachment": [
@@ -3520,7 +3352,7 @@
     "rendered": "Manifestaci\u00f3n 19 de Junio"
   },
   "content": {
-    "rendered": "<p style=\"text-align: center\"><a href=\"http://www.democraciarealya.es/wp-content/uploads/2011/03/TOMALACALLE_BLACK_19J.png\"><img class=\"aligncenter\" src=\"http://www.democraciarealya.es/wp-content/uploads/2011/03/TOMALACALLE_BLACK_19J.png\" alt=\"19J\" width=\"685\" height=\"436\" /></a></p>\n",
+    "rendered": "<p style=\"text-align: center\"><a href=\"http://www.democraciarealya.es/wp-content/uploads/2011/03/TOMALACALLE_BLACK_19J.png\"><img loading=\"lazy\" class=\"aligncenter\" src=\"http://www.democraciarealya.es/wp-content/uploads/2011/03/TOMALACALLE_BLACK_19J.png\" alt=\"19J\" width=\"685\" height=\"436\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -3529,7 +3361,7 @@
   },
   "author": 344,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3570,14 +3402,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/22/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 25,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/22/revisions/25"
       }
     ],
     "wp:attachment": [
@@ -3631,7 +3457,7 @@
   },
   "author": 344,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3673,14 +3499,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/19/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 21,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/19/revisions/21"
       }
     ],
     "wp:attachment": [
@@ -3736,7 +3556,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3770,14 +3590,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/pages/17/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 18,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/pages/17/revisions/18"
       }
     ],
     "wp:attachment": [
@@ -3819,7 +3633,7 @@
   },
   "author": 344,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3860,14 +3674,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/13/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 15,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/13/revisions/15"
       }
     ],
     "wp:attachment": [
@@ -3912,7 +3720,7 @@
     "rendered": "Convocada la III Asamblea de Guadalix de la Sierra"
   },
   "content": {
-    "rendered": "<p>Seg\u00fan se aprob\u00f3 en la Asamblea del 4 Junio, se convoca la III  Asamblea Popular en la Plaza Consistorial Guadalix de Guadalix de la  Sierra, a  las 20.00 de la tarde.</p>\n<p>Este es el cartel (para descargarlo: bot\u00f3n derecho, guardar como\u2026):</p>\n<p>&nbsp;</p>\n<p><a href=\"http://tomalaplazaguadalix.dkworld.es/carteles/cartel_convocatorias_9J.jpg\"><img src=\"http://tomalaplazaguadalix.dkworld.es/carteles/cartel_convocatorias_9J.jpg\" alt=\"III Asamblea Popular Guadalix de la Sierra\" width=\"464\" height=\"654\" /></a></p>\n",
+    "rendered": "<p>Seg\u00fan se aprob\u00f3 en la Asamblea del 4 Junio, se convoca la III  Asamblea Popular en la Plaza Consistorial Guadalix de Guadalix de la  Sierra, a  las 20.00 de la tarde.</p>\n<p>Este es el cartel (para descargarlo: bot\u00f3n derecho, guardar como\u2026):</p>\n<p>&nbsp;</p>\n<p><a href=\"http://tomalaplazaguadalix.dkworld.es/carteles/cartel_convocatorias_9J.jpg\"><img loading=\"lazy\" src=\"http://tomalaplazaguadalix.dkworld.es/carteles/cartel_convocatorias_9J.jpg\" alt=\"III Asamblea Popular Guadalix de la Sierra\" width=\"464\" height=\"654\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -3921,7 +3729,7 @@
   },
   "author": 344,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3962,14 +3770,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/11/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 12,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/11/revisions/12"
       }
     ],
     "wp:attachment": [
@@ -4014,7 +3816,7 @@
     "rendered": "Convocatoria y Cartel de la Asamblea del 4 de Junio de 2011"
   },
   "content": {
-    "rendered": "<p>Seg\u00fan se aprob\u00f3 en la Asamblea anterior, se cnvoca nueva Asamblea  popular en la Plaza Consistorial Guadalix de Guadalix de la Sierra, a  las 12:00 de la ma\u00f1ana.</p>\n<p>Este es el cartel (para descargarlo: bot\u00f3n derecho, guardar como&#8230;):</p>\n<p><a href=\"http://tomalaplazaguadalix.dkwold.es/carteles/cartel_convocatorias.jpg\"><img src=\"http://tomalaplazaguadalix.dkworld.es/carteles/cartel_convocatorias.jpg\" alt=\"II Asamblea Guadalix\" width=\"583\" height=\"810\" /></a></p>\n<p>&nbsp;</p>\n",
+    "rendered": "<p>Seg\u00fan se aprob\u00f3 en la Asamblea anterior, se cnvoca nueva Asamblea  popular en la Plaza Consistorial Guadalix de Guadalix de la Sierra, a  las 12:00 de la ma\u00f1ana.</p>\n<p>Este es el cartel (para descargarlo: bot\u00f3n derecho, guardar como&#8230;):</p>\n<p><a href=\"http://tomalaplazaguadalix.dkwold.es/carteles/cartel_convocatorias.jpg\"><img loading=\"lazy\" src=\"http://tomalaplazaguadalix.dkworld.es/carteles/cartel_convocatorias.jpg\" alt=\"II Asamblea Guadalix\" width=\"583\" height=\"810\" /></a></p>\n<p>&nbsp;</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -4023,7 +3825,7 @@
   },
   "author": 344,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4064,14 +3866,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/9/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 10,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/9/revisions/10"
       }
     ],
     "wp:attachment": [
@@ -4125,7 +3921,7 @@
   },
   "author": 344,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4166,14 +3962,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/7/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 8,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/7/revisions/8"
       }
     ],
     "wp:attachment": [
@@ -4229,7 +4019,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -4263,14 +4053,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/pages/2/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 16,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/pages/2/revisions/16"
       }
     ],
     "wp:attachment": [
@@ -4312,7 +4096,7 @@
   },
   "author": 7,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4353,14 +4137,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/1/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 6,
-        "href": "https://guadalixdelasierra.tomalosbarrios.net/wp-json/wp/v2/posts/1/revisions/6"
       }
     ],
     "wp:attachment": [

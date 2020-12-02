@@ -15,12 +15,12 @@
     "rendered": "POR EL DERECHO A LA VIVIENDA!"
   },
   "author": 828,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/25S_BLANCO-NEGRO-724x10241.jpg'><img width=\"212\" height=\"300\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/25S_BLANCO-NEGRO-724x10241-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/25S_BLANCO-NEGRO-724x10241-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/25S_BLANCO-NEGRO-724x10241.jpg 724w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/25S_BLANCO-NEGRO-724x10241.jpg'><img width=\"212\" height=\"300\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/25S_BLANCO-NEGRO-724x10241-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/25S_BLANCO-NEGRO-724x10241-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/25S_BLANCO-NEGRO-724x10241.jpg 724w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -133,12 +133,12 @@
     "rendered": "POR EL DERECHO A LA VIVIENDA"
   },
   "author": 828,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/25S_BLANCO-NEGRO-724x1024.jpg'><img width=\"212\" height=\"300\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/25S_BLANCO-NEGRO-724x1024-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/25S_BLANCO-NEGRO-724x1024-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/25S_BLANCO-NEGRO-724x1024.jpg 724w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/25S_BLANCO-NEGRO-724x1024.jpg'><img width=\"212\" height=\"300\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/25S_BLANCO-NEGRO-724x1024-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/25S_BLANCO-NEGRO-724x1024-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/25S_BLANCO-NEGRO-724x1024.jpg 724w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -251,7 +251,7 @@
     "rendered": "POR EL DERECHO A LA VIVIENDA!"
   },
   "content": {
-    "rendered": "<p><a href=\"http://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/25S_BLANCO-NEGRO-724x10241.jpg\"><img class=\"aligncenter size-medium wp-image-65\" src=\"http://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/25S_BLANCO-NEGRO-724x10241-212x300.jpg\" alt=\"\" width=\"212\" height=\"300\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/25S_BLANCO-NEGRO-724x10241-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/25S_BLANCO-NEGRO-724x10241.jpg 724w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n",
+    "rendered": "<p><a href=\"http://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/25S_BLANCO-NEGRO-724x10241.jpg\"><img loading=\"lazy\" class=\"aligncenter size-medium wp-image-65\" src=\"http://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/25S_BLANCO-NEGRO-724x10241-212x300.jpg\" alt=\"\" width=\"212\" height=\"300\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/25S_BLANCO-NEGRO-724x10241-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/25S_BLANCO-NEGRO-724x10241.jpg 724w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -260,7 +260,7 @@
   },
   "author": 828,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -301,14 +301,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://asambleaplayasalicante.tomalosbarrios.net/wp-json/wp/v2/posts/63/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 66,
-        "href": "https://asambleaplayasalicante.tomalosbarrios.net/wp-json/wp/v2/posts/63/revisions/66"
       }
     ],
     "wp:attachment": [
@@ -353,12 +347,12 @@
     "rendered": "CARTEL ASAMBLEA PLAYAS ALICANTE"
   },
   "author": 828,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/CARTEL-ASAMBLEA-2_1.jpeg'><img width=\"211\" height=\"300\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/CARTEL-ASAMBLEA-2_1-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/CARTEL-ASAMBLEA-2_1-211x300.jpg 211w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/CARTEL-ASAMBLEA-2_1.jpeg 595w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/CARTEL-ASAMBLEA-2_1.jpeg'><img width=\"211\" height=\"300\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/CARTEL-ASAMBLEA-2_1-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/CARTEL-ASAMBLEA-2_1-211x300.jpg 211w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/CARTEL-ASAMBLEA-2_1.jpeg 595w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -471,7 +465,7 @@
     "rendered": "ASAMBLEA PLAYAS ALICANTE!"
   },
   "content": {
-    "rendered": "<p><a href=\"http://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/CARTEL-ASAMBLEA-2_1.jpeg\"><img class=\"alignnone size-medium wp-image-59\" src=\"http://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/CARTEL-ASAMBLEA-2_1-211x300.jpg\" alt=\"\" width=\"211\" height=\"300\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/CARTEL-ASAMBLEA-2_1-211x300.jpg 211w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/CARTEL-ASAMBLEA-2_1.jpeg 595w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n",
+    "rendered": "<p><a href=\"http://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/CARTEL-ASAMBLEA-2_1.jpeg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-59\" src=\"http://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/CARTEL-ASAMBLEA-2_1-211x300.jpg\" alt=\"\" width=\"211\" height=\"300\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/CARTEL-ASAMBLEA-2_1-211x300.jpg 211w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/CARTEL-ASAMBLEA-2_1.jpeg 595w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -480,7 +474,7 @@
   },
   "author": 828,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -521,14 +515,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://asambleaplayasalicante.tomalosbarrios.net/wp-json/wp/v2/posts/58/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 62,
-        "href": "https://asambleaplayasalicante.tomalosbarrios.net/wp-json/wp/v2/posts/58/revisions/62"
       }
     ],
     "wp:attachment": [
@@ -573,7 +561,7 @@
     "rendered": "cartel cam hecho"
   },
   "author": 828,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -691,12 +679,12 @@
     "rendered": "ASAMBLEA PLAYAS ALICANTE"
   },
   "author": 828,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/CARTEL-ASAMBLEA.jpg'><img width=\"212\" height=\"300\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/CARTEL-ASAMBLEA-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/CARTEL-ASAMBLEA-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/CARTEL-ASAMBLEA.jpg 620w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/CARTEL-ASAMBLEA.jpg'><img width=\"212\" height=\"300\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/CARTEL-ASAMBLEA-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/CARTEL-ASAMBLEA-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/CARTEL-ASAMBLEA.jpg 620w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -809,7 +797,7 @@
     "rendered": "ASAMBLEA PLAYAS ALICANTE"
   },
   "content": {
-    "rendered": "<p>El<strong> 9 de Septiembre</strong> a las <strong>19:00</strong> en l<strong>a Rotonda de Sergio Cardell!</strong></p>\n<p>DIFUNDE Y PARTICIPA!</p>\n<p><a href=\"http://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/CARTEL-ASAMBLEA.jpg\"><img class=\"alignnone size-medium wp-image-53\" src=\"http://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/CARTEL-ASAMBLEA-212x300.jpg\" alt=\"\" width=\"212\" height=\"300\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/CARTEL-ASAMBLEA-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/CARTEL-ASAMBLEA.jpg 620w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n",
+    "rendered": "<p>El<strong> 9 de Septiembre</strong> a las <strong>19:00</strong> en l<strong>a Rotonda de Sergio Cardell!</strong></p>\n<p>DIFUNDE Y PARTICIPA!</p>\n<p><a href=\"http://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/CARTEL-ASAMBLEA.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-53\" src=\"http://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/CARTEL-ASAMBLEA-212x300.jpg\" alt=\"\" width=\"212\" height=\"300\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/CARTEL-ASAMBLEA-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/09/CARTEL-ASAMBLEA.jpg 620w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -818,7 +806,7 @@
   },
   "author": 828,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -859,14 +847,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://asambleaplayasalicante.tomalosbarrios.net/wp-json/wp/v2/posts/52/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 55,
-        "href": "https://asambleaplayasalicante.tomalosbarrios.net/wp-json/wp/v2/posts/52/revisions/55"
       }
     ],
     "wp:attachment": [
@@ -911,12 +893,12 @@
     "rendered": "cam3"
   },
   "author": 828,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam33.jpg'><img width=\"212\" height=\"300\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam33-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam33-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam33-724x1024.jpg 724w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam33.jpg 827w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam33.jpg'><img width=\"212\" height=\"300\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam33-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam33-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam33-724x1024.jpg 724w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam33.jpg 827w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -1035,12 +1017,12 @@
     "rendered": "cam3"
   },
   "author": 828,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam32.jpg'><img width=\"212\" height=\"300\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam32-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam32-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam32-724x1024.jpg 724w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam32.jpg 827w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam32.jpg'><img width=\"212\" height=\"300\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam32-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam32-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam32-724x1024.jpg 724w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam32.jpg 827w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -1159,12 +1141,12 @@
     "rendered": "cam3"
   },
   "author": 828,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam31.jpg'><img width=\"212\" height=\"300\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam31-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam31-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam31-724x1024.jpg 724w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam31.jpg 827w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam31.jpg'><img width=\"212\" height=\"300\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam31-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam31-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam31-724x1024.jpg 724w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam31.jpg 827w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -1283,7 +1265,7 @@
     "rendered": "\u00bfQu\u00e9 est\u00e1 pasando con la CAM? CAM p\u00fablica ya!"
   },
   "content": {
-    "rendered": "<p><a href=\"http://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam33.jpg\"><img class=\"alignnone size-large wp-image-49\" src=\"http://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam33-724x1024.jpg\" alt=\"\" width=\"467\" height=\"660\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam33-724x1024.jpg 724w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam33-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam33.jpg 827w\" sizes=\"(max-width: 467px) 100vw, 467px\" /></a></p>\n",
+    "rendered": "<p><a href=\"http://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam33.jpg\"><img loading=\"lazy\" class=\"alignnone size-large wp-image-49\" src=\"http://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam33-724x1024.jpg\" alt=\"\" width=\"467\" height=\"660\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam33-724x1024.jpg 724w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam33-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam33.jpg 827w\" sizes=\"(max-width: 467px) 100vw, 467px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -1292,7 +1274,7 @@
   },
   "author": 828,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1333,14 +1315,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://asambleaplayasalicante.tomalosbarrios.net/wp-json/wp/v2/posts/43/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 50,
-        "href": "https://asambleaplayasalicante.tomalosbarrios.net/wp-json/wp/v2/posts/43/revisions/50"
       }
     ],
     "wp:attachment": [
@@ -1385,12 +1361,12 @@
     "rendered": "cam2"
   },
   "author": 828,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam23.jpg'><img width=\"212\" height=\"300\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam23-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam23-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam23.jpg 620w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam23.jpg'><img width=\"212\" height=\"300\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam23-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam23-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam23.jpg 620w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -1503,12 +1479,12 @@
     "rendered": "cam2"
   },
   "author": 828,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam22.jpg'><img width=\"212\" height=\"300\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam22-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam22-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam22.jpg 620w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam22.jpg'><img width=\"212\" height=\"300\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam22-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam22-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam22.jpg 620w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -1621,12 +1597,12 @@
     "rendered": "cam3"
   },
   "author": 828,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam3.jpg'><img width=\"212\" height=\"300\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam3-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam3-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam3-724x1024.jpg 724w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam3.jpg 827w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam3.jpg'><img width=\"212\" height=\"300\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam3-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam3-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam3-724x1024.jpg 724w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam3.jpg 827w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -1745,12 +1721,12 @@
     "rendered": "cam2"
   },
   "author": 828,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam21.jpg'><img width=\"212\" height=\"300\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam21-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam21-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam21.jpg 620w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam21.jpg'><img width=\"212\" height=\"300\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam21-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam21-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam21.jpg 620w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -1863,12 +1839,12 @@
     "rendered": "cam2"
   },
   "author": 828,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam2.jpg'><img width=\"212\" height=\"300\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam2-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam2-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam2.jpg 620w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam2.jpg'><img width=\"212\" height=\"300\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam2-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam2-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam2.jpg 620w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -1981,7 +1957,7 @@
     "rendered": "Hoy mesa informativa sobre la CAM, ven y participa!"
   },
   "content": {
-    "rendered": "<p><a href=\"http://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam23.jpg\"><img class=\"alignnone size-medium wp-image-41\" src=\"http://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam23-212x300.jpg\" alt=\"\" width=\"212\" height=\"300\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam23-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam23.jpg 620w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n",
+    "rendered": "<p><a href=\"http://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam23.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-41\" src=\"http://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam23-212x300.jpg\" alt=\"\" width=\"212\" height=\"300\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam23-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam23.jpg 620w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -1990,7 +1966,7 @@
   },
   "author": 828,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2031,14 +2007,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://asambleaplayasalicante.tomalosbarrios.net/wp-json/wp/v2/posts/30/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 37,
-        "href": "https://asambleaplayasalicante.tomalosbarrios.net/wp-json/wp/v2/posts/30/revisions/37"
       }
     ],
     "wp:attachment": [
@@ -2083,12 +2053,12 @@
     "rendered": "cam"
   },
   "author": 828,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam.jpg'><img width=\"212\" height=\"300\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam.jpg 492w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam.jpg'><img width=\"212\" height=\"300\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam.jpg 492w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2201,12 +2171,12 @@
     "rendered": "288620_133043723454019_133040796787645_226827_2167334_o"
   },
   "author": 828,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/288620_133043723454019_133040796787645_226827_2167334_o.jpg'><img width=\"300\" height=\"225\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/288620_133043723454019_133040796787645_226827_2167334_o-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/288620_133043723454019_133040796787645_226827_2167334_o-300x225.jpg 300w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/288620_133043723454019_133040796787645_226827_2167334_o-1024x768.jpg 1024w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/288620_133043723454019_133040796787645_226827_2167334_o-400x300.jpg 400w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/288620_133043723454019_133040796787645_226827_2167334_o.jpg'><img width=\"300\" height=\"225\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/288620_133043723454019_133040796787645_226827_2167334_o-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/288620_133043723454019_133040796787645_226827_2167334_o-300x225.jpg 300w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/288620_133043723454019_133040796787645_226827_2167334_o-1024x768.jpg 1024w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/288620_133043723454019_133040796787645_226827_2167334_o-400x300.jpg 400w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/288620_133043723454019_133040796787645_226827_2167334_o.jpg 2048w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2322,10 +2292,10 @@
   "type": "post",
   "link": "https://asambleaplayasalicante.tomalosbarrios.net/2011/08/30/manifestacion-28-de-agosto-por-una-cam-publica-ya/",
   "title": {
-    "rendered": "Manifestaci\u00f3n 28 de agosto: &#171;Por una CAM p\u00fablica ya&#187;"
+    "rendered": "Manifestaci\u00f3n 28 de agosto: \u00abPor una CAM p\u00fablica ya\u00bb"
   },
   "content": {
-    "rendered": "<p><a href=\"http://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam.jpg\"><img class=\"alignnone size-medium wp-image-26\" src=\"http://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam-212x300.jpg\" alt=\"\" width=\"212\" height=\"300\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam.jpg 492w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n",
+    "rendered": "<p><a href=\"http://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-26\" src=\"http://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam-212x300.jpg\" alt=\"\" width=\"212\" height=\"300\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/cam.jpg 492w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -2334,7 +2304,7 @@
   },
   "author": 828,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2375,14 +2345,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://asambleaplayasalicante.tomalosbarrios.net/wp-json/wp/v2/posts/22/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 28,
-        "href": "https://asambleaplayasalicante.tomalosbarrios.net/wp-json/wp/v2/posts/22/revisions/28"
       }
     ],
     "wp:attachment": [
@@ -2427,12 +2391,12 @@
     "rendered": "CARTEL ASAMBLEA"
   },
   "author": 828,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/CARTEL-ASAMBLEA1.jpg'><img width=\"211\" height=\"300\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/CARTEL-ASAMBLEA1-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/CARTEL-ASAMBLEA1-211x300.jpg 211w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/CARTEL-ASAMBLEA1-723x1024.jpg 723w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/CARTEL-ASAMBLEA1.jpg 826w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/CARTEL-ASAMBLEA1.jpg'><img width=\"211\" height=\"300\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/CARTEL-ASAMBLEA1-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/CARTEL-ASAMBLEA1-211x300.jpg 211w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/CARTEL-ASAMBLEA1-723x1024.jpg 723w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/CARTEL-ASAMBLEA1.jpg 826w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2551,12 +2515,12 @@
     "rendered": "CARTEL ASAMBLEA"
   },
   "author": 828,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/CARTEL-ASAMBLEA.jpg'><img width=\"211\" height=\"300\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/CARTEL-ASAMBLEA-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/CARTEL-ASAMBLEA-211x300.jpg 211w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/CARTEL-ASAMBLEA-723x1024.jpg 723w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/CARTEL-ASAMBLEA.jpg 826w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/CARTEL-ASAMBLEA.jpg'><img width=\"211\" height=\"300\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/CARTEL-ASAMBLEA-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/CARTEL-ASAMBLEA-211x300.jpg 211w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/CARTEL-ASAMBLEA-723x1024.jpg 723w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/CARTEL-ASAMBLEA.jpg 826w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2675,12 +2639,12 @@
     "rendered": "ASAMBLEA"
   },
   "author": 828,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/290192_141194019305656_133040796787645_256549_6346673_o1.jpg'><img width=\"212\" height=\"300\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/290192_141194019305656_133040796787645_256549_6346673_o1-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/290192_141194019305656_133040796787645_256549_6346673_o1-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/290192_141194019305656_133040796787645_256549_6346673_o1-724x1024.jpg 724w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/290192_141194019305656_133040796787645_256549_6346673_o1.jpg 794w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/290192_141194019305656_133040796787645_256549_6346673_o1.jpg'><img width=\"212\" height=\"300\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/290192_141194019305656_133040796787645_256549_6346673_o1-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/290192_141194019305656_133040796787645_256549_6346673_o1-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/290192_141194019305656_133040796787645_256549_6346673_o1-724x1024.jpg 724w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/290192_141194019305656_133040796787645_256549_6346673_o1.jpg 794w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2799,7 +2763,7 @@
     "rendered": "\u00daltima asamblea viernes 26 de agosto"
   },
   "content": {
-    "rendered": "<p><a href=\"http://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/290192_141194019305656_133040796787645_256549_6346673_o1.jpg\"><img class=\"alignnone size-medium wp-image-16\" src=\"http://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/290192_141194019305656_133040796787645_256549_6346673_o1-212x300.jpg\" alt=\"\" width=\"212\" height=\"300\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/290192_141194019305656_133040796787645_256549_6346673_o1-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/290192_141194019305656_133040796787645_256549_6346673_o1-724x1024.jpg 724w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/290192_141194019305656_133040796787645_256549_6346673_o1.jpg 794w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n",
+    "rendered": "<p><a href=\"http://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/290192_141194019305656_133040796787645_256549_6346673_o1.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-16\" src=\"http://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/290192_141194019305656_133040796787645_256549_6346673_o1-212x300.jpg\" alt=\"\" width=\"212\" height=\"300\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/290192_141194019305656_133040796787645_256549_6346673_o1-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/290192_141194019305656_133040796787645_256549_6346673_o1-724x1024.jpg 724w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/290192_141194019305656_133040796787645_256549_6346673_o1.jpg 794w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -2808,7 +2772,7 @@
   },
   "author": 828,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2849,14 +2813,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://asambleaplayasalicante.tomalosbarrios.net/wp-json/wp/v2/posts/13/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 17,
-        "href": "https://asambleaplayasalicante.tomalosbarrios.net/wp-json/wp/v2/posts/13/revisions/17"
       }
     ],
     "wp:attachment": [
@@ -2901,12 +2859,12 @@
     "rendered": "Asamblea 26 de agosto"
   },
   "author": 828,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/290192_141194019305656_133040796787645_256549_6346673_o.jpg'><img width=\"212\" height=\"300\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/290192_141194019305656_133040796787645_256549_6346673_o-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/290192_141194019305656_133040796787645_256549_6346673_o-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/290192_141194019305656_133040796787645_256549_6346673_o-724x1024.jpg 724w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/290192_141194019305656_133040796787645_256549_6346673_o.jpg 794w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/290192_141194019305656_133040796787645_256549_6346673_o.jpg'><img width=\"212\" height=\"300\" src=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/290192_141194019305656_133040796787645_256549_6346673_o-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/290192_141194019305656_133040796787645_256549_6346673_o-212x300.jpg 212w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/290192_141194019305656_133040796787645_256549_6346673_o-724x1024.jpg 724w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/290192_141194019305656_133040796787645_256549_6346673_o.jpg 794w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3025,7 +2983,7 @@
     "rendered": "CARTEL ASAMBLEA"
   },
   "author": 828,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3087,7 +3045,7 @@
     "rendered": "Todos los viernes asamblea!"
   },
   "content": {
-    "rendered": "<p><a href=\"http://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/CARTEL-ASAMBLEA1.jpg\"><img class=\"alignnone size-medium wp-image-20\" src=\"http://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/CARTEL-ASAMBLEA1-211x300.jpg\" alt=\"\" width=\"211\" height=\"300\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/CARTEL-ASAMBLEA1-211x300.jpg 211w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/CARTEL-ASAMBLEA1-723x1024.jpg 723w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/CARTEL-ASAMBLEA1.jpg 826w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n",
+    "rendered": "<p><a href=\"http://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/CARTEL-ASAMBLEA1.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-20\" src=\"http://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/CARTEL-ASAMBLEA1-211x300.jpg\" alt=\"\" width=\"211\" height=\"300\" srcset=\"https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/CARTEL-ASAMBLEA1-211x300.jpg 211w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/CARTEL-ASAMBLEA1-723x1024.jpg 723w, https://asambleaplayasalicante.tomalosbarrios.net/files/2011/08/CARTEL-ASAMBLEA1.jpg 826w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -3096,7 +3054,7 @@
   },
   "author": 828,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3137,14 +3095,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://asambleaplayasalicante.tomalosbarrios.net/wp-json/wp/v2/posts/5/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 19,
-        "href": "https://asambleaplayasalicante.tomalosbarrios.net/wp-json/wp/v2/posts/5/revisions/19"
       }
     ],
     "wp:attachment": [
@@ -3306,7 +3258,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],

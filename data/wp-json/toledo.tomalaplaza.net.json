@@ -144,14 +144,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/posts/26/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 31,
-        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/posts/26/revisions/31"
       }
     ],
     "wp:attachment": [
@@ -246,14 +240,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/posts/22/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 24,
-        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/posts/22/revisions/24"
       }
     ],
     "wp:attachment": [
@@ -429,14 +417,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/posts/5/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 7,
-        "href": "https://toledo.tomalaplaza.net/wp-json/wp/v2/posts/5/revisions/7"
       }
     ],
     "wp:attachment": [

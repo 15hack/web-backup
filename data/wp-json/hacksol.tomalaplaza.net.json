@@ -65,14 +65,8 @@
     ],
     "version-history": [
       {
-        "count": 11,
+        "count": 0,
         "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/posts/282/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 317,
-        "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/posts/282/revisions/317"
       }
     ],
     "wp:attachment": [
@@ -117,12 +111,12 @@
     "rendered": "propongo"
   },
   "author": 64,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://hacksol.tomalaplaza.net/files/2011/06/propongo.png'><img width=\"300\" height=\"90\" src=\"https://hacksol.tomalaplaza.net/files/2011/06/propongo-300x90.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://hacksol.tomalaplaza.net/files/2011/06/propongo-300x90.png 300w, https://hacksol.tomalaplaza.net/files/2011/06/propongo.png 437w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://hacksol.tomalaplaza.net/files/2011/06/propongo.png'><img width=\"300\" height=\"90\" src=\"https://hacksol.tomalaplaza.net/files/2011/06/propongo-300x90.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://hacksol.tomalaplaza.net/files/2011/06/propongo-300x90.png 300w, https://hacksol.tomalaplaza.net/files/2011/06/propongo.png 437w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": "<p>Propongo a\u00fan est\u00e1 en beta</p>\n"
@@ -217,7 +211,7 @@
     "rendered": "Propongo (beta)"
   },
   "content": {
-    "rendered": "<div id=\"attachment_253\" style=\"width: 447px\" class=\"wp-caption aligncenter\"><img aria-describedby=\"caption-attachment-253\" src=\"http://hacksol.tomalaplaza.net/files/2011/06/propongo.png\" alt=\"\" width=\"437\" height=\"132\" class=\"size-full wp-image-253\" srcset=\"https://hacksol.tomalaplaza.net/files/2011/06/propongo.png 437w, https://hacksol.tomalaplaza.net/files/2011/06/propongo-300x90.png 300w\" sizes=\"(max-width: 437px) 100vw, 437px\" /><p id=\"caption-attachment-253\" class=\"wp-caption-text\">Propongo a\u00fan est\u00e1 en beta</p></div>\n<p>Desde hace pocas fechas est\u00e1 disponible en la red <a href=\"http://propongo.tomalaplaza.net/\">http://propongo.tomalaplaza.net/</a>, aplicaci\u00f3n basada en el software  <a href=\"http://www.question2answer.org/\">Question2Answer</a>, que <strong>pretende ser un buz\u00f3n de propuestas en la red en el contexto del movimiento 15M.</strong> Su alcance es precisamente este, como se puede leer en la propia p\u00e1gina:</p>\n<blockquote><p>Lanzamos &#8220;Propongo&#8221; como herramienta donde cualquier usuario de internet pueda depositar propuestas, que a su vez podr\u00e1n ser debatidas y generar constructivamente nuevas propuestas. Esta herramienta no tiene ning\u00fan car\u00e1cter vinculante dentro del movimiento, ni pretende marcar direcciones prioritarias dentro del debate o la toma de decisiones, ni suplantar en ning\u00fan momento la realidad f\u00edsica de la calle y la plaza. Se trata de una herramienta cuya \u00fanica pretensi\u00f3n es abrir un canal m\u00e1s donde escucharnos y debatir unos con otros.</p></blockquote>\n<p>La herramienta<strong> est\u00e1 en Beta (en pruebas).</strong> Esto quiere decir que su funcionamiento y fisionom\u00eda actual pueden a\u00fan variar notablemente. El hecho de dejarla abierta es precisamente para <strong>testarla entre todos</strong>, descubrir sus flaquezas, perfeccionar su funcionamiento y, en definitiva, ir haci\u00e9ndola una herramienta mejor. </p>\n<p>Es posible que a muchos usuarios les sorprenda que un usuario llamado 15M haya introducido una cantidad ingente de propuestas de lo m\u00e1s variadas, se debe a que el usuario 15m ha sido <strong>un usuario creado para introducir sin moderar todas las propuestas que se han dejado en el buz\u00f3n de Sol.<br />\n</strong></p>\n<p>Algunas recomendaciones para ayudarnos a que las pruebas de <a href=\"http://propongo.tomalaplaza.net/\">Propongo </a>sean lo m\u00e1s operativas posibles:</p>\n<ul>\n<li>Utiliza el <a href=\"http://propongo.tomalaplaza.net/%C3%A1rbol+de+categor%C3%ADas\">\u00e1rbol de categor\u00edas </a>(tambi\u00e9n en fase de definici\u00f3n) para situarte en los temas y subtemas de tu inter\u00e9s y ver las propuestas que la gente ha enviado.</li>\n<li>     Antes de ponerse a utilizarla es recomendable  leer el manual de buenas pr\u00e1cticas incluido en <a href=\"http://propongo.tomalaplaza.net/Intenciones\">el apartado &#8220;Intenciones&#8221;</a> del men\u00fa superior:</li>\n<blockquote><p>Con el objetivo de mejorar el funcionamiento y optimizar los resultados de esta p\u00e1gina se recomienda tener en cuenta los siguientes consejos:<br />\n1) No dupliques propuestas: Antes de subir una propuesta, revisa las propuestas anteriores. Entre ellas podr\u00eda haber una muy parecida a la tuya. Si es as\u00ed, plant\u00e9ate que quiz\u00e1 es mejor no subirla para no sobrecargar de contenidos la p\u00e1gina y no restar fuerza entre propuestas similares.<br />\n2) Medita tus propuestas: No hay prisa, no se nos va a pasar el arroz. Puede ser interesante para ti y para todos que te tomes tu tiempo, consultes con conocidos y reflexiones sobre las propuestas expuestas. Seguramente tu contribuci\u00f3n ser\u00e1 de un valor mucho mayor.<br />\n3) S\u00e9 respetuoso en tus comentarios en los foros: intenta hacer comentarios y cr\u00edticas basadas en la constructividad.</p></blockquote>\n<p>\u00a1A probarla!</p>\n",
+    "rendered": "<div id=\"attachment_253\" style=\"width: 447px\" class=\"wp-caption aligncenter\"><img aria-describedby=\"caption-attachment-253\" loading=\"lazy\" src=\"http://hacksol.tomalaplaza.net/files/2011/06/propongo.png\" alt=\"\" width=\"437\" height=\"132\" class=\"size-full wp-image-253\" srcset=\"https://hacksol.tomalaplaza.net/files/2011/06/propongo.png 437w, https://hacksol.tomalaplaza.net/files/2011/06/propongo-300x90.png 300w\" sizes=\"(max-width: 437px) 100vw, 437px\" /><p id=\"caption-attachment-253\" class=\"wp-caption-text\">Propongo a\u00fan est\u00e1 en beta</p></div>\n<p>Desde hace pocas fechas est\u00e1 disponible en la red <a href=\"http://propongo.tomalaplaza.net/\">http://propongo.tomalaplaza.net/</a>, aplicaci\u00f3n basada en el software  <a href=\"http://www.question2answer.org/\">Question2Answer</a>, que <strong>pretende ser un buz\u00f3n de propuestas en la red en el contexto del movimiento 15M.</strong> Su alcance es precisamente este, como se puede leer en la propia p\u00e1gina:</p>\n<blockquote><p>Lanzamos &#8220;Propongo&#8221; como herramienta donde cualquier usuario de internet pueda depositar propuestas, que a su vez podr\u00e1n ser debatidas y generar constructivamente nuevas propuestas. Esta herramienta no tiene ning\u00fan car\u00e1cter vinculante dentro del movimiento, ni pretende marcar direcciones prioritarias dentro del debate o la toma de decisiones, ni suplantar en ning\u00fan momento la realidad f\u00edsica de la calle y la plaza. Se trata de una herramienta cuya \u00fanica pretensi\u00f3n es abrir un canal m\u00e1s donde escucharnos y debatir unos con otros.</p></blockquote>\n<p>La herramienta<strong> est\u00e1 en Beta (en pruebas).</strong> Esto quiere decir que su funcionamiento y fisionom\u00eda actual pueden a\u00fan variar notablemente. El hecho de dejarla abierta es precisamente para <strong>testarla entre todos</strong>, descubrir sus flaquezas, perfeccionar su funcionamiento y, en definitiva, ir haci\u00e9ndola una herramienta mejor. </p>\n<p>Es posible que a muchos usuarios les sorprenda que un usuario llamado 15M haya introducido una cantidad ingente de propuestas de lo m\u00e1s variadas, se debe a que el usuario 15m ha sido <strong>un usuario creado para introducir sin moderar todas las propuestas que se han dejado en el buz\u00f3n de Sol.<br />\n</strong></p>\n<p>Algunas recomendaciones para ayudarnos a que las pruebas de <a href=\"http://propongo.tomalaplaza.net/\">Propongo </a>sean lo m\u00e1s operativas posibles:</p>\n<ul>\n<li>Utiliza el <a href=\"http://propongo.tomalaplaza.net/%C3%A1rbol+de+categor%C3%ADas\">\u00e1rbol de categor\u00edas </a>(tambi\u00e9n en fase de definici\u00f3n) para situarte en los temas y subtemas de tu inter\u00e9s y ver las propuestas que la gente ha enviado.</li>\n<li>     Antes de ponerse a utilizarla es recomendable  leer el manual de buenas pr\u00e1cticas incluido en <a href=\"http://propongo.tomalaplaza.net/Intenciones\">el apartado &#8220;Intenciones&#8221;</a> del men\u00fa superior:</li>\n<blockquote><p>Con el objetivo de mejorar el funcionamiento y optimizar los resultados de esta p\u00e1gina se recomienda tener en cuenta los siguientes consejos:<br />\n1) No dupliques propuestas: Antes de subir una propuesta, revisa las propuestas anteriores. Entre ellas podr\u00eda haber una muy parecida a la tuya. Si es as\u00ed, plant\u00e9ate que quiz\u00e1 es mejor no subirla para no sobrecargar de contenidos la p\u00e1gina y no restar fuerza entre propuestas similares.<br />\n2) Medita tus propuestas: No hay prisa, no se nos va a pasar el arroz. Puede ser interesante para ti y para todos que te tomes tu tiempo, consultes con conocidos y reflexiones sobre las propuestas expuestas. Seguramente tu contribuci\u00f3n ser\u00e1 de un valor mucho mayor.<br />\n3) S\u00e9 respetuoso en tus comentarios en los foros: intenta hacer comentarios y cr\u00edticas basadas en la constructividad.</p></blockquote>\n<p>\u00a1A probarla!</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -267,14 +261,8 @@
     ],
     "version-history": [
       {
-        "count": 7,
+        "count": 0,
         "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/posts/251/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 318,
-        "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/posts/251/revisions/318"
       }
     ],
     "wp:attachment": [
@@ -319,7 +307,7 @@
     "rendered": "Nuevo en HackSol: Cronolog\u00eda de las redes del movimiento"
   },
   "content": {
-    "rendered": "<p><img src=\"http://hacksol.tomalaplaza.net/files/2011/06/huellas.jpg\" alt=\"\" width=\"500\" height=\"343\" class=\"aligncenter size-full wp-image-220\" srcset=\"https://hacksol.tomalaplaza.net/files/2011/06/huellas.jpg 500w, https://hacksol.tomalaplaza.net/files/2011/06/huellas-300x205.jpg 300w\" sizes=\"(max-width: 500px) 100vw, 500px\" /></p>\n<p>Hemos incluido una nueva <a href=\"http://hacksol.tomalaplaza.net/cronologia-de-las-redes-el-movimiento-15m/\">p\u00e1gina </a>con una cronolog\u00eda del movimiento 15M en la red, un breve mapeo de c\u00f3mo han ido surgiendo d\u00eda a d\u00eda las diferentes herramientas de comunicaci\u00f3n del movimiento. Esperemos que la p\u00e1gina est\u00e9 viva y tengamos que seguir enriqueci\u00e9ndola por mucho tiempo.</p>\n<p><a href=\"http://hacksol.tomalaplaza.net/cronologia-de-las-redes-el-movimiento-15m/\">*Cronolog\u00eda de las redes del movimiento 15M</a></p>\n",
+    "rendered": "<p><img loading=\"lazy\" src=\"http://hacksol.tomalaplaza.net/files/2011/06/huellas.jpg\" alt=\"\" width=\"500\" height=\"343\" class=\"aligncenter size-full wp-image-220\" srcset=\"https://hacksol.tomalaplaza.net/files/2011/06/huellas.jpg 500w, https://hacksol.tomalaplaza.net/files/2011/06/huellas-300x205.jpg 300w\" sizes=\"(max-width: 500px) 100vw, 500px\" /></p>\n<p>Hemos incluido una nueva <a href=\"http://hacksol.tomalaplaza.net/cronologia-de-las-redes-el-movimiento-15m/\">p\u00e1gina </a>con una cronolog\u00eda del movimiento 15M en la red, un breve mapeo de c\u00f3mo han ido surgiendo d\u00eda a d\u00eda las diferentes herramientas de comunicaci\u00f3n del movimiento. Esperemos que la p\u00e1gina est\u00e9 viva y tengamos que seguir enriqueci\u00e9ndola por mucho tiempo.</p>\n<p><a href=\"http://hacksol.tomalaplaza.net/cronologia-de-las-redes-el-movimiento-15m/\">*Cronolog\u00eda de las redes del movimiento 15M</a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -369,14 +357,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/posts/224/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 319,
-        "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/posts/224/revisions/319"
       }
     ],
     "wp:attachment": [
@@ -421,12 +403,12 @@
     "rendered": "huellas"
   },
   "author": 64,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://hacksol.tomalaplaza.net/files/2011/06/huellas.jpg'><img width=\"300\" height=\"205\" src=\"https://hacksol.tomalaplaza.net/files/2011/06/huellas-300x205.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://hacksol.tomalaplaza.net/files/2011/06/huellas-300x205.jpg 300w, https://hacksol.tomalaplaza.net/files/2011/06/huellas.jpg 500w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://hacksol.tomalaplaza.net/files/2011/06/huellas.jpg'><img width=\"300\" height=\"205\" src=\"https://hacksol.tomalaplaza.net/files/2011/06/huellas-300x205.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://hacksol.tomalaplaza.net/files/2011/06/huellas-300x205.jpg 300w, https://hacksol.tomalaplaza.net/files/2011/06/huellas.jpg 500w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -521,7 +503,7 @@
     "rendered": "Cronolog\u00eda de las redes y nodos del movimiento 15M"
   },
   "content": {
-    "rendered": "<p><img class=\"aligncenter size-full wp-image-220\" src=\"http://hacksol.tomalaplaza.net/files/2011/06/huellas.jpg\" alt=\"\" width=\"500\" height=\"343\" srcset=\"https://hacksol.tomalaplaza.net/files/2011/06/huellas.jpg 500w, https://hacksol.tomalaplaza.net/files/2011/06/huellas-300x205.jpg 300w\" sizes=\"(max-width: 500px) 100vw, 500px\" /></p>\n<h1>Cronolog\u00eda de redes</h1>\n<p><strong>15 mayo noche</strong><br />\n<em>twitter</em>: @<a href=\"http://twitter.com/#!/acampadasol\">acampadasol</a><br />\n** <a href=\"http://myfirsttweet.com/1st/acampadasol\">1er tweet</a>:  <em>Acabamos de acampar en la Puerta del Sol de Madrid, no nos vamos hasta que lleguemos a un acuerdo. #acampadaSol</em><br />\n<strong>16 mayo noche</strong><em><br />\nsite</em>: <a href=\"https://spanishrevolution.net/\">https://spanishrevolution.net/ </a><br />\n** <a href=\"http://alejandroberbel.informaticalibre.es/wp-content/uploads/2011/05/1305579962_497160_1305586162_grande.jpg\">imagen de la compra del primer dominio</a><br />\n<em>facebook</em>: <a href=\"http://www.facebook.com/SpanishRevolution\">http://www.facebook.com/SpanishRevolution </a><br />\n** <a href=\"http://www.facebook.com/media/set/?set=a.110192839069526.24736.110177082404435\">primer post en facebook</a><br />\n<strong>17 mayo </strong><br />\n<em>site</em>: <a href=\"http://tomalaplaza.net/\">http://tomalaplaza.net/</a><br />\n<strong>18 mayo </strong><br />\n<em>twitter</em>: <a href=\"https://twitter.com/takethesquare\">@takethesquare</a></p>\n<p><strong>21 mayo</strong><br />\n<em>site</em>: <a href=\"http://takethesquare.net/\">http://takethesquare.net/ </a><br />\n<em>facebook</em>: <a href=\"http://www.facebook.com/Take.the.Square\">http://www.facebook.com/Take.the.Square </a></p>\n<p><strong>23mayo</strong><br />\n<em>site</em>: <a href=\"http://tomalosbarrios.net\">http://tomalosbarrios.net </a><br />\n<em>facebook</em>: <a href=\"http://www.facebook.com/acampadasol\">http://www.facebook.com/acampadasol </a></p>\n<p><strong>25mayo</strong><br />\n<em>grupos n-1</em>: <a href=\"https://n-1.cc/pg/groups/129071/acampadasol/\">https://n-1.cc/pg/groups/129071/acampadasol/<br />\n</a><a href=\"https://n-1.cc/pg/groups/129071/acampadasol/\"></a><a href=\"https://n-1.cc/pg/groups/130764/grupos-de-trabajo-acampada-sol/\">https://n-1.cc/pg/groups/130764/grupos-de-trabajo-acampada-sol/</a></p>\n<h1>Herramientas y nodos del movimiento</h1>\n<p><strong>TWITTER</strong><br />\n<a href=\"http://twitter.com/#!/acampadasol\">@acampadasol</a><br />\nprioridad:  comunicar y difundir todo lo que ocurre en sol<br />\n<a href=\"http://twitter.com/#!/takethesquare\">@takethesquare</a><br />\nprioridad: comunicar y difundir a nivel global lo q va pasando en diferentes acampadas. (idioma ingl\u00e9s)</p>\n<p><strong>FACEBOOK</strong></p>\n<p><a href=\"//www.facebook.com/acampadasol\">http://www.facebook.com/acampadasol</a><br />\nprioridad: comunicar y difundir lo q ocurre en sol y colaborar en la difusi\u00f3n de los barrios. A la izquierda aparecen una ser\u00ede de barrios de madrid</p>\n<p><a href=\"http://www.facebook.com/SpanishRevolution\">http://www.facebook.com/SpanishRevolution</a><br />\nprioridad: comunicar y difundir lo q ocurre en las acampadas de todo el estado; as\u00ed mismo se incluyen a la izquierda enlaces con el resto de acampadas</p>\n<p><a href=\"http://www.facebook.com/Take.the.Square\">http://www.facebook.com/Take.the.Square</a><br />\nprioridad: comunicar y difundir lo q ocurre a nivel global en el resto de acampadas (idioma ingl\u00e9s)</p>\n<p><a href=\"https://n-1.cc/\">https://n-1.cc/</a><br />\nRed social libre y autogestionada en funcionamiento desde 2009, se comienza a utilizar como herramienta de coordinaci\u00f3n interna espont\u00e1neamente en distintas acampadas desde la primera semana. Hacksol la recomienda y est\u00e1 desarrollando plugins espec\u00edficos para el movimiento.<br />\n<a href=\"https://n-1.cc/pg/groups/129071/acampadasol/\">https://n-1.cc/pg/groups/129071/acampadasol/ </a><br />\nprioridad:  herramienta interna de trabajo de las diferentes comisiones<br />\n<a href=\"https://n-1.cc/pg/groups/130764/acampadasolgrupos-de-trabajo/\">https://n-1.cc/pg/groups/130764/acampadasolgrupos-de-trabajo/ </a><br />\nprioridad: herramienta interna de trabajo y encuentro entre todos los participantes en de los diferentes grupos de trabajo<br />\n<a href=\"https://n-1.cc/pg/groups/130764/acampadasolgrupos-de-trabajo/\">https://n-1.cc/pg/groups/177540/viajes-compartidos/<br />\n</a>foro de viajes compartidos<br />\n<span style=\"color: #000080; font-family: Calibri, sans-serif; font-size: x-small;\"><br />\n</span></p>\n<p><a href=\"https://network.takethesquare.net/\">https://network.takethesquare.net/</a><br />\nN-1 convive de momento con una red social propia del movimiento tambi\u00e9n basada en <a href=\"http://lorea.org/\">Lorea </a>que se puso en marcha desde HackSol a modo de experimento. Tambi\u00e9n aqu\u00ed hay distintos grupos activos del movimiento <strong>pero se recomienda pasar la actividad a <a href=\"https://n-1.cc\">https://n-1.cc</a> que se ha ido decantando como nodo con m\u00e1s actividad del movimiento.<br />\n</strong></p>\n<p><strong>WEB</strong><br />\n<a href=\"https://spanishrevolution.net/\">https://spanishrevolution.net/ </a><br />\nActualmente este dominio no tiene contenido, redirecciona a <a href=\"http://tomalaplaza.net/\">tomalaplaza.net</a>; solo se usa como servidor de correos.</p>\n<p><a href=\"http://tomalaplaza.net/\">http://tomalaplaza.net/ </a><br />\nprioridad: punto de encuentro y directorio de todas aquellas acampadas a nivel estatal que lo deseen y compartan inquietudes similares.</p>\n<p><a href=\"http://madrid.tomalaplaza.net/\">http://madrid.tomalaplaza.net/ </a><br />\nejemplo de una de las plazas/acampadas que est\u00e1 dentro de  <a href=\"http://tomalaplaza.net/\">http://tomalaplaza.net/ </a><br />\nprioridad: comunicar y difundir todo lo que ocurre en los grupos de trabajo y comisiones de Sol</p>\n<p><a href=\"http://tomalosbarrios.net/\">http://tomalosbarrios.net/ </a><br />\nprioridad: punto de encuentro y directorio de todas aquellos barrios a nivel estatal que lo deseen y compartan inquietudes similares</p>\n<p><a href=\"http://madrid.tomalosbarrios.net\">http://madrid.tomalosbarrios.net</a>/<br />\nprioridad: punto de encuentro y directorio de todas aquellos barrios madrile\u00f1os que lo deseen y compartan inquietudes similares</p>\n<p><a href=\"http://lavapies.tomalosbarrios.net/\">http://lavapies.tomalosbarrios.net/ </a> ejemplo de una de las barrios q est\u00e1 dentro de  <a href=\"http://tomalosbarrios.net/\">http://tomalosbarrios.net</a>/<br />\nprioridad: comunicar y difundir todo lo que ocurre en los grupos de trabajo de lavapi\u00e9s</p>\n<p><a href=\"http://takethesquare.net/\">http://takethesquare.net/ </a><br />\nprioridad: punto de encuentro y directorio de todas aquellas acampadas a nivel global que lo deseen y compartan inquietudes similares (idioma ingl\u00e9s)</p>\n<p><strong>HERRAMIENTAS DISPONIBLES<br />\n</strong>&#8211; alojamiento web<br />\ntomalosbarrios.net (peticiones a; admin-barrios@listas.tomalaplaza.net)<br />\ntomalaplaza.net (peticiones a; sudo@takethesquare.net)<br />\n&#8211; listas de correo (peticiones a; sudo@takethesquare.net)<br />\n&#8211; alias de correo\u00a0(peticiones a; sudo@takethesquare.net)</p>\n<p><strong>MANUALES DE USO<br />\n</strong>&#8211; listas de correos\u00a0<span style=\"font-size: x-small;\"> </span><span style=\"color: #000080;\"><span style=\"font-family: Calibri, sans-serif;\"><span style=\"font-size: small;\"><span style=\"text-decoration: underline;\"><a href=\"http://hacksol.tomalaplaza.net/2011/05/29/listas-de-correo-uso-y-administracion/\">http://hacksol.tomalaplaza.net/2011/05/29/listas-de-correo-uso-y-administracion/</a></span></span></span></span></p>\n<p><span style=\"text-decoration: underline;\">&#8211; n-1<br />\n</span>manuales:<br />\n<span style=\"color: #000080; font-family: Calibri, sans-serif; font-size: small;\"><span style=\"text-decoration: underline;\"><a href=\"http://hacksol.tomalaplaza.net/2011/05/26/crea-un-grupo-para-tu-barrio-o-ciudad-en-take-the-square-network/\">http://hacksol.tomalaplaza.net/2011/05/26/crea-un-grupo-para-tu-barrio-o-ciudad-en-take-the-square-network/<br />\n</a></span></span><span style=\"color: #000080;\"><span style=\"text-decoration: underline;\"><a href=\"https://n-1.cc/pg/dokuwiki/9394/doku.php\">https://n-1.cc/pg/dokuwiki/9394/doku.php</a> id=manual_rapido_para_grupo<br />\n</span></span><span style=\"color: #000080;\"><span style=\"text-decoration: underline;\">grupo de ayuda: </span></span><a href=\"https://n-1.cc/pg/groups/9394/help/\"><span style=\"color: #000080;\"><span style=\"font-family: Calibri, sans-serif;\"><span style=\"font-size: small;\"><span style=\"text-decoration: underline;\">https://n-1.cc/pg/groups/9394/help/</span></span></span></span></a></p>\n<p lang=\"zxx\"><span style=\"color: #000080;\"><span style=\"text-decoration: underline;\"><br />\n</span></span></p>\n",
+    "rendered": "<p><img loading=\"lazy\" class=\"aligncenter size-full wp-image-220\" src=\"http://hacksol.tomalaplaza.net/files/2011/06/huellas.jpg\" alt=\"\" width=\"500\" height=\"343\" srcset=\"https://hacksol.tomalaplaza.net/files/2011/06/huellas.jpg 500w, https://hacksol.tomalaplaza.net/files/2011/06/huellas-300x205.jpg 300w\" sizes=\"(max-width: 500px) 100vw, 500px\" /></p>\n<h1>Cronolog\u00eda de redes</h1>\n<p><strong>15 mayo noche</strong><br />\n<em>twitter</em>: @<a href=\"http://twitter.com/#!/acampadasol\">acampadasol</a><br />\n** <a href=\"http://myfirsttweet.com/1st/acampadasol\">1er tweet</a>:  <em>Acabamos de acampar en la Puerta del Sol de Madrid, no nos vamos hasta que lleguemos a un acuerdo. #acampadaSol</em><br />\n<strong>16 mayo noche</strong><em><br />\nsite</em>: <a href=\"https://spanishrevolution.net/\">https://spanishrevolution.net/ </a><br />\n** <a href=\"http://alejandroberbel.informaticalibre.es/wp-content/uploads/2011/05/1305579962_497160_1305586162_grande.jpg\">imagen de la compra del primer dominio</a><br />\n<em>facebook</em>: <a href=\"http://www.facebook.com/SpanishRevolution\">http://www.facebook.com/SpanishRevolution </a><br />\n** <a href=\"http://www.facebook.com/media/set/?set=a.110192839069526.24736.110177082404435\">primer post en facebook</a><br />\n<strong>17 mayo </strong><br />\n<em>site</em>: <a href=\"http://tomalaplaza.net/\">http://tomalaplaza.net/</a><br />\n<strong>18 mayo </strong><br />\n<em>twitter</em>: <a href=\"https://twitter.com/takethesquare\">@takethesquare</a></p>\n<p><strong>21 mayo</strong><br />\n<em>site</em>: <a href=\"http://takethesquare.net/\">http://takethesquare.net/ </a><br />\n<em>facebook</em>: <a href=\"http://www.facebook.com/Take.the.Square\">http://www.facebook.com/Take.the.Square </a></p>\n<p><strong>23mayo</strong><br />\n<em>site</em>: <a href=\"http://tomalosbarrios.net\">http://tomalosbarrios.net </a><br />\n<em>facebook</em>: <a href=\"http://www.facebook.com/acampadasol\">http://www.facebook.com/acampadasol </a></p>\n<p><strong>25mayo</strong><br />\n<em>grupos n-1</em>: <a href=\"https://n-1.cc/pg/groups/129071/acampadasol/\">https://n-1.cc/pg/groups/129071/acampadasol/<br />\n</a><a href=\"https://n-1.cc/pg/groups/129071/acampadasol/\"></a><a href=\"https://n-1.cc/pg/groups/130764/grupos-de-trabajo-acampada-sol/\">https://n-1.cc/pg/groups/130764/grupos-de-trabajo-acampada-sol/</a></p>\n<h1>Herramientas y nodos del movimiento</h1>\n<p><strong>TWITTER</strong><br />\n<a href=\"http://twitter.com/#!/acampadasol\">@acampadasol</a><br />\nprioridad:  comunicar y difundir todo lo que ocurre en sol<br />\n<a href=\"http://twitter.com/#!/takethesquare\">@takethesquare</a><br />\nprioridad: comunicar y difundir a nivel global lo q va pasando en diferentes acampadas. (idioma ingl\u00e9s)</p>\n<p><strong>FACEBOOK</strong></p>\n<p><a href=\"//www.facebook.com/acampadasol\">http://www.facebook.com/acampadasol</a><br />\nprioridad: comunicar y difundir lo q ocurre en sol y colaborar en la difusi\u00f3n de los barrios. A la izquierda aparecen una ser\u00ede de barrios de madrid</p>\n<p><a href=\"http://www.facebook.com/SpanishRevolution\">http://www.facebook.com/SpanishRevolution</a><br />\nprioridad: comunicar y difundir lo q ocurre en las acampadas de todo el estado; as\u00ed mismo se incluyen a la izquierda enlaces con el resto de acampadas</p>\n<p><a href=\"http://www.facebook.com/Take.the.Square\">http://www.facebook.com/Take.the.Square</a><br />\nprioridad: comunicar y difundir lo q ocurre a nivel global en el resto de acampadas (idioma ingl\u00e9s)</p>\n<p><a href=\"https://n-1.cc/\">https://n-1.cc/</a><br />\nRed social libre y autogestionada en funcionamiento desde 2009, se comienza a utilizar como herramienta de coordinaci\u00f3n interna espont\u00e1neamente en distintas acampadas desde la primera semana. Hacksol la recomienda y est\u00e1 desarrollando plugins espec\u00edficos para el movimiento.<br />\n<a href=\"https://n-1.cc/pg/groups/129071/acampadasol/\">https://n-1.cc/pg/groups/129071/acampadasol/ </a><br />\nprioridad:  herramienta interna de trabajo de las diferentes comisiones<br />\n<a href=\"https://n-1.cc/pg/groups/130764/acampadasolgrupos-de-trabajo/\">https://n-1.cc/pg/groups/130764/acampadasolgrupos-de-trabajo/ </a><br />\nprioridad: herramienta interna de trabajo y encuentro entre todos los participantes en de los diferentes grupos de trabajo<br />\n<a href=\"https://n-1.cc/pg/groups/130764/acampadasolgrupos-de-trabajo/\">https://n-1.cc/pg/groups/177540/viajes-compartidos/<br />\n</a>foro de viajes compartidos<br />\n<span style=\"color: #000080; font-family: Calibri, sans-serif; font-size: x-small;\"><br />\n</span></p>\n<p><a href=\"https://network.takethesquare.net/\">https://network.takethesquare.net/</a><br />\nN-1 convive de momento con una red social propia del movimiento tambi\u00e9n basada en <a href=\"http://lorea.org/\">Lorea </a>que se puso en marcha desde HackSol a modo de experimento. Tambi\u00e9n aqu\u00ed hay distintos grupos activos del movimiento <strong>pero se recomienda pasar la actividad a <a href=\"https://n-1.cc\">https://n-1.cc</a> que se ha ido decantando como nodo con m\u00e1s actividad del movimiento.<br />\n</strong></p>\n<p><strong>WEB</strong><br />\n<a href=\"https://spanishrevolution.net/\">https://spanishrevolution.net/ </a><br />\nActualmente este dominio no tiene contenido, redirecciona a <a href=\"http://tomalaplaza.net/\">tomalaplaza.net</a>; solo se usa como servidor de correos.</p>\n<p><a href=\"http://tomalaplaza.net/\">http://tomalaplaza.net/ </a><br />\nprioridad: punto de encuentro y directorio de todas aquellas acampadas a nivel estatal que lo deseen y compartan inquietudes similares.</p>\n<p><a href=\"http://madrid.tomalaplaza.net/\">http://madrid.tomalaplaza.net/ </a><br />\nejemplo de una de las plazas/acampadas que est\u00e1 dentro de  <a href=\"http://tomalaplaza.net/\">http://tomalaplaza.net/ </a><br />\nprioridad: comunicar y difundir todo lo que ocurre en los grupos de trabajo y comisiones de Sol</p>\n<p><a href=\"http://tomalosbarrios.net/\">http://tomalosbarrios.net/ </a><br />\nprioridad: punto de encuentro y directorio de todas aquellos barrios a nivel estatal que lo deseen y compartan inquietudes similares</p>\n<p><a href=\"http://madrid.tomalosbarrios.net\">http://madrid.tomalosbarrios.net</a>/<br />\nprioridad: punto de encuentro y directorio de todas aquellos barrios madrile\u00f1os que lo deseen y compartan inquietudes similares</p>\n<p><a href=\"http://lavapies.tomalosbarrios.net/\">http://lavapies.tomalosbarrios.net/ </a> ejemplo de una de las barrios q est\u00e1 dentro de  <a href=\"http://tomalosbarrios.net/\">http://tomalosbarrios.net</a>/<br />\nprioridad: comunicar y difundir todo lo que ocurre en los grupos de trabajo de lavapi\u00e9s</p>\n<p><a href=\"http://takethesquare.net/\">http://takethesquare.net/ </a><br />\nprioridad: punto de encuentro y directorio de todas aquellas acampadas a nivel global que lo deseen y compartan inquietudes similares (idioma ingl\u00e9s)</p>\n<p><strong>HERRAMIENTAS DISPONIBLES<br />\n</strong>&#8211; alojamiento web<br />\ntomalosbarrios.net (peticiones a; admin-barrios@listas.tomalaplaza.net)<br />\ntomalaplaza.net (peticiones a; sudo@takethesquare.net)<br />\n&#8211; listas de correo (peticiones a; sudo@takethesquare.net)<br />\n&#8211; alias de correo\u00a0(peticiones a; sudo@takethesquare.net)</p>\n<p><strong>MANUALES DE USO<br />\n</strong>&#8211; listas de correos\u00a0<span style=\"font-size: x-small;\"> </span><span style=\"color: #000080;\"><span style=\"font-family: Calibri, sans-serif;\"><span style=\"font-size: small;\"><span style=\"text-decoration: underline;\"><a href=\"http://hacksol.tomalaplaza.net/2011/05/29/listas-de-correo-uso-y-administracion/\">http://hacksol.tomalaplaza.net/2011/05/29/listas-de-correo-uso-y-administracion/</a></span></span></span></span></p>\n<p><span style=\"text-decoration: underline;\">&#8211; n-1<br />\n</span>manuales:<br />\n<span style=\"color: #000080; font-family: Calibri, sans-serif; font-size: small;\"><span style=\"text-decoration: underline;\"><a href=\"http://hacksol.tomalaplaza.net/2011/05/26/crea-un-grupo-para-tu-barrio-o-ciudad-en-take-the-square-network/\">http://hacksol.tomalaplaza.net/2011/05/26/crea-un-grupo-para-tu-barrio-o-ciudad-en-take-the-square-network/<br />\n</a></span></span><span style=\"color: #000080;\"><span style=\"text-decoration: underline;\"><a href=\"https://n-1.cc/pg/dokuwiki/9394/doku.php\">https://n-1.cc/pg/dokuwiki/9394/doku.php</a> id=manual_rapido_para_grupo<br />\n</span></span><span style=\"color: #000080;\"><span style=\"text-decoration: underline;\">grupo de ayuda: </span></span><a href=\"https://n-1.cc/pg/groups/9394/help/\"><span style=\"color: #000080;\"><span style=\"font-family: Calibri, sans-serif;\"><span style=\"font-size: small;\"><span style=\"text-decoration: underline;\">https://n-1.cc/pg/groups/9394/help/</span></span></span></span></a></p>\n<p lang=\"zxx\"><span style=\"color: #000080;\"><span style=\"text-decoration: underline;\"><br />\n</span></span></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -566,14 +548,8 @@
     ],
     "version-history": [
       {
-        "count": 22,
+        "count": 0,
         "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/pages/216/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 334,
-        "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/pages/216/revisions/334"
       }
     ],
     "wp:attachment": [
@@ -606,12 +582,12 @@
     "rendered": "adminlist"
   },
   "author": 5,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://hacksol.tomalaplaza.net/files/2012/05/adminlist.gif'><img width=\"300\" height=\"51\" src=\"https://hacksol.tomalaplaza.net/files/2012/05/adminlist-300x51.gif\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://hacksol.tomalaplaza.net/files/2012/05/adminlist-300x51.gif 300w, https://hacksol.tomalaplaza.net/files/2012/05/adminlist.gif 494w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://hacksol.tomalaplaza.net/files/2012/05/adminlist.gif'><img width=\"300\" height=\"51\" src=\"https://hacksol.tomalaplaza.net/files/2012/05/adminlist-300x51.gif\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://hacksol.tomalaplaza.net/files/2012/05/adminlist-300x51.gif 300w, https://hacksol.tomalaplaza.net/files/2012/05/adminlist.gif 494w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -706,12 +682,12 @@
     "rendered": "maillist"
   },
   "author": 5,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://hacksol.tomalaplaza.net/files/2012/05/maillist.gif'><img width=\"300\" height=\"59\" src=\"https://hacksol.tomalaplaza.net/files/2012/05/maillist-300x59.gif\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://hacksol.tomalaplaza.net/files/2012/05/maillist-300x59.gif 300w, https://hacksol.tomalaplaza.net/files/2012/05/maillist.gif 372w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://hacksol.tomalaplaza.net/files/2012/05/maillist.gif'><img width=\"300\" height=\"59\" src=\"https://hacksol.tomalaplaza.net/files/2012/05/maillist-300x59.gif\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://hacksol.tomalaplaza.net/files/2012/05/maillist-300x59.gif 300w, https://hacksol.tomalaplaza.net/files/2012/05/maillist.gif 372w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -806,7 +782,7 @@
     "rendered": "Listas de correo (uso y administraci\u00f3n)"
   },
   "content": {
-    "rendered": "<p>Las listas alojadas en tomalaplaza.net, spanishrevolution.net, tomalosbarrios.net o en takethesquare.net\u00a0utilizan  un software libre llamado <a href=\"http://www.gnu.org/software/mailman/index.html\">GNU Mailman</a>. En esta p\u00e1gina vamos a explicar cu\u00e1les son y c\u00f3mo utilizarlas.</p>\n<ul>\n<li><a href=\"#01\">C\u00f3mo darse de alta o baja de una lista de correo</a></li>\n<li><a href=\"#02\">C\u00f3mo ponerse en contacto con quien administra una lista</a></li>\n<li><a href=\"#03\">Manual b\u00e1sico de administraci\u00f3n de listas de correo</a></li>\n<li><a href=\"#04\">Netiqueta, moderaci\u00f3n y BOFH</a></li>\n</ul>\n<h2><a name=\"01\"># C\u00f3mo darse de alta o baja de una lista de correo</a></h2>\n<p>Al final de cada mensaje aparece un pie similar a este:</p>\n<p style=\"text-align: center;\"><a href=\"http://hacksol.tomalaplaza.net/files/2012/05/maillist.gif\"><img class=\"size-medium wp-image-201 aligncenter\" title=\"maillist\" src=\"http://hacksol.tomalaplaza.net/files/2012/05/maillist-300x59.gif\" alt=\"\" width=\"300\" height=\"59\" srcset=\"https://hacksol.tomalaplaza.net/files/2012/05/maillist-300x59.gif 300w, https://hacksol.tomalaplaza.net/files/2012/05/maillist.gif 372w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>Lo que tenemos al final es la direcci\u00f3n del panel de gesti\u00f3n de la lista. All\u00ed podremos suscribirnos o, <strong>en el \u00faltimo formulario de la p\u00e1gina, insertar nuestra direcci\u00f3n de correo electr\u00f3nico para darnos de baja</strong>. Tambi\u00e9n podemos editar nuestras preferencias, por ejemplo si queremos recibir los mensajes en modo &#8220;digest&#8221; (un s\u00f3lo correo diario que incluir\u00e1 todo el tr\u00e1fico de la lista de ese d\u00eda).</p>\n<p>As\u00ed que, por favor, la pr\u00f3xima vez que quieras darte de baja de una lista no generes m\u00e1s ruido enviando un mensaje para pedir que alguien lo haga por ti, recuerda que la autogesti\u00f3n es posible \ud83d\ude09</p>\n<h2><a name=\"02\"># C\u00f3mo ponerse en contacto con quien administra una lista</a></h2>\n<p>Si vamos al panel de gesti\u00f3n de la lista (cuya direcci\u00f3n encontraremos en el pie de cada mensaje), abajo del todo encontraremos la direcci\u00f3n de correo de las personas que la administran:</p>\n<p><a href=\"http://hacksol.tomalaplaza.net/files/2012/05/adminlist.gif\"><img class=\"aligncenter size-medium wp-image-202\" title=\"adminlist\" src=\"http://hacksol.tomalaplaza.net/files/2012/05/adminlist-300x51.gif\" alt=\"\" width=\"300\" height=\"51\" srcset=\"https://hacksol.tomalaplaza.net/files/2012/05/adminlist-300x51.gif 300w, https://hacksol.tomalaplaza.net/files/2012/05/adminlist.gif 494w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p><a href=\"http://blogs.latabacalera.net/tabapress/files/2010/10/quien_admin.png\"></a></p>\n<p>(Hay que sustituir &#8220;at&#8221; por &#8220;@&#8221;)</p>\n<p>Ellas nos podr\u00e1n dar de alta en caso de que sea una lista de suscripci\u00f3n moderada o ayudarnos si tenemos problemas.</p>\n<h2><a name=\"03\"># Manual b\u00e1sico de administraci\u00f3n de listas de correo</a></h2>\n<p><em>Este manual es un copia-pega-modifica de las gu\u00edas de <a href=\"http://www.sindominio.net/article.php3?id_article=25\">Sindominio</a> y la Universidad de Vigo (<a href=\"http://www.nodo50.org/IMG/pdf/manual_admin_listas.pdf\">PDF</a>). Se distribuye bajo <a href=\"http://www.gnu.org/copyleft/fdl.html\">Licencia de Documentaci\u00f3n Libre GNU</a> y por tanto t\u00fa tambi\u00e9n puedes copiarlo, distribuirlo y modificarlo siempre que mantengas esta licencia.</em></p>\n<p>Lo primero es ir al panel de gesti\u00f3n de la lista (la direcci\u00f3n suele aparecer en el pie de cada mensaje). Abajo del todo, hacemos clic en &#8220;<em>Interfaz administrativa de Lista_tal</em>&#8221; y nos autenticamos con los datos que nos hayan pasado.</p>\n<p>La interfaz contiene explicaciones y en cada opci\u00f3n hay un enlace <em>&#8220;(Detalles)&#8221;</em> que te dar\u00e1 mucha ayuda para entenderla, pero a\u00fan as\u00ed vamos a explicarte aqu\u00ed resumidamente las opciones m\u00e1s interesantes (hay muchas m\u00e1s).</p>\n<ol>\n<li>Altar y bajas: Para empezar, debes ir al apartado &#8220;<strong>Administraci\u00f3n de los suscriptores</strong>&#8220;. All\u00ed puedes ver la &#8220;Lista de suscriptores&#8221; y hacer suscripciones y bajas masivas (muchas de una vez).</li>\n<li>En &#8220;<strong>Claves</strong>&#8221; puedes cambiar la contrase\u00f1a para administrar y moderar la lista. Te recomendamos que lo hagas al menos la primera vez que entres si te han pasado la contrase\u00f1a por email (lo que no es muy seguro).</li>\n<li>En el apartado &#8220;<strong>Opciones Generales</strong>&#8221; puedes configurar las cosas m\u00e1s  comunes de tu lista:<br />\n<table>\n<tbody>\n<tr>\n<td>&#8220;El nombre p\u00fablico de esta lista&#8221;</td>\n<td>No la cambies cada dos por tres para no marearnos \ud83d\ude09</td>\n</tr>\n<tr>\n<td>&#8220;La direcciones de los administradores de la lista&#8221;</td>\n<td>A ellas llegar\u00e1n las notificaciones de moderaci\u00f3n pendiente, peticiones de alta, etc.</td>\n</tr>\n<tr>\n<td>&#8220;Una frase breve que identifique a esta lista&#8221; y &#8220;Una introducci\u00f3n&#8221;</td>\n<td>Es lo que va a aparecer en el listado de listas y en el panel de gesti\u00f3n p\u00fablico.</td>\n</tr>\n<tr>\n<td>&#8220;Prefijo para la l\u00ednea subject de los env\u00edos de la lista&#8221;</td>\n<td>Nombre que quieres que salga en el asunto de los mensajes de la lista, va entre corchetes [].</td>\n</tr>\n<tr>\n<td>&#8220;Esconder al remitente de un mensaje, reemplaz\u00e1ndolo por la direcci\u00f3n de la lista&#8221;</td>\n<td>As\u00ed no se sabr\u00e1 qui\u00e9n ha enviado el mensaje (una opci\u00f3n muy liante, vaya).</td>\n</tr>\n<tr>\n<td>&#8220;\u00bfDonde se env\u00edan las respuestas a los mensajes enviados a la lista?&#8221;</td>\n<td>Recomendamos que sea a la propia lista, para que la conversaci\u00f3n siga siendo p\u00fablica por defecto. Los est\u00e1ndares dicen que lo ortodoxo es que sean para el remitente (ver <a href=\"http://www.sindominio.net/ayuda/reply-to-molesto2.html\">porqu\u00e9</a>), pero casi nadie sigue esa norma.</td>\n</tr>\n<tr>\n<td>&#8220;Texto espec\u00edfico a la lista que se pondr\u00e1 al principio del mensaje de bienvenida mandado a los nuevos suscriptores&#8221;</td>\n<td>Puedes escribir unas palabras de bienvenida para quien se una a la lista.</td>\n</tr>\n<tr>\n<td>&#8220;\u00bfSe debe notificar las nuevas peticiones inmediatamente a los moderadores?&#8221;</td>\n<td>Marca s\u00ed para que se te avise cuando un mensaje no ha sido aceptado en la lista por alguna raz\u00f3n, normalmente porque proviene de alguien que no est\u00e1 suscrita o porque contiene un adjunto pesado. En todos los casos se te pedir\u00e1 que decidas si lo dejas pasar o no.</td>\n</tr>\n<tr>\n<td>&#8220;\u00bfEnviar un mensaje al remitente cuando su mensaje se retiene en espera de aprobaci\u00f3n?&#8221;</td>\n<td>Lo suyo es marcar que s\u00ed para que sepa que su mensaje no ha sido le\u00eddo por las suscriptoras.</td>\n</tr>\n<tr>\n<td>&#8220;Moderaci\u00f3n de emergencia de todo el tr\u00e1fico de la lista&#8221;</td>\n<td>Si marcas &#8220;s\u00ed&#8221; no va a entrar ning\u00fan mensaje a la lista hasta que no lo aceptes. \u00dasalo cuando haya una raz\u00f3n muy justificada para bloquear una lista de discusi\u00f3n o si quieres que sea de tipo bolet\u00edn (unidireccional, dar paso s\u00f3lo a tus mensajes).</td>\n</tr>\n<tr>\n<td>&#8220;Longitud m\u00e1xima del cuerpo del mensaje&#8221;</td>\n<td>Pon 0 si no quieres l\u00edmite, un valor de 50-100 es lo normal.</td>\n</tr>\n</tbody>\n</table>\n</li>\n<li>Ahora vamos al apartado &#8220;<strong>Opciones de Almacenaje</strong>&#8220;:<br />\n<table>\n<tbody>\n<tr>\n<td>&#8220;\u00bfAlmacenar los mensajes?&#8221;</td>\n<td>Si marcas s\u00ed tendr\u00e1s un hist\u00f3rico de los mensajes mandados a tu lista, lo que ser\u00e1 muy \u00fatil para que las nuevas puedan revisar los mensajes que se enviaron antes de que suscribieran e imprescindible si eligen la opci\u00f3n de no recibir los correos, sino leerlos en la web.</td>\n</tr>\n<tr>\n<td>&#8220;\u00bfEl fichero es la fuente para el archivo p\u00fablico o privado?&#8221;</td>\n<td>Cuidado: un archivo p\u00fablico puede ser indexado por buscadores y le\u00eddo por cualquiera sin necesidad de contrase\u00f1a.</td>\n</tr>\n</tbody>\n</table>\n</li>\n<li>Por \u00faltimo, son muy importantes dos detalles en las &#8220;<strong>Opciones de Privacidad</strong>&#8221;<br />\n<table>\n<tbody>\n<tr>\n<td>&#8220;\u00bfQue pasos hacen falta para la subcripci\u00f3n?&#8221;</td>\n<td>Si marcas &#8220;confirmar&#8221; cualquiera podr\u00e1 darse de alta en la lista (se le pedir\u00e1 que confirme ella misma su alta), si eliges &#8220;precisa de aprobaci\u00f3n&#8221; se te enviar\u00e1 un mensaje cada vez que alguien solicite entrar para que decidas.</td>\n</tr>\n<tr>\n<td>&#8220;\u00bfMostrar las direcciones de los suscriptores de manera que no sean directamente reconocibles como direcciones de correo electr\u00f3nico?&#8221;</td>\n<td>Si activas esta opci\u00f3n las direcciones de correo aparecer\u00e1n camufladas en la p\u00e1gina web de la lista. As\u00ed ser\u00e1 m\u00e1s dif\u00edcil que caigan en manos de spammers.</td>\n</tr>\n</tbody>\n</table>\n</li>\n<li>Una vez configurada la lista, ya s\u00f3lo queda la tarea de moderar mensajes cada vez que sea necesario. En este panel tienes la opci\u00f3n &#8220;<strong>Ocuparse de las peticiones pendientes de moderar</strong>&#8220;, aunque arriba recomendamos que recibas notificaci\u00f3n cada vez que haya una petici\u00f3n nueva. Esto es lo que puedes hacer con cada mensaje &#8220;rebotado&#8221;:\n<ul>\n<li> Diferir: Supone posponer la decisi\u00f3n y no hacer nada. Es la opci\u00f3n por defecto.</li>\n<li> Aceptar: Si se decide aceptar el mensaje, ser\u00e1 enviado a todas las suscriptoras de la lista.</li>\n<li> Rechazar: En este caso se enviar\u00e1 al remitente una notificaci\u00f3n informando de la causa del rechazo. Si se quiere modificar el mensaje que se env\u00eda ser\u00e1 necesario entrar en los detalles del mensaje en cuesti\u00f3n. Para ello, pincha en el enlace con la direcci\u00f3n del remitente o en el n\u00famero del mensaje.</li>\n<li> Descartar: Simplemente se descarta el mensaje sin ninguna notificaci\u00f3n al remitente. Usa esta opci\u00f3n para casos de correos SPAM, pero si se trata de un mensaje escrito por un ser humano es un detalle bonito que le notifiques y le expliques por qu\u00e9 lo rechazas.</li>\n</ul>\n<p>Si quieres configurar en qu\u00e9 casos ser\u00e1n retenidos los mensajes, ve a &#8220;<strong>Gesti\u00f3n de rebotes</strong>&#8220;.</li>\n</ol>\n<h2><a name=\"04\"># Netiqueta, moderaci\u00f3n y BOFH</a></h2>\n<p>Las listas de correo son herramientas muy chulas pero pueden convertirse en un infierno si no se usan con cabeza. Hay varias recomendaciones de sentido com\u00fan: automod\u00e9rate en pos de la convivencia y la buena vecindad, identifica bien tus mensajes con un asunto descriptivo, respeta los hilos, no adjuntes archivos pesados, cuidado con los env\u00edos cruzados con otras listas&#8230; En definitiva, respeta la Netiqueta, que no se trata (solamente) de un conjunto de man\u00edas de frikis, sino de pautas para que la comunicaci\u00f3n en internet sea m\u00e1s eficaz y agradable. Por favor, t\u00f3mate un tiempo en leer este documento <a href=\"http://www.sindominio.net/ayuda/netiquette.pdf\">sobre Netiqueta (PDF)</a>.</p>\n<p>La moderaci\u00f3n no es s\u00f3lo cosa de quien administre la lista y decida qu\u00e9 mensajes entran o no, todas las suscriptoras debemos velar por su correcto uso y funcionamiento y podemos ayudar, parar los pies a quien est\u00e9 abusando y mediar en conflictos. No obstante, por muchas listas se pasea <a href=\"http://es.wikipedia.org/wiki/Bastard_Operator_from_Hell\">BOFH</a>, el maldito administrador del infierno, que puede soltarte un bofetada y criticarte con crueldad si te portas mal. (Es un personaje ficticio para despersonalizar y poner un poco de humor al palo que da llamar o que nos llamen la atenci\u00f3n en p\u00fablico).</p>\n<p>&nbsp;</p>\n",
+    "rendered": "<p>Las listas alojadas en tomalaplaza.net, spanishrevolution.net, tomalosbarrios.net o en takethesquare.net\u00a0utilizan  un software libre llamado <a href=\"http://www.gnu.org/software/mailman/index.html\">GNU Mailman</a>. En esta p\u00e1gina vamos a explicar cu\u00e1les son y c\u00f3mo utilizarlas.</p>\n<ul>\n<li><a href=\"#01\">C\u00f3mo darse de alta o baja de una lista de correo</a></li>\n<li><a href=\"#02\">C\u00f3mo ponerse en contacto con quien administra una lista</a></li>\n<li><a href=\"#03\">Manual b\u00e1sico de administraci\u00f3n de listas de correo</a></li>\n<li><a href=\"#04\">Netiqueta, moderaci\u00f3n y BOFH</a></li>\n</ul>\n<h2><a name=\"01\"># C\u00f3mo darse de alta o baja de una lista de correo</a></h2>\n<p>Al final de cada mensaje aparece un pie similar a este:</p>\n<p style=\"text-align: center;\"><a href=\"http://hacksol.tomalaplaza.net/files/2012/05/maillist.gif\"><img loading=\"lazy\" class=\"size-medium wp-image-201 aligncenter\" title=\"maillist\" src=\"http://hacksol.tomalaplaza.net/files/2012/05/maillist-300x59.gif\" alt=\"\" width=\"300\" height=\"59\" srcset=\"https://hacksol.tomalaplaza.net/files/2012/05/maillist-300x59.gif 300w, https://hacksol.tomalaplaza.net/files/2012/05/maillist.gif 372w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>Lo que tenemos al final es la direcci\u00f3n del panel de gesti\u00f3n de la lista. All\u00ed podremos suscribirnos o, <strong>en el \u00faltimo formulario de la p\u00e1gina, insertar nuestra direcci\u00f3n de correo electr\u00f3nico para darnos de baja</strong>. Tambi\u00e9n podemos editar nuestras preferencias, por ejemplo si queremos recibir los mensajes en modo &#8220;digest&#8221; (un s\u00f3lo correo diario que incluir\u00e1 todo el tr\u00e1fico de la lista de ese d\u00eda).</p>\n<p>As\u00ed que, por favor, la pr\u00f3xima vez que quieras darte de baja de una lista no generes m\u00e1s ruido enviando un mensaje para pedir que alguien lo haga por ti, recuerda que la autogesti\u00f3n es posible \ud83d\ude09</p>\n<h2><a name=\"02\"># C\u00f3mo ponerse en contacto con quien administra una lista</a></h2>\n<p>Si vamos al panel de gesti\u00f3n de la lista (cuya direcci\u00f3n encontraremos en el pie de cada mensaje), abajo del todo encontraremos la direcci\u00f3n de correo de las personas que la administran:</p>\n<p><a href=\"http://hacksol.tomalaplaza.net/files/2012/05/adminlist.gif\"><img loading=\"lazy\" class=\"aligncenter size-medium wp-image-202\" title=\"adminlist\" src=\"http://hacksol.tomalaplaza.net/files/2012/05/adminlist-300x51.gif\" alt=\"\" width=\"300\" height=\"51\" srcset=\"https://hacksol.tomalaplaza.net/files/2012/05/adminlist-300x51.gif 300w, https://hacksol.tomalaplaza.net/files/2012/05/adminlist.gif 494w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p><a href=\"http://blogs.latabacalera.net/tabapress/files/2010/10/quien_admin.png\"></a></p>\n<p>(Hay que sustituir &#8220;at&#8221; por &#8220;@&#8221;)</p>\n<p>Ellas nos podr\u00e1n dar de alta en caso de que sea una lista de suscripci\u00f3n moderada o ayudarnos si tenemos problemas.</p>\n<h2><a name=\"03\"># Manual b\u00e1sico de administraci\u00f3n de listas de correo</a></h2>\n<p><em>Este manual es un copia-pega-modifica de las gu\u00edas de <a href=\"http://www.sindominio.net/article.php3?id_article=25\">Sindominio</a> y la Universidad de Vigo (<a href=\"http://www.nodo50.org/IMG/pdf/manual_admin_listas.pdf\">PDF</a>). Se distribuye bajo <a href=\"http://www.gnu.org/copyleft/fdl.html\">Licencia de Documentaci\u00f3n Libre GNU</a> y por tanto t\u00fa tambi\u00e9n puedes copiarlo, distribuirlo y modificarlo siempre que mantengas esta licencia.</em></p>\n<p>Lo primero es ir al panel de gesti\u00f3n de la lista (la direcci\u00f3n suele aparecer en el pie de cada mensaje). Abajo del todo, hacemos clic en &#8220;<em>Interfaz administrativa de Lista_tal</em>&#8221; y nos autenticamos con los datos que nos hayan pasado.</p>\n<p>La interfaz contiene explicaciones y en cada opci\u00f3n hay un enlace <em>&#8220;(Detalles)&#8221;</em> que te dar\u00e1 mucha ayuda para entenderla, pero a\u00fan as\u00ed vamos a explicarte aqu\u00ed resumidamente las opciones m\u00e1s interesantes (hay muchas m\u00e1s).</p>\n<ol>\n<li>Altar y bajas: Para empezar, debes ir al apartado &#8220;<strong>Administraci\u00f3n de los suscriptores</strong>&#8220;. All\u00ed puedes ver la &#8220;Lista de suscriptores&#8221; y hacer suscripciones y bajas masivas (muchas de una vez).</li>\n<li>En &#8220;<strong>Claves</strong>&#8221; puedes cambiar la contrase\u00f1a para administrar y moderar la lista. Te recomendamos que lo hagas al menos la primera vez que entres si te han pasado la contrase\u00f1a por email (lo que no es muy seguro).</li>\n<li>En el apartado &#8220;<strong>Opciones Generales</strong>&#8221; puedes configurar las cosas m\u00e1s  comunes de tu lista:<br />\n<table>\n<tbody>\n<tr>\n<td>&#8220;El nombre p\u00fablico de esta lista&#8221;</td>\n<td>No la cambies cada dos por tres para no marearnos \ud83d\ude09</td>\n</tr>\n<tr>\n<td>&#8220;La direcciones de los administradores de la lista&#8221;</td>\n<td>A ellas llegar\u00e1n las notificaciones de moderaci\u00f3n pendiente, peticiones de alta, etc.</td>\n</tr>\n<tr>\n<td>&#8220;Una frase breve que identifique a esta lista&#8221; y &#8220;Una introducci\u00f3n&#8221;</td>\n<td>Es lo que va a aparecer en el listado de listas y en el panel de gesti\u00f3n p\u00fablico.</td>\n</tr>\n<tr>\n<td>&#8220;Prefijo para la l\u00ednea subject de los env\u00edos de la lista&#8221;</td>\n<td>Nombre que quieres que salga en el asunto de los mensajes de la lista, va entre corchetes [].</td>\n</tr>\n<tr>\n<td>&#8220;Esconder al remitente de un mensaje, reemplaz\u00e1ndolo por la direcci\u00f3n de la lista&#8221;</td>\n<td>As\u00ed no se sabr\u00e1 qui\u00e9n ha enviado el mensaje (una opci\u00f3n muy liante, vaya).</td>\n</tr>\n<tr>\n<td>&#8220;\u00bfDonde se env\u00edan las respuestas a los mensajes enviados a la lista?&#8221;</td>\n<td>Recomendamos que sea a la propia lista, para que la conversaci\u00f3n siga siendo p\u00fablica por defecto. Los est\u00e1ndares dicen que lo ortodoxo es que sean para el remitente (ver <a href=\"http://www.sindominio.net/ayuda/reply-to-molesto2.html\">porqu\u00e9</a>), pero casi nadie sigue esa norma.</td>\n</tr>\n<tr>\n<td>&#8220;Texto espec\u00edfico a la lista que se pondr\u00e1 al principio del mensaje de bienvenida mandado a los nuevos suscriptores&#8221;</td>\n<td>Puedes escribir unas palabras de bienvenida para quien se una a la lista.</td>\n</tr>\n<tr>\n<td>&#8220;\u00bfSe debe notificar las nuevas peticiones inmediatamente a los moderadores?&#8221;</td>\n<td>Marca s\u00ed para que se te avise cuando un mensaje no ha sido aceptado en la lista por alguna raz\u00f3n, normalmente porque proviene de alguien que no est\u00e1 suscrita o porque contiene un adjunto pesado. En todos los casos se te pedir\u00e1 que decidas si lo dejas pasar o no.</td>\n</tr>\n<tr>\n<td>&#8220;\u00bfEnviar un mensaje al remitente cuando su mensaje se retiene en espera de aprobaci\u00f3n?&#8221;</td>\n<td>Lo suyo es marcar que s\u00ed para que sepa que su mensaje no ha sido le\u00eddo por las suscriptoras.</td>\n</tr>\n<tr>\n<td>&#8220;Moderaci\u00f3n de emergencia de todo el tr\u00e1fico de la lista&#8221;</td>\n<td>Si marcas &#8220;s\u00ed&#8221; no va a entrar ning\u00fan mensaje a la lista hasta que no lo aceptes. \u00dasalo cuando haya una raz\u00f3n muy justificada para bloquear una lista de discusi\u00f3n o si quieres que sea de tipo bolet\u00edn (unidireccional, dar paso s\u00f3lo a tus mensajes).</td>\n</tr>\n<tr>\n<td>&#8220;Longitud m\u00e1xima del cuerpo del mensaje&#8221;</td>\n<td>Pon 0 si no quieres l\u00edmite, un valor de 50-100 es lo normal.</td>\n</tr>\n</tbody>\n</table>\n</li>\n<li>Ahora vamos al apartado &#8220;<strong>Opciones de Almacenaje</strong>&#8220;:<br />\n<table>\n<tbody>\n<tr>\n<td>&#8220;\u00bfAlmacenar los mensajes?&#8221;</td>\n<td>Si marcas s\u00ed tendr\u00e1s un hist\u00f3rico de los mensajes mandados a tu lista, lo que ser\u00e1 muy \u00fatil para que las nuevas puedan revisar los mensajes que se enviaron antes de que suscribieran e imprescindible si eligen la opci\u00f3n de no recibir los correos, sino leerlos en la web.</td>\n</tr>\n<tr>\n<td>&#8220;\u00bfEl fichero es la fuente para el archivo p\u00fablico o privado?&#8221;</td>\n<td>Cuidado: un archivo p\u00fablico puede ser indexado por buscadores y le\u00eddo por cualquiera sin necesidad de contrase\u00f1a.</td>\n</tr>\n</tbody>\n</table>\n</li>\n<li>Por \u00faltimo, son muy importantes dos detalles en las &#8220;<strong>Opciones de Privacidad</strong>&#8221;<br />\n<table>\n<tbody>\n<tr>\n<td>&#8220;\u00bfQue pasos hacen falta para la subcripci\u00f3n?&#8221;</td>\n<td>Si marcas &#8220;confirmar&#8221; cualquiera podr\u00e1 darse de alta en la lista (se le pedir\u00e1 que confirme ella misma su alta), si eliges &#8220;precisa de aprobaci\u00f3n&#8221; se te enviar\u00e1 un mensaje cada vez que alguien solicite entrar para que decidas.</td>\n</tr>\n<tr>\n<td>&#8220;\u00bfMostrar las direcciones de los suscriptores de manera que no sean directamente reconocibles como direcciones de correo electr\u00f3nico?&#8221;</td>\n<td>Si activas esta opci\u00f3n las direcciones de correo aparecer\u00e1n camufladas en la p\u00e1gina web de la lista. As\u00ed ser\u00e1 m\u00e1s dif\u00edcil que caigan en manos de spammers.</td>\n</tr>\n</tbody>\n</table>\n</li>\n<li>Una vez configurada la lista, ya s\u00f3lo queda la tarea de moderar mensajes cada vez que sea necesario. En este panel tienes la opci\u00f3n &#8220;<strong>Ocuparse de las peticiones pendientes de moderar</strong>&#8220;, aunque arriba recomendamos que recibas notificaci\u00f3n cada vez que haya una petici\u00f3n nueva. Esto es lo que puedes hacer con cada mensaje &#8220;rebotado&#8221;:\n<ul>\n<li> Diferir: Supone posponer la decisi\u00f3n y no hacer nada. Es la opci\u00f3n por defecto.</li>\n<li> Aceptar: Si se decide aceptar el mensaje, ser\u00e1 enviado a todas las suscriptoras de la lista.</li>\n<li> Rechazar: En este caso se enviar\u00e1 al remitente una notificaci\u00f3n informando de la causa del rechazo. Si se quiere modificar el mensaje que se env\u00eda ser\u00e1 necesario entrar en los detalles del mensaje en cuesti\u00f3n. Para ello, pincha en el enlace con la direcci\u00f3n del remitente o en el n\u00famero del mensaje.</li>\n<li> Descartar: Simplemente se descarta el mensaje sin ninguna notificaci\u00f3n al remitente. Usa esta opci\u00f3n para casos de correos SPAM, pero si se trata de un mensaje escrito por un ser humano es un detalle bonito que le notifiques y le expliques por qu\u00e9 lo rechazas.</li>\n</ul>\n<p>Si quieres configurar en qu\u00e9 casos ser\u00e1n retenidos los mensajes, ve a &#8220;<strong>Gesti\u00f3n de rebotes</strong>&#8220;.</li>\n</ol>\n<h2><a name=\"04\"># Netiqueta, moderaci\u00f3n y BOFH</a></h2>\n<p>Las listas de correo son herramientas muy chulas pero pueden convertirse en un infierno si no se usan con cabeza. Hay varias recomendaciones de sentido com\u00fan: automod\u00e9rate en pos de la convivencia y la buena vecindad, identifica bien tus mensajes con un asunto descriptivo, respeta los hilos, no adjuntes archivos pesados, cuidado con los env\u00edos cruzados con otras listas&#8230; En definitiva, respeta la Netiqueta, que no se trata (solamente) de un conjunto de man\u00edas de frikis, sino de pautas para que la comunicaci\u00f3n en internet sea m\u00e1s eficaz y agradable. Por favor, t\u00f3mate un tiempo en leer este documento <a href=\"http://www.sindominio.net/ayuda/netiquette.pdf\">sobre Netiqueta (PDF)</a>.</p>\n<p>La moderaci\u00f3n no es s\u00f3lo cosa de quien administre la lista y decida qu\u00e9 mensajes entran o no, todas las suscriptoras debemos velar por su correcto uso y funcionamiento y podemos ayudar, parar los pies a quien est\u00e9 abusando y mediar en conflictos. No obstante, por muchas listas se pasea <a href=\"http://es.wikipedia.org/wiki/Bastard_Operator_from_Hell\">BOFH</a>, el maldito administrador del infierno, que puede soltarte un bofetada y criticarte con crueldad si te portas mal. (Es un personaje ficticio para despersonalizar y poner un poco de humor al palo que da llamar o que nos llamen la atenci\u00f3n en p\u00fablico).</p>\n<p>&nbsp;</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -856,14 +832,8 @@
     ],
     "version-history": [
       {
-        "count": 14,
+        "count": 0,
         "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/posts/194/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 321,
-        "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/posts/194/revisions/321"
       }
     ],
     "wp:attachment": [
@@ -958,14 +928,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/posts/190/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 320,
-        "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/posts/190/revisions/320"
       }
     ],
     "wp:attachment": [
@@ -1060,14 +1024,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/posts/176/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 322,
-        "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/posts/176/revisions/322"
       }
     ],
     "wp:attachment": [
@@ -1112,12 +1070,12 @@
     "rendered": "tomalosbarrios"
   },
   "author": 64,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://hacksol.tomalaplaza.net/files/2011/05/tomalosbarrios.png'><img width=\"300\" height=\"190\" src=\"https://hacksol.tomalaplaza.net/files/2011/05/tomalosbarrios-300x190.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://hacksol.tomalaplaza.net/files/2011/05/tomalosbarrios-300x190.png 300w, https://hacksol.tomalaplaza.net/files/2011/05/tomalosbarrios.png 550w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://hacksol.tomalaplaza.net/files/2011/05/tomalosbarrios.png'><img width=\"300\" height=\"190\" src=\"https://hacksol.tomalaplaza.net/files/2011/05/tomalosbarrios-300x190.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://hacksol.tomalaplaza.net/files/2011/05/tomalosbarrios-300x190.png 300w, https://hacksol.tomalaplaza.net/files/2011/05/tomalosbarrios.png 550w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -1262,14 +1220,8 @@
     ],
     "version-history": [
       {
-        "count": 8,
+        "count": 0,
         "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/posts/169/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 323,
-        "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/posts/169/revisions/323"
       }
     ],
     "wp:attachment": [
@@ -1364,14 +1316,8 @@
     ],
     "version-history": [
       {
-        "count": 7,
+        "count": 0,
         "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/posts/159/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 324,
-        "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/posts/159/revisions/324"
       }
     ],
     "wp:attachment": [
@@ -1416,7 +1362,7 @@
     "rendered": "barrios"
   },
   "author": 64,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1516,12 +1462,12 @@
     "rendered": "Algunos grupos ya creados"
   },
   "author": 64,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://hacksol.tomalaplaza.net/files/2011/05/barrios.jpg'><img width=\"300\" height=\"205\" src=\"https://hacksol.tomalaplaza.net/files/2011/05/barrios-300x205.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://hacksol.tomalaplaza.net/files/2011/05/barrios-300x205.jpg 300w, https://hacksol.tomalaplaza.net/files/2011/05/barrios.jpg 550w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://hacksol.tomalaplaza.net/files/2011/05/barrios.jpg'><img width=\"300\" height=\"205\" src=\"https://hacksol.tomalaplaza.net/files/2011/05/barrios-300x205.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://hacksol.tomalaplaza.net/files/2011/05/barrios-300x205.jpg 300w, https://hacksol.tomalaplaza.net/files/2011/05/barrios.jpg 550w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -1616,12 +1562,12 @@
     "rendered": "barrios"
   },
   "author": 64,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://hacksol.tomalaplaza.net/files/2011/05/barrios.png'><img width=\"300\" height=\"205\" src=\"https://hacksol.tomalaplaza.net/files/2011/05/barrios-300x205.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://hacksol.tomalaplaza.net/files/2011/05/barrios-300x205.png 300w, https://hacksol.tomalaplaza.net/files/2011/05/barrios.png 550w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://hacksol.tomalaplaza.net/files/2011/05/barrios.png'><img width=\"300\" height=\"205\" src=\"https://hacksol.tomalaplaza.net/files/2011/05/barrios-300x205.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://hacksol.tomalaplaza.net/files/2011/05/barrios-300x205.png 300w, https://hacksol.tomalaplaza.net/files/2011/05/barrios.png 550w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": "<p>Algunos de los grupos ya creados</p>\n"
@@ -1766,14 +1712,8 @@
     ],
     "version-history": [
       {
-        "count": 11,
+        "count": 0,
         "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/posts/115/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 325,
-        "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/posts/115/revisions/325"
       }
     ],
     "wp:attachment": [
@@ -1868,14 +1808,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/posts/110/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 326,
-        "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/posts/110/revisions/326"
       }
     ],
     "wp:attachment": [
@@ -1965,14 +1899,8 @@
     ],
     "version-history": [
       {
-        "count": 12,
+        "count": 0,
         "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/pages/107/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 335,
-        "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/pages/107/revisions/335"
       }
     ],
     "wp:attachment": [
@@ -2055,14 +1983,8 @@
     ],
     "version-history": [
       {
-        "count": 13,
+        "count": 0,
         "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/posts/97/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 327,
-        "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/posts/97/revisions/327"
       }
     ],
     "wp:attachment": [
@@ -2157,14 +2079,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/posts/92/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 328,
-        "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/posts/92/revisions/328"
       }
     ],
     "wp:attachment": [
@@ -2259,14 +2175,8 @@
     ],
     "version-history": [
       {
-        "count": 10,
+        "count": 0,
         "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/posts/68/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 329,
-        "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/posts/68/revisions/329"
       }
     ],
     "wp:attachment": [
@@ -2368,14 +2278,8 @@
     ],
     "version-history": [
       {
-        "count": 9,
+        "count": 0,
         "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/posts/40/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 330,
-        "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/posts/40/revisions/330"
       }
     ],
     "wp:attachment": [
@@ -2470,14 +2374,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/posts/25/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 331,
-        "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/posts/25/revisions/331"
       }
     ],
     "wp:attachment": [
@@ -2572,14 +2470,8 @@
     ],
     "version-history": [
       {
-        "count": 9,
+        "count": 0,
         "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/posts/18/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 332,
-        "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/posts/18/revisions/332"
       }
     ],
     "wp:attachment": [
@@ -2669,14 +2561,8 @@
     ],
     "version-history": [
       {
-        "count": 9,
+        "count": 0,
         "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/pages/2/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 337,
-        "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/pages/2/revisions/337"
       }
     ],
     "wp:attachment": [
@@ -2759,14 +2645,8 @@
     ],
     "version-history": [
       {
-        "count": 8,
+        "count": 0,
         "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/posts/1/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 333,
-        "href": "https://hacksol.tomalaplaza.net/wp-json/wp/v2/posts/1/revisions/333"
       }
     ],
     "wp:attachment": [

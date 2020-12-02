@@ -24,7 +24,7 @@
   },
   "author": 898,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -65,14 +65,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://mumble.tomalaplaza.net/wp-json/wp/v2/posts/132/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 133,
-        "href": "https://mumble.tomalaplaza.net/wp-json/wp/v2/posts/132/revisions/133"
       }
     ],
     "wp:attachment": [
@@ -126,7 +120,7 @@
   },
   "author": 898,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -167,14 +161,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://mumble.tomalaplaza.net/wp-json/wp/v2/posts/125/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 129,
-        "href": "https://mumble.tomalaplaza.net/wp-json/wp/v2/posts/125/revisions/129"
       }
     ],
     "wp:attachment": [
@@ -230,7 +218,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "sidebar-page.php",
   "meta": [],
@@ -264,14 +252,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://mumble.tomalaplaza.net/wp-json/wp/v2/pages/118/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 122,
-        "href": "https://mumble.tomalaplaza.net/wp-json/wp/v2/pages/118/revisions/122"
       }
     ],
     "wp:attachment": [
@@ -313,7 +295,7 @@
   },
   "author": 898,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -354,14 +336,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://mumble.tomalaplaza.net/wp-json/wp/v2/posts/110/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 111,
-        "href": "https://mumble.tomalaplaza.net/wp-json/wp/v2/posts/110/revisions/111"
       }
     ],
     "wp:attachment": [
@@ -415,7 +391,7 @@
   },
   "author": 898,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -456,14 +432,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://mumble.tomalaplaza.net/wp-json/wp/v2/posts/95/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 99,
-        "href": "https://mumble.tomalaplaza.net/wp-json/wp/v2/posts/95/revisions/99"
       }
     ],
     "wp:attachment": [
@@ -517,7 +487,7 @@
   },
   "author": 898,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -558,14 +528,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://mumble.tomalaplaza.net/wp-json/wp/v2/posts/93/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 94,
-        "href": "https://mumble.tomalaplaza.net/wp-json/wp/v2/posts/93/revisions/94"
       }
     ],
     "wp:attachment": [
@@ -619,7 +583,7 @@
   },
   "author": 946,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -660,14 +624,8 @@
     ],
     "version-history": [
       {
-        "count": 10,
+        "count": 0,
         "href": "https://mumble.tomalaplaza.net/wp-json/wp/v2/posts/73/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 83,
-        "href": "https://mumble.tomalaplaza.net/wp-json/wp/v2/posts/73/revisions/83"
       }
     ],
     "wp:attachment": [
@@ -712,7 +670,7 @@
     "rendered": "cabeceramumble.jpg"
   },
   "author": 946,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -818,7 +776,7 @@
     "rendered": "fr"
   },
   "author": 946,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -898,7 +856,7 @@
     "rendered": "en"
   },
   "author": 946,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -978,7 +936,7 @@
     "rendered": "es"
   },
   "author": 946,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1058,7 +1016,7 @@
     "rendered": "frdescargar"
   },
   "author": 946,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1152,7 +1110,7 @@
     "rendered": "endescargar"
   },
   "author": 946,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1246,7 +1204,7 @@
     "rendered": "esdescargar"
   },
   "author": 946,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1340,7 +1298,7 @@
     "rendered": "frtconectar"
   },
   "author": 946,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1434,7 +1392,7 @@
     "rendered": "entconectar"
   },
   "author": 946,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1528,7 +1486,7 @@
     "rendered": "estconectar"
   },
   "author": 946,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1622,7 +1580,7 @@
     "rendered": "frconectar"
   },
   "author": 946,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1716,7 +1674,7 @@
     "rendered": "enconectar"
   },
   "author": 946,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1810,7 +1768,7 @@
     "rendered": "esconectar"
   },
   "author": 946,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1904,7 +1862,7 @@
     "rendered": "mumble2"
   },
   "author": 946,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1998,7 +1956,7 @@
     "rendered": "descargar"
   },
   "author": 946,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2092,7 +2050,7 @@
     "rendered": "mumble"
   },
   "author": 946,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2186,7 +2144,7 @@
     "rendered": "wpnati"
   },
   "author": 946,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2277,7 +2235,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 1,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2311,14 +2269,8 @@
     ],
     "version-history": [
       {
-        "count": 17,
+        "count": 0,
         "href": "https://mumble.tomalaplaza.net/wp-json/wp/v2/pages/18/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 23,
-        "href": "https://mumble.tomalaplaza.net/wp-json/wp/v2/pages/18/revisions/23"
       }
     ],
     "wp:attachment": [
@@ -2351,7 +2303,7 @@
     "rendered": "Manual"
   },
   "content": {
-    "rendered": "<p><a href=\"https://n-1.cc/pg/pages/view/791420\"><img class=\"alignnone\" alt=\"esquema configuracion mumble\" src=\"https://n-1.cc/mod/file/download.php?file_guid=865891\" width=\"2104\" height=\"1488\" /></a></p>\n<h2></h2>\n<h2>\u00bfQue es esto?</h2>\n<p>Esta p\u00e1gina es la puerta de entrada a un servicio de &#8220;Salas de Chat por voz&#8221;, es decir, un sistema por el que usted puede crear salas (habitaciones), donde se reune la gente a hablar, literalmente, de aquellos temas que m\u00e1s les guste.</p>\n<h2>\u00bfPorqu\u00e9 se ha montado este servicio?</h2>\n<p>Este servicio ha sido montado con la idea de apoyar tecnol\u00f3gicamente los debates que han surgido posteriormente al 15 de mayo de 2011.</p>\n<h2>\u00bfA qui\u00e9n va orientado?</h2>\n<p>La idea central es la de facilitar el intercambio de ideas entre personas que no han de estar f\u00edsicamente en un mismo lugar, as\u00ed como facilitar tambi\u00e9n la coordinaci\u00f3n entre equipos de trabajo a trav\u00e9s de internet</p>\n<h3>Primeros pasos</h3>\n<p>Para poder utilizar el servidor, hace falta instalar un programa. El programa est\u00e1 hecho para que funcione en sistemas <a href=\"http://sourceforge.net/projects/mumble/files/Mumble/1.2.3/mumble-1.2.3.msi/download\">Windows</a>, <a href=\"http://sourceforge.net/projects/mumble/files/Mumble/1.2.3/Mumble-1.2.3.dmg/download\">Mac</a><a id=\"sdfootnote1anc\" href=\"http://mumble.democraciarealya.es/#sdfootnote1sym\" name=\"sdfootnote1anc\"></a><sup>1</sup> y Linux<a id=\"sdfootnote2anc\" href=\"http://mumble.democraciarealya.es/#sdfootnote2sym\" name=\"sdfootnote2anc\"></a><sup>2</sup>. Dispone, incluso, de versi\u00f3n para ejecutarse desde tel\u00e9fonos con Android. <strong>10/08/2011</strong>: iMumble for iPhone available on AppStore! <a name=\"comolohago\"></a></p>\n<h3>Descarga</h3>\n<p>Accede a la <a href=\"http://mumble.sourceforge.net/\">p\u00e1gina principal del proyecto</a> y elige el programa en funci\u00f3n de tu sistema operativo. La versi\u00f3n para Android la podr\u00e1s conseguir en el Android Market directamente.</p>\n<h3>Instalaci\u00f3n</h3>\n<p>La instalaci\u00f3n es muy sencilla en todas las plataformas. Centr\u00e1ndonos en Windows, hemos dejado un v\u00eddeo en el que se ve, paso a paso el proceso de instalaci\u00f3n. Muy sencillo, la verdad. http://youtu.be/9j5n_txo9V4</p>\n<h3>Datos de Conexi\u00f3n</h3>\n<p>Los datos necesarios para conectar con el servidor son los siguientes:</p>\n<ul>\n<li><em>Etiqueta</em>: un nombre cualquiera que describa el servidor en el que estamos. Por ejemplo, podriamos usar la etiqueta \u00ab<strong>Tomalaplaza</strong>\u00bb</li>\n<li><em>Direcci\u00f3n</em>(host): Es la direcci\u00f3n del servidor en Internet. Su valor es este: <strong>mumble.tomalaplaza.net</strong></li>\n<li><em>Puerto</em>: es un n\u00famero, concretamente este: <strong>64738</strong></li>\n<li><em>Nombre de usuario</em>: es el equivalente a un nick, un alias. Queda a la elecci\u00f3n de cada uno, as\u00ed que se puede poner lo que quiera. Si va a usar el mismo nick de manera indefinida, le aconsejamos que lo registre, para evitar que se lo &#8216;pisen&#8217;.</li>\n</ul>\n<h3>Puesta en marcha</h3>\n<p>Al acceder por primera vez, se activar\u00e1 un asistente que se encargar\u00e1 de realizar una serie de preguntas con el objetivo de optimizar la calidad del sonido en funci\u00f3n de la calidad de su conexi\u00f3n. Generalmente no hace falta tocar nada, aunque s\u00ed que recomendamos dos peque\u00f1os ajustes:</p>\n<ol>\n<li>En lugar de dejar que el audio est\u00e9 funcionando todo el tiempo, ponerlo de tal manera que sea necesario apretar una tecla para que se nos escuche en las salas de charla. Es la forma m\u00e1s \u00ablimpia\u00bb de participar en una reuni\u00f3n sin que se mezclen los ruidos del lugar donde estemos con los ruidos de otros participantes, y</li>\n<li>Desactiven el sistema de notificaciones por voz, ya que suele ser un poquito &#8216;pesado&#8217; y adem\u00e1s, cuando estamos en conversaci\u00f3n, se lo terminamos reenviando a todos los participantes en la reuni\u00f3n.</li>\n</ol>\n<p><a name=\"comolouso\"></a></p>\n<h2>Uso y disfrute</h2>\n<p>Una vez instalado el programa, realizaremos la primera conexi\u00f3n. En la primera conexi\u00f3n, entraremos directamente a la sala general, una sala p\u00fablica en la que todo lo que hablemos ser\u00e1 escuchado por todos los que se encuentren en esa sala, sean conocidos nuestros o no. Al entrar por primera vez, ver\u00e1n que existen una serie de salas ya creadas, dispuestas para ser usadas de inmediato. Basta con pulsar con el bot\u00f3n derecho del rat\u00f3n en la sala y hacer click en la opci\u00f3n &#8220;Unirse al canal&#8221;. A partir de ese momento, s\u00f3lo oiremos y hablaremos con la gente que est\u00e9 en esa sala. As\u00ed de sencillo. Una recomendaci\u00f3n: un buen sistema de trabajo en equipo es combinar una charla en una de las salas con una sesi\u00f3n de escritura colaborativa. Si les interesa esta opci\u00f3n, hagan una prueba entrando en <a href=\"http://piratepad.net/\">Piratepad</a>, o <strong><a title=\"n-1\" href=\"http://n-1.cc\" target=\"_blank\">n-1</a></strong> por ejemplo. Seguro que les gustar\u00e1 \ud83d\ude42 Como dice el refr\u00e1n, &#8220;Vale m\u00e1s una imagen que mil palabras&#8221;, as\u00ed que &#8230;</p>\n<h3>Netiqueta</h3>\n<p>Las salas son, a fin de cuentas, igual que el mundo real. No estar\u00eda de m\u00e1s releerse <a href=\"http://es.wikipedia.org/wiki/Netiquette\">las siempre vigentes normas de Netiqueta</a> y colaborar, de esta manera, a una mejor expeciencia en esta plataforma.</p>\n<h3>Recomendaciones t\u00e9cnicas</h3>\n<p>La mejor opci\u00f3n para usar el sistema es la de disponer de un juego de auriculares con micr\u00f3fono. De esta manera la calidad de la conversaci\u00f3n gana much\u00edsimos enteros. Adaptaci\u00f3n del manual de mumble.democraciarealya.es</p>\n",
+    "rendered": "<p><a href=\"https://n-1.cc/pg/pages/view/791420\"><img loading=\"lazy\" class=\"alignnone\" alt=\"esquema configuracion mumble\" src=\"https://n-1.cc/mod/file/download.php?file_guid=865891\" width=\"2104\" height=\"1488\" /></a></p>\n<h2></h2>\n<h2>\u00bfQue es esto?</h2>\n<p>Esta p\u00e1gina es la puerta de entrada a un servicio de &#8220;Salas de Chat por voz&#8221;, es decir, un sistema por el que usted puede crear salas (habitaciones), donde se reune la gente a hablar, literalmente, de aquellos temas que m\u00e1s les guste.</p>\n<h2>\u00bfPorqu\u00e9 se ha montado este servicio?</h2>\n<p>Este servicio ha sido montado con la idea de apoyar tecnol\u00f3gicamente los debates que han surgido posteriormente al 15 de mayo de 2011.</p>\n<h2>\u00bfA qui\u00e9n va orientado?</h2>\n<p>La idea central es la de facilitar el intercambio de ideas entre personas que no han de estar f\u00edsicamente en un mismo lugar, as\u00ed como facilitar tambi\u00e9n la coordinaci\u00f3n entre equipos de trabajo a trav\u00e9s de internet</p>\n<h3>Primeros pasos</h3>\n<p>Para poder utilizar el servidor, hace falta instalar un programa. El programa est\u00e1 hecho para que funcione en sistemas <a href=\"http://sourceforge.net/projects/mumble/files/Mumble/1.2.3/mumble-1.2.3.msi/download\">Windows</a>, <a href=\"http://sourceforge.net/projects/mumble/files/Mumble/1.2.3/Mumble-1.2.3.dmg/download\">Mac</a><a id=\"sdfootnote1anc\" href=\"http://mumble.democraciarealya.es/#sdfootnote1sym\" name=\"sdfootnote1anc\"></a><sup>1</sup> y Linux<a id=\"sdfootnote2anc\" href=\"http://mumble.democraciarealya.es/#sdfootnote2sym\" name=\"sdfootnote2anc\"></a><sup>2</sup>. Dispone, incluso, de versi\u00f3n para ejecutarse desde tel\u00e9fonos con Android. <strong>10/08/2011</strong>: iMumble for iPhone available on AppStore! <a name=\"comolohago\"></a></p>\n<h3>Descarga</h3>\n<p>Accede a la <a href=\"http://mumble.sourceforge.net/\">p\u00e1gina principal del proyecto</a> y elige el programa en funci\u00f3n de tu sistema operativo. La versi\u00f3n para Android la podr\u00e1s conseguir en el Android Market directamente.</p>\n<h3>Instalaci\u00f3n</h3>\n<p>La instalaci\u00f3n es muy sencilla en todas las plataformas. Centr\u00e1ndonos en Windows, hemos dejado un v\u00eddeo en el que se ve, paso a paso el proceso de instalaci\u00f3n. Muy sencillo, la verdad. http://youtu.be/9j5n_txo9V4</p>\n<h3>Datos de Conexi\u00f3n</h3>\n<p>Los datos necesarios para conectar con el servidor son los siguientes:</p>\n<ul>\n<li><em>Etiqueta</em>: un nombre cualquiera que describa el servidor en el que estamos. Por ejemplo, podriamos usar la etiqueta \u00ab<strong>Tomalaplaza</strong>\u00bb</li>\n<li><em>Direcci\u00f3n</em>(host): Es la direcci\u00f3n del servidor en Internet. Su valor es este: <strong>mumble.tomalaplaza.net</strong></li>\n<li><em>Puerto</em>: es un n\u00famero, concretamente este: <strong>64738</strong></li>\n<li><em>Nombre de usuario</em>: es el equivalente a un nick, un alias. Queda a la elecci\u00f3n de cada uno, as\u00ed que se puede poner lo que quiera. Si va a usar el mismo nick de manera indefinida, le aconsejamos que lo registre, para evitar que se lo &#8216;pisen&#8217;.</li>\n</ul>\n<h3>Puesta en marcha</h3>\n<p>Al acceder por primera vez, se activar\u00e1 un asistente que se encargar\u00e1 de realizar una serie de preguntas con el objetivo de optimizar la calidad del sonido en funci\u00f3n de la calidad de su conexi\u00f3n. Generalmente no hace falta tocar nada, aunque s\u00ed que recomendamos dos peque\u00f1os ajustes:</p>\n<ol>\n<li>En lugar de dejar que el audio est\u00e9 funcionando todo el tiempo, ponerlo de tal manera que sea necesario apretar una tecla para que se nos escuche en las salas de charla. Es la forma m\u00e1s \u00ablimpia\u00bb de participar en una reuni\u00f3n sin que se mezclen los ruidos del lugar donde estemos con los ruidos de otros participantes, y</li>\n<li>Desactiven el sistema de notificaciones por voz, ya que suele ser un poquito &#8216;pesado&#8217; y adem\u00e1s, cuando estamos en conversaci\u00f3n, se lo terminamos reenviando a todos los participantes en la reuni\u00f3n.</li>\n</ol>\n<p><a name=\"comolouso\"></a></p>\n<h2>Uso y disfrute</h2>\n<p>Una vez instalado el programa, realizaremos la primera conexi\u00f3n. En la primera conexi\u00f3n, entraremos directamente a la sala general, una sala p\u00fablica en la que todo lo que hablemos ser\u00e1 escuchado por todos los que se encuentren en esa sala, sean conocidos nuestros o no. Al entrar por primera vez, ver\u00e1n que existen una serie de salas ya creadas, dispuestas para ser usadas de inmediato. Basta con pulsar con el bot\u00f3n derecho del rat\u00f3n en la sala y hacer click en la opci\u00f3n &#8220;Unirse al canal&#8221;. A partir de ese momento, s\u00f3lo oiremos y hablaremos con la gente que est\u00e9 en esa sala. As\u00ed de sencillo. Una recomendaci\u00f3n: un buen sistema de trabajo en equipo es combinar una charla en una de las salas con una sesi\u00f3n de escritura colaborativa. Si les interesa esta opci\u00f3n, hagan una prueba entrando en <a href=\"http://piratepad.net/\">Piratepad</a>, o <strong><a title=\"n-1\" href=\"http://n-1.cc\" target=\"_blank\">n-1</a></strong> por ejemplo. Seguro que les gustar\u00e1 \ud83d\ude42 Como dice el refr\u00e1n, &#8220;Vale m\u00e1s una imagen que mil palabras&#8221;, as\u00ed que &#8230;</p>\n<h3>Netiqueta</h3>\n<p>Las salas son, a fin de cuentas, igual que el mundo real. No estar\u00eda de m\u00e1s releerse <a href=\"http://es.wikipedia.org/wiki/Netiquette\">las siempre vigentes normas de Netiqueta</a> y colaborar, de esta manera, a una mejor expeciencia en esta plataforma.</p>\n<h3>Recomendaciones t\u00e9cnicas</h3>\n<p>La mejor opci\u00f3n para usar el sistema es la de disponer de un juego de auriculares con micr\u00f3fono. De esta manera la calidad de la conversaci\u00f3n gana much\u00edsimos enteros. Adaptaci\u00f3n del manual de mumble.democraciarealya.es</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -2362,7 +2314,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2396,14 +2348,8 @@
     ],
     "version-history": [
       {
-        "count": 12,
+        "count": 0,
         "href": "https://mumble.tomalaplaza.net/wp-json/wp/v2/pages/5/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 27,
-        "href": "https://mumble.tomalaplaza.net/wp-json/wp/v2/pages/5/revisions/27"
       }
     ],
     "wp:attachment": [
@@ -2486,14 +2432,8 @@
     ],
     "version-history": [
       {
-        "count": 25,
+        "count": 0,
         "href": "https://mumble.tomalaplaza.net/wp-json/wp/v2/posts/1/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 6,
-        "href": "https://mumble.tomalaplaza.net/wp-json/wp/v2/posts/1/revisions/6"
       }
     ],
     "wp:attachment": [

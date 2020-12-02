@@ -15,12 +15,12 @@
     "rendered": "5N"
   },
   "author": 189,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://batan.tomalosbarrios.net/files/2011/11/cartel-5-N.jpg'><img width=\"212\" height=\"300\" src=\"https://batan.tomalosbarrios.net/files/2011/11/cartel-5-N-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://batan.tomalosbarrios.net/files/2011/11/cartel-5-N-212x300.jpg 212w, https://batan.tomalosbarrios.net/files/2011/11/cartel-5-N.jpg 596w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://batan.tomalosbarrios.net/files/2011/11/cartel-5-N.jpg'><img width=\"212\" height=\"300\" src=\"https://batan.tomalosbarrios.net/files/2011/11/cartel-5-N-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://batan.tomalosbarrios.net/files/2011/11/cartel-5-N-212x300.jpg 212w, https://batan.tomalosbarrios.net/files/2011/11/cartel-5-N.jpg 596w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -121,7 +121,7 @@
     "rendered": "Este s\u00e1bado 5 de noviembre junto al metro de Bat\u00e1n:"
   },
   "content": {
-    "rendered": "<p style=\"text-align: center\"><a href=\"http://batan.tomalosbarrios.net/files/2011/11/cartel-5-N.jpg\"><br />\n</a><a href=\"http://batan.tomalosbarrios.net/files/2011/11/cartel-5-N.jpg\"><img class=\"aligncenter size-full wp-image-505\" src=\"http://batan.tomalosbarrios.net/files/2011/11/cartel-5-N.jpg\" alt=\"\" width=\"596\" height=\"843\" srcset=\"https://batan.tomalosbarrios.net/files/2011/11/cartel-5-N.jpg 596w, https://batan.tomalosbarrios.net/files/2011/11/cartel-5-N-212x300.jpg 212w\" sizes=\"(max-width: 596px) 100vw, 596px\" /></a></p>\n",
+    "rendered": "<p style=\"text-align: center\"><a href=\"http://batan.tomalosbarrios.net/files/2011/11/cartel-5-N.jpg\"><br />\n</a><a href=\"http://batan.tomalosbarrios.net/files/2011/11/cartel-5-N.jpg\"><img loading=\"lazy\" class=\"aligncenter size-full wp-image-505\" src=\"http://batan.tomalosbarrios.net/files/2011/11/cartel-5-N.jpg\" alt=\"\" width=\"596\" height=\"843\" srcset=\"https://batan.tomalosbarrios.net/files/2011/11/cartel-5-N.jpg 596w, https://batan.tomalosbarrios.net/files/2011/11/cartel-5-N-212x300.jpg 212w\" sizes=\"(max-width: 596px) 100vw, 596px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -130,7 +130,7 @@
   },
   "author": 189,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -171,14 +171,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/504/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 507,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/504/revisions/507"
       }
     ],
     "wp:attachment": [
@@ -234,7 +228,7 @@
   "featured_media": 0,
   "parent": 45,
   "menu_order": 18,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -268,14 +262,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/pages/499/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 503,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/pages/499/revisions/503"
       }
     ],
     "up": [
@@ -325,7 +313,7 @@
   "featured_media": 0,
   "parent": 45,
   "menu_order": 6,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -359,14 +347,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/pages/476/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 494,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/pages/476/revisions/494"
       }
     ],
     "up": [
@@ -416,7 +398,7 @@
   "featured_media": 0,
   "parent": 45,
   "menu_order": 3,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -450,14 +432,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/pages/471/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 475,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/pages/471/revisions/475"
       }
     ],
     "up": [
@@ -507,7 +483,7 @@
   "featured_media": 0,
   "parent": 45,
   "menu_order": 21,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -541,14 +517,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/pages/467/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 498,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/pages/467/revisions/498"
       }
     ],
     "up": [
@@ -598,7 +568,7 @@
   "featured_media": 0,
   "parent": 45,
   "menu_order": 19,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -632,14 +602,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/pages/462/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 497,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/pages/462/revisions/497"
       }
     ],
     "up": [
@@ -689,7 +653,7 @@
   "featured_media": 0,
   "parent": 45,
   "menu_order": 7,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -723,14 +687,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/pages/457/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 496,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/pages/457/revisions/496"
       }
     ],
     "up": [
@@ -780,7 +738,7 @@
   "featured_media": 0,
   "parent": 45,
   "menu_order": 4,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -814,14 +772,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/pages/453/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 489,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/pages/453/revisions/489"
       }
     ],
     "up": [
@@ -871,7 +823,7 @@
   "featured_media": 0,
   "parent": 45,
   "menu_order": 5,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -905,14 +857,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/pages/450/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 487,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/pages/450/revisions/487"
       }
     ],
     "up": [
@@ -962,7 +908,7 @@
   "featured_media": 0,
   "parent": 45,
   "menu_order": 2,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -996,14 +942,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/pages/444/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 491,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/pages/444/revisions/491"
       }
     ],
     "up": [
@@ -1042,12 +982,12 @@
     "rendered": "Microsoft Word &#8211; cartel.doc"
   },
   "author": 189,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://batan.tomalosbarrios.net/files/2011/06/Microsoft-Word-cartel_peque\u00f1o.jpg'><img width=\"300\" height=\"215\" src=\"https://batan.tomalosbarrios.net/files/2011/06/Microsoft-Word-cartel_peque\u00f1o-300x215.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://batan.tomalosbarrios.net/files/2011/06/Microsoft-Word-cartel_peque\u00f1o-300x215.jpg 300w, https://batan.tomalosbarrios.net/files/2011/06/Microsoft-Word-cartel_peque\u00f1o.jpg 488w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://batan.tomalosbarrios.net/files/2011/06/Microsoft-Word-cartel_peque\u00f1o.jpg'><img width=\"300\" height=\"215\" src=\"https://batan.tomalosbarrios.net/files/2011/06/Microsoft-Word-cartel_peque\u00f1o-300x215.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://batan.tomalosbarrios.net/files/2011/06/Microsoft-Word-cartel_peque\u00f1o-300x215.jpg 300w, https://batan.tomalosbarrios.net/files/2011/06/Microsoft-Word-cartel_peque\u00f1o.jpg 488w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -1148,12 +1088,12 @@
     "rendered": "Microsoft Word &#8211; cartel.doc"
   },
   "author": 189,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://batan.tomalosbarrios.net/files/2011/10/Microsoft-Word-cartel_peque\u00f1o.jpg'><img width=\"300\" height=\"215\" src=\"https://batan.tomalosbarrios.net/files/2011/10/Microsoft-Word-cartel_peque\u00f1o-300x215.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://batan.tomalosbarrios.net/files/2011/10/Microsoft-Word-cartel_peque\u00f1o-300x215.jpg 300w, https://batan.tomalosbarrios.net/files/2011/10/Microsoft-Word-cartel_peque\u00f1o.jpg 488w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://batan.tomalosbarrios.net/files/2011/10/Microsoft-Word-cartel_peque\u00f1o.jpg'><img width=\"300\" height=\"215\" src=\"https://batan.tomalosbarrios.net/files/2011/10/Microsoft-Word-cartel_peque\u00f1o-300x215.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://batan.tomalosbarrios.net/files/2011/10/Microsoft-Word-cartel_peque\u00f1o-300x215.jpg 300w, https://batan.tomalosbarrios.net/files/2011/10/Microsoft-Word-cartel_peque\u00f1o.jpg 488w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -1254,7 +1194,7 @@
     "rendered": "En la pr\u00f3xima asamblea, hablaremos sobre democracia participativa"
   },
   "content": {
-    "rendered": "<p style=\"text-align: center\"><a href=\"http://batan.tomalosbarrios.net/files/2011/10/Microsoft-Word-cartel_peque%C3%B1o.jpg\"><img class=\"aligncenter size-medium wp-image-434\" src=\"http://batan.tomalosbarrios.net/files/2011/10/Microsoft-Word-cartel_peque%C3%B1o-300x215.jpg\" alt=\"\" width=\"300\" height=\"215\" /></a></p>\n",
+    "rendered": "<p style=\"text-align: center\"><a href=\"http://batan.tomalosbarrios.net/files/2011/10/Microsoft-Word-cartel_peque%C3%B1o.jpg\"><img loading=\"lazy\" class=\"aligncenter size-medium wp-image-434\" src=\"http://batan.tomalosbarrios.net/files/2011/10/Microsoft-Word-cartel_peque%C3%B1o-300x215.jpg\" alt=\"\" width=\"300\" height=\"215\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -1263,7 +1203,7 @@
   },
   "author": 189,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1304,14 +1244,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/433/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 436,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/433/revisions/436"
       }
     ],
     "wp:attachment": [
@@ -1367,7 +1301,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1401,14 +1335,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/pages/416/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 419,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/pages/416/revisions/419"
       }
     ],
     "wp:attachment": [
@@ -1441,16 +1369,16 @@
     "rendered": "La Junta Electoral de Madrid blinda la Puerta del Sol contra los &#8216;indignados&#8217;"
   },
   "content": {
-    "rendered": "<p>&#171;La Junta Electoral de Madrid ha decidido prohibir la celebraci\u00f3n de manifestaciones en la Puerta del Sol, as\u00ed como en otros lugares simb\u00f3licos de la capital, declar\u00e1ndolos &#171;lugares reservados para actos de la campa\u00f1a electoral&#187; y evitando as\u00ed que se repitan los episodios de las elecciones municipales y auton\u00f3micas de mayo con la acampada de los &#8216;indignados&#8217;.&#187;</p>\n<p>M\u00e1s informaci\u00f3n: <a title=\"aqu\u00ed\" href=\"http://ecodiario.eleconomista.es/espana/noticias/3488294/10/11/La-Junta-Electoral-de-Madrid-blinda-la-Puerta-del-Sol-contra-los-indignados.html\" target=\"_blank\">aqu\u00ed</a></p>\n",
+    "rendered": "<p>\u00abLa Junta Electoral de Madrid ha decidido prohibir la celebraci\u00f3n de manifestaciones en la Puerta del Sol, as\u00ed como en otros lugares simb\u00f3licos de la capital, declar\u00e1ndolos \u00ablugares reservados para actos de la campa\u00f1a electoral\u00bb y evitando as\u00ed que se repitan los episodios de las elecciones municipales y auton\u00f3micas de mayo con la acampada de los &#8216;indignados&#8217;.\u00bb</p>\n<p>M\u00e1s informaci\u00f3n: <a title=\"aqu\u00ed\" href=\"http://ecodiario.eleconomista.es/espana/noticias/3488294/10/11/La-Junta-Electoral-de-Madrid-blinda-la-Puerta-del-Sol-contra-los-indignados.html\" target=\"_blank\">aqu\u00ed</a></p>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>&#171;La Junta Electoral de Madrid ha decidido prohibir la celebraci\u00f3n de manifestaciones en la Puerta del Sol, as\u00ed como en otros lugares simb\u00f3licos de la capital, declar\u00e1ndolos &#171;lugares reservados para actos de la campa\u00f1a electoral&#187; y evitando as\u00ed que se &hellip; <a href=\"https://batan.tomalosbarrios.net/2011/10/28/la-junta-electoral-de-madrid-blinda-la-puerta-del-sol-contra-los-indignados/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+    "rendered": "<p>\u00abLa Junta Electoral de Madrid ha decidido prohibir la celebraci\u00f3n de manifestaciones en la Puerta del Sol, as\u00ed como en otros lugares simb\u00f3licos de la capital, declar\u00e1ndolos \u00ablugares reservados para actos de la campa\u00f1a electoral\u00bb y evitando as\u00ed que se &hellip; <a href=\"https://batan.tomalosbarrios.net/2011/10/28/la-junta-electoral-de-madrid-blinda-la-puerta-del-sol-contra-los-indignados/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
     "protected": false
   },
   "author": 189,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1491,14 +1419,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/410/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 413,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/410/revisions/413"
       }
     ],
     "wp:attachment": [
@@ -1552,7 +1474,7 @@
   },
   "author": 189,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1593,14 +1515,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/405/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 409,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/405/revisions/409"
       }
     ],
     "wp:attachment": [
@@ -1645,12 +1561,12 @@
     "rendered": "stop desahucios"
   },
   "author": 189,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://batan.tomalosbarrios.net/files/2011/10/stop-desahucios.jpg'><img width=\"300\" height=\"300\" src=\"https://batan.tomalosbarrios.net/files/2011/10/stop-desahucios-300x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://batan.tomalosbarrios.net/files/2011/10/stop-desahucios-300x300.jpg 300w, https://batan.tomalosbarrios.net/files/2011/10/stop-desahucios-150x150.jpg 150w, https://batan.tomalosbarrios.net/files/2011/10/stop-desahucios-1024x1024.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://batan.tomalosbarrios.net/files/2011/10/stop-desahucios.jpg'><img width=\"300\" height=\"300\" src=\"https://batan.tomalosbarrios.net/files/2011/10/stop-desahucios-300x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://batan.tomalosbarrios.net/files/2011/10/stop-desahucios-300x300.jpg 300w, https://batan.tomalosbarrios.net/files/2011/10/stop-desahucios-150x150.jpg 150w, https://batan.tomalosbarrios.net/files/2011/10/stop-desahucios-1024x1024.jpg 1024w, https://batan.tomalosbarrios.net/files/2011/10/stop-desahucios.jpg 2000w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -1757,7 +1673,7 @@
     "rendered": "Acampada popular desde el martes 25 de octubre para evitar el desahucio de nuestra vecina de 78 a\u00f1os del barrio de Aluche"
   },
   "content": {
-    "rendered": "<p>Hoy, martes 25 de octubre, tendr\u00e1 lugar una acampada popular frente a la vivienda de Justa, vecina del barrio de Aluche. El objetivo es evitar que la empresa de cr\u00e9dito r\u00e1pido Financieras Carri\u00f3n se apropie de lo que ha sido su hogar desde 1965.</p>\n<p style=\"text-align: right\">Madrid, 24 de octubre de 2011.<a href=\"http://batan.tomalosbarrios.net/files/2011/10/stop-desahucios.jpg\"><img class=\"alignleft size-medium wp-image-396\" src=\"http://batan.tomalosbarrios.net/files/2011/10/stop-desahucios-300x300.jpg\" alt=\"\" width=\"130\" height=\"130\" srcset=\"https://batan.tomalosbarrios.net/files/2011/10/stop-desahucios-300x300.jpg 300w, https://batan.tomalosbarrios.net/files/2011/10/stop-desahucios-150x150.jpg 150w, https://batan.tomalosbarrios.net/files/2011/10/stop-desahucios-1024x1024.jpg 1024w\" sizes=\"(max-width: 130px) 100vw, 130px\" /></a></p>\n<p style=\"text-align: justify\">Justa es suegra de Alberto, qui\u00e9n en 2007 tuvo que cerrar su negocio y buscar financiaci\u00f3n para saldar las deudas de su empresa (proveedores, salarios, etc.). Puesto que ning\u00fan banco le prestaba dinero acudi\u00f3 a una empresa de dinero r\u00e1pido (Financiera Carri\u00f3n), que le ofreci\u00f3 el siguiente acuerdo: 67.000 \u20ac a pagar en un a\u00f1o con el 20,95% de inter\u00e9s y la vivienda de Justa como garant\u00eda. Las negociaciones apenas duraban unos d\u00edas (cr\u00e9dito express), en los que Financiera Carri\u00f3n adem\u00e1s promet\u00eda facilidades de pago en caso de dificultades, e incluso transformaci\u00f3n del cr\u00e9dito a un a\u00f1o en una hipoteca a varios a\u00f1os. En estas circunstancias personales y econ\u00f3micas Alberto acept\u00f3 el acuerdo para saldar sus deudas.</p>\n<p style=\"text-align: justify\">Llegado el a\u00f1o Alberto no pudo hacer frente al pago lo prestado m\u00e1s el 20,95%. Al poco, Financiera Carri\u00f3n emprendi\u00f3 el procedimiento judicial que finaliz\u00f3 con la subasta de la vivienda y la adjudicaci\u00f3n a la misma financiera.</p>\n<p style=\"text-align: justify\">La Audiencia Provincial de Madrid conden\u00f3 en 2010 a Financiera Carri\u00f3n por concesi\u00f3n de cr\u00e9ditos usurarios, es decir, por realizar pr\u00e1cticas de pr\u00e9stamo prohibidas en Espa\u00f1a desde 1908 por la Ley de Represi\u00f3n de la Usura.</p>\n<p style=\"text-align: justify\">Alberto ha interpuesto demanda para anular el contrato de pr\u00e9stamo por usurario. Pretendemos evitar que echen a Justa a la calle mediante la suspensi\u00f3n del desahucio hasta que se resuelva la demanda contra Financiera Carri\u00f3n.</p>\n<p style=\"text-align: justify\"><strong>A partir de las 21:00 horas del Martes 25 empieza una acampada colectiva para \u201cvelar\u201d por la vivienda de esta vecina en el n\u00famero 94 de la calle Duquesa de Parcent (Metro y Renfe Laguna).</strong></p>\n<p>Contacto: Alberto Urbistondo: 656.568.988</p>\n",
+    "rendered": "<p>Hoy, martes 25 de octubre, tendr\u00e1 lugar una acampada popular frente a la vivienda de Justa, vecina del barrio de Aluche. El objetivo es evitar que la empresa de cr\u00e9dito r\u00e1pido Financieras Carri\u00f3n se apropie de lo que ha sido su hogar desde 1965.</p>\n<p style=\"text-align: right\">Madrid, 24 de octubre de 2011.<a href=\"http://batan.tomalosbarrios.net/files/2011/10/stop-desahucios.jpg\"><img loading=\"lazy\" class=\"alignleft size-medium wp-image-396\" src=\"http://batan.tomalosbarrios.net/files/2011/10/stop-desahucios-300x300.jpg\" alt=\"\" width=\"130\" height=\"130\" srcset=\"https://batan.tomalosbarrios.net/files/2011/10/stop-desahucios-300x300.jpg 300w, https://batan.tomalosbarrios.net/files/2011/10/stop-desahucios-150x150.jpg 150w, https://batan.tomalosbarrios.net/files/2011/10/stop-desahucios-1024x1024.jpg 1024w, https://batan.tomalosbarrios.net/files/2011/10/stop-desahucios.jpg 2000w\" sizes=\"(max-width: 130px) 100vw, 130px\" /></a></p>\n<p style=\"text-align: justify\">Justa es suegra de Alberto, qui\u00e9n en 2007 tuvo que cerrar su negocio y buscar financiaci\u00f3n para saldar las deudas de su empresa (proveedores, salarios, etc.). Puesto que ning\u00fan banco le prestaba dinero acudi\u00f3 a una empresa de dinero r\u00e1pido (Financiera Carri\u00f3n), que le ofreci\u00f3 el siguiente acuerdo: 67.000 \u20ac a pagar en un a\u00f1o con el 20,95% de inter\u00e9s y la vivienda de Justa como garant\u00eda. Las negociaciones apenas duraban unos d\u00edas (cr\u00e9dito express), en los que Financiera Carri\u00f3n adem\u00e1s promet\u00eda facilidades de pago en caso de dificultades, e incluso transformaci\u00f3n del cr\u00e9dito a un a\u00f1o en una hipoteca a varios a\u00f1os. En estas circunstancias personales y econ\u00f3micas Alberto acept\u00f3 el acuerdo para saldar sus deudas.</p>\n<p style=\"text-align: justify\">Llegado el a\u00f1o Alberto no pudo hacer frente al pago lo prestado m\u00e1s el 20,95%. Al poco, Financiera Carri\u00f3n emprendi\u00f3 el procedimiento judicial que finaliz\u00f3 con la subasta de la vivienda y la adjudicaci\u00f3n a la misma financiera.</p>\n<p style=\"text-align: justify\">La Audiencia Provincial de Madrid conden\u00f3 en 2010 a Financiera Carri\u00f3n por concesi\u00f3n de cr\u00e9ditos usurarios, es decir, por realizar pr\u00e1cticas de pr\u00e9stamo prohibidas en Espa\u00f1a desde 1908 por la Ley de Represi\u00f3n de la Usura.</p>\n<p style=\"text-align: justify\">Alberto ha interpuesto demanda para anular el contrato de pr\u00e9stamo por usurario. Pretendemos evitar que echen a Justa a la calle mediante la suspensi\u00f3n del desahucio hasta que se resuelva la demanda contra Financiera Carri\u00f3n.</p>\n<p style=\"text-align: justify\"><strong>A partir de las 21:00 horas del Martes 25 empieza una acampada colectiva para \u201cvelar\u201d por la vivienda de esta vecina en el n\u00famero 94 de la calle Duquesa de Parcent (Metro y Renfe Laguna).</strong></p>\n<p>Contacto: Alberto Urbistondo: 656.568.988</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -1766,7 +1682,7 @@
   },
   "author": 189,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1807,14 +1723,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/393/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 401,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/393/revisions/401"
       }
     ],
     "wp:attachment": [
@@ -1870,7 +1780,7 @@
   "featured_media": 0,
   "parent": 45,
   "menu_order": 1,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -1904,14 +1814,8 @@
     ],
     "version-history": [
       {
-        "count": 16,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/pages/377/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 382,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/pages/377/revisions/382"
       }
     ],
     "up": [
@@ -1950,7 +1854,7 @@
     "rendered": "Semana Stop Desahucios"
   },
   "content": {
-    "rendered": "<h1></h1>\n<p>Desde la Comisi\u00f3n de Desahucios y Vivienda de la Asamblea de Tetu\u00e1n nos recuerdan que esta semana -del\u00a024 al 27 de Octubre- se prevee como una de las mas intensas que el movimiento\u00a0<strong>Stop Desahucios\u00a0</strong>ha afrontado hasta la fecha en Madrid. Nada menos que 8\u00a0desahucios\u00a0 a paralizar en 3\u00a0d\u00edas; algunos de ellos en segundo lanzamiento.</p>\n<p>Es por eso que desde las comisiones de Desahucios y Vivienda de todo Madrid se hace un <strong>llamamiento\u00a0urgente\u00a0a la movilizaci\u00f3n</strong>\u00a0para evitar que estas familias se queden en la calle. Adem\u00e1s de evitar el desahucio de estas familias, los actos de\u00a0desobediencia\u00a0civil no violenta, que se realizar\u00e1n durante toda la semana ser\u00e1n un grito alto y claro de que no vamos a tolerar la violencia sist\u00e9mica y la situaci\u00f3n de indefensi\u00f3n e injusticia en la que viven decenas de miles de familias en todo el estado.</p>\n<p>Necesitamos tu apoyo: Ven,\u00a0reenv\u00eda, twittea, publica en tu blog, invita a tus amigos\u2026</p>\n<p><strong>Toda la semana</strong>:<br />\n<strong>Puerta de Hierro</strong>: Acampada y permanencia a partir del domingo 23<br />\n(Metro Moncloa a las 20 h)</p>\n<p><strong>Lunes 24 </strong><br />\n8am.\u00a0<strong>Getafe</strong>.\u00a0Calle Doctor Barraquer 23\u00a0(Metro Juan de la Cierva).<br />\nENTIDAD: GENERAL ELECTRIC<br />\n<a href=\"http://www.facebook.com/event.php?eid=172742146147371\" target=\"_blank\">Evento en Facebook</a></p>\n<p>8am.<strong>\u00a0Legan\u00e9s</strong>.\u00a0Avenida de Europa, 59\u00a0(Renfe Zarzaquemada).<br />\nENTIDAD: BANKIA.<br />\n<a href=\"http://www.facebook.com/event.php?eid=291633860865538\" target=\"_blank\">Evento en Facebook</a></p>\n<p><strong>Martes 25 </strong><br />\n8am.\u00a0<strong>Torrej\u00f3n</strong>.\u00a0Calle Zeus, 9\u00a0(Renfe Torrej\u00f3n).<br />\nENTIDAD: BANKIA.<br />\n<a href=\"http://www.facebook.com/event.php?eid=100770633369204\" target=\"_blank\">Evento en Facebook</a></p>\n<p>8am. <strong>Legan\u00e9s</strong>. Calle Mar\u00eda Moliner, 36.(Renfe Zarzaquemada) \u2013 2\u00ba Lanzamiento<br />\n<a href=\"http://leganes.tomalosbarrios.net/2011/10/20/carta-conchi-desahucio/\" target=\"_blank\">Carta de Conchi ante su desahucio</a></p>\n<p>11h. Moratalaz.\u00a0Calle Ciudad Encantada, 7B (Metro Pavones)<br />\n<a href=\"http://aavvmadrid.org/index.php/Noticias/Quieren-desahuciar-a-una-familia-de-Moratalaz-que-pago-dos-meses-del-alquiler-con-retraso-%21impidamoslo\" target=\"_blank\">http://aavvmadrid.org/index.php/Noticias/Quieren-desahuciar-a-una-familia-de-Moratalaz-que-pago-dos-meses-del-alquiler-con-retraso-!impidamoslo</a></p>\n<p><strong>Mi\u00e9rcoles 26 </strong><br />\n7am. <strong>Aluche</strong>,\u00a0Madrid.<br />\nCalle Duquesa de Parcent, 94\u00a0(Metro Laguna).<br />\nENTIDAD: FINANCIERA CARRI\u00d3N.<br />\n<a href=\"http://www.facebook.com/event.php?eid=234098546647750\" target=\"_blank\">Evento en Facebook</a></p>\n<p><strong>Jueves 27 </strong><br />\n7:30am.\u00a0<strong>Fuenlabrada</strong>.<br />\nCalle San Joaqu\u00edn, 23\u00a0(Metro Parque Europa / Renfe Fuenlabrada).<br />\nENTIDAD: BANESTO.<br />\n<a href=\"http://www.facebook.com/event.php?eid=251107364941372\" target=\"_blank\">Evento en Facebook</a></p>\n<p><a href=\"http://madrid.tomalosbarrios.net/2011/10/22/semana-stop-desahucios-6-familias-en-4-dias/\" target=\"_blank\">M\u00e1s informaci\u00f3n en el blog de #Acampadasol</a> y <a href=\"http://tetuan.tomalosbarrios.net/2011/10/21/semana-en-lucha-stop-desahucios/\" target=\"_blank\">actualizaciones en el blog de Tetu\u00e1n </a></p>\n<div><a href=\"http://www.addtoany.com/share_save#url=http%3A%2F%2Flavapies.tomalosbarrios.net%2F2011%2F10%2F24%2Fsemana-stop-desahucios%2F&amp;title=Semana%20Stop%20Desahucios&amp;description=\"><img src=\"http://lavapies.tomalosbarrios.net/wp-content/plugins/add-to-any/share_save_171_16.png\" alt=\"Share\" width=\"171\" height=\"16\" /></a></div>\n",
+    "rendered": "<h1></h1>\n<p>Desde la Comisi\u00f3n de Desahucios y Vivienda de la Asamblea de Tetu\u00e1n nos recuerdan que esta semana -del\u00a024 al 27 de Octubre- se prevee como una de las mas intensas que el movimiento\u00a0<strong>Stop Desahucios\u00a0</strong>ha afrontado hasta la fecha en Madrid. Nada menos que 8\u00a0desahucios\u00a0 a paralizar en 3\u00a0d\u00edas; algunos de ellos en segundo lanzamiento.</p>\n<p>Es por eso que desde las comisiones de Desahucios y Vivienda de todo Madrid se hace un <strong>llamamiento\u00a0urgente\u00a0a la movilizaci\u00f3n</strong>\u00a0para evitar que estas familias se queden en la calle. Adem\u00e1s de evitar el desahucio de estas familias, los actos de\u00a0desobediencia\u00a0civil no violenta, que se realizar\u00e1n durante toda la semana ser\u00e1n un grito alto y claro de que no vamos a tolerar la violencia sist\u00e9mica y la situaci\u00f3n de indefensi\u00f3n e injusticia en la que viven decenas de miles de familias en todo el estado.</p>\n<p>Necesitamos tu apoyo: Ven,\u00a0reenv\u00eda, twittea, publica en tu blog, invita a tus amigos\u2026</p>\n<p><strong>Toda la semana</strong>:<br />\n<strong>Puerta de Hierro</strong>: Acampada y permanencia a partir del domingo 23<br />\n(Metro Moncloa a las 20 h)</p>\n<p><strong>Lunes 24 </strong><br />\n8am.\u00a0<strong>Getafe</strong>.\u00a0Calle Doctor Barraquer 23\u00a0(Metro Juan de la Cierva).<br />\nENTIDAD: GENERAL ELECTRIC<br />\n<a href=\"http://www.facebook.com/event.php?eid=172742146147371\" target=\"_blank\">Evento en Facebook</a></p>\n<p>8am.<strong>\u00a0Legan\u00e9s</strong>.\u00a0Avenida de Europa, 59\u00a0(Renfe Zarzaquemada).<br />\nENTIDAD: BANKIA.<br />\n<a href=\"http://www.facebook.com/event.php?eid=291633860865538\" target=\"_blank\">Evento en Facebook</a></p>\n<p><strong>Martes 25 </strong><br />\n8am.\u00a0<strong>Torrej\u00f3n</strong>.\u00a0Calle Zeus, 9\u00a0(Renfe Torrej\u00f3n).<br />\nENTIDAD: BANKIA.<br />\n<a href=\"http://www.facebook.com/event.php?eid=100770633369204\" target=\"_blank\">Evento en Facebook</a></p>\n<p>8am. <strong>Legan\u00e9s</strong>. Calle Mar\u00eda Moliner, 36.(Renfe Zarzaquemada) \u2013 2\u00ba Lanzamiento<br />\n<a href=\"http://leganes.tomalosbarrios.net/2011/10/20/carta-conchi-desahucio/\" target=\"_blank\">Carta de Conchi ante su desahucio</a></p>\n<p>11h. Moratalaz.\u00a0Calle Ciudad Encantada, 7B (Metro Pavones)<br />\n<a href=\"http://aavvmadrid.org/index.php/Noticias/Quieren-desahuciar-a-una-familia-de-Moratalaz-que-pago-dos-meses-del-alquiler-con-retraso-%21impidamoslo\" target=\"_blank\">http://aavvmadrid.org/index.php/Noticias/Quieren-desahuciar-a-una-familia-de-Moratalaz-que-pago-dos-meses-del-alquiler-con-retraso-!impidamoslo</a></p>\n<p><strong>Mi\u00e9rcoles 26 </strong><br />\n7am. <strong>Aluche</strong>,\u00a0Madrid.<br />\nCalle Duquesa de Parcent, 94\u00a0(Metro Laguna).<br />\nENTIDAD: FINANCIERA CARRI\u00d3N.<br />\n<a href=\"http://www.facebook.com/event.php?eid=234098546647750\" target=\"_blank\">Evento en Facebook</a></p>\n<p><strong>Jueves 27 </strong><br />\n7:30am.\u00a0<strong>Fuenlabrada</strong>.<br />\nCalle San Joaqu\u00edn, 23\u00a0(Metro Parque Europa / Renfe Fuenlabrada).<br />\nENTIDAD: BANESTO.<br />\n<a href=\"http://www.facebook.com/event.php?eid=251107364941372\" target=\"_blank\">Evento en Facebook</a></p>\n<p><a href=\"http://madrid.tomalosbarrios.net/2011/10/22/semana-stop-desahucios-6-familias-en-4-dias/\" target=\"_blank\">M\u00e1s informaci\u00f3n en el blog de #Acampadasol</a> y <a href=\"http://tetuan.tomalosbarrios.net/2011/10/21/semana-en-lucha-stop-desahucios/\" target=\"_blank\">actualizaciones en el blog de Tetu\u00e1n </a></p>\n<div><a href=\"http://www.addtoany.com/share_save#url=http%3A%2F%2Flavapies.tomalosbarrios.net%2F2011%2F10%2F24%2Fsemana-stop-desahucios%2F&amp;title=Semana%20Stop%20Desahucios&amp;description=\"><img loading=\"lazy\" src=\"http://lavapies.tomalosbarrios.net/wp-content/plugins/add-to-any/share_save_171_16.png\" alt=\"Share\" width=\"171\" height=\"16\" /></a></div>\n",
     "protected": false
   },
   "excerpt": {
@@ -1959,7 +1863,7 @@
   },
   "author": 189,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2000,14 +1904,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/373/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 375,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/373/revisions/375"
       }
     ],
     "wp:attachment": [
@@ -2052,16 +1950,16 @@
     "rendered": "Nuevas actividades en el barrio"
   },
   "content": {
-    "rendered": "<p><strong><span style=\"color: #339966\">Con motivo de las pr\u00f3ximas elecciones del 20 de noviembre, invitamos a las vecinas y vecinos del Barrio de Bat\u00e1n a participar de una asamblea tem\u00e1tica sobre &#171;Democracia participativa&#187;.</span></strong></p>\n<p><a href=\"http://batan.tomalosbarrios.net/files/2011/06/cartel.jpg\"><img class=\"aligncenter size-large wp-image-359\" src=\"http://batan.tomalosbarrios.net/files/2011/06/cartel-724x1024.jpg\" alt=\"En el barrio de Bat\u00e1n nos reunimos todos los s\u00e1bados a las 12H en el Bat\u00e1n.\" width=\"640\" height=\"905\" srcset=\"https://batan.tomalosbarrios.net/files/2011/06/cartel-724x1024.jpg 724w, https://batan.tomalosbarrios.net/files/2011/06/cartel-212x300.jpg 212w\" sizes=\"(max-width: 640px) 100vw, 640px\" /></a></p>\n",
+    "rendered": "<p><strong><span style=\"color: #339966\">Con motivo de las pr\u00f3ximas elecciones del 20 de noviembre, invitamos a las vecinas y vecinos del Barrio de Bat\u00e1n a participar de una asamblea tem\u00e1tica sobre \u00abDemocracia participativa\u00bb.</span></strong></p>\n<p><a href=\"http://batan.tomalosbarrios.net/files/2011/06/cartel.jpg\"><img loading=\"lazy\" class=\"aligncenter size-large wp-image-359\" src=\"http://batan.tomalosbarrios.net/files/2011/06/cartel-724x1024.jpg\" alt=\"En el barrio de Bat\u00e1n nos reunimos todos los s\u00e1bados a las 12H en el Bat\u00e1n.\" width=\"640\" height=\"905\" srcset=\"https://batan.tomalosbarrios.net/files/2011/06/cartel-724x1024.jpg 724w, https://batan.tomalosbarrios.net/files/2011/06/cartel-212x300.jpg 212w, https://batan.tomalosbarrios.net/files/2011/06/cartel.jpg 1654w\" sizes=\"(max-width: 640px) 100vw, 640px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>Con motivo de las pr\u00f3ximas elecciones del 20 de noviembre, invitamos a las vecinas y vecinos del Barrio de Bat\u00e1n a participar de una asamblea tem\u00e1tica sobre &#171;Democracia participativa&#187;.</p>\n",
+    "rendered": "<p>Con motivo de las pr\u00f3ximas elecciones del 20 de noviembre, invitamos a las vecinas y vecinos del Barrio de Bat\u00e1n a participar de una asamblea tem\u00e1tica sobre \u00abDemocracia participativa\u00bb.</p>\n",
     "protected": false
   },
   "author": 189,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2102,14 +2000,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/362/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 372,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/362/revisions/372"
       }
     ],
     "wp:attachment": [
@@ -2154,12 +2046,12 @@
     "rendered": "Pr\u00f3xima asamblea"
   },
   "author": 189,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://batan.tomalosbarrios.net/files/2011/06/cartel.jpg'><img width=\"212\" height=\"300\" src=\"https://batan.tomalosbarrios.net/files/2011/06/cartel-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"En el barrio de Bat\u00e1n nos reunimos todos los s\u00e1bados a las 12H en el Bat\u00e1n.\" srcset=\"https://batan.tomalosbarrios.net/files/2011/06/cartel-212x300.jpg 212w, https://batan.tomalosbarrios.net/files/2011/06/cartel-724x1024.jpg 724w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://batan.tomalosbarrios.net/files/2011/06/cartel.jpg'><img width=\"212\" height=\"300\" src=\"https://batan.tomalosbarrios.net/files/2011/06/cartel-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"En el barrio de Bat\u00e1n nos reunimos todos los s\u00e1bados a las 12H en el Bat\u00e1n.\" loading=\"lazy\" srcset=\"https://batan.tomalosbarrios.net/files/2011/06/cartel-212x300.jpg 212w, https://batan.tomalosbarrios.net/files/2011/06/cartel-724x1024.jpg 724w, https://batan.tomalosbarrios.net/files/2011/06/cartel.jpg 1654w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2266,12 +2158,12 @@
     "rendered": "Bat\u00e1n marcha a sol este s\u00e1bado"
   },
   "author": 189,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://batan.tomalosbarrios.net/files/2011/07/cartel_def_marchas.gif'><img width=\"300\" height=\"212\" src=\"https://batan.tomalosbarrios.net/files/2011/07/cartel_def_marchas-300x212.gif\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://batan.tomalosbarrios.net/files/2011/07/cartel_def_marchas-300x212.gif 300w, https://batan.tomalosbarrios.net/files/2011/07/cartel_def_marchas-1024x724.gif 1024w, https://batan.tomalosbarrios.net/files/2011/07/cartel_def_marchas.gif 1417w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://batan.tomalosbarrios.net/files/2011/07/cartel_def_marchas.gif'><img width=\"300\" height=\"212\" src=\"https://batan.tomalosbarrios.net/files/2011/07/cartel_def_marchas-300x212.gif\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://batan.tomalosbarrios.net/files/2011/07/cartel_def_marchas-300x212.gif 300w, https://batan.tomalosbarrios.net/files/2011/07/cartel_def_marchas-1024x724.gif 1024w, https://batan.tomalosbarrios.net/files/2011/07/cartel_def_marchas.gif 1417w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2378,7 +2270,7 @@
     "rendered": "Bat\u00e1n marcha a sol este s\u00e1bado 23 de julio"
   },
   "content": {
-    "rendered": "<p><a href=\"http://batan.tomalosbarrios.net/files/2011/07/cartel_def_marchas.gif\"><img class=\"size-medium wp-image-347 aligncenter\" src=\"http://batan.tomalosbarrios.net/files/2011/07/cartel_def_marchas-300x212.gif\" alt=\"\" width=\"389\" height=\"274\" srcset=\"https://batan.tomalosbarrios.net/files/2011/07/cartel_def_marchas-300x212.gif 300w, https://batan.tomalosbarrios.net/files/2011/07/cartel_def_marchas-1024x724.gif 1024w, https://batan.tomalosbarrios.net/files/2011/07/cartel_def_marchas.gif 1417w\" sizes=\"(max-width: 389px) 100vw, 389px\" /></a></p>\n<p><strong>Ruta desde M\u00f3stoles a Sol</strong></p>\n<p><strong>9:00 Salida de M\u00f3stoles</strong><br />\n10:30 Alcorc\u00f3n Central<br />\n12:15 Cuatro Vientos<br />\n12:35 Aviaci\u00f3n Espa\u00f1ola<br />\n13:20 Campamento (C/ Padre Piquer con Carretera de Extremadura). Recibe y se une a la Marcha la Asamblea de Aluche<strong><br />\n13:45 A la altura del metro Casa de Campo Recibe y se une a la Marcha la Asamblea de Bat\u00e1n</strong><br />\n14:10 Metro Alto de Extremadura. Reciben y se unen a la Marcha las Asambleas de Lucero y\u00a0 P\u00ba de Extremadura</p>\n<p>De aqu\u00ed cruzamos por la Avenida Portugal y entramos en el Recinto Ferial donde paramos a comer,\u00a0 descansar y desarrollar actividades hasta la salida hacia Sol.</p>\n<p><strong>15:00 Comida Recinto Ferial en Avenida de Las Provincias, descanso y actividades.</strong><br />\n19:30 Salida del Recinto Ferial al P\u00ba de Extremadura<br />\n19:45 Puerta del Angel</p>\n<p>Y a partir de este punto ya sin horario la ruta es</p>\n<p>Puente de Segovia<br />\nC/ Segovia<br />\nPlaza de Puerta Cerrada<br />\nC/ Cava de San Miguel<br />\nC/ Mayor</p>\n<p><strong>21:00 SOL</strong></p>\n<p><strong>Comida, descanso y actividades </strong></p>\n<p>La comida popular se celebrar\u00e1 en el recinto ferial al entrar por la parte superior del P\u00ba de Extremadura a la derecha (Avenida de las Provincias), para reivindicar tambi\u00e9n el Recinto Ferial como zona de uso p\u00fablico.</p>\n<p>Para la comida la propuesta es que cada uno lleve la suya propia y algo m\u00e1s para compartir. Se pide tener en cuenta a las compa\u00f1eras vegetarianas, para ellas llevar, verduras, ensalada, pasta\u2026</p>\n<p>Despu\u00e9s de la comida de 16:30 a 18:30 Asamblea Conjunta donde cada una informar\u00e1 de sus actividades y proyectos al resto de las Asambleas.</p>\n",
+    "rendered": "<p><a href=\"http://batan.tomalosbarrios.net/files/2011/07/cartel_def_marchas.gif\"><img loading=\"lazy\" class=\"size-medium wp-image-347 aligncenter\" src=\"http://batan.tomalosbarrios.net/files/2011/07/cartel_def_marchas-300x212.gif\" alt=\"\" width=\"389\" height=\"274\" srcset=\"https://batan.tomalosbarrios.net/files/2011/07/cartel_def_marchas-300x212.gif 300w, https://batan.tomalosbarrios.net/files/2011/07/cartel_def_marchas-1024x724.gif 1024w, https://batan.tomalosbarrios.net/files/2011/07/cartel_def_marchas.gif 1417w\" sizes=\"(max-width: 389px) 100vw, 389px\" /></a></p>\n<p><strong>Ruta desde M\u00f3stoles a Sol</strong></p>\n<p><strong>9:00 Salida de M\u00f3stoles</strong><br />\n10:30 Alcorc\u00f3n Central<br />\n12:15 Cuatro Vientos<br />\n12:35 Aviaci\u00f3n Espa\u00f1ola<br />\n13:20 Campamento (C/ Padre Piquer con Carretera de Extremadura). Recibe y se une a la Marcha la Asamblea de Aluche<strong><br />\n13:45 A la altura del metro Casa de Campo Recibe y se une a la Marcha la Asamblea de Bat\u00e1n</strong><br />\n14:10 Metro Alto de Extremadura. Reciben y se unen a la Marcha las Asambleas de Lucero y\u00a0 P\u00ba de Extremadura</p>\n<p>De aqu\u00ed cruzamos por la Avenida Portugal y entramos en el Recinto Ferial donde paramos a comer,\u00a0 descansar y desarrollar actividades hasta la salida hacia Sol.</p>\n<p><strong>15:00 Comida Recinto Ferial en Avenida de Las Provincias, descanso y actividades.</strong><br />\n19:30 Salida del Recinto Ferial al P\u00ba de Extremadura<br />\n19:45 Puerta del Angel</p>\n<p>Y a partir de este punto ya sin horario la ruta es</p>\n<p>Puente de Segovia<br />\nC/ Segovia<br />\nPlaza de Puerta Cerrada<br />\nC/ Cava de San Miguel<br />\nC/ Mayor</p>\n<p><strong>21:00 SOL</strong></p>\n<p><strong>Comida, descanso y actividades </strong></p>\n<p>La comida popular se celebrar\u00e1 en el recinto ferial al entrar por la parte superior del P\u00ba de Extremadura a la derecha (Avenida de las Provincias), para reivindicar tambi\u00e9n el Recinto Ferial como zona de uso p\u00fablico.</p>\n<p>Para la comida la propuesta es que cada uno lleve la suya propia y algo m\u00e1s para compartir. Se pide tener en cuenta a las compa\u00f1eras vegetarianas, para ellas llevar, verduras, ensalada, pasta\u2026</p>\n<p>Despu\u00e9s de la comida de 16:30 a 18:30 Asamblea Conjunta donde cada una informar\u00e1 de sus actividades y proyectos al resto de las Asambleas.</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -2387,7 +2279,7 @@
   },
   "author": 189,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2428,14 +2320,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/344/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 350,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/344/revisions/350"
       }
     ],
     "wp:attachment": [
@@ -2480,7 +2366,7 @@
     "rendered": "Cartel"
   },
   "author": 189,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2542,7 +2428,7 @@
     "rendered": "9deJulio.pdf"
   },
   "author": 189,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2604,7 +2490,7 @@
     "rendered": "Diptico.pdf"
   },
   "author": 189,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2666,7 +2552,7 @@
     "rendered": "Cartel.pdf"
   },
   "author": 189,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2728,7 +2614,7 @@
     "rendered": "Acta_02_Julio_11"
   },
   "author": 189,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2790,7 +2676,7 @@
     "rendered": "Acta.pdf"
   },
   "author": 189,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2861,7 +2747,7 @@
   },
   "author": 189,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2902,14 +2788,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/304/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 309,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/304/revisions/309"
       }
     ],
     "wp:attachment": [
@@ -2963,7 +2843,7 @@
   },
   "author": 189,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3004,14 +2884,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/291/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 298,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/291/revisions/298"
       }
     ],
     "wp:attachment": [
@@ -3056,7 +2930,7 @@
     "rendered": "ACTA 18J.pdf"
   },
   "author": 189,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3127,7 +3001,7 @@
   },
   "author": 189,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3169,14 +3043,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/277/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 283,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/277/revisions/283"
       }
     ],
     "wp:attachment": [
@@ -3221,7 +3089,7 @@
     "rendered": "Diptico_25J"
   },
   "author": 189,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3283,7 +3151,7 @@
     "rendered": "Cartel_25J"
   },
   "author": 189,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3354,7 +3222,7 @@
   },
   "author": 189,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3397,14 +3265,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/272/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 287,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/272/revisions/287"
       }
     ],
     "wp:attachment": [
@@ -3458,7 +3320,7 @@
   },
   "author": 189,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3504,14 +3366,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/264/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 268,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/264/revisions/268"
       }
     ],
     "wp:attachment": [
@@ -3565,7 +3421,7 @@
   },
   "author": 189,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3607,14 +3463,8 @@
     ],
     "version-history": [
       {
-        "count": 8,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/253/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 260,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/253/revisions/260"
       }
     ],
     "wp:attachment": [
@@ -3668,7 +3518,7 @@
   },
   "author": 189,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3709,14 +3559,8 @@
     ],
     "version-history": [
       {
-        "count": 7,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/234/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 284,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/234/revisions/284"
       }
     ],
     "wp:attachment": [
@@ -3761,7 +3605,7 @@
     "rendered": "Diptico.pdf"
   },
   "author": 189,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3823,7 +3667,7 @@
     "rendered": "CartelA4.pdf"
   },
   "author": 189,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3894,7 +3738,7 @@
   },
   "author": 189,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3936,14 +3780,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/227/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 247,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/227/revisions/247"
       }
     ],
     "wp:attachment": [
@@ -3997,7 +3835,7 @@
   },
   "author": 189,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4041,14 +3879,8 @@
     ],
     "version-history": [
       {
-        "count": 17,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/210/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 252,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/210/revisions/252"
       }
     ],
     "wp:attachment": [
@@ -4093,7 +3925,7 @@
     "rendered": "Cartel_19JA3.pdf"
   },
   "author": 189,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -4155,7 +3987,7 @@
     "rendered": "Cartel19J_A4.pdf"
   },
   "author": 189,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -4217,16 +4049,16 @@
     "rendered": "Cartel 19J y m\u00e1s artes"
   },
   "content": {
-    "rendered": "<p>Hola, os hacemos llegar el cartel en formatos A4 y A3, y tambi\u00e9n m\u00e1s artes desde <a href=\"http://vocesconfutura.tumblr.com/\">&#171;voces con futura&#187;</a></p>\n<p><a href='http://batan.tomalosbarrios.net/files/2011/06/19J_a4.pdf'>Cartel19J_A4.pdf</a>, <a href='http://batan.tomalosbarrios.net/files/2011/06/19J_a3.pdf'>Cartel_19JA3.pdf</a></p>\n<p>Un saludo \ud83d\ude09</p>\n",
+    "rendered": "<p>Hola, os hacemos llegar el cartel en formatos A4 y A3, y tambi\u00e9n m\u00e1s artes desde <a href=\"http://vocesconfutura.tumblr.com/\">\u00abvoces con futura\u00bb</a></p>\n<p><a href='http://batan.tomalosbarrios.net/files/2011/06/19J_a4.pdf'>Cartel19J_A4.pdf</a>, <a href='http://batan.tomalosbarrios.net/files/2011/06/19J_a3.pdf'>Cartel_19JA3.pdf</a></p>\n<p>Un saludo \ud83d\ude09</p>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>Hola, os hacemos llegar el cartel en formatos A4 y A3, y tambi\u00e9n m\u00e1s artes desde &#171;voces con futura&#187; Cartel19J_A4.pdf, Cartel_19JA3.pdf Un saludo \ud83d\ude09</p>\n",
+    "rendered": "<p>Hola, os hacemos llegar el cartel en formatos A4 y A3, y tambi\u00e9n m\u00e1s artes desde \u00abvoces con futura\u00bb Cartel19J_A4.pdf, Cartel_19JA3.pdf Un saludo \ud83d\ude09</p>\n",
     "protected": false
   },
   "author": 189,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4271,14 +4103,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/202/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 246,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/202/revisions/246"
       }
     ],
     "wp:attachment": [
@@ -4332,7 +4158,7 @@
   },
   "author": 189,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4374,14 +4200,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/193/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 198,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/193/revisions/198"
       }
     ],
     "wp:attachment": [
@@ -4426,7 +4246,7 @@
     "rendered": "ACTA.pdf"
   },
   "author": 189,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -4488,7 +4308,7 @@
     "rendered": "Acta.pdf"
   },
   "author": 189,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -4559,7 +4379,7 @@
   },
   "author": 189,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4601,14 +4421,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/183/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 189,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/183/revisions/189"
       }
     ],
     "wp:attachment": [
@@ -4662,7 +4476,7 @@
   },
   "author": 189,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4707,14 +4521,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/169/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 250,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/169/revisions/250"
       }
     ],
     "wp:attachment": [
@@ -4768,7 +4576,7 @@
   },
   "author": 189,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4811,14 +4619,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/159/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 166,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/159/revisions/166"
       }
     ],
     "wp:attachment": [
@@ -4863,12 +4665,12 @@
     "rendered": "Propuestas"
   },
   "author": 189,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://batan.tomalosbarrios.net/files/2011/06/Propuestas.jpg'><img width=\"248\" height=\"300\" src=\"https://batan.tomalosbarrios.net/files/2011/06/Propuestas-248x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://batan.tomalosbarrios.net/files/2011/06/Propuestas-248x300.jpg 248w, https://batan.tomalosbarrios.net/files/2011/06/Propuestas.jpg 560w\" sizes=\"(max-width: 248px) 100vw, 248px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://batan.tomalosbarrios.net/files/2011/06/Propuestas.jpg'><img width=\"248\" height=\"300\" src=\"https://batan.tomalosbarrios.net/files/2011/06/Propuestas-248x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://batan.tomalosbarrios.net/files/2011/06/Propuestas-248x300.jpg 248w, https://batan.tomalosbarrios.net/files/2011/06/Propuestas.jpg 560w\" sizes=\"(max-width: 248px) 100vw, 248px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4969,18 +4771,18 @@
     "rendered": "Noticias"
   },
   "content": {
-    "rendered": "<p><strong>4 meses de Marea Verde</strong></p>\n<p>Este es un breve resumen de todas las acciones desarrolladas por la &#171;Marea Verde&#187; desde que la Consejer\u00eda de Educaci\u00f3n de la Comunidad de Madrid public\u00f3 las Instrucciones de inicio de curso 2011/12.</p>\n<p><a href=\"http://www.madrid.org/dat_oeste/descargas/11_12/instrucciones/Instrucciones_comienzo_curso_11_12.pdf\" target=\"_blank\"><strong>JULIO</strong></a></p>\n<p>05/07: <a href=\"http://www.madrid.org/dat_oeste/descargas/11_12/instrucciones/Instrucciones_comienzo_curso_11_12.pdf\" target=\"_blank\">instrucciones de inicio de curso</a>.</p>\n<p>08/07: Figar: <a href=\"http://www.elmundo.es/elmundo/2011/07/08/madrid/1310126753.html\" target=\"_blank\">&#171;<em>No va a haber ning\u00fan despido</em>&#171;</a>.</p>\n<p>08/07: <a href=\"http://www.adimad.org/wp-content/uploads/2011/07/comunicado_asamblea_adimad_julio_2011.pdf\" target=\"_blank\">comunicado de ADIMAD</a> pidiendo revisi\u00f3n de las instrucciones.</p>\n<p>13/07: <a href=\"http://www.elpais.com/articulo/madrid/Excelencia/educativa/profesores/paro/elpepiespmad/20110713elpmad_10/Tes\" target=\"_blank\">manifestaci\u00f3n</a> ante el Ministerio de Educaci\u00f3n.</p>\n<p>13/07: los sindicatos <a href=\"http://www.20minutos.es/noticia/1109099/0/sindicatos/recorte/profesores\" target=\"_blank\">comienzan las acciones legales</a> contra los recortes.</p>\n<p>14/07: la <a href=\"http://www.kaosenlared.net/noticia/comunicado-ceim-contra-instrucciones-consejeria-educacion-comunidad-ma\" target=\"_blank\">FAPA exige la anulaci\u00f3n</a> de las instrucciones.</p>\n<p>18/07: la <a href=\"http://www.ceapa.es/web/guest/sala-de-prensa/-/asset_publisher/h3xY/content/ceapa-pide-al-ministerio-de-educacion-que-actue-contra-la-comunidad-de-madrid-por-suprimir-las-tutorias-en-secundaria?redirect=/web/guest/sala-de-prensa\" target=\"_blank\">CEAPA pide al Ministerio</a> que act\u00fae.</p>\n<p>19/07: <a href=\"http://iestrueba.wordpress.com/2011/07/17/actividades-para-el-acto-del-martes-19/#comment-16\" target=\"_blank\">primeras movilizaciones</a> en los centros en contra de los recortes.</p>\n<p>20/07: <a href=\"http://www.elmundo.es/elmundo/2011/07/20/madrid/1311182778.html\" target=\"_blank\">asamblea de profesores</a> en el IES Beatriz Galindo.</p>\n<ul>\n<li><a href=\"http://maestrainterina.blogspot.com/search?updated-max=2011-07-21T13:17:00%2B02:00&amp;max-results=10\" target=\"_blank\">Opiniones</a></li>\n<li><a href=\"http://soypublica.wordpress.com/2011/07/20/asamblea-del-beatriz-galindo-impresiones-bob-harris-foro-de-la-sur/\" target=\"_blank\">Res\u00famenes</a>.</li>\n</ul>\n<p>26/07: <a href=\"http://www.publico.es/espana/388895/los-profesores-se-plantan-ante-aguirre\" target=\"_blank\">asamblea de profesores</a> en el IES San Isidro.</p>\n<ul>\n<li><a href=\"http://esodelaeso.blogspot.com/2011/07/un-profesor-cualquiera.html\" target=\"_blank\">Opini\u00f3n</a>.</li>\n</ul>\n<p>26/07: <a href=\"http://www.adimad.org/wp-content/uploads/2011/07/comunicado_26072011.pdf\" target=\"_blank\">comunicado de ADIMAD</a> pidiendo la dimisi\u00f3n de Luc\u00eda Figar.</p>\n<p>27/07: <a href=\"http://www.sindicatodeestudiantes.net/index.php?option=com_content&amp;view=article&amp;id=873:madrid-nueva-asamblea-de-profesores-contra-los-recortes-educativos&amp;catid=57&amp;Itemid=90\" target=\"_blank\">comunicado del Sindicato de Estudiantes</a>.</p>\n<p><strong>AGOSTO</strong></p>\n<p>02/08: <a href=\"http://www.kaosenlared.net/noticia/comunicado-ceim-contra-instrucciones-consejeria-educacion-comunidad-ma\" target=\"_blank\">la FAPA exige la derogaci\u00f3n</a> de la Orden de 29 de julio sobre tutor\u00edas.</p>\n<p>05/08: Delibes: &#171;<a href=\"http://www.lavanguardia.com/20110805/54196244659/la-viceconsejera-de-educacion-cree-que-trabajar-20-horas-semanales-no-es-para-organizar-ninguna-movi.html\" target=\"_blank\"><em>Trabajar 20 horas no es para organizar ninguna movilizaci\u00f3n</em></a>&#171;.</p>\n<p>05/08: modelo de <a href=\"http://profesorgeohistoria.wordpress.com/2011/08/05/modelo-de-reclamacion-para-padres-preocupados-por-la-educacion-publica/\" target=\"_blank\">reclamaci\u00f3n para padres preocupados</a> por la P\u00fablica.</p>\n<p>09/08: la asamblea de Educaci\u00f3n de Fuenlabrada <a href=\"http://profesorgeohistoria.wordpress.com/2011/08/10/99-%c2%bfen-busca-de-la-excelencia-educativa-agresion-a-la-educacion-publica-en-madrid-los-datos-de-fuenlabrada/\" target=\"_blank\">hace p\u00fablicos los recortes</a>.</p>\n<p>11/08: <a href=\"http://www.kaosenlared.net/noticia/comunicado-ceim-contra-instrucciones-consejeria-educacion-comunidad-ma\" target=\"_blank\">comunicado de la CEIM</a> contra las instrucciones.</p>\n<p>13/08: elaboraci\u00f3n de una <a href=\"http://madrid.tomalosbarrios.net/2011/08/13/carta-de-los-profesores-de-la-ensenanza-publica-de-la-comunidad-de-madrid/\" target=\"_blank\">carta de los profesores a las familias</a> para difusi\u00f3n.</p>\n<p>23/08: petici\u00f3n de dimisi\u00f3n de Luc\u00eda Figar en &#171;<a href=\"http://actuable.es/peticiones/pide-dimision-lucia-figar-lacalle\" target=\"_blank\">Actuable</a>&#171;.</p>\n<p>29/08: Figar: &#171;<a href=\"http://www.elmundo.es/elmundo/2011/08/29/madrid/1314617261.html\" target=\"_blank\"><em>Subiremos el sueldo a los tutores (&#8230;) deben ser solidarios</em></a>&#171;.</p>\n<p>30/08: Granados: &#171;<a href=\"http://www.abc.es/agencias/noticia.asp?noticia=910071\" target=\"_blank\"><em>La huelga tendr\u00e1 escas\u00edsimo apoyo</em></a>&#171;.</p>\n<p>30/08: la <a href=\"http://www.elpais.com/elpaismedia/ultimahora/media/201108/30/sociedad/20110830elpepusoc_1_Pes_PDF.pdf\" target=\"_blank\">carta de Aguirre</a>\u00a0en la n\u00f3mina, comentada en &#171;<a href=\"http://esodelaeso.blogspot.com/2011/08/por-si-los-salvajes-recortes-de-este.html\" target=\"_blank\">Eso de la ESO</a>&#171;.</p>\n<p>31/08: <a href=\"http://www.youtube.com/watch?v=91lsoQYDoOQ&amp;feature=player_embedded\" target=\"_blank\">pruebas de la manipulaci\u00f3n</a> de la carta de Aguirre por el PP.</p>\n<p>31/08: <a href=\"http://www.elpais.com/static/misc/portada20110901.pdf\" target=\"_blank\">asamblea de profesores</a> en el auditorio Marcelino Camacho.</p>\n<ul>\n<li><a href=\"http://ventanasdelfalcon.blogspot.com/2011/09/resumen-de-la-asamblea-del-31-de-agosto.html\" target=\"_blank\">Resumen</a>.</li>\n</ul>\n<p><strong>SEPTIEMBRE</strong></p>\n<p>01/09: Aguirre: &#171;<a href=\"http://www.elpais.com/articulo/sociedad/Aguirre/docentes/mayoria/madrilenos/trabaja/horas/elpepusoc/20110901elpepusoc_2/Tes\" target=\"_blank\"><em>La mayor\u00eda de los madrile\u00f1os trabaja m\u00e1s de 20 horas</em></a>&#187;</p>\n<p>01/09: <a href=\"http://www.europapress.es/madrid/noticia-miembros-juntas-personal-docente-inician-encierro-direccion-area-territorial-madrid-capital-20110901134424.html\" target=\"_blank\">encierro en la DAT Capital</a> de varios miembros de las Juntas.</p>\n<p>01/09: <a href=\"http://educacionalerta.wordpress.com/2011/09/01/carta-a-los-medios-de-comunicacion-que-difunden-la-idea-de-que-las-movilizaciones-son-por-el-aumento-de-horas-lectivas/\" target=\"_blank\">carta a los medios de comunicaci\u00f3n</a> explicando las movilizaciones.</p>\n<p>02/09: el cuerpo de <a href=\"http://www.elpais.com/articulo/madrid/inspectores/cuestionan/eficacia/horas/lectivas/elpepuespmad/20110902elpmad_1/Tes\" target=\"_blank\">inspectores tambi\u00e9n cuestiona</a> la eficacia de los recortes.</p>\n<p>03/09: <a href=\"http://www.abc.es/agencias/noticia.asp?noticia=913913\" target=\"_blank\">concentraciones de apoyo</a> al <a href=\"http://www.abc.es/videos-espana/20110904/decenas-personas-apoyan-encierro-1143315003001.html\" target=\"_blank\">encierro en Vitrubio</a>.</p>\n<p>03/09: <a href=\"http://soypublica.wordpress.com/2011/09/03/nuevo-ejemplo-escandaloso-de-privatizacion/\" target=\"_blank\">nuevo intento de privatizaci\u00f3n de los edificios de un colegio p\u00fablico</a>.</p>\n<p>05/09: <a href=\"http://www.elmundo.es/elmundo/2011/09/05/madrid/1315220109.html\" target=\"_blank\">cacerolada de profesores</a> contra los recortes.</p>\n<p>06/09: <a href=\"http://www.fapa.es/index.php?m=Documentos&amp;op2=ver&amp;did=431&amp;tid=8&amp;pagActual=0\" target=\"_blank\">asamblea informativa </a>de la FAPA.</p>\n<p>07/09: Aguirre: &#171;<a href=\"http://www.20minutos.es/noticia/1151477/0/aguirre/carta-faltas/profesores/\" target=\"_blank\"><em>Sobre lo de las 20 horas</em></a>, <a href=\"http://www.elpais.com/articulo/espana/Aguirre/tiene/boca/equivoca/elpepuesp/20110907elpepunac_5/Tes\" target=\"_blank\"><em>el que tiene boca se equivoca</em></a>&#171;.</p>\n<p>07/09: comienzan los <a href=\"http://www.lavanguardia.com/local/madrid/20110907/54211616106/dos-profesoras-de-un-instituto-de-las-rozas-se-encierran-en-el-centro-como-protesta-a-los-recortes-e.html\" target=\"_blank\">encierros protesta</a> en los IES.</p>\n<p>07/09: <a href=\"http://www.20minutos.es/noticia/1152218/0/educacion/recortes/manifestacion/\" target=\"_blank\">concentraci\u00f3n en la Consejer\u00eda de Educaci\u00f3n</a>: 10.000 personas.</p>\n<ul>\n<li><a href=\"http://profesorgeohistoria.wordpress.com/2011/09/07/concentracion-alcala-32-asi-da-gusto/\" target=\"_blank\">Algunos videos y fotos</a>.</li>\n<li><a href=\"http://esodelaeso.blogspot.com/2011/09/alcala-32.html\" target=\"_blank\">Resumen y fotos</a>.</li>\n</ul>\n<p>08/09: Aguirre: &#171;<a href=\"http://www.lavanguardia.com/local/madrid/20110908/54212974950/aguirre-sobre-la-concentracion-ante-educacion-algunos-de-ellos-no-eran-profesores-habia-liberados-si.html\" target=\"_blank\">Algunos no eran profesores. Hab\u00eda liberados sindicales</a>&#171;.</p>\n<p>08/09: <a href=\"https://sites.google.com/site/asamblealasveredillas/noticias/resumendelaasambleadel8deseptiembreycalendariodemovilizaciones\" target=\"_blank\">asamblea de profesores</a> en el sal\u00f3n de actos de UGT.</p>\n<p>09/09: Figar: &#171;<a href=\"http://www.elpais.com/articulo/sociedad/Comunidad/cuestiona/legitimidad/protestas/profesores/elpepusoc/20110909elpepusoc_3/Tes\" target=\"_blank\"><em>Los de las asambleas son los agresores de los peregrinos</em></a>&#171;.</p>\n<p>10/09: <a href=\"http://estonoeseducacion.blogspot.com/2011/09/quienes-intervinieron-y-como-se-aprobo.html\" target=\"_blank\">estonoeseducacion nos explica</a> el trasvase de la P\u00fablica a la privada.</p>\n<p>10/09: <a href=\"http://www.publico.es/espana/395621/el-mundo-de-la-cultura-sale-en-defensa-de-los-profesores\" target=\"_blank\">artistas e intelectuales firman un manifiesto</a> en defensa de la P\u00fablica.</p>\n<p>11/09: <a href=\"http://soypublica.wordpress.com/2011/09/11/los-centros-estan-en-lucha/\" target=\"_blank\">recopilaci\u00f3n de SoyP\u00fablica de las movilizaciones en los IES</a>: Colmenarejo, Latina, Aranjuez, El Espinillo, Guadarrama, Zona Sur, Fuenlabrada, Vic\u00e1lvaro, Puerta Bonita, Legan\u00e9s, Mirasierra, Rivas, Getafe, M\u00f3stoles, Torrej\u00f3n, San Sebasti\u00e1n de los Reyes, Fuencarral, etc., etc.</p>\n<p>12/09: Aguirre: &#171;<a href=\"http://www.publico.es/espana/395915/aguirre-acusa-de-mentir-a-psoe-iu-sindicalistas-indignados-y-los-de-la-ceja\" target=\"_blank\">Los sindicatos ya han desconvocado la huelga</a>&#187; (\u00bf?).</p>\n<p>12/09: el video de\u00a0&#171;Comuni\u00f3n y liberaci\u00f3n&#187; <a href=\"http://www.elpais.com/articulo/madrid/video/Figar/enerva/docentes/elpepiespmad/20110912elpmad_1/Tes\" target=\"_blank\">es comentado en prensa nacional</a>.</p>\n<p>14/09: <a href=\"http://www.sermadridnorte.com/noticias/profesores-y-alumnos-del-instituto-de-soto-del-real-que-da-servicio-a-tres-municipios-se-encierran-en-protesta-por-las-medidas-de-aguirre_19303/\" target=\"_blank\">encierro en Soto del Real</a>.</p>\n<p>14/09: <a href=\"http://www.que.es/ultimas-noticias/espana/201109141134-centenar-profesores-protestan-primer-bachillerato-abc.html?anker_11\" target=\"_blank\">concentraci\u00f3n contra el Bachillerato de Excelencia</a>.</p>\n<p>14/09: <a href=\"http://www.20minutos.es/noticia/1158512/0/profesores/recortes/educacion/\" target=\"_blank\">MAREA VERDE</a>. 70.000 personas. <a href=\"http://www.europapress.es/sociedad/noticia-decenas-miles-personas-salen-calle-contra-recortes-educacion-20110914201626.html\" target=\"_blank\">E.P</a>., <a href=\"http://www.20minutos.es/noticia/1158512/0/profesores/recortes/educacion/\" target=\"_blank\">20m</a>, <a href=\"http://www.abc.es/agencias/noticia.asp?noticia=924395\" target=\"_blank\">ABC</a>, <a href=\"http://www.elmundo.es/elmundo/2011/09/14/madrid/1316018894.html\" target=\"_blank\">El Mundo</a>&#8230;</p>\n<ul>\n<li><a href=\"http://ventanasdelfalcon.blogspot.com/2011/09/video-cronica-de-la-manifestacion-del.html\" target=\"_blank\">Res\u00famenes</a>.</li>\n<li><a href=\"http://profesorgeohistoria.wordpress.com/2011/09/14/manifestacion-14ix2011-por-educacion-publica/\" target=\"_blank\">M\u00e1s res\u00famenes con fotos</a>.</li>\n</ul>\n<p>15/09: <a href=\"http://www.youtube.com/watch?v=6oofBUJA1HY\" target=\"_blank\">protesta de interinos en el INEM</a>.</p>\n<p>15/09: <a href=\"http://www.20minutos.es/noticia/1159499/0/encierro/instituto-parla/recortes-educacion/\" target=\"_blank\">encierro en Parla</a>.</p>\n<p>15/09: <a href=\"http://profesorgeohistoria.wordpress.com/2011/09/15/35-profesores-de-los-tres-ies-publicos-de-colmenar-viejo-encerrados-en-el-ies-rosa-chacel/\" target=\"_blank\">encierro en Colmenar Viejo</a>.</p>\n<p>17/09: <a href=\"http://www.elpais.com/articulo/sociedad/FAPA/Giner/Rios/denuncia/coacciones/Educacion/centros/elpepuespmad/20110919elpepusoc_11/Tes\" target=\"_blank\">coacciones de las DAT</a> hacia la retirada de carteles y pancartas.</p>\n<p>17/09: <a href=\"http://www.afectadosnudosur.com/nudosur/index.php?option=com_content&amp;view=article&amp;id=677:exito-de-la-marcha-por-la-educacion-publica-en-madrid-rio&amp;catid=43:noticias-educacion&amp;Itemid=265#.TnUP-JMjljp.twitter\" target=\"_blank\">marcha por Madrid R\u00edo</a>.</p>\n<p>17/09: <a href=\"http://www.rtve.es/alacarta/videos/informe-semanal/informe-semanal-invertir-educacion-invertir-futuro/1200152/\" target=\"_blank\">Marea Verde en Informe Semanal</a>.</p>\n<p>19/09: Aguirre: &#171;<a href=\"http://politica.elpais.com/politica/2011/09/19/actualidad/1316440539_416564.html\" target=\"_blank\">La educaci\u00f3n no tiene por qu\u00e9 ser gratis en todas las etapas</a>&#171;.</p>\n<p>19/09: <a href=\"https://docs.google.com/viewer?a=v&amp;pid=explorer&amp;chrome=true&amp;srcid=10fGIb-tiohFB7bnsWY7iDI3NozCtrbmY1t5y3cCgHDDdsIy0PgOuCVv0NlwD&amp;hl=en_US\" target=\"_blank\">informe de la FAPA</a> sobre los recortes educativos.</p>\n<p>19/09: <a href=\"http://www.elmundo.es/elmundo/2011/09/19/madrid/1316459080.html\" target=\"_blank\">un centenar de personas se encierra</a> en el IES Juan de la Cierva.</p>\n<p>20/09: <a href=\"http://ventanasdelfalcon.blogspot.com/2011/09/el-84-de-los-profesores-hacen-huelga-y.html\" target=\"_blank\">HUELGA 84%</a>.</p>\n<p>20/09: <a href=\"http://www.20minutos.es/noticia/1164187/0/manifestacion/huelga/profesores/\" target=\"_blank\">MAREA VERDE</a>. 90.000 personas.</p>\n<ul>\n<li><a href=\"http://profesorgeohistoria.wordpress.com/2011/09/20/fotos-manifestacion-marea-verde-20ix2011/\" target=\"_blank\">Fotos</a>.</li>\n<li><a href=\"http://soypublica.wordpress.com/2011/09/21/la-manifestacion-en-los-medios/\" target=\"_blank\">Recopilaci\u00f3n de SoyP\u00fablica (repercusi\u00f3n en los medios)</a>.</li>\n</ul>\n<p>21/09: <a href=\"http://ventanasdelfalcon.blogspot.com/2011/09/2-dia-de-huelga-secundado-por-el-80-de.html\" target=\"_blank\">HUELGA 80%</a>.</p>\n<p>21/09: <a href=\"http://noticias.terra.es/2011/espana/0921/actualidad/cadena-humana-contra-los-recortes-en-la-educacion-publica-madrilena.aspx\" target=\"_blank\">Cadena Verde</a> rodeando la Consejer\u00eda.</p>\n<p>22/09: <a href=\"http://ventanasdelfalcon.blogspot.com/2011/09/3er-dia-de-huelga-secundada-por-el-50.html\" target=\"_blank\">HUELGA 53%</a>, aunque Aguirre anunci\u00f3 que era ilegal.</p>\n<p>22/09: <a href=\"http://soypublica.wordpress.com/2011/09/22/22-de-septiembre-manifestaciones-en-defensa-dela-educacion-publica/\" target=\"_blank\">varias manifestaciones</a> en defensa de la P\u00fablica.</p>\n<p>26/09: <a href=\"http://www.youtube.com/watch?v=2PGSpsqYKnw&amp;feature=player_embedded#%21\" target=\"_blank\">videos de apoyo</a> por reconocidos artistas de la P\u00fablica.</p>\n<p>28/09: <a href=\"http://www.elpais.com/articulo/sociedad/200/directores/instituto/niegan/firmar/horarios/elpepuesp/20110929elpepusoc_8/Tes\" target=\"_blank\">200 directores de los 340 IES se niegan a firmar los horarios</a>.</p>\n<p>28/09: <a href=\"http://www.20minutos.es/noticia/1172430/0/directores/colegio/reivindicaciones/\" target=\"_blank\">MAREA VERDE</a>.\u00a0Concentraci\u00f3n de 3.000 personas.</p>\n<ul>\n<li><a href=\"http://profesorgeohistoria.wordpress.com/2011/09/28/concentracion-ante-consejeria-de-educacion-en-madrid-28ix2011/\" target=\"_blank\">Fotos</a>.</li>\n<li><a href=\"http://www.elpais.com/articulo/sociedad/2000/profesores/manifiestan/recortes/Consejeria/elpepusoc/20110928elpepusoc_1/Tes\" target=\"_blank\">M\u00e1s noticias</a>.</li>\n</ul>\n<p>29/09: <a href=\"http://www.elmundo.es/elmundo/2011/09/29/madrid/1317313158.html\" target=\"_blank\">Art\u00edstica hace un r\u00e9quiem</a> de la P\u00fablica en la Plaza Mayor.</p>\n<p>29/09: <a href=\"http://www.lavanguardia.com/local/madrid/20110929/54224157103/policia-desaloja-a-varios-profesores-de-un-colegio-publico-donde-preveian-encerrarse.html\" target=\"_blank\">desalojo policial de un encierro en Legan\u00e9s</a>.</p>\n<p>29/09: <a href=\"http://madrid.tomalaplaza.net/2011/09/30/cronica-de-una-nocheverde-en-un-instituto-de-madrid/\" target=\"_blank\">encierros en Alcorc\u00f3n</a>.</p>\n<p>30/09: <a href=\"http://www.publico.es/espana/399266/los-directores-de-los-institutos-exigen-el-despido-de-figar\" target=\"_blank\">la Consejer\u00eda pide nombres y apellidos de los docentes que se movilizan</a>.</p>\n<p><strong>Septiembre/octubre:\u00a0</strong></p>\n<ul>\n<li><a href=\"https://docs.google.com/spreadsheet/ccc?key=0ArvZgyxG0LXQdDNJSkVJNDRkYy1pVzZOa2tNWnlGMHc&amp;hl=es#gid=0\" target=\"_blank\"><strong>lista de encierros en toda la Comunidad</strong></a>.</li>\n<li><a href=\"https://docs.google.com/spreadsheet/ccc?key=0Ar65h_1EY9ctdDZ3WlhXMDhESi00VlpvbEdMOGFXOHc&amp;hl=en_US#gid=0\" target=\"_blank\"><strong>lista de los docentes con &#171;afines desafinadas&#187;</strong></a>.</li>\n</ul>\n<p><strong>OCTUBRE</strong></p>\n<p>02/10: <a href=\"http://www.youtube.com/watch?v=o-iozy18v18\" target=\"_blank\">flashmob de la Marea Verde</a> <a href=\"http://www.elpais.com/articulo/madrid/Requiem/educacion/publica/elpepuespmad/20111003elpmad_3/Tes\" target=\"_blank\">colapsando Preciados</a>.</p>\n<p>04/10: <a href=\"http://gdc.feteugt.es/cuteeditornet/imagenes/MADRID/Curso%202011-2012/salaPRENSA/NOTASdePRENSA/111004.HUELGAvalora4oct.cprensa.pdf\" target=\"_blank\">HUELGA 71%</a>.</p>\n<p>04/10: <a href=\"http://www.elpais.com/articulo/sociedad/68000/personas/vuelven/tomar/centro/Madrid/recortes/elpepusoc/20111004elpepusoc_14/Tes\" target=\"_blank\">MAREA VERDE</a>. 68.000 personas.</p>\n<ul>\n<li><a href=\"http://www.20minutos.es/noticia/1178283/0/manifestacion-madrid/educacion-publica/huelga/\" target=\"_blank\">Noticias</a>.</li>\n<li><a href=\"http://profesorgeohistoria.wordpress.com/2011/10/05/una-imagen-vale-mas-que-mil-palabras/\" target=\"_blank\">Fotos</a>.</li>\n</ul>\n<p>05/10: <a href=\"http://ventanasdelfalcon.blogspot.com/2011/10/manana-huelga-de-estudiantes-despues-de.html\" target=\"_blank\">HUELGA 70%</a>.</p>\n<p>05/10: <a href=\"http://prezi.com/7_3_jzqsxxjz/los-recortes-en-educacion-secundaria/\" target=\"_blank\">perfecta presentaci\u00f3n</a> para comprender los recortes.</p>\n<p>05/10: <a href=\"http://marathon-verde.blogspot.com/\" target=\"_blank\">Marathon Verde</a> de Guadarrama a la Consejer\u00eda de Educaci\u00f3n.</p>\n<p>05/10: las <a href=\"http://consolidacionmadrid.blogspot.com/2011/10/ley-del-silencio-en-la-dat-capital-suma.html\" target=\"_blank\">represalias de la Consejer\u00eda</a> a los docentes.</p>\n<p>06/10: <a href=\"http://ventanasdelfalcon.blogspot.com/2011/10/el-85-de-los-estudiantes-madrilenos.html\" target=\"_blank\">HUELGA DE ESTUDIANTES 85%</a>.</p>\n<ul>\n<li>Manifestaci\u00f3n: <a href=\"http://www.elmundo.es/elmundo/2011/10/06/madrid/1317890878.html\" target=\"_blank\">40.000 personas</a>.</li>\n<li><a href=\"http://www.sindicatodeestudiantes.net/index.php?option=com_content&amp;view=article&amp;id=952:cronica-fotografica-de-la-gran-manifestacion-de-estudiantes-del-6-de-octubre-en-madrid&amp;catid=57&amp;Itemid=90\" target=\"_blank\">Fotos</a>\u00a0y m\u00e1s <a href=\"http://profesorgeohistoria.wordpress.com/2011/10/06/videos-y-fotos-40-000-estudiantes-por-la-educacion-publica/\" target=\"_blank\">fotos</a>.</li>\n</ul>\n<p>06/10: Aguirre: &#171;<a href=\"http://www.abc.es/agencias/noticia.asp?noticia=951751\" target=\"_blank\"><em>Lo de las camisetas verdes es un negociazo para IU</em></a>&#171;.</p>\n<p>07/10: <a href=\"http://www.europapress.es/madrid/noticia-pp-madrid-pedira-inhabilitacion-pedir-subvencion-asociaciones-venden-camiseta-marea-verde-20111007122005.html\" target=\"_blank\">PP pide retirar subvenciones a asociaciones que venden las camisetas</a>.</p>\n<p>07/10: <a href=\"http://consolidacionmadrid.blogspot.com/2011/10/director-de-instituto-sancionado-en.html\" target=\"_blank\">expedientan a un director de IES</a> <a href=\"http://mmbporlaeducacionpublica.blogspot.com/2011/10/nota-del-companero-javier-lizasoain.html\" target=\"_blank\">por apoyar las movilizaciones</a>.</p>\n<p>08/10: <a href=\"http://www.madridiario.es/2011/Septiembre/educacion/edu_educacion/208080/fapa-manifestacion-8-octubre.htmlml\" target=\"_blank\">MAREA VERDE</a> (fiesta Retiro) por la FAPA: 15.000 personas.</p>\n<ul>\n<li><a href=\"http://www.publico.es/agencias/efe/400598/miles-de-padres-y-alumnos-se-manifiestan-por-la-escuela-publica-en-madrid\" target=\"_blank\">Noticias</a>.</li>\n<li><a href=\"http://profesorgeohistoria.wordpress.com/2011/10/08/fotos-y-videos-manifestacion-fapa-giner-de-los-rios/\" target=\"_blank\">Fotos</a>.</li>\n</ul>\n<p>13/10: <a href=\"http://www.youtube.com/watch?feature=player_embedded&amp;v=-vE9mS9KrWI\" target=\"_blank\">MAREA VERDE</a>, concentraci\u00f3n en la Consejer\u00eda.</p>\n<p>14/10: <a href=\"http://www.youtube.com/watch?v=CWqCVDT_LR0&amp;feature=player_embedded\" target=\"_blank\">cadena humana</a> en Loranca.</p>\n<p>15/10: <a href=\"http://profesorgeohistoria.wordpress.com/2011/10/16/la-marea-verde-en-el-15o-por-la-defensa-de-la-escuela-publica/\" target=\"_blank\">MAREA VERDE</a> en las manifestaciones del 15-O.</p>\n<p>16/10: <a href=\"http://ceronegativo.net/2011/10/17/sanse-y-alcobendas-dicen-si-a-la-escuela-publica/\" target=\"_blank\">manifestaci\u00f3n San Sebasti\u00e1n-Alcobendas</a>: 5.000 personas.</p>\n<p>17/10: <a href=\"http://www.elpais.com/articulo/madrid/Indignados/colegio/protestan/Sol/elpepiespmad/20111017elpmad_1/Tes\" target=\"_blank\">construcci\u00f3n simb\u00f3lica de un CEIP en Sol</a>.</p>\n<p>17/10: <a href=\"http://www.20minutos.es/noticia/1190661/0/fapa/denuncia-calumnias/figar/\" target=\"_blank\">la FAPA denuncia a Figar por calumnias</a>.</p>\n<p>19/10: <a href=\"http://www.elpais.com/articulo/sociedad/estudiantes/Secundaria/vuelven/huelga/elpepuespmad/20111019elpepusoc_2/Tes\" target=\"_blank\">HUELGA DE ESTUDIANTES 80%</a>.\u00a0<a href=\"http://ventanasdelfalcon.blogspot.com/2011/10/exito-de-la-sexta-jornada-de-huelga-en.html\" target=\"_blank\">HUELGA. SECUNDARIA\u00a0PRIMARIA\u00a0</a></p>\n<ul>\n<li><a href=\"http://soypublica.wordpress.com/2011/10/20/huelga-y-concentracion-de-estudiantes-dia-19-de-octubre/\" target=\"_blank\">Noticia y fotos</a>.</li>\n</ul>\n<p>19/10: Encierro d<a href=\"http://www.europapress.es/sociedad/educacion/noticia-encicerro-cgt-educacion-pedir-negociacion-figar-20111019123629.html\" target=\"_blank\">e la CGT</a> en la Direcci\u00f3n General de Recursos Humanos.</p>\n<p>20/10: <a href=\"http://ventanasdelfalcon.blogspot.com/2011/10/exito-de-la-sexta-jornada-de-huelga-en.html\" target=\"_blank\">HUELGA. SECUNDARIA 68 %. PRIMARIA 50%</a>.\u00a0<a href=\"http://www.elpais.com/articulo/sociedad/estudiantes/Secundaria/vuelven/huelga/elpepuespmad/20111019elpepusoc_2/Tes\" target=\"_blank\">HUELGA DE ESTUDIANTES 80%</a>.</p>\n<p>20/10: <a href=\"http://www.elpais.com/articulo/sociedad/Miles/personas/piden/dimision/Esperanza/Aguirre/frente/Consejeria/Educacion/elpepusoc/20111020elpepusoc_14/Tes\" target=\"_blank\">MAREA VERDE</a>.</p>\n<ul>\n<li><a href=\"http://profesorgeohistoria.wordpress.com/2011/10/20/fotos-concentracion-20102011/\" target=\"_blank\">Fotos</a>\u00a0y m\u00e1s <a href=\"http://profesorgeohistoria.wordpress.com/2011/10/20/fotos-concentracion-20102011-2%c2%aa-parte/\" target=\"_blank\">fotos</a>.</li>\n</ul>\n<p>20/10: <a href=\"http://tranquilacion.wordpress.com/2011/10/20/desde-penalara/\" target=\"_blank\">concentraci\u00f3n en Pe\u00f1alara</a>.</p>\n<p><strong>22/10: MARE\u00d3N VERDE. 100.000 personas.</strong></p>\n<ul>\n<li><a href=\"http://profesorgeohistoria.wordpress.com/2011/10/22/fotos-manifestacion-22o/\" target=\"_blank\"><strong>Fotos</strong></a><strong>, </strong><a href=\"http://profesorgeohistoria.wordpress.com/2011/10/23/fotos-manifestacion-educacion-22o-2%c2%aa-parte/\" target=\"_blank\"><strong>fotos</strong></a><strong> y m\u00e1s </strong><a href=\"http://esodelaeso.blogspot.com/2011/10/marcha-verde-22o.html\" target=\"_blank\"><strong>fotos</strong></a><strong>.</strong></li>\n<li><a href=\"http://www.20minutos.es/noticia/1196603/0/manifestacion-estatal/recortes-educacion-publica/madrid/\" target=\"_blank\"><strong>20minutos</strong></a><strong>, </strong><a href=\"http://www.elpais.com/articulo/sociedad/Miles/personas/toda/Espana/claman/educacion/publica/elpepusoc/20111022elpepusoc_1/Tes\" target=\"_blank\"><strong>El Pa\u00eds</strong></a><strong>, </strong><a href=\"http://www.elmundo.es/elmundo/2011/10/20/espana/1319105448.html\" target=\"_blank\"><strong>El Mundo</strong></a><strong>, </strong><a href=\"http://www.abc.es/agencias/noticia.asp?noticia=971572\" target=\"_blank\"><strong>ABC</strong></a><strong>&#8230;</strong></li>\n</ul>\n<p>&nbsp;</p>\n<p>4 meses de movilizaciones, asambleas y reuniones, huelgas, manifestaciones multitudinarias, concentraciones, encierros en los IES y en las administraciones, campa\u00f1as de informaci\u00f3n y concienciaci\u00f3n, videos, debates, charlas, declaraciones, esfuerzo&#8230;</p>\n<p><strong>ESTAMOS HACIENDO HISTORIA:</strong></p>\n<p><strong>\u00a1AHORA TENEMOS M\u00c1S FUERZA QUE NUNCA!</strong></p>\n<p><strong>EN DEFENSA DE LA ESCUELA P\u00daBLICA:</strong></p>\n<p><strong>\u00a1\u00a1NO NOS PARAR\u00c1N</strong></p>\n<p>Un breve\u00a0 seguimiento de la huelga de ense\u00f1anza del dia 20 de octubre en el barrio:</p>\n<p>Colegio P\u00fablico Bolivia<br />\nEl 70 % de los profes hicieron huelga.<br />\nS\u00f3lo acudieron al centro el 25% de los alumnos.</p>\n",
+    "rendered": "<p><strong>4 meses de Marea Verde</strong></p>\n<p>Este es un breve resumen de todas las acciones desarrolladas por la \u00abMarea Verde\u00bb desde que la Consejer\u00eda de Educaci\u00f3n de la Comunidad de Madrid public\u00f3 las Instrucciones de inicio de curso 2011/12.</p>\n<p><a href=\"http://www.madrid.org/dat_oeste/descargas/11_12/instrucciones/Instrucciones_comienzo_curso_11_12.pdf\" target=\"_blank\"><strong>JULIO</strong></a></p>\n<p>05/07: <a href=\"http://www.madrid.org/dat_oeste/descargas/11_12/instrucciones/Instrucciones_comienzo_curso_11_12.pdf\" target=\"_blank\">instrucciones de inicio de curso</a>.</p>\n<p>08/07: Figar: <a href=\"http://www.elmundo.es/elmundo/2011/07/08/madrid/1310126753.html\" target=\"_blank\">\u00ab<em>No va a haber ning\u00fan despido</em>\u00ab</a>.</p>\n<p>08/07: <a href=\"http://www.adimad.org/wp-content/uploads/2011/07/comunicado_asamblea_adimad_julio_2011.pdf\" target=\"_blank\">comunicado de ADIMAD</a> pidiendo revisi\u00f3n de las instrucciones.</p>\n<p>13/07: <a href=\"http://www.elpais.com/articulo/madrid/Excelencia/educativa/profesores/paro/elpepiespmad/20110713elpmad_10/Tes\" target=\"_blank\">manifestaci\u00f3n</a> ante el Ministerio de Educaci\u00f3n.</p>\n<p>13/07: los sindicatos <a href=\"http://www.20minutos.es/noticia/1109099/0/sindicatos/recorte/profesores\" target=\"_blank\">comienzan las acciones legales</a> contra los recortes.</p>\n<p>14/07: la <a href=\"http://www.kaosenlared.net/noticia/comunicado-ceim-contra-instrucciones-consejeria-educacion-comunidad-ma\" target=\"_blank\">FAPA exige la anulaci\u00f3n</a> de las instrucciones.</p>\n<p>18/07: la <a href=\"http://www.ceapa.es/web/guest/sala-de-prensa/-/asset_publisher/h3xY/content/ceapa-pide-al-ministerio-de-educacion-que-actue-contra-la-comunidad-de-madrid-por-suprimir-las-tutorias-en-secundaria?redirect=/web/guest/sala-de-prensa\" target=\"_blank\">CEAPA pide al Ministerio</a> que act\u00fae.</p>\n<p>19/07: <a href=\"http://iestrueba.wordpress.com/2011/07/17/actividades-para-el-acto-del-martes-19/#comment-16\" target=\"_blank\">primeras movilizaciones</a> en los centros en contra de los recortes.</p>\n<p>20/07: <a href=\"http://www.elmundo.es/elmundo/2011/07/20/madrid/1311182778.html\" target=\"_blank\">asamblea de profesores</a> en el IES Beatriz Galindo.</p>\n<ul>\n<li><a href=\"http://maestrainterina.blogspot.com/search?updated-max=2011-07-21T13:17:00%2B02:00&amp;max-results=10\" target=\"_blank\">Opiniones</a></li>\n<li><a href=\"http://soypublica.wordpress.com/2011/07/20/asamblea-del-beatriz-galindo-impresiones-bob-harris-foro-de-la-sur/\" target=\"_blank\">Res\u00famenes</a>.</li>\n</ul>\n<p>26/07: <a href=\"http://www.publico.es/espana/388895/los-profesores-se-plantan-ante-aguirre\" target=\"_blank\">asamblea de profesores</a> en el IES San Isidro.</p>\n<ul>\n<li><a href=\"http://esodelaeso.blogspot.com/2011/07/un-profesor-cualquiera.html\" target=\"_blank\">Opini\u00f3n</a>.</li>\n</ul>\n<p>26/07: <a href=\"http://www.adimad.org/wp-content/uploads/2011/07/comunicado_26072011.pdf\" target=\"_blank\">comunicado de ADIMAD</a> pidiendo la dimisi\u00f3n de Luc\u00eda Figar.</p>\n<p>27/07: <a href=\"http://www.sindicatodeestudiantes.net/index.php?option=com_content&amp;view=article&amp;id=873:madrid-nueva-asamblea-de-profesores-contra-los-recortes-educativos&amp;catid=57&amp;Itemid=90\" target=\"_blank\">comunicado del Sindicato de Estudiantes</a>.</p>\n<p><strong>AGOSTO</strong></p>\n<p>02/08: <a href=\"http://www.kaosenlared.net/noticia/comunicado-ceim-contra-instrucciones-consejeria-educacion-comunidad-ma\" target=\"_blank\">la FAPA exige la derogaci\u00f3n</a> de la Orden de 29 de julio sobre tutor\u00edas.</p>\n<p>05/08: Delibes: \u00ab<a href=\"http://www.lavanguardia.com/20110805/54196244659/la-viceconsejera-de-educacion-cree-que-trabajar-20-horas-semanales-no-es-para-organizar-ninguna-movi.html\" target=\"_blank\"><em>Trabajar 20 horas no es para organizar ninguna movilizaci\u00f3n</em></a>\u00ab.</p>\n<p>05/08: modelo de <a href=\"http://profesorgeohistoria.wordpress.com/2011/08/05/modelo-de-reclamacion-para-padres-preocupados-por-la-educacion-publica/\" target=\"_blank\">reclamaci\u00f3n para padres preocupados</a> por la P\u00fablica.</p>\n<p>09/08: la asamblea de Educaci\u00f3n de Fuenlabrada <a href=\"http://profesorgeohistoria.wordpress.com/2011/08/10/99-%c2%bfen-busca-de-la-excelencia-educativa-agresion-a-la-educacion-publica-en-madrid-los-datos-de-fuenlabrada/\" target=\"_blank\">hace p\u00fablicos los recortes</a>.</p>\n<p>11/08: <a href=\"http://www.kaosenlared.net/noticia/comunicado-ceim-contra-instrucciones-consejeria-educacion-comunidad-ma\" target=\"_blank\">comunicado de la CEIM</a> contra las instrucciones.</p>\n<p>13/08: elaboraci\u00f3n de una <a href=\"http://madrid.tomalosbarrios.net/2011/08/13/carta-de-los-profesores-de-la-ensenanza-publica-de-la-comunidad-de-madrid/\" target=\"_blank\">carta de los profesores a las familias</a> para difusi\u00f3n.</p>\n<p>23/08: petici\u00f3n de dimisi\u00f3n de Luc\u00eda Figar en \u00ab<a href=\"http://actuable.es/peticiones/pide-dimision-lucia-figar-lacalle\" target=\"_blank\">Actuable</a>\u00ab.</p>\n<p>29/08: Figar: \u00ab<a href=\"http://www.elmundo.es/elmundo/2011/08/29/madrid/1314617261.html\" target=\"_blank\"><em>Subiremos el sueldo a los tutores (&#8230;) deben ser solidarios</em></a>\u00ab.</p>\n<p>30/08: Granados: \u00ab<a href=\"http://www.abc.es/agencias/noticia.asp?noticia=910071\" target=\"_blank\"><em>La huelga tendr\u00e1 escas\u00edsimo apoyo</em></a>\u00ab.</p>\n<p>30/08: la <a href=\"http://www.elpais.com/elpaismedia/ultimahora/media/201108/30/sociedad/20110830elpepusoc_1_Pes_PDF.pdf\" target=\"_blank\">carta de Aguirre</a>\u00a0en la n\u00f3mina, comentada en \u00ab<a href=\"http://esodelaeso.blogspot.com/2011/08/por-si-los-salvajes-recortes-de-este.html\" target=\"_blank\">Eso de la ESO</a>\u00ab.</p>\n<p>31/08: <a href=\"http://www.youtube.com/watch?v=91lsoQYDoOQ&amp;feature=player_embedded\" target=\"_blank\">pruebas de la manipulaci\u00f3n</a> de la carta de Aguirre por el PP.</p>\n<p>31/08: <a href=\"http://www.elpais.com/static/misc/portada20110901.pdf\" target=\"_blank\">asamblea de profesores</a> en el auditorio Marcelino Camacho.</p>\n<ul>\n<li><a href=\"http://ventanasdelfalcon.blogspot.com/2011/09/resumen-de-la-asamblea-del-31-de-agosto.html\" target=\"_blank\">Resumen</a>.</li>\n</ul>\n<p><strong>SEPTIEMBRE</strong></p>\n<p>01/09: Aguirre: \u00ab<a href=\"http://www.elpais.com/articulo/sociedad/Aguirre/docentes/mayoria/madrilenos/trabaja/horas/elpepusoc/20110901elpepusoc_2/Tes\" target=\"_blank\"><em>La mayor\u00eda de los madrile\u00f1os trabaja m\u00e1s de 20 horas</em></a>\u00bb</p>\n<p>01/09: <a href=\"http://www.europapress.es/madrid/noticia-miembros-juntas-personal-docente-inician-encierro-direccion-area-territorial-madrid-capital-20110901134424.html\" target=\"_blank\">encierro en la DAT Capital</a> de varios miembros de las Juntas.</p>\n<p>01/09: <a href=\"http://educacionalerta.wordpress.com/2011/09/01/carta-a-los-medios-de-comunicacion-que-difunden-la-idea-de-que-las-movilizaciones-son-por-el-aumento-de-horas-lectivas/\" target=\"_blank\">carta a los medios de comunicaci\u00f3n</a> explicando las movilizaciones.</p>\n<p>02/09: el cuerpo de <a href=\"http://www.elpais.com/articulo/madrid/inspectores/cuestionan/eficacia/horas/lectivas/elpepuespmad/20110902elpmad_1/Tes\" target=\"_blank\">inspectores tambi\u00e9n cuestiona</a> la eficacia de los recortes.</p>\n<p>03/09: <a href=\"http://www.abc.es/agencias/noticia.asp?noticia=913913\" target=\"_blank\">concentraciones de apoyo</a> al <a href=\"http://www.abc.es/videos-espana/20110904/decenas-personas-apoyan-encierro-1143315003001.html\" target=\"_blank\">encierro en Vitrubio</a>.</p>\n<p>03/09: <a href=\"http://soypublica.wordpress.com/2011/09/03/nuevo-ejemplo-escandaloso-de-privatizacion/\" target=\"_blank\">nuevo intento de privatizaci\u00f3n de los edificios de un colegio p\u00fablico</a>.</p>\n<p>05/09: <a href=\"http://www.elmundo.es/elmundo/2011/09/05/madrid/1315220109.html\" target=\"_blank\">cacerolada de profesores</a> contra los recortes.</p>\n<p>06/09: <a href=\"http://www.fapa.es/index.php?m=Documentos&amp;op2=ver&amp;did=431&amp;tid=8&amp;pagActual=0\" target=\"_blank\">asamblea informativa </a>de la FAPA.</p>\n<p>07/09: Aguirre: \u00ab<a href=\"http://www.20minutos.es/noticia/1151477/0/aguirre/carta-faltas/profesores/\" target=\"_blank\"><em>Sobre lo de las 20 horas</em></a>, <a href=\"http://www.elpais.com/articulo/espana/Aguirre/tiene/boca/equivoca/elpepuesp/20110907elpepunac_5/Tes\" target=\"_blank\"><em>el que tiene boca se equivoca</em></a>\u00ab.</p>\n<p>07/09: comienzan los <a href=\"http://www.lavanguardia.com/local/madrid/20110907/54211616106/dos-profesoras-de-un-instituto-de-las-rozas-se-encierran-en-el-centro-como-protesta-a-los-recortes-e.html\" target=\"_blank\">encierros protesta</a> en los IES.</p>\n<p>07/09: <a href=\"http://www.20minutos.es/noticia/1152218/0/educacion/recortes/manifestacion/\" target=\"_blank\">concentraci\u00f3n en la Consejer\u00eda de Educaci\u00f3n</a>: 10.000 personas.</p>\n<ul>\n<li><a href=\"http://profesorgeohistoria.wordpress.com/2011/09/07/concentracion-alcala-32-asi-da-gusto/\" target=\"_blank\">Algunos videos y fotos</a>.</li>\n<li><a href=\"http://esodelaeso.blogspot.com/2011/09/alcala-32.html\" target=\"_blank\">Resumen y fotos</a>.</li>\n</ul>\n<p>08/09: Aguirre: \u00ab<a href=\"http://www.lavanguardia.com/local/madrid/20110908/54212974950/aguirre-sobre-la-concentracion-ante-educacion-algunos-de-ellos-no-eran-profesores-habia-liberados-si.html\" target=\"_blank\">Algunos no eran profesores. Hab\u00eda liberados sindicales</a>\u00ab.</p>\n<p>08/09: <a href=\"https://sites.google.com/site/asamblealasveredillas/noticias/resumendelaasambleadel8deseptiembreycalendariodemovilizaciones\" target=\"_blank\">asamblea de profesores</a> en el sal\u00f3n de actos de UGT.</p>\n<p>09/09: Figar: \u00ab<a href=\"http://www.elpais.com/articulo/sociedad/Comunidad/cuestiona/legitimidad/protestas/profesores/elpepusoc/20110909elpepusoc_3/Tes\" target=\"_blank\"><em>Los de las asambleas son los agresores de los peregrinos</em></a>\u00ab.</p>\n<p>10/09: <a href=\"http://estonoeseducacion.blogspot.com/2011/09/quienes-intervinieron-y-como-se-aprobo.html\" target=\"_blank\">estonoeseducacion nos explica</a> el trasvase de la P\u00fablica a la privada.</p>\n<p>10/09: <a href=\"http://www.publico.es/espana/395621/el-mundo-de-la-cultura-sale-en-defensa-de-los-profesores\" target=\"_blank\">artistas e intelectuales firman un manifiesto</a> en defensa de la P\u00fablica.</p>\n<p>11/09: <a href=\"http://soypublica.wordpress.com/2011/09/11/los-centros-estan-en-lucha/\" target=\"_blank\">recopilaci\u00f3n de SoyP\u00fablica de las movilizaciones en los IES</a>: Colmenarejo, Latina, Aranjuez, El Espinillo, Guadarrama, Zona Sur, Fuenlabrada, Vic\u00e1lvaro, Puerta Bonita, Legan\u00e9s, Mirasierra, Rivas, Getafe, M\u00f3stoles, Torrej\u00f3n, San Sebasti\u00e1n de los Reyes, Fuencarral, etc., etc.</p>\n<p>12/09: Aguirre: \u00ab<a href=\"http://www.publico.es/espana/395915/aguirre-acusa-de-mentir-a-psoe-iu-sindicalistas-indignados-y-los-de-la-ceja\" target=\"_blank\">Los sindicatos ya han desconvocado la huelga</a>\u00bb (\u00bf?).</p>\n<p>12/09: el video de\u00a0\u00abComuni\u00f3n y liberaci\u00f3n\u00bb <a href=\"http://www.elpais.com/articulo/madrid/video/Figar/enerva/docentes/elpepiespmad/20110912elpmad_1/Tes\" target=\"_blank\">es comentado en prensa nacional</a>.</p>\n<p>14/09: <a href=\"http://www.sermadridnorte.com/noticias/profesores-y-alumnos-del-instituto-de-soto-del-real-que-da-servicio-a-tres-municipios-se-encierran-en-protesta-por-las-medidas-de-aguirre_19303/\" target=\"_blank\">encierro en Soto del Real</a>.</p>\n<p>14/09: <a href=\"http://www.que.es/ultimas-noticias/espana/201109141134-centenar-profesores-protestan-primer-bachillerato-abc.html?anker_11\" target=\"_blank\">concentraci\u00f3n contra el Bachillerato de Excelencia</a>.</p>\n<p>14/09: <a href=\"http://www.20minutos.es/noticia/1158512/0/profesores/recortes/educacion/\" target=\"_blank\">MAREA VERDE</a>. 70.000 personas. <a href=\"http://www.europapress.es/sociedad/noticia-decenas-miles-personas-salen-calle-contra-recortes-educacion-20110914201626.html\" target=\"_blank\">E.P</a>., <a href=\"http://www.20minutos.es/noticia/1158512/0/profesores/recortes/educacion/\" target=\"_blank\">20m</a>, <a href=\"http://www.abc.es/agencias/noticia.asp?noticia=924395\" target=\"_blank\">ABC</a>, <a href=\"http://www.elmundo.es/elmundo/2011/09/14/madrid/1316018894.html\" target=\"_blank\">El Mundo</a>&#8230;</p>\n<ul>\n<li><a href=\"http://ventanasdelfalcon.blogspot.com/2011/09/video-cronica-de-la-manifestacion-del.html\" target=\"_blank\">Res\u00famenes</a>.</li>\n<li><a href=\"http://profesorgeohistoria.wordpress.com/2011/09/14/manifestacion-14ix2011-por-educacion-publica/\" target=\"_blank\">M\u00e1s res\u00famenes con fotos</a>.</li>\n</ul>\n<p>15/09: <a href=\"http://www.youtube.com/watch?v=6oofBUJA1HY\" target=\"_blank\">protesta de interinos en el INEM</a>.</p>\n<p>15/09: <a href=\"http://www.20minutos.es/noticia/1159499/0/encierro/instituto-parla/recortes-educacion/\" target=\"_blank\">encierro en Parla</a>.</p>\n<p>15/09: <a href=\"http://profesorgeohistoria.wordpress.com/2011/09/15/35-profesores-de-los-tres-ies-publicos-de-colmenar-viejo-encerrados-en-el-ies-rosa-chacel/\" target=\"_blank\">encierro en Colmenar Viejo</a>.</p>\n<p>17/09: <a href=\"http://www.elpais.com/articulo/sociedad/FAPA/Giner/Rios/denuncia/coacciones/Educacion/centros/elpepuespmad/20110919elpepusoc_11/Tes\" target=\"_blank\">coacciones de las DAT</a> hacia la retirada de carteles y pancartas.</p>\n<p>17/09: <a href=\"http://www.afectadosnudosur.com/nudosur/index.php?option=com_content&amp;view=article&amp;id=677:exito-de-la-marcha-por-la-educacion-publica-en-madrid-rio&amp;catid=43:noticias-educacion&amp;Itemid=265#.TnUP-JMjljp.twitter\" target=\"_blank\">marcha por Madrid R\u00edo</a>.</p>\n<p>17/09: <a href=\"http://www.rtve.es/alacarta/videos/informe-semanal/informe-semanal-invertir-educacion-invertir-futuro/1200152/\" target=\"_blank\">Marea Verde en Informe Semanal</a>.</p>\n<p>19/09: Aguirre: \u00ab<a href=\"http://politica.elpais.com/politica/2011/09/19/actualidad/1316440539_416564.html\" target=\"_blank\">La educaci\u00f3n no tiene por qu\u00e9 ser gratis en todas las etapas</a>\u00ab.</p>\n<p>19/09: <a href=\"https://docs.google.com/viewer?a=v&amp;pid=explorer&amp;chrome=true&amp;srcid=10fGIb-tiohFB7bnsWY7iDI3NozCtrbmY1t5y3cCgHDDdsIy0PgOuCVv0NlwD&amp;hl=en_US\" target=\"_blank\">informe de la FAPA</a> sobre los recortes educativos.</p>\n<p>19/09: <a href=\"http://www.elmundo.es/elmundo/2011/09/19/madrid/1316459080.html\" target=\"_blank\">un centenar de personas se encierra</a> en el IES Juan de la Cierva.</p>\n<p>20/09: <a href=\"http://ventanasdelfalcon.blogspot.com/2011/09/el-84-de-los-profesores-hacen-huelga-y.html\" target=\"_blank\">HUELGA 84%</a>.</p>\n<p>20/09: <a href=\"http://www.20minutos.es/noticia/1164187/0/manifestacion/huelga/profesores/\" target=\"_blank\">MAREA VERDE</a>. 90.000 personas.</p>\n<ul>\n<li><a href=\"http://profesorgeohistoria.wordpress.com/2011/09/20/fotos-manifestacion-marea-verde-20ix2011/\" target=\"_blank\">Fotos</a>.</li>\n<li><a href=\"http://soypublica.wordpress.com/2011/09/21/la-manifestacion-en-los-medios/\" target=\"_blank\">Recopilaci\u00f3n de SoyP\u00fablica (repercusi\u00f3n en los medios)</a>.</li>\n</ul>\n<p>21/09: <a href=\"http://ventanasdelfalcon.blogspot.com/2011/09/2-dia-de-huelga-secundado-por-el-80-de.html\" target=\"_blank\">HUELGA 80%</a>.</p>\n<p>21/09: <a href=\"http://noticias.terra.es/2011/espana/0921/actualidad/cadena-humana-contra-los-recortes-en-la-educacion-publica-madrilena.aspx\" target=\"_blank\">Cadena Verde</a> rodeando la Consejer\u00eda.</p>\n<p>22/09: <a href=\"http://ventanasdelfalcon.blogspot.com/2011/09/3er-dia-de-huelga-secundada-por-el-50.html\" target=\"_blank\">HUELGA 53%</a>, aunque Aguirre anunci\u00f3 que era ilegal.</p>\n<p>22/09: <a href=\"http://soypublica.wordpress.com/2011/09/22/22-de-septiembre-manifestaciones-en-defensa-dela-educacion-publica/\" target=\"_blank\">varias manifestaciones</a> en defensa de la P\u00fablica.</p>\n<p>26/09: <a href=\"http://www.youtube.com/watch?v=2PGSpsqYKnw&amp;feature=player_embedded#%21\" target=\"_blank\">videos de apoyo</a> por reconocidos artistas de la P\u00fablica.</p>\n<p>28/09: <a href=\"http://www.elpais.com/articulo/sociedad/200/directores/instituto/niegan/firmar/horarios/elpepuesp/20110929elpepusoc_8/Tes\" target=\"_blank\">200 directores de los 340 IES se niegan a firmar los horarios</a>.</p>\n<p>28/09: <a href=\"http://www.20minutos.es/noticia/1172430/0/directores/colegio/reivindicaciones/\" target=\"_blank\">MAREA VERDE</a>.\u00a0Concentraci\u00f3n de 3.000 personas.</p>\n<ul>\n<li><a href=\"http://profesorgeohistoria.wordpress.com/2011/09/28/concentracion-ante-consejeria-de-educacion-en-madrid-28ix2011/\" target=\"_blank\">Fotos</a>.</li>\n<li><a href=\"http://www.elpais.com/articulo/sociedad/2000/profesores/manifiestan/recortes/Consejeria/elpepusoc/20110928elpepusoc_1/Tes\" target=\"_blank\">M\u00e1s noticias</a>.</li>\n</ul>\n<p>29/09: <a href=\"http://www.elmundo.es/elmundo/2011/09/29/madrid/1317313158.html\" target=\"_blank\">Art\u00edstica hace un r\u00e9quiem</a> de la P\u00fablica en la Plaza Mayor.</p>\n<p>29/09: <a href=\"http://www.lavanguardia.com/local/madrid/20110929/54224157103/policia-desaloja-a-varios-profesores-de-un-colegio-publico-donde-preveian-encerrarse.html\" target=\"_blank\">desalojo policial de un encierro en Legan\u00e9s</a>.</p>\n<p>29/09: <a href=\"http://madrid.tomalaplaza.net/2011/09/30/cronica-de-una-nocheverde-en-un-instituto-de-madrid/\" target=\"_blank\">encierros en Alcorc\u00f3n</a>.</p>\n<p>30/09: <a href=\"http://www.publico.es/espana/399266/los-directores-de-los-institutos-exigen-el-despido-de-figar\" target=\"_blank\">la Consejer\u00eda pide nombres y apellidos de los docentes que se movilizan</a>.</p>\n<p><strong>Septiembre/octubre:\u00a0</strong></p>\n<ul>\n<li><a href=\"https://docs.google.com/spreadsheet/ccc?key=0ArvZgyxG0LXQdDNJSkVJNDRkYy1pVzZOa2tNWnlGMHc&amp;hl=es#gid=0\" target=\"_blank\"><strong>lista de encierros en toda la Comunidad</strong></a>.</li>\n<li><a href=\"https://docs.google.com/spreadsheet/ccc?key=0Ar65h_1EY9ctdDZ3WlhXMDhESi00VlpvbEdMOGFXOHc&amp;hl=en_US#gid=0\" target=\"_blank\"><strong>lista de los docentes con \u00abafines desafinadas\u00bb</strong></a>.</li>\n</ul>\n<p><strong>OCTUBRE</strong></p>\n<p>02/10: <a href=\"http://www.youtube.com/watch?v=o-iozy18v18\" target=\"_blank\">flashmob de la Marea Verde</a> <a href=\"http://www.elpais.com/articulo/madrid/Requiem/educacion/publica/elpepuespmad/20111003elpmad_3/Tes\" target=\"_blank\">colapsando Preciados</a>.</p>\n<p>04/10: <a href=\"http://gdc.feteugt.es/cuteeditornet/imagenes/MADRID/Curso%202011-2012/salaPRENSA/NOTASdePRENSA/111004.HUELGAvalora4oct.cprensa.pdf\" target=\"_blank\">HUELGA 71%</a>.</p>\n<p>04/10: <a href=\"http://www.elpais.com/articulo/sociedad/68000/personas/vuelven/tomar/centro/Madrid/recortes/elpepusoc/20111004elpepusoc_14/Tes\" target=\"_blank\">MAREA VERDE</a>. 68.000 personas.</p>\n<ul>\n<li><a href=\"http://www.20minutos.es/noticia/1178283/0/manifestacion-madrid/educacion-publica/huelga/\" target=\"_blank\">Noticias</a>.</li>\n<li><a href=\"http://profesorgeohistoria.wordpress.com/2011/10/05/una-imagen-vale-mas-que-mil-palabras/\" target=\"_blank\">Fotos</a>.</li>\n</ul>\n<p>05/10: <a href=\"http://ventanasdelfalcon.blogspot.com/2011/10/manana-huelga-de-estudiantes-despues-de.html\" target=\"_blank\">HUELGA 70%</a>.</p>\n<p>05/10: <a href=\"http://prezi.com/7_3_jzqsxxjz/los-recortes-en-educacion-secundaria/\" target=\"_blank\">perfecta presentaci\u00f3n</a> para comprender los recortes.</p>\n<p>05/10: <a href=\"http://marathon-verde.blogspot.com/\" target=\"_blank\">Marathon Verde</a> de Guadarrama a la Consejer\u00eda de Educaci\u00f3n.</p>\n<p>05/10: las <a href=\"http://consolidacionmadrid.blogspot.com/2011/10/ley-del-silencio-en-la-dat-capital-suma.html\" target=\"_blank\">represalias de la Consejer\u00eda</a> a los docentes.</p>\n<p>06/10: <a href=\"http://ventanasdelfalcon.blogspot.com/2011/10/el-85-de-los-estudiantes-madrilenos.html\" target=\"_blank\">HUELGA DE ESTUDIANTES 85%</a>.</p>\n<ul>\n<li>Manifestaci\u00f3n: <a href=\"http://www.elmundo.es/elmundo/2011/10/06/madrid/1317890878.html\" target=\"_blank\">40.000 personas</a>.</li>\n<li><a href=\"http://www.sindicatodeestudiantes.net/index.php?option=com_content&amp;view=article&amp;id=952:cronica-fotografica-de-la-gran-manifestacion-de-estudiantes-del-6-de-octubre-en-madrid&amp;catid=57&amp;Itemid=90\" target=\"_blank\">Fotos</a>\u00a0y m\u00e1s <a href=\"http://profesorgeohistoria.wordpress.com/2011/10/06/videos-y-fotos-40-000-estudiantes-por-la-educacion-publica/\" target=\"_blank\">fotos</a>.</li>\n</ul>\n<p>06/10: Aguirre: \u00ab<a href=\"http://www.abc.es/agencias/noticia.asp?noticia=951751\" target=\"_blank\"><em>Lo de las camisetas verdes es un negociazo para IU</em></a>\u00ab.</p>\n<p>07/10: <a href=\"http://www.europapress.es/madrid/noticia-pp-madrid-pedira-inhabilitacion-pedir-subvencion-asociaciones-venden-camiseta-marea-verde-20111007122005.html\" target=\"_blank\">PP pide retirar subvenciones a asociaciones que venden las camisetas</a>.</p>\n<p>07/10: <a href=\"http://consolidacionmadrid.blogspot.com/2011/10/director-de-instituto-sancionado-en.html\" target=\"_blank\">expedientan a un director de IES</a> <a href=\"http://mmbporlaeducacionpublica.blogspot.com/2011/10/nota-del-companero-javier-lizasoain.html\" target=\"_blank\">por apoyar las movilizaciones</a>.</p>\n<p>08/10: <a href=\"http://www.madridiario.es/2011/Septiembre/educacion/edu_educacion/208080/fapa-manifestacion-8-octubre.htmlml\" target=\"_blank\">MAREA VERDE</a> (fiesta Retiro) por la FAPA: 15.000 personas.</p>\n<ul>\n<li><a href=\"http://www.publico.es/agencias/efe/400598/miles-de-padres-y-alumnos-se-manifiestan-por-la-escuela-publica-en-madrid\" target=\"_blank\">Noticias</a>.</li>\n<li><a href=\"http://profesorgeohistoria.wordpress.com/2011/10/08/fotos-y-videos-manifestacion-fapa-giner-de-los-rios/\" target=\"_blank\">Fotos</a>.</li>\n</ul>\n<p>13/10: <a href=\"http://www.youtube.com/watch?feature=player_embedded&amp;v=-vE9mS9KrWI\" target=\"_blank\">MAREA VERDE</a>, concentraci\u00f3n en la Consejer\u00eda.</p>\n<p>14/10: <a href=\"http://www.youtube.com/watch?v=CWqCVDT_LR0&amp;feature=player_embedded\" target=\"_blank\">cadena humana</a> en Loranca.</p>\n<p>15/10: <a href=\"http://profesorgeohistoria.wordpress.com/2011/10/16/la-marea-verde-en-el-15o-por-la-defensa-de-la-escuela-publica/\" target=\"_blank\">MAREA VERDE</a> en las manifestaciones del 15-O.</p>\n<p>16/10: <a href=\"http://ceronegativo.net/2011/10/17/sanse-y-alcobendas-dicen-si-a-la-escuela-publica/\" target=\"_blank\">manifestaci\u00f3n San Sebasti\u00e1n-Alcobendas</a>: 5.000 personas.</p>\n<p>17/10: <a href=\"http://www.elpais.com/articulo/madrid/Indignados/colegio/protestan/Sol/elpepiespmad/20111017elpmad_1/Tes\" target=\"_blank\">construcci\u00f3n simb\u00f3lica de un CEIP en Sol</a>.</p>\n<p>17/10: <a href=\"http://www.20minutos.es/noticia/1190661/0/fapa/denuncia-calumnias/figar/\" target=\"_blank\">la FAPA denuncia a Figar por calumnias</a>.</p>\n<p>19/10: <a href=\"http://www.elpais.com/articulo/sociedad/estudiantes/Secundaria/vuelven/huelga/elpepuespmad/20111019elpepusoc_2/Tes\" target=\"_blank\">HUELGA DE ESTUDIANTES 80%</a>.\u00a0<a href=\"http://ventanasdelfalcon.blogspot.com/2011/10/exito-de-la-sexta-jornada-de-huelga-en.html\" target=\"_blank\">HUELGA. SECUNDARIA\u00a0PRIMARIA\u00a0</a></p>\n<ul>\n<li><a href=\"http://soypublica.wordpress.com/2011/10/20/huelga-y-concentracion-de-estudiantes-dia-19-de-octubre/\" target=\"_blank\">Noticia y fotos</a>.</li>\n</ul>\n<p>19/10: Encierro d<a href=\"http://www.europapress.es/sociedad/educacion/noticia-encicerro-cgt-educacion-pedir-negociacion-figar-20111019123629.html\" target=\"_blank\">e la CGT</a> en la Direcci\u00f3n General de Recursos Humanos.</p>\n<p>20/10: <a href=\"http://ventanasdelfalcon.blogspot.com/2011/10/exito-de-la-sexta-jornada-de-huelga-en.html\" target=\"_blank\">HUELGA. SECUNDARIA 68 %. PRIMARIA 50%</a>.\u00a0<a href=\"http://www.elpais.com/articulo/sociedad/estudiantes/Secundaria/vuelven/huelga/elpepuespmad/20111019elpepusoc_2/Tes\" target=\"_blank\">HUELGA DE ESTUDIANTES 80%</a>.</p>\n<p>20/10: <a href=\"http://www.elpais.com/articulo/sociedad/Miles/personas/piden/dimision/Esperanza/Aguirre/frente/Consejeria/Educacion/elpepusoc/20111020elpepusoc_14/Tes\" target=\"_blank\">MAREA VERDE</a>.</p>\n<ul>\n<li><a href=\"http://profesorgeohistoria.wordpress.com/2011/10/20/fotos-concentracion-20102011/\" target=\"_blank\">Fotos</a>\u00a0y m\u00e1s <a href=\"http://profesorgeohistoria.wordpress.com/2011/10/20/fotos-concentracion-20102011-2%c2%aa-parte/\" target=\"_blank\">fotos</a>.</li>\n</ul>\n<p>20/10: <a href=\"http://tranquilacion.wordpress.com/2011/10/20/desde-penalara/\" target=\"_blank\">concentraci\u00f3n en Pe\u00f1alara</a>.</p>\n<p><strong>22/10: MARE\u00d3N VERDE. 100.000 personas.</strong></p>\n<ul>\n<li><a href=\"http://profesorgeohistoria.wordpress.com/2011/10/22/fotos-manifestacion-22o/\" target=\"_blank\"><strong>Fotos</strong></a><strong>, </strong><a href=\"http://profesorgeohistoria.wordpress.com/2011/10/23/fotos-manifestacion-educacion-22o-2%c2%aa-parte/\" target=\"_blank\"><strong>fotos</strong></a><strong> y m\u00e1s </strong><a href=\"http://esodelaeso.blogspot.com/2011/10/marcha-verde-22o.html\" target=\"_blank\"><strong>fotos</strong></a><strong>.</strong></li>\n<li><a href=\"http://www.20minutos.es/noticia/1196603/0/manifestacion-estatal/recortes-educacion-publica/madrid/\" target=\"_blank\"><strong>20minutos</strong></a><strong>, </strong><a href=\"http://www.elpais.com/articulo/sociedad/Miles/personas/toda/Espana/claman/educacion/publica/elpepusoc/20111022elpepusoc_1/Tes\" target=\"_blank\"><strong>El Pa\u00eds</strong></a><strong>, </strong><a href=\"http://www.elmundo.es/elmundo/2011/10/20/espana/1319105448.html\" target=\"_blank\"><strong>El Mundo</strong></a><strong>, </strong><a href=\"http://www.abc.es/agencias/noticia.asp?noticia=971572\" target=\"_blank\"><strong>ABC</strong></a><strong>&#8230;</strong></li>\n</ul>\n<p>&nbsp;</p>\n<p>4 meses de movilizaciones, asambleas y reuniones, huelgas, manifestaciones multitudinarias, concentraciones, encierros en los IES y en las administraciones, campa\u00f1as de informaci\u00f3n y concienciaci\u00f3n, videos, debates, charlas, declaraciones, esfuerzo&#8230;</p>\n<p><strong>ESTAMOS HACIENDO HISTORIA:</strong></p>\n<p><strong>\u00a1AHORA TENEMOS M\u00c1S FUERZA QUE NUNCA!</strong></p>\n<p><strong>EN DEFENSA DE LA ESCUELA P\u00daBLICA:</strong></p>\n<p><strong>\u00a1\u00a1NO NOS PARAR\u00c1N</strong></p>\n<p>Un breve\u00a0 seguimiento de la huelga de ense\u00f1anza del dia 20 de octubre en el barrio:</p>\n<p>Colegio P\u00fablico Bolivia<br />\nEl 70 % de los profes hicieron huelga.<br />\nS\u00f3lo acudieron al centro el 25% de los alumnos.</p>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>4 meses de Marea Verde Este es un breve resumen de todas las acciones desarrolladas por la &#171;Marea Verde&#187; desde que la Consejer\u00eda de Educaci\u00f3n de la Comunidad de Madrid public\u00f3 las Instrucciones de inicio de curso 2011/12. JULIO 05/07: &hellip; <a href=\"https://batan.tomalosbarrios.net/propuestas/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+    "rendered": "<p>4 meses de Marea Verde Este es un breve resumen de todas las acciones desarrolladas por la \u00abMarea Verde\u00bb desde que la Consejer\u00eda de Educaci\u00f3n de la Comunidad de Madrid public\u00f3 las Instrucciones de inicio de curso 2011/12. JULIO 05/07: &hellip; <a href=\"https://batan.tomalosbarrios.net/propuestas/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
     "protected": false
   },
   "author": 189,
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -5014,14 +4816,8 @@
     ],
     "version-history": [
       {
-        "count": 9,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/pages/151/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 415,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/pages/151/revisions/415"
       }
     ],
     "wp:attachment": [
@@ -5054,12 +4850,12 @@
     "rendered": "Mapa"
   },
   "author": 189,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://batan.tomalosbarrios.net/files/2011/06/PlzaRosario.png'><img width=\"300\" height=\"251\" src=\"https://batan.tomalosbarrios.net/files/2011/06/PlzaRosario-300x251.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://batan.tomalosbarrios.net/files/2011/06/PlzaRosario-300x251.png 300w, https://batan.tomalosbarrios.net/files/2011/06/PlzaRosario.png 693w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://batan.tomalosbarrios.net/files/2011/06/PlzaRosario.png'><img width=\"300\" height=\"251\" src=\"https://batan.tomalosbarrios.net/files/2011/06/PlzaRosario-300x251.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://batan.tomalosbarrios.net/files/2011/06/PlzaRosario-300x251.png 300w, https://batan.tomalosbarrios.net/files/2011/06/PlzaRosario.png 693w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -5160,16 +4956,16 @@
     "rendered": "Asamblea Bat\u00e1n en FB!"
   },
   "content": {
-    "rendered": "<p>Hola compa\u00f1erxs!</p>\n<p>\u00b7 Desde comunicaci\u00f3n os anunciamos que nuestra asamblea tambi\u00e9n est\u00e1 en Facebook, su nombre de perfil es &#171;asambleanbatan Batan&#187; y a\u00fan est\u00e1 empezando, as\u00ed que no hay mucho contenido. Si quereis encontrarnos en FB tene\u00eds el bot\u00f3n &#171;Find us on Facebook&#187; a la derecha</p>\n<p>\u00b7 Tambi\u00e9n os anunciamos nueva mejoras en nuestro blog con la inclusi\u00f3n de varias herramientas integradas con facebook</p>\n<p>\u00b7 As\u00ed como un calendario de pr\u00f3ximos eventos en googlecalendar en el men\u00fa, donde poder (de forma p\u00fablica) ver y editar pr\u00f3ximos eventos relativos al movimiento 15M y su relaci\u00f3n directa con la asamblea de Bat\u00e1n</p>\n<p>\u00b7 Adem\u00e1s hemos &#171;ampliado&#187; un poco m\u00e1s el blog d\u00e1ndole forma a los grupos de trabajo </p>\n<p>\u00b7 Y hemos enlazado el sitio con nuestro sitio en N-1(la red social).</p>\n<p>\u00b7 Hemos incorporado un formulario de contacto para hacer m\u00e1s c\u00f3modo el contacto</p>\n<p>Saludos desde comunicaci\u00f3n \ud83d\ude09</p>\n",
+    "rendered": "<p>Hola compa\u00f1erxs!</p>\n<p>\u00b7 Desde comunicaci\u00f3n os anunciamos que nuestra asamblea tambi\u00e9n est\u00e1 en Facebook, su nombre de perfil es \u00abasambleanbatan Batan\u00bb y a\u00fan est\u00e1 empezando, as\u00ed que no hay mucho contenido. Si quereis encontrarnos en FB tene\u00eds el bot\u00f3n \u00abFind us on Facebook\u00bb a la derecha</p>\n<p>\u00b7 Tambi\u00e9n os anunciamos nueva mejoras en nuestro blog con la inclusi\u00f3n de varias herramientas integradas con facebook</p>\n<p>\u00b7 As\u00ed como un calendario de pr\u00f3ximos eventos en googlecalendar en el men\u00fa, donde poder (de forma p\u00fablica) ver y editar pr\u00f3ximos eventos relativos al movimiento 15M y su relaci\u00f3n directa con la asamblea de Bat\u00e1n</p>\n<p>\u00b7 Adem\u00e1s hemos \u00abampliado\u00bb un poco m\u00e1s el blog d\u00e1ndole forma a los grupos de trabajo </p>\n<p>\u00b7 Y hemos enlazado el sitio con nuestro sitio en N-1(la red social).</p>\n<p>\u00b7 Hemos incorporado un formulario de contacto para hacer m\u00e1s c\u00f3modo el contacto</p>\n<p>Saludos desde comunicaci\u00f3n \ud83d\ude09</p>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>Hola compa\u00f1erxs! \u00b7 Desde comunicaci\u00f3n os anunciamos que nuestra asamblea tambi\u00e9n est\u00e1 en Facebook, su nombre de perfil es &#171;asambleanbatan Batan&#187; y a\u00fan est\u00e1 empezando, as\u00ed que no hay mucho contenido. Si quereis encontrarnos en FB tene\u00eds el bot\u00f3n &#171;Find &hellip; <a href=\"https://batan.tomalosbarrios.net/2011/06/10/asamblea-batan-en-fb/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+    "rendered": "<p>Hola compa\u00f1erxs! \u00b7 Desde comunicaci\u00f3n os anunciamos que nuestra asamblea tambi\u00e9n est\u00e1 en Facebook, su nombre de perfil es \u00abasambleanbatan Batan\u00bb y a\u00fan est\u00e1 empezando, as\u00ed que no hay mucho contenido. Si quereis encontrarnos en FB tene\u00eds el bot\u00f3n \u00abFind &hellip; <a href=\"https://batan.tomalosbarrios.net/2011/06/10/asamblea-batan-en-fb/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
     "protected": false
   },
   "author": 189,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -5211,14 +5007,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/132/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 142,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/132/revisions/142"
       }
     ],
     "wp:attachment": [
@@ -5263,7 +5053,7 @@
     "rendered": "barrios1.jpg"
   },
   "author": 189,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -5363,7 +5153,7 @@
     "rendered": "Diptico"
   },
   "author": 189,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -5425,7 +5215,7 @@
     "rendered": "Cartel(A4)"
   },
   "author": 189,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -5496,7 +5286,7 @@
   },
   "author": 189,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -5538,14 +5328,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/98/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 143,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/98/revisions/143"
       }
     ],
     "wp:attachment": [
@@ -5599,7 +5383,7 @@
   },
   "author": 189,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -5640,14 +5424,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/93/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 191,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/93/revisions/191"
       }
     ],
     "wp:attachment": [
@@ -5692,7 +5470,7 @@
     "rendered": "Cartel_11Jun A3"
   },
   "author": 189,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -5763,7 +5541,7 @@
   },
   "author": 189,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -5804,14 +5582,8 @@
     ],
     "version-history": [
       {
-        "count": 7,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/78/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 80,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/78/revisions/80"
       }
     ],
     "wp:attachment": [
@@ -5856,7 +5628,7 @@
     "rendered": "Octavilla4x_11Jun"
   },
   "author": 189,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -5918,7 +5690,7 @@
     "rendered": "Cartel_11Jun"
   },
   "author": 189,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -5989,7 +5761,7 @@
   },
   "author": 189,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -6030,14 +5802,8 @@
     ],
     "version-history": [
       {
-        "count": 7,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/68/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 70,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/68/revisions/70"
       }
     ],
     "wp:attachment": [
@@ -6082,7 +5848,7 @@
     "rendered": "Acta_28_5_11"
   },
   "author": 189,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -6155,7 +5921,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -6189,14 +5955,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/pages/49/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 51,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/pages/49/revisions/51"
       }
     ],
     "wp:attachment": [
@@ -6229,7 +5989,7 @@
     "rendered": "Asamblea"
   },
   "content": {
-    "rendered": "<p style=\"text-align: center\"><span style=\"color: #008080\"><strong>Todos los s\u00e1bados a las 12:00H en el metro de Bat\u00e1n.</strong></span></p>\n<p style=\"text-align: center\">\n<p style=\"text-align: center\">\n<p style=\"text-align: center\">\n<p><a href=\"http://batan.tomalosbarrios.net/files/2011/06/Microsoft-Word-cartel_peque%C3%B1o.jpg\"><img class=\"aligncenter size-medium wp-image-437\" src=\"http://batan.tomalosbarrios.net/files/2011/06/Microsoft-Word-cartel_peque%C3%B1o-300x215.jpg\" alt=\"\" width=\"300\" height=\"215\" /></a><a href=\"http://batan.tomalosbarrios.net/files/2011/06/cartel.jpg\"><br />\n</a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
+    "rendered": "<p style=\"text-align: center\"><span style=\"color: #008080\"><strong>Todos los s\u00e1bados a las 12:00H en el metro de Bat\u00e1n.</strong></span></p>\n<p style=\"text-align: center\">\n<p style=\"text-align: center\">\n<p style=\"text-align: center\">\n<p><a href=\"http://batan.tomalosbarrios.net/files/2011/06/Microsoft-Word-cartel_peque%C3%B1o.jpg\"><img loading=\"lazy\" class=\"aligncenter size-medium wp-image-437\" src=\"http://batan.tomalosbarrios.net/files/2011/06/Microsoft-Word-cartel_peque%C3%B1o-300x215.jpg\" alt=\"\" width=\"300\" height=\"215\" /></a><a href=\"http://batan.tomalosbarrios.net/files/2011/06/cartel.jpg\"><br />\n</a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -6240,7 +6000,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -6274,14 +6034,8 @@
     ],
     "version-history": [
       {
-        "count": 33,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/pages/45/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 438,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/pages/45/revisions/438"
       }
     ],
     "wp:attachment": [
@@ -6323,7 +6077,7 @@
   },
   "author": 189,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -6364,14 +6118,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/25/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 29,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/25/revisions/29"
       }
     ],
     "wp:attachment": [
@@ -6416,7 +6164,7 @@
     "rendered": "Acta de asamblea de 28 de Mayo de 2011"
   },
   "content": {
-    "rendered": "<p><strong>(actualizado)</strong> El 28 de mayo celebramos la primera asamblea<img class=\"alignright\" src=\"http://i52.tinypic.com/fd52c4.jpg\" alt=\"\" width=\"198\" height=\"149\" /><br />\nde barrios en Bat\u00e1n, y por ello os haremos llegar<br />\nel acta de dicha asamblea en formato pdf.</p>\n<p>Si prefer\u00eds el acta directamente en esta entrada comentadlo.</p>\n<p><a href=\"http://batan.tomalosbarrios.net/files/2011/05/Acta_28_5_11.pdf\">Acta_28_5_11</a></p>\n<p>Un saludo, administraci\u00f3n</p>\n",
+    "rendered": "<p><strong>(actualizado)</strong> El 28 de mayo celebramos la primera asamblea<img loading=\"lazy\" class=\"alignright\" src=\"http://i52.tinypic.com/fd52c4.jpg\" alt=\"\" width=\"198\" height=\"149\" /><br />\nde barrios en Bat\u00e1n, y por ello os haremos llegar<br />\nel acta de dicha asamblea en formato pdf.</p>\n<p>Si prefer\u00eds el acta directamente en esta entrada comentadlo.</p>\n<p><a href=\"http://batan.tomalosbarrios.net/files/2011/05/Acta_28_5_11.pdf\">Acta_28_5_11</a></p>\n<p>Un saludo, administraci\u00f3n</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -6425,7 +6173,7 @@
   },
   "author": 189,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -6466,14 +6214,8 @@
     ],
     "version-history": [
       {
-        "count": 22,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/10/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 20,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/10/revisions/20"
       }
     ],
     "wp:attachment": [
@@ -6527,7 +6269,7 @@
   },
   "author": 7,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -6568,14 +6310,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/1/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 5,
-        "href": "https://batan.tomalosbarrios.net/wp-json/wp/v2/posts/1/revisions/5"
       }
     ],
     "wp:attachment": [

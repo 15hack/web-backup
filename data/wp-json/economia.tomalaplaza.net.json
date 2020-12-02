@@ -65,14 +65,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/posts/301/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 303,
-        "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/posts/301/revisions/303"
       }
     ],
     "wp:attachment": [
@@ -167,14 +161,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/posts/298/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 300,
-        "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/posts/298/revisions/300"
       }
     ],
     "wp:attachment": [
@@ -269,14 +257,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/posts/295/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 297,
-        "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/posts/295/revisions/297"
       }
     ],
     "wp:attachment": [
@@ -371,14 +353,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/posts/292/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 294,
-        "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/posts/292/revisions/294"
       }
     ],
     "wp:attachment": [
@@ -473,14 +449,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/posts/258/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 260,
-        "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/posts/258/revisions/260"
       }
     ],
     "wp:attachment": [
@@ -575,14 +545,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/posts/253/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 254,
-        "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/posts/253/revisions/254"
       }
     ],
     "wp:attachment": [
@@ -677,14 +641,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/posts/251/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 252,
-        "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/posts/251/revisions/252"
       }
     ],
     "wp:attachment": [
@@ -779,14 +737,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/posts/247/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 250,
-        "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/posts/247/revisions/250"
       }
     ],
     "wp:attachment": [
@@ -836,7 +788,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral3.jpg'><img width=\"300\" height=\"159\" src=\"https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral3-300x159.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral3-300x159.jpg 300w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral3-150x79.jpg 150w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral3-400x213.jpg 400w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral3.jpg 876w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral3.jpg'><img width=\"300\" height=\"159\" src=\"https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral3-300x159.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral3-300x159.jpg 300w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral3-150x79.jpg 150w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral3-400x213.jpg 400w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral3.jpg 876w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": "<p class=\"attachment\">\n"
@@ -948,7 +900,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral2.jpg'><img width=\"300\" height=\"117\" src=\"https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral2-300x117.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral2-300x117.jpg 300w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral2-150x58.jpg 150w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral2-400x156.jpg 400w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral2.jpg 818w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral2.jpg'><img width=\"300\" height=\"117\" src=\"https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral2-300x117.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral2-300x117.jpg 300w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral2-150x58.jpg 150w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral2-400x156.jpg 400w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral2.jpg 818w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": "<p class=\"attachment\">\n"
@@ -1060,7 +1012,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral1.jpg'><img width=\"300\" height=\"179\" src=\"https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral1-300x179.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral1-300x179.jpg 300w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral1-150x89.jpg 150w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral1-400x239.jpg 400w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral1.jpg 753w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral1.jpg'><img width=\"300\" height=\"179\" src=\"https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral1-300x179.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral1-300x179.jpg 300w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral1-150x89.jpg 150w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral1-400x239.jpg 400w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral1.jpg 753w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": "<p class=\"attachment\">\n"
@@ -1167,7 +1119,7 @@
     "rendered": "Desmontando la mentira de su reforma laboral"
   },
   "content": {
-    "rendered": "<p><strong>Origen de la crisis y el aumento del desempleo</strong><br />\nPara poder emitir una soluci\u00f3n al problema del paro hay que diagnosticar primero cu\u00e1l es el origen del incremento del mismo. Igual que un m\u00e9dico tiene que saber cu\u00e1l es la enfermedad para poder encontrar el medicamento que puede curar al enfermo, necesitamos saber el origen de la crisis para poder atacar el problema del desempleo que ha generado.<br />\nEsta crisis se gest\u00f3 en el mercado financiero. La progresiva financiarizaci\u00f3n de las econom\u00edas capitalistas y los excesos del sector financiero, junto con su ineficaz regulaci\u00f3n, han distorsionado la econom\u00eda productiva. En busca del m\u00e1ximo beneficio, ampliaron hasta el extremo de la irresponsabilidad la concesi\u00f3n de cr\u00e9dito y la creaci\u00f3n de otros instrumentos financieros opacos. Esto provoc\u00f3 la generalizaci\u00f3n de pr\u00e1cticas especulativas y el<br />\ndesv\u00edo de la inversi\u00f3n hacia negocios de alta rentabilidad en el corto plazo. As\u00ed se gest\u00f3 la llamada \u201ccultura del pelotazo\u201d.<br />\nEn Espa\u00f1a este proceso ha incidido de manera especial en el sector inmobiliario. Las entidades financieras, gracias a una Ley del suelo propicia, ayudaron artificialmente a hinchar los precios de las viviendas, fomentando la especulaci\u00f3n y participando activamente en ella, generando as\u00ed ingentes cantidades de beneficios e hipertrofiando el sector de la construcci\u00f3n.<br />\nA esta din\u00e1mica se unen otras: la progresiva desindustrializaci\u00f3n de la econom\u00eda espa\u00f1ola y el importante descenso en la actividad agraria. Los procesos de especializaci\u00f3n productiva a nivel internacional han propiciado que Espa\u00f1a se convierta en un pa\u00eds centrado en los servicios y el turismo, en actividades concretas muy vinculadas a los vaivenes de los ciclos econ\u00f3micos. As\u00ed, la estructura productiva espa\u00f1ola ha sufrido un deterioro progresivo, con una econom\u00eda netamente importadora de productos industriales y tecnol\u00f3gicos, de alto valor a\u00f1adido, frente a una exportaci\u00f3n con menor valorizaci\u00f3n.<br />\nTodo esto ha provocado que muchos recursos que pod\u00edan haberse dedicado a otros sectores menos vol\u00e1tiles desaparecieran, que la especulaci\u00f3n y el cortoplacismo primaran frente a la inversi\u00f3n en innovaci\u00f3n y calidad, con lo que la econom\u00eda se encamin\u00f3 hacia un t\u00fanel oscuro con un \u00fanico desenlace posible. El crecimiento espa\u00f1ol de entonces fue suicida y pernicioso, salvo para los propios especuladores, tal y como estamos comprobando hoy.<br />\nCon una agricultura en continua degradaci\u00f3n y una industria que solo experimentaba un t\u00edmido crecimiento en sus mejores a\u00f1os, con un empleo p\u00fablico que solo supone el 13% de la poblaci\u00f3n activa frente al 24% en Francia, el 26% en Suecia o el 31% de Dinamarca (datos Eurostat-2008), el gran crecimiento del sector constructivo y de la industria auxiliar tuvo efectos directos sobre el empleo, con una demanda creciente de trabajadores con bajos<br />\nniveles de cualificaci\u00f3n. Esto provoc\u00f3 que muchos j\u00f3venes abandonaran sus estudios y acudieran a la llamada de los sueldos que se ofrec\u00edan.</p>\n<p style=\"text-align: center\"><a href=\"http://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral1.jpg\"><img class=\"aligncenter size-full wp-image-240\" src=\"http://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral1.jpg\" alt=\"\" width=\"753\" height=\"451\" srcset=\"https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral1.jpg 753w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral1-300x179.jpg 300w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral1-150x89.jpg 150w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral1-400x239.jpg 400w\" sizes=\"(max-width: 753px) 100vw, 753px\" /></a></p>\n<blockquote><p>Fuente: OCDE (Labour Force Statistics)</p></blockquote>\n<p>&nbsp;</p>\n<p>Al estallar la burbuja inmobiliaria, la recesi\u00f3n de la construcci\u00f3n y su industria y servicios auxiliares provocaron un aumento vertiginoso en las listas del paro. El ajuste fue tan brutal que en apenas dos a\u00f1os, el paro pas\u00f3 de su tasa m\u00e1s baja en toda la democracia, 8,3% en el 2007, a la m\u00e1s alta de todas, m\u00e1s del 20%. No se puede pedir mayor flexibilidad en un mercado de trabajo.<br />\nPor otra parte, el pinchazo de la burbuja financiera con la consecuente falta de liquidez en el sistema provocaron un importante descenso de la actividad crediticia, lo que ha llevado a la peque\u00f1a y mediana empresa a una situaci\u00f3n de insostenibilidad que ha provocado el aumento de los despidos de trabajadores y el cierre de muchos negocios.<br />\nEl incremento del desempleo y la falta de liquidez han propiciado un importante descenso en la demanda y el consumo, as\u00ed como el aumento de los impagos tanto por parte del sector privado (empresas y particulares) como del sector p\u00fablico, generando un bucle que provoca m\u00e1s cierres de empresas y mayor desempleo.<br />\nAs\u00ed, a ra\u00edz del estallido de la crisis, la tasa de desempleo empieza a incrementarse de forma exponencial sin ning\u00fan viso de atenuar su crecimiento. Incluso tras la reforma laboral del a\u00f1o 2010, donde tambi\u00e9n se intent\u00f3 abaratar el despido y reducir los derechos de los trabajadores con la excusa de mejorar el mercado de trabajo.</p>\n<p><a href=\"http://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral2.jpg\"><img class=\"aligncenter size-full wp-image-241\" src=\"http://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral2.jpg\" alt=\"\" width=\"818\" height=\"320\" srcset=\"https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral2.jpg 818w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral2-300x117.jpg 300w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral2-150x58.jpg 150w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral2-400x156.jpg 400w\" sizes=\"(max-width: 818px) 100vw, 818px\" /></a></p>\n<blockquote><p>Fuente: OCDE (Labour Force Statistics)</p></blockquote>\n<p>La g\u00e9nesis de la actual bolsa de desempleados se puede explicar independientemente de la regulaci\u00f3n laboral.<br />\nVemos que, al contrario de lo que nos quieren hacer creer, el empleo y el desempleo se generan en los mercados de bienes y servicios, bajo la decisiva influencia de los mercados financieros.<br />\nLas medidas aprobadas en esta Reforma Laboral dejan de lado esta realidad, aceptando como bueno un modelo que no es capaz de absorber el desempleo generado y dejando la soluci\u00f3n a esta problem\u00e1tica al albor de un hipot\u00e9tico relanzamiento de la econom\u00eda en el futuro, asentado sobre las mismas bases que han generado esta crisis.<br />\nAs\u00ed, lejos de promoverse pol\u00edticas expansivas que permitan reactivar la econom\u00eda y el empleo, m\u00e1s all\u00e1 de procurar un cambio de modelo que suponga el desarrollo y valorizaci\u00f3n de aquellas actividades y sectores que podr\u00edan propiciar una mayor sostenibilidad econ\u00f3mica, social y ambiental, antes que regular un mercado financiero predador que produce continuos desequilibrios en todos los \u00e1mbitos, se alimenta un estado de las cosas en el que las desigualdades son ostensibles y crecientes.<br />\nCobijada bajo un falso discurso est\u00e1 una ideolog\u00eda que antepone el inter\u00e9s privado de las grandes fortunas y corporaciones al inter\u00e9s general. Se hacen denodados \u201cesfuerzos\u201d por ayudar a la misma banca que ha generado la crisis, se les regalan las Cajas de Ahorro con un dinero que luego se dice que falta para mantener las pol\u00edticas sociales, y sin embargo dedican ese dinero a tapar sus propios agujeros en vez de dinamizar la econom\u00eda productiva. Y mientras, el problema del desempleo tiene todos los visos de mantenerse en el tiempo.</p>\n<p><strong>Qu\u00e9 pretenden con la reforma</strong><br />\nLo que se pretende con esta reforma es, en teor\u00eda, incentivar la contrataci\u00f3n, incrementar as\u00ed el nivel de empleo, que los nuevos trabajadores reactiven el consumo, con \u00e9l la inversi\u00f3n y volvamos a crecer como lo hac\u00edamos del 2004 al 2007.<br />\nNos ofrecen una soluci\u00f3n, que es la que implementan a trav\u00e9s de la reforma laboral: la deflaci\u00f3n interna. Esto significa que se reduzcan los costes laborales con dos supuestos objetivos: animar la contrataci\u00f3n y hacer m\u00e1s competitivos nuestros productos y servicios.<br />\n<strong>a) Animar la contrataci\u00f3n.</strong><br />\nSeg\u00fan la l\u00f3gica del gobierno, al posibilitarse el descenso de costes laborales los empresarios tendr\u00e1n m\u00e1s incentivos para contratar y menos para despedir a trabajadores. Como resulta dif\u00edcil e impopular tocar directamente el nivel de salarios, lo que hacen es debilitar el poder de negociaci\u00f3n de los trabajadores para hacer efectiva la reducci\u00f3n salarial. La facilitaci\u00f3n y abaratamiento del despido, la descentralizaci\u00f3n de la negociaci\u00f3n, el debilitamiento y posibilidad de descuelgue de los convenios colectivos, la flexibilizaci\u00f3n interna o la precarizaci\u00f3n de los contratos son avances en este sentido.<br />\nEste descenso en los costes laborales no tiene un efecto directo en la generaci\u00f3n de empleo, pero s\u00ed tiene una incidencia directa en la capacidad adquisitiva de las familias, que se ve reducida m\u00e1s a\u00fan en un pa\u00eds con un salario medio que apenas llega al 60% del salario medio europeo. Y el descenso de la demanda lo que producir\u00e1 es m\u00e1s despidos y el cierre de m\u00e1s peque\u00f1as y medianas empresas.<br />\n<strong>b) Estimular la competitividad.</strong><br />\nPlantean que la reducci\u00f3n de costes laborales podr\u00e1 hacer nuestros productos y servicios m\u00e1s competitivos tanto en los mercados internos como en el exterior, reactivando as\u00ed la econom\u00eda.<br />\nEspa\u00f1a entr\u00f3 en la zona euro (1998) con una balanza por cuenta corriente m\u00e1s o menos equilibrada. Esto era debido a sucesivas devaluaciones de la moneda que hab\u00edan permitido mantener la competitividad frente a las potencias econ\u00f3micas (Estados Unidos, Alemania, Gran Breta\u00f1a, Francia, etc.). Sin embargo, al entrar en la zona euro las devaluaciones dejaron de estar permitidas, al perderse el control estatal sobre el tipo de cambio. De esta forma, Espa\u00f1a ha acumulado una gran p\u00e9rdida de competitividad frente a pa\u00edses como Alemania, que ha visto crecer sus exportaciones al resto de Europa gracias a esta situaci\u00f3n. Este es un problema com\u00fan a todos los pa\u00edses perif\u00e9ricos de la UE.<br />\nBalanza por cuenta corriente (en % del PIB)</p>\n<p><a href=\"http://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral3.jpg\"><img class=\"aligncenter size-full wp-image-242\" src=\"http://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral3.jpg\" alt=\"\" width=\"876\" height=\"467\" srcset=\"https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral3.jpg 876w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral3-300x159.jpg 300w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral3-150x79.jpg 150w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral3-400x213.jpg 400w\" sizes=\"(max-width: 876px) 100vw, 876px\" /></a></p>\n<blockquote><p>Fuente: OECD Stats, Balance of Payments</p></blockquote>\n<p>Con esta reforma se pretende recuperar esta p\u00e9rdida de competitividad mediante la deflaci\u00f3n interna, es decir, con la ca\u00edda de costes laborales. Pero esta p\u00e9rdida acumulada de competitividad es dif\u00edcilmente recuperable \u00fanicamente por la v\u00eda salarial, tal como se pretende.<br />\nHay que tener en cuenta que la competitividad espa\u00f1ola ha sido tradicionalmente baja por el pobre nivel de inversi\u00f3n en la valorizaci\u00f3n de sus productos y servicios. Ahora se pretende aumentar la competitividad por la v\u00eda de abaratar los precios mediante la deflaci\u00f3n interna, lo que lleva irremisiblemente a una din\u00e1mica de reducci\u00f3n de costes, en la cual se desmantelan los derechos laborales y todo lo que se ponga por delante (derechos humanos, sociales, ambientales, etc.). Y esto no solo es ileg\u00edtimo; es impensable que solo mediante reducciones salariales se pueda recuperar todo el atraso en competitividad arrastrado desde hace d\u00e9cadas.<br />\nSe ha comprobado que todas las reformas realizadas ponen el peso de la moderaci\u00f3n en las rentas del trabajo, nunca en los beneficios empresariales, como si las primeras hubieran sido causa de la falta de competitividad. Y esto se hace alegando que los trabajadores de este pa\u00eds han vivido por encima de sus posibilidades. Conociendo los ingentes beneficios de las grandes corporaciones a\u00f1o tras a\u00f1o, hay que hacer un salto moral enorme para presentar esta ley como soluci\u00f3n al desempleo y la competitividad.<br />\nEn la base de todo esto est\u00e1 la imposici\u00f3n de un pensamiento \u00fanico que pone al crecimiento sin l\u00edmites y la competitividad por encima del bien com\u00fan. Se equiparan los conceptos de desarrollo y crecimiento, sin tener en cuenta que los recursos del planeta son limitados y que la necesaria acumulaci\u00f3n de riqueza que sustenta este crecimiento genera desigualdad, hambre y muerte. Se aboga por una competitividad que supone igualar a la baja los derechos y libertades alcanzados en algunos pa\u00edses hasta alcanzar el nivel de aquellos m\u00e1s desfavorecidos.<br />\nAnte esto se hace necesario, m\u00e1s que nunca, el surgimiento de un nuevo modelo econ\u00f3mico que anteponga la cohesi\u00f3n y la solidaridad a la competitividad, el inter\u00e9s general al particular, y que suponga el efectivo cumplimiento en todo el mundo de los derechos de las personas, los pueblos y los ecosistemas en los cuales vivimos.<br />\n<strong>Qu\u00e9 es lo que realmente conseguir\u00e1n con la reforma</strong><br />\nHay que ser muy claros con la conclusi\u00f3n: la reforma, para aquello que dicen que servir\u00e1, ser\u00e1 completamente in\u00fatil. Servir\u00e1 para otra cosa, pero no para crear empleo ni para reactivar la econom\u00eda. Por tanto debemos analizar la reforma desde la perspectiva ideol\u00f3gica en que se inscribe. Y no tenemos que olvidar que esta reforma sigue la misma direcci\u00f3n que la que aprobada por el anterior gobierno en 2010 y que todas las reformas impuestas desde la aprobaci\u00f3n del Estatuto de los Trabajadores en 1980.<br />\nCon esta reforma laboral se abaratan los costes empresariales relacionados con el trabajo. Por un lado se reducen las indemnizaciones por despido y se abre la puerta a la posibilidad de reducir los salarios, y por otro lado se establecen bonificaciones y exenciones fiscales por la contrataci\u00f3n de trabajadores. La disminuci\u00f3n de costes conlleva un aumento del beneficio empresarial, que ser\u00e1 m\u00e1s ostensible en las empresas de mayor tama\u00f1o.<br />\nPero esta reforma no solo consigue aumentar los beneficios directos de las grandes empresas sino tambi\u00e9n su capacidad para imponer sus condiciones frente al trabajador. Las medidas para fomentar la flexibilidad interna y las reformas referentes a los Convenios Colectivos promueven una situaci\u00f3n de indefensi\u00f3n del trabajador frente a los intereses meramente empresariales. Esta reforma aborda los derechos laborales como un coste empresarial a reducir, en vez de como un derecho constitucional que protege a la ciudadan\u00eda.<br />\nTanto esta reforma como otras medidas decretadas por este y los anteriores gobiernos favorecen claramente a las grandes corporaciones, posibilitando el fortalecimiento de un oligopolio de grandes empresas multinacionales, y no son medidas adaptadas a las necesidades de las pymes ni los aut\u00f3nomos, ni mucho menos a las de los trabajadores. Si bien esta reforma laboral s\u00ed ofrece medidas que tambi\u00e9n favorecen a las pymes, el conjunto de la reforma establece un escenario en el que son las grandes empresas las que van a obtener una mejora sustancial de su situaci\u00f3n.<br />\nLa reducci\u00f3n del poder adquisitivo de los trabajadores y las familias que se promueve repercute directamente en un descenso de la demanda y el consumo, que como ha quedado demostrado, tiene una incidencia directa sobre la viabilidad de las pymes, que son mucho m\u00e1s vulnerables. Esto significa m\u00e1s desempleo y una mayor degradaci\u00f3n del tejido econ\u00f3mico. El apoyo a pymes y aut\u00f3nomos se puede hacer por otras v\u00edas que no conlleven el desmantelamiento de los derechos laborales y la reducci\u00f3n de la capacidad adquisitiva de las familias y de la demanda.<br />\nAs\u00ed, las medidas implementadas producir\u00e1n necesariamente una transferencia de renta de los trabajadores y pymes hacia las grandes empresas y fortunas: un avance m\u00e1s del capitalismo, un paso m\u00e1s en la estafa. Y todo ello avalado por pactos, leyes, instituciones y organismos internacionales. El Tratado de Maastrich (1992), el Pacto de estabilidad y crecimiento de Amsterdam (1997), la adopci\u00f3n de la Moneda \u00danica Europea (1999), el Tratado de Lisboa (2007), sustitutivo del fallido Tratado de la Constituci\u00f3n Europea, el Pacto por el Euro (2011) y el Pacto Fiscal (2012), firmados todos ellos sin consentimiento expreso de la ciudadan\u00eda, han supuesto una p\u00e9rdida progresiva de la soberan\u00eda popular a trav\u00e9s del sometimiento de las grandes decisiones a instancias como el Fondo Monetario Internacional o el Banco Central Europeo. La firma del Pacto por el Euro el pasado a\u00f1o impuso esta reforma laboral, as\u00ed como las reducciones en salarios y pensiones, la descentralizaci\u00f3n de convenios laborales, los recortes en gasto p\u00fablico, la privatizaci\u00f3n de servicios p\u00fablicos, la priorizaci\u00f3n del pago de la deuda ante otros gastos y el establecimiento de un techo al d\u00e9ficit.<br />\nEse es el objetivo ideol\u00f3gico que hay detr\u00e1s de esta reforma: una reivindicaci\u00f3n de clase, s\u00ed, pero de la clase empresarial olig\u00e1rquica.</p>\n<p>&nbsp;</p>\n<ul>\n<li>Enlace al <a title=\"Desmontando-la-mentira-de-su-reforma-laboral\" href=\"http://madrid.tomalaplaza.net/files/2012/03/Desmontando-la-mentira-de-su-reforma-laboral.pdf\" target=\"_blank\">documento original</a></li>\n</ul>\n",
+    "rendered": "<p><strong>Origen de la crisis y el aumento del desempleo</strong><br />\nPara poder emitir una soluci\u00f3n al problema del paro hay que diagnosticar primero cu\u00e1l es el origen del incremento del mismo. Igual que un m\u00e9dico tiene que saber cu\u00e1l es la enfermedad para poder encontrar el medicamento que puede curar al enfermo, necesitamos saber el origen de la crisis para poder atacar el problema del desempleo que ha generado.<br />\nEsta crisis se gest\u00f3 en el mercado financiero. La progresiva financiarizaci\u00f3n de las econom\u00edas capitalistas y los excesos del sector financiero, junto con su ineficaz regulaci\u00f3n, han distorsionado la econom\u00eda productiva. En busca del m\u00e1ximo beneficio, ampliaron hasta el extremo de la irresponsabilidad la concesi\u00f3n de cr\u00e9dito y la creaci\u00f3n de otros instrumentos financieros opacos. Esto provoc\u00f3 la generalizaci\u00f3n de pr\u00e1cticas especulativas y el<br />\ndesv\u00edo de la inversi\u00f3n hacia negocios de alta rentabilidad en el corto plazo. As\u00ed se gest\u00f3 la llamada \u201ccultura del pelotazo\u201d.<br />\nEn Espa\u00f1a este proceso ha incidido de manera especial en el sector inmobiliario. Las entidades financieras, gracias a una Ley del suelo propicia, ayudaron artificialmente a hinchar los precios de las viviendas, fomentando la especulaci\u00f3n y participando activamente en ella, generando as\u00ed ingentes cantidades de beneficios e hipertrofiando el sector de la construcci\u00f3n.<br />\nA esta din\u00e1mica se unen otras: la progresiva desindustrializaci\u00f3n de la econom\u00eda espa\u00f1ola y el importante descenso en la actividad agraria. Los procesos de especializaci\u00f3n productiva a nivel internacional han propiciado que Espa\u00f1a se convierta en un pa\u00eds centrado en los servicios y el turismo, en actividades concretas muy vinculadas a los vaivenes de los ciclos econ\u00f3micos. As\u00ed, la estructura productiva espa\u00f1ola ha sufrido un deterioro progresivo, con una econom\u00eda netamente importadora de productos industriales y tecnol\u00f3gicos, de alto valor a\u00f1adido, frente a una exportaci\u00f3n con menor valorizaci\u00f3n.<br />\nTodo esto ha provocado que muchos recursos que pod\u00edan haberse dedicado a otros sectores menos vol\u00e1tiles desaparecieran, que la especulaci\u00f3n y el cortoplacismo primaran frente a la inversi\u00f3n en innovaci\u00f3n y calidad, con lo que la econom\u00eda se encamin\u00f3 hacia un t\u00fanel oscuro con un \u00fanico desenlace posible. El crecimiento espa\u00f1ol de entonces fue suicida y pernicioso, salvo para los propios especuladores, tal y como estamos comprobando hoy.<br />\nCon una agricultura en continua degradaci\u00f3n y una industria que solo experimentaba un t\u00edmido crecimiento en sus mejores a\u00f1os, con un empleo p\u00fablico que solo supone el 13% de la poblaci\u00f3n activa frente al 24% en Francia, el 26% en Suecia o el 31% de Dinamarca (datos Eurostat-2008), el gran crecimiento del sector constructivo y de la industria auxiliar tuvo efectos directos sobre el empleo, con una demanda creciente de trabajadores con bajos<br />\nniveles de cualificaci\u00f3n. Esto provoc\u00f3 que muchos j\u00f3venes abandonaran sus estudios y acudieran a la llamada de los sueldos que se ofrec\u00edan.</p>\n<p style=\"text-align: center\"><a href=\"http://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral1.jpg\"><img loading=\"lazy\" class=\"aligncenter size-full wp-image-240\" src=\"http://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral1.jpg\" alt=\"\" width=\"753\" height=\"451\" srcset=\"https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral1.jpg 753w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral1-300x179.jpg 300w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral1-150x89.jpg 150w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral1-400x239.jpg 400w\" sizes=\"(max-width: 753px) 100vw, 753px\" /></a></p>\n<blockquote><p>Fuente: OCDE (Labour Force Statistics)</p></blockquote>\n<p>&nbsp;</p>\n<p>Al estallar la burbuja inmobiliaria, la recesi\u00f3n de la construcci\u00f3n y su industria y servicios auxiliares provocaron un aumento vertiginoso en las listas del paro. El ajuste fue tan brutal que en apenas dos a\u00f1os, el paro pas\u00f3 de su tasa m\u00e1s baja en toda la democracia, 8,3% en el 2007, a la m\u00e1s alta de todas, m\u00e1s del 20%. No se puede pedir mayor flexibilidad en un mercado de trabajo.<br />\nPor otra parte, el pinchazo de la burbuja financiera con la consecuente falta de liquidez en el sistema provocaron un importante descenso de la actividad crediticia, lo que ha llevado a la peque\u00f1a y mediana empresa a una situaci\u00f3n de insostenibilidad que ha provocado el aumento de los despidos de trabajadores y el cierre de muchos negocios.<br />\nEl incremento del desempleo y la falta de liquidez han propiciado un importante descenso en la demanda y el consumo, as\u00ed como el aumento de los impagos tanto por parte del sector privado (empresas y particulares) como del sector p\u00fablico, generando un bucle que provoca m\u00e1s cierres de empresas y mayor desempleo.<br />\nAs\u00ed, a ra\u00edz del estallido de la crisis, la tasa de desempleo empieza a incrementarse de forma exponencial sin ning\u00fan viso de atenuar su crecimiento. Incluso tras la reforma laboral del a\u00f1o 2010, donde tambi\u00e9n se intent\u00f3 abaratar el despido y reducir los derechos de los trabajadores con la excusa de mejorar el mercado de trabajo.</p>\n<p><a href=\"http://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral2.jpg\"><img loading=\"lazy\" class=\"aligncenter size-full wp-image-241\" src=\"http://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral2.jpg\" alt=\"\" width=\"818\" height=\"320\" srcset=\"https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral2.jpg 818w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral2-300x117.jpg 300w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral2-150x58.jpg 150w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral2-400x156.jpg 400w\" sizes=\"(max-width: 818px) 100vw, 818px\" /></a></p>\n<blockquote><p>Fuente: OCDE (Labour Force Statistics)</p></blockquote>\n<p>La g\u00e9nesis de la actual bolsa de desempleados se puede explicar independientemente de la regulaci\u00f3n laboral.<br />\nVemos que, al contrario de lo que nos quieren hacer creer, el empleo y el desempleo se generan en los mercados de bienes y servicios, bajo la decisiva influencia de los mercados financieros.<br />\nLas medidas aprobadas en esta Reforma Laboral dejan de lado esta realidad, aceptando como bueno un modelo que no es capaz de absorber el desempleo generado y dejando la soluci\u00f3n a esta problem\u00e1tica al albor de un hipot\u00e9tico relanzamiento de la econom\u00eda en el futuro, asentado sobre las mismas bases que han generado esta crisis.<br />\nAs\u00ed, lejos de promoverse pol\u00edticas expansivas que permitan reactivar la econom\u00eda y el empleo, m\u00e1s all\u00e1 de procurar un cambio de modelo que suponga el desarrollo y valorizaci\u00f3n de aquellas actividades y sectores que podr\u00edan propiciar una mayor sostenibilidad econ\u00f3mica, social y ambiental, antes que regular un mercado financiero predador que produce continuos desequilibrios en todos los \u00e1mbitos, se alimenta un estado de las cosas en el que las desigualdades son ostensibles y crecientes.<br />\nCobijada bajo un falso discurso est\u00e1 una ideolog\u00eda que antepone el inter\u00e9s privado de las grandes fortunas y corporaciones al inter\u00e9s general. Se hacen denodados \u201cesfuerzos\u201d por ayudar a la misma banca que ha generado la crisis, se les regalan las Cajas de Ahorro con un dinero que luego se dice que falta para mantener las pol\u00edticas sociales, y sin embargo dedican ese dinero a tapar sus propios agujeros en vez de dinamizar la econom\u00eda productiva. Y mientras, el problema del desempleo tiene todos los visos de mantenerse en el tiempo.</p>\n<p><strong>Qu\u00e9 pretenden con la reforma</strong><br />\nLo que se pretende con esta reforma es, en teor\u00eda, incentivar la contrataci\u00f3n, incrementar as\u00ed el nivel de empleo, que los nuevos trabajadores reactiven el consumo, con \u00e9l la inversi\u00f3n y volvamos a crecer como lo hac\u00edamos del 2004 al 2007.<br />\nNos ofrecen una soluci\u00f3n, que es la que implementan a trav\u00e9s de la reforma laboral: la deflaci\u00f3n interna. Esto significa que se reduzcan los costes laborales con dos supuestos objetivos: animar la contrataci\u00f3n y hacer m\u00e1s competitivos nuestros productos y servicios.<br />\n<strong>a) Animar la contrataci\u00f3n.</strong><br />\nSeg\u00fan la l\u00f3gica del gobierno, al posibilitarse el descenso de costes laborales los empresarios tendr\u00e1n m\u00e1s incentivos para contratar y menos para despedir a trabajadores. Como resulta dif\u00edcil e impopular tocar directamente el nivel de salarios, lo que hacen es debilitar el poder de negociaci\u00f3n de los trabajadores para hacer efectiva la reducci\u00f3n salarial. La facilitaci\u00f3n y abaratamiento del despido, la descentralizaci\u00f3n de la negociaci\u00f3n, el debilitamiento y posibilidad de descuelgue de los convenios colectivos, la flexibilizaci\u00f3n interna o la precarizaci\u00f3n de los contratos son avances en este sentido.<br />\nEste descenso en los costes laborales no tiene un efecto directo en la generaci\u00f3n de empleo, pero s\u00ed tiene una incidencia directa en la capacidad adquisitiva de las familias, que se ve reducida m\u00e1s a\u00fan en un pa\u00eds con un salario medio que apenas llega al 60% del salario medio europeo. Y el descenso de la demanda lo que producir\u00e1 es m\u00e1s despidos y el cierre de m\u00e1s peque\u00f1as y medianas empresas.<br />\n<strong>b) Estimular la competitividad.</strong><br />\nPlantean que la reducci\u00f3n de costes laborales podr\u00e1 hacer nuestros productos y servicios m\u00e1s competitivos tanto en los mercados internos como en el exterior, reactivando as\u00ed la econom\u00eda.<br />\nEspa\u00f1a entr\u00f3 en la zona euro (1998) con una balanza por cuenta corriente m\u00e1s o menos equilibrada. Esto era debido a sucesivas devaluaciones de la moneda que hab\u00edan permitido mantener la competitividad frente a las potencias econ\u00f3micas (Estados Unidos, Alemania, Gran Breta\u00f1a, Francia, etc.). Sin embargo, al entrar en la zona euro las devaluaciones dejaron de estar permitidas, al perderse el control estatal sobre el tipo de cambio. De esta forma, Espa\u00f1a ha acumulado una gran p\u00e9rdida de competitividad frente a pa\u00edses como Alemania, que ha visto crecer sus exportaciones al resto de Europa gracias a esta situaci\u00f3n. Este es un problema com\u00fan a todos los pa\u00edses perif\u00e9ricos de la UE.<br />\nBalanza por cuenta corriente (en % del PIB)</p>\n<p><a href=\"http://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral3.jpg\"><img loading=\"lazy\" class=\"aligncenter size-full wp-image-242\" src=\"http://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral3.jpg\" alt=\"\" width=\"876\" height=\"467\" srcset=\"https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral3.jpg 876w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral3-300x159.jpg 300w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral3-150x79.jpg 150w, https://economia.tomalaplaza.net/files/2012/04/DesmontandoReformaLaboral3-400x213.jpg 400w\" sizes=\"(max-width: 876px) 100vw, 876px\" /></a></p>\n<blockquote><p>Fuente: OECD Stats, Balance of Payments</p></blockquote>\n<p>Con esta reforma se pretende recuperar esta p\u00e9rdida de competitividad mediante la deflaci\u00f3n interna, es decir, con la ca\u00edda de costes laborales. Pero esta p\u00e9rdida acumulada de competitividad es dif\u00edcilmente recuperable \u00fanicamente por la v\u00eda salarial, tal como se pretende.<br />\nHay que tener en cuenta que la competitividad espa\u00f1ola ha sido tradicionalmente baja por el pobre nivel de inversi\u00f3n en la valorizaci\u00f3n de sus productos y servicios. Ahora se pretende aumentar la competitividad por la v\u00eda de abaratar los precios mediante la deflaci\u00f3n interna, lo que lleva irremisiblemente a una din\u00e1mica de reducci\u00f3n de costes, en la cual se desmantelan los derechos laborales y todo lo que se ponga por delante (derechos humanos, sociales, ambientales, etc.). Y esto no solo es ileg\u00edtimo; es impensable que solo mediante reducciones salariales se pueda recuperar todo el atraso en competitividad arrastrado desde hace d\u00e9cadas.<br />\nSe ha comprobado que todas las reformas realizadas ponen el peso de la moderaci\u00f3n en las rentas del trabajo, nunca en los beneficios empresariales, como si las primeras hubieran sido causa de la falta de competitividad. Y esto se hace alegando que los trabajadores de este pa\u00eds han vivido por encima de sus posibilidades. Conociendo los ingentes beneficios de las grandes corporaciones a\u00f1o tras a\u00f1o, hay que hacer un salto moral enorme para presentar esta ley como soluci\u00f3n al desempleo y la competitividad.<br />\nEn la base de todo esto est\u00e1 la imposici\u00f3n de un pensamiento \u00fanico que pone al crecimiento sin l\u00edmites y la competitividad por encima del bien com\u00fan. Se equiparan los conceptos de desarrollo y crecimiento, sin tener en cuenta que los recursos del planeta son limitados y que la necesaria acumulaci\u00f3n de riqueza que sustenta este crecimiento genera desigualdad, hambre y muerte. Se aboga por una competitividad que supone igualar a la baja los derechos y libertades alcanzados en algunos pa\u00edses hasta alcanzar el nivel de aquellos m\u00e1s desfavorecidos.<br />\nAnte esto se hace necesario, m\u00e1s que nunca, el surgimiento de un nuevo modelo econ\u00f3mico que anteponga la cohesi\u00f3n y la solidaridad a la competitividad, el inter\u00e9s general al particular, y que suponga el efectivo cumplimiento en todo el mundo de los derechos de las personas, los pueblos y los ecosistemas en los cuales vivimos.<br />\n<strong>Qu\u00e9 es lo que realmente conseguir\u00e1n con la reforma</strong><br />\nHay que ser muy claros con la conclusi\u00f3n: la reforma, para aquello que dicen que servir\u00e1, ser\u00e1 completamente in\u00fatil. Servir\u00e1 para otra cosa, pero no para crear empleo ni para reactivar la econom\u00eda. Por tanto debemos analizar la reforma desde la perspectiva ideol\u00f3gica en que se inscribe. Y no tenemos que olvidar que esta reforma sigue la misma direcci\u00f3n que la que aprobada por el anterior gobierno en 2010 y que todas las reformas impuestas desde la aprobaci\u00f3n del Estatuto de los Trabajadores en 1980.<br />\nCon esta reforma laboral se abaratan los costes empresariales relacionados con el trabajo. Por un lado se reducen las indemnizaciones por despido y se abre la puerta a la posibilidad de reducir los salarios, y por otro lado se establecen bonificaciones y exenciones fiscales por la contrataci\u00f3n de trabajadores. La disminuci\u00f3n de costes conlleva un aumento del beneficio empresarial, que ser\u00e1 m\u00e1s ostensible en las empresas de mayor tama\u00f1o.<br />\nPero esta reforma no solo consigue aumentar los beneficios directos de las grandes empresas sino tambi\u00e9n su capacidad para imponer sus condiciones frente al trabajador. Las medidas para fomentar la flexibilidad interna y las reformas referentes a los Convenios Colectivos promueven una situaci\u00f3n de indefensi\u00f3n del trabajador frente a los intereses meramente empresariales. Esta reforma aborda los derechos laborales como un coste empresarial a reducir, en vez de como un derecho constitucional que protege a la ciudadan\u00eda.<br />\nTanto esta reforma como otras medidas decretadas por este y los anteriores gobiernos favorecen claramente a las grandes corporaciones, posibilitando el fortalecimiento de un oligopolio de grandes empresas multinacionales, y no son medidas adaptadas a las necesidades de las pymes ni los aut\u00f3nomos, ni mucho menos a las de los trabajadores. Si bien esta reforma laboral s\u00ed ofrece medidas que tambi\u00e9n favorecen a las pymes, el conjunto de la reforma establece un escenario en el que son las grandes empresas las que van a obtener una mejora sustancial de su situaci\u00f3n.<br />\nLa reducci\u00f3n del poder adquisitivo de los trabajadores y las familias que se promueve repercute directamente en un descenso de la demanda y el consumo, que como ha quedado demostrado, tiene una incidencia directa sobre la viabilidad de las pymes, que son mucho m\u00e1s vulnerables. Esto significa m\u00e1s desempleo y una mayor degradaci\u00f3n del tejido econ\u00f3mico. El apoyo a pymes y aut\u00f3nomos se puede hacer por otras v\u00edas que no conlleven el desmantelamiento de los derechos laborales y la reducci\u00f3n de la capacidad adquisitiva de las familias y de la demanda.<br />\nAs\u00ed, las medidas implementadas producir\u00e1n necesariamente una transferencia de renta de los trabajadores y pymes hacia las grandes empresas y fortunas: un avance m\u00e1s del capitalismo, un paso m\u00e1s en la estafa. Y todo ello avalado por pactos, leyes, instituciones y organismos internacionales. El Tratado de Maastrich (1992), el Pacto de estabilidad y crecimiento de Amsterdam (1997), la adopci\u00f3n de la Moneda \u00danica Europea (1999), el Tratado de Lisboa (2007), sustitutivo del fallido Tratado de la Constituci\u00f3n Europea, el Pacto por el Euro (2011) y el Pacto Fiscal (2012), firmados todos ellos sin consentimiento expreso de la ciudadan\u00eda, han supuesto una p\u00e9rdida progresiva de la soberan\u00eda popular a trav\u00e9s del sometimiento de las grandes decisiones a instancias como el Fondo Monetario Internacional o el Banco Central Europeo. La firma del Pacto por el Euro el pasado a\u00f1o impuso esta reforma laboral, as\u00ed como las reducciones en salarios y pensiones, la descentralizaci\u00f3n de convenios laborales, los recortes en gasto p\u00fablico, la privatizaci\u00f3n de servicios p\u00fablicos, la priorizaci\u00f3n del pago de la deuda ante otros gastos y el establecimiento de un techo al d\u00e9ficit.<br />\nEse es el objetivo ideol\u00f3gico que hay detr\u00e1s de esta reforma: una reivindicaci\u00f3n de clase, s\u00ed, pero de la clase empresarial olig\u00e1rquica.</p>\n<p>&nbsp;</p>\n<ul>\n<li>Enlace al <a title=\"Desmontando-la-mentira-de-su-reforma-laboral\" href=\"http://madrid.tomalaplaza.net/files/2012/03/Desmontando-la-mentira-de-su-reforma-laboral.pdf\" target=\"_blank\">documento original</a></li>\n</ul>\n",
     "protected": false
   },
   "excerpt": {
@@ -1217,14 +1169,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/posts/239/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 246,
-        "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/posts/239/revisions/246"
       }
     ],
     "wp:attachment": [
@@ -1319,14 +1265,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/posts/232/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 234,
-        "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/posts/232/revisions/234"
       }
     ],
     "wp:attachment": [
@@ -1416,14 +1356,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/pages/228/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 229,
-        "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/pages/228/revisions/229"
       }
     ],
     "up": [
@@ -1507,14 +1441,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/pages/226/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 227,
-        "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/pages/226/revisions/227"
       }
     ],
     "up": [
@@ -1598,14 +1526,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/pages/220/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 221,
-        "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/pages/220/revisions/221"
       }
     ],
     "up": [
@@ -1689,14 +1611,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/pages/218/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 219,
-        "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/pages/218/revisions/219"
       }
     ],
     "up": [
@@ -1780,14 +1696,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/pages/216/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 256,
-        "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/pages/216/revisions/256"
       }
     ],
     "up": [
@@ -1871,14 +1781,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/pages/214/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 215,
-        "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/pages/214/revisions/215"
       }
     ],
     "up": [
@@ -1962,14 +1866,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/pages/123/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 126,
-        "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/pages/123/revisions/126"
       }
     ],
     "wp:attachment": [
@@ -2047,14 +1945,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/pages/106/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 107,
-        "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/pages/106/revisions/107"
       }
     ],
     "wp:attachment": [
@@ -2132,14 +2024,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/pages/100/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 211,
-        "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/pages/100/revisions/211"
       }
     ],
     "wp:attachment": [
@@ -2217,14 +2103,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/pages/98/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 206,
-        "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/pages/98/revisions/206"
       }
     ],
     "wp:attachment": [
@@ -2257,11 +2137,11 @@
     "rendered": "Contactos"
   },
   "content": {
-    "rendered": "<p><strong>Econom\u00eda Sol:</strong></p>\n<ul>\n<li>Correo de contacto: acampadasol.economiaENgmail.com (sustituir &#8220;EN&#8221; por &#8220;@&#8221;)</li>\n</ul>\n<ul>\n<li><a title=\"P\u00e1gina del grupo en n-1\" href=\"https://n-1.cc/pg/groups/132804/grupo-trabajo-economia-sol/\" target=\"_blank\">P\u00e1gina del grupo en n-1:</a></li>\n</ul>\n<p>&nbsp;</p>\n<div role=\"form\" class=\"wpcf7\" id=\"wpcf7-f304-o1\" dir=\"ltr\">\n<div class=\"screen-reader-response\"></div>\n<form action=\"/?rest_route=%2Fwp%2Fv2%2Fpages%2F&#038;per_page=100&#038;page=1#wpcf7-f304-o1\" method=\"post\" class=\"wpcf7-form\" novalidate=\"novalidate\">\n<div style=\"display: none;\">\n<input type=\"hidden\" name=\"_wpcf7\" value=\"304\" />\n<input type=\"hidden\" name=\"_wpcf7_version\" value=\"5.1.1\" />\n<input type=\"hidden\" name=\"_wpcf7_locale\" value=\"\" />\n<input type=\"hidden\" name=\"_wpcf7_unit_tag\" value=\"wpcf7-f304-o1\" />\n<input type=\"hidden\" name=\"_wpcf7_container_post\" value=\"0\" />\n<input type=\"hidden\" name=\"g-recaptcha-response\" value=\"\" />\n</div>\n<p><strong>Para recibir soporte t\u00e9cnico sobre cuestiones relacionadas con el sitio, escribe tus datos:</strong></p>\n<p>Tu nombre (requerido)<br />\n    <span class=\"wpcf7-form-control-wrap your-name\"><input type=\"text\" name=\"your-name\" value=\"\" size=\"40\" class=\"wpcf7-form-control wpcf7-text wpcf7-validates-as-required\" aria-required=\"true\" aria-invalid=\"false\" /></span> </p>\n<p>Tu Email (requerido)<br />\n    <span class=\"wpcf7-form-control-wrap your-email\"><input type=\"email\" name=\"your-email\" value=\"\" size=\"40\" class=\"wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email\" aria-required=\"true\" aria-invalid=\"false\" /></span> </p>\n<p>Asunto<br />\n    <span class=\"wpcf7-form-control-wrap your-subject\"><input type=\"text\" name=\"your-subject\" value=\"\" size=\"40\" class=\"wpcf7-form-control wpcf7-text\" aria-invalid=\"false\" /></span> </p>\n<p>Tu Mensaje<br />\n    <span class=\"wpcf7-form-control-wrap your-message\"><textarea name=\"your-message\" cols=\"40\" rows=\"10\" class=\"wpcf7-form-control wpcf7-textarea\" aria-invalid=\"false\"></textarea></span> </p>\n<p><input type=\"submit\" value=\"Enviar\" class=\"wpcf7-form-control wpcf7-submit\" /></p>\n<div class=\"wpcf7-response-output wpcf7-display-none\"></div></form></div>\n",
+    "rendered": "<p><strong>Econom\u00eda Sol:</strong></p>\n<ul>\n<li>Correo de contacto: acampadasol.economiaENgmail.com (sustituir &#8220;EN&#8221; por &#8220;@&#8221;)</li>\n</ul>\n<ul>\n<li><a title=\"P\u00e1gina del grupo en n-1\" href=\"https://n-1.cc/pg/groups/132804/grupo-trabajo-economia-sol/\" target=\"_blank\">P\u00e1gina del grupo en n-1:</a></li>\n</ul>\n<p>&nbsp;</p>\n<div role=\"form\" class=\"wpcf7\" id=\"wpcf7-f304-o1\" dir=\"ltr\">\n<div class=\"screen-reader-response\"><p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"></p> <ul></ul></div>\n<form action=\"/?rest_route=%2Fwp%2Fv2%2Fpages%2F&#038;per_page=100&#038;page=1#wpcf7-f304-o1\" method=\"post\" class=\"wpcf7-form init\" novalidate=\"novalidate\" data-status=\"init\">\n<div style=\"display: none;\">\n<input type=\"hidden\" name=\"_wpcf7\" value=\"304\" />\n<input type=\"hidden\" name=\"_wpcf7_version\" value=\"5.3\" />\n<input type=\"hidden\" name=\"_wpcf7_locale\" value=\"\" />\n<input type=\"hidden\" name=\"_wpcf7_unit_tag\" value=\"wpcf7-f304-o1\" />\n<input type=\"hidden\" name=\"_wpcf7_container_post\" value=\"0\" />\n<input type=\"hidden\" name=\"_wpcf7_posted_data_hash\" value=\"\" />\n</div>\n<p><strong>Para recibir soporte t\u00e9cnico sobre cuestiones relacionadas con el sitio, escribe tus datos:</strong></p>\n<p>Tu nombre (requerido)<br />\n    <span class=\"wpcf7-form-control-wrap your-name\"><input type=\"text\" name=\"your-name\" value=\"\" size=\"40\" class=\"wpcf7-form-control wpcf7-text wpcf7-validates-as-required\" aria-required=\"true\" aria-invalid=\"false\" /></span> </p>\n<p>Tu Email (requerido)<br />\n    <span class=\"wpcf7-form-control-wrap your-email\"><input type=\"email\" name=\"your-email\" value=\"\" size=\"40\" class=\"wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email\" aria-required=\"true\" aria-invalid=\"false\" /></span> </p>\n<p>Asunto<br />\n    <span class=\"wpcf7-form-control-wrap your-subject\"><input type=\"text\" name=\"your-subject\" value=\"\" size=\"40\" class=\"wpcf7-form-control wpcf7-text\" aria-invalid=\"false\" /></span> </p>\n<p>Tu Mensaje<br />\n    <span class=\"wpcf7-form-control-wrap your-message\"><textarea name=\"your-message\" cols=\"40\" rows=\"10\" class=\"wpcf7-form-control wpcf7-textarea\" aria-invalid=\"false\"></textarea></span> </p>\n<p><input type=\"submit\" value=\"Enviar\" class=\"wpcf7-form-control wpcf7-submit\" /></p>\n<div class=\"wpcf7-response-output\" aria-hidden=\"true\"></div></form></div>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>Econom\u00eda Sol:</p>\n<p> Correo de contacto: acampadasol.economiaENgmail.com (sustituir &#8220;EN&#8221; por &#8220;@&#8221;) P\u00e1gina del grupo en n-1: </p>\n<p>&nbsp;</p>\n<p>Para recibir soporte t\u00e9cnico sobre cuestiones relacionadas con el sitio, escribe tus datos:</p>\n<p>Tu nombre (requerido) </p>\n<p>Tu Email (requerido) </p>\n<p>Asunto </p>\n<p>Tu Mensaje </p></p>\n",
+    "rendered": "<p>Econom\u00eda Sol:</p>\n<p> Correo de contacto: acampadasol.economiaENgmail.com (sustituir &#8220;EN&#8221; por &#8220;@&#8221;) P\u00e1gina del grupo en n-1: </p>\n<p>&nbsp;</p>\n<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\">\n<p>Para recibir soporte t\u00e9cnico sobre cuestiones relacionadas con el sitio, escribe tus datos:</p>\n<p>Tu nombre (requerido) </p>\n<p>Tu Email (requerido) </p>\n<p>Asunto </p>\n<p>Tu Mensaje </p></p>\n",
     "protected": false
   },
   "author": 896,
@@ -2302,14 +2182,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/pages/95/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 138,
-        "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/pages/95/revisions/138"
       }
     ],
     "wp:attachment": [
@@ -2387,14 +2261,8 @@
     ],
     "version-history": [
       {
-        "count": 7,
+        "count": 0,
         "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/pages/71/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 112,
-        "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/pages/71/revisions/112"
       }
     ],
     "wp:attachment": [
@@ -2472,14 +2340,8 @@
     ],
     "version-history": [
       {
-        "count": 7,
+        "count": 0,
         "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/pages/62/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 210,
-        "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/pages/62/revisions/210"
       }
     ],
     "wp:attachment": [
@@ -2562,14 +2424,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/posts/59/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 61,
-        "href": "https://economia.tomalaplaza.net/wp-json/wp/v2/posts/59/revisions/61"
       }
     ],
     "wp:attachment": [

@@ -24,7 +24,7 @@
   },
   "author": 614,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -65,14 +65,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/posts/31/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 32,
-        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/posts/31/revisions/32"
       }
     ],
     "wp:attachment": [
@@ -117,7 +111,7 @@
     "rendered": "Acta 10-9-2011"
   },
   "author": 614,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -179,7 +173,7 @@
     "rendered": "Acta 8"
   },
   "author": 614,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -241,7 +235,7 @@
     "rendered": "ACTA 7"
   },
   "author": 614,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -303,7 +297,7 @@
     "rendered": "ACTA 6"
   },
   "author": 614,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -376,7 +370,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -410,14 +404,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/pages/17/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 23,
-        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/pages/17/revisions/23"
       }
     ],
     "wp:attachment": [
@@ -459,7 +447,7 @@
   },
   "author": 614,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -500,14 +488,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/posts/6/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 28,
-        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/posts/6/revisions/28"
       }
     ],
     "wp:attachment": [
@@ -563,7 +545,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -597,14 +579,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/pages/2/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 3,
-        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/pages/2/revisions/3"
       }
     ],
     "wp:attachment": [
@@ -646,7 +622,7 @@
   },
   "author": 614,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -687,14 +663,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/posts/1/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 30,
-        "href": "https://nuevobaztan.tomalosbarrios.net/wp-json/wp/v2/posts/1/revisions/30"
       }
     ],
     "wp:attachment": [

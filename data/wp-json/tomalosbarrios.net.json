@@ -105,7 +105,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -139,14 +139,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://tomalosbarrios.net/wp-json/wp/v2/pages/60/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 64,
-        "href": "https://tomalosbarrios.net/wp-json/wp/v2/pages/60/revisions/64"
       }
     ],
     "wp:attachment": [
@@ -279,7 +273,7 @@
     "rendered": "cabecera_barrios.jpg"
   },
   "author": 9,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -379,7 +373,7 @@
     "rendered": "Al resto de ciudades, pueblos y municipios"
   },
   "content": {
-    "rendered": "<p>Desde la comisi\u00f3n de barrios animamos a que cunda el ejemplo de las asambleas populares madrile\u00f1as y se potencie la autoorganizaci\u00f3n horizontal y asamblearia all\u00ed donde sea posible.</p>\n<p>Desde nuestras modestas posiblidades, aquellas ciudades que deseeis tener un blog en .tomalosbarrios.net enviadnos un correo (nunca individual, siempre un correo de contacto colectivo) a <strong>apm-soporte[arroba]tomalosbarrios.net</strong> con asunto<strong> WEB OTROS</strong> (para saber que son peticiones de fuera de Madrid)</p>\n<p>De momento no disponemos de la infraestructura telem\u00e1tica ni de la suficiente gente como para crear y mantener blogs en pueblos y barrios del resto del Estado (solo con Madrid ya estamos &#171;entretenid@s&#187;), pero si podemos crear blogs para otras zonas y ciudades.</p>\n<p>Con el tiempo y mediante la autogesti\u00f3n y autoorganizaci\u00f3n tambi\u00e9n en lo telem\u00e1tico seguro que podemos ampliar nuestra capacidad de acci\u00f3n y dotar de infraestructuras telem\u00e1ticas a toda asamblea popular que lo requiera. Si teneis algo que aportar al respecto contactar con <a href=\"http://hacksol.tomalaplaza.net/\">[HackSol]</a></p>\n<div id=\"_mcePaste\" class=\"mcePaste\" style=\"position: absolute; left: -10000px; top: 181px; width: 1px; height: 1px; overflow: hidden;\">http://hacksol.tomalaplaza.net/cronologia-de-las-redes-el-movimiento-15m/</div>\n",
+    "rendered": "<p>Desde la comisi\u00f3n de barrios animamos a que cunda el ejemplo de las asambleas populares madrile\u00f1as y se potencie la autoorganizaci\u00f3n horizontal y asamblearia all\u00ed donde sea posible.</p>\n<p>Desde nuestras modestas posiblidades, aquellas ciudades que deseeis tener un blog en .tomalosbarrios.net enviadnos un correo (nunca individual, siempre un correo de contacto colectivo) a <strong>apm-soporte[arroba]tomalosbarrios.net</strong> con asunto<strong> WEB OTROS</strong> (para saber que son peticiones de fuera de Madrid)</p>\n<p>De momento no disponemos de la infraestructura telem\u00e1tica ni de la suficiente gente como para crear y mantener blogs en pueblos y barrios del resto del Estado (solo con Madrid ya estamos \u00abentretenid@s\u00bb), pero si podemos crear blogs para otras zonas y ciudades.</p>\n<p>Con el tiempo y mediante la autogesti\u00f3n y autoorganizaci\u00f3n tambi\u00e9n en lo telem\u00e1tico seguro que podemos ampliar nuestra capacidad de acci\u00f3n y dotar de infraestructuras telem\u00e1ticas a toda asamblea popular que lo requiera. Si teneis algo que aportar al respecto contactar con <a href=\"http://hacksol.tomalaplaza.net/\">[HackSol]</a></p>\n<div id=\"_mcePaste\" class=\"mcePaste\" style=\"position: absolute; left: -10000px; top: 181px; width: 1px; height: 1px; overflow: hidden;\">http://hacksol.tomalaplaza.net/cronologia-de-las-redes-el-movimiento-15m/</div>\n",
     "protected": false
   },
   "excerpt": {
@@ -388,7 +382,7 @@
   },
   "author": 9,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -430,14 +424,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://tomalosbarrios.net/wp-json/wp/v2/posts/33/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 36,
-        "href": "https://tomalosbarrios.net/wp-json/wp/v2/posts/33/revisions/36"
       }
     ],
     "wp:attachment": [
@@ -491,7 +479,7 @@
   },
   "author": 1,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -532,14 +520,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://tomalosbarrios.net/wp-json/wp/v2/posts/22/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 24,
-        "href": "https://tomalosbarrios.net/wp-json/wp/v2/posts/22/revisions/24"
       }
     ],
     "wp:attachment": [
@@ -593,7 +575,7 @@
   },
   "author": 2,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -634,14 +616,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://tomalosbarrios.net/wp-json/wp/v2/posts/17/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 19,
-        "href": "https://tomalosbarrios.net/wp-json/wp/v2/posts/17/revisions/19"
       }
     ],
     "wp:attachment": [
@@ -686,12 +662,12 @@
     "rendered": "tomalosbarrios"
   },
   "author": 2,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://tomalosbarrios.net/wp-content/uploads/2011/05/tomalosbarrios.jpg'><img width=\"300\" height=\"200\" src=\"https://tomalosbarrios.net/wp-content/uploads/2011/05/tomalosbarrios.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://tomalosbarrios.net/wp-content/uploads/2011/05/tomalosbarrios.jpg'><img width=\"300\" height=\"200\" src=\"https://tomalosbarrios.net/wp-content/uploads/2011/05/tomalosbarrios.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -780,7 +756,7 @@
     "rendered": "Avanzamos en los barrios de Madrid"
   },
   "content": {
-    "rendered": "<p>Comienzan coordinarse los barrios de madrid en <a href=\"http://madrid.tomalosbarrios.net\">http://madrid.tomalosbarrios.net</a></p>\n<p><a href=\"http://tomalosbarrios.net/wp-content/uploads/2011/05/tomalosbarrios.jpg\"><img class=\"alignnone size-full wp-image-12\" title=\"tomalosbarrios\" src=\"http://tomalosbarrios.net/wp-content/uploads/2011/05/tomalosbarrios.jpg\" alt=\"\" width=\"300\" height=\"200\" /></a></p>\n",
+    "rendered": "<p>Comienzan coordinarse los barrios de madrid en <a href=\"http://madrid.tomalosbarrios.net\">http://madrid.tomalosbarrios.net</a></p>\n<p><a href=\"http://tomalosbarrios.net/wp-content/uploads/2011/05/tomalosbarrios.jpg\"><img loading=\"lazy\" class=\"alignnone size-full wp-image-12\" title=\"tomalosbarrios\" src=\"http://tomalosbarrios.net/wp-content/uploads/2011/05/tomalosbarrios.jpg\" alt=\"\" width=\"300\" height=\"200\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -789,7 +765,7 @@
   },
   "author": 1,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -830,14 +806,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://tomalosbarrios.net/wp-json/wp/v2/posts/1/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 14,
-        "href": "https://tomalosbarrios.net/wp-json/wp/v2/posts/1/revisions/14"
       }
     ],
     "wp:attachment": [

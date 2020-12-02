@@ -15,7 +15,7 @@
     "rendered": "Toma la TV"
   },
   "author": 917,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -136,7 +136,7 @@
   },
   "author": 917,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -177,14 +177,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/340/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 350,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/340/revisions/350"
       }
     ],
     "wp:attachment": [
@@ -317,7 +311,7 @@
   },
   "author": 917,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -358,14 +352,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/325/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 328,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/325/revisions/328"
       }
     ],
     "wp:attachment": [
@@ -419,7 +407,7 @@
   },
   "author": 917,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -460,14 +448,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/319/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 323,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/319/revisions/323"
       }
     ],
     "wp:attachment": [
@@ -521,7 +503,7 @@
   },
   "author": 917,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -564,14 +546,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/313/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 318,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/313/revisions/318"
       }
     ],
     "wp:attachment": [
@@ -625,7 +601,7 @@
   },
   "author": 917,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -666,14 +642,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/306/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 310,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/306/revisions/310"
       }
     ],
     "wp:attachment": [
@@ -727,7 +697,7 @@
   },
   "author": 917,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -768,14 +738,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/302/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 304,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/302/revisions/304"
       }
     ],
     "wp:attachment": [
@@ -829,7 +793,7 @@
   },
   "author": 917,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -870,14 +834,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/294/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 299,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/294/revisions/299"
       }
     ],
     "wp:attachment": [
@@ -922,16 +880,16 @@
     "rendered": "Deudocracia"
   },
   "content": {
-    "rendered": "<p>http://www.youtube.com/watch?v=KX82sXKwaMg&#038;feature=player_embedded</p>\n<p>&#171;Debtocracy &#8211; \u03a7\u03c1\u03b5\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 &#8211; Deudocracia&#187; es un documental realizado por los periodistas griegos Katerina Kitidi y Ari Hatzistefanou, y distribuido en internet libremente por sus autores, que busca las causas de la crisis y de la deuda en Grecia, y que propone soluciones que el Gobierno y los medios de comunicaci\u00f3n dominantes ocultan.</p>\n<p>Muchas gracias a Brenda Vilinsky por aportar los textos de los fragmentos hablados en castellano y no subtitulados, y sugerirme que los insertara de algun modo para personas sordas. As\u00ed pues, he creado anotaciones, y en cada momento que desaparecen los subtitulos por o\u00edrse el idioma espa\u00f1ol, aparecer\u00e1n autom\u00e1ticamente unas anotaciones en forma de bocadillo con el texto incluido.</p>\n",
+    "rendered": "<p>http://www.youtube.com/watch?v=KX82sXKwaMg&#038;feature=player_embedded</p>\n<p>\u00abDebtocracy &#8211; \u03a7\u03c1\u03b5\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 &#8211; Deudocracia\u00bb es un documental realizado por los periodistas griegos Katerina Kitidi y Ari Hatzistefanou, y distribuido en internet libremente por sus autores, que busca las causas de la crisis y de la deuda en Grecia, y que propone soluciones que el Gobierno y los medios de comunicaci\u00f3n dominantes ocultan.</p>\n<p>Muchas gracias a Brenda Vilinsky por aportar los textos de los fragmentos hablados en castellano y no subtitulados, y sugerirme que los insertara de algun modo para personas sordas. As\u00ed pues, he creado anotaciones, y en cada momento que desaparecen los subtitulos por o\u00edrse el idioma espa\u00f1ol, aparecer\u00e1n autom\u00e1ticamente unas anotaciones en forma de bocadillo con el texto incluido.</p>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>http://www.youtube.com/watch?v=KX82sXKwaMg&#038;feature=player_embedded &#171;Debtocracy &#8211; \u03a7\u03c1\u03b5\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 &#8211; Deudocracia&#187; es un documental realizado por los periodistas griegos Katerina Kitidi y Ari Hatzistefanou, y distribuido en internet libremente por sus autores, que busca las causas de la crisis y de la deuda en Grecia, &hellip; <a href=\"https://becerril.tomalosbarrios.net/2012/02/05/deudocracia/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+    "rendered": "<p>http://www.youtube.com/watch?v=KX82sXKwaMg&#038;feature=player_embedded \u00abDebtocracy &#8211; \u03a7\u03c1\u03b5\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 &#8211; Deudocracia\u00bb es un documental realizado por los periodistas griegos Katerina Kitidi y Ari Hatzistefanou, y distribuido en internet libremente por sus autores, que busca las causas de la crisis y de la deuda en Grecia, &hellip; <a href=\"https://becerril.tomalosbarrios.net/2012/02/05/deudocracia/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
     "protected": false
   },
   "author": 917,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -972,14 +930,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/287/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 292,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/287/revisions/292"
       }
     ],
     "wp:attachment": [
@@ -1033,7 +985,7 @@
   },
   "author": 917,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1074,14 +1026,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/280/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 284,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/280/revisions/284"
       }
     ],
     "wp:attachment": [
@@ -1135,7 +1081,7 @@
   },
   "author": 97,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1176,14 +1122,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/276/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 279,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/276/revisions/279"
       }
     ],
     "wp:attachment": [
@@ -1237,7 +1177,7 @@
   },
   "author": 917,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1279,14 +1219,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/271/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 275,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/271/revisions/275"
       }
     ],
     "wp:attachment": [
@@ -1331,12 +1265,12 @@
     "rendered": "Intercambios"
   },
   "author": 917,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/11/DSC_0032.jpg'><img width=\"300\" height=\"199\" src=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0032-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"...con sentido del humor.\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0032-300x199.jpg 300w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0032-1024x680.jpg 1024w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0032.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/11/DSC_0032.jpg'><img width=\"300\" height=\"199\" src=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0032-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"...con sentido del humor.\" loading=\"lazy\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0032-300x199.jpg 300w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0032-1024x680.jpg 1024w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0032.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -1443,12 +1377,12 @@
     "rendered": "Asistentes"
   },
   "author": 917,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/11/DSC_0027.jpg'><img width=\"300\" height=\"199\" src=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0027-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"Gran participaci\u00f3n de los asistentes\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0027-300x199.jpg 300w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0027-1024x680.jpg 1024w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0027.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/11/DSC_0027.jpg'><img width=\"300\" height=\"199\" src=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0027-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"Gran participaci\u00f3n de los asistentes\" loading=\"lazy\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0027-300x199.jpg 300w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0027-1024x680.jpg 1024w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0027.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -1555,12 +1489,12 @@
     "rendered": "Pizarra"
   },
   "author": 917,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/11/DSC_0026.jpg'><img width=\"300\" height=\"199\" src=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0026-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"Pizarra donde apuntar posibles intercambios\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0026-300x199.jpg 300w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0026-1024x680.jpg 1024w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0026.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/11/DSC_0026.jpg'><img width=\"300\" height=\"199\" src=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0026-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"Pizarra donde apuntar posibles intercambios\" loading=\"lazy\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0026-300x199.jpg 300w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0026-1024x680.jpg 1024w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0026.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -1667,12 +1601,12 @@
     "rendered": "Truecadillo Becerril de la Sierra"
   },
   "author": 917,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/11/DSC_0025.jpg'><img width=\"300\" height=\"199\" src=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0025-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"Pizarr\u00edn anunciado el evento\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0025-300x199.jpg 300w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0025-1024x680.jpg 1024w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0025.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/11/DSC_0025.jpg'><img width=\"300\" height=\"199\" src=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0025-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"Pizarr\u00edn anunciado el evento\" loading=\"lazy\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0025-300x199.jpg 300w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0025-1024x680.jpg 1024w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0025.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -1779,12 +1713,12 @@
     "rendered": "Talleres &#8211; Bolas de navidad"
   },
   "author": 917,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/11/DSC_0022.jpg'><img width=\"300\" height=\"199\" src=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0022-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"CDs terminados y decorando los \u00e1rboles\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0022-300x199.jpg 300w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0022-1024x680.jpg 1024w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0022.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/11/DSC_0022.jpg'><img width=\"300\" height=\"199\" src=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0022-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"CDs terminados y decorando los \u00e1rboles\" loading=\"lazy\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0022-300x199.jpg 300w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0022-1024x680.jpg 1024w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0022.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -1891,12 +1825,12 @@
     "rendered": "Talleres &#8211; Setas"
   },
   "author": 917,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/11/DSC_0014.jpg'><img width=\"300\" height=\"199\" src=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0014-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"Esperando a que seque la pintura\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0014-300x199.jpg 300w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0014-1024x680.jpg 1024w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0014.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/11/DSC_0014.jpg'><img width=\"300\" height=\"199\" src=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0014-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"Esperando a que seque la pintura\" loading=\"lazy\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0014-300x199.jpg 300w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0014-1024x680.jpg 1024w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0014.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2003,12 +1937,12 @@
     "rendered": "Talleres &#8211; Bolas de navidad"
   },
   "author": 917,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/11/DSC_0012.jpg'><img width=\"199\" height=\"300\" src=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0012-199x300.jpg\" class=\"attachment-medium size-medium\" alt=\"Decoaraci\u00f3n de CDs para el \u00e1rbol de navidad\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0012-199x300.jpg 199w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0012-680x1024.jpg 680w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0012.jpg 1200w\" sizes=\"(max-width: 199px) 100vw, 199px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/11/DSC_0012.jpg'><img width=\"199\" height=\"300\" src=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0012-199x300.jpg\" class=\"attachment-medium size-medium\" alt=\"Decoaraci\u00f3n de CDs para el \u00e1rbol de navidad\" loading=\"lazy\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0012-199x300.jpg 199w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0012-680x1024.jpg 680w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0012.jpg 1200w\" sizes=\"(max-width: 199px) 100vw, 199px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2115,12 +2049,12 @@
     "rendered": "comida"
   },
   "author": 917,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/11/DSC_0011.jpg'><img width=\"300\" height=\"199\" src=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0011-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0011-300x199.jpg 300w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0011-1024x680.jpg 1024w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0011.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/11/DSC_0011.jpg'><img width=\"300\" height=\"199\" src=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0011-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0011-300x199.jpg 300w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0011-1024x680.jpg 1024w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0011.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2227,12 +2161,12 @@
     "rendered": "Talleres &#8211; Seta"
   },
   "author": 917,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/11/DSC_0010.jpg'><img width=\"300\" height=\"199\" src=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0010-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"Seta termianda\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0010-300x199.jpg 300w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0010-1024x680.jpg 1024w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0010.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/11/DSC_0010.jpg'><img width=\"300\" height=\"199\" src=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0010-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"Seta termianda\" loading=\"lazy\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0010-300x199.jpg 300w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0010-1024x680.jpg 1024w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0010.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2339,12 +2273,12 @@
     "rendered": "Talleres &#8211; setas"
   },
   "author": 917,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/11/DSC_0009.jpg'><img width=\"199\" height=\"300\" src=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0009-199x300.jpg\" class=\"attachment-medium size-medium\" alt=\"Pintando los cartones\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0009-199x300.jpg 199w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0009-680x1024.jpg 680w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0009.jpg 1200w\" sizes=\"(max-width: 199px) 100vw, 199px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/11/DSC_0009.jpg'><img width=\"199\" height=\"300\" src=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0009-199x300.jpg\" class=\"attachment-medium size-medium\" alt=\"Pintando los cartones\" loading=\"lazy\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0009-199x300.jpg 199w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0009-680x1024.jpg 680w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0009.jpg 1200w\" sizes=\"(max-width: 199px) 100vw, 199px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2451,12 +2385,12 @@
     "rendered": "Cosas para intercambiar"
   },
   "author": 917,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/11/DSC_0001.jpg'><img width=\"300\" height=\"199\" src=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0001-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"Muebles\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0001-300x199.jpg 300w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0001-1024x680.jpg 1024w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0001.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>Alguna de las cosas que llevaron los asistentes para intercambiar</p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/11/DSC_0001.jpg'><img width=\"300\" height=\"199\" src=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0001-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"Muebles\" loading=\"lazy\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0001-300x199.jpg 300w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0001-1024x680.jpg 1024w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0001.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>Alguna de las cosas que llevaron los asistentes para intercambiar</p>\n"
   },
   "caption": {
     "rendered": "<p>Alguna de las cosas que llevaron los asistentes para intercambiar</p>\n"
@@ -2563,7 +2497,7 @@
     "rendered": "Truekadillo"
   },
   "content": {
-    "rendered": "<p>Algunas de las fotos realizadas ayer en el Truecadillo de Becerril de la Sierra:</p>\n<p><a href=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0025.jpg\"><img class=\"aligncenter size-large wp-image-266\" src=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0025-1024x680.jpg\" alt=\"Pizarr\u00edn anunciado el evento\" width=\"640\" height=\"425\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0025-1024x680.jpg 1024w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0025-300x199.jpg 300w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0025.jpg 1200w\" sizes=\"(max-width: 640px) 100vw, 640px\" /></a></p>\n<p style=\"text-align: center\"><em>Pizarra anunciando el evento.</em></p>\n<p style=\"text-align: left\">Realizamos talleres infantiles con materiales reciclados como CDs o rollos de papel higienico:</p>\n<p style=\"text-align: left\"><a href=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0009.jpg\"><img class=\"aligncenter size-large wp-image-260\" src=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0009-680x1024.jpg\" alt=\"Pintando los cartones\" width=\"640\" height=\"963\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0009-680x1024.jpg 680w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0009-199x300.jpg 199w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0009.jpg 1200w\" sizes=\"(max-width: 640px) 100vw, 640px\" /></a><a href=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0014.jpg\"><img class=\"aligncenter size-large wp-image-264\" src=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0014-1024x680.jpg\" alt=\"Esperando a que seque la pintura\" width=\"640\" height=\"425\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0014-1024x680.jpg 1024w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0014-300x199.jpg 300w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0014.jpg 1200w\" sizes=\"(max-width: 640px) 100vw, 640px\" /></a></p>\n<p><a href=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0010.jpg\"><img src=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0010-1024x680.jpg\" alt=\"Seta termianda\" width=\"640\" height=\"425\" /></a></p>\n<p><a href=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0012.jpg\"><img class=\"aligncenter size-large wp-image-263\" src=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0012-680x1024.jpg\" alt=\"Decoaraci\u00f3n de CDs para el \u00e1rbol de navidad\" width=\"640\" height=\"963\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0012-680x1024.jpg 680w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0012-199x300.jpg 199w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0012.jpg 1200w\" sizes=\"(max-width: 640px) 100vw, 640px\" /></a><a href=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0022.jpg\"><img class=\"aligncenter size-large wp-image-265\" src=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0022-1024x680.jpg\" alt=\"CDs terminados y decorando los \u00e1rboles\" width=\"640\" height=\"425\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0022-1024x680.jpg 1024w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0022-300x199.jpg 300w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0022.jpg 1200w\" sizes=\"(max-width: 640px) 100vw, 640px\" /></a>Tambi\u00e9n trocamos y compartimos comida, bebidas, recetas y alegr\u00eda:</p>\n<p><a href=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0026.jpg\"><img class=\"aligncenter size-large wp-image-267\" src=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0026-1024x680.jpg\" alt=\"Pizarra donde apuntar posibles intercambios\" width=\"640\" height=\"425\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0026-1024x680.jpg 1024w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0026-300x199.jpg 300w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0026.jpg 1200w\" sizes=\"(max-width: 640px) 100vw, 640px\" /></a></p>\n<p><a href=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0011.jpg\"><img class=\"aligncenter size-large wp-image-262\" src=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0011-1024x680.jpg\" alt=\"\" width=\"640\" height=\"425\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0011-1024x680.jpg 1024w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0011-300x199.jpg 300w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0011.jpg 1200w\" sizes=\"(max-width: 640px) 100vw, 640px\" /></a><a href=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0027.jpg\"><img class=\"aligncenter size-large wp-image-268\" src=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0027-1024x680.jpg\" alt=\"Gran participaci\u00f3n de los asistentes\" width=\"640\" height=\"425\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0027-1024x680.jpg 1024w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0027-300x199.jpg 300w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0027.jpg 1200w\" sizes=\"(max-width: 640px) 100vw, 640px\" /></a>y mucho sentido del humor:</p>\n<p><a href=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0032.jpg\"><img src=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0032-1024x680.jpg\" alt=\"...con sentido del humor.\" width=\"640\" height=\"425\" /></a></p>\n",
+    "rendered": "<p>Algunas de las fotos realizadas ayer en el Truecadillo de Becerril de la Sierra:</p>\n<p><a href=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0025.jpg\"><img loading=\"lazy\" class=\"aligncenter size-large wp-image-266\" src=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0025-1024x680.jpg\" alt=\"Pizarr\u00edn anunciado el evento\" width=\"640\" height=\"425\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0025-1024x680.jpg 1024w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0025-300x199.jpg 300w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0025.jpg 1200w\" sizes=\"(max-width: 640px) 100vw, 640px\" /></a></p>\n<p style=\"text-align: center\"><em>Pizarra anunciando el evento.</em></p>\n<p style=\"text-align: left\">Realizamos talleres infantiles con materiales reciclados como CDs o rollos de papel higienico:</p>\n<p style=\"text-align: left\"><a href=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0009.jpg\"><img loading=\"lazy\" class=\"aligncenter size-large wp-image-260\" src=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0009-680x1024.jpg\" alt=\"Pintando los cartones\" width=\"640\" height=\"963\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0009-680x1024.jpg 680w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0009-199x300.jpg 199w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0009.jpg 1200w\" sizes=\"(max-width: 640px) 100vw, 640px\" /></a><a href=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0014.jpg\"><img loading=\"lazy\" class=\"aligncenter size-large wp-image-264\" src=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0014-1024x680.jpg\" alt=\"Esperando a que seque la pintura\" width=\"640\" height=\"425\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0014-1024x680.jpg 1024w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0014-300x199.jpg 300w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0014.jpg 1200w\" sizes=\"(max-width: 640px) 100vw, 640px\" /></a></p>\n<p><a href=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0010.jpg\"><img loading=\"lazy\" src=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0010-1024x680.jpg\" alt=\"Seta termianda\" width=\"640\" height=\"425\" /></a></p>\n<p><a href=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0012.jpg\"><img loading=\"lazy\" class=\"aligncenter size-large wp-image-263\" src=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0012-680x1024.jpg\" alt=\"Decoaraci\u00f3n de CDs para el \u00e1rbol de navidad\" width=\"640\" height=\"963\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0012-680x1024.jpg 680w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0012-199x300.jpg 199w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0012.jpg 1200w\" sizes=\"(max-width: 640px) 100vw, 640px\" /></a><a href=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0022.jpg\"><img loading=\"lazy\" class=\"aligncenter size-large wp-image-265\" src=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0022-1024x680.jpg\" alt=\"CDs terminados y decorando los \u00e1rboles\" width=\"640\" height=\"425\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0022-1024x680.jpg 1024w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0022-300x199.jpg 300w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0022.jpg 1200w\" sizes=\"(max-width: 640px) 100vw, 640px\" /></a>Tambi\u00e9n trocamos y compartimos comida, bebidas, recetas y alegr\u00eda:</p>\n<p><a href=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0026.jpg\"><img loading=\"lazy\" class=\"aligncenter size-large wp-image-267\" src=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0026-1024x680.jpg\" alt=\"Pizarra donde apuntar posibles intercambios\" width=\"640\" height=\"425\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0026-1024x680.jpg 1024w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0026-300x199.jpg 300w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0026.jpg 1200w\" sizes=\"(max-width: 640px) 100vw, 640px\" /></a></p>\n<p><a href=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0011.jpg\"><img loading=\"lazy\" class=\"aligncenter size-large wp-image-262\" src=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0011-1024x680.jpg\" alt=\"\" width=\"640\" height=\"425\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0011-1024x680.jpg 1024w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0011-300x199.jpg 300w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0011.jpg 1200w\" sizes=\"(max-width: 640px) 100vw, 640px\" /></a><a href=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0027.jpg\"><img loading=\"lazy\" class=\"aligncenter size-large wp-image-268\" src=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0027-1024x680.jpg\" alt=\"Gran participaci\u00f3n de los asistentes\" width=\"640\" height=\"425\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/DSC_0027-1024x680.jpg 1024w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0027-300x199.jpg 300w, https://becerril.tomalosbarrios.net/files/2011/11/DSC_0027.jpg 1200w\" sizes=\"(max-width: 640px) 100vw, 640px\" /></a>y mucho sentido del humor:</p>\n<p><a href=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0032.jpg\"><img loading=\"lazy\" src=\"http://becerril.tomalosbarrios.net/files/2011/11/DSC_0032-1024x680.jpg\" alt=\"...con sentido del humor.\" width=\"640\" height=\"425\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -2572,7 +2506,7 @@
   },
   "author": 917,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2614,14 +2548,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/256/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 270,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/256/revisions/270"
       }
     ],
     "wp:attachment": [
@@ -2666,12 +2594,12 @@
     "rendered": "cartel-marchas-20111127_red"
   },
   "author": 917,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/11/cartel-marchas-20111127_red.jpg'><img width=\"208\" height=\"300\" src=\"https://becerril.tomalosbarrios.net/files/2011/11/cartel-marchas-20111127_red-208x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/cartel-marchas-20111127_red-208x300.jpg 208w, https://becerril.tomalosbarrios.net/files/2011/11/cartel-marchas-20111127_red-710x1024.jpg 710w, https://becerril.tomalosbarrios.net/files/2011/11/cartel-marchas-20111127_red.jpg 1061w\" sizes=\"(max-width: 208px) 100vw, 208px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/11/cartel-marchas-20111127_red.jpg'><img width=\"208\" height=\"300\" src=\"https://becerril.tomalosbarrios.net/files/2011/11/cartel-marchas-20111127_red-208x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/cartel-marchas-20111127_red-208x300.jpg 208w, https://becerril.tomalosbarrios.net/files/2011/11/cartel-marchas-20111127_red-710x1024.jpg 710w, https://becerril.tomalosbarrios.net/files/2011/11/cartel-marchas-20111127_red.jpg 1061w\" sizes=\"(max-width: 208px) 100vw, 208px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2778,7 +2706,7 @@
     "rendered": "Marcha Anticrisis"
   },
   "content": {
-    "rendered": "<p><a href=\"http://becerril.tomalosbarrios.net/files/2011/11/cartel-marchas-20111127_red.jpg\"><img class=\"aligncenter size-large wp-image-253\" src=\"http://becerril.tomalosbarrios.net/files/2011/11/cartel-marchas-20111127_red-710x1024.jpg\" alt=\"\" width=\"640\" height=\"923\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/cartel-marchas-20111127_red-710x1024.jpg 710w, https://becerril.tomalosbarrios.net/files/2011/11/cartel-marchas-20111127_red-208x300.jpg 208w, https://becerril.tomalosbarrios.net/files/2011/11/cartel-marchas-20111127_red.jpg 1061w\" sizes=\"(max-width: 640px) 100vw, 640px\" /></a></p>\n",
+    "rendered": "<p><a href=\"http://becerril.tomalosbarrios.net/files/2011/11/cartel-marchas-20111127_red.jpg\"><img loading=\"lazy\" class=\"aligncenter size-large wp-image-253\" src=\"http://becerril.tomalosbarrios.net/files/2011/11/cartel-marchas-20111127_red-710x1024.jpg\" alt=\"\" width=\"640\" height=\"923\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/cartel-marchas-20111127_red-710x1024.jpg 710w, https://becerril.tomalosbarrios.net/files/2011/11/cartel-marchas-20111127_red-208x300.jpg 208w, https://becerril.tomalosbarrios.net/files/2011/11/cartel-marchas-20111127_red.jpg 1061w\" sizes=\"(max-width: 640px) 100vw, 640px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -2787,7 +2715,7 @@
   },
   "author": 917,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2828,14 +2756,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/250/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 255,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/250/revisions/255"
       }
     ],
     "wp:attachment": [
@@ -2880,12 +2802,12 @@
     "rendered": "Cartel-truekadillo"
   },
   "author": 917,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/11/Cartel-truekadillo.jpg'><img width=\"215\" height=\"300\" src=\"https://becerril.tomalosbarrios.net/files/2011/11/Cartel-truekadillo-215x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/Cartel-truekadillo-215x300.jpg 215w, https://becerril.tomalosbarrios.net/files/2011/11/Cartel-truekadillo-735x1024.jpg 735w\" sizes=\"(max-width: 215px) 100vw, 215px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/11/Cartel-truekadillo.jpg'><img width=\"215\" height=\"300\" src=\"https://becerril.tomalosbarrios.net/files/2011/11/Cartel-truekadillo-215x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/Cartel-truekadillo-215x300.jpg 215w, https://becerril.tomalosbarrios.net/files/2011/11/Cartel-truekadillo-735x1024.jpg 735w\" sizes=\"(max-width: 215px) 100vw, 215px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2992,7 +2914,7 @@
     "rendered": "Cartel truekadillo"
   },
   "author": 917,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3054,7 +2976,7 @@
     "rendered": "Truekadillo"
   },
   "content": {
-    "rendered": "<p><a href=\"http://becerril.tomalosbarrios.net/files/2011/11/Cartel-truekadillo.jpg\"><img class=\"aligncenter size-large wp-image-247\" src=\"http://becerril.tomalosbarrios.net/files/2011/11/Cartel-truekadillo-735x1024.jpg\" alt=\"\" width=\"640\" height=\"891\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/Cartel-truekadillo-735x1024.jpg 735w, https://becerril.tomalosbarrios.net/files/2011/11/Cartel-truekadillo-215x300.jpg 215w\" sizes=\"(max-width: 640px) 100vw, 640px\" /></a></p>\n",
+    "rendered": "<p><a href=\"http://becerril.tomalosbarrios.net/files/2011/11/Cartel-truekadillo.jpg\"><img loading=\"lazy\" class=\"aligncenter size-large wp-image-247\" src=\"http://becerril.tomalosbarrios.net/files/2011/11/Cartel-truekadillo-735x1024.jpg\" alt=\"\" width=\"640\" height=\"891\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/Cartel-truekadillo-735x1024.jpg 735w, https://becerril.tomalosbarrios.net/files/2011/11/Cartel-truekadillo-215x300.jpg 215w\" sizes=\"(max-width: 640px) 100vw, 640px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -3063,7 +2985,7 @@
   },
   "author": 917,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3104,14 +3026,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/242/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 249,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/242/revisions/249"
       }
     ],
     "wp:attachment": [
@@ -3156,12 +3072,12 @@
     "rendered": "Erecciones_02"
   },
   "author": 917,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/11/Erecciones_02.gif'><img width=\"300\" height=\"229\" src=\"https://becerril.tomalosbarrios.net/files/2011/11/Erecciones_02-300x229.gif\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/Erecciones_02-300x229.gif 300w, https://becerril.tomalosbarrios.net/files/2011/11/Erecciones_02.gif 989w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/11/Erecciones_02.gif'><img width=\"300\" height=\"229\" src=\"https://becerril.tomalosbarrios.net/files/2011/11/Erecciones_02-300x229.gif\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/Erecciones_02-300x229.gif 300w, https://becerril.tomalosbarrios.net/files/2011/11/Erecciones_02.gif 989w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3262,7 +3178,7 @@
     "rendered": "Resultado de las elecciones en Becerril de la Sierra"
   },
   "content": {
-    "rendered": "<p><a href=\"http://becerril.tomalosbarrios.net/files/2011/11/Erecciones_02.gif\"><img class=\"aligncenter size-full wp-image-238\" src=\"http://becerril.tomalosbarrios.net/files/2011/11/Erecciones_02.gif\" alt=\"\" width=\"989\" height=\"755\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/Erecciones_02.gif 989w, https://becerril.tomalosbarrios.net/files/2011/11/Erecciones_02-300x229.gif 300w\" sizes=\"(max-width: 989px) 100vw, 989px\" /></a></p>\n<p>Fuente: <a href=\"http://www.elmundo.es/elecciones/elecciones-generales/2011/resultados/2011/congreso/12/28/p018.html\">El Mundo</a></p>\n",
+    "rendered": "<p><a href=\"http://becerril.tomalosbarrios.net/files/2011/11/Erecciones_02.gif\"><img loading=\"lazy\" class=\"aligncenter size-full wp-image-238\" src=\"http://becerril.tomalosbarrios.net/files/2011/11/Erecciones_02.gif\" alt=\"\" width=\"989\" height=\"755\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/Erecciones_02.gif 989w, https://becerril.tomalosbarrios.net/files/2011/11/Erecciones_02-300x229.gif 300w\" sizes=\"(max-width: 989px) 100vw, 989px\" /></a></p>\n<p>Fuente: <a href=\"http://www.elmundo.es/elecciones/elecciones-generales/2011/resultados/2011/congreso/12/28/p018.html\">El Mundo</a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -3271,7 +3187,7 @@
   },
   "author": 917,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3312,14 +3228,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/235/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 240,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/235/revisions/240"
       }
     ],
     "wp:attachment": [
@@ -3364,12 +3274,12 @@
     "rendered": "parlamento"
   },
   "author": 917,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/11/parlamento.gif'><img width=\"300\" height=\"300\" src=\"https://becerril.tomalosbarrios.net/files/2011/11/parlamento-300x300.gif\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/parlamento-300x300.gif 300w, https://becerril.tomalosbarrios.net/files/2011/11/parlamento-150x150.gif 150w, https://becerril.tomalosbarrios.net/files/2011/11/parlamento.gif 645w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/11/parlamento.gif'><img width=\"300\" height=\"300\" src=\"https://becerril.tomalosbarrios.net/files/2011/11/parlamento-300x300.gif\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/parlamento-300x300.gif 300w, https://becerril.tomalosbarrios.net/files/2011/11/parlamento-150x150.gif 150w, https://becerril.tomalosbarrios.net/files/2011/11/parlamento.gif 645w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3470,7 +3380,7 @@
     "rendered": "As\u00ed quedar\u00eda el congreso&#8230;"
   },
   "content": {
-    "rendered": "<p><a href=\"http://becerril.tomalosbarrios.net/files/2011/11/parlamento.gif\"><img class=\"aligncenter size-full wp-image-232\" src=\"http://becerril.tomalosbarrios.net/files/2011/11/parlamento.gif\" alt=\"\" width=\"645\" height=\"645\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/parlamento.gif 645w, https://becerril.tomalosbarrios.net/files/2011/11/parlamento-150x150.gif 150w, https://becerril.tomalosbarrios.net/files/2011/11/parlamento-300x300.gif 300w\" sizes=\"(max-width: 645px) 100vw, 645px\" /></a></p>\n",
+    "rendered": "<p><a href=\"http://becerril.tomalosbarrios.net/files/2011/11/parlamento.gif\"><img loading=\"lazy\" class=\"aligncenter size-full wp-image-232\" src=\"http://becerril.tomalosbarrios.net/files/2011/11/parlamento.gif\" alt=\"\" width=\"645\" height=\"645\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/11/parlamento.gif 645w, https://becerril.tomalosbarrios.net/files/2011/11/parlamento-150x150.gif 150w, https://becerril.tomalosbarrios.net/files/2011/11/parlamento-300x300.gif 300w\" sizes=\"(max-width: 645px) 100vw, 645px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -3479,7 +3389,7 @@
   },
   "author": 917,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3520,14 +3430,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/229/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 233,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/229/revisions/233"
       }
     ],
     "wp:attachment": [
@@ -3581,7 +3485,7 @@
   },
   "author": 917,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3622,14 +3526,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/224/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 228,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/224/revisions/228"
       }
     ],
     "wp:attachment": [
@@ -3683,7 +3581,7 @@
   },
   "author": 917,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3724,14 +3622,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/213/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 223,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/213/revisions/223"
       }
     ],
     "wp:attachment": [
@@ -3776,7 +3668,7 @@
     "rendered": "marchaindignados"
   },
   "author": 621,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3888,7 +3780,7 @@
     "rendered": "Asamblea del 19 de Julio: jornada de trabajo"
   },
   "content": {
-    "rendered": "<p>Para los que no os pudisteis pasar&#8230; os contamos que el martes 19 de Julio en lugar de celebrar la Asamblea Popular que normalmente tiene lugar en la plaza, dedicamos esas horas a trabajar conjuntamente en la creaci\u00f3n de una pancarta con el texto: &#171;ASAMBLEA POPULAR BECERRIL\u00a0&#8211; 15M&#187;&#8230; ya podemos dejar constancia de\u00a0nuestra presencia en cualquier acto que se organice :\u00b7)<br />\nNinguno nos acordamos de llevar c\u00e1mara, as\u00ed que no hay documento gr\u00e1fico, \u00a0pero\u00a0os cuento que\u00a0se cre\u00f3 un ambiente altamente\u00a0motivador y gratificante. Por otro lado, estar en la plaza trabajando demostr\u00f3, a los ojos de todos lo que por all\u00ed pasaron,\u00a0que el 15M sigue vivo y coleando.</p>\n",
+    "rendered": "<p>Para los que no os pudisteis pasar&#8230; os contamos que el martes 19 de Julio en lugar de celebrar la Asamblea Popular que normalmente tiene lugar en la plaza, dedicamos esas horas a trabajar conjuntamente en la creaci\u00f3n de una pancarta con el texto: \u00abASAMBLEA POPULAR BECERRIL\u00a0&#8211; 15M\u00bb&#8230; ya podemos dejar constancia de\u00a0nuestra presencia en cualquier acto que se organice :\u00b7)<br />\nNinguno nos acordamos de llevar c\u00e1mara, as\u00ed que no hay documento gr\u00e1fico, \u00a0pero\u00a0os cuento que\u00a0se cre\u00f3 un ambiente altamente\u00a0motivador y gratificante. Por otro lado, estar en la plaza trabajando demostr\u00f3, a los ojos de todos lo que por all\u00ed pasaron,\u00a0que el 15M sigue vivo y coleando.</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -3897,7 +3789,7 @@
   },
   "author": 621,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3938,14 +3830,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/199/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 200,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/199/revisions/200"
       }
     ],
     "wp:attachment": [
@@ -3990,7 +3876,7 @@
     "rendered": "Bienvenida a la Marcha Indignada: Nos vemos en Villalba"
   },
   "content": {
-    "rendered": "<p>Ma\u00f1ana, jueves 21, llega a Villalba la Marcha Popular Indignada,\u00a0que comenz\u00f3 el 19 de Junio desde varias ciudades y que llegar\u00e1 el 23 a Madrid. Queremos que, a su paso por Villalba, se sientan apoyados y\u00a0como en casa. \u00bfQu\u00e9 podemos hacer?</p>\n<p>\u00c1ngeles nos cuenta todo lo que se habl\u00f3 en la Asamblea de Villalba del s\u00e1bado 16 referente a\u00a0la llegada:<br />\n<em>&#171;En la Asamblea de la ma\u00f1ana se habl\u00f3 de la ruta m\u00e1s conveniente a seguir por la marcha que viene del noroeste en direcci\u00f3n a Majadahonda desde Collado Villalba. Hubo varias propuestas, pero se acord\u00f3, una vez valorado los pros y los contras de cada ruta propuesta que la que pasa por el puerto de Galapagar-Las Rozas-Majadahonda y la que pasa por la carretera de servicio, paralela a la carretera de La Coru\u00f1a, C.Villalba-Torrelodones-Las Rozas-Majadahonda, ser\u00edan las id\u00f3neas.\u00a0 Y esto se hizo porque desde Sol as\u00ed se solicit\u00f3 a los asamblearios de esta zona noroeste.</em><br />\n<em>Tambi\u00e9n se trat\u00f3 de la recogida de alimentos, voluntariado para la organizaci\u00f3n de acogida y atenci\u00f3n a los participantes de la marcha y de las necesidades b\u00e1sicas que conlleva un evento de estas caracter\u00edsticas. Y parece ser que el Ayuntamiento de C.Villalba estaba dispuesto a ceder las duchas de alg\u00fan Centro educativo o deportivo a cambio de que hubi\u00e9ra personas dispuestas a limpiar las instalaciones cedidas.</em><br />\n<em>\u00a0</em><br />\n<em>En la Asamblea de la tarde se trataron los mismos temas porque era una Asamblea para los asamblearios de los pueblos colindantes y de la zona.\u00a0 Se a\u00f1adi\u00f3, a todo lo anteriormente expuesto, la necesidad de alimentos, agua, servilletas, cubiertos, vasos, cubos, fregonas, mesas plegables, y todo aquello que se comprenda necesario en estos casos. Se pidi\u00f3 que cada uno de nosotros que acudiera a la cita llevara una barra de pan (del mismo d\u00eda) y que, a poder ser, nos pusi\u00e9ramos un chaleco reflectante (como el de los coches) y alguna identificaci\u00f3n &#171;15-M&#187; para la mejor localizaci\u00f3n del personal por parte de los &#171;15emeros&#187; de la marcha.</em><br />\n<em>Dado que en C.Villalba son las fiestas locales, se recomend\u00f3 advertir a la gente del pueblo que se acercara a las mesas, que para dar cuenta de las viandas preparadas ten\u00edan preferencia los integrantes de la Marcha-15M-Noroeste, pero que no se negara a nadie algo de comer y beber.</em><br />\n<em>\u00a0</em><br />\n<em>Yo me apunt\u00e9 para colaborar en la preparaci\u00f3n del d\u00eda de ma\u00f1ana, jueves 21, por la ma\u00f1ana y por la tarde/noche, as\u00ed como en la preparaci\u00f3n del desayuno del d\u00eda siguiente, viernes 22.\u00a0\u00a0Para el desayuno llevar\u00e9 unas filloas reci\u00e9n hechitas y leche de arroz, para todos aquellos &#171;marcheros-cel\u00edacos&#187; que vengan (yo soy cel\u00edaca y , en casos as\u00ed, siempre tengo presente la cantidad de personas que no pueden comer seg\u00fan qu\u00e9 alimentos).&#187;</em></p>\n<p>A lo largo del d\u00eda, a medida que podamos, iremos acerc\u00e1ndonos a darles la bienvenida a las <strong>11.30 am</strong> en el \u00e1gora de la bilblioteca Miguel Hern\u00e1ndez, y por la tarde a la Asamblea Popular Extraordinaria que se celebrar\u00e1 a las\u00a0<strong>20.00h</strong> en el mismo lugar.</p>\n",
+    "rendered": "<p>Ma\u00f1ana, jueves 21, llega a Villalba la Marcha Popular Indignada,\u00a0que comenz\u00f3 el 19 de Junio desde varias ciudades y que llegar\u00e1 el 23 a Madrid. Queremos que, a su paso por Villalba, se sientan apoyados y\u00a0como en casa. \u00bfQu\u00e9 podemos hacer?</p>\n<p>\u00c1ngeles nos cuenta todo lo que se habl\u00f3 en la Asamblea de Villalba del s\u00e1bado 16 referente a\u00a0la llegada:<br />\n<em>\u00abEn la Asamblea de la ma\u00f1ana se habl\u00f3 de la ruta m\u00e1s conveniente a seguir por la marcha que viene del noroeste en direcci\u00f3n a Majadahonda desde Collado Villalba. Hubo varias propuestas, pero se acord\u00f3, una vez valorado los pros y los contras de cada ruta propuesta que la que pasa por el puerto de Galapagar-Las Rozas-Majadahonda y la que pasa por la carretera de servicio, paralela a la carretera de La Coru\u00f1a, C.Villalba-Torrelodones-Las Rozas-Majadahonda, ser\u00edan las id\u00f3neas.\u00a0 Y esto se hizo porque desde Sol as\u00ed se solicit\u00f3 a los asamblearios de esta zona noroeste.</em><br />\n<em>Tambi\u00e9n se trat\u00f3 de la recogida de alimentos, voluntariado para la organizaci\u00f3n de acogida y atenci\u00f3n a los participantes de la marcha y de las necesidades b\u00e1sicas que conlleva un evento de estas caracter\u00edsticas. Y parece ser que el Ayuntamiento de C.Villalba estaba dispuesto a ceder las duchas de alg\u00fan Centro educativo o deportivo a cambio de que hubi\u00e9ra personas dispuestas a limpiar las instalaciones cedidas.</em><br />\n<em>\u00a0</em><br />\n<em>En la Asamblea de la tarde se trataron los mismos temas porque era una Asamblea para los asamblearios de los pueblos colindantes y de la zona.\u00a0 Se a\u00f1adi\u00f3, a todo lo anteriormente expuesto, la necesidad de alimentos, agua, servilletas, cubiertos, vasos, cubos, fregonas, mesas plegables, y todo aquello que se comprenda necesario en estos casos. Se pidi\u00f3 que cada uno de nosotros que acudiera a la cita llevara una barra de pan (del mismo d\u00eda) y que, a poder ser, nos pusi\u00e9ramos un chaleco reflectante (como el de los coches) y alguna identificaci\u00f3n \u00ab15-M\u00bb para la mejor localizaci\u00f3n del personal por parte de los \u00ab15emeros\u00bb de la marcha.</em><br />\n<em>Dado que en C.Villalba son las fiestas locales, se recomend\u00f3 advertir a la gente del pueblo que se acercara a las mesas, que para dar cuenta de las viandas preparadas ten\u00edan preferencia los integrantes de la Marcha-15M-Noroeste, pero que no se negara a nadie algo de comer y beber.</em><br />\n<em>\u00a0</em><br />\n<em>Yo me apunt\u00e9 para colaborar en la preparaci\u00f3n del d\u00eda de ma\u00f1ana, jueves 21, por la ma\u00f1ana y por la tarde/noche, as\u00ed como en la preparaci\u00f3n del desayuno del d\u00eda siguiente, viernes 22.\u00a0\u00a0Para el desayuno llevar\u00e9 unas filloas reci\u00e9n hechitas y leche de arroz, para todos aquellos \u00abmarcheros-cel\u00edacos\u00bb que vengan (yo soy cel\u00edaca y , en casos as\u00ed, siempre tengo presente la cantidad de personas que no pueden comer seg\u00fan qu\u00e9 alimentos).\u00bb</em></p>\n<p>A lo largo del d\u00eda, a medida que podamos, iremos acerc\u00e1ndonos a darles la bienvenida a las <strong>11.30 am</strong> en el \u00e1gora de la bilblioteca Miguel Hern\u00e1ndez, y por la tarde a la Asamblea Popular Extraordinaria que se celebrar\u00e1 a las\u00a0<strong>20.00h</strong> en el mismo lugar.</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -3999,7 +3885,7 @@
   },
   "author": 621,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4040,14 +3926,8 @@
     ],
     "version-history": [
       {
-        "count": 9,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/196/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 204,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/196/revisions/204"
       }
     ],
     "wp:attachment": [
@@ -4092,12 +3972,12 @@
     "rendered": "CARTELMARCHA_web"
   },
   "author": 97,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/06/CARTELMARCHA_web.jpg'><img width=\"211\" height=\"300\" src=\"https://becerril.tomalosbarrios.net/files/2011/06/CARTELMARCHA_web-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/06/CARTELMARCHA_web-211x300.jpg 211w, https://becerril.tomalosbarrios.net/files/2011/06/CARTELMARCHA_web.jpg 595w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/06/CARTELMARCHA_web.jpg'><img width=\"211\" height=\"300\" src=\"https://becerril.tomalosbarrios.net/files/2011/06/CARTELMARCHA_web-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/06/CARTELMARCHA_web-211x300.jpg 211w, https://becerril.tomalosbarrios.net/files/2011/06/CARTELMARCHA_web.jpg 595w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4198,7 +4078,7 @@
     "rendered": "CARTEL-MARCHA_bja"
   },
   "author": 97,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -4260,7 +4140,7 @@
     "rendered": "CARTEL-MARCHA_bja"
   },
   "author": 97,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -4331,7 +4211,7 @@
   },
   "author": 621,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4372,14 +4252,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/179/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 185,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/179/revisions/185"
       }
     ],
     "wp:attachment": [
@@ -4424,7 +4298,7 @@
     "rendered": "RD_2568_1986"
   },
   "author": 621,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -4486,7 +4360,7 @@
     "rendered": "LeyAdministracionLocalCAM"
   },
   "author": 621,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -4559,7 +4433,7 @@
   "featured_media": 0,
   "parent": 46,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -4593,14 +4467,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/pages/162/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 186,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/pages/162/revisions/186"
       }
     ],
     "up": [
@@ -4639,7 +4507,7 @@
     "rendered": "Acta de la Asamblea del 28 de Junio"
   },
   "content": {
-    "rendered": "<p>Lugar: Plaza del pueblo. <strong>Somos 20 ciudadanos.<br />\n</strong></p>\n<p><strong>ORDEN DEL D\u00cdA:</strong></p>\n<p><strong>1. Familias con problemas</strong><br />\n<strong>2. Tema Legal-penal de la Crisis</strong><br />\n<strong>3. Pleno en el Ayuntamiento</strong><br />\n<strong>4. </strong><strong>Dudas varias</strong><strong> </strong><br />\n<strong>5. </strong><strong>Marchas Anticrisis</strong><br />\n<strong> </strong></p>\n<p><strong>1. </strong><strong>Familias con problemas</strong></p>\n<p>Se nos plantean dos casos de familias de inmigrantes con graves problemas en la actualidad en el pueblo. Hay un grupo de personas ayud\u00e1ndoles y plantean la posibilidad de encontrar un alquiler barato para una familia con 5 hijos que se comprometen a pagar un precio razonable.</p>\n<p>Se habla de otro caso una chica con una ni\u00f1a en la calle con necesidad de aprendizaje de Espa\u00f1ol.</p>\n<p><strong>2. Tema Legal-penal de la Crisis</strong></p>\n<p>Un compa\u00f1ero expone ideas a cerca de la responsabilidad de Agencias de calificaci\u00f3n, bancos y la resoluci\u00f3n de la crisis. Se habla de la manipulaci\u00f3n de los medios que evitan que salgan a la luz temas comprometidos.</p>\n<p>Un compa\u00f1ero propone la creaci\u00f3n de un mural colectivo con la organizaci\u00f3n de &#171;Los mercados&#187; para difundir esta idea.</p>\n<p><strong>3. Pleno en el Ayuntamiento</strong></p>\n<p>El Jueves 30 de Junio, practicamente sin avisar se convoca pleno en el Ayuntamiento. Se decide asistir todo el que pueda. Se expone la necesidad de conocer la ley de administraci\u00f3n local para asuntos como la solicitud de\u00a0 turno de palabra en un pleno.<strong></strong></p>\n<p><strong>4. </strong><strong>Dudas varias</strong><strong></strong></p>\n<p>Se resuelven dudas surgidas como el contenido de algunos correos recibidos.</p>\n<p>Surge la necesidad de establecer en cada reuni\u00f3n la asistencia a las Asambleas de Pueblos en Sol cada Domingo\u00a0 a las 7p.m. De forma voluntaria se intentar\u00e1 asistir.</p>\n<p>De igual modo, se consens\u00faa la creaci\u00f3n de cuentas de correo para cada comisi\u00f3n, con el fin de agilizar las actividades.</p>\n<p>Con el fin de tener presente las peticiones de cada ciudadano, se consens\u00faa la creaci\u00f3n de una tabla de puntos a tratar que se iniciar\u00e1 en la siguiente Asamblea.</p>\n<p><strong>5. </strong><strong>Marchas Anticrisis</strong></p>\n<p>Se habla de las marchas que est\u00e1n recorriendo el pa\u00eds en la actualidad con el fin de fomentar el conocimiento del movimiento 15M en las zonas rurales. Se recuerda que el dia 20 de Julio estar\u00e1 en collado Villalba y se propone ayudar en temas de log\u00edstica.</p>\n<p>&nbsp;</p>\n",
+    "rendered": "<p>Lugar: Plaza del pueblo. <strong>Somos 20 ciudadanos.<br />\n</strong></p>\n<p><strong>ORDEN DEL D\u00cdA:</strong></p>\n<p><strong>1. Familias con problemas</strong><br />\n<strong>2. Tema Legal-penal de la Crisis</strong><br />\n<strong>3. Pleno en el Ayuntamiento</strong><br />\n<strong>4. </strong><strong>Dudas varias</strong><strong> </strong><br />\n<strong>5. </strong><strong>Marchas Anticrisis</strong><br />\n<strong> </strong></p>\n<p><strong>1. </strong><strong>Familias con problemas</strong></p>\n<p>Se nos plantean dos casos de familias de inmigrantes con graves problemas en la actualidad en el pueblo. Hay un grupo de personas ayud\u00e1ndoles y plantean la posibilidad de encontrar un alquiler barato para una familia con 5 hijos que se comprometen a pagar un precio razonable.</p>\n<p>Se habla de otro caso una chica con una ni\u00f1a en la calle con necesidad de aprendizaje de Espa\u00f1ol.</p>\n<p><strong>2. Tema Legal-penal de la Crisis</strong></p>\n<p>Un compa\u00f1ero expone ideas a cerca de la responsabilidad de Agencias de calificaci\u00f3n, bancos y la resoluci\u00f3n de la crisis. Se habla de la manipulaci\u00f3n de los medios que evitan que salgan a la luz temas comprometidos.</p>\n<p>Un compa\u00f1ero propone la creaci\u00f3n de un mural colectivo con la organizaci\u00f3n de \u00abLos mercados\u00bb para difundir esta idea.</p>\n<p><strong>3. Pleno en el Ayuntamiento</strong></p>\n<p>El Jueves 30 de Junio, practicamente sin avisar se convoca pleno en el Ayuntamiento. Se decide asistir todo el que pueda. Se expone la necesidad de conocer la ley de administraci\u00f3n local para asuntos como la solicitud de\u00a0 turno de palabra en un pleno.<strong></strong></p>\n<p><strong>4. </strong><strong>Dudas varias</strong><strong></strong></p>\n<p>Se resuelven dudas surgidas como el contenido de algunos correos recibidos.</p>\n<p>Surge la necesidad de establecer en cada reuni\u00f3n la asistencia a las Asambleas de Pueblos en Sol cada Domingo\u00a0 a las 7p.m. De forma voluntaria se intentar\u00e1 asistir.</p>\n<p>De igual modo, se consens\u00faa la creaci\u00f3n de cuentas de correo para cada comisi\u00f3n, con el fin de agilizar las actividades.</p>\n<p>Con el fin de tener presente las peticiones de cada ciudadano, se consens\u00faa la creaci\u00f3n de una tabla de puntos a tratar que se iniciar\u00e1 en la siguiente Asamblea.</p>\n<p><strong>5. </strong><strong>Marchas Anticrisis</strong></p>\n<p>Se habla de las marchas que est\u00e1n recorriendo el pa\u00eds en la actualidad con el fin de fomentar el conocimiento del movimiento 15M en las zonas rurales. Se recuerda que el dia 20 de Julio estar\u00e1 en collado Villalba y se propone ayudar en temas de log\u00edstica.</p>\n<p>&nbsp;</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -4648,7 +4516,7 @@
   },
   "author": 97,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4689,14 +4557,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/153/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 157,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/153/revisions/157"
       }
     ],
     "wp:attachment": [
@@ -4741,7 +4603,7 @@
     "rendered": "Pleno en el Ayuntamiento!"
   },
   "content": {
-    "rendered": "<p>Con muy poca antelaci\u00f3n nos hemos enterado de que el pr\u00f3ximo Jueves d\u00eda 30 de Junio a las 9 de la ma\u00f1ana se ha convocado Pleno en el Ayuntamiento, donde se tratar\u00e1n temas como nombramientos diversos, equipo de gobierno, organizaci\u00f3n de plenos y dem\u00e1s&#8230;</p>\n<p>All\u00ed estaremos!</p>\n<p><img class=\"alignleft\" src=\"http://www.btzentro.es/wp-content/uploads/2009/08/logo_becerril_cabecera.jpg\" alt=\"\" width=\"283\" height=\"166\" /></p>\n<p>&nbsp;</p>\n",
+    "rendered": "<p>Con muy poca antelaci\u00f3n nos hemos enterado de que el pr\u00f3ximo Jueves d\u00eda 30 de Junio a las 9 de la ma\u00f1ana se ha convocado Pleno en el Ayuntamiento, donde se tratar\u00e1n temas como nombramientos diversos, equipo de gobierno, organizaci\u00f3n de plenos y dem\u00e1s&#8230;</p>\n<p>All\u00ed estaremos!</p>\n<p><img loading=\"lazy\" class=\"alignleft\" src=\"http://www.btzentro.es/wp-content/uploads/2009/08/logo_becerril_cabecera.jpg\" alt=\"\" width=\"283\" height=\"166\" /></p>\n<p>&nbsp;</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -4750,7 +4612,7 @@
   },
   "author": 97,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4791,14 +4653,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/133/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 136,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/133/revisions/136"
       }
     ],
     "wp:attachment": [
@@ -4843,7 +4699,7 @@
     "rendered": "Peri\u00f3dico del 15M!"
   },
   "content": {
-    "rendered": "<p>De momento ya son 3 los n\u00fameros de esta publicaci\u00f3n, francamente interesante.<br />\nSer\u00eda una buena idea empezar a distribuir..</p>\n<p><a href=\"http://madrid.tomalaplaza.net/periodico-15m-news/\"><img class=\"alignleft\" src=\"http://madrid.tomalaplaza.net/files/2011/06/15m-news-300x97.jpg\" alt=\"\" width=\"300\" height=\"97\" /></a></p>\n<p>&nbsp;</p>\n",
+    "rendered": "<p>De momento ya son 3 los n\u00fameros de esta publicaci\u00f3n, francamente interesante.<br />\nSer\u00eda una buena idea empezar a distribuir..</p>\n<p><a href=\"http://madrid.tomalaplaza.net/periodico-15m-news/\"><img loading=\"lazy\" class=\"alignleft\" src=\"http://madrid.tomalaplaza.net/files/2011/06/15m-news-300x97.jpg\" alt=\"\" width=\"300\" height=\"97\" /></a></p>\n<p>&nbsp;</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -4852,7 +4708,7 @@
   },
   "author": 97,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4893,14 +4749,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/127/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 131,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/127/revisions/131"
       }
     ],
     "wp:attachment": [
@@ -4945,7 +4795,7 @@
     "rendered": "octavillas"
   },
   "author": 621,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -5068,7 +4918,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -5102,14 +4952,8 @@
     ],
     "version-history": [
       {
-        "count": 11,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/pages/116/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 193,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/pages/116/revisions/193"
       }
     ],
     "wp:attachment": [
@@ -5153,7 +4997,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -5187,14 +5031,8 @@
     ],
     "version-history": [
       {
-        "count": 7,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/pages/109/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 167,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/pages/109/revisions/167"
       }
     ],
     "wp:attachment": [
@@ -5236,7 +5074,7 @@
   },
   "author": 631,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -5277,14 +5115,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/103/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 113,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/103/revisions/113"
       }
     ],
     "wp:attachment": [
@@ -5338,7 +5170,7 @@
   },
   "author": 621,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -5379,14 +5211,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/96/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 102,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/96/revisions/102"
       }
     ],
     "wp:attachment": [
@@ -5440,7 +5266,7 @@
   },
   "author": 97,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -5481,14 +5307,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/83/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 90,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/83/revisions/90"
       }
     ],
     "wp:attachment": [
@@ -5533,12 +5353,12 @@
     "rendered": "Anonymus"
   },
   "author": 631,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/06/Anonymus.png'><img width=\"300\" height=\"209\" src=\"https://becerril.tomalosbarrios.net/files/2011/06/Anonymus-300x209.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/06/Anonymus-300x209.png 300w, https://becerril.tomalosbarrios.net/files/2011/06/Anonymus.png 646w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/06/Anonymus.png'><img width=\"300\" height=\"209\" src=\"https://becerril.tomalosbarrios.net/files/2011/06/Anonymus-300x209.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/06/Anonymus-300x209.png 300w, https://becerril.tomalosbarrios.net/files/2011/06/Anonymus.png 646w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -5639,7 +5459,7 @@
     "rendered": "Breve explicaci\u00f3n del pacto del euro por Anonymus"
   },
   "content": {
-    "rendered": "<p><a href=\"http://becerril.tomalosbarrios.net/files/2011/06/Anonymus.png\"><img class=\"alignnone size-medium wp-image-80\" src=\"http://becerril.tomalosbarrios.net/files/2011/06/Anonymus-300x209.png\" alt=\"\" width=\"300\" height=\"209\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/06/Anonymus-300x209.png 300w, https://becerril.tomalosbarrios.net/files/2011/06/Anonymus.png 646w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p><a href=\"http://youtu.be/1VUZ4BWMvcc\" target=\"_blank\">http://youtu.be/1VUZ4BWMvcc</a></p>\n",
+    "rendered": "<p><a href=\"http://becerril.tomalosbarrios.net/files/2011/06/Anonymus.png\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-80\" src=\"http://becerril.tomalosbarrios.net/files/2011/06/Anonymus-300x209.png\" alt=\"\" width=\"300\" height=\"209\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/06/Anonymus-300x209.png 300w, https://becerril.tomalosbarrios.net/files/2011/06/Anonymus.png 646w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p><a href=\"http://youtu.be/1VUZ4BWMvcc\" target=\"_blank\">http://youtu.be/1VUZ4BWMvcc</a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -5648,7 +5468,7 @@
   },
   "author": 631,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -5689,14 +5509,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/79/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 82,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/79/revisions/82"
       }
     ],
     "wp:attachment": [
@@ -5741,12 +5555,12 @@
     "rendered": "33"
   },
   "author": 631,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/06/33.png'><img width=\"300\" height=\"214\" src=\"https://becerril.tomalosbarrios.net/files/2011/06/33-300x214.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/06/33-300x214.png 300w, https://becerril.tomalosbarrios.net/files/2011/06/33.png 648w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/06/33.png'><img width=\"300\" height=\"214\" src=\"https://becerril.tomalosbarrios.net/files/2011/06/33-300x214.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/06/33-300x214.png 300w, https://becerril.tomalosbarrios.net/files/2011/06/33.png 648w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -5847,7 +5661,7 @@
     "rendered": "Maniobras orquestales en la impunidad"
   },
   "content": {
-    "rendered": "<p>Vergonzosa maniobra de el delincuente con corbata: Felip Puig, Artur y sus secuaces.</p>\n<p>Las im\u00e1genes hablan por si mismas. Mala gente.</p>\n<p><a href=\"http://youtu.be/YcmvzRvsf8g\">Perros inflitrados</a>: <a href=\"http://youtu.be/YcmvzRvsf8g\">http://youtu.be/YcmvzRvsf8g</a></p>\n<p><a href=\"http://becerril.tomalosbarrios.net/files/2011/06/33.png\"><img class=\"alignnone size-medium wp-image-76\" src=\"http://becerril.tomalosbarrios.net/files/2011/06/33-300x214.png\" alt=\"\" width=\"300\" height=\"214\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/06/33-300x214.png 300w, https://becerril.tomalosbarrios.net/files/2011/06/33.png 648w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n",
+    "rendered": "<p>Vergonzosa maniobra de el delincuente con corbata: Felip Puig, Artur y sus secuaces.</p>\n<p>Las im\u00e1genes hablan por si mismas. Mala gente.</p>\n<p><a href=\"http://youtu.be/YcmvzRvsf8g\">Perros inflitrados</a>: <a href=\"http://youtu.be/YcmvzRvsf8g\">http://youtu.be/YcmvzRvsf8g</a></p>\n<p><a href=\"http://becerril.tomalosbarrios.net/files/2011/06/33.png\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-76\" src=\"http://becerril.tomalosbarrios.net/files/2011/06/33-300x214.png\" alt=\"\" width=\"300\" height=\"214\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/06/33-300x214.png 300w, https://becerril.tomalosbarrios.net/files/2011/06/33.png 648w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -5856,7 +5670,7 @@
   },
   "author": 631,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -5897,14 +5711,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/71/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 78,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/71/revisions/78"
       }
     ],
     "wp:attachment": [
@@ -5949,12 +5757,12 @@
     "rendered": "Goog2"
   },
   "author": 631,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/06/Goog2.png'><img width=\"300\" height=\"137\" src=\"https://becerril.tomalosbarrios.net/files/2011/06/Goog2-300x137.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/06/Goog2-300x137.png 300w, https://becerril.tomalosbarrios.net/files/2011/06/Goog2-1024x469.png 1024w, https://becerril.tomalosbarrios.net/files/2011/06/Goog2.png 1058w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/06/Goog2.png'><img width=\"300\" height=\"137\" src=\"https://becerril.tomalosbarrios.net/files/2011/06/Goog2-300x137.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/06/Goog2-300x137.png 300w, https://becerril.tomalosbarrios.net/files/2011/06/Goog2-1024x469.png 1024w, https://becerril.tomalosbarrios.net/files/2011/06/Goog2.png 1058w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -6061,12 +5869,12 @@
     "rendered": "Goog1"
   },
   "author": 631,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/06/Goog1.png'><img width=\"300\" height=\"126\" src=\"https://becerril.tomalosbarrios.net/files/2011/06/Goog1-300x126.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/06/Goog1-300x126.png 300w, https://becerril.tomalosbarrios.net/files/2011/06/Goog1.png 819w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/06/Goog1.png'><img width=\"300\" height=\"126\" src=\"https://becerril.tomalosbarrios.net/files/2011/06/Goog1-300x126.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/06/Goog1-300x126.png 300w, https://becerril.tomalosbarrios.net/files/2011/06/Goog1.png 819w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -6167,7 +5975,7 @@
     "rendered": "Como participar en la lista en modo FORO de debate"
   },
   "content": {
-    "rendered": "<p>Para poder usar la lista de distribuci\u00f3n de un modo m\u00e1s din\u00e1mico, igual que un foro de debate seguir estas breves instrucciones:</p>\n<ul>\n<li>Abrir la lista de t\u00f3picos o temas mediante el siguiente enlace:<a href=\"http://groups.google.com/group/tomalaplazabecerril/topics?gvc=2\"> http://groups.google.com/group/tomalaplazabecerril/topics?gvc=2<br />\n</a><a href=\"http://becerril.tomalosbarrios.net/files/2011/06/Goog1.png\"><img class=\"alignnone size-medium wp-image-67\" src=\"http://becerril.tomalosbarrios.net/files/2011/06/Goog1-300x126.png\" alt=\"\" width=\"300\" height=\"126\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/06/Goog1-300x126.png 300w, https://becerril.tomalosbarrios.net/files/2011/06/Goog1.png 819w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></li>\n<li>Para a\u00f1adir una nueva entrada en el foro (nos llegar\u00e1n emails) click en el enlace &#171;Nueva Entrada&#187;:<br />\n<a href=\"http://becerril.tomalosbarrios.net/files/2011/06/Goog2.png\"><img class=\"alignnone size-medium wp-image-68\" src=\"http://becerril.tomalosbarrios.net/files/2011/06/Goog2-300x137.png\" alt=\"\" width=\"300\" height=\"137\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/06/Goog2-300x137.png 300w, https://becerril.tomalosbarrios.net/files/2011/06/Goog2-1024x469.png 1024w, https://becerril.tomalosbarrios.net/files/2011/06/Goog2.png 1058w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></li>\n<li>Para ver un resumen de temas click en el enlace: <a href=\"http://groups.google.com/group/tomalaplazabecerril/topics?gvc=1\">http://groups.google.com/group/tomalaplazabecerril/topics?gvc=1</a></li>\n</ul>\n<p>y con esto convertimos la lista en un foro superdin\u00e1mico y superecon\u00f3mico.</p>\n<p>Cualquier duda mandarme un email.</p>\n<p><strong>Manuel</strong></p>\n",
+    "rendered": "<p>Para poder usar la lista de distribuci\u00f3n de un modo m\u00e1s din\u00e1mico, igual que un foro de debate seguir estas breves instrucciones:</p>\n<ul>\n<li>Abrir la lista de t\u00f3picos o temas mediante el siguiente enlace:<a href=\"http://groups.google.com/group/tomalaplazabecerril/topics?gvc=2\"> http://groups.google.com/group/tomalaplazabecerril/topics?gvc=2<br />\n</a><a href=\"http://becerril.tomalosbarrios.net/files/2011/06/Goog1.png\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-67\" src=\"http://becerril.tomalosbarrios.net/files/2011/06/Goog1-300x126.png\" alt=\"\" width=\"300\" height=\"126\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/06/Goog1-300x126.png 300w, https://becerril.tomalosbarrios.net/files/2011/06/Goog1.png 819w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></li>\n<li>Para a\u00f1adir una nueva entrada en el foro (nos llegar\u00e1n emails) click en el enlace \u00abNueva Entrada\u00bb:<br />\n<a href=\"http://becerril.tomalosbarrios.net/files/2011/06/Goog2.png\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-68\" src=\"http://becerril.tomalosbarrios.net/files/2011/06/Goog2-300x137.png\" alt=\"\" width=\"300\" height=\"137\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/06/Goog2-300x137.png 300w, https://becerril.tomalosbarrios.net/files/2011/06/Goog2-1024x469.png 1024w, https://becerril.tomalosbarrios.net/files/2011/06/Goog2.png 1058w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></li>\n<li>Para ver un resumen de temas click en el enlace: <a href=\"http://groups.google.com/group/tomalaplazabecerril/topics?gvc=1\">http://groups.google.com/group/tomalaplazabecerril/topics?gvc=1</a></li>\n</ul>\n<p>y con esto convertimos la lista en un foro superdin\u00e1mico y superecon\u00f3mico.</p>\n<p>Cualquier duda mandarme un email.</p>\n<p><strong>Manuel</strong></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -6176,7 +5984,7 @@
   },
   "author": 631,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -6217,14 +6025,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/64/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 132,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/64/revisions/132"
       }
     ],
     "wp:attachment": [
@@ -6269,7 +6071,7 @@
     "rendered": "cabecera_barrios.jpg"
   },
   "author": 97,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -6380,7 +6182,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -6414,14 +6216,8 @@
     ],
     "version-history": [
       {
-        "count": 8,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/pages/46/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 178,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/pages/46/revisions/178"
       }
     ],
     "wp:attachment": [
@@ -6454,18 +6250,18 @@
     "rendered": "Contacto"
   },
   "content": {
-    "rendered": "<p>Para entrar en contacto con nosotros, puedes:</p>\n<ul>\n<li>Pasarte por el Casa de Cultura de Becerril, los mi\u00e9rcoles a las 18:30.</li>\n<li>Enviar un email a:\u00a0asamblea.becerril@gmail.com</li>\n</ul>\n<p><span style=\"font-size: 16px;font-family: Georgia, 'Bitstream Charter', serif;line-height: 24px\">Rellena el suguiente formulario y nos pondremos en contacto!!</span></p>\n<p>[contact-form 1 &#171;Formulario de contacto 1&#187;]</p>\n",
+    "rendered": "<p>Para entrar en contacto con nosotros, puedes:</p>\n<ul>\n<li>Pasarte por el Casa de Cultura de Becerril, los mi\u00e9rcoles a las 18:30.</li>\n<li>Enviar un email a:\u00a0asamblea.becerril@gmail.com</li>\n</ul>\n<p><span style=\"font-size: 16px;font-family: Georgia, 'Bitstream Charter', serif;line-height: 24px\">Rellena el suguiente formulario y nos pondremos en contacto!!</span></p>\n<p>[contact-form 1 \u00abFormulario de contacto 1\u00bb]</p>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>Para entrar en contacto con nosotros, puedes: Pasarte por el Casa de Cultura de Becerril, los mi\u00e9rcoles a las 18:30. Enviar un email a:\u00a0asamblea.becerril@gmail.com Rellena el suguiente formulario y nos pondremos en contacto!! [contact-form 1 &#171;Formulario de contacto 1&#187;]</p>\n",
+    "rendered": "<p>Para entrar en contacto con nosotros, puedes: Pasarte por el Casa de Cultura de Becerril, los mi\u00e9rcoles a las 18:30. Enviar un email a:\u00a0asamblea.becerril@gmail.com Rellena el suguiente formulario y nos pondremos en contacto!! [contact-form 1 \u00abFormulario de contacto 1\u00bb]</p>\n",
     "protected": false
   },
   "author": 97,
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -6499,14 +6295,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/pages/41/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 45,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/pages/41/revisions/45"
       }
     ],
     "wp:attachment": [
@@ -6548,7 +6338,7 @@
   },
   "author": 97,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": true,
   "template": "",
@@ -6589,14 +6379,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/38/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 70,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/38/revisions/70"
       }
     ],
     "wp:attachment": [
@@ -6641,7 +6425,7 @@
     "rendered": "Triptico_USS_2011"
   },
   "author": 621,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -6703,7 +6487,7 @@
     "rendered": "Cartel_USS_2011"
   },
   "author": 621,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -6765,7 +6549,7 @@
     "rendered": "Una propuesta interesante: Universidad Socioambiental de la Sierra"
   },
   "content": {
-    "rendered": "<p>Acaba de surgir la <strong><em>Universidad Socioambiental de la Sierra</em></strong>, que centra su inter\u00e9s en hacer m\u00e1s efectivas las movilizaciones sociales que est\u00e1n surgiendo (hablan espec\u00edficamente del 15M) a trav\u00e9s del conocimiento de la realidad y necesidades de la Sierra y la forma de actuar frente a ellas. Est\u00e1 dirigido a todos aquellos que hemos &#171;despertado&#187; y estamos organiz\u00e1ndonos en grupos de trabajo, y parece que tendr\u00e1 un car\u00e1cter fundamentalmente pr\u00e1ctico.<!--more--></p>\n<p>Abren sus primeras jornadas (del 5 al 7 de Julio) con talleres y charlas que prometen, como la que tratar\u00e1 el tema del <strong>Decrecimento</strong>, que correr\u00e1 a cargo de <strong>Carlos Taibo</strong>.</p>\n<p>Os dejo el cartel y el programa&#8230; \u00a1Ah! La inscripci\u00f3n es de 5\u20ac.</p>\n<p><a href=\"http://becerril.tomalosbarrios.net/files/2011/06/Cartel_USS_2011.pdf\">Cartel_USS_2011</a></p>\n<p><a href=\"http://becerril.tomalosbarrios.net/files/2011/06/Triptico_USS_2011.pdf\">Triptico_USS_2011</a></p>\n",
+    "rendered": "<p>Acaba de surgir la <strong><em>Universidad Socioambiental de la Sierra</em></strong>, que centra su inter\u00e9s en hacer m\u00e1s efectivas las movilizaciones sociales que est\u00e1n surgiendo (hablan espec\u00edficamente del 15M) a trav\u00e9s del conocimiento de la realidad y necesidades de la Sierra y la forma de actuar frente a ellas. Est\u00e1 dirigido a todos aquellos que hemos \u00abdespertado\u00bb y estamos organiz\u00e1ndonos en grupos de trabajo, y parece que tendr\u00e1 un car\u00e1cter fundamentalmente pr\u00e1ctico.<!--more--></p>\n<p>Abren sus primeras jornadas (del 5 al 7 de Julio) con talleres y charlas que prometen, como la que tratar\u00e1 el tema del <strong>Decrecimento</strong>, que correr\u00e1 a cargo de <strong>Carlos Taibo</strong>.</p>\n<p>Os dejo el cartel y el programa&#8230; \u00a1Ah! La inscripci\u00f3n es de 5\u20ac.</p>\n<p><a href=\"http://becerril.tomalosbarrios.net/files/2011/06/Cartel_USS_2011.pdf\">Cartel_USS_2011</a></p>\n<p><a href=\"http://becerril.tomalosbarrios.net/files/2011/06/Triptico_USS_2011.pdf\">Triptico_USS_2011</a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -6774,7 +6558,7 @@
   },
   "author": 621,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -6816,14 +6600,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/29/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 49,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/29/revisions/49"
       }
     ],
     "wp:attachment": [
@@ -6877,7 +6655,7 @@
   },
   "author": 540,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -6918,14 +6696,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/26/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 50,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/26/revisions/50"
       }
     ],
     "wp:attachment": [
@@ -6970,12 +6742,12 @@
     "rendered": "cartel_BecerrilAsamblea"
   },
   "author": 540,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/06/cartel_BecerrilAsamblea.jpg'><img width=\"212\" height=\"300\" src=\"https://becerril.tomalosbarrios.net/files/2011/06/cartel_BecerrilAsamblea-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/06/cartel_BecerrilAsamblea-212x300.jpg 212w, https://becerril.tomalosbarrios.net/files/2011/06/cartel_BecerrilAsamblea-724x1024.jpg 724w, https://becerril.tomalosbarrios.net/files/2011/06/cartel_BecerrilAsamblea.jpg 827w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/06/cartel_BecerrilAsamblea.jpg'><img width=\"212\" height=\"300\" src=\"https://becerril.tomalosbarrios.net/files/2011/06/cartel_BecerrilAsamblea-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/06/cartel_BecerrilAsamblea-212x300.jpg 212w, https://becerril.tomalosbarrios.net/files/2011/06/cartel_BecerrilAsamblea-724x1024.jpg 724w, https://becerril.tomalosbarrios.net/files/2011/06/cartel_BecerrilAsamblea.jpg 827w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -7082,7 +6854,7 @@
     "rendered": "Cartel para imprimirlo un@ mism@"
   },
   "content": {
-    "rendered": "<p>Aqu\u00ed teneis el cartel para ponerlo en el coche, o pegarlo por donde sea !!!!!!!!</p>\n<p><a href=\"http://becerril.tomalosbarrios.net/files/2011/06/cartel_BecerrilAsamblea.jpg\"><img class=\"size-large wp-image-24 alignright\" src=\"http://becerril.tomalosbarrios.net/files/2011/06/cartel_BecerrilAsamblea-724x1024.jpg\" alt=\"\" width=\"384\" height=\"543\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/06/cartel_BecerrilAsamblea-724x1024.jpg 724w, https://becerril.tomalosbarrios.net/files/2011/06/cartel_BecerrilAsamblea-212x300.jpg 212w, https://becerril.tomalosbarrios.net/files/2011/06/cartel_BecerrilAsamblea.jpg 827w\" sizes=\"(max-width: 384px) 100vw, 384px\" /></a></p>\n",
+    "rendered": "<p>Aqu\u00ed teneis el cartel para ponerlo en el coche, o pegarlo por donde sea !!!!!!!!</p>\n<p><a href=\"http://becerril.tomalosbarrios.net/files/2011/06/cartel_BecerrilAsamblea.jpg\"><img loading=\"lazy\" class=\"size-large wp-image-24 alignright\" src=\"http://becerril.tomalosbarrios.net/files/2011/06/cartel_BecerrilAsamblea-724x1024.jpg\" alt=\"\" width=\"384\" height=\"543\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/06/cartel_BecerrilAsamblea-724x1024.jpg 724w, https://becerril.tomalosbarrios.net/files/2011/06/cartel_BecerrilAsamblea-212x300.jpg 212w, https://becerril.tomalosbarrios.net/files/2011/06/cartel_BecerrilAsamblea.jpg 827w\" sizes=\"(max-width: 384px) 100vw, 384px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -7091,7 +6863,7 @@
   },
   "author": 540,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -7132,14 +6904,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/21/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 58,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/21/revisions/58"
       }
     ],
     "wp:attachment": [
@@ -7184,7 +6950,7 @@
     "rendered": "Instancia de escrito de entrada"
   },
   "content": {
-    "rendered": "<p><a href=\"http://becerril.tomalosbarrios.net/files/2011/06/instancia.jpg\"><img class=\"alignright size-medium wp-image-16\" src=\"http://becerril.tomalosbarrios.net/files/2011/06/instancia-199x300.jpg\" alt=\"\" width=\"199\" height=\"300\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/06/instancia-199x300.jpg 199w, https://becerril.tomalosbarrios.net/files/2011/06/instancia-679x1024.jpg 679w, https://becerril.tomalosbarrios.net/files/2011/06/instancia.jpg 1098w\" sizes=\"(max-width: 199px) 100vw, 199px\" /></a>Instancia de escrito de entrada del ayuntamiento de Becerril. Su utilizaci\u00f3n es m\u00faltiple y o bien se presenta en ventanilla o v\u00eda Internet.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
+    "rendered": "<p><a href=\"http://becerril.tomalosbarrios.net/files/2011/06/instancia.jpg\"><img loading=\"lazy\" class=\"alignright size-medium wp-image-16\" src=\"http://becerril.tomalosbarrios.net/files/2011/06/instancia-199x300.jpg\" alt=\"\" width=\"199\" height=\"300\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/06/instancia-199x300.jpg 199w, https://becerril.tomalosbarrios.net/files/2011/06/instancia-679x1024.jpg 679w, https://becerril.tomalosbarrios.net/files/2011/06/instancia.jpg 1098w\" sizes=\"(max-width: 199px) 100vw, 199px\" /></a>Instancia de escrito de entrada del ayuntamiento de Becerril. Su utilizaci\u00f3n es m\u00faltiple y o bien se presenta en ventanilla o v\u00eda Internet.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -7193,7 +6959,7 @@
   },
   "author": 540,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -7234,14 +7000,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/17/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 51,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/17/revisions/51"
       }
     ],
     "wp:attachment": [
@@ -7286,12 +7046,12 @@
     "rendered": "instancia"
   },
   "author": 540,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/06/instancia.jpg'><img width=\"199\" height=\"300\" src=\"https://becerril.tomalosbarrios.net/files/2011/06/instancia-199x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/06/instancia-199x300.jpg 199w, https://becerril.tomalosbarrios.net/files/2011/06/instancia-679x1024.jpg 679w, https://becerril.tomalosbarrios.net/files/2011/06/instancia.jpg 1098w\" sizes=\"(max-width: 199px) 100vw, 199px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://becerril.tomalosbarrios.net/files/2011/06/instancia.jpg'><img width=\"199\" height=\"300\" src=\"https://becerril.tomalosbarrios.net/files/2011/06/instancia-199x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://becerril.tomalosbarrios.net/files/2011/06/instancia-199x300.jpg 199w, https://becerril.tomalosbarrios.net/files/2011/06/instancia-679x1024.jpg 679w, https://becerril.tomalosbarrios.net/files/2011/06/instancia.jpg 1098w\" sizes=\"(max-width: 199px) 100vw, 199px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -7498,7 +7258,7 @@
     "rendered": "dovre_norway_740x334.jpg"
   },
   "author": 540,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -7571,7 +7331,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -7605,14 +7365,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/pages/12/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 115,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/pages/12/revisions/115"
       }
     ],
     "wp:attachment": [
@@ -7654,7 +7408,7 @@
   },
   "author": 540,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -7695,14 +7449,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/7/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 54,
-        "href": "https://becerril.tomalosbarrios.net/wp-json/wp/v2/posts/7/revisions/54"
       }
     ],
     "wp:attachment": [
@@ -7947,7 +7695,7 @@
     "rendered": "alumbrado-leds-en-becerril-de-la-sierra.jpg"
   },
   "author": 540,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],

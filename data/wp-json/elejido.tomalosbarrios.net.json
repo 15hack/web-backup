@@ -24,7 +24,7 @@
   },
   "author": 721,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -65,14 +65,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/159/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 166,
-        "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/159/revisions/166"
       }
     ],
     "wp:attachment": [
@@ -126,7 +120,7 @@
   },
   "author": 721,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -167,14 +161,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/146/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 151,
-        "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/146/revisions/151"
       }
     ],
     "wp:attachment": [
@@ -219,12 +207,12 @@
     "rendered": "C\u00f3mo funciona la actual Ley Electoral"
   },
   "author": 721,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://elejido.tomalosbarrios.net/files/2011/09/leyelectoral.jpg'><img width=\"211\" height=\"300\" src=\"https://elejido.tomalosbarrios.net/files/2011/09/leyelectoral-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://elejido.tomalosbarrios.net/files/2011/09/leyelectoral-211x300.jpg 211w, https://elejido.tomalosbarrios.net/files/2011/09/leyelectoral.jpg 678w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n<p>Conferencia grupo Indignad@s El Ejido viernes 30 de septiembre</p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://elejido.tomalosbarrios.net/files/2011/09/leyelectoral.jpg'><img width=\"211\" height=\"300\" src=\"https://elejido.tomalosbarrios.net/files/2011/09/leyelectoral-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://elejido.tomalosbarrios.net/files/2011/09/leyelectoral-211x300.jpg 211w, https://elejido.tomalosbarrios.net/files/2011/09/leyelectoral.jpg 678w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n<p>Conferencia grupo Indignad@s El Ejido viernes 30 de septiembre</p>\n"
   },
   "caption": {
     "rendered": "<p>Conferencia grupo Indignad@s El Ejido viernes 30 de septiembre</p>\n"
@@ -334,7 +322,7 @@
   },
   "author": 721,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -375,14 +363,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/134/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 139,
-        "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/134/revisions/139"
       }
     ],
     "wp:attachment": [
@@ -427,12 +409,12 @@
     "rendered": "Civismo en El Ejido"
   },
   "author": 721,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://elejido.tomalosbarrios.net/files/2011/09/Indignados-el-ejido.jpg'><img width=\"212\" height=\"300\" src=\"https://elejido.tomalosbarrios.net/files/2011/09/Indignados-el-ejido-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://elejido.tomalosbarrios.net/files/2011/09/Indignados-el-ejido-212x300.jpg 212w, https://elejido.tomalosbarrios.net/files/2011/09/Indignados-el-ejido.jpg 509w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n<p>Charla sobre la Ordenanza Reguladora de la convivencia ciudadana y de prevenci\u00f3n de actos inc\u00edvicos del Ayuntamiento de El Ejido</p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://elejido.tomalosbarrios.net/files/2011/09/Indignados-el-ejido.jpg'><img width=\"212\" height=\"300\" src=\"https://elejido.tomalosbarrios.net/files/2011/09/Indignados-el-ejido-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://elejido.tomalosbarrios.net/files/2011/09/Indignados-el-ejido-212x300.jpg 212w, https://elejido.tomalosbarrios.net/files/2011/09/Indignados-el-ejido.jpg 509w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n<p>Charla sobre la Ordenanza Reguladora de la convivencia ciudadana y de prevenci\u00f3n de actos inc\u00edvicos del Ayuntamiento de El Ejido</p>\n"
   },
   "caption": {
     "rendered": "<p>Charla sobre la Ordenanza Reguladora de la convivencia ciudadana y de prevenci\u00f3n de actos inc\u00edvicos del Ayuntamiento de El Ejido</p>\n"
@@ -542,7 +524,7 @@
   },
   "author": 721,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -583,14 +565,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/124/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 129,
-        "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/124/revisions/129"
       }
     ],
     "wp:attachment": [
@@ -635,16 +611,16 @@
     "rendered": "Algunas reflexiones sobre la Ordenanza Reguladora de la convivencia ciudadana y de prevenci\u00f3n de actos inc\u00edvicos del Ayuntamiento de El Ejido"
   },
   "content": {
-    "rendered": "<p>Leer completa:</p>\n<p><strong><a title=\"View Reflexiones sobre la Ordenanza Reguladora de la Convivencia Ciudadana del Ayuntamiento de El Ejido on Scribd\" href=\"http://es.scribd.com/doc/67814146/Reflexiones-sobre-la-Ordenanza-Reguladora-de-la-Convivencia-Ciudadana-del-Ayuntamiento-de-El-Ejido\">Reflexiones sobre la Ordenanza Reguladora de la Convivencia Ciudadana del Ayuntamiento de El Ejido</a></strong>//</p>\n<p align=\"JUSTIFY\">Algunas joyitas:</p>\n<p align=\"JUSTIFY\">&#171;La indeterminaci\u00f3n y el af\u00e1n regulador del mayor n\u00famero de conductas posibles lleva a considerar como infracci\u00f3n actuaciones normales y cotidianas, que no afectan a la libertad del resto de los ciudadanos ni ponen en peligro su integridad ni la de los espacios p\u00fablicos municipales. Seguidamente se exponen algunos ejemplos:</p>\n<ol>\n<li>\n<p align=\"JUSTIFY\">Art. 33.1 Peinar a un hijo en espacio p\u00fablico (playa) o hacer una masaje a tu pareja porque le duele una parte de su cuerpo constituye una infracci\u00f3n sancionable con hasta 300 \u20ac, adem\u00e1s de sufrir la p\u00e9rdida del peine o la pomada, que ser\u00edan intervenidas.</p>\n</li>\n</ol>\n<p align=\"JUSTIFY\">En este caso, resulta curioso que tambi\u00e9n podr\u00eda considerarse como infractor al hijo o a la pareja, por lo que la acci\u00f3n podr\u00e1 a suponer una sanci\u00f3n de 600 \u20ac y si en el masaje colaboran 2 o m\u00e1s personas, la sanci\u00f3n se ver\u00eda multiplicada por el mismo n\u00famero.&#187;</p>\n<p align=\"JUSTIFY\">[&#8230;]</p>\n<p align=\"JUSTIFY\">&#171;Sin embargo, el art. 46.6 de la Ordenanza establece que \u201c<em>las infracciones y sanciones muy graves de esta Secci\u00f3n prescribir\u00e1n a los cuatro a\u00f1os, las graves a los tres y las leves al a\u00f1os, salvo las sanciones de \u00e9sas que ser\u00e1n a los tres\u201d.</em></p>\n<p align=\"JUSTIFY\">Como puede comprobarse, en este punto, la Ordenanza es m\u00e1s restrictiva que la Ley.</p>\n<ol>\n<li>\n<p align=\"JUSTIFY\">En lo que respecta a la <strong>CADUCIDAD DEL PROCEDIMIENTO,</strong> el art. 6 del Reglamento de la Potestad Sancionadora (RD 1398/1993) establece <strong>un plazo de dos meses</strong>, sin posibilidad de reanudarse. Sin embargo, el art. 78 de la Ordenanza establece un plazo de caducidad del <em>procedimiento sancionador de </em><em><span style=\"text-decoration: underline\">6 meses</span></em><em>, </em><em><span style=\"text-decoration: underline\">pudiendo reiniciarse</span></em><em> en tal caso si no se ha producido la prescripci\u00f3n. </em> En este punto, por tanto, ser\u00eda conveniente acomodar esta cuesti\u00f3n al Reglamento.&#187;</p>\n</li>\n</ol>\n<p>[&#8230;]</p>\n<p>&#171;Seg\u00fan lo dispuesto en el art. 38, bajo el disfraz de medida cautelar, la Polic\u00eda deber\u00eda intervenir autom\u00e1ticamente el dinero recaudado por un vendedor de la ONCE que ofrece billetes en espacios p\u00fablicos.&#187;</p>\n",
+    "rendered": "<p>Leer completa:</p>\n<p><strong><a title=\"View Reflexiones sobre la Ordenanza Reguladora de la Convivencia Ciudadana del Ayuntamiento de El Ejido on Scribd\" href=\"http://es.scribd.com/doc/67814146/Reflexiones-sobre-la-Ordenanza-Reguladora-de-la-Convivencia-Ciudadana-del-Ayuntamiento-de-El-Ejido\">Reflexiones sobre la Ordenanza Reguladora de la Convivencia Ciudadana del Ayuntamiento de El Ejido</a></strong>//</p>\n<p align=\"JUSTIFY\">Algunas joyitas:</p>\n<p align=\"JUSTIFY\">\u00abLa indeterminaci\u00f3n y el af\u00e1n regulador del mayor n\u00famero de conductas posibles lleva a considerar como infracci\u00f3n actuaciones normales y cotidianas, que no afectan a la libertad del resto de los ciudadanos ni ponen en peligro su integridad ni la de los espacios p\u00fablicos municipales. Seguidamente se exponen algunos ejemplos:</p>\n<ol>\n<li>\n<p align=\"JUSTIFY\">Art. 33.1 Peinar a un hijo en espacio p\u00fablico (playa) o hacer una masaje a tu pareja porque le duele una parte de su cuerpo constituye una infracci\u00f3n sancionable con hasta 300 \u20ac, adem\u00e1s de sufrir la p\u00e9rdida del peine o la pomada, que ser\u00edan intervenidas.</p>\n</li>\n</ol>\n<p align=\"JUSTIFY\">En este caso, resulta curioso que tambi\u00e9n podr\u00eda considerarse como infractor al hijo o a la pareja, por lo que la acci\u00f3n podr\u00e1 a suponer una sanci\u00f3n de 600 \u20ac y si en el masaje colaboran 2 o m\u00e1s personas, la sanci\u00f3n se ver\u00eda multiplicada por el mismo n\u00famero.\u00bb</p>\n<p align=\"JUSTIFY\">[&#8230;]</p>\n<p align=\"JUSTIFY\">\u00abSin embargo, el art. 46.6 de la Ordenanza establece que \u201c<em>las infracciones y sanciones muy graves de esta Secci\u00f3n prescribir\u00e1n a los cuatro a\u00f1os, las graves a los tres y las leves al a\u00f1os, salvo las sanciones de \u00e9sas que ser\u00e1n a los tres\u201d.</em></p>\n<p align=\"JUSTIFY\">Como puede comprobarse, en este punto, la Ordenanza es m\u00e1s restrictiva que la Ley.</p>\n<ol>\n<li>\n<p align=\"JUSTIFY\">En lo que respecta a la <strong>CADUCIDAD DEL PROCEDIMIENTO,</strong> el art. 6 del Reglamento de la Potestad Sancionadora (RD 1398/1993) establece <strong>un plazo de dos meses</strong>, sin posibilidad de reanudarse. Sin embargo, el art. 78 de la Ordenanza establece un plazo de caducidad del <em>procedimiento sancionador de </em><em><span style=\"text-decoration: underline\">6 meses</span></em><em>, </em><em><span style=\"text-decoration: underline\">pudiendo reiniciarse</span></em><em> en tal caso si no se ha producido la prescripci\u00f3n. </em> En este punto, por tanto, ser\u00eda conveniente acomodar esta cuesti\u00f3n al Reglamento.\u00bb</p>\n</li>\n</ol>\n<p>[&#8230;]</p>\n<p>\u00abSeg\u00fan lo dispuesto en el art. 38, bajo el disfraz de medida cautelar, la Polic\u00eda deber\u00eda intervenir autom\u00e1ticamente el dinero recaudado por un vendedor de la ONCE que ofrece billetes en espacios p\u00fablicos.\u00bb</p>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>Leer completa: Reflexiones sobre la Ordenanza Reguladora de la Convivencia Ciudadana del Ayuntamiento de El Ejido// Algunas joyitas: &#171;La indeterminaci\u00f3n y el af\u00e1n regulador del mayor n\u00famero de conductas posibles lleva a considerar como infracci\u00f3n actuaciones normales y cotidianas, que &hellip; <a href=\"https://elejido.tomalosbarrios.net/2011/08/27/algunas-reflexiones-sobre-la-ordenanza-reguladora-de-la-convivencia-ciudadana-y-de-prevencion-de-actos-incivicos-del-ayuntamiento-de-el-ejido/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+    "rendered": "<p>Leer completa: Reflexiones sobre la Ordenanza Reguladora de la Convivencia Ciudadana del Ayuntamiento de El Ejido// Algunas joyitas: \u00abLa indeterminaci\u00f3n y el af\u00e1n regulador del mayor n\u00famero de conductas posibles lleva a considerar como infracci\u00f3n actuaciones normales y cotidianas, que &hellip; <a href=\"https://elejido.tomalosbarrios.net/2011/08/27/algunas-reflexiones-sobre-la-ordenanza-reguladora-de-la-convivencia-ciudadana-y-de-prevencion-de-actos-incivicos-del-ayuntamiento-de-el-ejido/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
     "protected": false
   },
   "author": 721,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -685,14 +661,8 @@
     ],
     "version-history": [
       {
-        "count": 8,
+        "count": 0,
         "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/119/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 140,
-        "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/119/revisions/140"
       }
     ],
     "wp:attachment": [
@@ -737,12 +707,12 @@
     "rendered": "octavilla_indignados_el_ejido"
   },
   "author": 721,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido.jpg'><img width=\"141\" height=\"300\" src=\"https://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido-141x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido-141x300.jpg 141w, https://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido-482x1024.jpg 482w, https://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido.jpg 965w\" sizes=\"(max-width: 141px) 100vw, 141px\" /></a></p>\n<p>Octavilla de la asamblea de indignados El Ejido</p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido.jpg'><img width=\"141\" height=\"300\" src=\"https://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido-141x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido-141x300.jpg 141w, https://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido-482x1024.jpg 482w, https://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido.jpg 965w\" sizes=\"(max-width: 141px) 100vw, 141px\" /></a></p>\n<p>Octavilla de la asamblea de indignados El Ejido</p>\n"
   },
   "caption": {
     "rendered": "<p>Octavilla de la asamblea de indignados El Ejido</p>\n"
@@ -860,7 +830,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -894,14 +864,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/pages/107/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 114,
-        "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/pages/107/revisions/114"
       }
     ],
     "wp:attachment": [
@@ -945,7 +909,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -979,14 +943,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/pages/100/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 131,
-        "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/pages/100/revisions/131"
       }
     ],
     "wp:attachment": [
@@ -1030,7 +988,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1064,14 +1022,8 @@
     ],
     "version-history": [
       {
-        "count": 18,
+        "count": 0,
         "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/pages/69/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 96,
-        "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/pages/69/revisions/96"
       }
     ],
     "wp:attachment": [
@@ -1104,16 +1056,16 @@
     "rendered": "Nota de prensa enviada con motivo de la DEGUSTACI\u00d3N DE PEPINOS"
   },
   "content": {
-    "rendered": "<p>La asamblea de ciudadanos de El Ejido &#171;INDIGNADOS EL EJIDO&#187; quiere invitarles a difundir, participar y recoger testimonio del pr\u00f3ximo acto que tiene previsto en la Plaza Mayor de El Ejido este s\u00e1bado 4 de Mayo de 2011 a partir de las 20.00h.</p>\n<p>Bajo el lema:</p>\n<p style=\"text-align: center\"><strong>CON LA AGRICULTURA ALMERIENSE</strong></p>\n<p>Los ejidenses tenemos motivos sobrados para estar indignados. Comparte tu indignaci\u00f3n con nosotros y participa.</p>\n<p>Invitaremos a una DEGUSTACI\u00d3N DE PEPINOS con el objeto de expresar nuestra indignaci\u00f3n ante la irresponsabilidad de <a href=\"http://www.lavozlibre.com/noticias/ampliar/268262/cornelia-prufer-storcks-la-novata-culpable-de-la-crisis-de-los-pepinos\">Cornelia Pr\u00fcfer-Storcks</a>, Consejera de Salud en la ciudad-estado de Hamburgo y la lentitud de la reacci\u00f3n de nuestros pol\u00edticos. Esta lentitud contrasta frente a la rapidez con que las consecuencias de tan grav\u00edsimo error se han dado sobre nuestro campo ejidense, almeriense, y, por ende, andaluz y espa\u00f1ol. En unos momentos tan dif\u00edciles como los que estamos viviendo, y en los que muchos y muchas confiaban en la agricultura para poder salir adelante, la actuaci\u00f3n irresponsable de la Sra. Pr\u00fcfer-Storcks y la deficiente capacidad de reacci\u00f3n a tiempo de nuestras autoridades, han provocado terribles p\u00e9rdidas econ\u00f3micas en el sector en general, pero, especialmente para cientos de familias de agricultores/as de nuestro entorno m\u00e1s cercano, as\u00ed como p\u00e9rdidas en el empleo para jornaleros/as, el colectivo m\u00e1s vulnerable. Todos/as estamos sufriendo de forma injusta los errores de otras/os, de personas poderosas a las que les exigimos reparen el da\u00f1o causado: nos lo deben.</p>\n<p>Por eso, estamos indignados en el Ejido y les pedimos a ustedes que se hagan eco de nuestra actividad.</p>\n<p>Sin m\u00e1s, reciban un cordial saludo</p>\n<p>INDIGNADOS EL EJIDO</p>\n",
+    "rendered": "<p>La asamblea de ciudadanos de El Ejido \u00abINDIGNADOS EL EJIDO\u00bb quiere invitarles a difundir, participar y recoger testimonio del pr\u00f3ximo acto que tiene previsto en la Plaza Mayor de El Ejido este s\u00e1bado 4 de Mayo de 2011 a partir de las 20.00h.</p>\n<p>Bajo el lema:</p>\n<p style=\"text-align: center\"><strong>CON LA AGRICULTURA ALMERIENSE</strong></p>\n<p>Los ejidenses tenemos motivos sobrados para estar indignados. Comparte tu indignaci\u00f3n con nosotros y participa.</p>\n<p>Invitaremos a una DEGUSTACI\u00d3N DE PEPINOS con el objeto de expresar nuestra indignaci\u00f3n ante la irresponsabilidad de <a href=\"http://www.lavozlibre.com/noticias/ampliar/268262/cornelia-prufer-storcks-la-novata-culpable-de-la-crisis-de-los-pepinos\">Cornelia Pr\u00fcfer-Storcks</a>, Consejera de Salud en la ciudad-estado de Hamburgo y la lentitud de la reacci\u00f3n de nuestros pol\u00edticos. Esta lentitud contrasta frente a la rapidez con que las consecuencias de tan grav\u00edsimo error se han dado sobre nuestro campo ejidense, almeriense, y, por ende, andaluz y espa\u00f1ol. En unos momentos tan dif\u00edciles como los que estamos viviendo, y en los que muchos y muchas confiaban en la agricultura para poder salir adelante, la actuaci\u00f3n irresponsable de la Sra. Pr\u00fcfer-Storcks y la deficiente capacidad de reacci\u00f3n a tiempo de nuestras autoridades, han provocado terribles p\u00e9rdidas econ\u00f3micas en el sector en general, pero, especialmente para cientos de familias de agricultores/as de nuestro entorno m\u00e1s cercano, as\u00ed como p\u00e9rdidas en el empleo para jornaleros/as, el colectivo m\u00e1s vulnerable. Todos/as estamos sufriendo de forma injusta los errores de otras/os, de personas poderosas a las que les exigimos reparen el da\u00f1o causado: nos lo deben.</p>\n<p>Por eso, estamos indignados en el Ejido y les pedimos a ustedes que se hagan eco de nuestra actividad.</p>\n<p>Sin m\u00e1s, reciban un cordial saludo</p>\n<p>INDIGNADOS EL EJIDO</p>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>La asamblea de ciudadanos de El Ejido &#171;INDIGNADOS EL EJIDO&#187; quiere invitarles a difundir, participar y recoger testimonio del pr\u00f3ximo acto que tiene previsto en la Plaza Mayor de El Ejido este s\u00e1bado 4 de Mayo de 2011 a partir &hellip; <a href=\"https://elejido.tomalosbarrios.net/2011/06/03/nota-de-prensa-enviada-con-motivo-de-la-degustacion-de-pepinos/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+    "rendered": "<p>La asamblea de ciudadanos de El Ejido \u00abINDIGNADOS EL EJIDO\u00bb quiere invitarles a difundir, participar y recoger testimonio del pr\u00f3ximo acto que tiene previsto en la Plaza Mayor de El Ejido este s\u00e1bado 4 de Mayo de 2011 a partir &hellip; <a href=\"https://elejido.tomalosbarrios.net/2011/06/03/nota-de-prensa-enviada-con-motivo-de-la-degustacion-de-pepinos/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
     "protected": false
   },
   "author": 721,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1154,14 +1106,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/22/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 68,
-        "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/22/revisions/68"
       }
     ],
     "wp:attachment": [
@@ -1206,12 +1152,12 @@
     "rendered": "participa_asamblea_elejido"
   },
   "author": 721,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://elejido.tomalosbarrios.net/files/2011/07/participa.jpg'><img width=\"141\" height=\"300\" src=\"https://elejido.tomalosbarrios.net/files/2011/07/participa-141x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://elejido.tomalosbarrios.net/files/2011/07/participa-141x300.jpg 141w, https://elejido.tomalosbarrios.net/files/2011/07/participa-482x1024.jpg 482w, https://elejido.tomalosbarrios.net/files/2011/07/participa.jpg 965w\" sizes=\"(max-width: 141px) 100vw, 141px\" /></a></p>\n<p>Indignad@s El Ejido</p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://elejido.tomalosbarrios.net/files/2011/07/participa.jpg'><img width=\"141\" height=\"300\" src=\"https://elejido.tomalosbarrios.net/files/2011/07/participa-141x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://elejido.tomalosbarrios.net/files/2011/07/participa-141x300.jpg 141w, https://elejido.tomalosbarrios.net/files/2011/07/participa-482x1024.jpg 482w, https://elejido.tomalosbarrios.net/files/2011/07/participa.jpg 965w\" sizes=\"(max-width: 141px) 100vw, 141px\" /></a></p>\n<p>Indignad@s El Ejido</p>\n"
   },
   "caption": {
     "rendered": "<p>Indignad@s El Ejido</p>\n"
@@ -1318,7 +1264,7 @@
     "rendered": "Si los pol\u00edticos no te representan&#8230;"
   },
   "content": {
-    "rendered": "<p><a href=\"http://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido.jpg\"><img class=\"aligncenter size-medium wp-image-115\" src=\"http://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido-141x300.jpg\" alt=\"\" width=\"141\" height=\"300\" srcset=\"https://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido-141x300.jpg 141w, https://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido-482x1024.jpg 482w, https://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido.jpg 965w\" sizes=\"(max-width: 141px) 100vw, 141px\" /></a></p>\n",
+    "rendered": "<p><a href=\"http://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido.jpg\"><img loading=\"lazy\" class=\"aligncenter size-medium wp-image-115\" src=\"http://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido-141x300.jpg\" alt=\"\" width=\"141\" height=\"300\" srcset=\"https://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido-141x300.jpg 141w, https://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido-482x1024.jpg 482w, https://elejido.tomalosbarrios.net/files/2011/07/octavilla_indignados_el_ejido.jpg 965w\" sizes=\"(max-width: 141px) 100vw, 141px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -1327,7 +1273,7 @@
   },
   "author": 721,
   "featured_media": 115,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1371,14 +1317,8 @@
     ],
     "version-history": [
       {
-        "count": 7,
+        "count": 0,
         "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/6/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 117,
-        "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/6/revisions/117"
       }
     ],
     "wp:featuredmedia": [
@@ -1538,7 +1478,7 @@
   },
   "author": 721,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1579,14 +1519,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/1/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 15,
-        "href": "https://elejido.tomalosbarrios.net/wp-json/wp/v2/posts/1/revisions/15"
       }
     ],
     "wp:attachment": [

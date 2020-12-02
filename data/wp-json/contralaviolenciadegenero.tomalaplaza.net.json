@@ -60,14 +60,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://contralaviolenciadegenero.tomalaplaza.net/wp-json/wp/v2/pages/147/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 148,
-        "href": "https://contralaviolenciadegenero.tomalaplaza.net/wp-json/wp/v2/pages/147/revisions/148"
       }
     ],
     "wp:attachment": [
@@ -145,14 +139,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://contralaviolenciadegenero.tomalaplaza.net/wp-json/wp/v2/pages/145/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 146,
-        "href": "https://contralaviolenciadegenero.tomalaplaza.net/wp-json/wp/v2/pages/145/revisions/146"
       }
     ],
     "wp:attachment": [
@@ -230,14 +218,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://contralaviolenciadegenero.tomalaplaza.net/wp-json/wp/v2/pages/143/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 144,
-        "href": "https://contralaviolenciadegenero.tomalaplaza.net/wp-json/wp/v2/pages/143/revisions/144"
       }
     ],
     "wp:attachment": [
@@ -270,7 +252,7 @@
     "rendered": "Asamblea estatal contra la violencia de g\u00e9nero 2017"
   },
   "content": {
-    "rendered": "<p><a href=\"http://contralaviolenciadegenero.tomalaplaza.net/cropped-cropped-cartel-asamblea-15m-jpg/\"><img class=\"alignnone size-full wp-image-138\" src=\"http://contralaviolenciadegenero.tomalaplaza.net/files/2017/04/cropped-cropped-CARTEL-ASAMBLEA-15M.jpg\" alt=\"\" width=\"1280\" height=\"720\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2017/04/cropped-cropped-CARTEL-ASAMBLEA-15M.jpg 1280w, https://contralaviolenciadegenero.tomalaplaza.net/files/2017/04/cropped-cropped-CARTEL-ASAMBLEA-15M-300x169.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2017/04/cropped-cropped-CARTEL-ASAMBLEA-15M-768x432.jpg 768w, https://contralaviolenciadegenero.tomalaplaza.net/files/2017/04/cropped-cropped-CARTEL-ASAMBLEA-15M-1024x576.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2017/04/cropped-cropped-CARTEL-ASAMBLEA-15M-720x405.jpg 720w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" /></a></p>\n<p>Dia 13 de Mayo desde las 12:00, te esperamos</p>\n",
+    "rendered": "<p><a href=\"http://contralaviolenciadegenero.tomalaplaza.net/cropped-cropped-cartel-asamblea-15m-jpg/\"><img loading=\"lazy\" class=\"alignnone size-full wp-image-138\" src=\"http://contralaviolenciadegenero.tomalaplaza.net/files/2017/04/cropped-cropped-CARTEL-ASAMBLEA-15M.jpg\" alt=\"\" width=\"1280\" height=\"720\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2017/04/cropped-cropped-CARTEL-ASAMBLEA-15M.jpg 1280w, https://contralaviolenciadegenero.tomalaplaza.net/files/2017/04/cropped-cropped-CARTEL-ASAMBLEA-15M-300x169.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2017/04/cropped-cropped-CARTEL-ASAMBLEA-15M-768x432.jpg 768w, https://contralaviolenciadegenero.tomalaplaza.net/files/2017/04/cropped-cropped-CARTEL-ASAMBLEA-15M-1024x576.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2017/04/cropped-cropped-CARTEL-ASAMBLEA-15M-720x405.jpg 720w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" /></a></p>\n<p>Dia 13 de Mayo desde las 12:00, te esperamos</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -279,7 +261,7 @@
   },
   "author": 1666,
   "featured_media": 138,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -320,14 +302,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://contralaviolenciadegenero.tomalaplaza.net/wp-json/wp/v2/posts/139/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 140,
-        "href": "https://contralaviolenciadegenero.tomalaplaza.net/wp-json/wp/v2/posts/139/revisions/140"
       }
     ],
     "wp:featuredmedia": [
@@ -378,12 +354,12 @@
     "rendered": "cropped-cropped-CARTEL-ASAMBLEA-15M.jpg"
   },
   "author": 1666,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2017/04/cropped-cropped-CARTEL-ASAMBLEA-15M.jpg'><img width=\"300\" height=\"169\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2017/04/cropped-cropped-CARTEL-ASAMBLEA-15M-300x169.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2017/04/cropped-cropped-CARTEL-ASAMBLEA-15M-300x169.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2017/04/cropped-cropped-CARTEL-ASAMBLEA-15M-768x432.jpg 768w, https://contralaviolenciadegenero.tomalaplaza.net/files/2017/04/cropped-cropped-CARTEL-ASAMBLEA-15M-1024x576.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2017/04/cropped-cropped-CARTEL-ASAMBLEA-15M-720x405.jpg 720w, https://contralaviolenciadegenero.tomalaplaza.net/files/2017/04/cropped-cropped-CARTEL-ASAMBLEA-15M.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2017/04/cropped-cropped-CARTEL-ASAMBLEA-15M.jpg'><img width=\"300\" height=\"169\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2017/04/cropped-cropped-CARTEL-ASAMBLEA-15M-300x169.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2017/04/cropped-cropped-CARTEL-ASAMBLEA-15M-300x169.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2017/04/cropped-cropped-CARTEL-ASAMBLEA-15M-768x432.jpg 768w, https://contralaviolenciadegenero.tomalaplaza.net/files/2017/04/cropped-cropped-CARTEL-ASAMBLEA-15M-1024x576.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2017/04/cropped-cropped-CARTEL-ASAMBLEA-15M-720x405.jpg 720w, https://contralaviolenciadegenero.tomalaplaza.net/files/2017/04/cropped-cropped-CARTEL-ASAMBLEA-15M.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -509,7 +485,7 @@
     "rendered": "cropped-CARTEL-ASAMBLEA-15M.jpg"
   },
   "author": 1666,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -640,7 +616,7 @@
     "rendered": "ASAMBLEA ESTATAL CONTRA LA VIOLENCIA 15M &#8211; 2017"
   },
   "author": 1666,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -771,7 +747,7 @@
     "rendered": "cropped-Depende-de-ti-depende-de-mi-2ok.jpg"
   },
   "author": 1666,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -886,7 +862,7 @@
     "rendered": "cropped-comision3.jpg"
   },
   "author": 1666,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1001,12 +977,12 @@
     "rendered": "el tren de la libertad"
   },
   "author": 1666,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/07/el-tren-de-la-libertad.jpg'><img width=\"225\" height=\"300\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/07/el-tren-de-la-libertad-225x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/07/el-tren-de-la-libertad-225x300.jpg 225w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/07/el-tren-de-la-libertad-768x1024.jpg 768w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/07/el-tren-de-la-libertad-300x400.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/07/el-tren-de-la-libertad-720x960.jpg 720w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/07/el-tren-de-la-libertad.jpg 1200w\" sizes=\"(max-width: 225px) 100vw, 225px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/07/el-tren-de-la-libertad.jpg'><img width=\"225\" height=\"300\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/07/el-tren-de-la-libertad-225x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/07/el-tren-de-la-libertad-225x300.jpg 225w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/07/el-tren-de-la-libertad-768x1024.jpg 768w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/07/el-tren-de-la-libertad-300x400.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/07/el-tren-de-la-libertad-720x960.jpg 720w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/07/el-tren-de-la-libertad.jpg 1200w\" sizes=\"(max-width: 225px) 100vw, 225px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -1132,7 +1108,7 @@
   },
   "author": 1666,
   "featured_media": 126,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1173,14 +1149,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://contralaviolenciadegenero.tomalaplaza.net/wp-json/wp/v2/posts/122/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 125,
-        "href": "https://contralaviolenciadegenero.tomalaplaza.net/wp-json/wp/v2/posts/122/revisions/125"
       }
     ],
     "wp:featuredmedia": [
@@ -1231,12 +1201,12 @@
     "rendered": "justicia"
   },
   "author": 1666,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/06/justicia.jpg'><img width=\"178\" height=\"283\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/06/justicia.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/06/justicia.jpg'><img width=\"178\" height=\"283\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/06/justicia.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -1325,7 +1295,7 @@
     "rendered": "Sentencia &#8220;Caperucita y el lobo&#8221;"
   },
   "content": {
-    "rendered": "<p><a href=\"http://contralaviolenciadegenero.tomalaplaza.net/sentencia-caperucita-y-el-lobo/justicia/\" rel=\"attachment wp-att-117\"><img class=\"alignnone size-full wp-image-117\" alt=\"justicia\" src=\"http://contralaviolenciadegenero.tomalaplaza.net/files/2014/06/justicia.jpg\" width=\"178\" height=\"283\" /></a></p>\n<p><strong>Sentencia del caso de Caperucita y el Lobo:</strong><br />\n&#8220;Visto y considerando los acontecimientos ocurridos y por todos conocidos, fallamos:</p>\n<p>1) Que Caperucita no desconoc\u00eda que pod\u00eda encontrarse con el Lobo.</p>\n<p>2) Que tampoco era ajena al hambre del Lobo, nia los peligros del bosque.</p>\n<p>3) Que si le hubiera ofrecido la cesta de la merienda para que el Lobo calmara su hambre, no habr\u00edan ocurrido los sucesos referidos.</p>\n<p>4) Que el Lobo no ataca a Caperucita de inmediato y hay evidencias claras que primero conversa con ella.</p>\n<p>5) Que es Caperucita quien voluntariamente le da pistas al Lobo y le se\u00f1ala el camino de la casa de la abuelita, lo cual claramente la convierte en c\u00f3mplice.</p>\n<p>6) Que la anciana no es imputable ya que confunde a su nieta con el Lobo.</p>\n<p>7) Que cuando Caperucita llega y el Lobo est\u00e1 en la cama con la ropa de la abuela, Caperucita no se alarma.</p>\n<p>8) Que el hecho de que Caperucita confunda al Lobo con la abuelita demuestra lo poco que iba a visitarla, hecho que se tipificar\u00eda como abandono de persona anciana por parte de la joven Caperucita.</p>\n<p>9) Que el Lobo, con respuestas simples ydirectas, quiere desesperadamente alertar a Caperucita sobre su posible conducta final.</p>\n<p>10) Que cuando el Lobo, que ya no sabe qu\u00e9 m\u00e1spuede hacer para alertarla y se come a Caperucita, es porque ya no le quedaba otra soluci\u00f3n.</p>\n<p>11) Que es altamente posible que antes Caperucita hiciera el amor con el Lobo e incluso lo disfrutara.</p>\n<p>12) Que cobra cada vez m\u00e1s fuerza la versi\u00f3n deque Caperucita, cuando oye la pregunta del Lobo: \u00ab\u00bfAd\u00f3nde vas?\u00bb Realmente respondi\u00f3: \u00abA ba\u00f1arme desnuda en el r\u00edo&#8230;\u00bb.</p>\n<p>13) Que se desprende del punto anterior que es Caperucita la que provoca los m\u00e1s bajos instintos brutales y depredadores, en la pobre fiera.</p>\n<p>14) Que el Lobo ataca, si, pero tal hecho corresponde a su propia naturaleza y a su instinto natural y animal, exacerbados por la conducta de la susodicha Caperucita.</p>\n<p>15) Que merece un p\u00e1rrafo aparte la madre de Caperucita, en quien se aprecia signo de culpabilidad por no acompa\u00f1ar a su hija, conociendo los peligros del bosque.</p>\n<p>Por todo lo antes dicho, se absuelve al Se\u00f1or Lobo y se dispone adem\u00e1s:<br />\n1.- Apercibir a la familia de Caperucita,imponiendo a la abuela que se presente en el hospital que se designe, para su observaci\u00f3n gerontol\u00f3gica.</p>\n<p>2.- A la madre, apercibirla para que cumpla correctamente con sus deberes de madre..</p>\n<p>3.- A Caperucita,<br />\n1\u00ba Trabajo comunitario en el zool\u00f3gico local para conocer plenamente la naturaleza y el instinto animal.<br />\n2\u00ba Indemnizar\u00e1 al Sr.Lobo a raz\u00f3n de 100 \u20acdiarios y ha de prepararle todas las tardes la merienda durante un a\u00f1o.<br />\n3\u00ba A pagar las costas del proceso.</p>\n<p>Aclarar asimismo en el presente fallo que este proceso no afecta el\u00a0buen nombre y honor del se\u00f1or Lobo.</p>\n",
+    "rendered": "<p><a href=\"http://contralaviolenciadegenero.tomalaplaza.net/sentencia-caperucita-y-el-lobo/justicia/\" rel=\"attachment wp-att-117\"><img loading=\"lazy\" class=\"alignnone size-full wp-image-117\" alt=\"justicia\" src=\"http://contralaviolenciadegenero.tomalaplaza.net/files/2014/06/justicia.jpg\" width=\"178\" height=\"283\" /></a></p>\n<p><strong>Sentencia del caso de Caperucita y el Lobo:</strong><br />\n&#8220;Visto y considerando los acontecimientos ocurridos y por todos conocidos, fallamos:</p>\n<p>1) Que Caperucita no desconoc\u00eda que pod\u00eda encontrarse con el Lobo.</p>\n<p>2) Que tampoco era ajena al hambre del Lobo, nia los peligros del bosque.</p>\n<p>3) Que si le hubiera ofrecido la cesta de la merienda para que el Lobo calmara su hambre, no habr\u00edan ocurrido los sucesos referidos.</p>\n<p>4) Que el Lobo no ataca a Caperucita de inmediato y hay evidencias claras que primero conversa con ella.</p>\n<p>5) Que es Caperucita quien voluntariamente le da pistas al Lobo y le se\u00f1ala el camino de la casa de la abuelita, lo cual claramente la convierte en c\u00f3mplice.</p>\n<p>6) Que la anciana no es imputable ya que confunde a su nieta con el Lobo.</p>\n<p>7) Que cuando Caperucita llega y el Lobo est\u00e1 en la cama con la ropa de la abuela, Caperucita no se alarma.</p>\n<p>8) Que el hecho de que Caperucita confunda al Lobo con la abuelita demuestra lo poco que iba a visitarla, hecho que se tipificar\u00eda como abandono de persona anciana por parte de la joven Caperucita.</p>\n<p>9) Que el Lobo, con respuestas simples ydirectas, quiere desesperadamente alertar a Caperucita sobre su posible conducta final.</p>\n<p>10) Que cuando el Lobo, que ya no sabe qu\u00e9 m\u00e1spuede hacer para alertarla y se come a Caperucita, es porque ya no le quedaba otra soluci\u00f3n.</p>\n<p>11) Que es altamente posible que antes Caperucita hiciera el amor con el Lobo e incluso lo disfrutara.</p>\n<p>12) Que cobra cada vez m\u00e1s fuerza la versi\u00f3n deque Caperucita, cuando oye la pregunta del Lobo: \u00ab\u00bfAd\u00f3nde vas?\u00bb Realmente respondi\u00f3: \u00abA ba\u00f1arme desnuda en el r\u00edo&#8230;\u00bb.</p>\n<p>13) Que se desprende del punto anterior que es Caperucita la que provoca los m\u00e1s bajos instintos brutales y depredadores, en la pobre fiera.</p>\n<p>14) Que el Lobo ataca, si, pero tal hecho corresponde a su propia naturaleza y a su instinto natural y animal, exacerbados por la conducta de la susodicha Caperucita.</p>\n<p>15) Que merece un p\u00e1rrafo aparte la madre de Caperucita, en quien se aprecia signo de culpabilidad por no acompa\u00f1ar a su hija, conociendo los peligros del bosque.</p>\n<p>Por todo lo antes dicho, se absuelve al Se\u00f1or Lobo y se dispone adem\u00e1s:<br />\n1.- Apercibir a la familia de Caperucita,imponiendo a la abuela que se presente en el hospital que se designe, para su observaci\u00f3n gerontol\u00f3gica.</p>\n<p>2.- A la madre, apercibirla para que cumpla correctamente con sus deberes de madre..</p>\n<p>3.- A Caperucita,<br />\n1\u00ba Trabajo comunitario en el zool\u00f3gico local para conocer plenamente la naturaleza y el instinto animal.<br />\n2\u00ba Indemnizar\u00e1 al Sr.Lobo a raz\u00f3n de 100 \u20acdiarios y ha de prepararle todas las tardes la merienda durante un a\u00f1o.<br />\n3\u00ba A pagar las costas del proceso.</p>\n<p>Aclarar asimismo en el presente fallo que este proceso no afecta el\u00a0buen nombre y honor del se\u00f1or Lobo.</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -1336,7 +1306,7 @@
   "featured_media": 117,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1370,14 +1340,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://contralaviolenciadegenero.tomalaplaza.net/wp-json/wp/v2/pages/116/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 120,
-        "href": "https://contralaviolenciadegenero.tomalaplaza.net/wp-json/wp/v2/pages/116/revisions/120"
       }
     ],
     "wp:featuredmedia": [
@@ -1416,12 +1380,12 @@
     "rendered": "1511610_10202642548453238_1667455027_o"
   },
   "author": 1666,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/1511610_10202642548453238_1667455027_o.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/1511610_10202642548453238_1667455027_o-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/1511610_10202642548453238_1667455027_o-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/1511610_10202642548453238_1667455027_o-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/1511610_10202642548453238_1667455027_o-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/1511610_10202642548453238_1667455027_o.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/1511610_10202642548453238_1667455027_o-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/1511610_10202642548453238_1667455027_o-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/1511610_10202642548453238_1667455027_o-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/1511610_10202642548453238_1667455027_o-720x540.jpg 720w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/1511610_10202642548453238_1667455027_o.jpg 2048w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -1549,7 +1513,7 @@
   "featured_media": 112,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1583,14 +1547,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://contralaviolenciadegenero.tomalaplaza.net/wp-json/wp/v2/pages/111/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 149,
-        "href": "https://contralaviolenciadegenero.tomalaplaza.net/wp-json/wp/v2/pages/111/revisions/149"
       }
     ],
     "wp:featuredmedia": [
@@ -1629,7 +1587,7 @@
     "rendered": "Depende de ti, depende de mi, 2ok"
   },
   "author": 1666,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1744,12 +1702,12 @@
     "rendered": "Sin t\u00edtulo"
   },
   "author": 1666,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/Sin-t\u00edtulo.jpg'><img width=\"300\" height=\"166\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/Sin-t\u00edtulo-300x166.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/Sin-t\u00edtulo-300x166.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/Sin-t\u00edtulo.jpg 638w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/Sin-t\u00edtulo.jpg'><img width=\"300\" height=\"166\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/Sin-t\u00edtulo-300x166.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/Sin-t\u00edtulo-300x166.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/Sin-t\u00edtulo.jpg 638w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -1852,12 +1810,12 @@
     "rendered": "p"
   },
   "author": 1666,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/p.jpg'><img width=\"300\" height=\"167\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/p-300x167.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/p-300x167.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/p.jpg 632w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/p.jpg'><img width=\"300\" height=\"167\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/p-300x167.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/p-300x167.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/p.jpg 632w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -1960,12 +1918,12 @@
     "rendered": "o"
   },
   "author": 1666,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/o.jpg'><img width=\"300\" height=\"163\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/o-300x163.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/o-300x163.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/o.jpg 640w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/o.jpg'><img width=\"300\" height=\"163\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/o-300x163.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/o-300x163.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/o.jpg 640w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2068,7 +2026,7 @@
     "rendered": "La Asamblea Estatal contra la Violencia de G\u00e9nero, pidi\u00f3 que el gobierno se comprometiese de verdad con las v\u00edctimas de la violencia machista"
   },
   "content": {
-    "rendered": "<h3><a href=\"http://contralaviolenciadegenero.tomalaplaza.net/2014/05/30/la-asamblea-estatal-contra-la-violencia-de-genero-pidio-que-el-gobierno-se-comprometiese-de-verdad-con-las-victimas-de-la-violencia-machista/o/\" rel=\"attachment wp-att-93\"><img class=\"alignnone size-medium wp-image-93\" alt=\"o\" src=\"http://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/o-300x163.jpg\" width=\"300\" height=\"163\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/o-300x163.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/o.jpg 640w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a> <a href=\"http://contralaviolenciadegenero.tomalaplaza.net/2014/05/30/la-asamblea-estatal-contra-la-violencia-de-genero-pidio-que-el-gobierno-se-comprometiese-de-verdad-con-las-victimas-de-la-violencia-machista/p/\" rel=\"attachment wp-att-94\"><img class=\"alignnone size-medium wp-image-94\" alt=\"p\" src=\"http://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/p-300x167.jpg\" width=\"300\" height=\"167\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/p-300x167.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/p.jpg 632w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a> <a href=\"http://contralaviolenciadegenero.tomalaplaza.net/2014/05/30/la-asamblea-estatal-contra-la-violencia-de-genero-pidio-que-el-gobierno-se-comprometiese-de-verdad-con-las-victimas-de-la-violencia-machista/sin-titulo/\" rel=\"attachment wp-att-95\"><img class=\"alignnone size-medium wp-image-95\" alt=\"Sin t\u00edtulo\" src=\"http://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/Sin-t\u00edtulo-300x166.jpg\" width=\"300\" height=\"166\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/Sin-t\u00edtulo-300x166.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/Sin-t\u00edtulo.jpg 638w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></h3>\n<h3>El 15M vuelve a la calle</h3>\n<div></div>\n<div id=\"post-body-6213370365317604622\">\n<div>Tres a\u00f1os despu\u00e9s del\u00a0nacimiento\u00a0del 15M, el movimiento que hizo despertar la conciencia social y pol\u00edtica en Espa\u00f1a, y que inspir\u00f3 a numerosas personas en otros pa\u00edses del mundo; vuelve a salir a la calle para celebrar su tercer aniversario en una manifestaci\u00f3n que, desde las seis de la tarde, \u00a0recorri\u00f3 el centro de la capital desde la fuente de Cibeles, hasta la Puerta del Sol, entre un gran despliegue policial; al grito de &#8220;esta deuda no la pagamos&#8221; y del ya famoso &#8220;s\u00ed se puede&#8221;.</div>\n<div></div>\n<div></div>\n<div></div>\n<table cellspacing=\"0\" cellpadding=\"0\" align=\"center\">\n<tbody>\n<tr>\n<td><a href=\"http://4.bp.blogspot.com/-J_tmMd2LQy0/U3fQD4_6eFI/AAAAAAAAAMU/5eqpgPZGCms/s1600/IMG_5360+(800x533).jpg\"><img alt=\"\" src=\"http://4.bp.blogspot.com/-J_tmMd2LQy0/U3fQD4_6eFI/AAAAAAAAAMU/5eqpgPZGCms/s1600/IMG_5360+(800x533).jpg\" width=\"400\" height=\"266\" border=\"0\" /></a></td>\n</tr>\n<tr>\n<td>Cabecera de la manifestaci\u00f3n / Fuente: Mar\u00eda L\u00f3pez Valea</td>\n</tr>\n</tbody>\n</table>\n<div></div>\n<div></div>\n<div>Personas a favor de la educaci\u00f3n p\u00fablica, en contra de la privatizaci\u00f3n de la sanidad, miembros de la plataforma StopDesahucios y de asambleas como la de Argando o Usera, se reunieron en una protesta que aunque no con muchos asistentes, quiz\u00e1s por el partido que decid\u00eda la liga o por el cansancio de la poblaci\u00f3n hacia un gobierno que no responde a sus peticiones, dej\u00f3 claro que el movimiento social no ha acabado, y que al 15M a\u00fan le quedan a\u00f1os de vida.</div>\n<div></div>\n<div>A lo largo del recorrido, amenizado en todo momento por la batucada, los manifestantes se acordaron de Gallard\u00f3n y su ley del aborto; de la reforma laboral; de la semejanza entre al PP y el PSOE; \u00a0y tambi\u00e9n de banqueros, la troika y la crisis econ\u00f3mica, con el c\u00e1ntico de &#8220;esta estafa no la pagamos&#8221;.</div>\n<div></div>\n<div>Sobre las siete y media de la tarde, \u00a0la cabecera de la manifestaci\u00f3n llegaba a Sol, a su casa, tres a\u00f1os despu\u00e9s; y empezaba el concierto de la Solf\u00f3nica, que puso la nota musical con una versi\u00f3n del &#8220;Je Veux&#8221; de la cantante francesa Zaz, y de la &#8220;Rianxeira&#8221;, en tono reivindicativo.</div>\n<div></div>\n<div>Tras esto toc\u00f3 el turno de las intervenciones de las diferentes asambleas y grupos presentes. El primero en hablar fue un hombre mexicano que ley\u00f3 un manifiesto internacional, donde se explicaba la inspiraci\u00f3n que \u00a0fue el 15M para movimientos latinoamericanos como el &#8220;532 M\u00e9xico&#8221; y que record\u00f3 que hay que superar las frontes.</div>\n<div>\n<table cellspacing=\"0\" cellpadding=\"0\" align=\"center\">\n<tbody>\n<tr>\n<td><a href=\"http://4.bp.blogspot.com/-pgTqsCcmQ6w/U3fPWcMp8kI/AAAAAAAAAMM/AMRx6rXkJqw/s1600/IMG_5346+(800x533).jpg\"><img alt=\"\" src=\"http://4.bp.blogspot.com/-pgTqsCcmQ6w/U3fPWcMp8kI/AAAAAAAAAMM/AMRx6rXkJqw/s1600/IMG_5346+(800x533).jpg\" width=\"400\" height=\"266\" border=\"0\" /></a></td>\n</tr>\n<tr>\n<td>Pancarta de un manifestante / Mar\u00eda L\u00f3pez Valea</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div>En segundo lugar, se dio la palabra a una mujer que cont\u00f3 c\u00f3mo se estaba\u00a0viviendo\u00a0estas jornadas en el resto de Europa,y donde destac\u00f3 el anuncio de que desde Alemania iba a salir una marcha, &#8220;la marcha de la libertad&#8221;, que tiene como objetivo llegar a Bruselas el pr\u00f3ximo 27 de junio, d\u00eda en el que se producir\u00e1 en la capital belga una reuni\u00f3n para tratar el tema de FRONTEX (pol\u00edtica de inmigraci\u00f3n de la Uni\u00f3n Europea, para proteger las fronteras de los pa\u00edses miembros).</div>\n<div></div>\n<div>No fueron estos los \u00fanicos en hablar sino que otros grupos como el Movimiento Zapatista defendi\u00f3 la creaci\u00f3n de&#8221;un mundo con muchos mundos&#8221;; la Asamblea Estatal contra la Violencia de G\u00e9nero, pidi\u00f3 que el gobierno se comprometiese de verdad con las v\u00edctimas de la violencia machista; y la Plataforma No Somos Delito, que record\u00f3 la la criminalizaci\u00f3n de las manifestaciones que se recoge en la conocida como &#8220;ley mordaza&#8221;.</div>\n<div></div>\n<div>Sin embargo, esta vez no solo se trataron temas pol\u00edticos, sino que hubo un espacio para hablar sobre los transg\u00e9nicos, los abonos y los peligros de estos, tanto para la agricultura como, en el caso de los primeros, para el consumo humano.</div>\n<div></div>\n<div>Una jornada m\u00e1s de protesta que, como suele ocurrir en las manifestaciones del 15M finaliz\u00f3 con un turno de palabra donde se dio la oportunidad a los all\u00ed de presentes de aportar sus ideas para conseguir el cambio social, y donde se habl\u00f3 de temas tan varios como la insumisi\u00f3n fiscal o la necesidad de ir a votar en las pr\u00f3ximas elecciones europeas.</div>\n<div></div>\n<div>Quiz\u00e1s a menor escala o quiz\u00e1s con menos personas que hace tres a\u00f1os, lo que est\u00e1 claro es que el 15M; aquello que naci\u00f3 de manera espont\u00e1nea, como el cansancio de una poblaci\u00f3n hacia un gobierno que no consideraban leg\u00edtimo, sigue vivo en toda esa gente que a\u00fan cree que un cambio es posible.</div>\n</div>\n",
+    "rendered": "<h3><a href=\"http://contralaviolenciadegenero.tomalaplaza.net/2014/05/30/la-asamblea-estatal-contra-la-violencia-de-genero-pidio-que-el-gobierno-se-comprometiese-de-verdad-con-las-victimas-de-la-violencia-machista/o/\" rel=\"attachment wp-att-93\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-93\" alt=\"o\" src=\"http://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/o-300x163.jpg\" width=\"300\" height=\"163\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/o-300x163.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/o.jpg 640w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a> <a href=\"http://contralaviolenciadegenero.tomalaplaza.net/2014/05/30/la-asamblea-estatal-contra-la-violencia-de-genero-pidio-que-el-gobierno-se-comprometiese-de-verdad-con-las-victimas-de-la-violencia-machista/p/\" rel=\"attachment wp-att-94\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-94\" alt=\"p\" src=\"http://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/p-300x167.jpg\" width=\"300\" height=\"167\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/p-300x167.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/p.jpg 632w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a> <a href=\"http://contralaviolenciadegenero.tomalaplaza.net/2014/05/30/la-asamblea-estatal-contra-la-violencia-de-genero-pidio-que-el-gobierno-se-comprometiese-de-verdad-con-las-victimas-de-la-violencia-machista/sin-titulo/\" rel=\"attachment wp-att-95\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-95\" alt=\"Sin t\u00edtulo\" src=\"http://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/Sin-t\u00edtulo-300x166.jpg\" width=\"300\" height=\"166\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/Sin-t\u00edtulo-300x166.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/Sin-t\u00edtulo.jpg 638w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></h3>\n<h3>El 15M vuelve a la calle</h3>\n<div></div>\n<div id=\"post-body-6213370365317604622\">\n<div>Tres a\u00f1os despu\u00e9s del\u00a0nacimiento\u00a0del 15M, el movimiento que hizo despertar la conciencia social y pol\u00edtica en Espa\u00f1a, y que inspir\u00f3 a numerosas personas en otros pa\u00edses del mundo; vuelve a salir a la calle para celebrar su tercer aniversario en una manifestaci\u00f3n que, desde las seis de la tarde, \u00a0recorri\u00f3 el centro de la capital desde la fuente de Cibeles, hasta la Puerta del Sol, entre un gran despliegue policial; al grito de &#8220;esta deuda no la pagamos&#8221; y del ya famoso &#8220;s\u00ed se puede&#8221;.</div>\n<div></div>\n<div></div>\n<div></div>\n<table cellspacing=\"0\" cellpadding=\"0\" align=\"center\">\n<tbody>\n<tr>\n<td><a href=\"http://4.bp.blogspot.com/-J_tmMd2LQy0/U3fQD4_6eFI/AAAAAAAAAMU/5eqpgPZGCms/s1600/IMG_5360+(800x533).jpg\"><img loading=\"lazy\" alt=\"\" src=\"http://4.bp.blogspot.com/-J_tmMd2LQy0/U3fQD4_6eFI/AAAAAAAAAMU/5eqpgPZGCms/s1600/IMG_5360+(800x533).jpg\" width=\"400\" height=\"266\" border=\"0\" /></a></td>\n</tr>\n<tr>\n<td>Cabecera de la manifestaci\u00f3n / Fuente: Mar\u00eda L\u00f3pez Valea</td>\n</tr>\n</tbody>\n</table>\n<div></div>\n<div></div>\n<div>Personas a favor de la educaci\u00f3n p\u00fablica, en contra de la privatizaci\u00f3n de la sanidad, miembros de la plataforma StopDesahucios y de asambleas como la de Argando o Usera, se reunieron en una protesta que aunque no con muchos asistentes, quiz\u00e1s por el partido que decid\u00eda la liga o por el cansancio de la poblaci\u00f3n hacia un gobierno que no responde a sus peticiones, dej\u00f3 claro que el movimiento social no ha acabado, y que al 15M a\u00fan le quedan a\u00f1os de vida.</div>\n<div></div>\n<div>A lo largo del recorrido, amenizado en todo momento por la batucada, los manifestantes se acordaron de Gallard\u00f3n y su ley del aborto; de la reforma laboral; de la semejanza entre al PP y el PSOE; \u00a0y tambi\u00e9n de banqueros, la troika y la crisis econ\u00f3mica, con el c\u00e1ntico de &#8220;esta estafa no la pagamos&#8221;.</div>\n<div></div>\n<div>Sobre las siete y media de la tarde, \u00a0la cabecera de la manifestaci\u00f3n llegaba a Sol, a su casa, tres a\u00f1os despu\u00e9s; y empezaba el concierto de la Solf\u00f3nica, que puso la nota musical con una versi\u00f3n del &#8220;Je Veux&#8221; de la cantante francesa Zaz, y de la &#8220;Rianxeira&#8221;, en tono reivindicativo.</div>\n<div></div>\n<div>Tras esto toc\u00f3 el turno de las intervenciones de las diferentes asambleas y grupos presentes. El primero en hablar fue un hombre mexicano que ley\u00f3 un manifiesto internacional, donde se explicaba la inspiraci\u00f3n que \u00a0fue el 15M para movimientos latinoamericanos como el &#8220;532 M\u00e9xico&#8221; y que record\u00f3 que hay que superar las frontes.</div>\n<div>\n<table cellspacing=\"0\" cellpadding=\"0\" align=\"center\">\n<tbody>\n<tr>\n<td><a href=\"http://4.bp.blogspot.com/-pgTqsCcmQ6w/U3fPWcMp8kI/AAAAAAAAAMM/AMRx6rXkJqw/s1600/IMG_5346+(800x533).jpg\"><img loading=\"lazy\" alt=\"\" src=\"http://4.bp.blogspot.com/-pgTqsCcmQ6w/U3fPWcMp8kI/AAAAAAAAAMM/AMRx6rXkJqw/s1600/IMG_5346+(800x533).jpg\" width=\"400\" height=\"266\" border=\"0\" /></a></td>\n</tr>\n<tr>\n<td>Pancarta de un manifestante / Mar\u00eda L\u00f3pez Valea</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div>En segundo lugar, se dio la palabra a una mujer que cont\u00f3 c\u00f3mo se estaba\u00a0viviendo\u00a0estas jornadas en el resto de Europa,y donde destac\u00f3 el anuncio de que desde Alemania iba a salir una marcha, &#8220;la marcha de la libertad&#8221;, que tiene como objetivo llegar a Bruselas el pr\u00f3ximo 27 de junio, d\u00eda en el que se producir\u00e1 en la capital belga una reuni\u00f3n para tratar el tema de FRONTEX (pol\u00edtica de inmigraci\u00f3n de la Uni\u00f3n Europea, para proteger las fronteras de los pa\u00edses miembros).</div>\n<div></div>\n<div>No fueron estos los \u00fanicos en hablar sino que otros grupos como el Movimiento Zapatista defendi\u00f3 la creaci\u00f3n de&#8221;un mundo con muchos mundos&#8221;; la Asamblea Estatal contra la Violencia de G\u00e9nero, pidi\u00f3 que el gobierno se comprometiese de verdad con las v\u00edctimas de la violencia machista; y la Plataforma No Somos Delito, que record\u00f3 la la criminalizaci\u00f3n de las manifestaciones que se recoge en la conocida como &#8220;ley mordaza&#8221;.</div>\n<div></div>\n<div>Sin embargo, esta vez no solo se trataron temas pol\u00edticos, sino que hubo un espacio para hablar sobre los transg\u00e9nicos, los abonos y los peligros de estos, tanto para la agricultura como, en el caso de los primeros, para el consumo humano.</div>\n<div></div>\n<div>Una jornada m\u00e1s de protesta que, como suele ocurrir en las manifestaciones del 15M finaliz\u00f3 con un turno de palabra donde se dio la oportunidad a los all\u00ed de presentes de aportar sus ideas para conseguir el cambio social, y donde se habl\u00f3 de temas tan varios como la insumisi\u00f3n fiscal o la necesidad de ir a votar en las pr\u00f3ximas elecciones europeas.</div>\n<div></div>\n<div>Quiz\u00e1s a menor escala o quiz\u00e1s con menos personas que hace tres a\u00f1os, lo que est\u00e1 claro es que el 15M; aquello que naci\u00f3 de manera espont\u00e1nea, como el cansancio de una poblaci\u00f3n hacia un gobierno que no consideraban leg\u00edtimo, sigue vivo en toda esa gente que a\u00fan cree que un cambio es posible.</div>\n</div>\n",
     "protected": false
   },
   "excerpt": {
@@ -2077,7 +2035,7 @@
   },
   "author": 1666,
   "featured_media": 93,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2118,14 +2076,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://contralaviolenciadegenero.tomalaplaza.net/wp-json/wp/v2/posts/90/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 92,
-        "href": "https://contralaviolenciadegenero.tomalaplaza.net/wp-json/wp/v2/posts/90/revisions/92"
       }
     ],
     "wp:featuredmedia": [
@@ -2176,12 +2128,12 @@
     "rendered": "20140517_165150"
   },
   "author": 1666,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_165150.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_165150-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_165150-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_165150-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_165150-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_165150.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_165150-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_165150-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_165150-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_165150-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2298,12 +2250,12 @@
     "rendered": "20140517_161727"
   },
   "author": 1666,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161727.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161727-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161727-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161727-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161727-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161727.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161727-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161727-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161727-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161727-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2420,12 +2372,12 @@
     "rendered": "20140517_161625"
   },
   "author": 1666,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161625.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161625-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161625-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161625-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161625-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161625.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161625-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161625-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161625-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161625-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2542,12 +2494,12 @@
     "rendered": "20140517_161452"
   },
   "author": 1666,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161452.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161452-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161452-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161452-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161452-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161452.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161452-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161452-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161452-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161452-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2664,12 +2616,12 @@
     "rendered": "20140517_161426"
   },
   "author": 1666,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161426.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161426-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161426-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161426-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161426-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161426.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161426-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161426-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161426-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161426-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2786,12 +2738,12 @@
     "rendered": "20140517_161353"
   },
   "author": 1666,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161353.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161353-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161353-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161353-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161353-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161353.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161353-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161353-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161353-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161353-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2908,12 +2860,12 @@
     "rendered": "20140517_161303"
   },
   "author": 1666,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161303.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161303-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161303-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161303-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161303-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161303.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161303-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161303-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161303-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161303-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3030,12 +2982,12 @@
     "rendered": "20140517_161156"
   },
   "author": 1666,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161156.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161156-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161156-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161156-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161156-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161156.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161156-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161156-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161156-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161156-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3152,12 +3104,12 @@
     "rendered": "20140517_161146"
   },
   "author": 1666,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161146.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161146-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161146-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161146-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161146-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161146.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161146-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161146-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161146-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161146-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3274,12 +3226,12 @@
     "rendered": "20140517_161039"
   },
   "author": 1666,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161039.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161039-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161039-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161039-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161039-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161039.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161039-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161039-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161039-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161039-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3396,12 +3348,12 @@
     "rendered": "20140517_160937"
   },
   "author": 1666,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160937.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160937-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160937-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160937-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160937-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160937.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160937-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160937-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160937-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160937-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3518,12 +3470,12 @@
     "rendered": "20140517_160918"
   },
   "author": 1666,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1609181.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1609181-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1609181-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1609181-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1609181-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1609181.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1609181-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1609181-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1609181-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1609181-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3640,12 +3592,12 @@
     "rendered": "20140517_160832"
   },
   "author": 1666,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1608321.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1608321-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1608321-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1608321-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1608321-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1608321.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1608321-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1608321-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1608321-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1608321-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3762,12 +3714,12 @@
     "rendered": "20140517_160805"
   },
   "author": 1666,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1608051.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1608051-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1608051-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1608051-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1608051-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1608051.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1608051-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1608051-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1608051-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1608051-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3884,12 +3836,12 @@
     "rendered": "20140517_160617"
   },
   "author": 1666,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1606171.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1606171-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1606171-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1606171-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1606171-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1606171.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1606171-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1606171-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1606171-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_1606171-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4006,12 +3958,12 @@
     "rendered": "Solf\u00f3nica_Sol"
   },
   "author": 1666,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/Solf\u00f3nica_Sol.jpg'><img width=\"300\" height=\"168\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/Solf\u00f3nica_Sol-300x168.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/Solf\u00f3nica_Sol-300x168.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/Solf\u00f3nica_Sol-720x405.jpg 720w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/Solf\u00f3nica_Sol.jpg 832w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/Solf\u00f3nica_Sol.jpg'><img width=\"300\" height=\"168\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/Solf\u00f3nica_Sol-300x168.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/Solf\u00f3nica_Sol-300x168.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/Solf\u00f3nica_Sol-720x405.jpg 720w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/Solf\u00f3nica_Sol.jpg 832w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4130,7 +4082,7 @@
   },
   "author": 1666,
   "featured_media": 46,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4171,14 +4123,8 @@
     ],
     "version-history": [
       {
-        "count": 10,
+        "count": 0,
         "href": "https://contralaviolenciadegenero.tomalaplaza.net/wp-json/wp/v2/posts/42/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 45,
-        "href": "https://contralaviolenciadegenero.tomalaplaza.net/wp-json/wp/v2/posts/42/revisions/45"
       }
     ],
     "wp:featuredmedia": [
@@ -4229,12 +4175,12 @@
     "rendered": "1012597_780988595258920_8200894267598537257_n"
   },
   "author": 1666,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/1012597_780988595258920_8200894267598537257_n.jpg'><img width=\"300\" height=\"212\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/1012597_780988595258920_8200894267598537257_n-300x212.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/1012597_780988595258920_8200894267598537257_n-300x212.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/1012597_780988595258920_8200894267598537257_n-720x510.jpg 720w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/1012597_780988595258920_8200894267598537257_n.jpg 960w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/1012597_780988595258920_8200894267598537257_n.jpg'><img width=\"300\" height=\"212\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/1012597_780988595258920_8200894267598537257_n-300x212.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/1012597_780988595258920_8200894267598537257_n-300x212.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/1012597_780988595258920_8200894267598537257_n-720x510.jpg 720w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/1012597_780988595258920_8200894267598537257_n.jpg 960w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4344,12 +4290,12 @@
     "rendered": "20140517_160805"
   },
   "author": 1666,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160805.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160805-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160805-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160805-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160805-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160805.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160805-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160805-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160805-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160805-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4466,12 +4412,12 @@
     "rendered": "20140517_160759"
   },
   "author": 1666,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160759.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160759-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160759-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160759-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160759-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160759.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160759-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160759-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160759-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160759-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4588,12 +4534,12 @@
     "rendered": "20140517_160637"
   },
   "author": 1666,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160637.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160637-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160637-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160637-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160637-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160637.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160637-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160637-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160637-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160637-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4710,12 +4656,12 @@
     "rendered": "20140517_160617"
   },
   "author": 1666,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160617.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160617-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160617-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160617-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160617-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160617.jpg'><img width=\"300\" height=\"225\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160617-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160617-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160617-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_160617-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4832,7 +4778,7 @@
     "rendered": "Mayo Global 2014, Contra la violencia de g\u00e9nero 15M"
   },
   "content": {
-    "rendered": "<p><a href=\"http://contralaviolenciadegenero.tomalaplaza.net/2014/05/30/mayo-global-2014-contra-la-violencia-de-genero-15m/1012597_780988595258920_8200894267598537257_n/\" rel=\"attachment wp-att-40\"><img class=\"alignnone size-medium wp-image-40\" alt=\"1012597_780988595258920_8200894267598537257_n\" src=\"http://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/1012597_780988595258920_8200894267598537257_n-300x212.jpg\" width=\"300\" height=\"212\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/1012597_780988595258920_8200894267598537257_n-300x212.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/1012597_780988595258920_8200894267598537257_n-720x510.jpg 720w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/1012597_780988595258920_8200894267598537257_n.jpg 960w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><p class=\"flex-video\"><iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/jC959bsOkiY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe></p>\n</p>\n",
+    "rendered": "<p><a href=\"http://contralaviolenciadegenero.tomalaplaza.net/2014/05/30/mayo-global-2014-contra-la-violencia-de-genero-15m/1012597_780988595258920_8200894267598537257_n/\" rel=\"attachment wp-att-40\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-40\" alt=\"1012597_780988595258920_8200894267598537257_n\" src=\"http://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/1012597_780988595258920_8200894267598537257_n-300x212.jpg\" width=\"300\" height=\"212\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/1012597_780988595258920_8200894267598537257_n-300x212.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/1012597_780988595258920_8200894267598537257_n-720x510.jpg 720w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/1012597_780988595258920_8200894267598537257_n.jpg 960w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><p class=\"flex-video\"><iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/jC959bsOkiY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe></p>\n</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -4841,7 +4787,7 @@
   },
   "author": 1666,
   "featured_media": 40,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4886,14 +4832,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://contralaviolenciadegenero.tomalaplaza.net/wp-json/wp/v2/posts/22/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 25,
-        "href": "https://contralaviolenciadegenero.tomalaplaza.net/wp-json/wp/v2/posts/22/revisions/25"
       }
     ],
     "wp:featuredmedia": [
@@ -4944,12 +4884,12 @@
     "rendered": "comision"
   },
   "author": 1666,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/comision3.jpg'><img width=\"300\" height=\"157\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/comision3-300x157.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/comision3-300x157.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/comision3-720x378.jpg 720w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/comision3.jpg 914w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/comision3.jpg'><img width=\"300\" height=\"157\" src=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/comision3-300x157.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/comision3-300x157.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/comision3-720x378.jpg 720w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/comision3.jpg 914w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -5059,7 +4999,7 @@
     "rendered": "Un hito en la historia del 15M a nivel mundial, Espa\u00f1a crea una \u201cAsamblea espec\u00edfica contra la violencia de g\u00e9nero dentro del 15"
   },
   "content": {
-    "rendered": "<p><a href=\"http://contralaviolenciadegenero.tomalaplaza.net/2014/05/30/un-hito-en-la-historia-del-15m-a-nivel-mundial-espana-crea-una-asamblea-especifica-contra-la-violencia-de-genero-dentro-del-15/comision-4/\" rel=\"attachment wp-att-13\"><img class=\"alignnone size-medium wp-image-13\" alt=\"comision\" src=\"http://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/comision3-300x157.jpg\" width=\"300\" height=\"157\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/comision3-300x157.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/comision3-720x378.jpg 720w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/comision3.jpg 914w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<div></div>\n<div id=\"main-container\">\n<div></div>\n<div id=\"header-container\">\n<header>\n<div>\n<nav></nav>\n<div>10:13 h.\u00a0Viernes, 30 de Mayo del 2014</div>\n</div>\n</header>\n</div>\n<div id=\"main\">\n<div></div>\n<article id=\"article-14228\">\n<header>\n<div>\n<p>La invisibilizaci\u00f3n a la que el gobierno nos tiene acostumbrad@s, con ayuda de algunos medios de comunicaci\u00f3n y la sociedad en general que prefiere mirar para otro lado hasta que les toca de cerca, hemos unido nuestro prop\u00f3sito de eliminaci\u00f3n de \u00e9sta lacra que lleva ya \u00e9ste a\u00f1o 2014 a 37 mujeres asesinadas en Espa\u00f1a (4 a\u00fan por confirmar) mas una abuela (madre de la victima) un ni\u00f1o de 19 meses y un hombre como nueva pareja de la v\u00edctima, al movimiento 15M como la I Asamblea Estatal a nivel Mundial contra la Violencia de G\u00e9nero.</p>\n<p>Mientras en los despachos se preguntan c\u00f3mo enga\u00f1ar a la sociedad para hacer creer que se preocupan por las victimas asesinadas y sus familiares, solo vemos preocupaci\u00f3n por una mujer muerta \u00e9sta semana del partido pol\u00edtico gobernante y la indignaci\u00f3n del Ministro del Interior para que la polic\u00eda investigue los insultos y apolog\u00eda de violencia tras el conocimiento de la muerte de \u00e9sta mujer presuntamente por motivos personales con otra militante de su partido.</p>\n<p>La falta de respeto hacia las familias de las mujeres asesinadas y las victimas en s\u00ed que siempre son cuestionadas con insultos machistas e incitaciones hacia la violencia machista por parte de varios gremios y p\u00e1ginas web, bien sabidas por la misma polic\u00eda que ha sido obligada a perseguir los insultos de la primera mujer\u00a0<strong>ASESINADA</strong>\u00a0por el simple hecho de pertenecer al partido pol\u00edtico gobernante\u00a0<strong>PUESTO QUE EL RESTO SON MUERTAS O FALLECIDAS</strong>, es indignante, \u00a0para cualquier colectivo que muestre un poco de sensibilizaci\u00f3n por la igualdad y la educaci\u00f3n en valores para lo que nuestra sociedad deber\u00eda estar dispuesta a luchar.</p>\n<p>Mientras en la calle se culpabiliza a la mujer por no pedir ayuda, cuestionando o prejuzgando su decisi\u00f3n a no denunciar o abandonar a su agresor, nuestro gobierno solo le preocupa los insultos hacia una mujer que pertenec\u00eda a su partido, no justificamos la violencia de ninguna de las maneras ni los insultos ni las faltas de respeto hacia ning\u00fan ser vivo, solo lamentamos que \u00fanicamente les preocupe cuando es una muerte de alguien de su partido y no las 37 Asesinadas que llevamos solo en \u00e9ste a\u00f1o 2014 o las m\u00e1s de 1000 mujeres asesinadas desde el a\u00f1o 1999 por el simple hecho de ser mujeres.</p>\n<p>A\u00fan queda mucho por hacer, aunque se agradezca a muchos buenos profesionales que los hay y cada d\u00eda dentro de sus posibilidades hacen todo lo que est\u00e1 en sus manos, o les dejan hacer desde las altas esferas, somos conscientes de que se encuentran ante un \u00a0<strong>DESASTRE ORGANIZADO Y LUCRATIVO PARA LOS QUE ABANDERA ESTA PROTECCION BASADA EN EL SOMETIMIENTO</strong>\u00a0que deriva en un callej\u00f3n sin salida lleno de impotencias varias para los mismos, victimas y supervivientes ante la falta de medios/recortes de todo tipo.</p>\n<p>Es un ejemplarizante amanecer con la noticia de que \u00a0el CGPJ insta a jueces y fiscales a aplicar la LIVG en su \u00faltimo comunicado de prensa de\u00a0 \u00e9sta misma semana, naturalizando que cada tres d\u00edas sea una mujer asesinada en Espa\u00f1a por una negativa ideol\u00f3gica basada en el resurgir de un machismo imperante que\u00a0 normaliza la violencia de g\u00e9nero con toda su amplitud de formas de ejecutarlas, glorificando a los maltratadores y desmeritando a las v\u00edctimas.</p>\n<p>Y a\u00fan hay quien se permite el lujo de opinar, cuestionar y prejuzgar sin saber que igual esa mujer o sus hij@s, puede que la siguiente vez no pidan ayuda porque piensen que no se la merecen o no se la van a dar y puede que entonces lamentemos otra v\u00edctima asesinada en manos de su pareja o expareja. \u00bfTendremos que esperar a que una hija o mujer del partido gobernante, sea asesinada por su pareja o expareja para que por fin el Ministro del Interior o la Ministra de Sanidad Servicios Sociales e Igualdad decidan tomarse en serio el mayor y mas grave acto de violencia mundial contra la mujer, definido por la OMS?</p>\n<p>Si miras para otro lado\u00a0<strong>TU TAMBI\u00c9N ERES RESPONSABLE.</strong></p>\n<p>Y a ti que a\u00fan no sabes que hacer, piensa que \u00a0<strong>MERECES SER FELIZ, TE MERECES UNA VIDA DIGNA Y LLENA DE AMOR EN RESPETO E IGUALDAD QUE DEPENDE DE TI DE MI DE ELLOS/AS EL TENER UNA SOCIEDAD IGUALITARIA LIBRE DE VIOLENCIA DE GENERO</strong></p>\n<p><strong>UNETE&#8230;&#8230; SI SE PUEDE&#8230;.!!!</strong></p>\n<p><strong>NOS\u00a0VEMOS EN LAS PLAZAS</strong></p>\n</div>\n</header>\n</article>\n</div>\n</div>\n",
+    "rendered": "<p><a href=\"http://contralaviolenciadegenero.tomalaplaza.net/2014/05/30/un-hito-en-la-historia-del-15m-a-nivel-mundial-espana-crea-una-asamblea-especifica-contra-la-violencia-de-genero-dentro-del-15/comision-4/\" rel=\"attachment wp-att-13\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-13\" alt=\"comision\" src=\"http://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/comision3-300x157.jpg\" width=\"300\" height=\"157\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/comision3-300x157.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/comision3-720x378.jpg 720w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/comision3.jpg 914w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<div></div>\n<div id=\"main-container\">\n<div></div>\n<div id=\"header-container\">\n<header>\n<div>\n<nav></nav>\n<div>10:13 h.\u00a0Viernes, 30 de Mayo del 2014</div>\n</div>\n</header>\n</div>\n<div id=\"main\">\n<div></div>\n<article id=\"article-14228\">\n<header>\n<div>\n<p>La invisibilizaci\u00f3n a la que el gobierno nos tiene acostumbrad@s, con ayuda de algunos medios de comunicaci\u00f3n y la sociedad en general que prefiere mirar para otro lado hasta que les toca de cerca, hemos unido nuestro prop\u00f3sito de eliminaci\u00f3n de \u00e9sta lacra que lleva ya \u00e9ste a\u00f1o 2014 a 37 mujeres asesinadas en Espa\u00f1a (4 a\u00fan por confirmar) mas una abuela (madre de la victima) un ni\u00f1o de 19 meses y un hombre como nueva pareja de la v\u00edctima, al movimiento 15M como la I Asamblea Estatal a nivel Mundial contra la Violencia de G\u00e9nero.</p>\n<p>Mientras en los despachos se preguntan c\u00f3mo enga\u00f1ar a la sociedad para hacer creer que se preocupan por las victimas asesinadas y sus familiares, solo vemos preocupaci\u00f3n por una mujer muerta \u00e9sta semana del partido pol\u00edtico gobernante y la indignaci\u00f3n del Ministro del Interior para que la polic\u00eda investigue los insultos y apolog\u00eda de violencia tras el conocimiento de la muerte de \u00e9sta mujer presuntamente por motivos personales con otra militante de su partido.</p>\n<p>La falta de respeto hacia las familias de las mujeres asesinadas y las victimas en s\u00ed que siempre son cuestionadas con insultos machistas e incitaciones hacia la violencia machista por parte de varios gremios y p\u00e1ginas web, bien sabidas por la misma polic\u00eda que ha sido obligada a perseguir los insultos de la primera mujer\u00a0<strong>ASESINADA</strong>\u00a0por el simple hecho de pertenecer al partido pol\u00edtico gobernante\u00a0<strong>PUESTO QUE EL RESTO SON MUERTAS O FALLECIDAS</strong>, es indignante, \u00a0para cualquier colectivo que muestre un poco de sensibilizaci\u00f3n por la igualdad y la educaci\u00f3n en valores para lo que nuestra sociedad deber\u00eda estar dispuesta a luchar.</p>\n<p>Mientras en la calle se culpabiliza a la mujer por no pedir ayuda, cuestionando o prejuzgando su decisi\u00f3n a no denunciar o abandonar a su agresor, nuestro gobierno solo le preocupa los insultos hacia una mujer que pertenec\u00eda a su partido, no justificamos la violencia de ninguna de las maneras ni los insultos ni las faltas de respeto hacia ning\u00fan ser vivo, solo lamentamos que \u00fanicamente les preocupe cuando es una muerte de alguien de su partido y no las 37 Asesinadas que llevamos solo en \u00e9ste a\u00f1o 2014 o las m\u00e1s de 1000 mujeres asesinadas desde el a\u00f1o 1999 por el simple hecho de ser mujeres.</p>\n<p>A\u00fan queda mucho por hacer, aunque se agradezca a muchos buenos profesionales que los hay y cada d\u00eda dentro de sus posibilidades hacen todo lo que est\u00e1 en sus manos, o les dejan hacer desde las altas esferas, somos conscientes de que se encuentran ante un \u00a0<strong>DESASTRE ORGANIZADO Y LUCRATIVO PARA LOS QUE ABANDERA ESTA PROTECCION BASADA EN EL SOMETIMIENTO</strong>\u00a0que deriva en un callej\u00f3n sin salida lleno de impotencias varias para los mismos, victimas y supervivientes ante la falta de medios/recortes de todo tipo.</p>\n<p>Es un ejemplarizante amanecer con la noticia de que \u00a0el CGPJ insta a jueces y fiscales a aplicar la LIVG en su \u00faltimo comunicado de prensa de\u00a0 \u00e9sta misma semana, naturalizando que cada tres d\u00edas sea una mujer asesinada en Espa\u00f1a por una negativa ideol\u00f3gica basada en el resurgir de un machismo imperante que\u00a0 normaliza la violencia de g\u00e9nero con toda su amplitud de formas de ejecutarlas, glorificando a los maltratadores y desmeritando a las v\u00edctimas.</p>\n<p>Y a\u00fan hay quien se permite el lujo de opinar, cuestionar y prejuzgar sin saber que igual esa mujer o sus hij@s, puede que la siguiente vez no pidan ayuda porque piensen que no se la merecen o no se la van a dar y puede que entonces lamentemos otra v\u00edctima asesinada en manos de su pareja o expareja. \u00bfTendremos que esperar a que una hija o mujer del partido gobernante, sea asesinada por su pareja o expareja para que por fin el Ministro del Interior o la Ministra de Sanidad Servicios Sociales e Igualdad decidan tomarse en serio el mayor y mas grave acto de violencia mundial contra la mujer, definido por la OMS?</p>\n<p>Si miras para otro lado\u00a0<strong>TU TAMBI\u00c9N ERES RESPONSABLE.</strong></p>\n<p>Y a ti que a\u00fan no sabes que hacer, piensa que \u00a0<strong>MERECES SER FELIZ, TE MERECES UNA VIDA DIGNA Y LLENA DE AMOR EN RESPETO E IGUALDAD QUE DEPENDE DE TI DE MI DE ELLOS/AS EL TENER UNA SOCIEDAD IGUALITARIA LIBRE DE VIOLENCIA DE GENERO</strong></p>\n<p><strong>UNETE&#8230;&#8230; SI SE PUEDE&#8230;.!!!</strong></p>\n<p><strong>NOS\u00a0VEMOS EN LAS PLAZAS</strong></p>\n</div>\n</header>\n</article>\n</div>\n</div>\n",
     "protected": false
   },
   "excerpt": {
@@ -5068,7 +5008,7 @@
   },
   "author": 1666,
   "featured_media": 13,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -5113,14 +5053,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://contralaviolenciadegenero.tomalaplaza.net/wp-json/wp/v2/posts/12/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 17,
-        "href": "https://contralaviolenciadegenero.tomalaplaza.net/wp-json/wp/v2/posts/12/revisions/17"
       }
     ],
     "wp:featuredmedia": [
@@ -5182,7 +5116,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -5216,14 +5150,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://contralaviolenciadegenero.tomalaplaza.net/wp-json/wp/v2/pages/2/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 109,
-        "href": "https://contralaviolenciadegenero.tomalaplaza.net/wp-json/wp/v2/pages/2/revisions/109"
       }
     ],
     "wp:attachment": [
@@ -5256,7 +5184,7 @@
     "rendered": "La Asamblea Estatal Contra la Violencia de G\u00e9nero 15M se une a las movilizaciones en Madrid"
   },
   "content": {
-    "rendered": "<p>&nbsp;</p>\n<h1><a href=\"http://contralaviolenciadegenero.tomalaplaza.net/2014/05/29/hola-mundo/20140517_161625/\" rel=\"attachment wp-att-85\"><img class=\"alignnone size-medium wp-image-85\" alt=\"20140517_161625\" src=\"http://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161625-300x225.jpg\" width=\"300\" height=\"225\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161625-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161625-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161625-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></h1>\n<div>\n<p><a href=\"http://madrid.tomalaplaza.net/2014/05/15/la-asamblea-estatal-contra-la-violencia-de-genero-15m-se-une-a-las-movilizaciones-en-madrid/global15mm/\" rel=\"attachment wp-att-32565\"><img alt=\"Global15Mm\" src=\"http://madrid.tomalaplaza.net/files/2014/05/Global15Mm-225x300.jpeg\" width=\"225\" height=\"300\" /></a></p>\n<p><strong>La Asamblea Estatal Contra la Violencia de G\u00e9nero 15M se une a las movilizaciones en Madrid</strong></p>\n<p><strong>17 de mayo</strong></p>\n<ul>\n<li><strong>15:00\u00a0 asamblea en el campo de la Cebada (jornadas 17/18 #15M Madrid)</strong></li>\n<li><strong><strong>18:00\u00a0</strong>participaci\u00f3n en la manifestaci\u00f3n\u00a0 NI FRONTERAS, NI DEUDA, NI MIEDO</strong>\u00a0<strong>\u00a0Cibeles \u2013 SOL y</strong></li>\n<li><strong>20:00 participaci\u00f3n y intervenci\u00f3n en la Asamblea #15M en Puerta del Sol</strong></li>\n</ul>\n<p>y se presenta:</p>\n<p>El d\u00eda 1 de Abril un grupo de mujeres decidimos sumarnos a la convocatoria de Asamblea Estatal 15M, para proponer la creaci\u00f3n de una asamblea 15M que como tem\u00e1tica se trate como l \u201cContra La Violencia de G\u00e9nero\u201d y que de la misma se desarrollen asambleas en todo el territorio con el mismo nombre y tem\u00e1tica.</p>\n<p>Esta Asamblea de nivel estatal nace con la pretensi\u00f3n de que se visibilice \u00e9sta silenciada y criminal lacra social, junto al resto de materias que trata el 15M, d\u00e1ndole la importancia que merece un problema que suma m\u00e1s de 8500 Mujeres \u201casesinadas\u201d desde el a\u00f1o 1968, siendo la violencia de g\u00e9nero la que acumula mas victimas.</p>\n<p>Queremos destacar que este a\u00f1o, el 2014 est\u00e1 siendo uno de los m\u00e1s sangrantes, tanto por los recortes, como los resultados judiciales, de los que se desprenden que los jueces est\u00e1n normalizando la violencia de genero e in-aplicando la ley (Dato reconocido por el Consejo General del poder Judicial), as\u00ed como por los asesinatos, elevando a mas de 30 el n\u00famero de v\u00edctimas en los primeros 4 meses del a\u00f1o.</p>\n<p>El mensaje de esta Asamblea es que la lucha contra esta lacra social\u2026..Dependa de Mi, Dependa de Ti y Dependa de Tod@s.<br />\nNo permitamos que nada ni nadie las silencie.</p>\n<p>Con ello pretendemos llegar al m\u00e1ximo de Asambleas/Organizaciones/personas en cada una de las ciudades espa\u00f1olas fomentando la implicaci\u00f3n activa en esta lucha.</p>\n<p>Generar una l\u00ednea fluida de comunicaci\u00f3n con otras asambleas cuya tem\u00e1ticas sea diferente es tambi\u00e9n otro de los objetivos, para poder asesorarlas ante el desconocimiento del tema, sabiendo que muchas mujeres pueden estar afectadas por este problema.<br />\nFomentar la visualizaci\u00f3n de los datos reales de las V\u00edctimas de Violencia de G\u00e9nero y crear una implicaci\u00f3n en el proyecto donde podamos visibilizar a las v\u00edctimas y denunciar la poca implicaci\u00f3n del Gobierno en esta materia y poder realizar acciones conjuntas a nivel Estatal.<br />\nLa visualizaci\u00f3n de los datos reales relativos a las V\u00edctimas de Violencia de G\u00e9nero y crear una implicaci\u00f3n en el proyecto donde podamos visibilizar la situaci\u00f3n de las v\u00edctimas es otro de los objetivos b\u00e1sicos de esta Asamblea para denunciar la poca implicaci\u00f3n del Gobierno en esta materia y poder realizar acciones conjuntas a nivel Estatal.</p>\n<p>Esta Asamblea Estatal contra la Violencia de G\u00e9nero, usar\u00e1 para su trabajo y contacto medios Telem\u00e1ticos y/o Presenciales (cuando se pueda).</p>\n<p>Para ello hemos solicitado la creaci\u00f3n de un Blog destinado a la Asambleas Estatal contra la violencia de g\u00e9nero (pendiente).<br />\nCanal de Mumble para poder realizar las Asambleas Telem\u00e1ticas, situado en: Comisiones estatales, Contra la violencia de g\u00e9nero.<br />\nCorreo electr\u00f3nico: contralaviolenciadegenero15m@gmail.com \u2013<br />\nFacebook: contra la violencia de genero 15m .<br />\nTweeter: @niunamas15m</p>\n<p>\u00bfQuienes desarrollamos esta iniciativa?:<br />\nActivistas de diferentes organizaciones, zonas y plataformas a nivel individual de entre otros lugares Toledo, Galicia, Sevilla, Cuenca, Valencia; Alicante ; Madrid, Beleares, Granada, de diferentes \u00e1mbitos sociales ,relacionadas con la defensa de mujeres que deciden salir del circulo de la violencia.</p>\n<p>\u00a1Nos vemos en las plazas!</p>\n</div>\n<p>&nbsp;</p>\n",
+    "rendered": "<p>&nbsp;</p>\n<h1><a href=\"http://contralaviolenciadegenero.tomalaplaza.net/2014/05/29/hola-mundo/20140517_161625/\" rel=\"attachment wp-att-85\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-85\" alt=\"20140517_161625\" src=\"http://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161625-300x225.jpg\" width=\"300\" height=\"225\" srcset=\"https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161625-300x225.jpg 300w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161625-1024x768.jpg 1024w, https://contralaviolenciadegenero.tomalaplaza.net/files/2014/05/20140517_161625-720x540.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></h1>\n<div>\n<p><a href=\"http://madrid.tomalaplaza.net/2014/05/15/la-asamblea-estatal-contra-la-violencia-de-genero-15m-se-une-a-las-movilizaciones-en-madrid/global15mm/\" rel=\"attachment wp-att-32565\"><img loading=\"lazy\" alt=\"Global15Mm\" src=\"http://madrid.tomalaplaza.net/files/2014/05/Global15Mm-225x300.jpeg\" width=\"225\" height=\"300\" /></a></p>\n<p><strong>La Asamblea Estatal Contra la Violencia de G\u00e9nero 15M se une a las movilizaciones en Madrid</strong></p>\n<p><strong>17 de mayo</strong></p>\n<ul>\n<li><strong>15:00\u00a0 asamblea en el campo de la Cebada (jornadas 17/18 #15M Madrid)</strong></li>\n<li><strong><strong>18:00\u00a0</strong>participaci\u00f3n en la manifestaci\u00f3n\u00a0 NI FRONTERAS, NI DEUDA, NI MIEDO</strong>\u00a0<strong>\u00a0Cibeles \u2013 SOL y</strong></li>\n<li><strong>20:00 participaci\u00f3n y intervenci\u00f3n en la Asamblea #15M en Puerta del Sol</strong></li>\n</ul>\n<p>y se presenta:</p>\n<p>El d\u00eda 1 de Abril un grupo de mujeres decidimos sumarnos a la convocatoria de Asamblea Estatal 15M, para proponer la creaci\u00f3n de una asamblea 15M que como tem\u00e1tica se trate como l \u201cContra La Violencia de G\u00e9nero\u201d y que de la misma se desarrollen asambleas en todo el territorio con el mismo nombre y tem\u00e1tica.</p>\n<p>Esta Asamblea de nivel estatal nace con la pretensi\u00f3n de que se visibilice \u00e9sta silenciada y criminal lacra social, junto al resto de materias que trata el 15M, d\u00e1ndole la importancia que merece un problema que suma m\u00e1s de 8500 Mujeres \u201casesinadas\u201d desde el a\u00f1o 1968, siendo la violencia de g\u00e9nero la que acumula mas victimas.</p>\n<p>Queremos destacar que este a\u00f1o, el 2014 est\u00e1 siendo uno de los m\u00e1s sangrantes, tanto por los recortes, como los resultados judiciales, de los que se desprenden que los jueces est\u00e1n normalizando la violencia de genero e in-aplicando la ley (Dato reconocido por el Consejo General del poder Judicial), as\u00ed como por los asesinatos, elevando a mas de 30 el n\u00famero de v\u00edctimas en los primeros 4 meses del a\u00f1o.</p>\n<p>El mensaje de esta Asamblea es que la lucha contra esta lacra social\u2026..Dependa de Mi, Dependa de Ti y Dependa de Tod@s.<br />\nNo permitamos que nada ni nadie las silencie.</p>\n<p>Con ello pretendemos llegar al m\u00e1ximo de Asambleas/Organizaciones/personas en cada una de las ciudades espa\u00f1olas fomentando la implicaci\u00f3n activa en esta lucha.</p>\n<p>Generar una l\u00ednea fluida de comunicaci\u00f3n con otras asambleas cuya tem\u00e1ticas sea diferente es tambi\u00e9n otro de los objetivos, para poder asesorarlas ante el desconocimiento del tema, sabiendo que muchas mujeres pueden estar afectadas por este problema.<br />\nFomentar la visualizaci\u00f3n de los datos reales de las V\u00edctimas de Violencia de G\u00e9nero y crear una implicaci\u00f3n en el proyecto donde podamos visibilizar a las v\u00edctimas y denunciar la poca implicaci\u00f3n del Gobierno en esta materia y poder realizar acciones conjuntas a nivel Estatal.<br />\nLa visualizaci\u00f3n de los datos reales relativos a las V\u00edctimas de Violencia de G\u00e9nero y crear una implicaci\u00f3n en el proyecto donde podamos visibilizar la situaci\u00f3n de las v\u00edctimas es otro de los objetivos b\u00e1sicos de esta Asamblea para denunciar la poca implicaci\u00f3n del Gobierno en esta materia y poder realizar acciones conjuntas a nivel Estatal.</p>\n<p>Esta Asamblea Estatal contra la Violencia de G\u00e9nero, usar\u00e1 para su trabajo y contacto medios Telem\u00e1ticos y/o Presenciales (cuando se pueda).</p>\n<p>Para ello hemos solicitado la creaci\u00f3n de un Blog destinado a la Asambleas Estatal contra la violencia de g\u00e9nero (pendiente).<br />\nCanal de Mumble para poder realizar las Asambleas Telem\u00e1ticas, situado en: Comisiones estatales, Contra la violencia de g\u00e9nero.<br />\nCorreo electr\u00f3nico: contralaviolenciadegenero15m@gmail.com \u2013<br />\nFacebook: contra la violencia de genero 15m .<br />\nTweeter: @niunamas15m</p>\n<p>\u00bfQuienes desarrollamos esta iniciativa?:<br />\nActivistas de diferentes organizaciones, zonas y plataformas a nivel individual de entre otros lugares Toledo, Galicia, Sevilla, Cuenca, Valencia; Alicante ; Madrid, Beleares, Granada, de diferentes \u00e1mbitos sociales ,relacionadas con la defensa de mujeres que deciden salir del circulo de la violencia.</p>\n<p>\u00a1Nos vemos en las plazas!</p>\n</div>\n<p>&nbsp;</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -5265,7 +5193,7 @@
   },
   "author": 1666,
   "featured_media": 85,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -5306,14 +5234,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://contralaviolenciadegenero.tomalaplaza.net/wp-json/wp/v2/posts/1/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 18,
-        "href": "https://contralaviolenciadegenero.tomalaplaza.net/wp-json/wp/v2/posts/1/revisions/18"
       }
     ],
     "wp:featuredmedia": [

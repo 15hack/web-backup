@@ -65,14 +65,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/540/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 543,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/540/revisions/543"
       }
     ],
     "wp:attachment": [
@@ -167,14 +161,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/532/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 535,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/532/revisions/535"
       }
     ],
     "wp:attachment": [
@@ -269,14 +257,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/524/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 530,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/524/revisions/530"
       }
     ],
     "wp:attachment": [
@@ -371,14 +353,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/518/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 523,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/518/revisions/523"
       }
     ],
     "wp:attachment": [
@@ -473,14 +449,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/514/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 517,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/514/revisions/517"
       }
     ],
     "wp:attachment": [
@@ -575,14 +545,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/506/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 512,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/506/revisions/512"
       }
     ],
     "wp:attachment": [
@@ -677,14 +641,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/500/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 504,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/500/revisions/504"
       }
     ],
     "wp:attachment": [
@@ -779,14 +737,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/492/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 496,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/492/revisions/496"
       }
     ],
     "wp:attachment": [
@@ -836,7 +788,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://vicalvaro.tomalosbarrios.net/files/2011/09/30955_1_cartel_g_manifestacion_1s.jpg'><img width=\"300\" height=\"211\" src=\"https://vicalvaro.tomalosbarrios.net/files/2011/09/30955_1_cartel_g_manifestacion_1s-300x211.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://vicalvaro.tomalosbarrios.net/files/2011/09/30955_1_cartel_g_manifestacion_1s-300x211.jpg 300w, https://vicalvaro.tomalosbarrios.net/files/2011/09/30955_1_cartel_g_manifestacion_1s.jpg 709w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://vicalvaro.tomalosbarrios.net/files/2011/09/30955_1_cartel_g_manifestacion_1s.jpg'><img width=\"300\" height=\"211\" src=\"https://vicalvaro.tomalosbarrios.net/files/2011/09/30955_1_cartel_g_manifestacion_1s-300x211.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://vicalvaro.tomalosbarrios.net/files/2011/09/30955_1_cartel_g_manifestacion_1s-300x211.jpg 300w, https://vicalvaro.tomalosbarrios.net/files/2011/09/30955_1_cartel_g_manifestacion_1s.jpg 709w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -937,7 +889,7 @@
     "rendered": "1/09 &#8211; Manifestaci\u00f3n &#8211; \u00a1NO A ESTA REFORMA DE LA CONSTITUCI\u00d3N, ABAJO EL ORDEN DE LOS MERCADOS Y EL CAPITAL!"
   },
   "content": {
-    "rendered": "<p><a href=\"http://vicalvaro.tomalosbarrios.net/files/2011/09/30955_1_cartel_g_manifestacion_1s.jpg\"><img class=\"alignleft size-medium wp-image-490\" src=\"http://vicalvaro.tomalosbarrios.net/files/2011/09/30955_1_cartel_g_manifestacion_1s-300x211.jpg\" alt=\"\" width=\"300\" height=\"211\" srcset=\"https://vicalvaro.tomalosbarrios.net/files/2011/09/30955_1_cartel_g_manifestacion_1s-300x211.jpg 300w, https://vicalvaro.tomalosbarrios.net/files/2011/09/30955_1_cartel_g_manifestacion_1s.jpg 709w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>Estos d\u00edas asistimos perplejxs e indignadxs al quiz\u00e1, mayor ataque neo-liberal contra lxs trabajadorxs e incluso contra la soberan\u00eda del estado. Claudicando ante los intereses de los mercados financieros, las bancas alemana y francesa y sus respectivos gobiernos y siguiendo la l\u00ednea de proteger a las grandes fortunas mientras aprietan al pueblo, el PSOE y el PP se han aliado para reformar la Constituci\u00f3n.</p>\n<p><strong>\u00bfQu\u00e9 han reformado?</strong></p>\n<p><strong>\u00a0</strong>La principal reforma es en el Art. 135.2 CE, que antes dec\u00eda as\u00ed: <em>&#171;Los cr\u00e9ditos para satisfacer el pago de intereses y capital de la Deuda P\u00fablica del Estado se entender\u00e1n siempre incluidos en el estado de gastos de los presupuestos y no podr\u00e1n ser objeto de enmienda o modificaci\u00f3n, mientras se ajusten a las condiciones de la ley de emisi\u00f3n. &#171;</em> y ahora le a\u00f1adir\u00e1n la siguiente frase:<em> &#171;y su pago gozar\u00e1 de prioridad absoluta.&#187;</em></p>\n<p><em>\u00a0</em><strong>\u00bfQu\u00e9 implicaciones tiene esto y por qu\u00e9 estamos en contra?</strong></p>\n<p><strong>\u00a0</strong>Despu\u00e9s de que el estado haya asumido como publica una enorme deuda privada fruto de la especulaci\u00f3n en tiempos de bonanza, a base de continuos rescates e inyecciones de dinero, despu\u00e9s de que se haya socializado la deuda a pesar de que siempre se privatizo el beneficio, ahora quieren asegurar el pago de esta por v\u00eda constitucional. Esto quiere decir que los presupuestos del estado estar\u00e1n principalmente para pagar a los acreedores del estado, es decir a las bancas alemana y francesa, principalmente. lo que provocara que quede apenas dinero para invertir en educaci\u00f3n, sanidad, servicios sociales, infraestructuras&#8230;etc. Los servicios p\u00fablicos al ver reducida su partida presupuestaria se degradaran dejando la puerta abierta a las privatizaciones masivas de todo lo publico.</p>\n<p>Por todo esto y por mucho m\u00e1s, estamos en contra de ESTA reforma de la constituci\u00f3n.</p>\n<p><strong>\u00bfQu\u00e9 exigimos?</strong></p>\n<p><strong>\u00a0</strong>Exigimos la paralizaci\u00f3n de la reforma, que se convoque un REFERENDUM VINCULANTE y que se de tiempo a todos los agentes sociales: asociaciones, movimientos ciudadanos, sindicatos&#8230; para poder informar a lxs ciudadanxs de las implicaciones de la reforma que quieren llevar a cabo.</p>\n<p>Por todo esto dese el movimiento 15M llamamos a todxs lxs ciudadanxs a movilizarse contra esta reforma el<strong> jueves 1 de septiembre</strong> a las <strong>19.00</strong>, con el recorrido <strong>Atocha &#8211; Congreso de los Diputados.</strong></p>\n<p>&nbsp;</p>\n<p style=\"text-align: center\"><strong>\u00a1NO ESTA REFORMA DE LA CONSTITUCI\u00d3N! </strong></p>\n<p style=\"text-align: center\"><strong>\u00a1\u00a1ABAJO EL ORDEN DE LOS MERCADOS Y EL CAPITAL!!</strong></p>\n<p style=\"text-align: center\"><strong>ASAMBLEA POPULAR DE VIC\u00c1LVARO &#8211; MOVIMIENTO 15M</strong></p>\n",
+    "rendered": "<p><a href=\"http://vicalvaro.tomalosbarrios.net/files/2011/09/30955_1_cartel_g_manifestacion_1s.jpg\"><img loading=\"lazy\" class=\"alignleft size-medium wp-image-490\" src=\"http://vicalvaro.tomalosbarrios.net/files/2011/09/30955_1_cartel_g_manifestacion_1s-300x211.jpg\" alt=\"\" width=\"300\" height=\"211\" srcset=\"https://vicalvaro.tomalosbarrios.net/files/2011/09/30955_1_cartel_g_manifestacion_1s-300x211.jpg 300w, https://vicalvaro.tomalosbarrios.net/files/2011/09/30955_1_cartel_g_manifestacion_1s.jpg 709w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>Estos d\u00edas asistimos perplejxs e indignadxs al quiz\u00e1, mayor ataque neo-liberal contra lxs trabajadorxs e incluso contra la soberan\u00eda del estado. Claudicando ante los intereses de los mercados financieros, las bancas alemana y francesa y sus respectivos gobiernos y siguiendo la l\u00ednea de proteger a las grandes fortunas mientras aprietan al pueblo, el PSOE y el PP se han aliado para reformar la Constituci\u00f3n.</p>\n<p><strong>\u00bfQu\u00e9 han reformado?</strong></p>\n<p><strong>\u00a0</strong>La principal reforma es en el Art. 135.2 CE, que antes dec\u00eda as\u00ed: <em>\u00abLos cr\u00e9ditos para satisfacer el pago de intereses y capital de la Deuda P\u00fablica del Estado se entender\u00e1n siempre incluidos en el estado de gastos de los presupuestos y no podr\u00e1n ser objeto de enmienda o modificaci\u00f3n, mientras se ajusten a las condiciones de la ley de emisi\u00f3n. \u00ab</em> y ahora le a\u00f1adir\u00e1n la siguiente frase:<em> \u00aby su pago gozar\u00e1 de prioridad absoluta.\u00bb</em></p>\n<p><em>\u00a0</em><strong>\u00bfQu\u00e9 implicaciones tiene esto y por qu\u00e9 estamos en contra?</strong></p>\n<p><strong>\u00a0</strong>Despu\u00e9s de que el estado haya asumido como publica una enorme deuda privada fruto de la especulaci\u00f3n en tiempos de bonanza, a base de continuos rescates e inyecciones de dinero, despu\u00e9s de que se haya socializado la deuda a pesar de que siempre se privatizo el beneficio, ahora quieren asegurar el pago de esta por v\u00eda constitucional. Esto quiere decir que los presupuestos del estado estar\u00e1n principalmente para pagar a los acreedores del estado, es decir a las bancas alemana y francesa, principalmente. lo que provocara que quede apenas dinero para invertir en educaci\u00f3n, sanidad, servicios sociales, infraestructuras&#8230;etc. Los servicios p\u00fablicos al ver reducida su partida presupuestaria se degradaran dejando la puerta abierta a las privatizaciones masivas de todo lo publico.</p>\n<p>Por todo esto y por mucho m\u00e1s, estamos en contra de ESTA reforma de la constituci\u00f3n.</p>\n<p><strong>\u00bfQu\u00e9 exigimos?</strong></p>\n<p><strong>\u00a0</strong>Exigimos la paralizaci\u00f3n de la reforma, que se convoque un REFERENDUM VINCULANTE y que se de tiempo a todos los agentes sociales: asociaciones, movimientos ciudadanos, sindicatos&#8230; para poder informar a lxs ciudadanxs de las implicaciones de la reforma que quieren llevar a cabo.</p>\n<p>Por todo esto dese el movimiento 15M llamamos a todxs lxs ciudadanxs a movilizarse contra esta reforma el<strong> jueves 1 de septiembre</strong> a las <strong>19.00</strong>, con el recorrido <strong>Atocha &#8211; Congreso de los Diputados.</strong></p>\n<p>&nbsp;</p>\n<p style=\"text-align: center\"><strong>\u00a1NO ESTA REFORMA DE LA CONSTITUCI\u00d3N! </strong></p>\n<p style=\"text-align: center\"><strong>\u00a1\u00a1ABAJO EL ORDEN DE LOS MERCADOS Y EL CAPITAL!!</strong></p>\n<p style=\"text-align: center\"><strong>ASAMBLEA POPULAR DE VIC\u00c1LVARO &#8211; MOVIMIENTO 15M</strong></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -987,14 +939,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/487/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 491,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/487/revisions/491"
       }
     ],
     "wp:attachment": [
@@ -1036,10 +982,10 @@
   "type": "post",
   "link": "https://vicalvaro.tomalosbarrios.net/2011/09/01/sabado-3-septiembre-asamblea-popular-de-vicalvaro-y-taller-reforma-constitucional-defiende-tus-derechos/",
   "title": {
-    "rendered": "S\u00e1bado 3 Septiembre &#8211; Asamblea Popular de Vic\u00e1lvaro y Taller &#171;Reforma Constitucional, Defiende tus Derechos&#187;"
+    "rendered": "S\u00e1bado 3 Septiembre &#8211; Asamblea Popular de Vic\u00e1lvaro y Taller \u00abReforma Constitucional, Defiende tus Derechos\u00bb"
   },
   "content": {
-    "rendered": "<p>La <strong>Asamblea Popular de Vic\u00e1lvaro</strong> se reunir\u00e1 el s\u00e1bado d\u00eda <strong>3 de Septiembre</strong> en la <strong>Plaza de Don Antonio de Andr\u00e9s</strong> a las<strong> 12.00</strong>, en la que ser\u00e1 la primera asamblea despu\u00e9s de los meses de verano.</p>\n<p>Esta asamblea coincide con uno de los mayores ataques que hemos sufrido, perpetrado por lxs de siempre. El PP y el PSOE se han aliado para anteponer los intereses de los mercados a los de lxs ciudadanxs a los que en teor\u00eda representan. Asistimos tambi\u00e9n a un ataque contra la educaci\u00f3n p\u00fablica en forma de despidos de profesorxs y degradaci\u00f3n de la educaci\u00f3n por parte del gobierno de la Comunidad de Madrid.</p>\n<p>La asamblea contar\u00e1 con un <strong>taller sobre la constituci\u00f3n</strong> llamado <strong>&#171;Reforma Constitucional, Defiende tus Derechos&#187;</strong> a cargo de uno de los miembros de la asamblea y que dar\u00e1 comienzo a las <strong>11:00.</strong> Os invitamos a asistir, pues s\u00f3lo educandonos en nuestros derechos podemos saber cuando intentan arrebat\u00e1rnoslos. \u00a1El conocimiento es poder y el arma m\u00e1s poderosa contra los abusos de lxs pol\u00edticos!</p>\n<p>Es muy importante la asistencia y participaci\u00f3n en la asamblea ya que estamos viviendo un momento de ataques masivos desde los mercados y la clase pol\u00edtica contra lxs ciudadanxs, nuestros derechos y libertades se est\u00e1n viendo seriamente amenazados. \u00bfTe vas a quedar en casa mientras destruyen tu futuro, el de tus hijxs y tus nietxs?</p>\n<p><strong>\u00a1Unete a la Asamblea Popular de Vic\u00e1lvaro del movimiento 15M, somos vecinos y vecinas como t\u00fa que queremos luchar por un mundo nuevo!</strong></p>\n<h1 style=\"text-align: center\"><span style=\"color: #ff0000\">\u00a1\u00a1OS ESPERAMOS!!</span></h1>\n",
+    "rendered": "<p>La <strong>Asamblea Popular de Vic\u00e1lvaro</strong> se reunir\u00e1 el s\u00e1bado d\u00eda <strong>3 de Septiembre</strong> en la <strong>Plaza de Don Antonio de Andr\u00e9s</strong> a las<strong> 12.00</strong>, en la que ser\u00e1 la primera asamblea despu\u00e9s de los meses de verano.</p>\n<p>Esta asamblea coincide con uno de los mayores ataques que hemos sufrido, perpetrado por lxs de siempre. El PP y el PSOE se han aliado para anteponer los intereses de los mercados a los de lxs ciudadanxs a los que en teor\u00eda representan. Asistimos tambi\u00e9n a un ataque contra la educaci\u00f3n p\u00fablica en forma de despidos de profesorxs y degradaci\u00f3n de la educaci\u00f3n por parte del gobierno de la Comunidad de Madrid.</p>\n<p>La asamblea contar\u00e1 con un <strong>taller sobre la constituci\u00f3n</strong> llamado <strong>\u00abReforma Constitucional, Defiende tus Derechos\u00bb</strong> a cargo de uno de los miembros de la asamblea y que dar\u00e1 comienzo a las <strong>11:00.</strong> Os invitamos a asistir, pues s\u00f3lo educandonos en nuestros derechos podemos saber cuando intentan arrebat\u00e1rnoslos. \u00a1El conocimiento es poder y el arma m\u00e1s poderosa contra los abusos de lxs pol\u00edticos!</p>\n<p>Es muy importante la asistencia y participaci\u00f3n en la asamblea ya que estamos viviendo un momento de ataques masivos desde los mercados y la clase pol\u00edtica contra lxs ciudadanxs, nuestros derechos y libertades se est\u00e1n viendo seriamente amenazados. \u00bfTe vas a quedar en casa mientras destruyen tu futuro, el de tus hijxs y tus nietxs?</p>\n<p><strong>\u00a1Unete a la Asamblea Popular de Vic\u00e1lvaro del movimiento 15M, somos vecinos y vecinas como t\u00fa que queremos luchar por un mundo nuevo!</strong></p>\n<h1 style=\"text-align: center\"><span style=\"color: #ff0000\">\u00a1\u00a1OS ESPERAMOS!!</span></h1>\n",
     "protected": false
   },
   "excerpt": {
@@ -1089,14 +1035,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/483/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 486,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/483/revisions/486"
       }
     ],
     "wp:attachment": [
@@ -1191,14 +1131,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/475/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 479,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/475/revisions/479"
       }
     ],
     "wp:attachment": [
@@ -1293,14 +1227,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/469/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 474,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/469/revisions/474"
       }
     ],
     "wp:attachment": [
@@ -1342,7 +1270,7 @@
   "type": "post",
   "link": "https://vicalvaro.tomalosbarrios.net/2011/08/27/madrid-se-manifiesta-yo-quiero-votar-nuevo-golpe-de-estado-financiero/",
   "title": {
-    "rendered": "Madrid se manifiesta &#171;yo quiero votar&#187; Nuevo golpe de estado financiero."
+    "rendered": "Madrid se manifiesta \u00abyo quiero votar\u00bb Nuevo golpe de estado financiero."
   },
   "content": {
     "rendered": "<p>DRY Madrid hace un llamamiento a la movilizaci\u00f3n ciudadana el d\u00eda 28 de Agosto a las 18h en Atocha.</p>\n<p>El objetivo es exigir que la reforma constitucional pretendida por el Gobierno y el Partido Popular sea consultada a trav\u00e9s de un refendum vinculante.</p>\n<p>Esta reforma, consistir\u00e1 en una nueva redacci\u00f3n del art\u00edculo 135 del texto constitucional:</p>\n<p>A trav\u00e9s de una ley Org\u00e1nica, el Gobierno establecerer\u00e1, de forma unilateral, un l\u00edmite al endeudamiento, una cifra m\u00e1xima de d\u00e9ficit de gasto p\u00fablico.<br />\nSe hace referencia a la limitaci\u00f3n de actuaci\u00f3n de los poderes p\u00fablicos, no siendo as\u00ed de los poderes privados.<br />\nTambi\u00e9n se habla del acercamiento a los niveles de endeudamiento establecidos por Europa, sin embargo nada de ajuste fiscal ni aproximaci\u00f3n a los niveles impositivos y de financiaci\u00f3n que tienen el resto de paises europeos, para conseguir la sostenibilidad econ\u00f3mica y social.</p>\n<p>En definitiva, un texto muy pr\u00f3ximo a intereses econ\u00f3micos neoliberales , que les permitir\u00e1, bajo mandato constitucional, recortar en servicios sociales (educaci\u00f3n, sanidad y seguridad social) cuando sea menester. Desde Democracia real Ya! Entendemos que esta reforma traer\u00e1 grav\u00edsimas consecuencias para el futuro del Estado de bienestar y un importat\u00edsimo impacto sobre la vida de los ciudadanos. No puede realizarse de espaldas a la ciudadan\u00eda.</p>\n<p>Por ello exigimos que las reforma constitucional sea llevada a referendum.</p>\n<p>Este domingo saldremos a la calle<br />\n#yoquierovotar<br />\n#no somos violentos</p>\n<p>Y si nos quieres ayudar con las pancartas: <a href=\"http://www.facebook.com/event.php?eid=105200486251466\" rel=\"nofollow\" target=\"_blank\">http://www.facebook.com/event.php?eid=105200486251466</a></p>\n",
@@ -1395,14 +1323,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/465/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 468,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/465/revisions/468"
       }
     ],
     "wp:attachment": [
@@ -1497,14 +1419,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/459/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 463,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/459/revisions/463"
       }
     ],
     "wp:attachment": [
@@ -1599,14 +1515,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/451/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 455,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/451/revisions/455"
       }
     ],
     "wp:attachment": [
@@ -1701,14 +1611,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/446/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 450,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/446/revisions/450"
       }
     ],
     "wp:attachment": [
@@ -1803,14 +1707,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/441/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 444,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/441/revisions/444"
       }
     ],
     "wp:attachment": [
@@ -1855,7 +1753,7 @@
     "rendered": "Carta de una vecina sobre la agresi\u00f3n hac\u00eda su hijo el 17A"
   },
   "content": {
-    "rendered": "<p>\u00a1Hola compa\u00f1erxs!</p>\n<p>A continuaci\u00f3n les ponemos la carta de una vecina que nos cuenta su experiencia y la de su hijo el d\u00eda de 17A en la manifestaci\u00f3n laica.</p>\n<blockquote><p>Soy<br />\nuna asidua a las reuniones de los s\u00e1bados, tambi\u00e9n fuy el d\u00eda 3 de<br />\ngosto hasta la Asociaci\u00f3n de vecinos de Vic\u00e1lvaro, que por cierto estaba<br />\ncerrado, luego ya no se si hicisteis algo en contra de la visita del<br />\nPapa, he estado fuera, y a parte de que quiero saber si el pr\u00f3ximo<br />\ns\u00e1bado es la pr\u00f3xima reuni\u00f3n, os quiero sobre todo contar lo que nos<br />\nocurr\u00edo ayer en la Puerta del Sol.</p>\n<p>Hemos acudido a la<br />\nmanifestaci\u00f3n laica desde la Pza. de Tirso de Molina hasta Sol, me<br />\nacompa\u00f1aba mi hijo, y en Sol vi a mi hermana, despues de estar un rato<br />\nen Sol nos fuimos a un bar de &#171;Bravas&#187; por la C/ C\u00e1diz &#171;se llama las<br />\nBravas&#187;, all\u00ed tomamos 2 raciones y unas ca\u00f1as, y ya decidimos irnos para<br />\ncasa, y al llegar a Sol Desde la Carrera de San Jer\u00f3nimo hasta la C/<br />\nAlcal\u00e1 hab\u00eda una fila de policias, que me impresion\u00f3 y de lejos les hice<br />\nuna foto, eran las 10,22 mts. de la noche, y ante nuestra sorpresa<br />\nvimos que la boca de metro de cristal estaba cerrada, y nos fuimos los 3<br />\nhasta la boca del Carmen y tambien la hab\u00edan cerrado, nos quedamos<br />\ndudando por donde irnos todo esto siguiamos andando, y de repente miro<br />\npara atras, y mi hijo que iba como un metro detras le veo rodeado de<br />\npolicia eran 4 una de ellos era una chica, y le estaban dando como<br />\nsalvajes con la porra a mi hijo yo empec\u00e9 a gritar el primer golpe fue<br />\npor la espalda &#171;no pegarle, no pegarle, que es mi hijo, y tir\u00e9 del brazo<br />\nde la mujer policia, la v\u00ed que era rubia con cola de caballo, y entre<br />\nmis chillidos, y mi angustia y que tir\u00e9 del brazo a la mujer policia, mi<br />\nhijo hizo un quiebro y se vino a mi lado, al momento desaparecieron y<br />\nen esa conducta inhumana y salvaje, hirieron a mi hijo, tiene unos<br />\ncardenales tremendos en las dos piernas y una lesi\u00f3n en las cervicales,<br />\nque es lo que m\u00e1s le duele ( trambien comentar que el reloj le<br />\ndesapareci\u00f3), y hoy hemos estado 8 horas del m\u00e9dico de Atenc,. primaria,<br />\na hacerse una Rx., de ah\u00ed nos han deribado al Gregorio Mara\u00f1\u00f3n y de ah\u00ed<br />\na poner una denuncia en la policia de Moratalaz.</p>\n<p>Lo que m\u00e1s me<br />\npreocupa es la lesi\u00f3n de espalda, y tambiem la angustia que tengo yo, mi<br />\ncabeza s\u00f3lo ve a los 4 policias pegando salvajemente a mi hijo.</p>\n<p>Luego<br />\nya he visto en la Tele que hab\u00eda habido enfrentamientos, pero cuando le<br />\npegar\u00f3n a mi hijo no hab\u00eda nadie en la puerta del Sol eran justo las<br />\n10,30 Horas (22,30).</p>\n<p>&nbsp;</p>\n<p>Le he hecho fotos de los cardenales<br />\nde las piernas, y lo peor es la espalda que le han da\u00f1ado las v\u00e9rtebras.<br />\nMi hijo no dec\u00eda nada solo se tapaba la cara con los brazos, es posible<br />\nque alguien haya hecho una foto?, el iba vestido conpantal\u00f3n largo<br />\nvaquero, camiseta gris y playeras, y yo con una falda naranja y camiseta<br />\nde tirantes negra, y mi hermana con pantal\u00f3n y camiseta blancas.<br />\n(explico esto por si existe una foto de la salvaje agresi\u00f3n a mi hijo,<br />\npero desde luego mis chillidos desesperados lo oyeron la gente que<br />\nestaba en la C/ Preciados detr\u00e1s de una cadena de policias, que es por<br />\ndonde nosotros nos fuimos al Metro de Callao, con el horror y el miedo<br />\nen el cuerpo.</p>\n<p>Por supuesto os autorizo a que difundais mi carta por donde querais.</p>\n<p>Mi hijo (tiene una minusval\u00eda del 65 %), su nombre esMiguel \u00c1ngel XXXXXXXXX su DNI XXXXXXXX</p>\n<p>Y el mio Ana Mar\u00eda XXXXXXXX DNI XXXXXXXXX</p>\n<p>Mi direcci\u00edon C/ XXXXXXXXXXXX</p>\n<p>28032 Madrid.</p></blockquote>\n<p>&nbsp;</p>\n",
+    "rendered": "<p>\u00a1Hola compa\u00f1erxs!</p>\n<p>A continuaci\u00f3n les ponemos la carta de una vecina que nos cuenta su experiencia y la de su hijo el d\u00eda de 17A en la manifestaci\u00f3n laica.</p>\n<blockquote><p>Soy<br />\nuna asidua a las reuniones de los s\u00e1bados, tambi\u00e9n fuy el d\u00eda 3 de<br />\ngosto hasta la Asociaci\u00f3n de vecinos de Vic\u00e1lvaro, que por cierto estaba<br />\ncerrado, luego ya no se si hicisteis algo en contra de la visita del<br />\nPapa, he estado fuera, y a parte de que quiero saber si el pr\u00f3ximo<br />\ns\u00e1bado es la pr\u00f3xima reuni\u00f3n, os quiero sobre todo contar lo que nos<br />\nocurr\u00edo ayer en la Puerta del Sol.</p>\n<p>Hemos acudido a la<br />\nmanifestaci\u00f3n laica desde la Pza. de Tirso de Molina hasta Sol, me<br />\nacompa\u00f1aba mi hijo, y en Sol vi a mi hermana, despues de estar un rato<br />\nen Sol nos fuimos a un bar de \u00abBravas\u00bb por la C/ C\u00e1diz \u00abse llama las<br />\nBravas\u00bb, all\u00ed tomamos 2 raciones y unas ca\u00f1as, y ya decidimos irnos para<br />\ncasa, y al llegar a Sol Desde la Carrera de San Jer\u00f3nimo hasta la C/<br />\nAlcal\u00e1 hab\u00eda una fila de policias, que me impresion\u00f3 y de lejos les hice<br />\nuna foto, eran las 10,22 mts. de la noche, y ante nuestra sorpresa<br />\nvimos que la boca de metro de cristal estaba cerrada, y nos fuimos los 3<br />\nhasta la boca del Carmen y tambien la hab\u00edan cerrado, nos quedamos<br />\ndudando por donde irnos todo esto siguiamos andando, y de repente miro<br />\npara atras, y mi hijo que iba como un metro detras le veo rodeado de<br />\npolicia eran 4 una de ellos era una chica, y le estaban dando como<br />\nsalvajes con la porra a mi hijo yo empec\u00e9 a gritar el primer golpe fue<br />\npor la espalda \u00abno pegarle, no pegarle, que es mi hijo, y tir\u00e9 del brazo<br />\nde la mujer policia, la v\u00ed que era rubia con cola de caballo, y entre<br />\nmis chillidos, y mi angustia y que tir\u00e9 del brazo a la mujer policia, mi<br />\nhijo hizo un quiebro y se vino a mi lado, al momento desaparecieron y<br />\nen esa conducta inhumana y salvaje, hirieron a mi hijo, tiene unos<br />\ncardenales tremendos en las dos piernas y una lesi\u00f3n en las cervicales,<br />\nque es lo que m\u00e1s le duele ( trambien comentar que el reloj le<br />\ndesapareci\u00f3), y hoy hemos estado 8 horas del m\u00e9dico de Atenc,. primaria,<br />\na hacerse una Rx., de ah\u00ed nos han deribado al Gregorio Mara\u00f1\u00f3n y de ah\u00ed<br />\na poner una denuncia en la policia de Moratalaz.</p>\n<p>Lo que m\u00e1s me<br />\npreocupa es la lesi\u00f3n de espalda, y tambiem la angustia que tengo yo, mi<br />\ncabeza s\u00f3lo ve a los 4 policias pegando salvajemente a mi hijo.</p>\n<p>Luego<br />\nya he visto en la Tele que hab\u00eda habido enfrentamientos, pero cuando le<br />\npegar\u00f3n a mi hijo no hab\u00eda nadie en la puerta del Sol eran justo las<br />\n10,30 Horas (22,30).</p>\n<p>&nbsp;</p>\n<p>Le he hecho fotos de los cardenales<br />\nde las piernas, y lo peor es la espalda que le han da\u00f1ado las v\u00e9rtebras.<br />\nMi hijo no dec\u00eda nada solo se tapaba la cara con los brazos, es posible<br />\nque alguien haya hecho una foto?, el iba vestido conpantal\u00f3n largo<br />\nvaquero, camiseta gris y playeras, y yo con una falda naranja y camiseta<br />\nde tirantes negra, y mi hermana con pantal\u00f3n y camiseta blancas.<br />\n(explico esto por si existe una foto de la salvaje agresi\u00f3n a mi hijo,<br />\npero desde luego mis chillidos desesperados lo oyeron la gente que<br />\nestaba en la C/ Preciados detr\u00e1s de una cadena de policias, que es por<br />\ndonde nosotros nos fuimos al Metro de Callao, con el horror y el miedo<br />\nen el cuerpo.</p>\n<p>Por supuesto os autorizo a que difundais mi carta por donde querais.</p>\n<p>Mi hijo (tiene una minusval\u00eda del 65 %), su nombre esMiguel \u00c1ngel XXXXXXXXX su DNI XXXXXXXX</p>\n<p>Y el mio Ana Mar\u00eda XXXXXXXX DNI XXXXXXXXX</p>\n<p>Mi direcci\u00edon C/ XXXXXXXXXXXX</p>\n<p>28032 Madrid.</p></blockquote>\n<p>&nbsp;</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -1905,14 +1803,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/435/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 440,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/435/revisions/440"
       }
     ],
     "wp:attachment": [
@@ -1962,7 +1854,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://vicalvaro.tomalosbarrios.net/files/2011/08/imagen_5060.png'><img width=\"300\" height=\"219\" src=\"https://vicalvaro.tomalosbarrios.net/files/2011/08/imagen_5060-300x219.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://vicalvaro.tomalosbarrios.net/files/2011/08/imagen_5060-300x219.png 300w, https://vicalvaro.tomalosbarrios.net/files/2011/08/imagen_5060.png 562w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://vicalvaro.tomalosbarrios.net/files/2011/08/imagen_5060.png'><img width=\"300\" height=\"219\" src=\"https://vicalvaro.tomalosbarrios.net/files/2011/08/imagen_5060-300x219.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://vicalvaro.tomalosbarrios.net/files/2011/08/imagen_5060-300x219.png 300w, https://vicalvaro.tomalosbarrios.net/files/2011/08/imagen_5060.png 562w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2060,10 +1952,10 @@
   "type": "post",
   "link": "https://vicalvaro.tomalosbarrios.net/2011/08/17/manifestacion-de-mis-impuestos-al-papa-cero-estado-laico-ya/",
   "title": {
-    "rendered": "MANIFESTACI\u00d3N &#171;DE MIS IMPUESTOS AL PAPA CERO, ESTADO LAICO YA!&#187;"
+    "rendered": "MANIFESTACI\u00d3N \u00abDE MIS IMPUESTOS AL PAPA CERO, ESTADO LAICO YA!\u00bb"
   },
   "content": {
-    "rendered": "<p><a href=\"http://vicalvaro.tomalosbarrios.net/files/2011/08/imagen_5060.png\"><img class=\"alignleft size-medium wp-image-429\" src=\"http://vicalvaro.tomalosbarrios.net/files/2011/08/imagen_5060-300x219.png\" alt=\"\" width=\"300\" height=\"219\" srcset=\"https://vicalvaro.tomalosbarrios.net/files/2011/08/imagen_5060-300x219.png 300w, https://vicalvaro.tomalosbarrios.net/files/2011/08/imagen_5060.png 562w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>La Asamblea Popular de Vic\u00e1lvaro apoya la manifestaci\u00f3n del d\u00eda 17 de Agosto. En contra del gasto de dinero p\u00fablico y el uso de instalaciones p\u00fablicas ante la visita papal.</p>\n<p><strong>Hora: 19:30</strong></p>\n<p><strong>Lugar: Tirso de Molina &#8211; Sol &#8211; Tirso de Molina.</strong></p>\n<p><strong>*Desde Vic\u00e1lvaro hemos quedado a las 18:30 en el metro de Vic\u00e1lvaro o a las 19:15 en Ant\u00f3n Mart\u00edn, junto al monumento a los abogados de Atocha. Si quieres encontarnos en la manifestaci\u00f3n nuestras pancartas tendr\u00e1n los siguientes lemas: &#187; EL PAPA VIAJA, NOSOTRXS PAGAMOS. NO CON MIS IMPUESTOS&#187; y &#187; NO TAXES FOR THE POPE. PEOPLE OF EUROPE RISE UP! ASAMBLEA 15M VICALVARO&#187;.</strong></p>\n<p>Ya son m\u00e1s de 140 organizacones que se adhieren al manifiesto:</p>\n<p>&#171;Pese a las fechas se anima a participar en la MANIFESTACI\u00d3N a todxs lxs que est\u00e1n contra esta forma de visitar un pa\u00eds a costa de los impuestos de toda la ciudadan\u00eda, como si se tratase de un Jefe de Estado, que se permite injerencias en los asuntos internos y pol\u00edticos de nuestro pa\u00eds, que llega con toda clase de boato en tiempos de crisis, &#8230;\u00a0 Utilizando los centros p\u00fablicos como albergues gratuitos para quienes vengan a verlo,&#8230;. 100 millones de euros que costean grandes empresas, el Estado, la administraci\u00f3n auton\u00f3mica y local. Si quiere venir que venga costeado por sus fieles.</p>\n<p>Ante la avalancha de informaci\u00f3n sobre la JMJ (cat\u00f3lica)\u00a0que se incrementa cada d\u00eda, por parte de los medios de comunicaci\u00f3n y de las instituciones del Estado, que est\u00e1n cediendo todo tipo de facilidades y\u00a0 recursos p\u00fablicos,\u00a0no s\u00f3lo en Madrid, sino en decenas de ciudades de todo el Estado. Vamos a seguir actuando, con todo respeto, como <strong>opiniones y voces discrepantes</strong>, no de la visita privada de j\u00f3venes cat\u00f3licos, ni de Benedicto, haciendo apostolado, sino que <strong>discrepamos y condenamos el realce y tratamiento\u00a0institucional previsto, el boato, el costo y derivaci\u00f3n de recursos p\u00fablicos que superar\u00e1n los cien millones de euros y las injerencias del Papa y de la jerarqu\u00eda cat\u00f3lica en la pol\u00edtica y democracia espa\u00f1olas.&#187; </strong></p>\n<h1><span style=\"color: #ff0000\">\u00a1OS ESPERAMOS ALL\u00cd!</span></h1>\n",
+    "rendered": "<p><a href=\"http://vicalvaro.tomalosbarrios.net/files/2011/08/imagen_5060.png\"><img loading=\"lazy\" class=\"alignleft size-medium wp-image-429\" src=\"http://vicalvaro.tomalosbarrios.net/files/2011/08/imagen_5060-300x219.png\" alt=\"\" width=\"300\" height=\"219\" srcset=\"https://vicalvaro.tomalosbarrios.net/files/2011/08/imagen_5060-300x219.png 300w, https://vicalvaro.tomalosbarrios.net/files/2011/08/imagen_5060.png 562w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>La Asamblea Popular de Vic\u00e1lvaro apoya la manifestaci\u00f3n del d\u00eda 17 de Agosto. En contra del gasto de dinero p\u00fablico y el uso de instalaciones p\u00fablicas ante la visita papal.</p>\n<p><strong>Hora: 19:30</strong></p>\n<p><strong>Lugar: Tirso de Molina &#8211; Sol &#8211; Tirso de Molina.</strong></p>\n<p><strong>*Desde Vic\u00e1lvaro hemos quedado a las 18:30 en el metro de Vic\u00e1lvaro o a las 19:15 en Ant\u00f3n Mart\u00edn, junto al monumento a los abogados de Atocha. Si quieres encontarnos en la manifestaci\u00f3n nuestras pancartas tendr\u00e1n los siguientes lemas: \u00bb EL PAPA VIAJA, NOSOTRXS PAGAMOS. NO CON MIS IMPUESTOS\u00bb y \u00bb NO TAXES FOR THE POPE. PEOPLE OF EUROPE RISE UP! ASAMBLEA 15M VICALVARO\u00bb.</strong></p>\n<p>Ya son m\u00e1s de 140 organizacones que se adhieren al manifiesto:</p>\n<p>\u00abPese a las fechas se anima a participar en la MANIFESTACI\u00d3N a todxs lxs que est\u00e1n contra esta forma de visitar un pa\u00eds a costa de los impuestos de toda la ciudadan\u00eda, como si se tratase de un Jefe de Estado, que se permite injerencias en los asuntos internos y pol\u00edticos de nuestro pa\u00eds, que llega con toda clase de boato en tiempos de crisis, &#8230;\u00a0 Utilizando los centros p\u00fablicos como albergues gratuitos para quienes vengan a verlo,&#8230;. 100 millones de euros que costean grandes empresas, el Estado, la administraci\u00f3n auton\u00f3mica y local. Si quiere venir que venga costeado por sus fieles.</p>\n<p>Ante la avalancha de informaci\u00f3n sobre la JMJ (cat\u00f3lica)\u00a0que se incrementa cada d\u00eda, por parte de los medios de comunicaci\u00f3n y de las instituciones del Estado, que est\u00e1n cediendo todo tipo de facilidades y\u00a0 recursos p\u00fablicos,\u00a0no s\u00f3lo en Madrid, sino en decenas de ciudades de todo el Estado. Vamos a seguir actuando, con todo respeto, como <strong>opiniones y voces discrepantes</strong>, no de la visita privada de j\u00f3venes cat\u00f3licos, ni de Benedicto, haciendo apostolado, sino que <strong>discrepamos y condenamos el realce y tratamiento\u00a0institucional previsto, el boato, el costo y derivaci\u00f3n de recursos p\u00fablicos que superar\u00e1n los cien millones de euros y las injerencias del Papa y de la jerarqu\u00eda cat\u00f3lica en la pol\u00edtica y democracia espa\u00f1olas.\u00bb </strong></p>\n<h1><span style=\"color: #ff0000\">\u00a1OS ESPERAMOS ALL\u00cd!</span></h1>\n",
     "protected": false
   },
   "excerpt": {
@@ -2113,14 +2005,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/426/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 431,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/426/revisions/431"
       }
     ],
     "wp:attachment": [
@@ -2215,14 +2101,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/418/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 432,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/418/revisions/432"
       }
     ],
     "wp:attachment": [
@@ -2317,14 +2197,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/409/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 413,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/409/revisions/413"
       }
     ],
     "wp:attachment": [
@@ -2419,14 +2293,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/396/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 405,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/396/revisions/405"
       }
     ],
     "wp:attachment": [
@@ -2521,14 +2389,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/376/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 380,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/376/revisions/380"
       }
     ],
     "wp:attachment": [
@@ -2623,14 +2485,8 @@
     ],
     "version-history": [
       {
-        "count": 7,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/367/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 375,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/367/revisions/375"
       }
     ],
     "wp:attachment": [
@@ -2725,14 +2581,8 @@
     ],
     "version-history": [
       {
-        "count": 7,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/352/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 369,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/352/revisions/369"
       }
     ],
     "wp:attachment": [
@@ -2827,14 +2677,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/337/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 342,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/337/revisions/342"
       }
     ],
     "wp:attachment": [
@@ -3008,7 +2852,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://vicalvaro.tomalosbarrios.net/files/2011/07/bicienjambre.png'><img width=\"213\" height=\"300\" src=\"https://vicalvaro.tomalosbarrios.net/files/2011/07/bicienjambre-213x300.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://vicalvaro.tomalosbarrios.net/files/2011/07/bicienjambre-213x300.png 213w, https://vicalvaro.tomalosbarrios.net/files/2011/07/bicienjambre.png 228w\" sizes=\"(max-width: 213px) 100vw, 213px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://vicalvaro.tomalosbarrios.net/files/2011/07/bicienjambre.png'><img width=\"213\" height=\"300\" src=\"https://vicalvaro.tomalosbarrios.net/files/2011/07/bicienjambre-213x300.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://vicalvaro.tomalosbarrios.net/files/2011/07/bicienjambre-213x300.png 213w, https://vicalvaro.tomalosbarrios.net/files/2011/07/bicienjambre.png 228w\" sizes=\"(max-width: 213px) 100vw, 213px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3114,7 +2958,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://vicalvaro.tomalosbarrios.net/files/2011/07/cartel-no-podran-pararnos2.jpg'><img width=\"210\" height=\"300\" src=\"https://vicalvaro.tomalosbarrios.net/files/2011/07/cartel-no-podran-pararnos2-210x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://vicalvaro.tomalosbarrios.net/files/2011/07/cartel-no-podran-pararnos2-210x300.jpg 210w, https://vicalvaro.tomalosbarrios.net/files/2011/07/cartel-no-podran-pararnos2.jpg 584w\" sizes=\"(max-width: 210px) 100vw, 210px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://vicalvaro.tomalosbarrios.net/files/2011/07/cartel-no-podran-pararnos2.jpg'><img width=\"210\" height=\"300\" src=\"https://vicalvaro.tomalosbarrios.net/files/2011/07/cartel-no-podran-pararnos2-210x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://vicalvaro.tomalosbarrios.net/files/2011/07/cartel-no-podran-pararnos2-210x300.jpg 210w, https://vicalvaro.tomalosbarrios.net/files/2011/07/cartel-no-podran-pararnos2.jpg 584w\" sizes=\"(max-width: 210px) 100vw, 210px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3215,11 +3059,11 @@
     "rendered": "PR\u00d3XIMAS CONVOCATORIAS"
   },
   "content": {
-    "rendered": "<ul>\n<li><strong><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">Manifestaci\u00f3n el d\u00eda 3 de Julio con el lema\u00a0 \u201cNo podr\u00e1n pararnos\u201d. </span></span></strong></li>\n</ul>\n<p><strong><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\"><a href=\"http://vicalvaro.tomalosbarrios.net/files/2011/07/cartel-no-podran-pararnos2.jpg\"><img class=\"alignleft size-medium wp-image-318\" src=\"http://vicalvaro.tomalosbarrios.net/files/2011/07/cartel-no-podran-pararnos2-210x300.jpg\" alt=\"\" width=\"210\" height=\"300\" srcset=\"https://vicalvaro.tomalosbarrios.net/files/2011/07/cartel-no-podran-pararnos2-210x300.jpg 210w, https://vicalvaro.tomalosbarrios.net/files/2011/07/cartel-no-podran-pararnos2.jpg 584w\" sizes=\"(max-width: 210px) 100vw, 210px\" /></a> </span></span></strong></p>\n<p><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">Por el sobreseimiento de los detenidos, contra los desahucios y despidos y rechazo de la reforma laboral.</span></span></p>\n<p><strong></strong><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">Hora: 19.00</span></span></p>\n<p><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">Recorrido: Cibeles- Sol</span></span></p>\n<ul>\n<li><strong><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">3 de Julio: Cineforum &#171;Para\u00edsos fiscales, La gran evasi\u00f3n&#187;</span></span></strong></li>\n</ul>\n<p><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">Hora: 22.00</span></span></p>\n<p><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">Lugar: Plaza D.Antonio de Andr\u00e9s.</span></span></p>\n<p><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\"><br />\n</span></span></p>\n<ul>\n<li><strong><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">Acci\u00f3n contra desahucio el mi\u00e9rcoles 6 de Julio.</span></span></strong></li>\n</ul>\n<p style=\"padding-left: 60px\"><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">Hora: 8.30</span></span></p>\n<p style=\"padding-left: 60px\"><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">Lugar: Metro Pueblo Nuevo, salida Doctor Vallejo</span></span></p>\n<p style=\"padding-left: 60px\"><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">* Quedaremos en el metro de Vic\u00e1lvaro a las 8.00<!--more--></span></span></p>\n<p>&nbsp;</p>\n<ul>\n<li><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\"><strong>Acci\u00f3n contra los derribos el 6 de Julio:</strong> Peticiones individuales para el cese de los mismos en la Consejer\u00eda de Urbanismo (</span></span>c/Guatemala n\u00ba13)</li>\n</ul>\n<p style=\"padding-left: 60px\"><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">Hora: A las 9.00 y a las 11.00.</span></span></p>\n<p style=\"padding-left: 60px\"><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">Lugar: Metro Colombia (All\u00ed nos esperaran compa\u00f1erxs de La Ca\u00f1ada para informarnos de la acci\u00f3n).</span></span></p>\n<p style=\"padding-left: 60px\">Acude con el impreso que se adjunta:\u00a0<a href=\"http://vicalvaro.tomalosbarrios.net/files/2011/07/PARAR_DERRIBOS.pdf\">PARAR_DERRIBOS</a></p>\n<ul>\n<li><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\"><strong>Bicienjambre, jueves 7 de Julio.</strong></span></span></li>\n</ul>\n<p><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\"><strong><a href=\"http://vicalvaro.tomalosbarrios.net/files/2011/07/bicienjambre.png\"><img class=\"alignleft size-medium wp-image-319\" src=\"http://vicalvaro.tomalosbarrios.net/files/2011/07/bicienjambre-213x300.png\" alt=\"\" width=\"213\" height=\"300\" srcset=\"https://vicalvaro.tomalosbarrios.net/files/2011/07/bicienjambre-213x300.png 213w, https://vicalvaro.tomalosbarrios.net/files/2011/07/bicienjambre.png 228w\" sizes=\"(max-width: 213px) 100vw, 213px\" /></a></strong></span></span></p>\n<p>Salida de Plaza de Col\u00f3n (o de tu barrio) a las 8 de la tarde.<br />\nLlegada al Templo de Debod a las 9,30 de la tarde.<br />\nProyecci\u00f3n de las fotos recogidas por los participantes en el Templo de Debod, al final del Bicienjambre.</p>\n<p>\u00a1Reivindica Madrid para la gente! Recorre la ciudad con tu bici, fotografi\u00e1ndote con tus colegas en los lugares que m\u00e1s te gustan o que m\u00e1s detestas y participa con tus fotos en la proyecci\u00f3n de la noche en el Templo de Debod.</p>\n<p>Para m\u00e1s info: <a href=\"http://bicienjambre.blogspot.com/\">http://bicienjambre.blogspot.com/</a></p>\n<p><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\"><strong><br />\n</strong></span></span></p>\n<ul>\n<li><strong><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">Concentraci\u00f3n viernes 8 de Julio </span></span><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">contra la privatizaci\u00f3n de las actividades culturales de las bibliotecas municipales.</span></span></strong></li>\n</ul>\n<p style=\"padding-left: 60px\"><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">Hora: 10.00</span></span></p>\n<p style=\"padding-left: 60px\"><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">Lugar: Frente al \u00c1rea de Gobierno de Las Artes del Ayuntamiento de Madrid (C/ Montalb\u00e1n 1).</span></span></p>\n<p style=\"padding-left: 60px\"><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\"><a href=\"http://vicalvaro.tomalosbarrios.net/files/2011/07/Info-Privatizaci\u00f3n-Actividades-Bibliotecas.concentraci\u00f3n-8-d-eJulio.pdf\">Info Privatizaci\u00f3n Actividades Bibliotecas.concentraci\u00f3n 8 de Julio</a></span></span></p>\n<ul>\n<li><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\"><strong>16 de Julio: Taller sobre la Constituci\u00f3n y Asamblea Popular de Vic\u00e1lvaro.</strong></span></span></li>\n</ul>\n<p style=\"padding-left: 60px\"><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">Hora: El taller ser\u00e1 impartido a las 11.00 y la asamblea comenzar\u00e1 a las 12.00</span></span></p>\n<p style=\"padding-left: 60px\"><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">Lugar: Plaza D.Antonio de Andr\u00e9s.<br />\n</span></span></p>\n<ul>\n<ul>\n<li><strong><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">23 de Julio llegada de la Marcha Popular Indignada.</span></span></strong></li>\n</ul>\n</ul>\n<p>Sigue el desarrollo de las <a href=\"http://marchapopularindignada.wordpress.com/about/\">marchas indignadas</a> en toda Espa\u00f1a.</p>\n<ul>\n<li><strong><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">24 de Julio: Manifestaci\u00f3n y actividades en relaci\u00f3n con la marcha interestatal de ciudades indignadas. </span></span></strong></li>\n</ul>\n",
+    "rendered": "<ul>\n<li><strong><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">Manifestaci\u00f3n el d\u00eda 3 de Julio con el lema\u00a0 \u201cNo podr\u00e1n pararnos\u201d. </span></span></strong></li>\n</ul>\n<p><strong><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\"><a href=\"http://vicalvaro.tomalosbarrios.net/files/2011/07/cartel-no-podran-pararnos2.jpg\"><img loading=\"lazy\" class=\"alignleft size-medium wp-image-318\" src=\"http://vicalvaro.tomalosbarrios.net/files/2011/07/cartel-no-podran-pararnos2-210x300.jpg\" alt=\"\" width=\"210\" height=\"300\" srcset=\"https://vicalvaro.tomalosbarrios.net/files/2011/07/cartel-no-podran-pararnos2-210x300.jpg 210w, https://vicalvaro.tomalosbarrios.net/files/2011/07/cartel-no-podran-pararnos2.jpg 584w\" sizes=\"(max-width: 210px) 100vw, 210px\" /></a> </span></span></strong></p>\n<p><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">Por el sobreseimiento de los detenidos, contra los desahucios y despidos y rechazo de la reforma laboral.</span></span></p>\n<p><strong></strong><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">Hora: 19.00</span></span></p>\n<p><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">Recorrido: Cibeles- Sol</span></span></p>\n<ul>\n<li><strong><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">3 de Julio: Cineforum \u00abPara\u00edsos fiscales, La gran evasi\u00f3n\u00bb</span></span></strong></li>\n</ul>\n<p><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">Hora: 22.00</span></span></p>\n<p><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">Lugar: Plaza D.Antonio de Andr\u00e9s.</span></span></p>\n<p><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\"><br />\n</span></span></p>\n<ul>\n<li><strong><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">Acci\u00f3n contra desahucio el mi\u00e9rcoles 6 de Julio.</span></span></strong></li>\n</ul>\n<p style=\"padding-left: 60px\"><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">Hora: 8.30</span></span></p>\n<p style=\"padding-left: 60px\"><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">Lugar: Metro Pueblo Nuevo, salida Doctor Vallejo</span></span></p>\n<p style=\"padding-left: 60px\"><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">* Quedaremos en el metro de Vic\u00e1lvaro a las 8.00<!--more--></span></span></p>\n<p>&nbsp;</p>\n<ul>\n<li><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\"><strong>Acci\u00f3n contra los derribos el 6 de Julio:</strong> Peticiones individuales para el cese de los mismos en la Consejer\u00eda de Urbanismo (</span></span>c/Guatemala n\u00ba13)</li>\n</ul>\n<p style=\"padding-left: 60px\"><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">Hora: A las 9.00 y a las 11.00.</span></span></p>\n<p style=\"padding-left: 60px\"><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">Lugar: Metro Colombia (All\u00ed nos esperaran compa\u00f1erxs de La Ca\u00f1ada para informarnos de la acci\u00f3n).</span></span></p>\n<p style=\"padding-left: 60px\">Acude con el impreso que se adjunta:\u00a0<a href=\"http://vicalvaro.tomalosbarrios.net/files/2011/07/PARAR_DERRIBOS.pdf\">PARAR_DERRIBOS</a></p>\n<ul>\n<li><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\"><strong>Bicienjambre, jueves 7 de Julio.</strong></span></span></li>\n</ul>\n<p><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\"><strong><a href=\"http://vicalvaro.tomalosbarrios.net/files/2011/07/bicienjambre.png\"><img loading=\"lazy\" class=\"alignleft size-medium wp-image-319\" src=\"http://vicalvaro.tomalosbarrios.net/files/2011/07/bicienjambre-213x300.png\" alt=\"\" width=\"213\" height=\"300\" srcset=\"https://vicalvaro.tomalosbarrios.net/files/2011/07/bicienjambre-213x300.png 213w, https://vicalvaro.tomalosbarrios.net/files/2011/07/bicienjambre.png 228w\" sizes=\"(max-width: 213px) 100vw, 213px\" /></a></strong></span></span></p>\n<p>Salida de Plaza de Col\u00f3n (o de tu barrio) a las 8 de la tarde.<br />\nLlegada al Templo de Debod a las 9,30 de la tarde.<br />\nProyecci\u00f3n de las fotos recogidas por los participantes en el Templo de Debod, al final del Bicienjambre.</p>\n<p>\u00a1Reivindica Madrid para la gente! Recorre la ciudad con tu bici, fotografi\u00e1ndote con tus colegas en los lugares que m\u00e1s te gustan o que m\u00e1s detestas y participa con tus fotos en la proyecci\u00f3n de la noche en el Templo de Debod.</p>\n<p>Para m\u00e1s info: <a href=\"http://bicienjambre.blogspot.com/\">http://bicienjambre.blogspot.com/</a></p>\n<p><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\"><strong><br />\n</strong></span></span></p>\n<ul>\n<li><strong><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">Concentraci\u00f3n viernes 8 de Julio </span></span><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">contra la privatizaci\u00f3n de las actividades culturales de las bibliotecas municipales.</span></span></strong></li>\n</ul>\n<p style=\"padding-left: 60px\"><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">Hora: 10.00</span></span></p>\n<p style=\"padding-left: 60px\"><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">Lugar: Frente al \u00c1rea de Gobierno de Las Artes del Ayuntamiento de Madrid (C/ Montalb\u00e1n 1).</span></span></p>\n<p style=\"padding-left: 60px\"><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\"><a href=\"http://vicalvaro.tomalosbarrios.net/files/2011/07/Info-Privatizaci\u00f3n-Actividades-Bibliotecas.concentraci\u00f3n-8-d-eJulio.pdf\">Info Privatizaci\u00f3n Actividades Bibliotecas.concentraci\u00f3n 8 de Julio</a></span></span></p>\n<ul>\n<li><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\"><strong>16 de Julio: Taller sobre la Constituci\u00f3n y Asamblea Popular de Vic\u00e1lvaro.</strong></span></span></li>\n</ul>\n<p style=\"padding-left: 60px\"><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">Hora: El taller ser\u00e1 impartido a las 11.00 y la asamblea comenzar\u00e1 a las 12.00</span></span></p>\n<p style=\"padding-left: 60px\"><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">Lugar: Plaza D.Antonio de Andr\u00e9s.<br />\n</span></span></p>\n<ul>\n<ul>\n<li><strong><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">23 de Julio llegada de la Marcha Popular Indignada.</span></span></strong></li>\n</ul>\n</ul>\n<p>Sigue el desarrollo de las <a href=\"http://marchapopularindignada.wordpress.com/about/\">marchas indignadas</a> en toda Espa\u00f1a.</p>\n<ul>\n<li><strong><span style=\"font-family: Arial,sans-serif\"><span style=\"font-size: small\">24 de Julio: Manifestaci\u00f3n y actividades en relaci\u00f3n con la marcha interestatal de ciudades indignadas. </span></span></strong></li>\n</ul>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>Manifestaci\u00f3n el d\u00eda 3 de Julio con el lema\u00a0 \u201cNo podr\u00e1n pararnos\u201d. Por el sobreseimiento de los detenidos, contra los desahucios y despidos y rechazo de la reforma laboral. Hora: 19.00 Recorrido: Cibeles- Sol 3 de Julio: Cineforum &#171;Para\u00edsos fiscales, &hellip; <a href=\"https://vicalvaro.tomalosbarrios.net/2011/07/02/proximas-convocatorias/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+    "rendered": "<p>Manifestaci\u00f3n el d\u00eda 3 de Julio con el lema\u00a0 \u201cNo podr\u00e1n pararnos\u201d. Por el sobreseimiento de los detenidos, contra los desahucios y despidos y rechazo de la reforma laboral. Hora: 19.00 Recorrido: Cibeles- Sol 3 de Julio: Cineforum \u00abPara\u00edsos fiscales, &hellip; <a href=\"https://vicalvaro.tomalosbarrios.net/2011/07/02/proximas-convocatorias/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
     "protected": false
   },
   "author": 297,
@@ -3265,14 +3109,8 @@
     ],
     "version-history": [
       {
-        "count": 12,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/315/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 433,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/315/revisions/433"
       }
     ],
     "wp:attachment": [
@@ -3362,14 +3200,8 @@
     ],
     "version-history": [
       {
-        "count": 16,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/pages/300/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 383,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/pages/300/revisions/383"
       }
     ],
     "wp:attachment": [
@@ -3452,14 +3284,8 @@
     ],
     "version-history": [
       {
-        "count": 18,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/278/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 332,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/278/revisions/332"
       }
     ],
     "wp:attachment": [
@@ -3554,14 +3380,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/266/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 271,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/266/revisions/271"
       }
     ],
     "wp:attachment": [
@@ -3780,14 +3600,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/243/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 249,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/243/revisions/249"
       }
     ],
     "wp:attachment": [
@@ -3882,14 +3696,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/238/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 241,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/238/revisions/241"
       }
     ],
     "wp:attachment": [
@@ -4418,14 +4226,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/224/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 237,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/224/revisions/237"
       }
     ],
     "wp:attachment": [
@@ -4470,11 +4272,11 @@
     "rendered": "25J Performance en el Recinto Ferial"
   },
   "content": {
-    "rendered": "<p>Lugar: <a href=\"http://maps.google.es/maps?q=40.40556,-3.597339&amp;hl=es&amp;ll=40.405703,-3.596671&amp;spn=0.008366,0.021136&amp;sll=40.405678,-3.59666&amp;sspn=0.004183,0.010568&amp;num=1&amp;t=h&amp;z=16\">Recinto Ferial</a></p>\n<p>Hora: 20.00</p>\n<p>Fecha: 25 de Junio</p>\n<p>Este s\u00e1bado componentes de la Asamblea Popular de Vic\u00e1lvaro realizaremos una <em>performance </em>(peque\u00f1a representaci\u00f3n teatral) compuesta e interpretada por nosotrxs mismxs. La obra se llama &#171;El Entierro de la Democracia&#187; y en ella tomaremos parte m\u00e1s de veinte vecinos y vecinas del barrio.<!--more--></p>\n<p>El objetivo de esta acci\u00f3n es llamar la atenci\u00f3n de la gente sobre los problemas que actualmente afrontamos y dar visibilidad al movimiento 15M en el barrio, ya que desde hace m\u00e1s de un mes luchamos por cambiar el actual e injusto estado de las cosas.</p>\n<p>La performance tendr\u00e1 el esp\u00edritu que ha caracterizado al movimiento desde el principio: pac\u00edfico, cr\u00edtico y activo, un esp\u00edritu revolucionario que pretende acabar con este sistema injusto y abrir las puertas de un mundo nuevo para todos y todas.</p>\n<p>Desde la Comisi\u00f3n de Acci\u00f3n de la Asamblea Popular de Vic\u00e1lvaro os invitamos a todos y todas a acudir el s\u00e1bado a las 20:00 al Recinto Ferial, donde tendra lugar la representaci\u00f3n.</p>\n<p>\u00a1Ah lxs que querais participar en la performance venid vestidos de luto y participareis en el entierro de la democracia!</p>\n<p><span style=\"color: #ff0000\"><span style=\"color: #000000\">Os esperamos all\u00ed porque los derechos no se regalan, se conquistan, por que la sociedad ha despertado y rechaza este sistema injusto, por que ahora, m\u00e1s que nunca&#8230;</span> </span></p>\n<p><span style=\"color: #ff0000\">\u00a1NO NOS REPRESENTAN!</span></p>\n<p>+info en el foro: <a href=\"http://vikalvaro.es/\">http://vikalvaro.es/</a></p>\n",
+    "rendered": "<p>Lugar: <a href=\"http://maps.google.es/maps?q=40.40556,-3.597339&amp;hl=es&amp;ll=40.405703,-3.596671&amp;spn=0.008366,0.021136&amp;sll=40.405678,-3.59666&amp;sspn=0.004183,0.010568&amp;num=1&amp;t=h&amp;z=16\">Recinto Ferial</a></p>\n<p>Hora: 20.00</p>\n<p>Fecha: 25 de Junio</p>\n<p>Este s\u00e1bado componentes de la Asamblea Popular de Vic\u00e1lvaro realizaremos una <em>performance </em>(peque\u00f1a representaci\u00f3n teatral) compuesta e interpretada por nosotrxs mismxs. La obra se llama \u00abEl Entierro de la Democracia\u00bb y en ella tomaremos parte m\u00e1s de veinte vecinos y vecinas del barrio.<!--more--></p>\n<p>El objetivo de esta acci\u00f3n es llamar la atenci\u00f3n de la gente sobre los problemas que actualmente afrontamos y dar visibilidad al movimiento 15M en el barrio, ya que desde hace m\u00e1s de un mes luchamos por cambiar el actual e injusto estado de las cosas.</p>\n<p>La performance tendr\u00e1 el esp\u00edritu que ha caracterizado al movimiento desde el principio: pac\u00edfico, cr\u00edtico y activo, un esp\u00edritu revolucionario que pretende acabar con este sistema injusto y abrir las puertas de un mundo nuevo para todos y todas.</p>\n<p>Desde la Comisi\u00f3n de Acci\u00f3n de la Asamblea Popular de Vic\u00e1lvaro os invitamos a todos y todas a acudir el s\u00e1bado a las 20:00 al Recinto Ferial, donde tendra lugar la representaci\u00f3n.</p>\n<p>\u00a1Ah lxs que querais participar en la performance venid vestidos de luto y participareis en el entierro de la democracia!</p>\n<p><span style=\"color: #ff0000\"><span style=\"color: #000000\">Os esperamos all\u00ed porque los derechos no se regalan, se conquistan, por que la sociedad ha despertado y rechaza este sistema injusto, por que ahora, m\u00e1s que nunca&#8230;</span> </span></p>\n<p><span style=\"color: #ff0000\">\u00a1NO NOS REPRESENTAN!</span></p>\n<p>+info en el foro: <a href=\"http://vikalvaro.es/\">http://vikalvaro.es/</a></p>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>Lugar: Recinto Ferial Hora: 20.00 Fecha: 25 de Junio Este s\u00e1bado componentes de la Asamblea Popular de Vic\u00e1lvaro realizaremos una performance (peque\u00f1a representaci\u00f3n teatral) compuesta e interpretada por nosotrxs mismxs. La obra se llama &#171;El Entierro de la Democracia&#187; y &hellip; <a href=\"https://vicalvaro.tomalosbarrios.net/2011/06/23/25j-performance-en-el-recinto-ferial/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+    "rendered": "<p>Lugar: Recinto Ferial Hora: 20.00 Fecha: 25 de Junio Este s\u00e1bado componentes de la Asamblea Popular de Vic\u00e1lvaro realizaremos una performance (peque\u00f1a representaci\u00f3n teatral) compuesta e interpretada por nosotrxs mismxs. La obra se llama \u00abEl Entierro de la Democracia\u00bb y &hellip; <a href=\"https://vicalvaro.tomalosbarrios.net/2011/06/23/25j-performance-en-el-recinto-ferial/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
     "protected": false
   },
   "author": 297,
@@ -4520,14 +4322,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/219/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 242,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/219/revisions/242"
       }
     ],
     "wp:attachment": [
@@ -4622,14 +4418,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/208/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 211,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/208/revisions/211"
       }
     ],
     "wp:attachment": [
@@ -4724,14 +4514,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/198/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 204,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/198/revisions/204"
       }
     ],
     "wp:attachment": [
@@ -4776,11 +4560,11 @@
     "rendered": "22J CINEFORUM"
   },
   "content": {
-    "rendered": "<p>Lugar: Recinto Ferial</p>\n<p>Hora: 22.00</p>\n<p>Fecha: 22 de junio</p>\n<p>Ma\u00f1ana proyectaremos <strong>&#171;Dinero es deuda&#187;</strong> gracias a los participantes de la comisi\u00f3n de econom\u00eda.</p>\n<h2><span style=\"color: #ff0000\">\u00a1Traeros las palomitas, nosotrxs ponemos la pel\u00edcula!</span></h2>\n",
+    "rendered": "<p>Lugar: Recinto Ferial</p>\n<p>Hora: 22.00</p>\n<p>Fecha: 22 de junio</p>\n<p>Ma\u00f1ana proyectaremos <strong>\u00abDinero es deuda\u00bb</strong> gracias a los participantes de la comisi\u00f3n de econom\u00eda.</p>\n<h2><span style=\"color: #ff0000\">\u00a1Traeros las palomitas, nosotrxs ponemos la pel\u00edcula!</span></h2>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>Lugar: Recinto Ferial Hora: 22.00 Fecha: 22 de junio Ma\u00f1ana proyectaremos &#171;Dinero es deuda&#187; gracias a los participantes de la comisi\u00f3n de econom\u00eda. \u00a1Traeros las palomitas, nosotrxs ponemos la pel\u00edcula!</p>\n",
+    "rendered": "<p>Lugar: Recinto Ferial Hora: 22.00 Fecha: 22 de junio Ma\u00f1ana proyectaremos \u00abDinero es deuda\u00bb gracias a los participantes de la comisi\u00f3n de econom\u00eda. \u00a1Traeros las palomitas, nosotrxs ponemos la pel\u00edcula!</p>\n",
     "protected": false
   },
   "author": 297,
@@ -4826,14 +4610,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/194/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 218,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/194/revisions/218"
       }
     ],
     "wp:attachment": [
@@ -4928,14 +4706,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/179/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 188,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/179/revisions/188"
       }
     ],
     "wp:attachment": [
@@ -5030,14 +4802,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/173/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 177,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/173/revisions/177"
       }
     ],
     "wp:attachment": [
@@ -5132,14 +4898,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/168/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 190,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/168/revisions/190"
       }
     ],
     "wp:attachment": [
@@ -5234,14 +4994,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/157/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 161,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/157/revisions/161"
       }
     ],
     "wp:attachment": [
@@ -5291,7 +5045,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://vicalvaro.tomalosbarrios.net/files/2011/06/marcha.jpg'><img width=\"215\" height=\"300\" src=\"https://vicalvaro.tomalosbarrios.net/files/2011/06/marcha-215x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://vicalvaro.tomalosbarrios.net/files/2011/06/marcha-215x300.jpg 215w, https://vicalvaro.tomalosbarrios.net/files/2011/06/marcha.jpg 285w\" sizes=\"(max-width: 215px) 100vw, 215px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://vicalvaro.tomalosbarrios.net/files/2011/06/marcha.jpg'><img width=\"215\" height=\"300\" src=\"https://vicalvaro.tomalosbarrios.net/files/2011/06/marcha-215x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://vicalvaro.tomalosbarrios.net/files/2011/06/marcha-215x300.jpg 215w, https://vicalvaro.tomalosbarrios.net/files/2011/06/marcha.jpg 285w\" sizes=\"(max-width: 215px) 100vw, 215px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -5392,11 +5146,11 @@
     "rendered": "Asamblea Popular de Vic\u00e1lvaro apoya la Marcha de las Columnas &#8211; 19Junio"
   },
   "content": {
-    "rendered": "<p><a href=\"http://vicalvaro.tomalosbarrios.net/files/2011/06/marcha.jpg\"><img class=\"alignleft size-medium wp-image-149\" src=\"http://vicalvaro.tomalosbarrios.net/files/2011/06/marcha-215x300.jpg\" alt=\"\" width=\"215\" height=\"300\" srcset=\"https://vicalvaro.tomalosbarrios.net/files/2011/06/marcha-215x300.jpg 215w, https://vicalvaro.tomalosbarrios.net/files/2011/06/marcha.jpg 285w\" sizes=\"(max-width: 215px) 100vw, 215px\" /></a>Desde la Asamblea Popular de Vic\u00e1lvaro queremos apoyar la marcha de las columnas, que se realizar\u00e1 el 19 de Junio con el lema &#171;Caminemos juntxs contra la crisis y el capital&#187; , esta marcha saldr\u00e1 de distintos pueblos y barrios con direcci\u00f3n a las Cortes.*</p>\n<p>Vic\u00e1lvaro tendr\u00e1 como punto de encuentro el\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 C.C. Valderbernado, que se encuentra en el Bulevar Jos\u00e9 Prat 35, estaremos all\u00ed a las 10.00.</p>\n<p>Desde all\u00ed caminaremos hasta el intercambiador de Sierra de Guadalupe (metro: Sierra de Guadalupe, <!--more-->Renfe: Vallecas), donde nos uniremos a la columna de Vallecas a las 11.00 para continuar hacia las Cortes.</p>\n<p>Para aquellxs que prefieran no empezar la marcha desde Vic\u00e1lvaro a continuaci\u00f3n os ponemos los puntos por donde pasa la columna y el horario:</p>\n<ul>\n<li>10.30 &#8211; Metro Villa de Vallecas (Paseo F. Garc\u00eda Lorca)</li>\n<li>11.00 &#8211; Metro Sierra de Guadalupe</li>\n<li>11.50 &#8211; Metro Alto del Arenal</li>\n<li>12.15 &#8211; Metro Buenos Aires</li>\n<li>12.50 &#8211; Metro Puente de Vallecas</li>\n<li>13.30 &#8211; Atocha (Cuesta de Moyano)</li>\n<li>14.00 &#8211; Llegada al Congreso</li>\n</ul>\n<p><a title=\"Blog de la marcha\" href=\"http://marchasanticrisis.wordpress.com/\">http://marchasanticrisis.wordpress.com/</a></p>\n<p>* Ayer la Delegaci\u00f3n del Gobierno comunic\u00f3 la limitaci\u00f3n de la marcha hasta Neptuno.\u00a0\u00a0\u00a0\u00a0 Una vez desconvocada la marcha cada unx es libre de continuar por donde quiera, porque reconocemos que la calle es un lugar p\u00fablico y nuestro libre derecho de reuni\u00f3n.</p>\n<p>Desde la Asamblea Popular de Vic\u00e1lvaro recordamos el sentido pac\u00edfico de esta marcha y del movimiento 15M.</p>\n",
+    "rendered": "<p><a href=\"http://vicalvaro.tomalosbarrios.net/files/2011/06/marcha.jpg\"><img loading=\"lazy\" class=\"alignleft size-medium wp-image-149\" src=\"http://vicalvaro.tomalosbarrios.net/files/2011/06/marcha-215x300.jpg\" alt=\"\" width=\"215\" height=\"300\" srcset=\"https://vicalvaro.tomalosbarrios.net/files/2011/06/marcha-215x300.jpg 215w, https://vicalvaro.tomalosbarrios.net/files/2011/06/marcha.jpg 285w\" sizes=\"(max-width: 215px) 100vw, 215px\" /></a>Desde la Asamblea Popular de Vic\u00e1lvaro queremos apoyar la marcha de las columnas, que se realizar\u00e1 el 19 de Junio con el lema \u00abCaminemos juntxs contra la crisis y el capital\u00bb , esta marcha saldr\u00e1 de distintos pueblos y barrios con direcci\u00f3n a las Cortes.*</p>\n<p>Vic\u00e1lvaro tendr\u00e1 como punto de encuentro el\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 C.C. Valderbernado, que se encuentra en el Bulevar Jos\u00e9 Prat 35, estaremos all\u00ed a las 10.00.</p>\n<p>Desde all\u00ed caminaremos hasta el intercambiador de Sierra de Guadalupe (metro: Sierra de Guadalupe, <!--more-->Renfe: Vallecas), donde nos uniremos a la columna de Vallecas a las 11.00 para continuar hacia las Cortes.</p>\n<p>Para aquellxs que prefieran no empezar la marcha desde Vic\u00e1lvaro a continuaci\u00f3n os ponemos los puntos por donde pasa la columna y el horario:</p>\n<ul>\n<li>10.30 &#8211; Metro Villa de Vallecas (Paseo F. Garc\u00eda Lorca)</li>\n<li>11.00 &#8211; Metro Sierra de Guadalupe</li>\n<li>11.50 &#8211; Metro Alto del Arenal</li>\n<li>12.15 &#8211; Metro Buenos Aires</li>\n<li>12.50 &#8211; Metro Puente de Vallecas</li>\n<li>13.30 &#8211; Atocha (Cuesta de Moyano)</li>\n<li>14.00 &#8211; Llegada al Congreso</li>\n</ul>\n<p><a title=\"Blog de la marcha\" href=\"http://marchasanticrisis.wordpress.com/\">http://marchasanticrisis.wordpress.com/</a></p>\n<p>* Ayer la Delegaci\u00f3n del Gobierno comunic\u00f3 la limitaci\u00f3n de la marcha hasta Neptuno.\u00a0\u00a0\u00a0\u00a0 Una vez desconvocada la marcha cada unx es libre de continuar por donde quiera, porque reconocemos que la calle es un lugar p\u00fablico y nuestro libre derecho de reuni\u00f3n.</p>\n<p>Desde la Asamblea Popular de Vic\u00e1lvaro recordamos el sentido pac\u00edfico de esta marcha y del movimiento 15M.</p>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>Desde la Asamblea Popular de Vic\u00e1lvaro queremos apoyar la marcha de las columnas, que se realizar\u00e1 el 19 de Junio con el lema &#171;Caminemos juntxs contra la crisis y el capital&#187; , esta marcha saldr\u00e1 de distintos pueblos y barrios &hellip; <a href=\"https://vicalvaro.tomalosbarrios.net/2011/06/17/asamblea-popular-de-vicalvaro-apoya-la-marcha-de-las-columnas-19junio/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+    "rendered": "<p>Desde la Asamblea Popular de Vic\u00e1lvaro queremos apoyar la marcha de las columnas, que se realizar\u00e1 el 19 de Junio con el lema \u00abCaminemos juntxs contra la crisis y el capital\u00bb , esta marcha saldr\u00e1 de distintos pueblos y barrios &hellip; <a href=\"https://vicalvaro.tomalosbarrios.net/2011/06/17/asamblea-popular-de-vicalvaro-apoya-la-marcha-de-las-columnas-19junio/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
     "protected": false
   },
   "author": 297,
@@ -5442,14 +5196,8 @@
     ],
     "version-history": [
       {
-        "count": 10,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/148/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 193,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/148/revisions/193"
       }
     ],
     "wp:attachment": [
@@ -5544,14 +5292,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/136/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 139,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/136/revisions/139"
       }
     ],
     "wp:attachment": [
@@ -5646,14 +5388,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/133/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 146,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/133/revisions/146"
       }
     ],
     "wp:attachment": [
@@ -5748,14 +5484,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/130/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 145,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/130/revisions/145"
       }
     ],
     "wp:attachment": [
@@ -5850,14 +5580,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/114/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 129,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/114/revisions/129"
       }
     ],
     "wp:attachment": [
@@ -5952,14 +5676,8 @@
     ],
     "version-history": [
       {
-        "count": 10,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/111/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 132,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/111/revisions/132"
       }
     ],
     "wp:attachment": [
@@ -6054,14 +5772,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/106/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 109,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/106/revisions/109"
       }
     ],
     "wp:attachment": [
@@ -6156,14 +5868,8 @@
     ],
     "version-history": [
       {
-        "count": 8,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/92/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 147,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/92/revisions/147"
       }
     ],
     "wp:attachment": [
@@ -6258,14 +5964,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/90/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 101,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/90/revisions/101"
       }
     ],
     "wp:attachment": [
@@ -6355,14 +6055,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/pages/80/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 384,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/pages/80/revisions/384"
       }
     ],
     "wp:attachment": [
@@ -6450,14 +6144,8 @@
     ],
     "version-history": [
       {
-        "count": 7,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/73/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 76,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/73/revisions/76"
       }
     ],
     "wp:attachment": [
@@ -6502,7 +6190,7 @@
     "rendered": "Ya tenemos foro &#8211; http://vikalvaro.es"
   },
   "content": {
-    "rendered": "<p>El foro que se dijo que se iba a activar para sustituir a la lista de correo, ya est\u00e1 funcionando y se encuentra en la direcci\u00f3n: <strong><span style=\"text-decoration: underline\"><a href=\"http://vikalvaro.es\">Vikalvaro.es</a></span></strong> ( es temporal, en el futuro estar\u00e1 en <a href=\"http://asamblea.vikalvaro.es\">asamblea.vikalvaro.es</a>) , tener en cuenta que a la derecha aparecen cuatro iconos, facebook, twitter, google y openid, para que todos aquellos que tengan una cuenta en alguna de las anteriores plataformas, no tengan que recordar una contrase\u00f1a m\u00e1s y se puedan conectar con estas.</p>\n<p>Como ya se dijo en la asamblea del pasado S\u00e1bado, el objetivo es intentar centralizar el debate &#171;online&#187; en est\u00e1 plataforma, para as\u00ed no saturar la lista de correo. Tambi\u00e9n me complace comunicar, que dentro de la jornada de talleres, y por la necesidad de saber utilizar el foro cuanto antes, el pr\u00f3ximo s\u00e1bado 11 de Junio, de 11:00 a 12:00, en la plaza donde se va a realizar la Asamblea, se va a realizar un peque\u00f1o taller de como usar el foro, para todos los vecinos y vecinas que est\u00e9n interesados.</p>\n<p>Un abrazo,</p>\n",
+    "rendered": "<p>El foro que se dijo que se iba a activar para sustituir a la lista de correo, ya est\u00e1 funcionando y se encuentra en la direcci\u00f3n: <strong><span style=\"text-decoration: underline\"><a href=\"http://vikalvaro.es\">Vikalvaro.es</a></span></strong> ( es temporal, en el futuro estar\u00e1 en <a href=\"http://asamblea.vikalvaro.es\">asamblea.vikalvaro.es</a>) , tener en cuenta que a la derecha aparecen cuatro iconos, facebook, twitter, google y openid, para que todos aquellos que tengan una cuenta en alguna de las anteriores plataformas, no tengan que recordar una contrase\u00f1a m\u00e1s y se puedan conectar con estas.</p>\n<p>Como ya se dijo en la asamblea del pasado S\u00e1bado, el objetivo es intentar centralizar el debate \u00abonline\u00bb en est\u00e1 plataforma, para as\u00ed no saturar la lista de correo. Tambi\u00e9n me complace comunicar, que dentro de la jornada de talleres, y por la necesidad de saber utilizar el foro cuanto antes, el pr\u00f3ximo s\u00e1bado 11 de Junio, de 11:00 a 12:00, en la plaza donde se va a realizar la Asamblea, se va a realizar un peque\u00f1o taller de como usar el foro, para todos los vecinos y vecinas que est\u00e9n interesados.</p>\n<p>Un abrazo,</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -6552,14 +6240,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/68/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 70,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/68/revisions/70"
       }
     ],
     "wp:attachment": [
@@ -6654,14 +6336,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/62/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 67,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/62/revisions/67"
       }
     ],
     "wp:attachment": [
@@ -6756,14 +6432,8 @@
     ],
     "version-history": [
       {
-        "count": 11,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/49/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 104,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/49/revisions/104"
       }
     ],
     "wp:attachment": [
@@ -6913,7 +6583,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://vicalvaro.tomalosbarrios.net/files/2011/05/vicalvaro.jpg'><img width=\"300\" height=\"63\" src=\"https://vicalvaro.tomalosbarrios.net/files/2011/05/vicalvaro-300x63.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://vicalvaro.tomalosbarrios.net/files/2011/05/vicalvaro-300x63.jpg 300w, https://vicalvaro.tomalosbarrios.net/files/2011/05/vicalvaro.jpg 600w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://vicalvaro.tomalosbarrios.net/files/2011/05/vicalvaro.jpg'><img width=\"300\" height=\"63\" src=\"https://vicalvaro.tomalosbarrios.net/files/2011/05/vicalvaro-300x63.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://vicalvaro.tomalosbarrios.net/files/2011/05/vicalvaro-300x63.jpg 300w, https://vicalvaro.tomalosbarrios.net/files/2011/05/vicalvaro.jpg 600w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -7013,7 +6683,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://vicalvaro.tomalosbarrios.net/files/2011/05/vicalvaro-asamblea.jpg'><img width=\"300\" height=\"188\" src=\"https://vicalvaro.tomalosbarrios.net/files/2011/05/vicalvaro-asamblea-300x188.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://vicalvaro.tomalosbarrios.net/files/2011/05/vicalvaro-asamblea-300x188.jpg 300w, https://vicalvaro.tomalosbarrios.net/files/2011/05/vicalvaro-asamblea.jpg 500w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://vicalvaro.tomalosbarrios.net/files/2011/05/vicalvaro-asamblea.jpg'><img width=\"300\" height=\"188\" src=\"https://vicalvaro.tomalosbarrios.net/files/2011/05/vicalvaro-asamblea-300x188.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://vicalvaro.tomalosbarrios.net/files/2011/05/vicalvaro-asamblea-300x188.jpg 300w, https://vicalvaro.tomalosbarrios.net/files/2011/05/vicalvaro-asamblea.jpg 500w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -7845,14 +7515,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/pages/26/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 79,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/pages/26/revisions/79"
       }
     ],
     "wp:attachment": [
@@ -7885,7 +7549,7 @@
     "rendered": "Contacto"
   },
   "content": {
-    "rendered": "<p>Somos un gran equipo de personas que gracias a la iniciativa <a href=\"http://www.tomalosbarrios.net\">tomalosbarrios</a> hacemos eco en el mundo digital. Puedes colaborar con nosotrxs participando en nuestro <a href=\"http://vikalvaro.es\">Foro</a></p>\n<p>Si quieres contactar con la organizaci\u00f3n del blog, m\u00e1ndanos un correo a:<br />\n<strong>asambleapopular.vicalvaro@gmail.com</strong></p>\n<p>[contact-form 1 &#171;Formulario de contacto 1&#187;]</p>\n",
+    "rendered": "<p>Somos un gran equipo de personas que gracias a la iniciativa <a href=\"http://www.tomalosbarrios.net\">tomalosbarrios</a> hacemos eco en el mundo digital. Puedes colaborar con nosotrxs participando en nuestro <a href=\"http://vikalvaro.es\">Foro</a></p>\n<p>Si quieres contactar con la organizaci\u00f3n del blog, m\u00e1ndanos un correo a:<br />\n<strong>asambleapopular.vicalvaro@gmail.com</strong></p>\n<p>[contact-form 1 \u00abFormulario de contacto 1\u00bb]</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -7930,14 +7594,8 @@
     ],
     "version-history": [
       {
-        "count": 13,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/pages/23/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 382,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/pages/23/revisions/382"
       }
     ],
     "wp:attachment": [
@@ -8025,14 +7683,8 @@
     ],
     "version-history": [
       {
-        "count": 7,
+        "count": 0,
         "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/1/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 105,
-        "href": "https://vicalvaro.tomalosbarrios.net/wp-json/wp/v2/posts/1/revisions/105"
       }
     ],
     "wp:attachment": [

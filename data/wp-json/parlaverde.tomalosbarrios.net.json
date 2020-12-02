@@ -909,14 +909,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/133/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 152,
-        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/133/revisions/152"
       }
     ],
     "wp:attachment": [
@@ -994,14 +988,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/131/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 155,
-        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/131/revisions/155"
       }
     ],
     "wp:attachment": [
@@ -1079,14 +1067,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/129/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 154,
-        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/129/revisions/154"
       }
     ],
     "wp:attachment": [
@@ -1164,14 +1146,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/127/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 151,
-        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/127/revisions/151"
       }
     ],
     "wp:attachment": [
@@ -1204,7 +1180,7 @@
     "rendered": "\u00bfQui\u00e9nes somos?"
   },
   "content": {
-    "rendered": "<div style=\"background: white;padding: 10px\">\n<p style=\"text-align: justify\">Un peque\u00f1o Grupo autogestionado de personas que promueven un modo de consumo que tenga en cuenta las consecuencias sociales y medioambientales.</p>\n<p style=\"text-align: justify\">Otro de nuestros objetivos es relacionarnos con distribuidores y productores que vendan sus productos en el <a href=\"http://www.konsumoresponsable.coop/blog/mercadosocialmadrid\" target=\"_blank\">Mercado Social</a> de Madrid <em>(red de comercios que trabajan con \u201cel boniato\u201d moneda alternativa al euro)</em> para de esta manera contribuir a una econom\u00eda alternativa para que personas con pocos recursos econ\u00f3micos puedan intercambiar su trabajo o productos por &#171;boniatos&#187; que despu\u00e9s podr\u00e1n utilizar como moneda de pago.</p>\n<p style=\"text-align: justify\">El Grupo naci\u00f3 del colectivo de Medio Ambiente 15M de Parla el 11 de octubre de 2012 y durante el 2013 desarrollamos un camino de consolidaci\u00f3n que nos ha llevado a lo que somos ahora, un grupo autogestionado.</p>\n</div>\n",
+    "rendered": "<div style=\"background: white;padding: 10px\">\n<p style=\"text-align: justify\">Un peque\u00f1o Grupo autogestionado de personas que promueven un modo de consumo que tenga en cuenta las consecuencias sociales y medioambientales.</p>\n<p style=\"text-align: justify\">Otro de nuestros objetivos es relacionarnos con distribuidores y productores que vendan sus productos en el <a href=\"http://www.konsumoresponsable.coop/blog/mercadosocialmadrid\" target=\"_blank\">Mercado Social</a> de Madrid <em>(red de comercios que trabajan con \u201cel boniato\u201d moneda alternativa al euro)</em> para de esta manera contribuir a una econom\u00eda alternativa para que personas con pocos recursos econ\u00f3micos puedan intercambiar su trabajo o productos por \u00abboniatos\u00bb que despu\u00e9s podr\u00e1n utilizar como moneda de pago.</p>\n<p style=\"text-align: justify\">El Grupo naci\u00f3 del colectivo de Medio Ambiente 15M de Parla el 11 de octubre de 2012 y durante el 2013 desarrollamos un camino de consolidaci\u00f3n que nos ha llevado a lo que somos ahora, un grupo autogestionado.</p>\n</div>\n",
     "protected": false
   },
   "excerpt": {
@@ -1249,14 +1225,8 @@
     ],
     "version-history": [
       {
-        "count": 9,
+        "count": 0,
         "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/118/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 150,
-        "href": "https://parlaverde.tomalosbarrios.net/wp-json/wp/v2/pages/118/revisions/150"
       }
     ],
     "wp:attachment": [

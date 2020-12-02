@@ -24,7 +24,7 @@
   },
   "author": 150,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": true,
   "template": "",
@@ -65,14 +65,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/posts/197/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 202,
-        "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/posts/197/revisions/202"
       }
     ],
     "wp:attachment": [
@@ -117,7 +111,7 @@
     "rendered": "Icon"
   },
   "author": 150,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -234,7 +228,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -268,14 +262,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/178/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 179,
-        "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/178/revisions/179"
       }
     ],
     "wp:attachment": [
@@ -319,7 +307,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -353,14 +341,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/174/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 185,
-        "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/174/revisions/185"
       }
     ],
     "wp:attachment": [
@@ -404,7 +386,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -438,14 +420,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/171/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 184,
-        "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/171/revisions/184"
       }
     ],
     "wp:attachment": [
@@ -489,7 +465,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -523,14 +499,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/170/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 211,
-        "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/170/revisions/211"
       }
     ],
     "wp:attachment": [
@@ -574,7 +544,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -608,14 +578,8 @@
     ],
     "version-history": [
       {
-        "count": 12,
+        "count": 0,
         "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/163/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 167,
-        "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/163/revisions/167"
       }
     ],
     "wp:attachment": [
@@ -657,7 +621,7 @@
   },
   "author": 150,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -698,14 +662,8 @@
     ],
     "version-history": [
       {
-        "count": 7,
+        "count": 0,
         "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/posts/152/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 200,
-        "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/posts/152/revisions/200"
       }
     ],
     "wp:attachment": [
@@ -759,7 +717,7 @@
   },
   "author": 150,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -800,14 +758,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/posts/138/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 154,
-        "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/posts/138/revisions/154"
       }
     ],
     "wp:attachment": [
@@ -861,7 +813,7 @@
   },
   "author": 150,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -902,14 +854,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/posts/123/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 125,
-        "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/posts/123/revisions/125"
       }
     ],
     "wp:attachment": [
@@ -963,7 +909,7 @@
   },
   "author": 150,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1004,14 +950,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/posts/114/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 119,
-        "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/posts/114/revisions/119"
       }
     ],
     "wp:attachment": [
@@ -1056,7 +996,7 @@
     "rendered": "twitter-bird-light-bgs"
   },
   "author": 150,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1136,7 +1076,7 @@
     "rendered": "fondo.png"
   },
   "author": 150,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1230,7 +1170,7 @@
     "rendered": "cropped-MG_6685web2.jpg"
   },
   "author": 150,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1330,7 +1270,7 @@
     "rendered": "cropped-MG_6685web1.jpg"
   },
   "author": 150,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1441,7 +1381,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1475,14 +1415,8 @@
     ],
     "version-history": [
       {
-        "count": 7,
+        "count": 0,
         "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/84/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 86,
-        "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/84/revisions/86"
       }
     ],
     "wp:attachment": [
@@ -1526,7 +1460,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1560,14 +1494,8 @@
     ],
     "version-history": [
       {
-        "count": 17,
+        "count": 0,
         "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/79/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 188,
-        "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/79/revisions/188"
       }
     ],
     "wp:attachment": [
@@ -1611,7 +1539,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1645,14 +1573,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/67/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 69,
-        "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/67/revisions/69"
       }
     ],
     "wp:attachment": [
@@ -1696,7 +1618,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1730,14 +1652,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/62/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 74,
-        "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/62/revisions/74"
       }
     ],
     "wp:attachment": [
@@ -1770,7 +1686,7 @@
     "rendered": "Educaci\u00f3n"
   },
   "content": {
-    "rendered": "<table style=\"border: 2px solid black;background: #FFFF99\">\n<tbody>\n<tr style=\"border: 2px solid black\">\n<td style=\"border: 2px solid black\"><strong>Ponencias d\u00eda 25 de julio 2012 (estado actual)</strong></p>\n<ul>\n<li><strong>Carlos L\u00f3pez (SoyPublica): <a href=\"#pon1\">Mentiras sobre nuestra escuela p\u00fablica</a>.</strong></li>\n</ul>\n<p><strong>Ponencias d\u00eda 26 de julio 2012 (alternativas)</strong></p>\n<ul>\n<li><strong>Javier D\u00edaz (Escuela Popular La Prospe): <a href=\"#pon2\">Autogesti\u00f3n en la Educaci\u00f3n</a>.</strong></li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<p><a name=\"pon1\"></a></p>\n<table style=\"border: 4px solid black;background: #E8E8E8\">\n<tbody>\n<tr style=\"border: 4px solid black\">\n<td style=\"border: 4px solid black\"><strong><span style=\"color: #990000\">CARLOS L\u00d3PEZ (SOYPUBLICA): MENTIRAS SOBRE NUESTRA ESCUELA P\u00daBLICA<br />\n</span></strong><a href=\"http://www.soypublica.es/\" target=\"_blank\"> <img class=\"alignnone\" style=\"margin-top: -3px;margin-bottom: -3px\" src=\"http://debatepopular.tomalosbarrios.net/wp-content/blogs.dir/130/files/images/web_icon_home.png\" alt=\"\" width=\"19\" height=\"19\" /></a> <a href=\"http://www.soypublica.es/\" target=\"_blank\">Ir a p\u00e1gina</a> |\u00a0<img class=\"alignnone\" style=\"margin-top: -3px;margin-bottom: -3px\" src=\"http://debatepopular.tomalosbarrios.net/wp-content/blogs.dir/130/files/images/web_icon_pdf.png\" alt=\"\" width=\"19\" height=\"19\" /> <a href=\"https://docs.google.com/uc?id=0BwwwdazSqdeGUUc5dFlPZjM2WDA&amp;export=download\" target=\"_blank\">Bajar PDF</a> |\u00a0<img class=\"alignnone\" style=\"margin-top: -3px;margin-bottom: -3px\" src=\"http://debatepopular.tomalosbarrios.net/wp-content/blogs.dir/130/files/images/web_icon_video.png\" alt=\"\" width=\"19\" height=\"19\" /> <a href=\"http://bambuser.com/v/2854572#t=334s\" target=\"_blank\">Ver v\u00eddeo</a> |\u00a0<img class=\"alignnone\" style=\"margin-top: -3px;margin-bottom: -3px\" src=\"http://debatepopular.tomalosbarrios.net/wp-content/blogs.dir/130/files/images/web_icon_podcast.png\" alt=\"\" width=\"19\" height=\"19\" /> Bajar Podcast<span style=\"color: #000000\"><a href=\"https://docs.google.com/uc?id=0BwwwdazSqdeGUUc5dFlPZjM2WDA&amp;export=download\" target=\"_blank\"><br />\n</a></span></td>\n</tr>\n</tbody>\n</table>\n<p><span style=\"color: #000000\">Es evidente que esta transformaci\u00f3n del sistema educativo p\u00fablico no ser\u00eda aceptada por la poblaci\u00f3n sin una campa\u00f1a continua y profunda de desprestigio. Aunque resulte contradictorio, el hecho de que sean los propios gestores p\u00fablicos, los que nos dicen que funciona muy mal.</span></p>\n<p>Como ejemplo de c\u00f3mo se desprestigia un sistema p\u00fablico de educaci\u00f3n vamos a hablar del <strong>Informe PISA</strong>. (En realidad hay dos Informes Pisa en uno solo). El primero es el que transciende en los medios de comunicaci\u00f3n y que todos vosotros hab\u00e9is o\u00eddo mencionar en alguna ocasi\u00f3n y que sirve para crear un clima contrario entre la poblaci\u00f3n frente a su sistema educativo. <span style=\"text-decoration: underline\">De hecho, si yo os pregunto ahora en qu\u00e9 posici\u00f3n queda Espa\u00f1a en esta clasificaci\u00f3n internacional, \u00bfqu\u00e9 me dec\u00eds?</span> [\u2026], me dir\u00e9is que muy mal, \u00bfverdad?<br />\n<span style=\"color: #000000\"><br />\n\u00bfY SI YO OS DIJERA QUE ES MENTIRA, Y QUE NO ESTAMOS TAN MAL?</span></p>\n<p>Veamos qu\u00e9 dice de Espa\u00f1a. En primer lugar hay que aclarar que el Informe PISA estudia la relaci\u00f3n entre el <strong>estatus econ\u00f3mico, social y cultural</strong> de las familias con el resultados de los alumnos y determina que su influencia es crucial. Como ejemplo se dice que el n\u00famero de libros en casa influye en un 20% en el resultado en la prueba de compresi\u00f3n lectora. Pero no es el \u00fanico factor que puede bajar la nota, tambi\u00e9n lo hace el nivel de estudios de los padres, el tipo de trabajo que realizan, la implicaci\u00f3n de estos en actividades escolares, y otros factores, como el hecho de poseer un lugar de estudio, un ordenador, etc.</p>\n<p>Seg\u00fan estos y otros muchos factores, el Informe PISA aclara que un 31,4 de los alumnos espa\u00f1oles pertenecen a <strong>familias con un bajo nivel de educaci\u00f3n</strong>, uno de los porcentajes m\u00e1s altos entre los pa\u00edses miembros de la OCDE. Pues bien, los alumnos que pertenecen a este tipo de familias tienen un 80% de probabilidades de no acabar la ESO. Pero casualmente el fracaso escolar espa\u00f1ol se sit\u00faa en torno al 30%.</p>\n<p>Desgraciadamente este no es el \u00fanico \u00edndice negativo para Espa\u00f1a, adem\u00e1s hay que saber que el <strong>sistema educativo espa\u00f1ol se implant\u00f3 tard\u00edamente</strong>, 100 a\u00f1os m\u00e1s tarde que en Francia, por ejemplo. La consecuencia directa es un bajo n\u00famero de personas que poseen un t\u00edtulo de educaci\u00f3n secundaria y terciaria. Esto hizo que Espa\u00f1a fuera un pa\u00eds con un bajo nivel educativo hasta que en los \u00faltimos 30 a\u00f1os se ha invertido esta situaci\u00f3n, especialmente desde los a\u00f1os 90.</p>\n<p><span style=\"color: #000000\">Otro dato importante es que el Informe PISA prev\u00e9 una desviaci\u00f3n negativa de la nota de los alumnos en sus pruebas en funci\u00f3n de su perfil social, econ\u00f3mico y cultural. Sin embargo esta desviaci\u00f3n negativa de la nota a partir del perfil de los alumnos espa\u00f1oles no se cumple, <strong>Espa\u00f1a es el cuarto pa\u00eds del mundo que mejor corrige las dificultades sociales</strong> con las que llegan los alumnos al sistema educativo.<br />\n</span><span style=\"color: #000000\"><br />\nTambi\u00e9n debemos saber que teniendo en cuenta la nota que sacan los alumnos en las pruebas PISA entre los compa\u00f1eros de su colegio o los compa\u00f1eros de otras zonas, <strong>El sistema educativo espa\u00f1ol es el 2\u00ba mejor del mundo, que garantiza la equidad, solo por detr\u00e1s de Finlandia</strong>.</span></p>\n<p><img class=\"ngg-singlepic ngg-none\" style=\"border: black 1px solid;margin: 0px 0px\" src=\"http://debatepopular.tomalosbarrios.net/wp-content/blogs.dir/130/files/images/educacion1.jpg\" alt=\"educacion1\" width=\"100%\" border=\"1\" /></p>\n<p>Hemos sido el <strong>segundo pa\u00eds que mejor ha progresado</strong> en las \u00faltimas d\u00e9cadas, logrando mejores \u00edndices educativos que Finlandia, Suecia, Francia, Alemania y todos los dem\u00e1s, solo por detr\u00e1s de Corea del Sur.</p>\n<table style=\"border: 2px solid #000099;margin: 0px 0px\">\n<tbody>\n<tr>\n<td style=\"text-align: left\"><strong>Por lo que podemos concluir</strong>, que Espa\u00f1a est\u00e1 por <span style=\"text-decoration: underline\">un escaso margen</span>, por debajo de la media de la OCDE, <span style=\"text-decoration: underline\">pero muy por encima</span> de donde le corresponder\u00eda seg\u00fan el perfil socioecon\u00f3mico medio de sus alumnos.</td>\n</tr>\n</tbody>\n</table>\n<p>Adem\u00e1s, si analizamos <strong>los resultados por comunidades aut\u00f3nomas</strong>, aquellas que pertenecen a la <strong>mitad norte de la pen\u00ednsula</strong>, aquellas que tienen un \u00edndice socio econ\u00f3mico m\u00e1s alto y una implantaci\u00f3n del sistema educativo m\u00e1s avanzado, estar\u00edan entre la sexta y la vig\u00e9sima posici\u00f3n, con escasas diferencias con los primeros puestos y en algunos casos por encima de Francia, Austria, Suecia y Alemania, es decir, por encima de esos pa\u00edses que nos sirven de ejemplo.</p>\n<p>Sin embargo hay comunidades, <strong>en la mitad sur de Espa\u00f1a</strong>, que obtienen resultados bastante negativos. Y son precisamente aquellas cuyo alumnado presenta un perfil socio econ\u00f3mico m\u00e1s bajo y cuyo sistema educativo es tard\u00edo y a\u00fan deficiente para dar respuestas a los desaf\u00edos que se les plantea.</p>\n<p>\u00bfCu\u00e1les son? Andaluc\u00eda, Baleares, Canarias y especialmente Ceuta y Melilla.</p>\n<p><strong>Si nos dijeran esto en prensa, todos nos opondr\u00edamos con fuerza a las reformas que se aplican, pero en el fondo el ciudadano medio tiene una imagen negativa de su sistema educativo, porque ha sido manipulado y porque no se preocupa por conocer la verdad por s\u00ed mismo.</strong></p>\n<p>Si aceptamos este Informe y tantos otros que a distintos niveles concluyen que <strong>el nivel de renta y el nivel cultural de las familias van en paralelo a los resultados escolares</strong>, tal vez, ser\u00edamos m\u00e1s contundentes a la hora de detener este asalto a nuestro derecho a la educaci\u00f3n. \u00bfQu\u00e9 democracia es aquella donde la educaci\u00f3n depende de la regi\u00f3n y la familia donde se nace? \u00bfQu\u00e9 democracia es aquella donde las diferencias educativas se convierten en algo hereditario?<br />\n<a name=\"pon2\"></a></p>\n<table style=\"border: 4px solid black;background: #E8E8E8\">\n<tbody>\n<tr style=\"border: 4px solid black\">\n<td style=\"border: 4px solid black\"><strong><span style=\"color: #990000\">JAVIER D\u00cdAZ (ESCUELA POPULAR LA PROSPE): AUTOGESTI\u00d3N EN LA EDUCACI\u00d3N<br />\n</span></strong><a href=\"http://www.soypublica.es/\" target=\"_blank\"> <img class=\"alignnone\" style=\"margin-top: -3px;margin-bottom: -3px\" src=\"http://debatepopular.tomalosbarrios.net/wp-content/blogs.dir/130/files/images/web_icon_home.png\" alt=\"\" width=\"19\" height=\"19\" /></a> <a href=\"http://prosperesiste.nodo50.org/\" target=\"_blank\">Ir a p\u00e1gina</a> | <img class=\"alignnone\" style=\"margin-top: -3px;margin-bottom: -3px\" src=\"http://debatepopular.tomalosbarrios.net/wp-content/blogs.dir/130/files/images/web_icon_pdf.png\" alt=\"\" width=\"19\" height=\"19\" /> <a href=\"https://docs.google.com/uc?id=0BwwwdazSqdeGWU9vY20yTFcwZUk&amp;export=download\" target=\"_blank\">Bajar PDF | <img class=\"alignnone\" style=\"margin-top: -3px;margin-bottom: -3px\" src=\"http://debatepopular.tomalosbarrios.net/wp-content/blogs.dir/130/files/images/web_icon_video.png\" alt=\"\" width=\"19\" height=\"19\" /></a> <a href=\"http://bambuser.com/v/2856786#t=1186s\" target=\"_blank\">Ver v\u00eddeo</a> | <img class=\"alignnone\" style=\"margin-top: -3px;margin-bottom: -3px\" src=\"http://debatepopular.tomalosbarrios.net/wp-content/blogs.dir/130/files/images/web_icon_podcast.png\" alt=\"\" width=\"19\" height=\"19\" /> Bajar Podcast<span style=\"color: #000000\"><a href=\"https://docs.google.com/uc?id=0BwwwdazSqdeGUUc5dFlPZjM2WDA&amp;export=download\" target=\"_blank\"><br />\n</a></span></td>\n</tr>\n</tbody>\n</table>\n<p><span style=\"text-decoration: underline\"><strong><em>LA ESCUELA</em></strong></span></p>\n<p>La <strong>Escuela Popular de Personas Adultas de Prosperidad</strong> es un proyecto pedag\u00f3gico y social que surge por iniciativa popular en 1973 en el barrio madrile\u00f1o de Prosperidad. Un proyecto de educaci\u00f3n de personas adultas iniciado, por lo tanto, por gente del barrio, con gente del barrio y para la gente de ese y cualquier otro barrio.<br />\n<strong>La Escuela se caracteriza por:</strong></p>\n<ul>\n<li>Ser una <strong>asociaci\u00f3n aut\u00f3noma</strong> e independiente de la administraci\u00f3n y de cualquier otro tipo de organizaci\u00f3n, pol\u00edtica, sindical o religiosa. El hecho de de ser un Centro de EPA reconocido por el MEC desde 1984 nunca ha hecho mermar su autonom\u00eda.</li>\n<li>Nutrirse <strong>econ\u00f3micamente</strong> de los 5 euros que monitores/as y alumnas/os (los que pueden) aportan mensualmente, de las cuotas de los socios y de la posibilidad de recibir la subvenci\u00f3n que otorga anualmente la Consejer\u00eda de Educaci\u00f3n dela Comunidad de Madrid. Tampoco esta subvenci\u00f3n resta autonom\u00eda al proyecto.</li>\n<li>Contar con personas que por <strong>iniciativa propia</strong>, dedicando el tiempo y el esfuerzo que pueden y sin recibir por ello compensaci\u00f3n econ\u00f3mica alguna, llevan adelante las actividades educativas que se realizan durante el curso. Ello demuestra algo ya apuntado al principio, a saber, la capacidad de la <strong>iniciativa social</strong> para <strong>autoorganizarse</strong> y responder a las necesidades, en este caso educativas y culturales, que demanda una comunidad de personas, sea un barrio, un distrito o un municipio.</li>\n<li>Y <strong>organizarse de forma asamblearia:</strong><br />\n1) Todos los miembros (monitoras/es, alumnas/os, socios/as y las personas de los grupos que solicitan locales a la Escuela) de la <strong>Escuela Popular de Prosperidad</strong> se reunen peri\u00f3dicamente en <strong>Asamblea</strong> para hablar y decidir sobre aquellos temas previstos en el orden del d\u00eda (cualquier persona de la Escuela puede proponer el punto o puntos que desee se traten en el orden del d\u00eda ). Es un <strong>derecho</strong> y un <strong>deber</strong> (aunque nadie va si no lo desea) <strong>participar</strong> en la discusi\u00f3n y resoluci\u00f3n de los problemas que se llevan a la Asamblea: La Escuela es <strong>responsabilidad de todas/os</strong> los que formamos parte de ella.<br />\n2) Entre todas/os <strong>nos repartimos el mucho trabajo que exige el buen funcionamiento de la Escuela</strong>: Las labores contables (tesorer\u00eda), administrativas (matriculaciones, relaciones con la Comunidad de Madrid, titulaciones, control de cuotas &#8230;) y de servicios (limpieza, mantenimiento, compras de material &#8230;) tambi\u00e9n son responsabilidad de todas/os los que formamos parte de la Escuela.<strong><br />\n</strong>3)<strong> Las actividades propias del trabajo educativo</strong> (de las cuales damos cuenta en la Comisi\u00f3n Pedag\u00f3gica) como Programaciones de Aula o de \u00c1rea, evaluaciones peri\u00f3dicas del trabajo que cada grupo hace d\u00eda a d\u00eda, discusiones y propuestas metodol\u00f3gicas o de contenidos, etc <strong>son tambi\u00e9n compartidas por todos</strong> los que participamos en la Escuela.</li>\n</ul>\n<p>En definitiva se trata de aprender, como si fuera una asignatura, una forma de organizaci\u00f3n colectiva que es la <strong>AUTOGESTI\u00d3N</strong>, poni\u00e9ndola en pr\u00e1ctica, vivi\u00e9ndola.</p>\n<p><span style=\"text-decoration: underline\"><em><strong>LA MANERA DE ENSE\u00d1AR</strong></em></span></p>\n<p>La influencia de Paulo Freire radica en aceptar que la funci\u00f3n principal de la educaci\u00f3n es hacer personas libres y aut\u00f3nomas, capaces de analizar la realidad que les rodea, participando en ella y transform\u00e1ndola. Por ello en La Prospe asumimos una <strong>pedagog\u00eda</strong> que se <strong>renueva con la pr\u00e1ctica</strong> y que fomenta la <strong>reflexi\u00f3n para la acci\u00f3n</strong>.</p>\n<p>La renovaci\u00f3n pedag\u00f3gica tiene que ver con el hecho de que todos los que formamos parte de la Escuela podemos participar en las discusiones pedag\u00f3gicas. La <strong>metodolog\u00eda</strong> pero tambi\u00e9n los <strong>contenidos</strong> o las formas de <strong>evaluaci\u00f3n</strong> est\u00e1n <strong>en constante revisi\u00f3n y cambio. La pr\u00e1ctica del trabajo diario modifica la teor\u00eda e inspira nuevas propuestas, como la de los Grupos de Aprendizaje Colectivo </strong>(ver unas l\u00edneas m\u00e1s abajo).</p>\n<p>Esta labor de renovaci\u00f3n pedag\u00f3gica, posible, ya se ha dicho arriba, por el <strong>di\u00e1logo</strong>, frecuente e igual, que se da entre todas/os los que participamos en el proyecto de la <strong>Escuela Popular de Prosperidad</strong> y tambi\u00e9n entre las Escuelas Populares de Adultos de Madrid, sirvi\u00f3, por ejemplo, para que la Consejer\u00eda de Educaci\u00f3n de la Comunidad de Madrid editara materiales did\u00e1cticos destinados a profesores que trabajan con personas adultas: los M\u00f3dulos Globalizados, por ejemplo, en 1990.</p>\n<p>La manera de ense\u00f1ar en La Prospe <strong>fomenta el conocimiento de la realidad, la reflexi\u00f3n cr\u00edtica</strong> sobre esa realidad, la <strong>solidaridad</strong> con aquellos que luchan por cambiar esa realidad por otra mejor, <strong>la capacidad de decisi\u00f3n acerca de qu\u00e9 hacer</strong> en esa realidad <strong>y la capacidad de actuaci\u00f3n</strong> para transformarla. En resumen, se concibe <strong>la educaci\u00f3n como un instrumento de transformaci\u00f3n social</strong>.</p>\n<p>Organizarse de forma autogestionaria forma parte de lo que hay que aprender en la Escuela. Se trata del <strong>aprendizaje de un modo de relaci\u00f3n entre personas plenamente democr\u00e1tico</strong> y es un paso hacia la transformaci\u00f3n<strong> de una</strong> sociedad que delega en otros su derecho a opinar y decidir <strong>a otra</strong> sociedad donde la gente participa directamente en las decisiones que tienen que ver con su vida en comunidad.</p>\n<p>Participar en las Asambleas lleva aparejado aprender a analizar los problemas que se van a discutir , a reflexionar cr\u00edticamente sobre ellos, a exponer oralmente y de forma comprensible las ideas que una/o tiene, a defenderlas, a escuchar a los dem\u00e1s, a pensar en aquellas decisiones que benefician a todas/os y no s\u00f3lo a una o uno mismo, a considerarse uno m\u00e1s, igual en derechos y deberes que el resto, a participar y corresponsabilizarse de <strong>las decisiones</strong> asumidas por todas/os, etc.</p>\n<p>P. Freire tambi\u00e9n est\u00e1 detr\u00e1s de lo que hacemos en la <strong>Escuela Popular de Prosperidad cuando afirmamos que nadie se considera due\u00f1o del saber</strong>:</p>\n<p>Todos/as ense\u00f1amos y todas/os aprendemos. Los que hoy son monitoras/es en un curso son tambi\u00e9n alumnos/as en otro. Los propios Grupos de Aprendizaje Colectivo, experiencia puesta en marcha en el curso 97/98, tienen entre sus objetivos hacer desapercecer las figuras del monitor/a y del alumno/a. El educador tiene el papel de facilitador de la comunicaci\u00f3n no el de \u00fanico conocedor de la verdad.</p>\n<p>Por todo esto se puede considerar a la <strong>Escuela Popular de Prosperidad</strong> como una <strong>cooperativa de cultura popular</strong>.</p>\n<p>Los <strong>Grupos de Aprendizaje Colectivo (GAC)</strong> fueron una propuesta aceptada en las asambleas de junio de 1997. Su objetivo \u00faltimo era contribuir a crear una sociedad sin mecanismos de dominaci\u00f3n. Se asign\u00f3 a estos grupos la tarea pedag\u00f3gica de fomentar valores opuestos y/ o alternativos a aquellos que defienden y sostienen la sociedad de tipo capitalista en que vivimos. Deb\u00edan tener en cuenta que el conocimiento deb\u00eda utilizarse para la acci\u00f3n y la acci\u00f3n para el bien colectivo. Tambi\u00e9n que la relaci\u00f3n entre el coordinador/a de un GAC y el resto de los miembros de ese GAC deber\u00eda ser tal que ocurriese, en un momento dado, que todas/os llegaran a adoptar el rol de coordinadores/as en el grupo, esto es, que todas/os participaran como protagonistas de los aprendizajes que se ir\u00edan alcanzando en el trabajo de grupo. La relaci\u00f3n entre los miembros del GAC deb\u00eda ser una relaci\u00f3n entre iguales basada en el constante di\u00e1logo.</p>\n<p>La <strong>metodolog\u00eda</strong> est\u00e1 <strong>basada en la participaci\u00f3n</strong>, y en la <strong>no competici\u00f3n</strong>. Hay participaci\u00f3n cuando se logra que la alumna/o sea protagonista y agente activo y creativo del proceso educativo. En la Escuela es corriente que las monitoras/es presenten a las alumnas, al inicio de las clases, la Programaci\u00f3n prevista para el curso con el fin de discutirla y modificarla entre todas/os si se cree conveniente. Es corriente tambi\u00e9n que, durante el a\u00f1o, entre todas/os, se revisen metodolog\u00eda, contenidos y materiales did\u00e1cticos. La relaci\u00f3n educativa se establece con el di\u00e1logo, de forma horizontal, superando as\u00ed la relaci\u00f3n distante y jer\u00e1rquica monitor/a &#8211; alumna/o, di\u00e1logo que nos ense\u00f1a que en educaci\u00f3n de adultos hay que partir de la propia experiencia de los adultos en la vida, partir de lo que saben para para aprender cosa nuevas y llevarlas de vuelta a la vida. Es no competitiva. No hay mejores, ni peores, ni aprobados ni suspensos. Lo que hay son personas que quieren aprender, que son conscientes de sus dificultades para aprender, que aceptan a las/os dem\u00e1s con sus dificultades y que se ayudan mutuamente para superar esas dificultades. Nadie puede pensar que el curso ha sido todo un \u00e9xito cuando finaliza si en el grupo ha quedado alguna persona que no ha avanzado en la adquisici\u00f3n de conocimientos, o en su capacidad para relacionarse con los dem\u00e1s, o en la estima que tiene de s\u00ed misma.</p>\n<p>En la Escuela los <strong>contenidos educativos</strong> que se trabajan, tienen que ver con el <strong>mundo que hay alrededor</strong>. Es muy normal que en las clases se introduczcan, desde distintos puntos de vista y con todo el rigor cient\u00edfico posible, aquellos hechos sociales que nos afectan como personas que habitamos un mismo planeta: la discriminaci\u00f3n de la mujer, los atentados contra el medioambiente, los gastos militares y las guerras, las desigualdades Norte-Sur, la necesidad de viviendas y espacios autogestionados de cultura popular (okupaci\u00f3n), los atentados de grupos fascistas organizados, etc.</p>\n<p>Ser capaz de tomar decisiones y responsabilizarse de sus consecuencias forma parte de lo que se aprende en la Escuela. Esto se aprende y se aplica en la adopci\u00f3n, por parte de la Escuela, <strong>de una postura propia</strong> (decidida en Asamblea ) <strong>ante</strong> aquellos <strong>problemas sociales</strong> que afecten a los miembros de la Escuela . (Esto no influye en la forma de trabajar esos problemas sociales en las clases &#8211; siempre desde dintintos puntos de vista y con datos objetivos &#8211; ) . Se toma postura <strong>y se asumen las consecuencias: participar junto con otros grupos en la preparaci\u00f3n de lo que se vaya a hacer; propagar lo que se va a hacer; ir a los actos propuestos; poner dinero , etc. </strong></p>\n<p><strong>La evaluaci\u00f3n</strong> es permanente y se hace sobre todo lo que se realiza en la Escuela. La evaluaci\u00f3n es siempre autoevaluaci\u00f3n y coevaluaci\u00f3n. Se eval\u00faa el trabajo dentro de cada grupo, en el que cada persona ejerce la autocr\u00edtica sobre s\u00ed misma y los dem\u00e1s contribuyen, con sus aportaciones, a enriquecer esa autocr\u00edtica, y se eval\u00faa el trabajo dentro de la Escuela. Esto \u00faltimo ocurre en una serie de asambleas generales que hacemos en junio, en la que todos los que formamos parte de la Escuela tenemos voz. Las personas, al entrar en la Escuela, se comprometen libremente a aceptar una manera de funcionar ( decidida en Asamblea y que puede ser cuestionada y cambiada) con el grupo en el que entran y con la Escuela en general. Las evaluaciones sirven para comprobar si la manera de funcionar sirve para lograr los objetivos pedag\u00f3gicos y sociales que nos proponemos o no.</p>\n",
+    "rendered": "<table style=\"border: 2px solid black;background: #FFFF99\">\n<tbody>\n<tr style=\"border: 2px solid black\">\n<td style=\"border: 2px solid black\"><strong>Ponencias d\u00eda 25 de julio 2012 (estado actual)</strong></p>\n<ul>\n<li><strong>Carlos L\u00f3pez (SoyPublica): <a href=\"#pon1\">Mentiras sobre nuestra escuela p\u00fablica</a>.</strong></li>\n</ul>\n<p><strong>Ponencias d\u00eda 26 de julio 2012 (alternativas)</strong></p>\n<ul>\n<li><strong>Javier D\u00edaz (Escuela Popular La Prospe): <a href=\"#pon2\">Autogesti\u00f3n en la Educaci\u00f3n</a>.</strong></li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<p><a name=\"pon1\"></a></p>\n<table style=\"border: 4px solid black;background: #E8E8E8\">\n<tbody>\n<tr style=\"border: 4px solid black\">\n<td style=\"border: 4px solid black\"><strong><span style=\"color: #990000\">CARLOS L\u00d3PEZ (SOYPUBLICA): MENTIRAS SOBRE NUESTRA ESCUELA P\u00daBLICA<br />\n</span></strong><a href=\"http://www.soypublica.es/\" target=\"_blank\"> <img loading=\"lazy\" class=\"alignnone\" style=\"margin-top: -3px;margin-bottom: -3px\" src=\"http://debatepopular.tomalosbarrios.net/wp-content/blogs.dir/130/files/images/web_icon_home.png\" alt=\"\" width=\"19\" height=\"19\" /></a> <a href=\"http://www.soypublica.es/\" target=\"_blank\">Ir a p\u00e1gina</a> |\u00a0<img loading=\"lazy\" class=\"alignnone\" style=\"margin-top: -3px;margin-bottom: -3px\" src=\"http://debatepopular.tomalosbarrios.net/wp-content/blogs.dir/130/files/images/web_icon_pdf.png\" alt=\"\" width=\"19\" height=\"19\" /> <a href=\"https://docs.google.com/uc?id=0BwwwdazSqdeGUUc5dFlPZjM2WDA&amp;export=download\" target=\"_blank\">Bajar PDF</a> |\u00a0<img loading=\"lazy\" class=\"alignnone\" style=\"margin-top: -3px;margin-bottom: -3px\" src=\"http://debatepopular.tomalosbarrios.net/wp-content/blogs.dir/130/files/images/web_icon_video.png\" alt=\"\" width=\"19\" height=\"19\" /> <a href=\"http://bambuser.com/v/2854572#t=334s\" target=\"_blank\">Ver v\u00eddeo</a> |\u00a0<img loading=\"lazy\" class=\"alignnone\" style=\"margin-top: -3px;margin-bottom: -3px\" src=\"http://debatepopular.tomalosbarrios.net/wp-content/blogs.dir/130/files/images/web_icon_podcast.png\" alt=\"\" width=\"19\" height=\"19\" /> Bajar Podcast<span style=\"color: #000000\"><a href=\"https://docs.google.com/uc?id=0BwwwdazSqdeGUUc5dFlPZjM2WDA&amp;export=download\" target=\"_blank\"><br />\n</a></span></td>\n</tr>\n</tbody>\n</table>\n<p><span style=\"color: #000000\">Es evidente que esta transformaci\u00f3n del sistema educativo p\u00fablico no ser\u00eda aceptada por la poblaci\u00f3n sin una campa\u00f1a continua y profunda de desprestigio. Aunque resulte contradictorio, el hecho de que sean los propios gestores p\u00fablicos, los que nos dicen que funciona muy mal.</span></p>\n<p>Como ejemplo de c\u00f3mo se desprestigia un sistema p\u00fablico de educaci\u00f3n vamos a hablar del <strong>Informe PISA</strong>. (En realidad hay dos Informes Pisa en uno solo). El primero es el que transciende en los medios de comunicaci\u00f3n y que todos vosotros hab\u00e9is o\u00eddo mencionar en alguna ocasi\u00f3n y que sirve para crear un clima contrario entre la poblaci\u00f3n frente a su sistema educativo. <span style=\"text-decoration: underline\">De hecho, si yo os pregunto ahora en qu\u00e9 posici\u00f3n queda Espa\u00f1a en esta clasificaci\u00f3n internacional, \u00bfqu\u00e9 me dec\u00eds?</span> [\u2026], me dir\u00e9is que muy mal, \u00bfverdad?<br />\n<span style=\"color: #000000\"><br />\n\u00bfY SI YO OS DIJERA QUE ES MENTIRA, Y QUE NO ESTAMOS TAN MAL?</span></p>\n<p>Veamos qu\u00e9 dice de Espa\u00f1a. En primer lugar hay que aclarar que el Informe PISA estudia la relaci\u00f3n entre el <strong>estatus econ\u00f3mico, social y cultural</strong> de las familias con el resultados de los alumnos y determina que su influencia es crucial. Como ejemplo se dice que el n\u00famero de libros en casa influye en un 20% en el resultado en la prueba de compresi\u00f3n lectora. Pero no es el \u00fanico factor que puede bajar la nota, tambi\u00e9n lo hace el nivel de estudios de los padres, el tipo de trabajo que realizan, la implicaci\u00f3n de estos en actividades escolares, y otros factores, como el hecho de poseer un lugar de estudio, un ordenador, etc.</p>\n<p>Seg\u00fan estos y otros muchos factores, el Informe PISA aclara que un 31,4 de los alumnos espa\u00f1oles pertenecen a <strong>familias con un bajo nivel de educaci\u00f3n</strong>, uno de los porcentajes m\u00e1s altos entre los pa\u00edses miembros de la OCDE. Pues bien, los alumnos que pertenecen a este tipo de familias tienen un 80% de probabilidades de no acabar la ESO. Pero casualmente el fracaso escolar espa\u00f1ol se sit\u00faa en torno al 30%.</p>\n<p>Desgraciadamente este no es el \u00fanico \u00edndice negativo para Espa\u00f1a, adem\u00e1s hay que saber que el <strong>sistema educativo espa\u00f1ol se implant\u00f3 tard\u00edamente</strong>, 100 a\u00f1os m\u00e1s tarde que en Francia, por ejemplo. La consecuencia directa es un bajo n\u00famero de personas que poseen un t\u00edtulo de educaci\u00f3n secundaria y terciaria. Esto hizo que Espa\u00f1a fuera un pa\u00eds con un bajo nivel educativo hasta que en los \u00faltimos 30 a\u00f1os se ha invertido esta situaci\u00f3n, especialmente desde los a\u00f1os 90.</p>\n<p><span style=\"color: #000000\">Otro dato importante es que el Informe PISA prev\u00e9 una desviaci\u00f3n negativa de la nota de los alumnos en sus pruebas en funci\u00f3n de su perfil social, econ\u00f3mico y cultural. Sin embargo esta desviaci\u00f3n negativa de la nota a partir del perfil de los alumnos espa\u00f1oles no se cumple, <strong>Espa\u00f1a es el cuarto pa\u00eds del mundo que mejor corrige las dificultades sociales</strong> con las que llegan los alumnos al sistema educativo.<br />\n</span><span style=\"color: #000000\"><br />\nTambi\u00e9n debemos saber que teniendo en cuenta la nota que sacan los alumnos en las pruebas PISA entre los compa\u00f1eros de su colegio o los compa\u00f1eros de otras zonas, <strong>El sistema educativo espa\u00f1ol es el 2\u00ba mejor del mundo, que garantiza la equidad, solo por detr\u00e1s de Finlandia</strong>.</span></p>\n<p><img class=\"ngg-singlepic ngg-none\" style=\"border: black 1px solid;margin: 0px 0px\" src=\"http://debatepopular.tomalosbarrios.net/wp-content/blogs.dir/130/files/images/educacion1.jpg\" alt=\"educacion1\" width=\"100%\" border=\"1\" /></p>\n<p>Hemos sido el <strong>segundo pa\u00eds que mejor ha progresado</strong> en las \u00faltimas d\u00e9cadas, logrando mejores \u00edndices educativos que Finlandia, Suecia, Francia, Alemania y todos los dem\u00e1s, solo por detr\u00e1s de Corea del Sur.</p>\n<table style=\"border: 2px solid #000099;margin: 0px 0px\">\n<tbody>\n<tr>\n<td style=\"text-align: left\"><strong>Por lo que podemos concluir</strong>, que Espa\u00f1a est\u00e1 por <span style=\"text-decoration: underline\">un escaso margen</span>, por debajo de la media de la OCDE, <span style=\"text-decoration: underline\">pero muy por encima</span> de donde le corresponder\u00eda seg\u00fan el perfil socioecon\u00f3mico medio de sus alumnos.</td>\n</tr>\n</tbody>\n</table>\n<p>Adem\u00e1s, si analizamos <strong>los resultados por comunidades aut\u00f3nomas</strong>, aquellas que pertenecen a la <strong>mitad norte de la pen\u00ednsula</strong>, aquellas que tienen un \u00edndice socio econ\u00f3mico m\u00e1s alto y una implantaci\u00f3n del sistema educativo m\u00e1s avanzado, estar\u00edan entre la sexta y la vig\u00e9sima posici\u00f3n, con escasas diferencias con los primeros puestos y en algunos casos por encima de Francia, Austria, Suecia y Alemania, es decir, por encima de esos pa\u00edses que nos sirven de ejemplo.</p>\n<p>Sin embargo hay comunidades, <strong>en la mitad sur de Espa\u00f1a</strong>, que obtienen resultados bastante negativos. Y son precisamente aquellas cuyo alumnado presenta un perfil socio econ\u00f3mico m\u00e1s bajo y cuyo sistema educativo es tard\u00edo y a\u00fan deficiente para dar respuestas a los desaf\u00edos que se les plantea.</p>\n<p>\u00bfCu\u00e1les son? Andaluc\u00eda, Baleares, Canarias y especialmente Ceuta y Melilla.</p>\n<p><strong>Si nos dijeran esto en prensa, todos nos opondr\u00edamos con fuerza a las reformas que se aplican, pero en el fondo el ciudadano medio tiene una imagen negativa de su sistema educativo, porque ha sido manipulado y porque no se preocupa por conocer la verdad por s\u00ed mismo.</strong></p>\n<p>Si aceptamos este Informe y tantos otros que a distintos niveles concluyen que <strong>el nivel de renta y el nivel cultural de las familias van en paralelo a los resultados escolares</strong>, tal vez, ser\u00edamos m\u00e1s contundentes a la hora de detener este asalto a nuestro derecho a la educaci\u00f3n. \u00bfQu\u00e9 democracia es aquella donde la educaci\u00f3n depende de la regi\u00f3n y la familia donde se nace? \u00bfQu\u00e9 democracia es aquella donde las diferencias educativas se convierten en algo hereditario?<br />\n<a name=\"pon2\"></a></p>\n<table style=\"border: 4px solid black;background: #E8E8E8\">\n<tbody>\n<tr style=\"border: 4px solid black\">\n<td style=\"border: 4px solid black\"><strong><span style=\"color: #990000\">JAVIER D\u00cdAZ (ESCUELA POPULAR LA PROSPE): AUTOGESTI\u00d3N EN LA EDUCACI\u00d3N<br />\n</span></strong><a href=\"http://www.soypublica.es/\" target=\"_blank\"> <img loading=\"lazy\" class=\"alignnone\" style=\"margin-top: -3px;margin-bottom: -3px\" src=\"http://debatepopular.tomalosbarrios.net/wp-content/blogs.dir/130/files/images/web_icon_home.png\" alt=\"\" width=\"19\" height=\"19\" /></a> <a href=\"http://prosperesiste.nodo50.org/\" target=\"_blank\">Ir a p\u00e1gina</a> | <img loading=\"lazy\" class=\"alignnone\" style=\"margin-top: -3px;margin-bottom: -3px\" src=\"http://debatepopular.tomalosbarrios.net/wp-content/blogs.dir/130/files/images/web_icon_pdf.png\" alt=\"\" width=\"19\" height=\"19\" /> <a href=\"https://docs.google.com/uc?id=0BwwwdazSqdeGWU9vY20yTFcwZUk&amp;export=download\" target=\"_blank\">Bajar PDF | <img loading=\"lazy\" class=\"alignnone\" style=\"margin-top: -3px;margin-bottom: -3px\" src=\"http://debatepopular.tomalosbarrios.net/wp-content/blogs.dir/130/files/images/web_icon_video.png\" alt=\"\" width=\"19\" height=\"19\" /></a> <a href=\"http://bambuser.com/v/2856786#t=1186s\" target=\"_blank\">Ver v\u00eddeo</a> | <img loading=\"lazy\" class=\"alignnone\" style=\"margin-top: -3px;margin-bottom: -3px\" src=\"http://debatepopular.tomalosbarrios.net/wp-content/blogs.dir/130/files/images/web_icon_podcast.png\" alt=\"\" width=\"19\" height=\"19\" /> Bajar Podcast<span style=\"color: #000000\"><a href=\"https://docs.google.com/uc?id=0BwwwdazSqdeGUUc5dFlPZjM2WDA&amp;export=download\" target=\"_blank\"><br />\n</a></span></td>\n</tr>\n</tbody>\n</table>\n<p><span style=\"text-decoration: underline\"><strong><em>LA ESCUELA</em></strong></span></p>\n<p>La <strong>Escuela Popular de Personas Adultas de Prosperidad</strong> es un proyecto pedag\u00f3gico y social que surge por iniciativa popular en 1973 en el barrio madrile\u00f1o de Prosperidad. Un proyecto de educaci\u00f3n de personas adultas iniciado, por lo tanto, por gente del barrio, con gente del barrio y para la gente de ese y cualquier otro barrio.<br />\n<strong>La Escuela se caracteriza por:</strong></p>\n<ul>\n<li>Ser una <strong>asociaci\u00f3n aut\u00f3noma</strong> e independiente de la administraci\u00f3n y de cualquier otro tipo de organizaci\u00f3n, pol\u00edtica, sindical o religiosa. El hecho de de ser un Centro de EPA reconocido por el MEC desde 1984 nunca ha hecho mermar su autonom\u00eda.</li>\n<li>Nutrirse <strong>econ\u00f3micamente</strong> de los 5 euros que monitores/as y alumnas/os (los que pueden) aportan mensualmente, de las cuotas de los socios y de la posibilidad de recibir la subvenci\u00f3n que otorga anualmente la Consejer\u00eda de Educaci\u00f3n dela Comunidad de Madrid. Tampoco esta subvenci\u00f3n resta autonom\u00eda al proyecto.</li>\n<li>Contar con personas que por <strong>iniciativa propia</strong>, dedicando el tiempo y el esfuerzo que pueden y sin recibir por ello compensaci\u00f3n econ\u00f3mica alguna, llevan adelante las actividades educativas que se realizan durante el curso. Ello demuestra algo ya apuntado al principio, a saber, la capacidad de la <strong>iniciativa social</strong> para <strong>autoorganizarse</strong> y responder a las necesidades, en este caso educativas y culturales, que demanda una comunidad de personas, sea un barrio, un distrito o un municipio.</li>\n<li>Y <strong>organizarse de forma asamblearia:</strong><br />\n1) Todos los miembros (monitoras/es, alumnas/os, socios/as y las personas de los grupos que solicitan locales a la Escuela) de la <strong>Escuela Popular de Prosperidad</strong> se reunen peri\u00f3dicamente en <strong>Asamblea</strong> para hablar y decidir sobre aquellos temas previstos en el orden del d\u00eda (cualquier persona de la Escuela puede proponer el punto o puntos que desee se traten en el orden del d\u00eda ). Es un <strong>derecho</strong> y un <strong>deber</strong> (aunque nadie va si no lo desea) <strong>participar</strong> en la discusi\u00f3n y resoluci\u00f3n de los problemas que se llevan a la Asamblea: La Escuela es <strong>responsabilidad de todas/os</strong> los que formamos parte de ella.<br />\n2) Entre todas/os <strong>nos repartimos el mucho trabajo que exige el buen funcionamiento de la Escuela</strong>: Las labores contables (tesorer\u00eda), administrativas (matriculaciones, relaciones con la Comunidad de Madrid, titulaciones, control de cuotas &#8230;) y de servicios (limpieza, mantenimiento, compras de material &#8230;) tambi\u00e9n son responsabilidad de todas/os los que formamos parte de la Escuela.<strong><br />\n</strong>3)<strong> Las actividades propias del trabajo educativo</strong> (de las cuales damos cuenta en la Comisi\u00f3n Pedag\u00f3gica) como Programaciones de Aula o de \u00c1rea, evaluaciones peri\u00f3dicas del trabajo que cada grupo hace d\u00eda a d\u00eda, discusiones y propuestas metodol\u00f3gicas o de contenidos, etc <strong>son tambi\u00e9n compartidas por todos</strong> los que participamos en la Escuela.</li>\n</ul>\n<p>En definitiva se trata de aprender, como si fuera una asignatura, una forma de organizaci\u00f3n colectiva que es la <strong>AUTOGESTI\u00d3N</strong>, poni\u00e9ndola en pr\u00e1ctica, vivi\u00e9ndola.</p>\n<p><span style=\"text-decoration: underline\"><em><strong>LA MANERA DE ENSE\u00d1AR</strong></em></span></p>\n<p>La influencia de Paulo Freire radica en aceptar que la funci\u00f3n principal de la educaci\u00f3n es hacer personas libres y aut\u00f3nomas, capaces de analizar la realidad que les rodea, participando en ella y transform\u00e1ndola. Por ello en La Prospe asumimos una <strong>pedagog\u00eda</strong> que se <strong>renueva con la pr\u00e1ctica</strong> y que fomenta la <strong>reflexi\u00f3n para la acci\u00f3n</strong>.</p>\n<p>La renovaci\u00f3n pedag\u00f3gica tiene que ver con el hecho de que todos los que formamos parte de la Escuela podemos participar en las discusiones pedag\u00f3gicas. La <strong>metodolog\u00eda</strong> pero tambi\u00e9n los <strong>contenidos</strong> o las formas de <strong>evaluaci\u00f3n</strong> est\u00e1n <strong>en constante revisi\u00f3n y cambio. La pr\u00e1ctica del trabajo diario modifica la teor\u00eda e inspira nuevas propuestas, como la de los Grupos de Aprendizaje Colectivo </strong>(ver unas l\u00edneas m\u00e1s abajo).</p>\n<p>Esta labor de renovaci\u00f3n pedag\u00f3gica, posible, ya se ha dicho arriba, por el <strong>di\u00e1logo</strong>, frecuente e igual, que se da entre todas/os los que participamos en el proyecto de la <strong>Escuela Popular de Prosperidad</strong> y tambi\u00e9n entre las Escuelas Populares de Adultos de Madrid, sirvi\u00f3, por ejemplo, para que la Consejer\u00eda de Educaci\u00f3n de la Comunidad de Madrid editara materiales did\u00e1cticos destinados a profesores que trabajan con personas adultas: los M\u00f3dulos Globalizados, por ejemplo, en 1990.</p>\n<p>La manera de ense\u00f1ar en La Prospe <strong>fomenta el conocimiento de la realidad, la reflexi\u00f3n cr\u00edtica</strong> sobre esa realidad, la <strong>solidaridad</strong> con aquellos que luchan por cambiar esa realidad por otra mejor, <strong>la capacidad de decisi\u00f3n acerca de qu\u00e9 hacer</strong> en esa realidad <strong>y la capacidad de actuaci\u00f3n</strong> para transformarla. En resumen, se concibe <strong>la educaci\u00f3n como un instrumento de transformaci\u00f3n social</strong>.</p>\n<p>Organizarse de forma autogestionaria forma parte de lo que hay que aprender en la Escuela. Se trata del <strong>aprendizaje de un modo de relaci\u00f3n entre personas plenamente democr\u00e1tico</strong> y es un paso hacia la transformaci\u00f3n<strong> de una</strong> sociedad que delega en otros su derecho a opinar y decidir <strong>a otra</strong> sociedad donde la gente participa directamente en las decisiones que tienen que ver con su vida en comunidad.</p>\n<p>Participar en las Asambleas lleva aparejado aprender a analizar los problemas que se van a discutir , a reflexionar cr\u00edticamente sobre ellos, a exponer oralmente y de forma comprensible las ideas que una/o tiene, a defenderlas, a escuchar a los dem\u00e1s, a pensar en aquellas decisiones que benefician a todas/os y no s\u00f3lo a una o uno mismo, a considerarse uno m\u00e1s, igual en derechos y deberes que el resto, a participar y corresponsabilizarse de <strong>las decisiones</strong> asumidas por todas/os, etc.</p>\n<p>P. Freire tambi\u00e9n est\u00e1 detr\u00e1s de lo que hacemos en la <strong>Escuela Popular de Prosperidad cuando afirmamos que nadie se considera due\u00f1o del saber</strong>:</p>\n<p>Todos/as ense\u00f1amos y todas/os aprendemos. Los que hoy son monitoras/es en un curso son tambi\u00e9n alumnos/as en otro. Los propios Grupos de Aprendizaje Colectivo, experiencia puesta en marcha en el curso 97/98, tienen entre sus objetivos hacer desapercecer las figuras del monitor/a y del alumno/a. El educador tiene el papel de facilitador de la comunicaci\u00f3n no el de \u00fanico conocedor de la verdad.</p>\n<p>Por todo esto se puede considerar a la <strong>Escuela Popular de Prosperidad</strong> como una <strong>cooperativa de cultura popular</strong>.</p>\n<p>Los <strong>Grupos de Aprendizaje Colectivo (GAC)</strong> fueron una propuesta aceptada en las asambleas de junio de 1997. Su objetivo \u00faltimo era contribuir a crear una sociedad sin mecanismos de dominaci\u00f3n. Se asign\u00f3 a estos grupos la tarea pedag\u00f3gica de fomentar valores opuestos y/ o alternativos a aquellos que defienden y sostienen la sociedad de tipo capitalista en que vivimos. Deb\u00edan tener en cuenta que el conocimiento deb\u00eda utilizarse para la acci\u00f3n y la acci\u00f3n para el bien colectivo. Tambi\u00e9n que la relaci\u00f3n entre el coordinador/a de un GAC y el resto de los miembros de ese GAC deber\u00eda ser tal que ocurriese, en un momento dado, que todas/os llegaran a adoptar el rol de coordinadores/as en el grupo, esto es, que todas/os participaran como protagonistas de los aprendizajes que se ir\u00edan alcanzando en el trabajo de grupo. La relaci\u00f3n entre los miembros del GAC deb\u00eda ser una relaci\u00f3n entre iguales basada en el constante di\u00e1logo.</p>\n<p>La <strong>metodolog\u00eda</strong> est\u00e1 <strong>basada en la participaci\u00f3n</strong>, y en la <strong>no competici\u00f3n</strong>. Hay participaci\u00f3n cuando se logra que la alumna/o sea protagonista y agente activo y creativo del proceso educativo. En la Escuela es corriente que las monitoras/es presenten a las alumnas, al inicio de las clases, la Programaci\u00f3n prevista para el curso con el fin de discutirla y modificarla entre todas/os si se cree conveniente. Es corriente tambi\u00e9n que, durante el a\u00f1o, entre todas/os, se revisen metodolog\u00eda, contenidos y materiales did\u00e1cticos. La relaci\u00f3n educativa se establece con el di\u00e1logo, de forma horizontal, superando as\u00ed la relaci\u00f3n distante y jer\u00e1rquica monitor/a &#8211; alumna/o, di\u00e1logo que nos ense\u00f1a que en educaci\u00f3n de adultos hay que partir de la propia experiencia de los adultos en la vida, partir de lo que saben para para aprender cosa nuevas y llevarlas de vuelta a la vida. Es no competitiva. No hay mejores, ni peores, ni aprobados ni suspensos. Lo que hay son personas que quieren aprender, que son conscientes de sus dificultades para aprender, que aceptan a las/os dem\u00e1s con sus dificultades y que se ayudan mutuamente para superar esas dificultades. Nadie puede pensar que el curso ha sido todo un \u00e9xito cuando finaliza si en el grupo ha quedado alguna persona que no ha avanzado en la adquisici\u00f3n de conocimientos, o en su capacidad para relacionarse con los dem\u00e1s, o en la estima que tiene de s\u00ed misma.</p>\n<p>En la Escuela los <strong>contenidos educativos</strong> que se trabajan, tienen que ver con el <strong>mundo que hay alrededor</strong>. Es muy normal que en las clases se introduczcan, desde distintos puntos de vista y con todo el rigor cient\u00edfico posible, aquellos hechos sociales que nos afectan como personas que habitamos un mismo planeta: la discriminaci\u00f3n de la mujer, los atentados contra el medioambiente, los gastos militares y las guerras, las desigualdades Norte-Sur, la necesidad de viviendas y espacios autogestionados de cultura popular (okupaci\u00f3n), los atentados de grupos fascistas organizados, etc.</p>\n<p>Ser capaz de tomar decisiones y responsabilizarse de sus consecuencias forma parte de lo que se aprende en la Escuela. Esto se aprende y se aplica en la adopci\u00f3n, por parte de la Escuela, <strong>de una postura propia</strong> (decidida en Asamblea ) <strong>ante</strong> aquellos <strong>problemas sociales</strong> que afecten a los miembros de la Escuela . (Esto no influye en la forma de trabajar esos problemas sociales en las clases &#8211; siempre desde dintintos puntos de vista y con datos objetivos &#8211; ) . Se toma postura <strong>y se asumen las consecuencias: participar junto con otros grupos en la preparaci\u00f3n de lo que se vaya a hacer; propagar lo que se va a hacer; ir a los actos propuestos; poner dinero , etc. </strong></p>\n<p><strong>La evaluaci\u00f3n</strong> es permanente y se hace sobre todo lo que se realiza en la Escuela. La evaluaci\u00f3n es siempre autoevaluaci\u00f3n y coevaluaci\u00f3n. Se eval\u00faa el trabajo dentro de cada grupo, en el que cada persona ejerce la autocr\u00edtica sobre s\u00ed misma y los dem\u00e1s contribuyen, con sus aportaciones, a enriquecer esa autocr\u00edtica, y se eval\u00faa el trabajo dentro de la Escuela. Esto \u00faltimo ocurre en una serie de asambleas generales que hacemos en junio, en la que todos los que formamos parte de la Escuela tenemos voz. Las personas, al entrar en la Escuela, se comprometen libremente a aceptar una manera de funcionar ( decidida en Asamblea y que puede ser cuestionada y cambiada) con el grupo en el que entran y con la Escuela en general. Las evaluaciones sirven para comprobar si la manera de funcionar sirve para lograr los objetivos pedag\u00f3gicos y sociales que nos proponemos o no.</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -1781,7 +1697,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1815,14 +1731,8 @@
     ],
     "version-history": [
       {
-        "count": 30,
+        "count": 0,
         "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/59/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 216,
-        "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/59/revisions/216"
       }
     ],
     "wp:attachment": [
@@ -1855,7 +1765,7 @@
     "rendered": "Reforma Laboral y Desempleo"
   },
   "content": {
-    "rendered": "<table style=\"border: 2px solid black;background: #FFFF99\">\n<tbody>\n<tr style=\"border: 2px solid black\">\n<td style=\"border: 2px solid black\"><strong>Ponencias d\u00eda 25 de julio 2012 (estado actual)</strong></p>\n<ul>\n<li><strong>Iv\u00e1n (Econom\u00eda Sol): La Reforma Laboral.</strong></li>\n</ul>\n<p><strong>Ponencias d\u00eda 26 de julio 2012 (alternativas)</strong></p>\n<ul>\n<li><strong>Ignacio Mart\u00edn (Oficina Precaria): <a href=\"#pon2\">Autogesti\u00f3n en el Trabajo</a>.</strong></li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<p><a name=\"pon2\"></a></p>\n<table style=\"border: 4px solid black;background: #E8E8E8\">\n<tbody>\n<tr style=\"border: 4px solid black\">\n<td style=\"border: 4px solid black\"><strong><span style=\"color: #990000\">IGNACIO MART\u00cdN (OFICINA PRECARIA): AUTOGESTI\u00d3N EN EL TRABAJO<br />\n</span></strong><a href=\"http://www.soypublica.es/\" target=\"_blank\"> <img class=\"alignnone\" style=\"margin-top: -3px;margin-bottom: -3px\" src=\"http://debatepopular.tomalosbarrios.net/wp-content/blogs.dir/130/files/images/web_icon_home.png\" alt=\"\" width=\"19\" height=\"19\" /></a> <a href=\"http://www.oficinaprecaria.net/\" target=\"_blank\">Ir a p\u00e1gina</a> | <img class=\"alignnone\" style=\"margin-top: -3px;margin-bottom: -3px\" src=\"http://debatepopular.tomalosbarrios.net/wp-content/blogs.dir/130/files/images/web_icon_pdf.png\" alt=\"\" width=\"19\" height=\"19\" /> <a href=\"https://docs.google.com/uc?id=0BwwwdazSqdeGRWxJSm83eGI4Wms&amp;export=download\" target=\"_blank\">Bajar PDF</a> | <img class=\"alignnone\" style=\"margin-top: -3px;margin-bottom: -3px\" src=\"http://debatepopular.tomalosbarrios.net/wp-content/blogs.dir/130/files/images/web_icon_video.png\" alt=\"\" width=\"19\" height=\"19\" /> <a href=\"http://bambuser.com/v/2856751#t=8s\" target=\"_blank\">Ver v\u00eddeo</a> | <img class=\"alignnone\" style=\"margin-top: -3px;margin-bottom: -3px\" src=\"http://debatepopular.tomalosbarrios.net/wp-content/blogs.dir/130/files/images/web_icon_podcast.png\" alt=\"\" width=\"19\" height=\"19\" /> Bajar Podcast<span style=\"color: #000000\"><a href=\"https://docs.google.com/uc?id=0BwwwdazSqdeGUUc5dFlPZjM2WDA&amp;export=download\" target=\"_blank\"><br />\n</a></span></td>\n</tr>\n</tbody>\n</table>\n<p><em>\u00a0<strong>Defenderse es conquistar m\u00e1s derechos</strong></em></p>\n<p>En un marco de relaciones laborales fragmentada nosotros vemos como es cada vez m\u00e1s necesario responder ante situaciones que nosotros calificamos como precariedad.</p>\n<p>Precariedad no es s\u00f3lo temporalidad o bajos sueldos, es la manera de relacionarse con la vida de todo un grupo de la poblaci\u00f3n (cada vez mayor) que es incapaz de estructurar sus derechos en el mundo del empleo y por lo tanto su existencia, al contrario que en los modelos de trabajo fijo (welfare), no est\u00e1 garantizada y es imposible construir el relato vital de forma estable.</p>\n<p>La oficina precaria es una herramienta para las mayor\u00edas creada desde abajo, con la idea de aportar todo lo posible al conflicto en el empleo y en todo sus alrededores que la legislaci\u00f3n no considera empleo pero que nosotros si dado que son las formas de vida de los ciudadanos.</p>\n<p>No mitificamos el empleo, sabemos que en medio de vida en el modelo capitalista. Esto es importante porque no queremos el empleo per se si no que dentro de la defensa del empleo siempre pensamos \u00bfQu\u00e9 empleo?</p>\n<p>Tenemos 3 ejes:</p>\n<ol>\n<li><span style=\"text-decoration: underline\">Jur\u00eddico</span>: Nuestros abogados con las normas actualmente existentes buscan la manera de protegernos de forma efectiva y buscar las fracturas del sistema jur\u00eddicas donde construir barreras de defensa. Todos los Mi\u00e9rcoles a las 19 en el Patio Maravillas (Agosto cerrado).</li>\n<li><span style=\"text-decoration: underline\">Acci\u00f3n</span>: Es necesario explorar como ser\u00e1n las nuevas formas de conflicto laboral en un espacio fragmentado donde las sedes de las empresas ya no acumulan miles de trabajadores y donde la movilidad es norma. Nosotras creamos este eje como herramienta de defensa ataque.</li>\n<li><span style=\"text-decoration: underline\">Cooperativas</span>: Tendemos a creer que el modelo cooperativista genera la posibilidad de crear empleo y buen empleo. No nos gusta el modelo de trabajo intensivo para nosotros mismos, las cooperativas tienen que ser empleo que permita la vida, son soluci\u00f3n a las relaciones laborales basadas en la explotaci\u00f3n (no nos vale cambiar explotaci\u00f3n externa por propia, tiene que ser m\u00e1s profundo).</li>\n</ol>\n<p>Tenemos 2 grandes campa\u00f1as:</p>\n<ol>\n<li><span style=\"text-decoration: underline\">Liberalizaci\u00f3n de horarios comerciales</span>: No est\u00e1 generando m\u00e1s empleo y nos han llegado casos que nos demuestran que se est\u00e1 aumentando las horas de trabajo y la precariedad en lugar del empleo. No falta empleo sobran horas de trabajo, es necesario repartir el trabajo y redistribuir la riqueza.</li>\n<li><span style=\"text-decoration: underline\">Becarios</span>: Vemos como el estallido de la forma contractual becaria es exponencial. La becarizaci\u00f3n de la sociedad consideramos que son un problema de primer nivel (en sectores de mass media es escandaloso) a nivel pol\u00edtico pero adem\u00e1s que jur\u00eddicamente consideramos que tambi\u00e9n permiten una acci\u00f3n muy ponente y p\u00fablica.</li>\n</ol>\n<p>En general determinar que la oficina precaria es autodefensa y ataque por<br />\nreconquistar nuestra vida. Sabemos que tenemos que dar soluciones<br />\ninmediatas pero la \u00fanica defensa verdadera es conquistar derechos y para<br />\neso solo la lucha sirve.</p>\n",
+    "rendered": "<table style=\"border: 2px solid black;background: #FFFF99\">\n<tbody>\n<tr style=\"border: 2px solid black\">\n<td style=\"border: 2px solid black\"><strong>Ponencias d\u00eda 25 de julio 2012 (estado actual)</strong></p>\n<ul>\n<li><strong>Iv\u00e1n (Econom\u00eda Sol): La Reforma Laboral.</strong></li>\n</ul>\n<p><strong>Ponencias d\u00eda 26 de julio 2012 (alternativas)</strong></p>\n<ul>\n<li><strong>Ignacio Mart\u00edn (Oficina Precaria): <a href=\"#pon2\">Autogesti\u00f3n en el Trabajo</a>.</strong></li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<p><a name=\"pon2\"></a></p>\n<table style=\"border: 4px solid black;background: #E8E8E8\">\n<tbody>\n<tr style=\"border: 4px solid black\">\n<td style=\"border: 4px solid black\"><strong><span style=\"color: #990000\">IGNACIO MART\u00cdN (OFICINA PRECARIA): AUTOGESTI\u00d3N EN EL TRABAJO<br />\n</span></strong><a href=\"http://www.soypublica.es/\" target=\"_blank\"> <img loading=\"lazy\" class=\"alignnone\" style=\"margin-top: -3px;margin-bottom: -3px\" src=\"http://debatepopular.tomalosbarrios.net/wp-content/blogs.dir/130/files/images/web_icon_home.png\" alt=\"\" width=\"19\" height=\"19\" /></a> <a href=\"http://www.oficinaprecaria.net/\" target=\"_blank\">Ir a p\u00e1gina</a> | <img loading=\"lazy\" class=\"alignnone\" style=\"margin-top: -3px;margin-bottom: -3px\" src=\"http://debatepopular.tomalosbarrios.net/wp-content/blogs.dir/130/files/images/web_icon_pdf.png\" alt=\"\" width=\"19\" height=\"19\" /> <a href=\"https://docs.google.com/uc?id=0BwwwdazSqdeGRWxJSm83eGI4Wms&amp;export=download\" target=\"_blank\">Bajar PDF</a> | <img loading=\"lazy\" class=\"alignnone\" style=\"margin-top: -3px;margin-bottom: -3px\" src=\"http://debatepopular.tomalosbarrios.net/wp-content/blogs.dir/130/files/images/web_icon_video.png\" alt=\"\" width=\"19\" height=\"19\" /> <a href=\"http://bambuser.com/v/2856751#t=8s\" target=\"_blank\">Ver v\u00eddeo</a> | <img loading=\"lazy\" class=\"alignnone\" style=\"margin-top: -3px;margin-bottom: -3px\" src=\"http://debatepopular.tomalosbarrios.net/wp-content/blogs.dir/130/files/images/web_icon_podcast.png\" alt=\"\" width=\"19\" height=\"19\" /> Bajar Podcast<span style=\"color: #000000\"><a href=\"https://docs.google.com/uc?id=0BwwwdazSqdeGUUc5dFlPZjM2WDA&amp;export=download\" target=\"_blank\"><br />\n</a></span></td>\n</tr>\n</tbody>\n</table>\n<p><em>\u00a0<strong>Defenderse es conquistar m\u00e1s derechos</strong></em></p>\n<p>En un marco de relaciones laborales fragmentada nosotros vemos como es cada vez m\u00e1s necesario responder ante situaciones que nosotros calificamos como precariedad.</p>\n<p>Precariedad no es s\u00f3lo temporalidad o bajos sueldos, es la manera de relacionarse con la vida de todo un grupo de la poblaci\u00f3n (cada vez mayor) que es incapaz de estructurar sus derechos en el mundo del empleo y por lo tanto su existencia, al contrario que en los modelos de trabajo fijo (welfare), no est\u00e1 garantizada y es imposible construir el relato vital de forma estable.</p>\n<p>La oficina precaria es una herramienta para las mayor\u00edas creada desde abajo, con la idea de aportar todo lo posible al conflicto en el empleo y en todo sus alrededores que la legislaci\u00f3n no considera empleo pero que nosotros si dado que son las formas de vida de los ciudadanos.</p>\n<p>No mitificamos el empleo, sabemos que en medio de vida en el modelo capitalista. Esto es importante porque no queremos el empleo per se si no que dentro de la defensa del empleo siempre pensamos \u00bfQu\u00e9 empleo?</p>\n<p>Tenemos 3 ejes:</p>\n<ol>\n<li><span style=\"text-decoration: underline\">Jur\u00eddico</span>: Nuestros abogados con las normas actualmente existentes buscan la manera de protegernos de forma efectiva y buscar las fracturas del sistema jur\u00eddicas donde construir barreras de defensa. Todos los Mi\u00e9rcoles a las 19 en el Patio Maravillas (Agosto cerrado).</li>\n<li><span style=\"text-decoration: underline\">Acci\u00f3n</span>: Es necesario explorar como ser\u00e1n las nuevas formas de conflicto laboral en un espacio fragmentado donde las sedes de las empresas ya no acumulan miles de trabajadores y donde la movilidad es norma. Nosotras creamos este eje como herramienta de defensa ataque.</li>\n<li><span style=\"text-decoration: underline\">Cooperativas</span>: Tendemos a creer que el modelo cooperativista genera la posibilidad de crear empleo y buen empleo. No nos gusta el modelo de trabajo intensivo para nosotros mismos, las cooperativas tienen que ser empleo que permita la vida, son soluci\u00f3n a las relaciones laborales basadas en la explotaci\u00f3n (no nos vale cambiar explotaci\u00f3n externa por propia, tiene que ser m\u00e1s profundo).</li>\n</ol>\n<p>Tenemos 2 grandes campa\u00f1as:</p>\n<ol>\n<li><span style=\"text-decoration: underline\">Liberalizaci\u00f3n de horarios comerciales</span>: No est\u00e1 generando m\u00e1s empleo y nos han llegado casos que nos demuestran que se est\u00e1 aumentando las horas de trabajo y la precariedad en lugar del empleo. No falta empleo sobran horas de trabajo, es necesario repartir el trabajo y redistribuir la riqueza.</li>\n<li><span style=\"text-decoration: underline\">Becarios</span>: Vemos como el estallido de la forma contractual becaria es exponencial. La becarizaci\u00f3n de la sociedad consideramos que son un problema de primer nivel (en sectores de mass media es escandaloso) a nivel pol\u00edtico pero adem\u00e1s que jur\u00eddicamente consideramos que tambi\u00e9n permiten una acci\u00f3n muy ponente y p\u00fablica.</li>\n</ol>\n<p>En general determinar que la oficina precaria es autodefensa y ataque por<br />\nreconquistar nuestra vida. Sabemos que tenemos que dar soluciones<br />\ninmediatas pero la \u00fanica defensa verdadera es conquistar derechos y para<br />\neso solo la lucha sirve.</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -1866,7 +1776,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1900,14 +1810,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/49/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 244,
-        "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/49/revisions/244"
       }
     ],
     "wp:attachment": [
@@ -1951,7 +1855,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1985,14 +1889,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/42/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 99,
-        "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/42/revisions/99"
       }
     ],
     "wp:attachment": [
@@ -2036,7 +1934,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2070,14 +1968,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/30/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 58,
-        "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/30/revisions/58"
       }
     ],
     "wp:attachment": [
@@ -2121,7 +2013,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2155,14 +2047,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/28/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 54,
-        "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/28/revisions/54"
       }
     ],
     "wp:attachment": [
@@ -2206,7 +2092,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2240,14 +2126,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/22/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 23,
-        "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/22/revisions/23"
       }
     ],
     "wp:attachment": [
@@ -2280,7 +2160,7 @@
     "rendered": "Audiovisual"
   },
   "content": {
-    "rendered": "<p style=\"text-align: center\"><iframe width='600' height='450' src='//www.youtube.com/embed/3nPK7DHePUQ?autoplay=0&loop=0&rel=0' frameborder='0' allowfullscreen></iframe></p>\n<p>Spot realizado por <a href=\"http://tomalatele.tv\" target=\"_blank\">TomalaTele</a> (sino lo visualizas correctamente pincha <a href=\"http://www.youtube.com/watch?v=3nPK7DHePUQ&amp;feature=youtu.be\">aqu\u00ed</a>).</p>\n<p>El streaming (la emisi\u00f3n en directo) del Debate Popular sobre el Estado de la Naci\u00f3n lo realizar\u00e1 <a href=\"http://tomalatele.tv\" target=\"_blank\">TomalaTele</a>.</p>\n<p><a href=\"http://tomalatele.tv\"><img class=\"aligncenter\" src=\"http://www.cronicapopular.es/wp-content/uploads/2012/05/logo_tomalatele.jpg\" alt=\"\" width=\"200\" height=\"238\" /></a></p>\n<p>Si tienes curiosidad por ver material audiovisual del debate del 2011 existe una recopilaci\u00f3n de<a href=\"http://debatedelpueblo.tomalosbarrios.net/streamming/\"> v\u00eddeos y emisiones en directo</a> que siguieron decenas de miles de personas.</p>\n",
+    "rendered": "<p style=\"text-align: center\"><iframe width='600' height='450' src='//www.youtube.com/embed/3nPK7DHePUQ?autoplay=0&loop=0&rel=0' frameborder='0' allowfullscreen></iframe></p>\n<p>Spot realizado por <a href=\"http://tomalatele.tv\" target=\"_blank\">TomalaTele</a> (sino lo visualizas correctamente pincha <a href=\"http://www.youtube.com/watch?v=3nPK7DHePUQ&amp;feature=youtu.be\">aqu\u00ed</a>).</p>\n<p>El streaming (la emisi\u00f3n en directo) del Debate Popular sobre el Estado de la Naci\u00f3n lo realizar\u00e1 <a href=\"http://tomalatele.tv\" target=\"_blank\">TomalaTele</a>.</p>\n<p><a href=\"http://tomalatele.tv\"><img loading=\"lazy\" class=\"aligncenter\" src=\"http://www.cronicapopular.es/wp-content/uploads/2012/05/logo_tomalatele.jpg\" alt=\"\" width=\"200\" height=\"238\" /></a></p>\n<p>Si tienes curiosidad por ver material audiovisual del debate del 2011 existe una recopilaci\u00f3n de<a href=\"http://debatedelpueblo.tomalosbarrios.net/streamming/\"> v\u00eddeos y emisiones en directo</a> que siguieron decenas de miles de personas.</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -2291,7 +2171,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2325,14 +2205,8 @@
     ],
     "version-history": [
       {
-        "count": 8,
+        "count": 0,
         "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/18/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 121,
-        "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/18/revisions/121"
       }
     ],
     "wp:attachment": [
@@ -2376,7 +2250,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2410,14 +2284,8 @@
     ],
     "version-history": [
       {
-        "count": 13,
+        "count": 0,
         "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/11/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 97,
-        "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/11/revisions/97"
       }
     ],
     "wp:attachment": [
@@ -2873,7 +2741,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2907,14 +2775,8 @@
     ],
     "version-history": [
       {
-        "count": 10,
+        "count": 0,
         "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/2/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 9,
-        "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/pages/2/revisions/9"
       }
     ],
     "wp:attachment": [
@@ -2956,7 +2818,7 @@
   },
   "author": 150,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2997,14 +2859,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/posts/1/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 72,
-        "href": "https://debatepopular.tomalosbarrios.net/wp-json/wp/v2/posts/1/revisions/72"
       }
     ],
     "wp:attachment": [

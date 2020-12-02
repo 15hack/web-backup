@@ -24,7 +24,7 @@
   },
   "author": 337,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -65,14 +65,8 @@
     ],
     "version-history": [
       {
-        "count": 20,
+        "count": 0,
         "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/343/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 365,
-        "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/343/revisions/365"
       }
     ],
     "wp:attachment": [
@@ -126,7 +120,7 @@
   },
   "author": 337,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -167,14 +161,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/333/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 362,
-        "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/333/revisions/362"
       }
     ],
     "wp:attachment": [
@@ -228,7 +216,7 @@
   },
   "author": 337,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -269,14 +257,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/328/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 330,
-        "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/328/revisions/330"
       }
     ],
     "wp:attachment": [
@@ -330,7 +312,7 @@
   },
   "author": 337,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -371,14 +353,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/324/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 326,
-        "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/324/revisions/326"
       }
     ],
     "wp:attachment": [
@@ -432,7 +408,7 @@
   },
   "author": 337,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -473,14 +449,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/322/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 325,
-        "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/322/revisions/325"
       }
     ],
     "wp:attachment": [
@@ -534,7 +504,7 @@
   },
   "author": 337,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -575,14 +545,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/317/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 321,
-        "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/317/revisions/321"
       }
     ],
     "wp:attachment": [
@@ -627,7 +591,7 @@
     "rendered": "Carta respuesta ayuntamiento"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -768,7 +732,7 @@
     "rendered": "Carta respuesta ayuntamiento"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -839,7 +803,7 @@
   },
   "author": 337,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -880,14 +844,8 @@
     ],
     "version-history": [
       {
-        "count": 8,
+        "count": 0,
         "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/288/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 292,
-        "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/288/revisions/292"
       }
     ],
     "wp:attachment": [
@@ -932,7 +890,7 @@
     "rendered": "Carta respuesta ayuntamiento"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1003,7 +961,7 @@
   },
   "author": 337,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1044,14 +1002,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/272/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 275,
-        "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/272/revisions/275"
       }
     ],
     "wp:attachment": [
@@ -1105,7 +1057,7 @@
   },
   "author": 337,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1146,14 +1098,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/266/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 270,
-        "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/266/revisions/270"
       }
     ],
     "wp:attachment": [
@@ -1207,7 +1153,7 @@
   },
   "author": 337,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1248,14 +1194,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/261/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 264,
-        "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/261/revisions/264"
       }
     ],
     "wp:attachment": [
@@ -1309,7 +1249,7 @@
   },
   "author": 337,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1350,14 +1290,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/253/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 256,
-        "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/253/revisions/256"
       }
     ],
     "wp:attachment": [
@@ -1411,7 +1345,7 @@
   },
   "author": 337,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1452,14 +1386,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/248/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 252,
-        "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/248/revisions/252"
       }
     ],
     "wp:attachment": [
@@ -1513,7 +1441,7 @@
   },
   "author": 337,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1554,14 +1482,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/237/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 240,
-        "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/237/revisions/240"
       }
     ],
     "wp:attachment": [
@@ -1615,7 +1537,7 @@
   },
   "author": 337,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1656,14 +1578,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/233/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 236,
-        "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/233/revisions/236"
       }
     ],
     "wp:attachment": [
@@ -1717,7 +1633,7 @@
   },
   "author": 337,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1758,14 +1674,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/225/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 231,
-        "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/225/revisions/231"
       }
     ],
     "wp:attachment": [
@@ -1819,7 +1729,7 @@
   },
   "author": 337,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1861,14 +1771,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/214/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 218,
-        "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/214/revisions/218"
       }
     ],
     "wp:attachment": [
@@ -1922,7 +1826,7 @@
   },
   "author": 337,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1963,14 +1867,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/202/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 209,
-        "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/202/revisions/209"
       }
     ],
     "wp:attachment": [
@@ -2024,7 +1922,7 @@
   },
   "author": 337,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": true,
   "template": "",
@@ -2065,14 +1963,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/188/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 193,
-        "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/188/revisions/193"
       }
     ],
     "wp:attachment": [
@@ -2126,7 +2018,7 @@
   },
   "author": 337,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2167,14 +2059,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/184/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 187,
-        "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/184/revisions/187"
       }
     ],
     "wp:attachment": [
@@ -2219,7 +2105,7 @@
     "rendered": "Acta+comunicacion+asamblea+zarzalejo+14_07_2011"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2281,12 +2167,12 @@
     "rendered": "_IGP3180"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31803.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31803-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31803-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31803-1024x680.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31803.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31803.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31803-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31803-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31803-1024x680.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31803.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2393,12 +2279,12 @@
     "rendered": "_IGP3232"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3232.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3232-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3232-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3232.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3232.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3232-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3232-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3232.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2499,12 +2385,12 @@
     "rendered": "_IGP3216"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3216.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3216-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3216-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3216.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3216.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3216-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3216-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3216.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2605,12 +2491,12 @@
     "rendered": "_IGP3215"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3215.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3215-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3215-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3215.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3215.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3215-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3215-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3215.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2711,12 +2597,12 @@
     "rendered": "_IGP3213"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3213.jpg'><img width=\"300\" height=\"152\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3213-300x152.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3213-300x152.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3213-1024x518.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3213.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3213.jpg'><img width=\"300\" height=\"152\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3213-300x152.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3213-300x152.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3213-1024x518.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3213.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2823,12 +2709,12 @@
     "rendered": "_IGP3214"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3214.jpg'><img width=\"199\" height=\"300\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3214-199x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3214-199x300.jpg 199w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3214.jpg 598w\" sizes=\"(max-width: 199px) 100vw, 199px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3214.jpg'><img width=\"199\" height=\"300\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3214-199x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3214-199x300.jpg 199w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3214.jpg 598w\" sizes=\"(max-width: 199px) 100vw, 199px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2929,12 +2815,12 @@
     "rendered": "_IGP3211"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3211.jpg'><img width=\"300\" height=\"207\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3211-300x207.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3211-300x207.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3211.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3211.jpg'><img width=\"300\" height=\"207\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3211-300x207.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3211-300x207.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3211.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3035,12 +2921,12 @@
     "rendered": "_IGP3209"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3209.jpg'><img width=\"199\" height=\"300\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3209-199x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3209-199x300.jpg 199w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3209.jpg 598w\" sizes=\"(max-width: 199px) 100vw, 199px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3209.jpg'><img width=\"199\" height=\"300\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3209-199x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3209-199x300.jpg 199w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3209.jpg 598w\" sizes=\"(max-width: 199px) 100vw, 199px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3141,12 +3027,12 @@
     "rendered": "_IGP3208"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3208.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3208-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3208-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3208.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3208.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3208-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3208-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3208.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3247,12 +3133,12 @@
     "rendered": "_IGP3207"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3207.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3207-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3207-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3207.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3207.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3207-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3207-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3207.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3353,12 +3239,12 @@
     "rendered": "_IGP3206"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP32061.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP32061-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP32061-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP32061.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP32061.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP32061-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP32061-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP32061.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3459,12 +3345,12 @@
     "rendered": "_IGP3204"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP32041.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP32041-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP32041-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP32041.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP32041.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP32041-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP32041-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP32041.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3565,12 +3451,12 @@
     "rendered": "_IGP3196"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31962.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31962-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31962-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31962.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31962.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31962-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31962-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31962.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3671,12 +3557,12 @@
     "rendered": "_IGP3196"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31961.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31961-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31961-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31961.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31961.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31961-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31961-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31961.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3777,12 +3663,12 @@
     "rendered": "_IGP3194"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31941.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31941-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31941-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31941.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31941.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31941-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31941-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31941.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3883,12 +3769,12 @@
     "rendered": "_IGP3193"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31932.jpg'><img width=\"300\" height=\"212\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31932-300x212.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31932-300x212.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31932.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31932.jpg'><img width=\"300\" height=\"212\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31932-300x212.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31932-300x212.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31932.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3989,12 +3875,12 @@
     "rendered": "_IGP3191"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31912.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31912-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31912-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31912.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31912.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31912-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31912-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31912.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4095,12 +3981,12 @@
     "rendered": "_IGP3180"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31802.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31802-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31802-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31802-1024x680.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31802.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31802.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31802-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31802-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31802-1024x680.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31802.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4207,12 +4093,12 @@
     "rendered": "Nos encontramos con m\u00e1s compa\u00f1er@s"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3206.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3206-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3206-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3206.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3206.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3206-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3206-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3206.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4313,12 +4199,12 @@
     "rendered": "Marchamos a juntarnos con la columna suroeste"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3204.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3204-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3204-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3204.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3204.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3204-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3204-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3204.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4419,12 +4305,12 @@
     "rendered": "Saliendo de la estaci\u00f3n de Atocha"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3197.jpg'><img width=\"300\" height=\"211\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3197-300x211.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3197-300x211.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3197.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3197.jpg'><img width=\"300\" height=\"211\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3197-300x211.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3197-300x211.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3197.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4525,12 +4411,12 @@
     "rendered": "En Atocha, de preparativos para salir juntos"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3196.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3196-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3196-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3196.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3196.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3196-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3196-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3196.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4631,12 +4517,12 @@
     "rendered": "En el tren, de cachondeo. Ambiente festivo"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31931.jpg'><img width=\"300\" height=\"212\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31931-300x212.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31931-300x212.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31931.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31931.jpg'><img width=\"300\" height=\"212\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31931-300x212.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31931-300x212.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31931.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4737,12 +4623,12 @@
     "rendered": "Haciendo pancartas en el tren"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31911.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31911-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31911-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31911.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31911.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31911-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31911-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31911.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4843,12 +4729,12 @@
     "rendered": "En la estaci\u00f3n de El Escorial"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31801.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31801-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"En El Escorial\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31801-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31801-1024x680.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31801.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31801.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31801-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"En El Escorial\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31801-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31801-1024x680.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31801.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4955,12 +4841,12 @@
     "rendered": "En el tren"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3194.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3194-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3194-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3194.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3194.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3194-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3194-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3194.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -5061,12 +4947,12 @@
     "rendered": "En el tren, ambiente festivo, cantamos consignas"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3193.jpg'><img width=\"300\" height=\"212\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3193-300x212.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3193-300x212.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3193.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3193.jpg'><img width=\"300\" height=\"212\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3193-300x212.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3193-300x212.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3193.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -5167,12 +5053,12 @@
     "rendered": "En el tren haciendo pancartas"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3191.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3191-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3191-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3191.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3191.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3191-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3191-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3191.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -5273,12 +5159,12 @@
     "rendered": "En la estaci\u00f3n de El Escorial"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3180.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3180-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3180-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3180-1024x680.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3180.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>Aqu\u00ed estamos antes de coger el tren.</p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3180.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3180-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3180-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3180-1024x680.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3180.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>Aqu\u00ed estamos antes de coger el tren.</p>\n"
   },
   "caption": {
     "rendered": "<p>Aqu\u00ed estamos antes de coger el tren.</p>\n"
@@ -5385,7 +5271,7 @@
     "rendered": "Fotos Mani 19J contra el Pacto de Euro"
   },
   "content": {
-    "rendered": "<p><a href=\"../files/2011/07/IGP3204.jpg\"></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31802.jpg\"><img class=\"alignnone size-medium wp-image-142\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31802-300x199.jpg\" alt=\"\" width=\"300\" height=\"199\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31802-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31802-1024x680.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31802.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31912.jpg\"><img class=\"alignnone size-medium wp-image-143\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31912-300x199.jpg\" alt=\"\" width=\"300\" height=\"199\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31912-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31912.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><br />\nEn la estaci\u00f3n de El Escorial\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Pintando pancartas en el tren</p>\n<p><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31932.jpg\"><img class=\"alignnone size-medium wp-image-144\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31932-300x212.jpg\" alt=\"\" width=\"300\" height=\"212\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31932-300x212.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31932.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31941.jpg\"><img class=\"alignnone size-medium wp-image-145\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31941-300x199.jpg\" alt=\"\" width=\"300\" height=\"199\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31941-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31941.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>En el tren camino de Madrid, de cachondeo. Ambiente festivo.</p>\n<p><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31962.jpg\"><img class=\"alignnone size-medium wp-image-147\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31962-300x199.jpg\" alt=\"\" width=\"300\" height=\"199\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31962-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31962.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>En la estaci\u00f3n de Atocha, organiz\u00e1ndonos para salir juntos</p>\n<p><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP32041.jpg\"><img class=\"alignnone size-medium wp-image-148\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP32041-300x199.jpg\" alt=\"\" width=\"300\" height=\"199\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP32041-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP32041.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP32061.jpg\"><img class=\"alignnone size-medium wp-image-149\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP32061-300x199.jpg\" alt=\"\" width=\"300\" height=\"199\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP32061-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP32061.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3207.jpg\"><img class=\"alignnone size-medium wp-image-150\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3207-300x199.jpg\" alt=\"\" width=\"300\" height=\"199\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3207-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3207.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3208.jpg\"><img class=\"alignnone size-medium wp-image-151\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3208-300x199.jpg\" alt=\"\" width=\"300\" height=\"199\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3208-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3208.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>Nos encontramos con m\u00e1s compa\u00f1er@s de Zarzalejo y El Escorial, y nos unimos a la gran columna que viene de Vallecas. \u00a1Nos reciben con aplausos y vivas!</p>\n<p><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3209.jpg\"><img class=\"alignnone size-medium wp-image-152\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3209-199x300.jpg\" alt=\"\" width=\"199\" height=\"300\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3209-199x300.jpg 199w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3209.jpg 598w\" sizes=\"(max-width: 199px) 100vw, 199px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3211.jpg\"><img class=\"alignnone size-medium wp-image-153\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3211-300x207.jpg\" alt=\"\" width=\"300\" height=\"207\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3211-300x207.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3211.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3213.jpg\"><img class=\"alignnone size-medium wp-image-155\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3213-300x152.jpg\" alt=\"\" width=\"300\" height=\"152\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3213-300x152.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3213-1024x518.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3213.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3215.jpg\"><img class=\"alignnone size-medium wp-image-156\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3215-300x199.jpg\" alt=\"\" width=\"300\" height=\"199\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3215-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3215.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>Marchamos tod@s con nuestras pancartas, desde Atocha a Neptuno</p>\n<p><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3216.jpg\"><img class=\"alignnone size-medium wp-image-157\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3216-300x199.jpg\" alt=\"\" width=\"300\" height=\"199\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3216-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3216.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3232.jpg\"><img class=\"alignnone size-medium wp-image-158\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3232-300x199.jpg\" alt=\"\" width=\"300\" height=\"199\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3232-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3232.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>En el Paseo del Prado&#8230;\u00a1Fiesta combativa! Elegimos ir por la sombra&#8230;Cantamos consignas, lo pasamos muy bien, inclu\u00eddas beb\u00e9s, ni\u00f1@s, preadolescentes, j\u00f3venes, adultos, viejas, etc.</p>\n<p>\u00a1Cu\u00e1nta energ\u00eda!</p>\n<p>&nbsp;</p>\n",
+    "rendered": "<p><a href=\"../files/2011/07/IGP3204.jpg\"></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31802.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-142\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31802-300x199.jpg\" alt=\"\" width=\"300\" height=\"199\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31802-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31802-1024x680.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31802.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31912.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-143\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31912-300x199.jpg\" alt=\"\" width=\"300\" height=\"199\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31912-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31912.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><br />\nEn la estaci\u00f3n de El Escorial\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Pintando pancartas en el tren</p>\n<p><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31932.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-144\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31932-300x212.jpg\" alt=\"\" width=\"300\" height=\"212\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31932-300x212.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31932.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31941.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-145\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31941-300x199.jpg\" alt=\"\" width=\"300\" height=\"199\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31941-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31941.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>En el tren camino de Madrid, de cachondeo. Ambiente festivo.</p>\n<p><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31962.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-147\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31962-300x199.jpg\" alt=\"\" width=\"300\" height=\"199\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31962-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP31962.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>En la estaci\u00f3n de Atocha, organiz\u00e1ndonos para salir juntos</p>\n<p><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP32041.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-148\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP32041-300x199.jpg\" alt=\"\" width=\"300\" height=\"199\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP32041-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP32041.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP32061.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-149\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP32061-300x199.jpg\" alt=\"\" width=\"300\" height=\"199\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP32061-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP32061.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3207.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-150\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3207-300x199.jpg\" alt=\"\" width=\"300\" height=\"199\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3207-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3207.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3208.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-151\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3208-300x199.jpg\" alt=\"\" width=\"300\" height=\"199\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3208-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3208.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>Nos encontramos con m\u00e1s compa\u00f1er@s de Zarzalejo y El Escorial, y nos unimos a la gran columna que viene de Vallecas. \u00a1Nos reciben con aplausos y vivas!</p>\n<p><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3209.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-152\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3209-199x300.jpg\" alt=\"\" width=\"199\" height=\"300\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3209-199x300.jpg 199w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3209.jpg 598w\" sizes=\"(max-width: 199px) 100vw, 199px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3211.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-153\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3211-300x207.jpg\" alt=\"\" width=\"300\" height=\"207\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3211-300x207.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3211.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3213.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-155\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3213-300x152.jpg\" alt=\"\" width=\"300\" height=\"152\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3213-300x152.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3213-1024x518.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3213.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3215.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-156\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3215-300x199.jpg\" alt=\"\" width=\"300\" height=\"199\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3215-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3215.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>Marchamos tod@s con nuestras pancartas, desde Atocha a Neptuno</p>\n<p><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3216.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-157\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3216-300x199.jpg\" alt=\"\" width=\"300\" height=\"199\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3216-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3216.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3232.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-158\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3232-300x199.jpg\" alt=\"\" width=\"300\" height=\"199\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3232-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3232.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>En el Paseo del Prado&#8230;\u00a1Fiesta combativa! Elegimos ir por la sombra&#8230;Cantamos consignas, lo pasamos muy bien, inclu\u00eddas beb\u00e9s, ni\u00f1@s, preadolescentes, j\u00f3venes, adultos, viejas, etc.</p>\n<p>\u00a1Cu\u00e1nta energ\u00eda!</p>\n<p>&nbsp;</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -5394,7 +5280,7 @@
   },
   "author": 337,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -5435,14 +5321,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/127/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 160,
-        "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/127/revisions/160"
       }
     ],
     "wp:attachment": [
@@ -5496,7 +5376,7 @@
   },
   "author": 337,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -5537,14 +5417,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/121/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 125,
-        "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/121/revisions/125"
       }
     ],
     "wp:attachment": [
@@ -5598,7 +5472,7 @@
   },
   "author": 337,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -5639,14 +5513,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/117/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 120,
-        "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/117/revisions/120"
       }
     ],
     "wp:attachment": [
@@ -5691,7 +5559,7 @@
     "rendered": "3\u00aa ASAMBLEA ZARZALEJO"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -5753,7 +5621,7 @@
     "rendered": "Asistencia al Pleno Municipal 1J"
   },
   "content": {
-    "rendered": "<p>Hola compas!!<br />\nHoy hemos asistido 9 personas al pleno del ayuntamiento de Zarzalejo.<br />\nHago un breve resumen de lo que se dijo, aunque lo principal ha sido que sabemos pr\u00f3ximas convocatorias.</p>\n<ul>\n<li>Concejal\u00edas que conforman el ayuntamiento: Servicios sociales inmigraci\u00f3n y hacienda.</li>\n</ul>\n<p>Urbanismo y medio ambiente<br />\nCultura deportes y festejos</p>\n<ul>\n<li>Se  describen todas las competencias de la alcald\u00eda. (licencias,  aprobaciones de proyectos, cargos de delegaci\u00f3n de gobiernos,sanciones  seg\u00fan ordenanazas municipales aprobaciones ofertas de empleo p\u00fablico&#8230;)</li>\n<li>Se describen competencias del pleno de la junta de gobierno local.</li>\n<li><strong>Periodicidad de plenos: segundos mi\u00e9rcoles de cada trimestre a las 9:30.</strong></li>\n<li>Juntas de gobierno local : ( a \u00e9stas no se puede asistir, pero se publican actas): jueves a las 9:30</li>\n<li>Mancomunidad de Zarzalejo y Fresnedillas: representante el alcalde.</li>\n<li>Consejo escolar: representante concejala de cultura.</li>\n<li>Consejo tur\u00edstico Sierra Oeste: representante el alcalde.</li>\n</ul>\n<p>Como  punto extraordinario del orden del d\u00eda se ha tratado la petici\u00f3n de  Iberdrola de construir un centro para mejorar el suministro el\u00e9ctrico.</p>\n<p>Si  me falta algo lo a\u00f1adis. Creo que hoy hemos dado un &#171;peque\u00f1o gran  paso&#187;. Que esto no se pare, que vean presencia vecinal del pueblo, hoy  yo creo\u00a0 que en las caras\u00a0 de la corporaci\u00f3n,se notaba la &#187; sorpresa&#187;&#8230;</p>\n",
+    "rendered": "<p>Hola compas!!<br />\nHoy hemos asistido 9 personas al pleno del ayuntamiento de Zarzalejo.<br />\nHago un breve resumen de lo que se dijo, aunque lo principal ha sido que sabemos pr\u00f3ximas convocatorias.</p>\n<ul>\n<li>Concejal\u00edas que conforman el ayuntamiento: Servicios sociales inmigraci\u00f3n y hacienda.</li>\n</ul>\n<p>Urbanismo y medio ambiente<br />\nCultura deportes y festejos</p>\n<ul>\n<li>Se  describen todas las competencias de la alcald\u00eda. (licencias,  aprobaciones de proyectos, cargos de delegaci\u00f3n de gobiernos,sanciones  seg\u00fan ordenanazas municipales aprobaciones ofertas de empleo p\u00fablico&#8230;)</li>\n<li>Se describen competencias del pleno de la junta de gobierno local.</li>\n<li><strong>Periodicidad de plenos: segundos mi\u00e9rcoles de cada trimestre a las 9:30.</strong></li>\n<li>Juntas de gobierno local : ( a \u00e9stas no se puede asistir, pero se publican actas): jueves a las 9:30</li>\n<li>Mancomunidad de Zarzalejo y Fresnedillas: representante el alcalde.</li>\n<li>Consejo escolar: representante concejala de cultura.</li>\n<li>Consejo tur\u00edstico Sierra Oeste: representante el alcalde.</li>\n</ul>\n<p>Como  punto extraordinario del orden del d\u00eda se ha tratado la petici\u00f3n de  Iberdrola de construir un centro para mejorar el suministro el\u00e9ctrico.</p>\n<p>Si  me falta algo lo a\u00f1adis. Creo que hoy hemos dado un \u00abpeque\u00f1o gran  paso\u00bb. Que esto no se pare, que vean presencia vecinal del pueblo, hoy  yo creo\u00a0 que en las caras\u00a0 de la corporaci\u00f3n,se notaba la \u00bb sorpresa\u00bb&#8230;</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -5762,7 +5630,7 @@
   },
   "author": 337,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -5803,14 +5671,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/106/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 116,
-        "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/106/revisions/116"
       }
     ],
     "wp:attachment": [
@@ -5855,12 +5717,12 @@
     "rendered": "1\u00aa asamblea"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3089_op.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3089_op-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3089_op-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3089_op-1024x679.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3089_op.jpg 1402w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3089_op.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3089_op-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3089_op-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3089_op-1024x679.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3089_op.jpg 1402w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -5967,12 +5829,12 @@
     "rendered": "1\u00aa asamblea"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3085_op.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3085_op-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3085_op-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3085_op-1024x679.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3085_op.jpg 1402w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3085_op.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3085_op-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3085_op-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3085_op-1024x679.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3085_op.jpg 1402w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -6079,12 +5941,12 @@
     "rendered": "1\u00aa asamblea"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3077_op.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3077_op-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3077_op-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3077_op-1024x679.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3077_op.jpg 1402w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3077_op.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3077_op-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3077_op-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3077_op-1024x679.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3077_op.jpg 1402w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -6191,12 +6053,12 @@
     "rendered": "1\u00aa asamblea"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3073_op.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3073_op-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3073_op-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3073_op-1024x679.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3073_op.jpg 1402w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3073_op.jpg'><img width=\"300\" height=\"199\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3073_op-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3073_op-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3073_op-1024x679.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3073_op.jpg 1402w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -6303,7 +6165,7 @@
     "rendered": "fotos asambleas"
   },
   "content": {
-    "rendered": "<p><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3077_op.jpg\"><img class=\"alignnone size-medium wp-image-101\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3077_op-300x199.jpg\" alt=\"\" width=\"300\" height=\"199\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3077_op-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3077_op-1024x679.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3077_op.jpg 1402w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3085_op.jpg\"><img class=\"alignnone size-medium wp-image-102\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3085_op-300x199.jpg\" alt=\"\" width=\"300\" height=\"199\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3085_op-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3085_op-1024x679.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3085_op.jpg 1402w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3089_op.jpg\"><img class=\"alignnone size-medium wp-image-103\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3089_op-300x199.jpg\" alt=\"\" width=\"300\" height=\"199\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3089_op-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3089_op-1024x679.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3089_op.jpg 1402w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1524.jpg\"></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3073_op.jpg\"><img class=\"alignnone size-medium wp-image-100\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3073_op-300x199.jpg\" alt=\"\" width=\"300\" height=\"199\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3073_op-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3073_op-1024x679.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3073_op.jpg 1402w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><img class=\"alignnone size-medium wp-image-88\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1524-300x225.jpg\" alt=\"\" width=\"300\" height=\"225\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1524-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1524-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1524.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1523.jpg\"><img class=\"alignnone size-medium wp-image-87\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1523-300x225.jpg\" alt=\"\" width=\"300\" height=\"225\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1523-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1523-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1523.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1522.jpg\"><img class=\"alignnone size-medium wp-image-86\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1522-300x225.jpg\" alt=\"\" width=\"300\" height=\"225\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1522-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1522-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1522.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1210.jpg\"><img class=\"alignnone size-medium wp-image-85\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1210-300x225.jpg\" alt=\"\" width=\"300\" height=\"225\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1210-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1210-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1210.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1207.jpg\"><img class=\"alignnone size-medium wp-image-84\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1207-300x225.jpg\" alt=\"\" width=\"300\" height=\"225\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1207-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1207-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1207.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1201.jpg\"><img class=\"alignnone size-medium wp-image-80\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1201-300x225.jpg\" alt=\"\" width=\"300\" height=\"225\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1201-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1201-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1201.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1525.jpg\"><img class=\"alignnone size-medium wp-image-79\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1525-300x225.jpg\" alt=\"\" width=\"300\" height=\"225\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1525-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1525-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1525.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1206.jpg\"><img class=\"alignnone size-medium wp-image-83\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1206-300x225.jpg\" alt=\"\" width=\"300\" height=\"225\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1206-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1206-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1206.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1203.jpg\"><img class=\"alignnone size-medium wp-image-81\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1203-300x225.jpg\" alt=\"\" width=\"300\" height=\"225\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1203-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1203-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1203.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n",
+    "rendered": "<p><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3077_op.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-101\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3077_op-300x199.jpg\" alt=\"\" width=\"300\" height=\"199\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3077_op-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3077_op-1024x679.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3077_op.jpg 1402w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3085_op.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-102\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3085_op-300x199.jpg\" alt=\"\" width=\"300\" height=\"199\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3085_op-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3085_op-1024x679.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3085_op.jpg 1402w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3089_op.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-103\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3089_op-300x199.jpg\" alt=\"\" width=\"300\" height=\"199\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3089_op-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3089_op-1024x679.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3089_op.jpg 1402w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1524.jpg\"></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3073_op.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-100\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3073_op-300x199.jpg\" alt=\"\" width=\"300\" height=\"199\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3073_op-300x199.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3073_op-1024x679.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/IGP3073_op.jpg 1402w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><img loading=\"lazy\" class=\"alignnone size-medium wp-image-88\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1524-300x225.jpg\" alt=\"\" width=\"300\" height=\"225\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1524-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1524-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1524.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1523.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-87\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1523-300x225.jpg\" alt=\"\" width=\"300\" height=\"225\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1523-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1523-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1523.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1522.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-86\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1522-300x225.jpg\" alt=\"\" width=\"300\" height=\"225\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1522-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1522-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1522.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1210.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-85\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1210-300x225.jpg\" alt=\"\" width=\"300\" height=\"225\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1210-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1210-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1210.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1207.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-84\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1207-300x225.jpg\" alt=\"\" width=\"300\" height=\"225\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1207-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1207-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1207.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1201.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-80\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1201-300x225.jpg\" alt=\"\" width=\"300\" height=\"225\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1201-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1201-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1201.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1525.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-79\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1525-300x225.jpg\" alt=\"\" width=\"300\" height=\"225\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1525-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1525-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1525.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1206.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-83\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1206-300x225.jpg\" alt=\"\" width=\"300\" height=\"225\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1206-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1206-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1206.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><a href=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1203.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-81\" src=\"http://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1203-300x225.jpg\" alt=\"\" width=\"300\" height=\"225\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1203-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1203-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1203.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -6312,7 +6174,7 @@
   },
   "author": 337,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -6353,14 +6215,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/92/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 99,
-        "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/92/revisions/99"
       }
     ],
     "wp:attachment": [
@@ -6405,12 +6261,12 @@
     "rendered": "Foto 3\u00aa asamblea"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1524.jpg'><img width=\"300\" height=\"225\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1524-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1524-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1524-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1524.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1524.jpg'><img width=\"300\" height=\"225\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1524-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1524-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1524-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1524.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -6517,12 +6373,12 @@
     "rendered": "Foto 3\u00aa asamblea"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1523.jpg'><img width=\"300\" height=\"225\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1523-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1523-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1523-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1523.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1523.jpg'><img width=\"300\" height=\"225\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1523-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1523-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1523-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1523.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -6629,12 +6485,12 @@
     "rendered": "Foto 3\u00aa asamblea"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1522.jpg'><img width=\"300\" height=\"225\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1522-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1522-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1522-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1522.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1522.jpg'><img width=\"300\" height=\"225\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1522-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1522-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1522-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1522.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -6741,12 +6597,12 @@
     "rendered": "Foto 2\u00aa asamblea"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1210.jpg'><img width=\"300\" height=\"225\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1210-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1210-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1210-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1210.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1210.jpg'><img width=\"300\" height=\"225\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1210-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1210-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1210-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1210.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -6853,12 +6709,12 @@
     "rendered": "Foto1207"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1207.jpg'><img width=\"300\" height=\"225\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1207-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1207-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1207-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1207.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1207.jpg'><img width=\"300\" height=\"225\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1207-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1207-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1207-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1207.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -6965,12 +6821,12 @@
     "rendered": "Foto 2\u00aa asamblea"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1206.jpg'><img width=\"300\" height=\"225\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1206-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1206-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1206-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1206.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1206.jpg'><img width=\"300\" height=\"225\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1206-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1206-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1206-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1206.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -7077,7 +6933,7 @@
     "rendered": "Foto 2\u00aa asamblea"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -7189,12 +7045,12 @@
     "rendered": "Foto 2\u00aa asamblea"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1203.jpg'><img width=\"300\" height=\"225\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1203-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1203-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1203-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1203.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1203.jpg'><img width=\"300\" height=\"225\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1203-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1203-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1203-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1203.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -7301,12 +7157,12 @@
     "rendered": "Foto 2\u00aa asamblea"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1201.jpg'><img width=\"300\" height=\"225\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1201-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1201-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1201-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1201.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1201.jpg'><img width=\"300\" height=\"225\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1201-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1201-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1201-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1201.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -7413,12 +7269,12 @@
     "rendered": "foto 3\u00aa asamblea"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1525.jpg'><img width=\"300\" height=\"225\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1525-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1525-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1525-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1525.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1525.jpg'><img width=\"300\" height=\"225\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1525-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1525-300x225.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1525-1024x768.jpg 1024w, https://zarzalejo.tomalosbarrios.net/files/2011/07/Foto1525.jpg 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -7525,7 +7381,7 @@
     "rendered": "PROPUESTAS Zarzalejo en transici\u00f3n"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -7596,7 +7452,7 @@
   },
   "author": 337,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -7637,14 +7493,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/73/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 78,
-        "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/73/revisions/78"
       }
     ],
     "wp:attachment": [
@@ -7689,7 +7539,7 @@
     "rendered": "APM Sol 26 J"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -7760,7 +7610,7 @@
   },
   "author": 337,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -7801,14 +7651,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/68/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 72,
-        "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/68/revisions/72"
       }
     ],
     "wp:attachment": [
@@ -7853,7 +7697,7 @@
     "rendered": "Acta asamblea 25J"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -7924,7 +7768,7 @@
   },
   "author": 337,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -7965,14 +7809,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/62/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 111,
-        "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/62/revisions/111"
       }
     ],
     "wp:attachment": [
@@ -8017,7 +7855,7 @@
     "rendered": "Acta asamblea 25 de Junio de 2011"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -8088,7 +7926,7 @@
   },
   "author": 337,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -8129,14 +7967,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/56/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 60,
-        "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/56/revisions/60"
       }
     ],
     "wp:attachment": [
@@ -8181,7 +8013,7 @@
     "rendered": "Acta asamblea 11 de Junio de 2011"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -8252,7 +8084,7 @@
   },
   "author": 337,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -8293,14 +8125,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/50/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 55,
-        "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/50/revisions/55"
       }
     ],
     "wp:attachment": [
@@ -8345,7 +8171,7 @@
     "rendered": "Acta asamblea 28 de mayo de 2011"
   },
   "author": 337,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -8416,7 +8242,7 @@
   },
   "author": 337,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -8457,14 +8283,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/43/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 47,
-        "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/43/revisions/47"
       }
     ],
     "wp:attachment": [
@@ -8518,7 +8338,7 @@
   },
   "author": 337,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -8559,14 +8379,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/37/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 42,
-        "href": "https://zarzalejo.tomalosbarrios.net/wp-json/wp/v2/posts/37/revisions/42"
       }
     ],
     "wp:attachment": [
@@ -8616,7 +8430,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/06/cropped-asamblea.jpg'><img width=\"300\" height=\"63\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/06/cropped-asamblea-300x63.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/06/cropped-asamblea-300x63.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/06/cropped-asamblea.jpg 940w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>http://zarzalejo.tomalosbarrios.net/files/2011/06/cropped-asamblea.jpg</p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zarzalejo.tomalosbarrios.net/files/2011/06/cropped-asamblea.jpg'><img width=\"300\" height=\"63\" src=\"https://zarzalejo.tomalosbarrios.net/files/2011/06/cropped-asamblea-300x63.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zarzalejo.tomalosbarrios.net/files/2011/06/cropped-asamblea-300x63.jpg 300w, https://zarzalejo.tomalosbarrios.net/files/2011/06/cropped-asamblea.jpg 940w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>http://zarzalejo.tomalosbarrios.net/files/2011/06/cropped-asamblea.jpg</p>\n"
   },
   "caption": {
     "rendered": "<p>http://zarzalejo.tomalosbarrios.net/files/2011/06/cropped-asamblea.jpg</p>\n"
@@ -8722,7 +8536,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],

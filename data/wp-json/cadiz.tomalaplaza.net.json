@@ -65,14 +65,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/185/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 187,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/185/revisions/187"
       }
     ],
     "wp:attachment": [
@@ -167,14 +161,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/184/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 191,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/184/revisions/191"
       }
     ],
     "wp:attachment": [
@@ -331,14 +319,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/181/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 183,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/181/revisions/183"
       }
     ],
     "wp:attachment": [
@@ -495,14 +477,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/176/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 177,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/176/revisions/177"
       }
     ],
     "wp:attachment": [
@@ -599,14 +575,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/175/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 180,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/175/revisions/180"
       }
     ],
     "wp:attachment": [
@@ -763,14 +733,8 @@
     ],
     "version-history": [
       {
-        "count": 8,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/164/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 168,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/164/revisions/168"
       }
     ],
     "wp:attachment": [
@@ -820,7 +784,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://cadiz.tomalaplaza.net/files/2011/06/19j-affiche-o-todos-o-nada.png'><img width=\"181\" height=\"300\" src=\"https://cadiz.tomalaplaza.net/files/2011/06/19j-affiche-o-todos-o-nada-181x300.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://cadiz.tomalaplaza.net/files/2011/06/19j-affiche-o-todos-o-nada-181x300.png 181w, https://cadiz.tomalaplaza.net/files/2011/06/19j-affiche-o-todos-o-nada.png 372w\" sizes=\"(max-width: 181px) 100vw, 181px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://cadiz.tomalaplaza.net/files/2011/06/19j-affiche-o-todos-o-nada.png'><img width=\"181\" height=\"300\" src=\"https://cadiz.tomalaplaza.net/files/2011/06/19j-affiche-o-todos-o-nada-181x300.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://cadiz.tomalaplaza.net/files/2011/06/19j-affiche-o-todos-o-nada-181x300.png 181w, https://cadiz.tomalaplaza.net/files/2011/06/19j-affiche-o-todos-o-nada.png 372w\" sizes=\"(max-width: 181px) 100vw, 181px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -915,7 +879,7 @@
     "rendered": "19-J tod@s a la calle!"
   },
   "content": {
-    "rendered": "<p><a href=\"http://cadiz.tomalaplaza.net/files/2011/06/19j-affiche-o-todos-o-nada.png\"><img class=\"aligncenter size-medium wp-image-161\" src=\"http://cadiz.tomalaplaza.net/files/2011/06/19j-affiche-o-todos-o-nada-181x300.png\" alt=\"\" width=\"300\" height=\"497\" /></a></p>\n",
+    "rendered": "<p><a href=\"http://cadiz.tomalaplaza.net/files/2011/06/19j-affiche-o-todos-o-nada.png\"><img loading=\"lazy\" class=\"aligncenter size-medium wp-image-161\" src=\"http://cadiz.tomalaplaza.net/files/2011/06/19j-affiche-o-todos-o-nada-181x300.png\" alt=\"\" width=\"300\" height=\"497\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -965,14 +929,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/160/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 163,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/160/revisions/163"
       }
     ],
     "wp:attachment": [
@@ -1067,14 +1025,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/157/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 159,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/157/revisions/159"
       }
     ],
     "wp:attachment": [
@@ -1169,14 +1121,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/155/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 156,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/155/revisions/156"
       }
     ],
     "wp:attachment": [
@@ -1273,14 +1219,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/154/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 178,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/154/revisions/178"
       }
     ],
     "wp:attachment": [
@@ -1375,14 +1315,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/151/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 153,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/151/revisions/153"
       }
     ],
     "wp:attachment": [
@@ -1477,14 +1411,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/149/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 150,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/149/revisions/150"
       }
     ],
     "wp:attachment": [
@@ -1534,7 +1462,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://cadiz.tomalaplaza.net/files/2011/06/SENTADA2.jpg'><img width=\"212\" height=\"300\" src=\"https://cadiz.tomalaplaza.net/files/2011/06/SENTADA2-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://cadiz.tomalaplaza.net/files/2011/06/SENTADA2-212x300.jpg 212w, https://cadiz.tomalaplaza.net/files/2011/06/SENTADA2-723x1024.jpg 723w, https://cadiz.tomalaplaza.net/files/2011/06/SENTADA2.jpg 1240w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://cadiz.tomalaplaza.net/files/2011/06/SENTADA2.jpg'><img width=\"212\" height=\"300\" src=\"https://cadiz.tomalaplaza.net/files/2011/06/SENTADA2-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://cadiz.tomalaplaza.net/files/2011/06/SENTADA2-212x300.jpg 212w, https://cadiz.tomalaplaza.net/files/2011/06/SENTADA2-723x1024.jpg 723w, https://cadiz.tomalaplaza.net/files/2011/06/SENTADA2.jpg 1240w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -1635,7 +1563,7 @@
     "rendered": "\u00a1\u00a1\u00a1Tod@s al Ayuntamiento!!!"
   },
   "content": {
-    "rendered": "<p style=\"text-align: center\"><a href=\"http://cadiz.tomalaplaza.net/files/2011/06/SENTADA2.jpg\"><img class=\"aligncenter size-medium wp-image-144\" src=\"http://cadiz.tomalaplaza.net/files/2011/06/SENTADA2-212x300.jpg\" alt=\"\" width=\"310\" height=\"438\" srcset=\"https://cadiz.tomalaplaza.net/files/2011/06/SENTADA2-212x300.jpg 212w, https://cadiz.tomalaplaza.net/files/2011/06/SENTADA2-723x1024.jpg 723w, https://cadiz.tomalaplaza.net/files/2011/06/SENTADA2.jpg 1240w\" sizes=\"(max-width: 310px) 100vw, 310px\" /></a><span style=\"color: #ff0000\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: x-large\"><strong>A TOD</strong></span></span><span style=\"font-family: Stencilia-A\"><span style=\"font-size: x-large\"><strong>A</strong></span></span><span style=\"font-family: Stencilia-A\"><span style=\"font-size: x-large\"><strong> L</strong></span></span><span style=\"font-family: Stencilia-A\"><span style=\"font-size: x-large\"><strong>A</strong></span></span><span style=\"font-family: Stencilia-A\"><span style=\"font-size: x-large\"><strong> GENTE INDIGNAD</strong></span></span><span style=\"font-family: Stencilia-A\"><span style=\"font-size: x-large\"><strong>A DE C\u00c1DIZ</strong></span></span></span><span style=\"color: #ffffff\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: x-large\"><strong> </strong></span></span></span></p>\n<p style=\"text-align: center\"><span style=\"color: #ffffff\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: x-large\"><strong> </strong></span></span></span><span style=\"color: #000000\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: large\"><strong>EL PR\u00d3XIMO S\u00c1BADO 11 </strong></span></span></span></p>\n<p style=\"text-align: center\"><span style=\"color: #ff0000\"> <span style=\"font-family: Stencilia-A\"><span style=\"font-size: large\"><strong>A LAS 11 DE LA MA\u00d1ANA</strong></span></span></span></p>\n<p style=\"text-align: center\"><span style=\"color: #000000\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: medium\">SE CONSTITUYE EN PLENO </span></span></span></p>\n<p style=\"text-align: center\"><span style=\"color: #000000\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: medium\">EL NUEVO AYUNTAMIENTO</span></span></span></p>\n<p style=\"text-align: center\"><span style=\"color: #000000\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: medium\">Y SE TOMA POSESI\u00d3N DE LA ALCALD\u00cdA</span></span></span></p>\n<p style=\"text-align: center\"><span style=\"color: #000000\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: medium\"><br />\n</span></span></span></p>\n<p style=\"text-align: center\"><span style=\"color: #000000\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: medium\">SOBRAN LAS RAZONES PARA CONVOCARNOS A LA</span></span></span></p>\n<p style=\"text-align: center\">&nbsp;</p>\n<p style=\"text-align: center\"><span style=\"color: #ff0000\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: xx-large\"><strong>GRAN SENTADA </strong></span></span></span></p>\n<p style=\"text-align: center\"><span style=\"color: #ff0000\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: xx-large\"><strong>CIUDADANA</strong></span></span></span></p>\n<p style=\"text-align: center\"><span style=\"color: #ff0000\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: large\">FRENTE AL AYUNTAMIENTO DE C\u00c1DIZ</span></span></span></p>\n<p style=\"text-align: center\"><span style=\"color: #ffffff\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: medium\"><span style=\"color: #ff0000\">PLAZA de SAN JUAN DE DIOS</span></span></span></span></p>\n<p style=\"text-align: center\">&nbsp;</p>\n<p style=\"text-align: center\"><span style=\"color: #000000\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: medium\">PORQUE HAY QUE RECORDARLES</span></span></span></p>\n<p style=\"text-align: center\"><span style=\"color: #000000\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: medium\">QUE EST\u00c1N A NUESTRO SERVICIO</span></span></span></p>\n<p style=\"text-align: center\"><span style=\"color: #ff0000\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: medium\">PARA QUE SEPAN QUE ESTAMOS </span></span></span></p>\n<p style=\"text-align: center\"><span style=\"color: #ff0000\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: medium\">ATENT@S A TODO LO QUE HACEN </span></span></span></p>\n<p style=\"text-align: center\"><span style=\"color: #000000\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: medium\">PARA QUE NO SE OLVIDEN DE QUE </span></span></span></p>\n<p style=\"text-align: center\"><span style=\"color: #000000\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: medium\">EL PUEBLO SIEMPRE EST\u00c1 PRESENTE</span></span></span></p>\n<p style=\"text-align: center\">&nbsp;</p>\n<p style=\"text-align: center\"><span style=\"color: #ff0000\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: x-large\">\u00a1VEN Y SI\u00c9NTATE CON ALEGR\u00cdA!</span></span></span></p>\n<p style=\"text-align: center\"><span style=\"color: #ffffff\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: x-large\"><span style=\"color: #ff0000\">S\u00c1BADO 11 DE JUNIO A LAS 11</span></span></span></span></p>\n",
+    "rendered": "<p style=\"text-align: center\"><a href=\"http://cadiz.tomalaplaza.net/files/2011/06/SENTADA2.jpg\"><img loading=\"lazy\" class=\"aligncenter size-medium wp-image-144\" src=\"http://cadiz.tomalaplaza.net/files/2011/06/SENTADA2-212x300.jpg\" alt=\"\" width=\"310\" height=\"438\" srcset=\"https://cadiz.tomalaplaza.net/files/2011/06/SENTADA2-212x300.jpg 212w, https://cadiz.tomalaplaza.net/files/2011/06/SENTADA2-723x1024.jpg 723w, https://cadiz.tomalaplaza.net/files/2011/06/SENTADA2.jpg 1240w\" sizes=\"(max-width: 310px) 100vw, 310px\" /></a><span style=\"color: #ff0000\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: x-large\"><strong>A TOD</strong></span></span><span style=\"font-family: Stencilia-A\"><span style=\"font-size: x-large\"><strong>A</strong></span></span><span style=\"font-family: Stencilia-A\"><span style=\"font-size: x-large\"><strong> L</strong></span></span><span style=\"font-family: Stencilia-A\"><span style=\"font-size: x-large\"><strong>A</strong></span></span><span style=\"font-family: Stencilia-A\"><span style=\"font-size: x-large\"><strong> GENTE INDIGNAD</strong></span></span><span style=\"font-family: Stencilia-A\"><span style=\"font-size: x-large\"><strong>A DE C\u00c1DIZ</strong></span></span></span><span style=\"color: #ffffff\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: x-large\"><strong> </strong></span></span></span></p>\n<p style=\"text-align: center\"><span style=\"color: #ffffff\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: x-large\"><strong> </strong></span></span></span><span style=\"color: #000000\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: large\"><strong>EL PR\u00d3XIMO S\u00c1BADO 11 </strong></span></span></span></p>\n<p style=\"text-align: center\"><span style=\"color: #ff0000\"> <span style=\"font-family: Stencilia-A\"><span style=\"font-size: large\"><strong>A LAS 11 DE LA MA\u00d1ANA</strong></span></span></span></p>\n<p style=\"text-align: center\"><span style=\"color: #000000\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: medium\">SE CONSTITUYE EN PLENO </span></span></span></p>\n<p style=\"text-align: center\"><span style=\"color: #000000\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: medium\">EL NUEVO AYUNTAMIENTO</span></span></span></p>\n<p style=\"text-align: center\"><span style=\"color: #000000\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: medium\">Y SE TOMA POSESI\u00d3N DE LA ALCALD\u00cdA</span></span></span></p>\n<p style=\"text-align: center\"><span style=\"color: #000000\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: medium\"><br />\n</span></span></span></p>\n<p style=\"text-align: center\"><span style=\"color: #000000\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: medium\">SOBRAN LAS RAZONES PARA CONVOCARNOS A LA</span></span></span></p>\n<p style=\"text-align: center\">&nbsp;</p>\n<p style=\"text-align: center\"><span style=\"color: #ff0000\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: xx-large\"><strong>GRAN SENTADA </strong></span></span></span></p>\n<p style=\"text-align: center\"><span style=\"color: #ff0000\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: xx-large\"><strong>CIUDADANA</strong></span></span></span></p>\n<p style=\"text-align: center\"><span style=\"color: #ff0000\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: large\">FRENTE AL AYUNTAMIENTO DE C\u00c1DIZ</span></span></span></p>\n<p style=\"text-align: center\"><span style=\"color: #ffffff\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: medium\"><span style=\"color: #ff0000\">PLAZA de SAN JUAN DE DIOS</span></span></span></span></p>\n<p style=\"text-align: center\">&nbsp;</p>\n<p style=\"text-align: center\"><span style=\"color: #000000\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: medium\">PORQUE HAY QUE RECORDARLES</span></span></span></p>\n<p style=\"text-align: center\"><span style=\"color: #000000\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: medium\">QUE EST\u00c1N A NUESTRO SERVICIO</span></span></span></p>\n<p style=\"text-align: center\"><span style=\"color: #ff0000\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: medium\">PARA QUE SEPAN QUE ESTAMOS </span></span></span></p>\n<p style=\"text-align: center\"><span style=\"color: #ff0000\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: medium\">ATENT@S A TODO LO QUE HACEN </span></span></span></p>\n<p style=\"text-align: center\"><span style=\"color: #000000\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: medium\">PARA QUE NO SE OLVIDEN DE QUE </span></span></span></p>\n<p style=\"text-align: center\"><span style=\"color: #000000\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: medium\">EL PUEBLO SIEMPRE EST\u00c1 PRESENTE</span></span></span></p>\n<p style=\"text-align: center\">&nbsp;</p>\n<p style=\"text-align: center\"><span style=\"color: #ff0000\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: x-large\">\u00a1VEN Y SI\u00c9NTATE CON ALEGR\u00cdA!</span></span></span></p>\n<p style=\"text-align: center\"><span style=\"color: #ffffff\"><span style=\"font-family: Stencilia-A\"><span style=\"font-size: x-large\"><span style=\"color: #ff0000\">S\u00c1BADO 11 DE JUNIO A LAS 11</span></span></span></span></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -1685,14 +1613,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/143/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 148,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/143/revisions/148"
       }
     ],
     "wp:attachment": [
@@ -1742,7 +1664,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://cadiz.tomalaplaza.net/files/2011/06/debate_paraweb.jpg'><img width=\"211\" height=\"300\" src=\"https://cadiz.tomalaplaza.net/files/2011/06/debate_paraweb-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://cadiz.tomalaplaza.net/files/2011/06/debate_paraweb-211x300.jpg 211w, https://cadiz.tomalaplaza.net/files/2011/06/debate_paraweb.jpg 452w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://cadiz.tomalaplaza.net/files/2011/06/debate_paraweb.jpg'><img width=\"211\" height=\"300\" src=\"https://cadiz.tomalaplaza.net/files/2011/06/debate_paraweb-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://cadiz.tomalaplaza.net/files/2011/06/debate_paraweb-211x300.jpg 211w, https://cadiz.tomalaplaza.net/files/2011/06/debate_paraweb.jpg 452w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -1837,7 +1759,7 @@
     "rendered": "convocatoria debate sobre &#8220;Precariedad Laboral&#8221;"
   },
   "content": {
-    "rendered": "<p><a href=\"http://cadiz.tomalaplaza.net/files/2011/06/debate_paraweb.jpg\"><img class=\"aligncenter size-medium wp-image-137\" src=\"http://cadiz.tomalaplaza.net/files/2011/06/debate_paraweb-211x300.jpg\" alt=\"\" width=\"292\" height=\"372\" /></a></p>\n",
+    "rendered": "<p><a href=\"http://cadiz.tomalaplaza.net/files/2011/06/debate_paraweb.jpg\"><img loading=\"lazy\" class=\"aligncenter size-medium wp-image-137\" src=\"http://cadiz.tomalaplaza.net/files/2011/06/debate_paraweb-211x300.jpg\" alt=\"\" width=\"292\" height=\"372\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -1887,14 +1809,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/136/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 141,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/136/revisions/141"
       }
     ],
     "wp:attachment": [
@@ -1989,14 +1905,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/132/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 135,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/132/revisions/135"
       }
     ],
     "wp:attachment": [
@@ -2091,14 +2001,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/130/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 131,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/130/revisions/131"
       }
     ],
     "wp:attachment": [
@@ -2148,7 +2052,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://cadiz.tomalaplaza.net/files/2011/06/SENTADA1.jpg'><img width=\"212\" height=\"300\" src=\"https://cadiz.tomalaplaza.net/files/2011/06/SENTADA1-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://cadiz.tomalaplaza.net/files/2011/06/SENTADA1-212x300.jpg 212w, https://cadiz.tomalaplaza.net/files/2011/06/SENTADA1-723x1024.jpg 723w, https://cadiz.tomalaplaza.net/files/2011/06/SENTADA1.jpg 1240w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://cadiz.tomalaplaza.net/files/2011/06/SENTADA1.jpg'><img width=\"212\" height=\"300\" src=\"https://cadiz.tomalaplaza.net/files/2011/06/SENTADA1-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://cadiz.tomalaplaza.net/files/2011/06/SENTADA1-212x300.jpg 212w, https://cadiz.tomalaplaza.net/files/2011/06/SENTADA1-723x1024.jpg 723w, https://cadiz.tomalaplaza.net/files/2011/06/SENTADA1.jpg 1240w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2254,7 +2158,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://cadiz.tomalaplaza.net/files/2011/06/SENTADA.jpg'><img width=\"212\" height=\"300\" src=\"https://cadiz.tomalaplaza.net/files/2011/06/SENTADA-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://cadiz.tomalaplaza.net/files/2011/06/SENTADA-212x300.jpg 212w, https://cadiz.tomalaplaza.net/files/2011/06/SENTADA-723x1024.jpg 723w, https://cadiz.tomalaplaza.net/files/2011/06/SENTADA.jpg 1240w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://cadiz.tomalaplaza.net/files/2011/06/SENTADA.jpg'><img width=\"212\" height=\"300\" src=\"https://cadiz.tomalaplaza.net/files/2011/06/SENTADA-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://cadiz.tomalaplaza.net/files/2011/06/SENTADA-212x300.jpg 212w, https://cadiz.tomalaplaza.net/files/2011/06/SENTADA-723x1024.jpg 723w, https://cadiz.tomalaplaza.net/files/2011/06/SENTADA.jpg 1240w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2417,7 +2321,7 @@
     "rendered": "GRAN SENTADA CIUDADANA, 11 de Junio"
   },
   "content": {
-    "rendered": "<p style=\"text-align: center\"><a href=\"http://cadiz.tomalaplaza.net/files/2011/06/SENTADA1.jpg\"><img class=\"aligncenter size-medium wp-image-123\" src=\"http://cadiz.tomalaplaza.net/files/2011/06/SENTADA1-212x300.jpg\" alt=\"\" width=\"267\" height=\"377\" srcset=\"https://cadiz.tomalaplaza.net/files/2011/06/SENTADA1-212x300.jpg 212w, https://cadiz.tomalaplaza.net/files/2011/06/SENTADA1-723x1024.jpg 723w, https://cadiz.tomalaplaza.net/files/2011/06/SENTADA1.jpg 1240w\" sizes=\"(max-width: 267px) 100vw, 267px\" /></a></p>\n<p style=\"text-align: center\"><strong>EL PR\u00d3XIMO S\u00c1BADO 11 </strong></p>\n<p style=\"text-align: center\"><strong> A LAS 12 DE LA MA\u00d1ANA</strong></p>\n<pre style=\"text-align: center\">SE CONSTITUYE EN PLENO EL NUEVO AYUNTAMIENTO</pre>\n<pre style=\"text-align: center\">Y SE TOMA POSESI\u00d3N DE LA ALCALD\u00cdA</pre>\n<pre style=\"text-align: center\">SOBRAN LAS RAZONES PARA CONVOCARNOS A LA</pre>\n<h2 style=\"text-align: center\"><strong><span style=\"color: #ff0000\"> GRAN\u00a0\u00a0\u00a0 SENTADA\u00a0\u00a0 CIUDADANA</span></strong></h2>\n<pre style=\"text-align: center\"><span style=\"color: #ff0000\"><strong>FRENTE AL AYUNTAMIENTO DE C\u00c1DIZ (PLAZA SAN JUAN DE DIOS)</strong></span></pre>\n<pre style=\"text-align: center\">PORQUE HAY QUE RECORDARLES QUE EST\u00c1N A NUESTRO SERVICIO</pre>\n<pre style=\"text-align: center\">PARA QUE SEPAN QUE ESTAMOS ATENT@S A TODO LO QUE HACEN</pre>\n<pre style=\"text-align: center\">PARA QUE NO SE OLVIDEN DE QUE EL PUEBLO SIEMPRE EST\u00c1 PRESENTE</pre>\n<p style=\"text-align: center\"><strong><span style=\"color: #ff0000\">\u00a1VEN Y SI\u00c9NTATE CON ALEGR\u00cdA!</span></strong></p>\n<p style=\"text-align: center\"><strong><span style=\"color: #ff0000\">S\u00c1BADO\u00a0 11\u00a0 DE\u00a0 JUNIO\u00a0 A\u00a0 LAS \u00a0 12</span></strong></p>\n<p style=\"text-align: center\">\ufeff</p>\n",
+    "rendered": "<p style=\"text-align: center\"><a href=\"http://cadiz.tomalaplaza.net/files/2011/06/SENTADA1.jpg\"><img loading=\"lazy\" class=\"aligncenter size-medium wp-image-123\" src=\"http://cadiz.tomalaplaza.net/files/2011/06/SENTADA1-212x300.jpg\" alt=\"\" width=\"267\" height=\"377\" srcset=\"https://cadiz.tomalaplaza.net/files/2011/06/SENTADA1-212x300.jpg 212w, https://cadiz.tomalaplaza.net/files/2011/06/SENTADA1-723x1024.jpg 723w, https://cadiz.tomalaplaza.net/files/2011/06/SENTADA1.jpg 1240w\" sizes=\"(max-width: 267px) 100vw, 267px\" /></a></p>\n<p style=\"text-align: center\"><strong>EL PR\u00d3XIMO S\u00c1BADO 11 </strong></p>\n<p style=\"text-align: center\"><strong> A LAS 12 DE LA MA\u00d1ANA</strong></p>\n<pre style=\"text-align: center\">SE CONSTITUYE EN PLENO EL NUEVO AYUNTAMIENTO</pre>\n<pre style=\"text-align: center\">Y SE TOMA POSESI\u00d3N DE LA ALCALD\u00cdA</pre>\n<pre style=\"text-align: center\">SOBRAN LAS RAZONES PARA CONVOCARNOS A LA</pre>\n<h2 style=\"text-align: center\"><strong><span style=\"color: #ff0000\"> GRAN\u00a0\u00a0\u00a0 SENTADA\u00a0\u00a0 CIUDADANA</span></strong></h2>\n<pre style=\"text-align: center\"><span style=\"color: #ff0000\"><strong>FRENTE AL AYUNTAMIENTO DE C\u00c1DIZ (PLAZA SAN JUAN DE DIOS)</strong></span></pre>\n<pre style=\"text-align: center\">PORQUE HAY QUE RECORDARLES QUE EST\u00c1N A NUESTRO SERVICIO</pre>\n<pre style=\"text-align: center\">PARA QUE SEPAN QUE ESTAMOS ATENT@S A TODO LO QUE HACEN</pre>\n<pre style=\"text-align: center\">PARA QUE NO SE OLVIDEN DE QUE EL PUEBLO SIEMPRE EST\u00c1 PRESENTE</pre>\n<p style=\"text-align: center\"><strong><span style=\"color: #ff0000\">\u00a1VEN Y SI\u00c9NTATE CON ALEGR\u00cdA!</span></strong></p>\n<p style=\"text-align: center\"><strong><span style=\"color: #ff0000\">S\u00c1BADO\u00a0 11\u00a0 DE\u00a0 JUNIO\u00a0 A\u00a0 LAS \u00a0 12</span></strong></p>\n<p style=\"text-align: center\">\ufeff</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -2467,14 +2371,8 @@
     ],
     "version-history": [
       {
-        "count": 7,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/119/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 128,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/119/revisions/128"
       }
     ],
     "wp:attachment": [
@@ -2648,14 +2546,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/116/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 117,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/116/revisions/117"
       }
     ],
     "wp:attachment": [
@@ -2750,14 +2642,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/111/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 113,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/111/revisions/113"
       }
     ],
     "wp:attachment": [
@@ -2852,14 +2738,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/107/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 109,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/107/revisions/109"
       }
     ],
     "wp:attachment": [
@@ -2909,7 +2789,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p12.jpg'><img width=\"268\" height=\"300\" src=\"https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p12-268x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p12-268x300.jpg 268w, https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p12-916x1024.jpg 916w, https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p12.jpg 1130w\" sizes=\"(max-width: 268px) 100vw, 268px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p12.jpg'><img width=\"268\" height=\"300\" src=\"https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p12-268x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p12-268x300.jpg 268w, https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p12-916x1024.jpg 916w, https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p12.jpg 1130w\" sizes=\"(max-width: 268px) 100vw, 268px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3015,7 +2895,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p11.jpg'><img width=\"268\" height=\"300\" src=\"https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p11-268x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p11-268x300.jpg 268w, https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p11-916x1024.jpg 916w, https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p11.jpg 1130w\" sizes=\"(max-width: 268px) 100vw, 268px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p11.jpg'><img width=\"268\" height=\"300\" src=\"https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p11-268x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p11-268x300.jpg 268w, https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p11-916x1024.jpg 916w, https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p11.jpg 1130w\" sizes=\"(max-width: 268px) 100vw, 268px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3121,7 +3001,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p1.jpg'><img width=\"268\" height=\"300\" src=\"https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p1-268x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p1-268x300.jpg 268w, https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p1-916x1024.jpg 916w, https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p1.jpg 1130w\" sizes=\"(max-width: 268px) 100vw, 268px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p1.jpg'><img width=\"268\" height=\"300\" src=\"https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p1-268x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p1-268x300.jpg 268w, https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p1-916x1024.jpg 916w, https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p1.jpg 1130w\" sizes=\"(max-width: 268px) 100vw, 268px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3222,7 +3102,7 @@
     "rendered": "cartel convocatoria ASAMBLEAS en Barrios"
   },
   "content": {
-    "rendered": "<p><a href=\"http://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p12.jpg\"><img class=\"aligncenter size-medium wp-image-104\" src=\"http://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p12-268x300.jpg\" alt=\"\" width=\"268\" height=\"300\" srcset=\"https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p12-268x300.jpg 268w, https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p12-916x1024.jpg 916w, https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p12.jpg 1130w\" sizes=\"(max-width: 268px) 100vw, 268px\" /></a></p>\n<p style=\"text-align: center\"><a href=\"www.cadiztomalaplaza.blogspot.com\"></a><a title=\"&quot;C\u00e1diz toma las plazas&quot;\" href=\"http://cadiztomalasplazas.blogspot.com/\" target=\"_blank\">http://cadiztomalasplazas.blogspot.com/</a></p>\n",
+    "rendered": "<p><a href=\"http://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p12.jpg\"><img loading=\"lazy\" class=\"aligncenter size-medium wp-image-104\" src=\"http://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p12-268x300.jpg\" alt=\"\" width=\"268\" height=\"300\" srcset=\"https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p12-268x300.jpg 268w, https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p12-916x1024.jpg 916w, https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularMentidero_150x150_p12.jpg 1130w\" sizes=\"(max-width: 268px) 100vw, 268px\" /></a></p>\n<p style=\"text-align: center\"><a href=\"www.cadiztomalaplaza.blogspot.com\"></a><a title=\"&quot;C\u00e1diz toma las plazas&quot;\" href=\"http://cadiztomalasplazas.blogspot.com/\" target=\"_blank\">http://cadiztomalasplazas.blogspot.com/</a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -3272,14 +3152,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/98/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 110,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/98/revisions/110"
       }
     ],
     "wp:attachment": [
@@ -3374,14 +3248,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/92/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 93,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/92/revisions/93"
       }
     ],
     "wp:attachment": [
@@ -3476,14 +3344,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/90/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 95,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/90/revisions/95"
       }
     ],
     "wp:attachment": [
@@ -3533,7 +3395,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularmentidero-001.jpg'><img width=\"212\" height=\"300\" src=\"https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularmentidero-001-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularmentidero-001-212x300.jpg 212w, https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularmentidero-001-724x1024.jpg 724w, https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularmentidero-001.jpg 827w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularmentidero-001.jpg'><img width=\"212\" height=\"300\" src=\"https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularmentidero-001-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularmentidero-001-212x300.jpg 212w, https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularmentidero-001-724x1024.jpg 724w, https://cadiz.tomalaplaza.net/files/2011/06/asambleapopularmentidero-001.jpg 827w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3684,14 +3546,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/84/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 87,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/84/revisions/87"
       }
     ],
     "wp:attachment": [
@@ -3786,14 +3642,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/77/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 81,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/77/revisions/81"
       }
     ],
     "wp:attachment": [
@@ -3888,14 +3738,8 @@
     ],
     "version-history": [
       {
-        "count": 9,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/70/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 73,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/70/revisions/73"
       }
     ],
     "wp:attachment": [
@@ -3990,14 +3834,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/62/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 65,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/62/revisions/65"
       }
     ],
     "wp:attachment": [
@@ -4092,14 +3930,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/60/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 61,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/60/revisions/61"
       }
     ],
     "wp:attachment": [
@@ -4194,14 +4026,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/53/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 55,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/53/revisions/55"
       }
     ],
     "wp:attachment": [
@@ -4296,14 +4122,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/51/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 67,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/51/revisions/67"
       }
     ],
     "wp:attachment": [
@@ -4398,14 +4218,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/45/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 49,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/45/revisions/49"
       }
     ],
     "wp:attachment": [
@@ -4500,14 +4314,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/43/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 44,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/43/revisions/44"
       }
     ],
     "wp:attachment": [
@@ -4602,14 +4410,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/40/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 42,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/40/revisions/42"
       }
     ],
     "wp:attachment": [
@@ -4704,14 +4506,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/28/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 30,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/28/revisions/30"
       }
     ],
     "wp:attachment": [
@@ -4808,14 +4604,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/22/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 24,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/22/revisions/24"
       }
     ],
     "wp:attachment": [
@@ -4912,14 +4702,8 @@
     ],
     "version-history": [
       {
-        "count": 10,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/7/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 9,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/7/revisions/9"
       }
     ],
     "wp:attachment": [
@@ -5014,14 +4798,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/4/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 39,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/4/revisions/39"
       }
     ],
     "wp:attachment": [
@@ -5111,14 +4889,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/pages/2/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 57,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/pages/2/revisions/57"
       }
     ],
     "wp:attachment": [
@@ -5201,14 +4973,8 @@
     ],
     "version-history": [
       {
-        "count": 7,
+        "count": 0,
         "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/1/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 32,
-        "href": "https://cadiz.tomalaplaza.net/wp-json/wp/v2/posts/1/revisions/32"
       }
     ],
     "wp:attachment": [

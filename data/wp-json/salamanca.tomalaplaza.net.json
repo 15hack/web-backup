@@ -144,14 +144,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/posts/8/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 10,
-        "href": "https://salamanca.tomalaplaza.net/wp-json/wp/v2/posts/8/revisions/10"
       }
     ],
     "wp:attachment": [

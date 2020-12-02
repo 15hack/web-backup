@@ -24,7 +24,7 @@
   },
   "author": 310,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -65,14 +65,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/523/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 527,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/523/revisions/527"
       }
     ],
     "wp:attachment": [
@@ -128,7 +122,7 @@
   "featured_media": 0,
   "parent": 2,
   "menu_order": 905,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -162,14 +156,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/494/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 521,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/494/revisions/521"
       }
     ],
     "up": [
@@ -217,7 +205,7 @@
   },
   "author": 310,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -258,14 +246,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/488/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 492,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/488/revisions/492"
       }
     ],
     "wp:attachment": [
@@ -319,7 +301,7 @@
   },
   "author": 310,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -360,14 +342,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/482/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 485,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/482/revisions/485"
       }
     ],
     "wp:attachment": [
@@ -421,7 +397,7 @@
   },
   "author": 310,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -462,14 +438,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/478/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 481,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/478/revisions/481"
       }
     ],
     "wp:attachment": [
@@ -514,12 +484,12 @@
     "rendered": "cartel20120303"
   },
   "author": 310,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://aravaca.tomalosbarrios.net/files/2012/02/cartel20120303.jpg'><img width=\"212\" height=\"300\" src=\"https://aravaca.tomalosbarrios.net/files/2012/02/cartel20120303-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://aravaca.tomalosbarrios.net/files/2012/02/cartel20120303-212x300.jpg 212w, https://aravaca.tomalosbarrios.net/files/2012/02/cartel20120303-724x1024.jpg 724w, https://aravaca.tomalosbarrios.net/files/2012/02/cartel20120303.jpg 744w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n<p>Cartel del acto por los servicios p\u00fablicos de Aravaca.<br />\n3 de marzo de 2012</p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://aravaca.tomalosbarrios.net/files/2012/02/cartel20120303.jpg'><img width=\"212\" height=\"300\" src=\"https://aravaca.tomalosbarrios.net/files/2012/02/cartel20120303-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://aravaca.tomalosbarrios.net/files/2012/02/cartel20120303-212x300.jpg 212w, https://aravaca.tomalosbarrios.net/files/2012/02/cartel20120303-724x1024.jpg 724w, https://aravaca.tomalosbarrios.net/files/2012/02/cartel20120303.jpg 744w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n<p>Cartel del acto por los servicios p\u00fablicos de Aravaca.<br />\n3 de marzo de 2012</p>\n"
   },
   "caption": {
     "rendered": "<p>Cartel del acto por los servicios p\u00fablicos de Aravaca. 3 de marzo de 2012</p>\n"
@@ -626,7 +596,7 @@
     "rendered": "Evento servicios p\u00fablicos en Aravaca"
   },
   "content": {
-    "rendered": "<p><a href=\"http://aravaca.tomalosbarrios.net/files/2012/02/cartel20120303.jpg\"><img class=\"aligncenter size-medium wp-image-474\" src=\"http://aravaca.tomalosbarrios.net/files/2012/02/cartel20120303-212x300.jpg\" alt=\"\" width=\"212\" height=\"300\" srcset=\"https://aravaca.tomalosbarrios.net/files/2012/02/cartel20120303-212x300.jpg 212w, https://aravaca.tomalosbarrios.net/files/2012/02/cartel20120303-724x1024.jpg 724w, https://aravaca.tomalosbarrios.net/files/2012/02/cartel20120303.jpg 744w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a>Os esperamos a todos en la Plaza Corona Boreal de Aravaca, justo detr\u00e1s del Centro de Mayores. Pron\u00f3stico del tiempo: nubes sin lluvia.</p>\n",
+    "rendered": "<p><a href=\"http://aravaca.tomalosbarrios.net/files/2012/02/cartel20120303.jpg\"><img loading=\"lazy\" class=\"aligncenter size-medium wp-image-474\" src=\"http://aravaca.tomalosbarrios.net/files/2012/02/cartel20120303-212x300.jpg\" alt=\"\" width=\"212\" height=\"300\" srcset=\"https://aravaca.tomalosbarrios.net/files/2012/02/cartel20120303-212x300.jpg 212w, https://aravaca.tomalosbarrios.net/files/2012/02/cartel20120303-724x1024.jpg 724w, https://aravaca.tomalosbarrios.net/files/2012/02/cartel20120303.jpg 744w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a>Os esperamos a todos en la Plaza Corona Boreal de Aravaca, justo detr\u00e1s del Centro de Mayores. Pron\u00f3stico del tiempo: nubes sin lluvia.</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -635,7 +605,7 @@
   },
   "author": 310,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -676,14 +646,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/471/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 476,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/471/revisions/476"
       }
     ],
     "wp:attachment": [
@@ -728,16 +692,16 @@
     "rendered": "Por qu\u00e9 reaclamamos un instituto en aravaca"
   },
   "content": {
-    "rendered": "<p>La siguiente nota de prensa expresa las razones por las que diversos colectivos de Aravaca estamos reclamando a la administraci\u00f3n local la presencia de un instituto.</p>\n<p>&nbsp;</p>\n<p><strong>Nota de prensa de la A AVV &#171;Osa Mayor&#187; de Aravaca sobre la solicitud de un Instituto de Educaci\u00f3n Secundaria</strong><br />\nLa AAVV &#171;Osa Mayor&#187; de Aravaca se reuni\u00f3 el 2 de febrero con la Direcci\u00f3n del \u00c1rea Territorial, de la Consejer\u00eda de Educaci\u00f3n de la Comunidad de Madrid y el Concejal de Moncloa-Aravaca para conocer su posici\u00f3n respecto a nuestra demanda de un Instituto de Ense\u00f1anza Secundaria en Aravaca.<br />\nTras analizar esta reuni\u00f3n, la AAVV &#171;Osa Mayor&#187; de Aravaca ha aprobado, en su reuni\u00f3n del 20 de febrero, una declaraci\u00f3n p\u00fablica que, entre otras cosas, expresa:<br />\n\u2022 Que Aravaca padece un grave d\u00e9ficit de educaci\u00f3n p\u00fablica: ni siquiera tiene un centro donde cursar la Educaci\u00f3n Secundaria OBLIGATORIA.<br />\n\u2022 Que Aravaca-El Plant\u00edo-Valdemar\u00edn (34.045 habitantes y 9.508 de 0 a 19 a\u00f1os) es el \u00fanico n\u00facleo de poblaci\u00f3n de toda Espa\u00f1a y de la Comunidad de Madrid por encima de 19.000 habitantes que no tiene IES.<br />\n\u2022 Que todas las poblaciones de Espa\u00f1a por encima de 12.000 habitantes tienen uno o varios IES, excepto 3, una de ellas Aravaca.<br />\n\u2022 Que en la Comunidad de Madrid, todas las poblaciones por encima de 7.000 habitantes tienen un IES, excepto Aravaca y Paracuellos del Jarama.<br />\n\u2022 Que la demanda de plazas de secundaria de Aravaca, El Plant\u00edo y Valdemar\u00edn se cubren mediante los 3 IES de Pozuelo de Alarc\u00f3n, lo cual cumple el derecho constitucional a la<br />\neducaci\u00f3n; pero, en absoluto, es una soluci\u00f3n satisfactoria para las familias de Aravaca.<br />\nSon IES a una distancia entre 4 y 12 kil\u00f3metros. Con un transporte en la zona, muy<br />\ndeficiente y privado, supone un gran esfuerzo econ\u00f3mico y de movilidad para padres y<br />\nalumnos.<br />\n\u2022 Que la falta de IES en Aravaca, provoca que las familias opten por elegir colegios privados<br />\ncon continuidad asegurada a secundaria, en lugar de la incertidumbre de qu\u00e9 hacer con los<br />\nhijos cuando lleguen a 6o primaria.<br />\n\u2022 Que un informe de la AMPA del CP Rosa Luxemburgo, muestra la incapacidad de la<br />\nactual oferta de plazas en IES p\u00fablicos en la zona para atender la demanda futura.<br />\n\u2022 Que la AAVV &#171;Osa Mayor&#187; de Aravaca se ratifica en la necesidad de un IES para Aravaca,<br />\nEl Plant\u00edo y Valdemar\u00edn, los barrios m\u00e1s perif\u00e9ricos de Madrid hacia el Noroeste; pero<br />\nseparados f\u00edsicamente de Madrid y a varios kil\u00f3metros de distancia.<br />\n\u2022 Que la AAVV &#171;Osa Mayor&#187; de Aravaca denuncia la escasa inversi\u00f3n de la Consejer\u00eda<br />\nde Educaci\u00f3n y del Ayuntamiento de Madrid en el tema &#171;educaci\u00f3n&#187; en<br />\nAravaca , durante los \u00faltimos 25 a\u00f1os, a pesar de que el crecimiento de la poblaci\u00f3n<br />\ngeneral y de la poblaci\u00f3n de 0 a 19 a\u00f1os ha sido espectacular (98,3%) desde 1.996 hasta<br />\n2.011, y muy superior al crecimiento de ambas variables en el Distrito Moncloa-Aravaca y<br />\nen Pozuelo de Alarc\u00f3n.<br />\n\u2022 Que la AAVV &#171;Osa Mayor&#187; de Aravaca convoca a todos sus vecinos a expresar su<br />\ndemanda de Instituto para Aravaca, el pr\u00f3ximo s\u00e1bado 3 de marzo, a las 12 horas en<br />\nla Plaza Corona Boreal.<br />\n\u2022 Finalmente, la AAVV &#171;Osa Mayor&#187; de Aravaca manifiesta su intenci\u00f3n de seguir<br />\ndefendiendo los intereses de la poblaci\u00f3n para lograr la mejora de los servicios p\u00fablicos<br />\n(sanidad, educaci\u00f3n, transporte, biblioteca p\u00fablica, etc.), en los que Aravaca, pese a su<br />\nimagen de poblaci\u00f3n de alto nivel, tiene en realidad muy serias y evidentes deficiencias.<br />\n(Se acompa\u00f1an los informes citados y que avalan los datos que se exponen)<br />\nAravaca, 20 de febrero de 2012</p>\n",
+    "rendered": "<p>La siguiente nota de prensa expresa las razones por las que diversos colectivos de Aravaca estamos reclamando a la administraci\u00f3n local la presencia de un instituto.</p>\n<p>&nbsp;</p>\n<p><strong>Nota de prensa de la A AVV \u00abOsa Mayor\u00bb de Aravaca sobre la solicitud de un Instituto de Educaci\u00f3n Secundaria</strong><br />\nLa AAVV \u00abOsa Mayor\u00bb de Aravaca se reuni\u00f3 el 2 de febrero con la Direcci\u00f3n del \u00c1rea Territorial, de la Consejer\u00eda de Educaci\u00f3n de la Comunidad de Madrid y el Concejal de Moncloa-Aravaca para conocer su posici\u00f3n respecto a nuestra demanda de un Instituto de Ense\u00f1anza Secundaria en Aravaca.<br />\nTras analizar esta reuni\u00f3n, la AAVV \u00abOsa Mayor\u00bb de Aravaca ha aprobado, en su reuni\u00f3n del 20 de febrero, una declaraci\u00f3n p\u00fablica que, entre otras cosas, expresa:<br />\n\u2022 Que Aravaca padece un grave d\u00e9ficit de educaci\u00f3n p\u00fablica: ni siquiera tiene un centro donde cursar la Educaci\u00f3n Secundaria OBLIGATORIA.<br />\n\u2022 Que Aravaca-El Plant\u00edo-Valdemar\u00edn (34.045 habitantes y 9.508 de 0 a 19 a\u00f1os) es el \u00fanico n\u00facleo de poblaci\u00f3n de toda Espa\u00f1a y de la Comunidad de Madrid por encima de 19.000 habitantes que no tiene IES.<br />\n\u2022 Que todas las poblaciones de Espa\u00f1a por encima de 12.000 habitantes tienen uno o varios IES, excepto 3, una de ellas Aravaca.<br />\n\u2022 Que en la Comunidad de Madrid, todas las poblaciones por encima de 7.000 habitantes tienen un IES, excepto Aravaca y Paracuellos del Jarama.<br />\n\u2022 Que la demanda de plazas de secundaria de Aravaca, El Plant\u00edo y Valdemar\u00edn se cubren mediante los 3 IES de Pozuelo de Alarc\u00f3n, lo cual cumple el derecho constitucional a la<br />\neducaci\u00f3n; pero, en absoluto, es una soluci\u00f3n satisfactoria para las familias de Aravaca.<br />\nSon IES a una distancia entre 4 y 12 kil\u00f3metros. Con un transporte en la zona, muy<br />\ndeficiente y privado, supone un gran esfuerzo econ\u00f3mico y de movilidad para padres y<br />\nalumnos.<br />\n\u2022 Que la falta de IES en Aravaca, provoca que las familias opten por elegir colegios privados<br />\ncon continuidad asegurada a secundaria, en lugar de la incertidumbre de qu\u00e9 hacer con los<br />\nhijos cuando lleguen a 6o primaria.<br />\n\u2022 Que un informe de la AMPA del CP Rosa Luxemburgo, muestra la incapacidad de la<br />\nactual oferta de plazas en IES p\u00fablicos en la zona para atender la demanda futura.<br />\n\u2022 Que la AAVV \u00abOsa Mayor\u00bb de Aravaca se ratifica en la necesidad de un IES para Aravaca,<br />\nEl Plant\u00edo y Valdemar\u00edn, los barrios m\u00e1s perif\u00e9ricos de Madrid hacia el Noroeste; pero<br />\nseparados f\u00edsicamente de Madrid y a varios kil\u00f3metros de distancia.<br />\n\u2022 Que la AAVV \u00abOsa Mayor\u00bb de Aravaca denuncia la escasa inversi\u00f3n de la Consejer\u00eda<br />\nde Educaci\u00f3n y del Ayuntamiento de Madrid en el tema \u00abeducaci\u00f3n\u00bb en<br />\nAravaca , durante los \u00faltimos 25 a\u00f1os, a pesar de que el crecimiento de la poblaci\u00f3n<br />\ngeneral y de la poblaci\u00f3n de 0 a 19 a\u00f1os ha sido espectacular (98,3%) desde 1.996 hasta<br />\n2.011, y muy superior al crecimiento de ambas variables en el Distrito Moncloa-Aravaca y<br />\nen Pozuelo de Alarc\u00f3n.<br />\n\u2022 Que la AAVV \u00abOsa Mayor\u00bb de Aravaca convoca a todos sus vecinos a expresar su<br />\ndemanda de Instituto para Aravaca, el pr\u00f3ximo s\u00e1bado 3 de marzo, a las 12 horas en<br />\nla Plaza Corona Boreal.<br />\n\u2022 Finalmente, la AAVV \u00abOsa Mayor\u00bb de Aravaca manifiesta su intenci\u00f3n de seguir<br />\ndefendiendo los intereses de la poblaci\u00f3n para lograr la mejora de los servicios p\u00fablicos<br />\n(sanidad, educaci\u00f3n, transporte, biblioteca p\u00fablica, etc.), en los que Aravaca, pese a su<br />\nimagen de poblaci\u00f3n de alto nivel, tiene en realidad muy serias y evidentes deficiencias.<br />\n(Se acompa\u00f1an los informes citados y que avalan los datos que se exponen)<br />\nAravaca, 20 de febrero de 2012</p>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>La siguiente nota de prensa expresa las razones por las que diversos colectivos de Aravaca estamos reclamando a la administraci\u00f3n local la presencia de un instituto. &nbsp; Nota de prensa de la A AVV &#171;Osa Mayor&#187; de Aravaca sobre la &hellip; <a href=\"https://aravaca.tomalosbarrios.net/2012/02/26/por-que-reaclamamos-un-instituto-en-aravaca/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+    "rendered": "<p>La siguiente nota de prensa expresa las razones por las que diversos colectivos de Aravaca estamos reclamando a la administraci\u00f3n local la presencia de un instituto. &nbsp; Nota de prensa de la A AVV \u00abOsa Mayor\u00bb de Aravaca sobre la &hellip; <a href=\"https://aravaca.tomalosbarrios.net/2012/02/26/por-que-reaclamamos-un-instituto-en-aravaca/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
     "protected": false
   },
   "author": 310,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -778,14 +742,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/465/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 469,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/465/revisions/469"
       }
     ],
     "wp:attachment": [
@@ -839,7 +797,7 @@
   },
   "author": 310,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -880,14 +838,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/458/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 462,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/458/revisions/462"
       }
     ],
     "wp:attachment": [
@@ -941,7 +893,7 @@
   },
   "author": 310,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -982,14 +934,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/451/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 455,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/451/revisions/455"
       }
     ],
     "wp:attachment": [
@@ -1034,7 +980,7 @@
     "rendered": "Acta Asamblea 14 Enero 2012"
   },
   "content": {
-    "rendered": "<p align=\"center\"><span style=\"text-decoration: underline\">Acta de la reuni\u00f3n de la Asamblea de Aravaca</span></p>\n<p>En Madrid, a 14 de enero de 2.012, a las 12,00 horas, en el cruce de Avda. de la Galaxia con calle Osa Mayor y luego en el bar Livorno, se celebra la reuni\u00f3n de la Asamblea de Aravaca, con arreglo al siguiente orden del d\u00eda, fijado al principio de la reuni\u00f3n:</p>\n<p>Punto \u00fanico.- <strong>An\u00e1lisis del movimiento 15 M en Aravaca y propuestas de actuaci\u00f3n</strong>.-</p>\n<p>Se producen diversas <strong><span style=\"text-decoration: underline\">intervenciones</span></strong> analizando la evoluci\u00f3n del movimiento. Cabe destacar de lo dialogado:</p>\n<p>&#8211; lo <span style=\"text-decoration: underline\">positivo que este movimiento</span> ha sido a nivel de Aravaca, para la toma de conciencia de bastantes personas, para la puesta en marcha de alguna acci\u00f3n reivindicativa colectiva y visible (Biblioteca), para conocer que en Aravaca existimos personas con deseos de cambiar las cosas y para haber logrado entrar en contacto y actuar juntos;</p>\n<p>&#8211; la voluntad com\u00fan de <span style=\"text-decoration: underline\">mantener el movimiento</span>, pese a la disminuci\u00f3n de asistencia;</p>\n<p>&#8211; el tratar de reavivar la <span style=\"text-decoration: underline\">participaci\u00f3n</span> de otras personas mediante la realizaci\u00f3n de acciones reivindicativas o formativas de inter\u00e9s y la animaci\u00f3n del contenido de las p\u00e1ginas de comunicaci\u00f3n;</p>\n<p>&#8211; el vincularse m\u00e1s a <span style=\"text-decoration: underline\">otros colectivos</span> que est\u00e1n planteando demandas sociales (sanidad, educaci\u00f3n, etc..) en dichas acciones;</p>\n<p>&#8211; la posibilidad de unirse a o intercambiar con movimientos pr\u00f3ximos geogr\u00e1ficamente;</p>\n<p>&#8211; el mantenerse ligados a las acciones generales del 15M, fomentando la <span style=\"text-decoration: underline\">asistencia conjunta</span> de las personas de Aravaca <span style=\"text-decoration: underline\">a las convocatorias del 15M en Madrid</span></p>\n<p>&nbsp;</p>\n<p>En cuanto a la cuesti\u00f3n de las <strong><span style=\"text-decoration: underline\">propuestas</span></strong>, tras ver varias posibilidades se acord\u00f3 lo siguiente:</p>\n<p>&#8211; Realizar una <span style=\"text-decoration: underline\">acci\u00f3n cada mes</span> o mes y medio que pueda despertar inter\u00e9s (se sugirieron charlas sobre banca \u00e9tica, pol\u00edtica (por ejemplo, Carlos Taibo), etc.) y que se relacione con acciones de otros colectivos.</p>\n<p>&#8211; Llevar a cabo la <span style=\"text-decoration: underline\">primera</span> el pr\u00f3ximo <strong>s\u00e1bado 3 de marzo</strong>, dedicada a las propuestas del <strong>profesorado</strong> de la ense\u00f1anza p\u00fablica. En esta acci\u00f3n se dar\u00eda prioridad a las reivindicaciones sobre educaci\u00f3n, aunque mantendr\u00edamos un apartado reclamando la Biblioteca Popular de Aravaca, con algunos libros para prestar.</p>\n<p>&#8211; Tender a la realizaci\u00f3n de asambleas en un d\u00eda estable de cada mes (primer s\u00e1bado, por ejemplo) y, en cambio, convocar a las personas para organizar las acciones o difundirlas, como se hizo para la funci\u00f3n &#171;Biblioteca&#187;.</p>\n<p>&#8211; En esta l\u00ednea, la <strong>pr\u00f3xima Asamblea</strong> ser\u00e1 el <strong>4 de febrero</strong> del 2012.</p>\n<p>&#8211; Se realizar\u00e1 una <span style=\"text-decoration: underline\">reuni\u00f3n para organizar la &#171;funci\u00f3n&#187;</span> pro-escuela p\u00fablica del d\u00eda 3 de marzo.\u00a0 Esta reuni\u00f3n se realizar\u00e1 en la fecha en que puedan asistir representantes de los profesores con el fin de organizarlo juntos. Para ello, se remite copia de este acta a la persona que ya entr\u00f3 en contacto con nosotros para que nos pongamos de acuerdo y realizarla la semana pr\u00f3xima o la siguiente.</p>\n",
+    "rendered": "<p align=\"center\"><span style=\"text-decoration: underline\">Acta de la reuni\u00f3n de la Asamblea de Aravaca</span></p>\n<p>En Madrid, a 14 de enero de 2.012, a las 12,00 horas, en el cruce de Avda. de la Galaxia con calle Osa Mayor y luego en el bar Livorno, se celebra la reuni\u00f3n de la Asamblea de Aravaca, con arreglo al siguiente orden del d\u00eda, fijado al principio de la reuni\u00f3n:</p>\n<p>Punto \u00fanico.- <strong>An\u00e1lisis del movimiento 15 M en Aravaca y propuestas de actuaci\u00f3n</strong>.-</p>\n<p>Se producen diversas <strong><span style=\"text-decoration: underline\">intervenciones</span></strong> analizando la evoluci\u00f3n del movimiento. Cabe destacar de lo dialogado:</p>\n<p>&#8211; lo <span style=\"text-decoration: underline\">positivo que este movimiento</span> ha sido a nivel de Aravaca, para la toma de conciencia de bastantes personas, para la puesta en marcha de alguna acci\u00f3n reivindicativa colectiva y visible (Biblioteca), para conocer que en Aravaca existimos personas con deseos de cambiar las cosas y para haber logrado entrar en contacto y actuar juntos;</p>\n<p>&#8211; la voluntad com\u00fan de <span style=\"text-decoration: underline\">mantener el movimiento</span>, pese a la disminuci\u00f3n de asistencia;</p>\n<p>&#8211; el tratar de reavivar la <span style=\"text-decoration: underline\">participaci\u00f3n</span> de otras personas mediante la realizaci\u00f3n de acciones reivindicativas o formativas de inter\u00e9s y la animaci\u00f3n del contenido de las p\u00e1ginas de comunicaci\u00f3n;</p>\n<p>&#8211; el vincularse m\u00e1s a <span style=\"text-decoration: underline\">otros colectivos</span> que est\u00e1n planteando demandas sociales (sanidad, educaci\u00f3n, etc..) en dichas acciones;</p>\n<p>&#8211; la posibilidad de unirse a o intercambiar con movimientos pr\u00f3ximos geogr\u00e1ficamente;</p>\n<p>&#8211; el mantenerse ligados a las acciones generales del 15M, fomentando la <span style=\"text-decoration: underline\">asistencia conjunta</span> de las personas de Aravaca <span style=\"text-decoration: underline\">a las convocatorias del 15M en Madrid</span></p>\n<p>&nbsp;</p>\n<p>En cuanto a la cuesti\u00f3n de las <strong><span style=\"text-decoration: underline\">propuestas</span></strong>, tras ver varias posibilidades se acord\u00f3 lo siguiente:</p>\n<p>&#8211; Realizar una <span style=\"text-decoration: underline\">acci\u00f3n cada mes</span> o mes y medio que pueda despertar inter\u00e9s (se sugirieron charlas sobre banca \u00e9tica, pol\u00edtica (por ejemplo, Carlos Taibo), etc.) y que se relacione con acciones de otros colectivos.</p>\n<p>&#8211; Llevar a cabo la <span style=\"text-decoration: underline\">primera</span> el pr\u00f3ximo <strong>s\u00e1bado 3 de marzo</strong>, dedicada a las propuestas del <strong>profesorado</strong> de la ense\u00f1anza p\u00fablica. En esta acci\u00f3n se dar\u00eda prioridad a las reivindicaciones sobre educaci\u00f3n, aunque mantendr\u00edamos un apartado reclamando la Biblioteca Popular de Aravaca, con algunos libros para prestar.</p>\n<p>&#8211; Tender a la realizaci\u00f3n de asambleas en un d\u00eda estable de cada mes (primer s\u00e1bado, por ejemplo) y, en cambio, convocar a las personas para organizar las acciones o difundirlas, como se hizo para la funci\u00f3n \u00abBiblioteca\u00bb.</p>\n<p>&#8211; En esta l\u00ednea, la <strong>pr\u00f3xima Asamblea</strong> ser\u00e1 el <strong>4 de febrero</strong> del 2012.</p>\n<p>&#8211; Se realizar\u00e1 una <span style=\"text-decoration: underline\">reuni\u00f3n para organizar la \u00abfunci\u00f3n\u00bb</span> pro-escuela p\u00fablica del d\u00eda 3 de marzo.\u00a0 Esta reuni\u00f3n se realizar\u00e1 en la fecha en que puedan asistir representantes de los profesores con el fin de organizarlo juntos. Para ello, se remite copia de este acta a la persona que ya entr\u00f3 en contacto con nosotros para que nos pongamos de acuerdo y realizarla la semana pr\u00f3xima o la siguiente.</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -1045,7 +991,7 @@
   "featured_media": 0,
   "parent": 2,
   "menu_order": 915,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -1079,14 +1025,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/446/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 450,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/446/revisions/450"
       }
     ],
     "up": [
@@ -1136,7 +1076,7 @@
   "featured_media": 0,
   "parent": 437,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1170,14 +1110,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/439/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 441,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/439/revisions/441"
       }
     ],
     "up": [
@@ -1227,7 +1161,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1261,14 +1195,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/437/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 445,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/437/revisions/445"
       }
     ],
     "wp:attachment": [
@@ -1312,7 +1240,7 @@
   "featured_media": 0,
   "parent": 2,
   "menu_order": 925,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -1346,14 +1274,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/430/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 513,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/430/revisions/513"
       }
     ],
     "up": [
@@ -1392,12 +1314,12 @@
     "rendered": "cartel biblioteca aravaca 3"
   },
   "author": 310,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://aravaca.tomalosbarrios.net/files/2011/12/cartel-biblioteca-aravaca-3.jpg'><img width=\"216\" height=\"300\" src=\"https://aravaca.tomalosbarrios.net/files/2011/12/cartel-biblioteca-aravaca-3-216x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://aravaca.tomalosbarrios.net/files/2011/12/cartel-biblioteca-aravaca-3-216x300.jpg 216w, https://aravaca.tomalosbarrios.net/files/2011/12/cartel-biblioteca-aravaca-3.jpg 527w\" sizes=\"(max-width: 216px) 100vw, 216px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://aravaca.tomalosbarrios.net/files/2011/12/cartel-biblioteca-aravaca-3.jpg'><img width=\"216\" height=\"300\" src=\"https://aravaca.tomalosbarrios.net/files/2011/12/cartel-biblioteca-aravaca-3-216x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://aravaca.tomalosbarrios.net/files/2011/12/cartel-biblioteca-aravaca-3-216x300.jpg 216w, https://aravaca.tomalosbarrios.net/files/2011/12/cartel-biblioteca-aravaca-3.jpg 527w\" sizes=\"(max-width: 216px) 100vw, 216px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -1498,7 +1420,7 @@
     "rendered": "Evento biblioteca 17 diciembre"
   },
   "content": {
-    "rendered": "<p><a href=\"http://aravaca.tomalosbarrios.net/files/2011/12/cartel-biblioteca-aravaca-3.jpg\"><img class=\"size-medium wp-image-428 aligncenter\" src=\"http://aravaca.tomalosbarrios.net/files/2011/12/cartel-biblioteca-aravaca-3-216x300.jpg\" alt=\"\" width=\"216\" height=\"300\" srcset=\"https://aravaca.tomalosbarrios.net/files/2011/12/cartel-biblioteca-aravaca-3-216x300.jpg 216w, https://aravaca.tomalosbarrios.net/files/2011/12/cartel-biblioteca-aravaca-3.jpg 527w\" sizes=\"(max-width: 216px) 100vw, 216px\" /></a></p>\n",
+    "rendered": "<p><a href=\"http://aravaca.tomalosbarrios.net/files/2011/12/cartel-biblioteca-aravaca-3.jpg\"><img loading=\"lazy\" class=\"size-medium wp-image-428 aligncenter\" src=\"http://aravaca.tomalosbarrios.net/files/2011/12/cartel-biblioteca-aravaca-3-216x300.jpg\" alt=\"\" width=\"216\" height=\"300\" srcset=\"https://aravaca.tomalosbarrios.net/files/2011/12/cartel-biblioteca-aravaca-3-216x300.jpg 216w, https://aravaca.tomalosbarrios.net/files/2011/12/cartel-biblioteca-aravaca-3.jpg 527w\" sizes=\"(max-width: 216px) 100vw, 216px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -1507,7 +1429,7 @@
   },
   "author": 310,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1548,14 +1470,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/421/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 427,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/421/revisions/427"
       }
     ],
     "wp:attachment": [
@@ -1609,7 +1525,7 @@
   },
   "author": 310,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1650,14 +1566,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/415/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 418,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/415/revisions/418"
       }
     ],
     "wp:attachment": [
@@ -1702,7 +1612,7 @@
     "rendered": "Acta Asamblea 26 Noviembre 2011"
   },
   "content": {
-    "rendered": "<p><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">En Madrid, a 26 de noviembre de 2.011, a las 12,00 horas, en el cruce de Avda. de la Galaxia con calle Osa Mayor, se celebra la reuni\u00f3n de la Asamblea de Aravaca, con arreglo al siguiente orden del d\u00eda, fijado en una nota remitida a la lista de correo y confirmado al comienzo de la reuni\u00f3n.</span></span></p>\n<ol>\n<li><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Recuerdo del compa\u00f1ero Lino, recientemente fallecido.</span></span></li>\n<li><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Preparaci\u00f3n del evento sobre Biblioteca del 17 de Diciembre.</span></span></li>\n<li><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Reactivaci\u00f3n de la Comisi\u00f3n Organizaci\u00f3n y Local</span></span></li>\n<li><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Valoraci\u00f3n del resultado de las elecciones</span></span></li>\n<li><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Camisetas </span></span></li>\n</ol>\n<p><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">PUNTO 1.- Todos transmitimos nuestro sentir por la muerte de una persona &#8211; Lino -, que tanto luch\u00f3 por la mejora de los equipamientos de Aravaca y la soluci\u00f3n de sus deficiencias. Se acuerda realizar una semblanza de su persona para difundirla y que su ejemplo pueda ser conocido por todos. Asimismo nuestra Biblioteca alternativa llevar\u00e1 su nombre. </span></span></p>\n<p><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">PUNTO 2.- Antes de abordar este punto, recibimos a una profesora de instituto, que acude a la asamblea para tratar de aunar esfuerzos en com\u00fan. Nos expone su situaci\u00f3n y se decide que participen en la &#171;funci\u00f3n&#187; del d\u00eda 17 de Diciembre, donde se dedicar\u00e1n actividades, carteles y comunicaci\u00f3n a las reivindicaciones del personal docente y del Instituto para Aravaca. Algunos profesores desarrollar\u00e1n durante el evento breves clases l\u00fadicas y participar\u00e1n activamente en la difusi\u00f3n del acto.</span></span></p>\n<p><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">En relaci\u00f3n al evento, se revisa la organizaci\u00f3n del anterior y se acuerda:</span></span></p>\n<ol type=\"a\">\n<li><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Fecha, hora y lugar propuestos.- 17 de DICIEMBRE, a las 12 horas, en la PLAZA CORONA BOREAL. S\u00f3lo ser\u00eda cambiada la fecha en caso de lluvia segura. Nuestro meteor\u00f3logo particular nos dar\u00e1 con la antelaci\u00f3n adecuada un pron\u00f3stico del tiempo. </span></span></li>\n<li><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Instalaci\u00f3n.- Se instalar\u00e1 el mismo mobiliario de la primera sesi\u00f3n: mesas plegables, sillas, etc.</span></span></li>\n</ol>\n<p><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Se a\u00f1adir\u00e1 una pizarra, de la que se encargan los profesores.</span></span></p>\n<p><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">El equipo de micr\u00f3fono y altavoces, se revisar\u00e1 para asegurar su buen funcionamiento.</span></span></p>\n<ol type=\"a\" start=\"3\">\n<li><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Libros.- Se emplear\u00e1n los ya recogidos, colocando siempre las pegatinas de pr\u00e9stamo. </span></span></li>\n<li><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Presentaci\u00f3n y animaci\u00f3n.- Se har\u00e1 un esquema-programa para ordenar las distintas actividades. </span></span></li>\n<li><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Actividades.- Se desarrollar\u00e1: Papiroflexia, Poes\u00eda, Cuentos, Dibujos, Pinta caras, etc.</span></span></li>\n</ol>\n<p><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Se a\u00f1adir\u00e1n las clases breves de profesores. Se habla de un posible mago. Se acuerda insistir </span></span></p>\n<p><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">para que el violinista vuelva a deleitarnos con su interpretaci\u00f3n.</span></span></p>\n<p><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Se anima a todos a participar. El que desee intervenir que lo diga para incluirlo en el programa.</span></span></p>\n<ol type=\"a\" start=\"6\">\n<li><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Otras actividades complementarias.- </span></span></li>\n</ol>\n<ol>\n<ol type=\"a\">\n<li><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">La carta para recabar firmas, solicitando la construcci\u00f3n de la Biblioteca, se volver\u00e1 a poner.</span></span></li>\n<li><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Se pensar\u00e1 si se distribuyen otras informaciones (manifiesto, docentes, etc..)</span></span></li>\n</ol>\n</ol>\n<ol type=\"a\" start=\"7\">\n<li><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Comunicaci\u00f3n.- Organizaremos una pegada de carteles y el uso de los medios para que anuncien el evento, a partir de los que ya lo hicieron (Onda Madrid, Radio Vallekas, etc.)</span></span></li>\n</ol>\n<p><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Se propone el empleo intensivo de la Redes Sociales, </span></span></p>\n<ol type=\"a\" start=\"8\">\n<li>\n<p lang=\"es-ES\"><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Preparaci\u00f3n de la acci\u00f3n.- Ser\u00e1 la primera tarea de la Comisi\u00f3n que se expone a continuaci\u00f3n.</span></span></p>\n</li>\n</ol>\n<p><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Tambi\u00e9n se informa de la visita realizada a la Biblioteca de unos 3000 libros que nos ha sido ofrecida en donaci\u00f3n por una familia de Aravaca y de las gestiones llevadas a cabo para buscarle ubicaci\u00f3n: carta al Concejal para una entrevista, que adjuntamos a este acta. </span></span></p>\n<p><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">PUNTO 3.- Analizando la situaci\u00f3n se decide crear una \u00fanica Comisi\u00f3n de Organizaci\u00f3n/Local se reunir\u00e1 el pr\u00f3ximo JUEVES 1 de DICIEMBRE, en esta esquina (si llueve, en Livorno). Preparar\u00e1 la acci\u00f3n Biblioteca y luego revisar\u00e1 otros temas. </span></span></p>\n<p><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">PUNTOS 4 y 5.- Se decide tratarlos en la pr\u00f3xima asamblea, que, en principio, ser\u00e1 el s\u00e1bado d\u00eda 24 de diciembre a las 12 horas en este mismo lugar, a reserva del clima del d\u00eda.</span></span></p>\n<p><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Os animamos a TODOS A PARTICIPAR activamente en lo que pod\u00e1is (pr\u00f3xima reuni\u00f3n preparatoria del jueves, pegada de carteles, difusi\u00f3n del evento por redes sociales, recogida de firmas solicitando la Biblioteca, etc.). Esto no puede ser tarea solitaria de 4 \u00f3 5 personas. </span></span></p>\n",
+    "rendered": "<p><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">En Madrid, a 26 de noviembre de 2.011, a las 12,00 horas, en el cruce de Avda. de la Galaxia con calle Osa Mayor, se celebra la reuni\u00f3n de la Asamblea de Aravaca, con arreglo al siguiente orden del d\u00eda, fijado en una nota remitida a la lista de correo y confirmado al comienzo de la reuni\u00f3n.</span></span></p>\n<ol>\n<li><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Recuerdo del compa\u00f1ero Lino, recientemente fallecido.</span></span></li>\n<li><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Preparaci\u00f3n del evento sobre Biblioteca del 17 de Diciembre.</span></span></li>\n<li><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Reactivaci\u00f3n de la Comisi\u00f3n Organizaci\u00f3n y Local</span></span></li>\n<li><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Valoraci\u00f3n del resultado de las elecciones</span></span></li>\n<li><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Camisetas </span></span></li>\n</ol>\n<p><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">PUNTO 1.- Todos transmitimos nuestro sentir por la muerte de una persona &#8211; Lino -, que tanto luch\u00f3 por la mejora de los equipamientos de Aravaca y la soluci\u00f3n de sus deficiencias. Se acuerda realizar una semblanza de su persona para difundirla y que su ejemplo pueda ser conocido por todos. Asimismo nuestra Biblioteca alternativa llevar\u00e1 su nombre. </span></span></p>\n<p><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">PUNTO 2.- Antes de abordar este punto, recibimos a una profesora de instituto, que acude a la asamblea para tratar de aunar esfuerzos en com\u00fan. Nos expone su situaci\u00f3n y se decide que participen en la \u00abfunci\u00f3n\u00bb del d\u00eda 17 de Diciembre, donde se dedicar\u00e1n actividades, carteles y comunicaci\u00f3n a las reivindicaciones del personal docente y del Instituto para Aravaca. Algunos profesores desarrollar\u00e1n durante el evento breves clases l\u00fadicas y participar\u00e1n activamente en la difusi\u00f3n del acto.</span></span></p>\n<p><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">En relaci\u00f3n al evento, se revisa la organizaci\u00f3n del anterior y se acuerda:</span></span></p>\n<ol type=\"a\">\n<li><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Fecha, hora y lugar propuestos.- 17 de DICIEMBRE, a las 12 horas, en la PLAZA CORONA BOREAL. S\u00f3lo ser\u00eda cambiada la fecha en caso de lluvia segura. Nuestro meteor\u00f3logo particular nos dar\u00e1 con la antelaci\u00f3n adecuada un pron\u00f3stico del tiempo. </span></span></li>\n<li><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Instalaci\u00f3n.- Se instalar\u00e1 el mismo mobiliario de la primera sesi\u00f3n: mesas plegables, sillas, etc.</span></span></li>\n</ol>\n<p><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Se a\u00f1adir\u00e1 una pizarra, de la que se encargan los profesores.</span></span></p>\n<p><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">El equipo de micr\u00f3fono y altavoces, se revisar\u00e1 para asegurar su buen funcionamiento.</span></span></p>\n<ol type=\"a\" start=\"3\">\n<li><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Libros.- Se emplear\u00e1n los ya recogidos, colocando siempre las pegatinas de pr\u00e9stamo. </span></span></li>\n<li><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Presentaci\u00f3n y animaci\u00f3n.- Se har\u00e1 un esquema-programa para ordenar las distintas actividades. </span></span></li>\n<li><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Actividades.- Se desarrollar\u00e1: Papiroflexia, Poes\u00eda, Cuentos, Dibujos, Pinta caras, etc.</span></span></li>\n</ol>\n<p><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Se a\u00f1adir\u00e1n las clases breves de profesores. Se habla de un posible mago. Se acuerda insistir </span></span></p>\n<p><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">para que el violinista vuelva a deleitarnos con su interpretaci\u00f3n.</span></span></p>\n<p><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Se anima a todos a participar. El que desee intervenir que lo diga para incluirlo en el programa.</span></span></p>\n<ol type=\"a\" start=\"6\">\n<li><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Otras actividades complementarias.- </span></span></li>\n</ol>\n<ol>\n<ol type=\"a\">\n<li><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">La carta para recabar firmas, solicitando la construcci\u00f3n de la Biblioteca, se volver\u00e1 a poner.</span></span></li>\n<li><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Se pensar\u00e1 si se distribuyen otras informaciones (manifiesto, docentes, etc..)</span></span></li>\n</ol>\n</ol>\n<ol type=\"a\" start=\"7\">\n<li><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Comunicaci\u00f3n.- Organizaremos una pegada de carteles y el uso de los medios para que anuncien el evento, a partir de los que ya lo hicieron (Onda Madrid, Radio Vallekas, etc.)</span></span></li>\n</ol>\n<p><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Se propone el empleo intensivo de la Redes Sociales, </span></span></p>\n<ol type=\"a\" start=\"8\">\n<li>\n<p lang=\"es-ES\"><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Preparaci\u00f3n de la acci\u00f3n.- Ser\u00e1 la primera tarea de la Comisi\u00f3n que se expone a continuaci\u00f3n.</span></span></p>\n</li>\n</ol>\n<p><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Tambi\u00e9n se informa de la visita realizada a la Biblioteca de unos 3000 libros que nos ha sido ofrecida en donaci\u00f3n por una familia de Aravaca y de las gestiones llevadas a cabo para buscarle ubicaci\u00f3n: carta al Concejal para una entrevista, que adjuntamos a este acta. </span></span></p>\n<p><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">PUNTO 3.- Analizando la situaci\u00f3n se decide crear una \u00fanica Comisi\u00f3n de Organizaci\u00f3n/Local se reunir\u00e1 el pr\u00f3ximo JUEVES 1 de DICIEMBRE, en esta esquina (si llueve, en Livorno). Preparar\u00e1 la acci\u00f3n Biblioteca y luego revisar\u00e1 otros temas. </span></span></p>\n<p><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">PUNTOS 4 y 5.- Se decide tratarlos en la pr\u00f3xima asamblea, que, en principio, ser\u00e1 el s\u00e1bado d\u00eda 24 de diciembre a las 12 horas en este mismo lugar, a reserva del clima del d\u00eda.</span></span></p>\n<p><span style=\"font-family: Tahoma,serif\"><span style=\"font-size: small\">Os animamos a TODOS A PARTICIPAR activamente en lo que pod\u00e1is (pr\u00f3xima reuni\u00f3n preparatoria del jueves, pegada de carteles, difusi\u00f3n del evento por redes sociales, recogida de firmas solicitando la Biblioteca, etc.). Esto no puede ser tarea solitaria de 4 \u00f3 5 personas. </span></span></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -1713,7 +1623,7 @@
   "featured_media": 0,
   "parent": 2,
   "menu_order": 935,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -1747,14 +1657,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/410/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 516,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/410/revisions/516"
       }
     ],
     "up": [
@@ -1802,7 +1706,7 @@
   },
   "author": 310,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1843,14 +1747,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/383/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 387,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/383/revisions/387"
       }
     ],
     "wp:attachment": [
@@ -1906,7 +1804,7 @@
   "featured_media": 0,
   "parent": 2,
   "menu_order": 939,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -1940,14 +1838,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/354/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 511,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/354/revisions/511"
       }
     ],
     "up": [
@@ -1995,7 +1887,7 @@
   },
   "author": 310,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2036,14 +1928,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/337/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 341,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/337/revisions/341"
       }
     ],
     "wp:attachment": [
@@ -2099,7 +1985,7 @@
   "featured_media": 0,
   "parent": 2,
   "menu_order": 945,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -2133,14 +2019,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/329/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 332,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/329/revisions/332"
       }
     ],
     "up": [
@@ -2190,7 +2070,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 5,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2224,14 +2104,8 @@
     ],
     "version-history": [
       {
-        "count": 10,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/319/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 325,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/319/revisions/325"
       }
     ],
     "wp:attachment": [
@@ -2273,7 +2147,7 @@
   },
   "author": 310,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2314,14 +2188,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/299/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 303,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/299/revisions/303"
       }
     ],
     "wp:attachment": [
@@ -2366,7 +2234,7 @@
     "rendered": "Programa 15O"
   },
   "content": {
-    "rendered": "<p>Enlace para la organizaci\u00f3n de la super marcha del 15 de Octubre: <a href=\"http://madrid.tomalaplaza.net/2011/10/13/programacion-15oct-madrid/\">http://madrid.tomalaplaza.net/2011/10/13/programacion-15oct-madrid/</a></p>\n<p>La gente de Aravaca (zona oeste) saldremos desde Moncloa a las 16h.</p>\n<p>\u00a1Esperamos veros a todos!</p>\n<p style=\"text-align: left\"><a href=\"http://aravaca.tomalosbarrios.net/files/2011/10/15O.jpg\"><img class=\"size-medium wp-image-282 aligncenter\" src=\"http://aravaca.tomalosbarrios.net/files/2011/10/15O-300x300.jpg\" alt=\"\" width=\"300\" height=\"300\" srcset=\"https://aravaca.tomalosbarrios.net/files/2011/10/15O-300x300.jpg 300w, https://aravaca.tomalosbarrios.net/files/2011/10/15O-150x150.jpg 150w, https://aravaca.tomalosbarrios.net/files/2011/10/15O.jpg 520w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p style=\"text-align: left\">En la pegada de carteles que hicimos por el pueblo, la gente nos preguntaba lo que se reclama en este evento. Este es el buen punto de partida para explicarlo: <a href=\"http://15october.net/es/\">http://15october.net/es/</a></p>\n",
+    "rendered": "<p>Enlace para la organizaci\u00f3n de la super marcha del 15 de Octubre: <a href=\"http://madrid.tomalaplaza.net/2011/10/13/programacion-15oct-madrid/\">http://madrid.tomalaplaza.net/2011/10/13/programacion-15oct-madrid/</a></p>\n<p>La gente de Aravaca (zona oeste) saldremos desde Moncloa a las 16h.</p>\n<p>\u00a1Esperamos veros a todos!</p>\n<p style=\"text-align: left\"><a href=\"http://aravaca.tomalosbarrios.net/files/2011/10/15O.jpg\"><img loading=\"lazy\" class=\"size-medium wp-image-282 aligncenter\" src=\"http://aravaca.tomalosbarrios.net/files/2011/10/15O-300x300.jpg\" alt=\"\" width=\"300\" height=\"300\" srcset=\"https://aravaca.tomalosbarrios.net/files/2011/10/15O-300x300.jpg 300w, https://aravaca.tomalosbarrios.net/files/2011/10/15O-150x150.jpg 150w, https://aravaca.tomalosbarrios.net/files/2011/10/15O.jpg 520w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p style=\"text-align: left\">En la pegada de carteles que hicimos por el pueblo, la gente nos preguntaba lo que se reclama en este evento. Este es el buen punto de partida para explicarlo: <a href=\"http://15october.net/es/\">http://15october.net/es/</a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -2375,7 +2243,7 @@
   },
   "author": 310,
   "featured_media": 282,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2416,14 +2284,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/286/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 290,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/286/revisions/290"
       }
     ],
     "wp:featuredmedia": [
@@ -2474,7 +2336,7 @@
     "rendered": "15O"
   },
   "author": 310,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2580,12 +2442,12 @@
     "rendered": "cartelmani8octubre2011"
   },
   "author": 310,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://aravaca.tomalosbarrios.net/files/2011/10/cartelmani8octubre2011.jpg'><img width=\"300\" height=\"212\" src=\"https://aravaca.tomalosbarrios.net/files/2011/10/cartelmani8octubre2011-300x212.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://aravaca.tomalosbarrios.net/files/2011/10/cartelmani8octubre2011-300x212.jpg 300w, https://aravaca.tomalosbarrios.net/files/2011/10/cartelmani8octubre2011-1024x725.jpg 1024w, https://aravaca.tomalosbarrios.net/files/2011/10/cartelmani8octubre2011.jpg 1137w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://aravaca.tomalosbarrios.net/files/2011/10/cartelmani8octubre2011.jpg'><img width=\"300\" height=\"212\" src=\"https://aravaca.tomalosbarrios.net/files/2011/10/cartelmani8octubre2011-300x212.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://aravaca.tomalosbarrios.net/files/2011/10/cartelmani8octubre2011-300x212.jpg 300w, https://aravaca.tomalosbarrios.net/files/2011/10/cartelmani8octubre2011-1024x725.jpg 1024w, https://aravaca.tomalosbarrios.net/files/2011/10/cartelmani8octubre2011.jpg 1137w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2692,7 +2554,7 @@
     "rendered": "S\u00e1bado 8 de octubre, sesi\u00f3n doble"
   },
   "content": {
-    "rendered": "<p>Recordad todos que este s\u00e1bado 8 de octubre tenemos dos citas importantes:</p>\n<p>A las 12:00, Asamblea de Aravaca, en el cruce de Galaxia con Osa Mayor</p>\n<p>A las 18:00, manifestaci\u00f3n contra la privatizaci\u00f3n del Canal de Isabel II, saliendo de las oficinas del Canal en C/Santa Engracia, 125 (Metro R\u00edos Rosas). M\u00e1s informaci\u00f3n en <a href=\"http://www.plataformacontralaprivatizaciondelcyii.org/ManifiestoManifestacion8OCT.htm\">http://www.plataformacontralaprivatizaciondelcyii.org/ManifiestoManifestacion8OCT.htm</a></p>\n<p><a href=\"http://aravaca.tomalosbarrios.net/files/2011/10/cartelmani8octubre2011.jpg\"><img class=\"size-medium wp-image-273 aligncenter\" src=\"http://aravaca.tomalosbarrios.net/files/2011/10/cartelmani8octubre2011-300x212.jpg\" alt=\"\" width=\"300\" height=\"212\" srcset=\"https://aravaca.tomalosbarrios.net/files/2011/10/cartelmani8octubre2011-300x212.jpg 300w, https://aravaca.tomalosbarrios.net/files/2011/10/cartelmani8octubre2011-1024x725.jpg 1024w, https://aravaca.tomalosbarrios.net/files/2011/10/cartelmani8octubre2011.jpg 1137w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>&nbsp;</p>\n",
+    "rendered": "<p>Recordad todos que este s\u00e1bado 8 de octubre tenemos dos citas importantes:</p>\n<p>A las 12:00, Asamblea de Aravaca, en el cruce de Galaxia con Osa Mayor</p>\n<p>A las 18:00, manifestaci\u00f3n contra la privatizaci\u00f3n del Canal de Isabel II, saliendo de las oficinas del Canal en C/Santa Engracia, 125 (Metro R\u00edos Rosas). M\u00e1s informaci\u00f3n en <a href=\"http://www.plataformacontralaprivatizaciondelcyii.org/ManifiestoManifestacion8OCT.htm\">http://www.plataformacontralaprivatizaciondelcyii.org/ManifiestoManifestacion8OCT.htm</a></p>\n<p><a href=\"http://aravaca.tomalosbarrios.net/files/2011/10/cartelmani8octubre2011.jpg\"><img loading=\"lazy\" class=\"size-medium wp-image-273 aligncenter\" src=\"http://aravaca.tomalosbarrios.net/files/2011/10/cartelmani8octubre2011-300x212.jpg\" alt=\"\" width=\"300\" height=\"212\" srcset=\"https://aravaca.tomalosbarrios.net/files/2011/10/cartelmani8octubre2011-300x212.jpg 300w, https://aravaca.tomalosbarrios.net/files/2011/10/cartelmani8octubre2011-1024x725.jpg 1024w, https://aravaca.tomalosbarrios.net/files/2011/10/cartelmani8octubre2011.jpg 1137w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>&nbsp;</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -2701,7 +2563,7 @@
   },
   "author": 310,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2742,14 +2604,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/269/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 275,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/269/revisions/275"
       }
     ],
     "wp:attachment": [
@@ -2794,7 +2650,7 @@
     "rendered": "Acta Asamblea 24 septiembre 2011"
   },
   "content": {
-    "rendered": "<p align=\"CENTER\"><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\"><span style=\"text-decoration: underline\">Acta de la reuni\u00f3n de la Asamblea de Aravaca</span></span></span></p>\n<p><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">En Madrid, a 24 de septiembre de 2.011, a las 12,00 horas, en el cruce de Avda. de la Galaxia con calle Osa Mayor , se celebra la reuni\u00f3n de la Asamblea de Aravaca, con arreglo al siguiente orden del d\u00eda, fijado al principio de la reuni\u00f3n:</span></span></p>\n<ol>\n<li><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Informaci\u00f3n : Comisiones de trabajo- Fiestas de Aravaca y Pasacalles del pasado d\u00eda 10 por Aravaca</span></span></li>\n<li><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Acciones previstas: Canal de Isabel II- Biblioteca</span></span></li>\n<li><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Debates: Manifiesto de la Asamblea de Aravaca.</span></span></li>\n</ol>\n<p>&nbsp;</p>\n<p><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">1.\u00a0Informaci\u00f3n.- </span></span></p>\n<ol>\n<ol type=\"a\">\n<li><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Comisiones de trabajo.-</span></span></li>\n</ol>\n</ol>\n<p><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">&#8211; Global: No se ha reunido todav\u00eda. Se realizar\u00e1 una convocatoria con antelaci\u00f3n.</span></span></p>\n<p><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">&#8211; Local: Se reunir\u00e1 el d\u00eda 1 de octubre, a las 19,00 horas en Galaxia con Osa Mayor.</span></span></p>\n<p><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">&#8211; Organ/Comun.: Se reuni\u00f3 el d\u00eda 21/9 con 5 asistentes. Se prepar\u00f3 la asamblea y se analizaron varios temas.</span></span></p>\n<ol>\n<ol type=\"a\" start=\"2\">\n<li><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Fiestas de Aravaca.-</span></span></li>\n</ol>\n</ol>\n<p><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Se informa de las acciones realizadas por el colectivo 84. Hubo varios debates sobre Pol\u00edtica, Canal Isabel II y Pago por daci\u00f3n, con unos 15-20 asistentes por charla. Se comenta la buena organizaci\u00f3n, el inter\u00e9s de los temas y de los ponentes.</span></span></p>\n<ol>\n<ol type=\"a\" start=\"3\">\n<li><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Pasacalles reclamando la Biblioteca.</span></span></li>\n</ol>\n</ol>\n<p><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Participaron unas 40 personas, acompa\u00f1ados de 2 &#171;lecheras&#187; de la poli. Se llev\u00f3 megafon\u00eda y m\u00fasica, pero no se sum\u00f3 m\u00e1s gente al pasacalles.</span></span></p>\n<p>&nbsp;</p>\n<ol start=\"2\">\n<li><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Acciones previstas.-</span></span>\n<ol type=\"a\">\n<li><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\"><strong>Canal de Isabel II.- </strong></span></span></li>\n</ol>\n</li>\n</ol>\n<p><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Se propone obtener m\u00e1s informaci\u00f3n en la Plataforma contra la Privatizaci\u00f3n del Canal.</span></span></p>\n<p><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Se habla la posibilidad de enviar facturas ficticias con la subida prevista de precio que va a significar la privatizaci\u00f3n, de modo que se tome conciencia de la magnitud del problema.</span></span></p>\n<p><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Se propone y aprueba hacer una quedada todos los que puedan para hacer una </span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\"><strong>pegada importante de carteles</strong></span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">. Juan Ignacio se encarga de mirar la mejor posibilidad de hacer e imprimir los carteles para esa pegada.</span></span></p>\n<p><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Se invita a todos los simpatizantes de esta Asamblea a unirse a esta acci\u00f3n.</span></span></p>\n<ol>\n<ol type=\"a\" start=\"2\">\n<li><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\"><strong>Biblioteca</strong></span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">.- </span></span></li>\n</ol>\n</ol>\n<p><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Se informa que la As.Vecinos lleva tiempo trabajando el tema est\u00e1 preparando alguna acci\u00f3n. </span></span></p>\n<p><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Se acuerda vincularse a estas acciones y prepararlas con tiempo y forma para que tenga impacto en el barrio y en los medios de comunicaci\u00f3n.</span></span></p>\n<p><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">En relaci\u00f3n a este tema </span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">\u2013Biblioteca</span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\"><strong>&#8211; </strong></span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">en la \u00faltima Asamblea </span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">se propuso preparar una acci\u00f3n espec\u00edfica de Aravaca, dado que su construcci\u00f3n fue una promesa incumplida del concejal y se acord\u00f3 la participaci\u00f3n de la Comisi\u00f3n de Local en esta acci\u00f3n y su presentaci\u00f3n a una pr\u00f3xima Asamblea.</span></span></p>\n<p>&nbsp;</p>\n<ol start=\"3\">\n<li><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Debates.- </span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\"><strong>Manifiesto de la Asamblea de Aravaca</strong></span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">.</span></span></li>\n</ol>\n<p><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Se presenta y se debate este manifiesto. Recomendamos su lectura y la aportaci\u00f3n de ideas. </span></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Se acuerda que la </span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\"><strong>pr\u00f3xima Asamblea</strong></span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\"> se celebre el pr\u00f3ximo s\u00e1bado </span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\"><strong>8 de octubre</strong></span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">, a las </span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\"><strong>12</strong></span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\"> h. en el cruce de </span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\"><strong>Galaxia con Osa Mayor</strong></span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\"> y que todos hagamos un esfuerzo especial de </span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\"><span style=\"text-decoration: underline\"><strong>difundir esta convocatoria</strong></span></span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\"> imprimiendo los carteles que pueden encontrarse en googlegroups y coloc\u00e1ndolos por el barrio. \u00a1 Hay que lograr una mayor asistencia !</span></span></p>\n",
+    "rendered": "<p align=\"CENTER\"><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\"><span style=\"text-decoration: underline\">Acta de la reuni\u00f3n de la Asamblea de Aravaca</span></span></span></p>\n<p><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">En Madrid, a 24 de septiembre de 2.011, a las 12,00 horas, en el cruce de Avda. de la Galaxia con calle Osa Mayor , se celebra la reuni\u00f3n de la Asamblea de Aravaca, con arreglo al siguiente orden del d\u00eda, fijado al principio de la reuni\u00f3n:</span></span></p>\n<ol>\n<li><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Informaci\u00f3n : Comisiones de trabajo- Fiestas de Aravaca y Pasacalles del pasado d\u00eda 10 por Aravaca</span></span></li>\n<li><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Acciones previstas: Canal de Isabel II- Biblioteca</span></span></li>\n<li><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Debates: Manifiesto de la Asamblea de Aravaca.</span></span></li>\n</ol>\n<p>&nbsp;</p>\n<p><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">1.\u00a0Informaci\u00f3n.- </span></span></p>\n<ol>\n<ol type=\"a\">\n<li><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Comisiones de trabajo.-</span></span></li>\n</ol>\n</ol>\n<p><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">&#8211; Global: No se ha reunido todav\u00eda. Se realizar\u00e1 una convocatoria con antelaci\u00f3n.</span></span></p>\n<p><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">&#8211; Local: Se reunir\u00e1 el d\u00eda 1 de octubre, a las 19,00 horas en Galaxia con Osa Mayor.</span></span></p>\n<p><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">&#8211; Organ/Comun.: Se reuni\u00f3 el d\u00eda 21/9 con 5 asistentes. Se prepar\u00f3 la asamblea y se analizaron varios temas.</span></span></p>\n<ol>\n<ol type=\"a\" start=\"2\">\n<li><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Fiestas de Aravaca.-</span></span></li>\n</ol>\n</ol>\n<p><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Se informa de las acciones realizadas por el colectivo 84. Hubo varios debates sobre Pol\u00edtica, Canal Isabel II y Pago por daci\u00f3n, con unos 15-20 asistentes por charla. Se comenta la buena organizaci\u00f3n, el inter\u00e9s de los temas y de los ponentes.</span></span></p>\n<ol>\n<ol type=\"a\" start=\"3\">\n<li><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Pasacalles reclamando la Biblioteca.</span></span></li>\n</ol>\n</ol>\n<p><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Participaron unas 40 personas, acompa\u00f1ados de 2 \u00ablecheras\u00bb de la poli. Se llev\u00f3 megafon\u00eda y m\u00fasica, pero no se sum\u00f3 m\u00e1s gente al pasacalles.</span></span></p>\n<p>&nbsp;</p>\n<ol start=\"2\">\n<li><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Acciones previstas.-</span></span>\n<ol type=\"a\">\n<li><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\"><strong>Canal de Isabel II.- </strong></span></span></li>\n</ol>\n</li>\n</ol>\n<p><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Se propone obtener m\u00e1s informaci\u00f3n en la Plataforma contra la Privatizaci\u00f3n del Canal.</span></span></p>\n<p><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Se habla la posibilidad de enviar facturas ficticias con la subida prevista de precio que va a significar la privatizaci\u00f3n, de modo que se tome conciencia de la magnitud del problema.</span></span></p>\n<p><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Se propone y aprueba hacer una quedada todos los que puedan para hacer una </span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\"><strong>pegada importante de carteles</strong></span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">. Juan Ignacio se encarga de mirar la mejor posibilidad de hacer e imprimir los carteles para esa pegada.</span></span></p>\n<p><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Se invita a todos los simpatizantes de esta Asamblea a unirse a esta acci\u00f3n.</span></span></p>\n<ol>\n<ol type=\"a\" start=\"2\">\n<li><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\"><strong>Biblioteca</strong></span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">.- </span></span></li>\n</ol>\n</ol>\n<p><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Se informa que la As.Vecinos lleva tiempo trabajando el tema est\u00e1 preparando alguna acci\u00f3n. </span></span></p>\n<p><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Se acuerda vincularse a estas acciones y prepararlas con tiempo y forma para que tenga impacto en el barrio y en los medios de comunicaci\u00f3n.</span></span></p>\n<p><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">En relaci\u00f3n a este tema </span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">\u2013Biblioteca</span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\"><strong>&#8211; </strong></span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">en la \u00faltima Asamblea </span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">se propuso preparar una acci\u00f3n espec\u00edfica de Aravaca, dado que su construcci\u00f3n fue una promesa incumplida del concejal y se acord\u00f3 la participaci\u00f3n de la Comisi\u00f3n de Local en esta acci\u00f3n y su presentaci\u00f3n a una pr\u00f3xima Asamblea.</span></span></p>\n<p>&nbsp;</p>\n<ol start=\"3\">\n<li><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Debates.- </span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\"><strong>Manifiesto de la Asamblea de Aravaca</strong></span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">.</span></span></li>\n</ol>\n<p><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Se presenta y se debate este manifiesto. Recomendamos su lectura y la aportaci\u00f3n de ideas. </span></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">Se acuerda que la </span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\"><strong>pr\u00f3xima Asamblea</strong></span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\"> se celebre el pr\u00f3ximo s\u00e1bado </span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\"><strong>8 de octubre</strong></span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\">, a las </span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\"><strong>12</strong></span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\"> h. en el cruce de </span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\"><strong>Galaxia con Osa Mayor</strong></span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\"> y que todos hagamos un esfuerzo especial de </span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\"><span style=\"text-decoration: underline\"><strong>difundir esta convocatoria</strong></span></span></span><span style=\"font-family: Times New Roman,serif\"><span style=\"font-size: small\"> imprimiendo los carteles que pueden encontrarse en googlegroups y coloc\u00e1ndolos por el barrio. \u00a1 Hay que lograr una mayor asistencia !</span></span></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -2805,7 +2661,7 @@
   "featured_media": 0,
   "parent": 2,
   "menu_order": 952,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -2839,14 +2695,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/265/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 278,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/265/revisions/278"
       }
     ],
     "up": [
@@ -2896,7 +2746,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2930,14 +2780,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/255/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 258,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/255/revisions/258"
       }
     ],
     "wp:attachment": [
@@ -2970,7 +2814,7 @@
     "rendered": "Asamblea 24 Septiembre"
   },
   "content": {
-    "rendered": "<p><a href=\"http://aravaca.tomalosbarrios.net/files/2011/09/Cartel2.gif\"><img class=\"size-medium wp-image-242 aligncenter\" src=\"http://aravaca.tomalosbarrios.net/files/2011/09/Cartel2-212x300.gif\" alt=\"\" width=\"212\" height=\"300\" srcset=\"https://aravaca.tomalosbarrios.net/files/2011/09/Cartel2-212x300.gif 212w, https://aravaca.tomalosbarrios.net/files/2011/09/Cartel2-723x1024.gif 723w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n",
+    "rendered": "<p><a href=\"http://aravaca.tomalosbarrios.net/files/2011/09/Cartel2.gif\"><img loading=\"lazy\" class=\"size-medium wp-image-242 aligncenter\" src=\"http://aravaca.tomalosbarrios.net/files/2011/09/Cartel2-212x300.gif\" alt=\"\" width=\"212\" height=\"300\" srcset=\"https://aravaca.tomalosbarrios.net/files/2011/09/Cartel2-212x300.gif 212w, https://aravaca.tomalosbarrios.net/files/2011/09/Cartel2-723x1024.gif 723w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -2979,7 +2823,7 @@
   },
   "author": 310,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3020,14 +2864,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/243/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 248,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/243/revisions/248"
       }
     ],
     "wp:attachment": [
@@ -3072,12 +2910,12 @@
     "rendered": "Cartel2"
   },
   "author": 310,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://aravaca.tomalosbarrios.net/files/2011/09/Cartel2.gif'><img width=\"212\" height=\"300\" src=\"https://aravaca.tomalosbarrios.net/files/2011/09/Cartel2-212x300.gif\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://aravaca.tomalosbarrios.net/files/2011/09/Cartel2-212x300.gif 212w, https://aravaca.tomalosbarrios.net/files/2011/09/Cartel2-723x1024.gif 723w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://aravaca.tomalosbarrios.net/files/2011/09/Cartel2.gif'><img width=\"212\" height=\"300\" src=\"https://aravaca.tomalosbarrios.net/files/2011/09/Cartel2-212x300.gif\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://aravaca.tomalosbarrios.net/files/2011/09/Cartel2-212x300.gif 212w, https://aravaca.tomalosbarrios.net/files/2011/09/Cartel2-723x1024.gif 723w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3195,7 +3033,7 @@
   "featured_media": 0,
   "parent": 2,
   "menu_order": 955,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -3229,14 +3067,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/234/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 508,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/234/revisions/508"
       }
     ],
     "up": [
@@ -3284,7 +3116,7 @@
   },
   "author": 310,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3371,7 +3203,7 @@
     "rendered": "CartelFondoBlanco"
   },
   "author": 310,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3592,7 +3424,7 @@
   },
   "author": 310,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3633,14 +3465,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/164/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 167,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/164/revisions/167"
       }
     ],
     "wp:attachment": [
@@ -3696,7 +3522,7 @@
   "featured_media": 0,
   "parent": 2,
   "menu_order": 960,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -3730,14 +3556,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/160/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 507,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/160/revisions/507"
       }
     ],
     "up": [
@@ -3787,7 +3607,7 @@
   "featured_media": 0,
   "parent": 2,
   "menu_order": 980,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -3821,14 +3641,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/155/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 504,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/155/revisions/504"
       }
     ],
     "up": [
@@ -3878,7 +3692,7 @@
   "featured_media": 0,
   "parent": 2,
   "menu_order": 970,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -3912,14 +3726,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/149/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 506,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/149/revisions/506"
       }
     ],
     "up": [
@@ -3967,7 +3775,7 @@
   },
   "author": 310,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4054,7 +3862,7 @@
     "rendered": "Contacto"
   },
   "content": {
-    "rendered": "<p>Puedes ponerte en contacto con la Asamblea Popular de Aravaca mediante los siguientes medios:</p>\n<p><span style=\"text-decoration: underline\"><strong>Correo electr\u00f3nico</strong></span></p>\n<p><span style=\"color: #0000ff\"><span style=\"text-decoration: underline\"><a href=\"mailto:aravacatomalaplaza@gmail.com\">aravacatomalaplaza@gmail.com</a></span></span></p>\n<p><span style=\"color: #0000ff\"><span style=\"text-decoration: underline\"><a href=\"mailto:asambleaaravaca.tomalosbarrios@gmail.com\">asambleaaravaca.tomalosbarrios@gmail.com</a></span></span></p>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline\"><strong>Redes sociales</strong></span></p>\n<p><a href=\"http://www.facebook.com/democraciarealya#%21/pages/Asamblea-popular-de-Aravaca/168831179842952\">http://www.facebook.com/democraciarealya#!/pages/Asamblea-popular-de-Aravaca/168831179842952</a></p>\n<p><a href=\"https://n-1.cc/pg/groups/308955/asamblea-popular-de-aravaca/\">https://n-1.cc/pg/groups/308955/asamblea-popular-de-aravaca/</a></p>\n<p>(n-1.cc es la red social del movimiento 15M, sugerimos a todas las personas interesadas que creen un usuario en esta red, o que consulten sus contenidos)</p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: medium\"><span style=\"text-decoration: underline\"><strong>Listas de correo</strong></span></span></p>\n<p>Las listas de correo son un m\u00e9todo de comunicaci\u00f3n para las personas que forman parte del grupo. Los correos enviados a la lista son reenviados a todas las direcciones de correo que figuren en la lista.</p>\n<p>Actualmente disponemos de una lista de correos para temas generales y otra espec\u00edfica de la Comisi\u00f3n de Comunicaci\u00f3n y Organizaci\u00f3n.</p>\n<p>Importante: No se puede consultar o escribir un correo a las listas si no se est\u00e1 apuntado previamente. Para apuntarte, escribe un correo a una de las direcciones de contacto indicando la lista a la que deseas suscribirte.</p>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline\"><strong>Contacto</strong></span></p>\n<p>[contact-form-7 id=&#187;312&#8243; title=&#187;Formulario&#187;]</p>\n",
+    "rendered": "<p>Puedes ponerte en contacto con la Asamblea Popular de Aravaca mediante los siguientes medios:</p>\n<p><span style=\"text-decoration: underline\"><strong>Correo electr\u00f3nico</strong></span></p>\n<p><span style=\"color: #0000ff\"><span style=\"text-decoration: underline\"><a href=\"mailto:aravacatomalaplaza@gmail.com\">aravacatomalaplaza@gmail.com</a></span></span></p>\n<p><span style=\"color: #0000ff\"><span style=\"text-decoration: underline\"><a href=\"mailto:asambleaaravaca.tomalosbarrios@gmail.com\">asambleaaravaca.tomalosbarrios@gmail.com</a></span></span></p>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline\"><strong>Redes sociales</strong></span></p>\n<p><a href=\"http://www.facebook.com/democraciarealya#%21/pages/Asamblea-popular-de-Aravaca/168831179842952\">http://www.facebook.com/democraciarealya#!/pages/Asamblea-popular-de-Aravaca/168831179842952</a></p>\n<p><a href=\"https://n-1.cc/pg/groups/308955/asamblea-popular-de-aravaca/\">https://n-1.cc/pg/groups/308955/asamblea-popular-de-aravaca/</a></p>\n<p>(n-1.cc es la red social del movimiento 15M, sugerimos a todas las personas interesadas que creen un usuario en esta red, o que consulten sus contenidos)</p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: medium\"><span style=\"text-decoration: underline\"><strong>Listas de correo</strong></span></span></p>\n<p>Las listas de correo son un m\u00e9todo de comunicaci\u00f3n para las personas que forman parte del grupo. Los correos enviados a la lista son reenviados a todas las direcciones de correo que figuren en la lista.</p>\n<p>Actualmente disponemos de una lista de correos para temas generales y otra espec\u00edfica de la Comisi\u00f3n de Comunicaci\u00f3n y Organizaci\u00f3n.</p>\n<p>Importante: No se puede consultar o escribir un correo a las listas si no se est\u00e1 apuntado previamente. Para apuntarte, escribe un correo a una de las direcciones de contacto indicando la lista a la que deseas suscribirte.</p>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline\"><strong>Contacto</strong></span></p>\n<p>[contact-form-7 id=\u00bb312&#8243; title=\u00bbFormulario\u00bb]</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -4065,7 +3873,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 6,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -4099,14 +3907,8 @@
     ],
     "version-history": [
       {
-        "count": 8,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/138/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 314,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/138/revisions/314"
       }
     ],
     "wp:attachment": [
@@ -4148,7 +3950,7 @@
   },
   "author": 310,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4189,14 +3991,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/127/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 145,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/127/revisions/145"
       }
     ],
     "wp:attachment": [
@@ -4252,7 +4048,7 @@
   "featured_media": 0,
   "parent": 2,
   "menu_order": 975,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -4286,14 +4082,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/125/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 505,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/125/revisions/505"
       }
     ],
     "up": [
@@ -4341,7 +4131,7 @@
   },
   "author": 310,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4382,14 +4172,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/121/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 123,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/121/revisions/123"
       }
     ],
     "wp:attachment": [
@@ -4445,7 +4229,7 @@
   "featured_media": 0,
   "parent": 88,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -4479,14 +4263,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/117/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 397,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/117/revisions/397"
       }
     ],
     "up": [
@@ -4525,7 +4303,7 @@
     "rendered": "\u00a1NO M\u00c1S ATROPELLOS!"
   },
   "content": {
-    "rendered": "<p><strong>\u00a1NO M\u00c1S ATROPELLOS!</strong></p>\n<p>Propuesta de</p>\n<p><strong>AXIOMAS DE PARTICIPACI\u00d3N </strong></p>\n<p><strong>a respetar por gobiernos democr\u00e1ticos</strong></p>\n<p>Jos\u00e9 Manuel Naredo y Tom\u00e1s R. Villasante</p>\n<p>&#8212;o0o&#8212;</p>\n<p><strong>Introducci\u00f3n</strong></p>\n<p><em>Cuando se le pregunta al 15-M que cu\u00e1les son sus propuestas, creemos que su principal y primera propuesta deber\u00eda de ser exigir &#171;buenas pr\u00e1cticas pol\u00edticas&#187;\u00a0a todos\u00a0los gobiernos, para evitar que se sigan produciendo los habituales atropellos a la ciudadan\u00eda que se ejemplifican m\u00e1s abajo. La siguiente propuesta de axiomas de participaci\u00f3n, en los que deber\u00eda apoyarse la <strong>democracia real</strong> que defendemos, enuncia esas \u201cbuenas pr\u00e1cticas pol\u00edticas\u201d.</em></p>\n<p><em>\u00a0</em></p>\n<p><em>Nuestra idea es circular y enviar esta propuesta para que, tras ser discutida, corregida, y enriquecida en las asambleas, pueda ser asumida por el movimiento con vistas a la movilizaci\u00f3n de julio. Se podr\u00eda as\u00ed contar con la propuesta positiva, realista y contundente, de exigir unas &#171;buenas pr\u00e1cticas pol\u00edticas\u201d que permitan sacar los colores a quienes las sigan ignorando. Estas pr\u00e1cticas tienen adem\u00e1s la virtud de situarse por encima de partidos y siglas pol\u00edticas y de suscitar la aceptaci\u00f3n de cualquier persona que no se vea condicionada por intereses mezquinos e inconfesables. Contribuir\u00edan, adem\u00e1s, a reforzar y unir el movimiento con acuerdos que se sit\u00faen por encima de las posibles divergencias que puedan surgir en el tratamiento de las distintas \u00e1reas tem\u00e1ticas.</em></p>\n<p>&#8212;o0o&#8212;</p>\n<p><strong><span style=\"text-decoration: underline\">Axioma 1\u00ba</span></strong>. Un gobierno democr\u00e1tico no puede tomar decisiones que afecten a la mayor\u00eda de la poblaci\u00f3n sin consultar previamente a dicha poblaci\u00f3n mediante refer\u00e9ndum inequ\u00edvocamente planteado y debidamente informado. El cumplimento de este axioma exigir\u00eda facilitar la convocatoria de refer\u00e9ndum, a escala nacional, auton\u00f3mica, local, e incluso de barrio o distrito, cuando la importancia del tema lo requiera y/o la poblaci\u00f3n lo solicite, como es habitual en otros pa\u00edses con m\u00e1s tradici\u00f3n democr\u00e1tica.</p>\n<p><strong><em><span style=\"text-decoration: underline\">Ejemplos de actualidad</span></em></strong><strong></strong></p>\n<p>&#8211; <em><span style=\"text-decoration: underline\">A escala nacional</span></em>: No cabe ampliar la edad de jubilaci\u00f3n, o los a\u00f1os de cotizaci\u00f3n, sin haber consultado previamente con la poblaci\u00f3n las posibles opciones para financiar la Seguridad Social.</p>\n<p>&#8211; <em><span style=\"text-decoration: underline\">A escala auton\u00f3mica</span></em>:<em> </em>No cabe privatizar el\u00a0 Canal de Isabel II sin discutir las razones, ni consultar mediante refer\u00e9ndum una decisi\u00f3n de este porte.</p>\n<p>&#8211; <em><span style=\"text-decoration: underline\">A escala municipal</span></em>: No cabe hacer megaproyectos que alteren significativamente la est\u00e9tica de la ciudad y el bolsillo de sus habitantes, sin haber consultado previamente con ellos sus prioridades y sus preferencias.</p>\n<p>&#8211; <em><span style=\"text-decoration: underline\">A escala de barrio</span></em>: No cabe convertir un parque p\u00fablico en un golf privado o \u201cremodelar\u201d una plaza sin que los vecinos directamente afectados participen tomando y orientando la decisi\u00f3n.</p>\n<p><strong><span style=\"text-decoration: underline\">Axioma 2\u00ba</span></strong>. Un gobierno democr\u00e1tico no puede tomar decisiones que afecten a la mayor\u00eda de la poblaci\u00f3n hurtando el preceptivo debate en los propios \u00f3rganos deliberativos del Estado (parlamentos estatales, auton\u00f3micos, plenarios municipales,\u2026) \u00a0a base de negociar y pactar con los partidos pol\u00edticos, a espaldas de c\u00e1maras o plenos, decisiones que luego se someten a simple aprobaci\u00f3n por la mayor\u00eda previamente pactada. Estos pactos extraparlamentarios han pervertido el funcionamiento democr\u00e1tico de nuestras instituciones, al convertir muchos de los posibles debates en plenos y en parlamentos en meros simulacros sin valor pr\u00e1ctico alguno, porque el resultado ven\u00eda consensuado de antemano. Por eso, para desactivar estas pr\u00e1cticas de consenso oscuro y elitista, cabe pasar a los Axiomas 3\u00ba y 4\u00ba\u00a0 que resultan prioritarios.</p>\n<p><strong><em><span style=\"text-decoration: underline\">Ejemplos de actualidad</span></em></strong><strong><em></em></strong></p>\n<p><strong><em>\u00a0</em></strong></p>\n<p><em>&#8211;<span style=\"text-decoration: underline\">A escala nacional</span>: No cabe acordar en sigilo, como lamentablemente se hizo, entre el PSOE y el PP la ley que abri\u00f3 la puerta a privatizaci\u00f3n de las cajas de ahorros hurtando, tanto el preceptivo debate parlamentario, como la consulta previa\u00a0 mediante referendum que deber\u00eda haber requerido una decisi\u00f3n tan importante.</em></p>\n<p><em><span style=\"text-decoration: underline\">-A escala auton\u00f3mica</span></em><span style=\"text-decoration: underline\"> y local</span>: <em>Un ejemplo paradigm\u00e1tico de despotismo local y regional fue la ingenier\u00eda del consenso elitista tan h\u00e1bilmente manejada por Florentino P\u00e9rez, para sacar adelante, ahogando la discusi\u00f3n en c\u00e1maras y plenos, con el acuerdo previo de todos los grupos pol\u00edticos, incluida IU, el doble pelotazo de recalificaci\u00f3n de terrenos y megaproyectos de la antigua y la nueva ciudad deportiva del Real Madrid. </em></p>\n<p><span style=\"text-decoration: underline\">\u00a0</span></p>\n<p><strong><span style=\"text-decoration: underline\">Axioma 3\u00ba</span></strong><strong>. </strong>Para que hacer viables los axiomas 1 y 2, un gobierno democr\u00e1tico no puede precipitar decisiones que afectan a la mayor\u00eda de la poblaci\u00f3n sin haber estudiado previamente todas las posibles opciones, informado con transparencia y facilitado que la ciudadan\u00eda debidamente informada participe en las diversas instancias (mediante refer\u00e9ndum, en parlamentos, en plenos municipales, etc.) en la decisi\u00f3n del plan de acci\u00f3n que estime m\u00e1s pertinente. Pues adem\u00e1s de los partidos y de los jueces, la democracia debe incorporar Comisiones o Grupos orientados a promover trabajos de Planificaci\u00f3n Participativa, que ayuden a elaborar y priorizar propuestas a los distintos \u00e1mbitos de participaci\u00f3n, incluyendo las Asambleas al nivel m\u00e1s descentralizado, en barrios o pueblos (la experiencia de los Presupuestos Participativos indica c\u00f3mo se pueden regular y hacer viables estas pr\u00e1cticas).</p>\n<p><strong><em><span style=\"text-decoration: underline\">Ejemplos de actualidad</span></em></strong><strong>:</strong></p>\n<p><strong>\u00a0</strong></p>\n<p><strong>&#8211; </strong><em><span style=\"text-decoration: underline\">A escala nacional</span></em>: Un gobierno no debe acordar ayudas a la banca en compra de activos (por el 5 % del PIB) y en avales (por el 10 %) del PIB, sin haber estudiado previamente los problemas que tiene la banca y sus posibles tratamientos, ni trazado planes a discutir y consensuar con transparencia en todas las instancias de participaci\u00f3n (incluido el refer\u00e9ndum, cuando la decisi\u00f3n afecte a la mayor\u00eda de la poblaci\u00f3n y/o condicione el futuro del pa\u00eds, la regi\u00f3n o el municipio, o el de sectores econ\u00f3micos o sociales importantes).\u00a0 Un gobierno no debe endeudar al pa\u00eds (ampliando el d\u00e9ficit presupuestario y emitiendo deuda p\u00fablica), ni gastar sus dineros alegremente (como ocurri\u00f3 al principio de la segunda legislatura de Zapatero) sin debatir tan graves decisiones (en parlamentos y/o plenos municipales), ni someterlas a refer\u00e9ndum.</p>\n<p>&#8211; <em><span style=\"text-decoration: underline\">A escala auton\u00f3mica y municipal</span></em>: No cabe anteponer megaproyectos llave en mano de olimpiadas, o de \u201coperaciones\u201d inmobiliarias y/o de infraestructuras o de demolici\u00f3n-construcci\u00f3n de barrios enteros (recordemos El Cabanyal), sin haber planteado, ni discutido planes de futuro m\u00e1s amplios, con diversos escenarios, que permitan la participaci\u00f3n ciudadana en la toma de decisiones a todos los niveles implicados.</p>\n<p><strong><span style=\"text-decoration: underline\">Axioma 4\u00ba</span></strong><strong>. </strong>Un gobierno democr\u00e1tico tiene que incentivar y acoger con el m\u00e1ximo inter\u00e9s y apoyo institucional las leyes y/o propuestas surgidas por iniciativa popular.</p>\n<p>Hay que advertir que los refer\u00e9ndum fruto de Iniciativas Legislativas Populares o de amplios movimientos sociales, de abajo a arriba, plantean las preguntas que se han debatido entre la gente. Mientas que los refer\u00e9ndum que se plantean desde gobiernos suelen albergar preguntas con truco para conseguir que salga lo que se quiere desde el poder (para eso recurren a estudios previos de opini\u00f3n). De ah\u00ed que corresponde a los movimientos sociales de base denunciar esos trucos para corregirlos y/o desactivarlos. Con esta distinci\u00f3n este axioma deber\u00eda ser prioritario, porque la axiom\u00e1tica de la participaci\u00f3n propuesta deber\u00eda partir de la voluntad e iniciativa de la gente como base de la democracia, pero conviene aclarar que el orden en el que se presentan los axiomas no presupone ninguna jerarqu\u00eda de importancia ya que, en el fondo, todos est\u00e1n relacionados y se apoyan unos y otros.</p>\n<p><strong>&#8211; <em><span style=\"text-decoration: underline\">Ejemplos de actualidad</span></em>: </strong>En estos meses se ha presentado una iniciativa legislativa popular para frenar la oleada de desahucios que esta provocando la banca y el desempleo, haciendo la propuesta de que sea suficiente la \u201cdaci\u00f3n\u201d de la vivienda y no tener que seguir pagando al banco toda la cantidad adeudada, cuando el banco ya se queda con la casa. Pero a pesar de mostrarse de acuerdo altos dignatarios del PP-PSOE, est\u00e1 propuesta no se someter\u00e1 a referendum sino que tras breve debate seguramente se le dar\u00e1 carpetazo por el bipartidismo obediente a los bancos.</p>\n<p><strong><span style=\"text-decoration: underline\">\u00a0</span></strong></p>\n<p><strong><span style=\"text-decoration: underline\">Axioma 5\u00ba</span></strong><strong>. </strong>Un gobierno democr\u00e1tico no solo tiene que incentivar el buen funcionamiento de los instrumentos de participaci\u00f3n y deliberaci\u00f3n actualmente existentes (Axioma 2\u00aa), sino que adem\u00e1s tiene que apoyar con medios la extensi\u00f3n de estos instrumentos por todo el cuerpo social a fin de cubrir el actual d\u00e9ficit de participaci\u00f3n e implicaci\u00f3n de la ciudadan\u00eda en la decisi\u00f3n, el control y la gesti\u00f3n de lo p\u00fablico.</p>\n<p><strong>&#8211; <em><span style=\"text-decoration: underline\">Ejemplos de actualidad</span></em>: </strong>El movimiento del 15-M es una buena prueba de lo que puede ser la iniciativa desde la base, que ha escapado a posibilidad de ser manejado o de servir a siglas o a dirigentes. Y, al proyectarse en las asambleas de barrios y pueblos, deber\u00eda ser saludado como una aut\u00e9ntica profundizaci\u00f3n democr\u00e1tica, como por otra\u00a0 parte parece que dicen las encuestas, aunque no lo sea por el bi-partidismo reinante, temeroso de perder el monopolio del poder que acostumbra a ejercer en connivencia con las elites empresariales.</p>\n<p>Aunque el orden de presentaci\u00f3n de los Axiomas va desde poder a la base, las iniciativas m\u00e1s cre\u00edbles e interesantes van desde la base hasta el poder. Lo hemos comentado en relaci\u00f3n con la convocatoria de posibles referendum. Para el movimiento surgido en el 15-M deber\u00edamos proponer ya que se lance la reclamaci\u00f3n de alg\u00fan refer\u00e9ndum concreto, como acaba de pasar en Italia o en Islandia. Por ejemplo, sobre el tema de los desahucios y la \u201cdaci\u00f3n en pago\u201d, sobre lo que hay mucho consenso, sobre el pacto del Euro,\u2026o, en el caso de la Comunidad de Madrid, sobre el empe\u00f1o del gobierno de privatizar el Canal de Isabel II.</p>\n<p><strong><span style=\"text-decoration: underline\">Corolario</span></strong>: Si, como ha venido siendo habitual, el gobierno decide y act\u00faa sin tener en cuenta a la ciudadan\u00eda, evita el debate en los propios \u00f3rganos deliberativos del Estado a trav\u00e9s de oscuras componendas extraparlamentarias u otros ardides y no incentiva, sino que castiga, las iniciativas ciudadanas de participaci\u00f3n, control y legislaci\u00f3n, ese gobierno no debe llamarse democr\u00e1tico, sino desp\u00f3tico o autocr\u00e1tico, por mucho que fuera votado en su d\u00eda por una minor\u00eda suficiente del censo electoral.</p>\n<p><strong><em>&#8211;<span style=\"text-decoration: underline\">Ejemplo a peque\u00f1a escala</span></em></strong>: En un pueblo de la sierra de Madrid el PP sac\u00f3 295 votos (obteniendo la mayor\u00eda absoluta), el PSOE 188, Zaide 83, Iu \u00a044 (la oposici\u00f3n suma 315), y los Nulos 40, en Blanco 21, y Abstenciones 287 (suman 348). Es decir, que con menos de un tercio de los votos posibles la Ley Electoral le confiere a un partido el gobierno, y este se puede permitir no consultar a la poblaci\u00f3n (que mayoritariamente\u00a0 no le apoya) en los siguientes cuatro a\u00f1os.</p>\n<p>A la luz de lo anterior, cabe concluir que los votos no facultan a los gobernantes a comportarse de modo desp\u00f3tico, ignorar e incluso castigar a la ciudadan\u00eda, hurt\u00e1ndole derechos y dineros con medidas y megaproyectos que no hab\u00edan sido ni siquiera explicitados en las campa\u00f1as, como lamentablemente ha venido ocurriendo, haciendo alarde de malas pr\u00e1cticas que el presente texto trata de denunciar y corregir.</p>\n",
+    "rendered": "<p><strong>\u00a1NO M\u00c1S ATROPELLOS!</strong></p>\n<p>Propuesta de</p>\n<p><strong>AXIOMAS DE PARTICIPACI\u00d3N </strong></p>\n<p><strong>a respetar por gobiernos democr\u00e1ticos</strong></p>\n<p>Jos\u00e9 Manuel Naredo y Tom\u00e1s R. Villasante</p>\n<p>&#8212;o0o&#8212;</p>\n<p><strong>Introducci\u00f3n</strong></p>\n<p><em>Cuando se le pregunta al 15-M que cu\u00e1les son sus propuestas, creemos que su principal y primera propuesta deber\u00eda de ser exigir \u00abbuenas pr\u00e1cticas pol\u00edticas\u00bb\u00a0a todos\u00a0los gobiernos, para evitar que se sigan produciendo los habituales atropellos a la ciudadan\u00eda que se ejemplifican m\u00e1s abajo. La siguiente propuesta de axiomas de participaci\u00f3n, en los que deber\u00eda apoyarse la <strong>democracia real</strong> que defendemos, enuncia esas \u201cbuenas pr\u00e1cticas pol\u00edticas\u201d.</em></p>\n<p><em>\u00a0</em></p>\n<p><em>Nuestra idea es circular y enviar esta propuesta para que, tras ser discutida, corregida, y enriquecida en las asambleas, pueda ser asumida por el movimiento con vistas a la movilizaci\u00f3n de julio. Se podr\u00eda as\u00ed contar con la propuesta positiva, realista y contundente, de exigir unas \u00abbuenas pr\u00e1cticas pol\u00edticas\u201d que permitan sacar los colores a quienes las sigan ignorando. Estas pr\u00e1cticas tienen adem\u00e1s la virtud de situarse por encima de partidos y siglas pol\u00edticas y de suscitar la aceptaci\u00f3n de cualquier persona que no se vea condicionada por intereses mezquinos e inconfesables. Contribuir\u00edan, adem\u00e1s, a reforzar y unir el movimiento con acuerdos que se sit\u00faen por encima de las posibles divergencias que puedan surgir en el tratamiento de las distintas \u00e1reas tem\u00e1ticas.</em></p>\n<p>&#8212;o0o&#8212;</p>\n<p><strong><span style=\"text-decoration: underline\">Axioma 1\u00ba</span></strong>. Un gobierno democr\u00e1tico no puede tomar decisiones que afecten a la mayor\u00eda de la poblaci\u00f3n sin consultar previamente a dicha poblaci\u00f3n mediante refer\u00e9ndum inequ\u00edvocamente planteado y debidamente informado. El cumplimento de este axioma exigir\u00eda facilitar la convocatoria de refer\u00e9ndum, a escala nacional, auton\u00f3mica, local, e incluso de barrio o distrito, cuando la importancia del tema lo requiera y/o la poblaci\u00f3n lo solicite, como es habitual en otros pa\u00edses con m\u00e1s tradici\u00f3n democr\u00e1tica.</p>\n<p><strong><em><span style=\"text-decoration: underline\">Ejemplos de actualidad</span></em></strong><strong></strong></p>\n<p>&#8211; <em><span style=\"text-decoration: underline\">A escala nacional</span></em>: No cabe ampliar la edad de jubilaci\u00f3n, o los a\u00f1os de cotizaci\u00f3n, sin haber consultado previamente con la poblaci\u00f3n las posibles opciones para financiar la Seguridad Social.</p>\n<p>&#8211; <em><span style=\"text-decoration: underline\">A escala auton\u00f3mica</span></em>:<em> </em>No cabe privatizar el\u00a0 Canal de Isabel II sin discutir las razones, ni consultar mediante refer\u00e9ndum una decisi\u00f3n de este porte.</p>\n<p>&#8211; <em><span style=\"text-decoration: underline\">A escala municipal</span></em>: No cabe hacer megaproyectos que alteren significativamente la est\u00e9tica de la ciudad y el bolsillo de sus habitantes, sin haber consultado previamente con ellos sus prioridades y sus preferencias.</p>\n<p>&#8211; <em><span style=\"text-decoration: underline\">A escala de barrio</span></em>: No cabe convertir un parque p\u00fablico en un golf privado o \u201cremodelar\u201d una plaza sin que los vecinos directamente afectados participen tomando y orientando la decisi\u00f3n.</p>\n<p><strong><span style=\"text-decoration: underline\">Axioma 2\u00ba</span></strong>. Un gobierno democr\u00e1tico no puede tomar decisiones que afecten a la mayor\u00eda de la poblaci\u00f3n hurtando el preceptivo debate en los propios \u00f3rganos deliberativos del Estado (parlamentos estatales, auton\u00f3micos, plenarios municipales,\u2026) \u00a0a base de negociar y pactar con los partidos pol\u00edticos, a espaldas de c\u00e1maras o plenos, decisiones que luego se someten a simple aprobaci\u00f3n por la mayor\u00eda previamente pactada. Estos pactos extraparlamentarios han pervertido el funcionamiento democr\u00e1tico de nuestras instituciones, al convertir muchos de los posibles debates en plenos y en parlamentos en meros simulacros sin valor pr\u00e1ctico alguno, porque el resultado ven\u00eda consensuado de antemano. Por eso, para desactivar estas pr\u00e1cticas de consenso oscuro y elitista, cabe pasar a los Axiomas 3\u00ba y 4\u00ba\u00a0 que resultan prioritarios.</p>\n<p><strong><em><span style=\"text-decoration: underline\">Ejemplos de actualidad</span></em></strong><strong><em></em></strong></p>\n<p><strong><em>\u00a0</em></strong></p>\n<p><em>&#8211;<span style=\"text-decoration: underline\">A escala nacional</span>: No cabe acordar en sigilo, como lamentablemente se hizo, entre el PSOE y el PP la ley que abri\u00f3 la puerta a privatizaci\u00f3n de las cajas de ahorros hurtando, tanto el preceptivo debate parlamentario, como la consulta previa\u00a0 mediante referendum que deber\u00eda haber requerido una decisi\u00f3n tan importante.</em></p>\n<p><em><span style=\"text-decoration: underline\">-A escala auton\u00f3mica</span></em><span style=\"text-decoration: underline\"> y local</span>: <em>Un ejemplo paradigm\u00e1tico de despotismo local y regional fue la ingenier\u00eda del consenso elitista tan h\u00e1bilmente manejada por Florentino P\u00e9rez, para sacar adelante, ahogando la discusi\u00f3n en c\u00e1maras y plenos, con el acuerdo previo de todos los grupos pol\u00edticos, incluida IU, el doble pelotazo de recalificaci\u00f3n de terrenos y megaproyectos de la antigua y la nueva ciudad deportiva del Real Madrid. </em></p>\n<p><span style=\"text-decoration: underline\">\u00a0</span></p>\n<p><strong><span style=\"text-decoration: underline\">Axioma 3\u00ba</span></strong><strong>. </strong>Para que hacer viables los axiomas 1 y 2, un gobierno democr\u00e1tico no puede precipitar decisiones que afectan a la mayor\u00eda de la poblaci\u00f3n sin haber estudiado previamente todas las posibles opciones, informado con transparencia y facilitado que la ciudadan\u00eda debidamente informada participe en las diversas instancias (mediante refer\u00e9ndum, en parlamentos, en plenos municipales, etc.) en la decisi\u00f3n del plan de acci\u00f3n que estime m\u00e1s pertinente. Pues adem\u00e1s de los partidos y de los jueces, la democracia debe incorporar Comisiones o Grupos orientados a promover trabajos de Planificaci\u00f3n Participativa, que ayuden a elaborar y priorizar propuestas a los distintos \u00e1mbitos de participaci\u00f3n, incluyendo las Asambleas al nivel m\u00e1s descentralizado, en barrios o pueblos (la experiencia de los Presupuestos Participativos indica c\u00f3mo se pueden regular y hacer viables estas pr\u00e1cticas).</p>\n<p><strong><em><span style=\"text-decoration: underline\">Ejemplos de actualidad</span></em></strong><strong>:</strong></p>\n<p><strong>\u00a0</strong></p>\n<p><strong>&#8211; </strong><em><span style=\"text-decoration: underline\">A escala nacional</span></em>: Un gobierno no debe acordar ayudas a la banca en compra de activos (por el 5 % del PIB) y en avales (por el 10 %) del PIB, sin haber estudiado previamente los problemas que tiene la banca y sus posibles tratamientos, ni trazado planes a discutir y consensuar con transparencia en todas las instancias de participaci\u00f3n (incluido el refer\u00e9ndum, cuando la decisi\u00f3n afecte a la mayor\u00eda de la poblaci\u00f3n y/o condicione el futuro del pa\u00eds, la regi\u00f3n o el municipio, o el de sectores econ\u00f3micos o sociales importantes).\u00a0 Un gobierno no debe endeudar al pa\u00eds (ampliando el d\u00e9ficit presupuestario y emitiendo deuda p\u00fablica), ni gastar sus dineros alegremente (como ocurri\u00f3 al principio de la segunda legislatura de Zapatero) sin debatir tan graves decisiones (en parlamentos y/o plenos municipales), ni someterlas a refer\u00e9ndum.</p>\n<p>&#8211; <em><span style=\"text-decoration: underline\">A escala auton\u00f3mica y municipal</span></em>: No cabe anteponer megaproyectos llave en mano de olimpiadas, o de \u201coperaciones\u201d inmobiliarias y/o de infraestructuras o de demolici\u00f3n-construcci\u00f3n de barrios enteros (recordemos El Cabanyal), sin haber planteado, ni discutido planes de futuro m\u00e1s amplios, con diversos escenarios, que permitan la participaci\u00f3n ciudadana en la toma de decisiones a todos los niveles implicados.</p>\n<p><strong><span style=\"text-decoration: underline\">Axioma 4\u00ba</span></strong><strong>. </strong>Un gobierno democr\u00e1tico tiene que incentivar y acoger con el m\u00e1ximo inter\u00e9s y apoyo institucional las leyes y/o propuestas surgidas por iniciativa popular.</p>\n<p>Hay que advertir que los refer\u00e9ndum fruto de Iniciativas Legislativas Populares o de amplios movimientos sociales, de abajo a arriba, plantean las preguntas que se han debatido entre la gente. Mientas que los refer\u00e9ndum que se plantean desde gobiernos suelen albergar preguntas con truco para conseguir que salga lo que se quiere desde el poder (para eso recurren a estudios previos de opini\u00f3n). De ah\u00ed que corresponde a los movimientos sociales de base denunciar esos trucos para corregirlos y/o desactivarlos. Con esta distinci\u00f3n este axioma deber\u00eda ser prioritario, porque la axiom\u00e1tica de la participaci\u00f3n propuesta deber\u00eda partir de la voluntad e iniciativa de la gente como base de la democracia, pero conviene aclarar que el orden en el que se presentan los axiomas no presupone ninguna jerarqu\u00eda de importancia ya que, en el fondo, todos est\u00e1n relacionados y se apoyan unos y otros.</p>\n<p><strong>&#8211; <em><span style=\"text-decoration: underline\">Ejemplos de actualidad</span></em>: </strong>En estos meses se ha presentado una iniciativa legislativa popular para frenar la oleada de desahucios que esta provocando la banca y el desempleo, haciendo la propuesta de que sea suficiente la \u201cdaci\u00f3n\u201d de la vivienda y no tener que seguir pagando al banco toda la cantidad adeudada, cuando el banco ya se queda con la casa. Pero a pesar de mostrarse de acuerdo altos dignatarios del PP-PSOE, est\u00e1 propuesta no se someter\u00e1 a referendum sino que tras breve debate seguramente se le dar\u00e1 carpetazo por el bipartidismo obediente a los bancos.</p>\n<p><strong><span style=\"text-decoration: underline\">\u00a0</span></strong></p>\n<p><strong><span style=\"text-decoration: underline\">Axioma 5\u00ba</span></strong><strong>. </strong>Un gobierno democr\u00e1tico no solo tiene que incentivar el buen funcionamiento de los instrumentos de participaci\u00f3n y deliberaci\u00f3n actualmente existentes (Axioma 2\u00aa), sino que adem\u00e1s tiene que apoyar con medios la extensi\u00f3n de estos instrumentos por todo el cuerpo social a fin de cubrir el actual d\u00e9ficit de participaci\u00f3n e implicaci\u00f3n de la ciudadan\u00eda en la decisi\u00f3n, el control y la gesti\u00f3n de lo p\u00fablico.</p>\n<p><strong>&#8211; <em><span style=\"text-decoration: underline\">Ejemplos de actualidad</span></em>: </strong>El movimiento del 15-M es una buena prueba de lo que puede ser la iniciativa desde la base, que ha escapado a posibilidad de ser manejado o de servir a siglas o a dirigentes. Y, al proyectarse en las asambleas de barrios y pueblos, deber\u00eda ser saludado como una aut\u00e9ntica profundizaci\u00f3n democr\u00e1tica, como por otra\u00a0 parte parece que dicen las encuestas, aunque no lo sea por el bi-partidismo reinante, temeroso de perder el monopolio del poder que acostumbra a ejercer en connivencia con las elites empresariales.</p>\n<p>Aunque el orden de presentaci\u00f3n de los Axiomas va desde poder a la base, las iniciativas m\u00e1s cre\u00edbles e interesantes van desde la base hasta el poder. Lo hemos comentado en relaci\u00f3n con la convocatoria de posibles referendum. Para el movimiento surgido en el 15-M deber\u00edamos proponer ya que se lance la reclamaci\u00f3n de alg\u00fan refer\u00e9ndum concreto, como acaba de pasar en Italia o en Islandia. Por ejemplo, sobre el tema de los desahucios y la \u201cdaci\u00f3n en pago\u201d, sobre lo que hay mucho consenso, sobre el pacto del Euro,\u2026o, en el caso de la Comunidad de Madrid, sobre el empe\u00f1o del gobierno de privatizar el Canal de Isabel II.</p>\n<p><strong><span style=\"text-decoration: underline\">Corolario</span></strong>: Si, como ha venido siendo habitual, el gobierno decide y act\u00faa sin tener en cuenta a la ciudadan\u00eda, evita el debate en los propios \u00f3rganos deliberativos del Estado a trav\u00e9s de oscuras componendas extraparlamentarias u otros ardides y no incentiva, sino que castiga, las iniciativas ciudadanas de participaci\u00f3n, control y legislaci\u00f3n, ese gobierno no debe llamarse democr\u00e1tico, sino desp\u00f3tico o autocr\u00e1tico, por mucho que fuera votado en su d\u00eda por una minor\u00eda suficiente del censo electoral.</p>\n<p><strong><em>&#8211;<span style=\"text-decoration: underline\">Ejemplo a peque\u00f1a escala</span></em></strong>: En un pueblo de la sierra de Madrid el PP sac\u00f3 295 votos (obteniendo la mayor\u00eda absoluta), el PSOE 188, Zaide 83, Iu \u00a044 (la oposici\u00f3n suma 315), y los Nulos 40, en Blanco 21, y Abstenciones 287 (suman 348). Es decir, que con menos de un tercio de los votos posibles la Ley Electoral le confiere a un partido el gobierno, y este se puede permitir no consultar a la poblaci\u00f3n (que mayoritariamente\u00a0 no le apoya) en los siguientes cuatro a\u00f1os.</p>\n<p>A la luz de lo anterior, cabe concluir que los votos no facultan a los gobernantes a comportarse de modo desp\u00f3tico, ignorar e incluso castigar a la ciudadan\u00eda, hurt\u00e1ndole derechos y dineros con medidas y megaproyectos que no hab\u00edan sido ni siquiera explicitados en las campa\u00f1as, como lamentablemente ha venido ocurriendo, haciendo alarde de malas pr\u00e1cticas que el presente texto trata de denunciar y corregir.</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -4536,7 +4314,7 @@
   "featured_media": 0,
   "parent": 88,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -4570,14 +4348,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/115/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 120,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/115/revisions/120"
       }
     ],
     "up": [
@@ -4625,7 +4397,7 @@
   },
   "author": 310,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4666,14 +4438,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/105/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 106,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/105/revisions/106"
       }
     ],
     "wp:attachment": [
@@ -4729,7 +4495,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 1,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -4763,14 +4529,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/94/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 197,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/94/revisions/197"
       }
     ],
     "wp:attachment": [
@@ -4814,7 +4574,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 1,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -4848,14 +4608,8 @@
     ],
     "version-history": [
       {
-        "count": 18,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/88/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 90,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/88/revisions/90"
       }
     ],
     "wp:attachment": [
@@ -4888,7 +4642,7 @@
     "rendered": "15m-news"
   },
   "author": 310,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -4961,7 +4715,7 @@
   "featured_media": 0,
   "parent": 88,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -4995,14 +4749,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/79/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 179,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/79/revisions/179"
       }
     ],
     "up": [
@@ -5050,7 +4798,7 @@
   },
   "author": 310,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -5091,14 +4839,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/77/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 78,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/77/revisions/78"
       }
     ],
     "wp:attachment": [
@@ -5152,7 +4894,7 @@
   },
   "author": 310,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -5193,14 +4935,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/72/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 73,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/72/revisions/73"
       }
     ],
     "wp:attachment": [
@@ -5256,7 +4992,7 @@
   "featured_media": 0,
   "parent": 2,
   "menu_order": 995,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -5290,14 +5026,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/68/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 502,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/68/revisions/502"
       }
     ],
     "up": [
@@ -5336,16 +5066,16 @@
     "rendered": "convocatorias 19,20 y 21 de Junio"
   },
   "content": {
-    "rendered": "<p>A tod@s aquell@s que puedan difundir estas convocatorias, en especial a las Asambleas de Barrio, a quienes pedimos lean integramente en sus asambleas del s\u00e1bado (caso de tenerlas) la siguiente informaci\u00f3n:</p>\n<div>\n<div>[tras el primer ep\u00edgrafe &#171;Negociaci\u00f3n colectiva&#8230;&#187; viene un resumen de cuales son esas convocatorias, tras el segundo ep\u00edgrafe de &#171;Negociaci\u00f3n colectiva&#8230;&#187; viene la explicaci\u00f3n del por qu\u00e9 y el c\u00f3mo de las mismas, ambas partes muy interesantes para entender el todo]</p>\n<div>\n<h1><strong>NEGOCIACI\u00d3N COLECTIVA\u2026 \u00a1A LA CALLE!</strong></h1>\n<h2><strong>Actividades frente al Congreso 19, 21 y 22 de junio.</strong></h2>\n<div><strong><br />\n</strong></div>\n</div>\n<div>\n<p><strong>CONVOCATORIAS PARA LOS D\u00cdAS 19, 21 Y 22 DE JUNIO</strong></p>\n<p><strong>Porque violencia es no llegar a fin de mes y que manejen nuestras vidas sin darnos opci\u00f3n a r\u00e9plica, desde la comisi\u00f3n de Acci\u00f3n de Madrid os animamos a participar en las siguientes convocatorias relacionadas con las marchas anticrisis del 19 de junio y con la aprobaci\u00f3n de la Reforma de Negociaci\u00f3n Colectiva en el Congreso de los Diputados el Mi\u00e9rcoles 21 de junio:</strong></p>\n<p><strong>Domingo 19 de junio,</strong></p>\n<p><strong>De 9 a 13h:</strong>\u00a0Salida de las\u00a0<strong><em>Marchas Anticrisis</em></strong>\u00a0desde todo Madrid.</p>\n<p><strong>13.30h:</strong>\u00a0Encuentro de las columnas vecinales del sur en\u00a0<strong>Atocha\u00a0</strong>y del norte en\u00a0<strong>Cibeles</strong>.</p>\n<p><strong>14h:</strong>\u00a0Confluencia de todas las columnas en\u00a0<strong>Neptuno</strong>, frente al Congreso.</p>\n<p><strong>15h:</strong>\u00a0<strong><em>Picnic antifatiga</em></strong>, (\u00a1no te olvides el\u00a0<em>tupper</em>\u00a0y el mantel de cuadros!)</p>\n<p><strong>16h:</strong>\u00a0<strong><em>Conoce a tus vecin@s</em>:</strong>\u00a0debates, asambleas, micro abierto, encuentros interbarrios, conciertos, actividades\u2026 Por toda la zona colindante al Congreso habr\u00e1 infinidad de actividades relacionadas con la protesta y con las l\u00edneas de debate para la acci\u00f3n de los Grupos de Trabajo. *</p>\n<p><strong>20h:\u00a0</strong>Asamblea General en Sol.</p>\n<p>*Las zonas de\u00a0<em>Acampada</em>,\u00a0<em>Picnic</em>,\u00a0<em>Debate</em>,\u00a0<em>Concierto</em>,\u00a0<em>\u201cSpeak corner\u201d</em>\u00a0estar\u00e1n claramente se\u00f1alizadas. Habr\u00e1 un programa completo con todos los horarios y lugares, y un \u201cactiplano\u201d (o s\u00e9ase, el plano del activismo) para no perderse</p>\n<p><strong>Martes 21,</strong></p>\n<p><strong>19h:</strong>\u00a0Inicio de la\u00a0<strong><em>Acampada de Buenos D\u00edas Diputados e Imputados</em></strong>\u00a0(trae tienda y saco de dormir, y\u2026 \u00a1vente en pijama!)</p>\n<p><strong>20h:</strong>\u00a0<strong><em>Asamblea Informativa acerca de la Negociaci\u00f3n Colectiva</em></strong>: volcaremos toda la info trabajada estos d\u00edas</p>\n<p><strong>0h a 1h:</strong>\u00a0<strong><em>Actividades de buenas noches\u2026</em></strong></p>\n<p><strong>Mi\u00e9rcoles 22:</strong></p>\n<p><strong>8h:</strong>\u00a0<strong><em>Amanece ante el Congreso</em></strong>, demos los buenos d\u00edas a diputados e imputados, record\u00e9mosles que no nos representan, que aprobar por urgencia medidas contra los derechos laborales no les ser\u00e1 tan f\u00e1cil.</p>\n<p><strong>12h:\u00a0<em>Grupos de debate tem\u00e1ticos</em></strong>\u00a0por cada punto de la reforma de la negociaci\u00f3n colectiva.</p>\n<p><strong><strong><strong><strong>\u00a0</strong></strong></strong><strong>\u00a0</strong><strong>\u00a0</strong>19h:</strong>\u00a0<strong><em>Asamblea de puesta en com\u00fan de los puntos trabajados</em></strong>.</p>\n<p>M\u00e1s info en:</p>\n<p><a href=\"http://www.madrid.tomalosbarrios.net/\" target=\"_blank\">www.madrid.tomalosbarrios.net</a>\u00a0<a href=\"http://www.madrid.tomalaplaza.net/\" target=\"_blank\">www.madrid.tomalaplaza.net</a><a href=\"http://www.marchasanticrisis.wordpress.com/\" target=\"_blank\">www.marchasanticrisis.wordpress.com</a></p>\n<p><strong>DORM\u00cdAMOS, DESPERTAMOS\u2026</strong></p>\n<p><strong>EL 19 DE JUNIO, \u00a1CAMINEMOS JUNT@S CONTRA LA CRISIS Y EL CAPITAL!</strong></p>\n<p><strong>EL 21 DE JUNIO, \u00a1ACAMPEMOS JUNT@S CONTRA LA CRISIS Y EL CAPITAL!</strong></p>\n<p><strong>EL 22 DE JUNIO, \u00a1DECIDAMOS JUNT@S CONTRA LA CRISIS Y EL CAPITAL!</strong></p>\n<p><strong><br />\n</strong></p>\n<h1><strong>NEGOCIACI\u00d3N COLECTIVA\u2026 \u00a1A LA CALLE!</strong></h1>\n<h2><strong>Actividades frente al Congreso 19, 21 y 22 de junio.</strong></h2>\n<p><strong>VIOLENCIA ES NO LLEGAR A FIN DE MES:</strong></p>\n<p><strong>Este 14 de junio, la Asamblea de Barcelona acamp\u00f3 frente al parlamento de Catalu\u00f1a</strong>\u00a0para protestar contra los brutales recortes impuestos desde la Generalitat. Y al d\u00eda siguiente, mi\u00e9rcoles 15 de junio, cumpli\u00e9ndose un mes desde el inicio de las protestas de indignaci\u00f3n que ya\u00a0<a href=\"mailto:tod@s\" target=\"_blank\">tod@s</a>\u00a0conocemos,\u00a0<a href=\"mailto:l@s\" target=\"_blank\">l@s</a>\u00a0compa\u00f1er@s de Barcelona demostraron que si el pueblo se siente utilizado, manipulado y estafado, no va a esperar otros cuatro a\u00f1os para elegir a unos nuevos estafadores.</p>\n<p><strong>Los pol\u00edticos y los medios de comunicaci\u00f3n se encargaron de magnificar ciertos hechos aislados</strong>, gran parte de ellos muy probablemente llevados a cabo por los propios mossos infiltrados, y otra parte provocados por la enorme dosis de violencia a la que nos vemos sometid@s a diario. Que el Movimiento 15M est\u00e9 siendo capaz de llevar una estrategia de no violencia pese a la gran rabia e indignaci\u00f3n que nos llena, nos indica la enorme capacidad de autocontrol, serenidad y apoyo mutuo que portamos l@s indignad@s, capaces de enfrentarnos a su brutalidad con nuestras manos en alto. Pero nos parece c\u00ednico el que nos sorprendamos tanto de que la sensaci\u00f3n de ser marionetas produzca en algunas personas el olvidarse del sentir colectivo y que dejen salir toda esa rabia de una forma m\u00e1s individualista. No nos parece la forma m\u00e1s adecuada de canalizar su indignaci\u00f3n, pero entendemos sus motivos. \u00bfPor qu\u00e9 se pone en tela de juicio a todo el movimiento por unos hechos aislados? \u00bfPor qu\u00e9 se considera tan violento impedir el paso a aquellos que nos manipulan, si todos los d\u00edas la polic\u00eda nos impide el paso a nosotr@s en muchos lugares? \u00bfPor qu\u00e9 a penas se habl\u00f3 de los golpes que recibimos por parte de la polic\u00eda en la toma de investidura del alcalde de Madrid, que fueron much\u00edsimo m\u00e1s violentos y coactivos que los que recibieron el mi\u00e9rcoles los diputados catalanes? \u00bfQui\u00e9n juzgar\u00e1 a l@s polic\u00edas que nos llevan golpeando desde el 15 de Mayo en diversas ciudades de todo el estado? \u00bfY a los pol\u00edticos que dieron las \u00f3rdenes?</p>\n<p><strong>Y ahora nos tildan de\u00a0<a href=\"mailto:violent@s\" target=\"_blank\">violent@s</a>,</strong>\u00a0por demostrarles que ya no creemos en su juego, que sus vac\u00edos discursos de libertad ya no nos convencen, que nuestros sue\u00f1os no caben en sus urnas. Las miles de personas que recibieron a los diputados (que, pr\u00e1cticamente en su totalidad, lo hicieron de forma no violenta), lo hac\u00edan conscientes de que la clase pol\u00edtica no les representa, que las medidas que el Parlament trataba de aprobar les repercutir\u00e1n muy negativamente en sus vidas, y que nadie les est\u00e1 dejando opinar sobre las mismas, y mucho menos decidir si las aceptan o no.</p>\n<p><strong>Violencia es no llegar a fin de mes.</strong>\u00a0Violencia es que te convenzan de que este es el \u201cmenos malo\u201d de los mundos. Violencia es no poder decidir ni ser responsable de tu propia vida. Violencia es sentir que nos tienen atad@s de pies, manos, cerebro y coraz\u00f3n, mientras la televisi\u00f3n nos dice constantemente que somos libres. \u00bfQu\u00e9 libertad es esa de la cual solo se puede disentir por los cauces establecidos por ellos mismos? \u00bfQu\u00e9 libertad es escoger cada cuatro a\u00f1os entre un cielo gris oscuro y otro gris claro?</p>\n<p><strong>NOSOTR@S NO NOS ENCERRAMOS: \u00a1ACAMPEMOS Y DEBATAMOS FRENTE AL CONGRESO!</strong></p>\n<p><strong>Desde la comisi\u00f3n de Acci\u00f3n de Madrid queremos mostrar nuestra solidaridad con la lucha de Barcelona, que es la nuestra, acampando en el Paseo del Prado, junto al Congreso, la noche del martes 21 de junio. \u00bfPor qu\u00e9?\u00a0</strong>Porque el mi\u00e9rcoles 22 la Sesi\u00f3n Plenaria tratar\u00e1 de convalidar el REAL DECRETO-LEY 7/2011, de 10 de junio,\u00a0<strong>de medidas urgentes para la \u201cmejora\u201d de la negociaci\u00f3n colectiva</strong>. Esta reforma es la que ya nos llev\u00f3 la semana pasada en varias ocasiones a visitar las inmediaciones del Congreso, pues favorecer\u00e1 la flexibilidad interna con la que las empresas podr\u00e1n modificar m\u00e1s f\u00e1cilmente las ya penosas condiciones laborales, impondr\u00e1 los convenios empresariales sobre los sectoriales, y en general, dar\u00e1 un paso atr\u00e1s en los derechos laborales.</p>\n<p><strong>Por ello y porque de nuevo, al igual que en Catalu\u00f1a, no han consultado a nadie para tomar estas medidas,</strong>\u00a0<strong>el mi\u00e9rcoles les daremos los buenos d\u00edas a los diputados e imputados; pero no queremos centrarnos en ellos</strong>, pues seguimos considerando que\u00a0<strong>NO NOS REPRESENTAN</strong>, y es por ello que esta acampada de un d\u00eda se centrar\u00e1 en informarnos y debatir acerca de la Negociaci\u00f3n Colectiva, pues nuestra postura ante la importante reforma que pretenden aprobar es clara: una reforma que afecta a todas las personas trabajadoras y en paro, debe ser explicada abiertamente a las mismas, y s\u00f3lo deber\u00eda plantearse su aprobaci\u00f3n tras un debate p\u00fablico y abierto a todas las personas afectadas, siendo estas quienes decidan si se aprueba o no. \u00a0Por ello, el martes 21 a las 20h, tras establecer la acampada, tendr\u00e1 lugar una Asamblea Informativa no vinculante, en la que todas las personas que hayan investigado acerca de la cuesti\u00f3n de la Negociaci\u00f3n Colectiva podr\u00e1n compartir su trabajo con todas las dem\u00e1s. El mi\u00e9rcoles 22, a las 12h de la ma\u00f1ana, nos repartiremos en Grupos Tem\u00e1ticos de Debate, centrados cada uno en una parte de la reforma; y, para finalizar, esa misma tarde a las 19h, realizaremos otra Asamblea no vinculante de debate, en la cual compartiremos todo el trabajo realizado con el fin de formarnos en profundidad. Consideramos que este proceso deber\u00eda estar disponible para todas las personas afectadas por una reforma de este estilo antes de ser aprobada.</p>\n<p><strong>Como siempre, nuestra soluci\u00f3n es que tod@s debemos ser la soluci\u00f3n</strong>, que ni l@s diputad@s ni nosotr@s representamos a nadie, que cada persona se debe representar a s\u00ed misma y tener la capacidad y la opci\u00f3n de decidir en su vida. Nosotr@s tan s\u00f3lo daremos una muestra de c\u00f3mo creemos que se debe dar este proceso de debate p\u00fablico y de toma de decisi\u00f3n participativa, mediante asambleas informativas, de trabajo, profundizaci\u00f3n y debate acerca de todos los temas que atraviesa la Reforma de la Negociaci\u00f3n Colectiva.\u00a0<strong>Abiertamente y en el espacio p\u00fablico, esa es la \u00fanica manera en que todas las personas podemos informarnos y decidir sobre nuestras vidas. As\u00ed, como personas, tambi\u00e9n invitamos a todos los diputados a participar de forma horizontal \u00a0(nos ofrecemos incluso a explicarles en que consiste la horizontalidad) en la Asamblea del mi\u00e9rcoles por la tarde acerca de la Negociaci\u00f3n Colectiva. Y despu\u00e9s, si quieren, que nos hablen de democracia.</strong></p>\n<p><strong>CONOCE A TUS VECIN@S</strong></p>\n<p><strong>Tambi\u00e9n anunciamos que el pr\u00f3ximo domingo 19 de junio a partir de las 15h</strong>, tras horas de caminata y de protesta activa de las marchas anticrisis,<strong>\u00a0convocamos a todos los vecinos y vecinas de Madrid a continuar tomando las calles durante toda la tarde</strong>, comenzando por un picnic para reponer fuerzas frente al Congreso, y diversas actividades para conocernos y compartir nuestros problemas, que son los mismos, mediante debates tem\u00e1ticos, asambleas, \u201cspeak corners\u201d, conciertos, actuaciones, etc., y para seguir protestando.</p>\n<p>Recordad: el domingo 19 de junio, tras las marchas anticrisis, a partir de las 15h,\u00a0<strong>Conoce a tus vecin@s</strong>\u00a0frente al Congreso. El martes 21, vente a acampar al Paseo del Prado y participa en la\u00a0<strong>Asamblea Informativa sobre la Negociaci\u00f3n Colectiva</strong>\u00a0a las 19h. Y el mi\u00e9rcoles 22, dale los\u00a0<strong>buenos d\u00edas a los diputados e imputados</strong>, y a las 12h participa de los Grupos tem\u00e1ticos de Debate acerca de los distintos puntos de la reforma, para ponerlos en com\u00fan en la Asamblea de Debate de las 19h de la tarde, todo ello en Neptuno y Paseo del Prado.</p>\n<p>Para terminar, queremos recoger el final de un texto que se escribi\u00f3 ya hace 10 d\u00edas con motivo de la manipulaci\u00f3n que los medios hac\u00edan de lo que estaba sucediendo en Sol, y que nos parece m\u00e1s presente que nunca. Digan lo que digan los medios de comunicaci\u00f3n, \u00bfqu\u00e9 es lo que ha cambiado?</p>\n<p>QUE HEMOS CRECIDO, \u00a0QUE ESTAMOS EN TODOS LOS BARRIOS Y MUNICIPIOS DE MADRID, EN MILES DE CIUDADES DEL MUNDO, QUE ESTAMOS A\u00daN M\u00c1S INDIGNADAS Y M\u00c1S UNIDAS, QUE SUS \u00a0MENTIRAS NO NOS CIEGAN, QUE SU MANIPULACI\u00d3N NO NOS FRENA, QUE SU VIOLENCIA NOS HA HECHO M\u00c1S FUERTES, QUE, AHORA M\u00c1S QUE NUNCA, NO NOS REPRESENTAN. QUE \u00a0YA NO NOS IMPORTA SER PORTADA POR QUE AL FIN ESTAMOS ESCRIBIENDO LA PRIMERA P\u00c1GINA DE NUESTRAS PROPIAS VIDAS.</p>\n<p><strong>APAGA LA TELE, CIERRA EL PERI\u00d3DICO Y COMIENZA A ESCRIBIR TU PROPIA HISTORIA, QUE ES LA DE TOD@S</strong>.</p>\n</div>\n</div>\n</div>\n",
+    "rendered": "<p>A tod@s aquell@s que puedan difundir estas convocatorias, en especial a las Asambleas de Barrio, a quienes pedimos lean integramente en sus asambleas del s\u00e1bado (caso de tenerlas) la siguiente informaci\u00f3n:</p>\n<div>\n<div>[tras el primer ep\u00edgrafe \u00abNegociaci\u00f3n colectiva&#8230;\u00bb viene un resumen de cuales son esas convocatorias, tras el segundo ep\u00edgrafe de \u00abNegociaci\u00f3n colectiva&#8230;\u00bb viene la explicaci\u00f3n del por qu\u00e9 y el c\u00f3mo de las mismas, ambas partes muy interesantes para entender el todo]</p>\n<div>\n<h1><strong>NEGOCIACI\u00d3N COLECTIVA\u2026 \u00a1A LA CALLE!</strong></h1>\n<h2><strong>Actividades frente al Congreso 19, 21 y 22 de junio.</strong></h2>\n<div><strong><br />\n</strong></div>\n</div>\n<div>\n<p><strong>CONVOCATORIAS PARA LOS D\u00cdAS 19, 21 Y 22 DE JUNIO</strong></p>\n<p><strong>Porque violencia es no llegar a fin de mes y que manejen nuestras vidas sin darnos opci\u00f3n a r\u00e9plica, desde la comisi\u00f3n de Acci\u00f3n de Madrid os animamos a participar en las siguientes convocatorias relacionadas con las marchas anticrisis del 19 de junio y con la aprobaci\u00f3n de la Reforma de Negociaci\u00f3n Colectiva en el Congreso de los Diputados el Mi\u00e9rcoles 21 de junio:</strong></p>\n<p><strong>Domingo 19 de junio,</strong></p>\n<p><strong>De 9 a 13h:</strong>\u00a0Salida de las\u00a0<strong><em>Marchas Anticrisis</em></strong>\u00a0desde todo Madrid.</p>\n<p><strong>13.30h:</strong>\u00a0Encuentro de las columnas vecinales del sur en\u00a0<strong>Atocha\u00a0</strong>y del norte en\u00a0<strong>Cibeles</strong>.</p>\n<p><strong>14h:</strong>\u00a0Confluencia de todas las columnas en\u00a0<strong>Neptuno</strong>, frente al Congreso.</p>\n<p><strong>15h:</strong>\u00a0<strong><em>Picnic antifatiga</em></strong>, (\u00a1no te olvides el\u00a0<em>tupper</em>\u00a0y el mantel de cuadros!)</p>\n<p><strong>16h:</strong>\u00a0<strong><em>Conoce a tus vecin@s</em>:</strong>\u00a0debates, asambleas, micro abierto, encuentros interbarrios, conciertos, actividades\u2026 Por toda la zona colindante al Congreso habr\u00e1 infinidad de actividades relacionadas con la protesta y con las l\u00edneas de debate para la acci\u00f3n de los Grupos de Trabajo. *</p>\n<p><strong>20h:\u00a0</strong>Asamblea General en Sol.</p>\n<p>*Las zonas de\u00a0<em>Acampada</em>,\u00a0<em>Picnic</em>,\u00a0<em>Debate</em>,\u00a0<em>Concierto</em>,\u00a0<em>\u201cSpeak corner\u201d</em>\u00a0estar\u00e1n claramente se\u00f1alizadas. Habr\u00e1 un programa completo con todos los horarios y lugares, y un \u201cactiplano\u201d (o s\u00e9ase, el plano del activismo) para no perderse</p>\n<p><strong>Martes 21,</strong></p>\n<p><strong>19h:</strong>\u00a0Inicio de la\u00a0<strong><em>Acampada de Buenos D\u00edas Diputados e Imputados</em></strong>\u00a0(trae tienda y saco de dormir, y\u2026 \u00a1vente en pijama!)</p>\n<p><strong>20h:</strong>\u00a0<strong><em>Asamblea Informativa acerca de la Negociaci\u00f3n Colectiva</em></strong>: volcaremos toda la info trabajada estos d\u00edas</p>\n<p><strong>0h a 1h:</strong>\u00a0<strong><em>Actividades de buenas noches\u2026</em></strong></p>\n<p><strong>Mi\u00e9rcoles 22:</strong></p>\n<p><strong>8h:</strong>\u00a0<strong><em>Amanece ante el Congreso</em></strong>, demos los buenos d\u00edas a diputados e imputados, record\u00e9mosles que no nos representan, que aprobar por urgencia medidas contra los derechos laborales no les ser\u00e1 tan f\u00e1cil.</p>\n<p><strong>12h:\u00a0<em>Grupos de debate tem\u00e1ticos</em></strong>\u00a0por cada punto de la reforma de la negociaci\u00f3n colectiva.</p>\n<p><strong><strong><strong><strong>\u00a0</strong></strong></strong><strong>\u00a0</strong><strong>\u00a0</strong>19h:</strong>\u00a0<strong><em>Asamblea de puesta en com\u00fan de los puntos trabajados</em></strong>.</p>\n<p>M\u00e1s info en:</p>\n<p><a href=\"http://www.madrid.tomalosbarrios.net/\" target=\"_blank\">www.madrid.tomalosbarrios.net</a>\u00a0<a href=\"http://www.madrid.tomalaplaza.net/\" target=\"_blank\">www.madrid.tomalaplaza.net</a><a href=\"http://www.marchasanticrisis.wordpress.com/\" target=\"_blank\">www.marchasanticrisis.wordpress.com</a></p>\n<p><strong>DORM\u00cdAMOS, DESPERTAMOS\u2026</strong></p>\n<p><strong>EL 19 DE JUNIO, \u00a1CAMINEMOS JUNT@S CONTRA LA CRISIS Y EL CAPITAL!</strong></p>\n<p><strong>EL 21 DE JUNIO, \u00a1ACAMPEMOS JUNT@S CONTRA LA CRISIS Y EL CAPITAL!</strong></p>\n<p><strong>EL 22 DE JUNIO, \u00a1DECIDAMOS JUNT@S CONTRA LA CRISIS Y EL CAPITAL!</strong></p>\n<p><strong><br />\n</strong></p>\n<h1><strong>NEGOCIACI\u00d3N COLECTIVA\u2026 \u00a1A LA CALLE!</strong></h1>\n<h2><strong>Actividades frente al Congreso 19, 21 y 22 de junio.</strong></h2>\n<p><strong>VIOLENCIA ES NO LLEGAR A FIN DE MES:</strong></p>\n<p><strong>Este 14 de junio, la Asamblea de Barcelona acamp\u00f3 frente al parlamento de Catalu\u00f1a</strong>\u00a0para protestar contra los brutales recortes impuestos desde la Generalitat. Y al d\u00eda siguiente, mi\u00e9rcoles 15 de junio, cumpli\u00e9ndose un mes desde el inicio de las protestas de indignaci\u00f3n que ya\u00a0<a href=\"mailto:tod@s\" target=\"_blank\">tod@s</a>\u00a0conocemos,\u00a0<a href=\"mailto:l@s\" target=\"_blank\">l@s</a>\u00a0compa\u00f1er@s de Barcelona demostraron que si el pueblo se siente utilizado, manipulado y estafado, no va a esperar otros cuatro a\u00f1os para elegir a unos nuevos estafadores.</p>\n<p><strong>Los pol\u00edticos y los medios de comunicaci\u00f3n se encargaron de magnificar ciertos hechos aislados</strong>, gran parte de ellos muy probablemente llevados a cabo por los propios mossos infiltrados, y otra parte provocados por la enorme dosis de violencia a la que nos vemos sometid@s a diario. Que el Movimiento 15M est\u00e9 siendo capaz de llevar una estrategia de no violencia pese a la gran rabia e indignaci\u00f3n que nos llena, nos indica la enorme capacidad de autocontrol, serenidad y apoyo mutuo que portamos l@s indignad@s, capaces de enfrentarnos a su brutalidad con nuestras manos en alto. Pero nos parece c\u00ednico el que nos sorprendamos tanto de que la sensaci\u00f3n de ser marionetas produzca en algunas personas el olvidarse del sentir colectivo y que dejen salir toda esa rabia de una forma m\u00e1s individualista. No nos parece la forma m\u00e1s adecuada de canalizar su indignaci\u00f3n, pero entendemos sus motivos. \u00bfPor qu\u00e9 se pone en tela de juicio a todo el movimiento por unos hechos aislados? \u00bfPor qu\u00e9 se considera tan violento impedir el paso a aquellos que nos manipulan, si todos los d\u00edas la polic\u00eda nos impide el paso a nosotr@s en muchos lugares? \u00bfPor qu\u00e9 a penas se habl\u00f3 de los golpes que recibimos por parte de la polic\u00eda en la toma de investidura del alcalde de Madrid, que fueron much\u00edsimo m\u00e1s violentos y coactivos que los que recibieron el mi\u00e9rcoles los diputados catalanes? \u00bfQui\u00e9n juzgar\u00e1 a l@s polic\u00edas que nos llevan golpeando desde el 15 de Mayo en diversas ciudades de todo el estado? \u00bfY a los pol\u00edticos que dieron las \u00f3rdenes?</p>\n<p><strong>Y ahora nos tildan de\u00a0<a href=\"mailto:violent@s\" target=\"_blank\">violent@s</a>,</strong>\u00a0por demostrarles que ya no creemos en su juego, que sus vac\u00edos discursos de libertad ya no nos convencen, que nuestros sue\u00f1os no caben en sus urnas. Las miles de personas que recibieron a los diputados (que, pr\u00e1cticamente en su totalidad, lo hicieron de forma no violenta), lo hac\u00edan conscientes de que la clase pol\u00edtica no les representa, que las medidas que el Parlament trataba de aprobar les repercutir\u00e1n muy negativamente en sus vidas, y que nadie les est\u00e1 dejando opinar sobre las mismas, y mucho menos decidir si las aceptan o no.</p>\n<p><strong>Violencia es no llegar a fin de mes.</strong>\u00a0Violencia es que te convenzan de que este es el \u201cmenos malo\u201d de los mundos. Violencia es no poder decidir ni ser responsable de tu propia vida. Violencia es sentir que nos tienen atad@s de pies, manos, cerebro y coraz\u00f3n, mientras la televisi\u00f3n nos dice constantemente que somos libres. \u00bfQu\u00e9 libertad es esa de la cual solo se puede disentir por los cauces establecidos por ellos mismos? \u00bfQu\u00e9 libertad es escoger cada cuatro a\u00f1os entre un cielo gris oscuro y otro gris claro?</p>\n<p><strong>NOSOTR@S NO NOS ENCERRAMOS: \u00a1ACAMPEMOS Y DEBATAMOS FRENTE AL CONGRESO!</strong></p>\n<p><strong>Desde la comisi\u00f3n de Acci\u00f3n de Madrid queremos mostrar nuestra solidaridad con la lucha de Barcelona, que es la nuestra, acampando en el Paseo del Prado, junto al Congreso, la noche del martes 21 de junio. \u00bfPor qu\u00e9?\u00a0</strong>Porque el mi\u00e9rcoles 22 la Sesi\u00f3n Plenaria tratar\u00e1 de convalidar el REAL DECRETO-LEY 7/2011, de 10 de junio,\u00a0<strong>de medidas urgentes para la \u201cmejora\u201d de la negociaci\u00f3n colectiva</strong>. Esta reforma es la que ya nos llev\u00f3 la semana pasada en varias ocasiones a visitar las inmediaciones del Congreso, pues favorecer\u00e1 la flexibilidad interna con la que las empresas podr\u00e1n modificar m\u00e1s f\u00e1cilmente las ya penosas condiciones laborales, impondr\u00e1 los convenios empresariales sobre los sectoriales, y en general, dar\u00e1 un paso atr\u00e1s en los derechos laborales.</p>\n<p><strong>Por ello y porque de nuevo, al igual que en Catalu\u00f1a, no han consultado a nadie para tomar estas medidas,</strong>\u00a0<strong>el mi\u00e9rcoles les daremos los buenos d\u00edas a los diputados e imputados; pero no queremos centrarnos en ellos</strong>, pues seguimos considerando que\u00a0<strong>NO NOS REPRESENTAN</strong>, y es por ello que esta acampada de un d\u00eda se centrar\u00e1 en informarnos y debatir acerca de la Negociaci\u00f3n Colectiva, pues nuestra postura ante la importante reforma que pretenden aprobar es clara: una reforma que afecta a todas las personas trabajadoras y en paro, debe ser explicada abiertamente a las mismas, y s\u00f3lo deber\u00eda plantearse su aprobaci\u00f3n tras un debate p\u00fablico y abierto a todas las personas afectadas, siendo estas quienes decidan si se aprueba o no. \u00a0Por ello, el martes 21 a las 20h, tras establecer la acampada, tendr\u00e1 lugar una Asamblea Informativa no vinculante, en la que todas las personas que hayan investigado acerca de la cuesti\u00f3n de la Negociaci\u00f3n Colectiva podr\u00e1n compartir su trabajo con todas las dem\u00e1s. El mi\u00e9rcoles 22, a las 12h de la ma\u00f1ana, nos repartiremos en Grupos Tem\u00e1ticos de Debate, centrados cada uno en una parte de la reforma; y, para finalizar, esa misma tarde a las 19h, realizaremos otra Asamblea no vinculante de debate, en la cual compartiremos todo el trabajo realizado con el fin de formarnos en profundidad. Consideramos que este proceso deber\u00eda estar disponible para todas las personas afectadas por una reforma de este estilo antes de ser aprobada.</p>\n<p><strong>Como siempre, nuestra soluci\u00f3n es que tod@s debemos ser la soluci\u00f3n</strong>, que ni l@s diputad@s ni nosotr@s representamos a nadie, que cada persona se debe representar a s\u00ed misma y tener la capacidad y la opci\u00f3n de decidir en su vida. Nosotr@s tan s\u00f3lo daremos una muestra de c\u00f3mo creemos que se debe dar este proceso de debate p\u00fablico y de toma de decisi\u00f3n participativa, mediante asambleas informativas, de trabajo, profundizaci\u00f3n y debate acerca de todos los temas que atraviesa la Reforma de la Negociaci\u00f3n Colectiva.\u00a0<strong>Abiertamente y en el espacio p\u00fablico, esa es la \u00fanica manera en que todas las personas podemos informarnos y decidir sobre nuestras vidas. As\u00ed, como personas, tambi\u00e9n invitamos a todos los diputados a participar de forma horizontal \u00a0(nos ofrecemos incluso a explicarles en que consiste la horizontalidad) en la Asamblea del mi\u00e9rcoles por la tarde acerca de la Negociaci\u00f3n Colectiva. Y despu\u00e9s, si quieren, que nos hablen de democracia.</strong></p>\n<p><strong>CONOCE A TUS VECIN@S</strong></p>\n<p><strong>Tambi\u00e9n anunciamos que el pr\u00f3ximo domingo 19 de junio a partir de las 15h</strong>, tras horas de caminata y de protesta activa de las marchas anticrisis,<strong>\u00a0convocamos a todos los vecinos y vecinas de Madrid a continuar tomando las calles durante toda la tarde</strong>, comenzando por un picnic para reponer fuerzas frente al Congreso, y diversas actividades para conocernos y compartir nuestros problemas, que son los mismos, mediante debates tem\u00e1ticos, asambleas, \u201cspeak corners\u201d, conciertos, actuaciones, etc., y para seguir protestando.</p>\n<p>Recordad: el domingo 19 de junio, tras las marchas anticrisis, a partir de las 15h,\u00a0<strong>Conoce a tus vecin@s</strong>\u00a0frente al Congreso. El martes 21, vente a acampar al Paseo del Prado y participa en la\u00a0<strong>Asamblea Informativa sobre la Negociaci\u00f3n Colectiva</strong>\u00a0a las 19h. Y el mi\u00e9rcoles 22, dale los\u00a0<strong>buenos d\u00edas a los diputados e imputados</strong>, y a las 12h participa de los Grupos tem\u00e1ticos de Debate acerca de los distintos puntos de la reforma, para ponerlos en com\u00fan en la Asamblea de Debate de las 19h de la tarde, todo ello en Neptuno y Paseo del Prado.</p>\n<p>Para terminar, queremos recoger el final de un texto que se escribi\u00f3 ya hace 10 d\u00edas con motivo de la manipulaci\u00f3n que los medios hac\u00edan de lo que estaba sucediendo en Sol, y que nos parece m\u00e1s presente que nunca. Digan lo que digan los medios de comunicaci\u00f3n, \u00bfqu\u00e9 es lo que ha cambiado?</p>\n<p>QUE HEMOS CRECIDO, \u00a0QUE ESTAMOS EN TODOS LOS BARRIOS Y MUNICIPIOS DE MADRID, EN MILES DE CIUDADES DEL MUNDO, QUE ESTAMOS A\u00daN M\u00c1S INDIGNADAS Y M\u00c1S UNIDAS, QUE SUS \u00a0MENTIRAS NO NOS CIEGAN, QUE SU MANIPULACI\u00d3N NO NOS FRENA, QUE SU VIOLENCIA NOS HA HECHO M\u00c1S FUERTES, QUE, AHORA M\u00c1S QUE NUNCA, NO NOS REPRESENTAN. QUE \u00a0YA NO NOS IMPORTA SER PORTADA POR QUE AL FIN ESTAMOS ESCRIBIENDO LA PRIMERA P\u00c1GINA DE NUESTRAS PROPIAS VIDAS.</p>\n<p><strong>APAGA LA TELE, CIERRA EL PERI\u00d3DICO Y COMIENZA A ESCRIBIR TU PROPIA HISTORIA, QUE ES LA DE TOD@S</strong>.</p>\n</div>\n</div>\n</div>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>A tod@s aquell@s que puedan difundir estas convocatorias, en especial a las Asambleas de Barrio, a quienes pedimos lean integramente en sus asambleas del s\u00e1bado (caso de tenerlas) la siguiente informaci\u00f3n: [tras el primer ep\u00edgrafe &#171;Negociaci\u00f3n colectiva&#8230;&#187; viene un resumen &hellip; <a href=\"https://aravaca.tomalosbarrios.net/2011/06/18/convocatorias-1920-y-21-de-junio/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+    "rendered": "<p>A tod@s aquell@s que puedan difundir estas convocatorias, en especial a las Asambleas de Barrio, a quienes pedimos lean integramente en sus asambleas del s\u00e1bado (caso de tenerlas) la siguiente informaci\u00f3n: [tras el primer ep\u00edgrafe \u00abNegociaci\u00f3n colectiva&#8230;\u00bb viene un resumen &hellip; <a href=\"https://aravaca.tomalosbarrios.net/2011/06/18/convocatorias-1920-y-21-de-junio/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
     "protected": false
   },
   "author": 310,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -5386,14 +5116,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/66/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 71,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/66/revisions/71"
       }
     ],
     "wp:attachment": [
@@ -5438,7 +5162,7 @@
     "rendered": "Acta Asamblea 11 Junio 2011"
   },
   "content": {
-    "rendered": "<p><strong><span style=\"text-decoration: underline\">ACTA n\u00ba 3 de la ASAMBLEA de ARAVACA</span></strong> (AdA)</p>\n<p>En Madrid, el 11 de junio de 2011, a las 12 horas, en la Plaza de Ntra. Sra. del Buen Consejo de Aravaca, se re\u00fanen las personas asistentes, en torno a 70, con arreglo al orden del d\u00eda propuesto por la Comisi\u00f3n de organizaci\u00f3n, etc., que es el siguiente:</p>\n<p><strong>Orden del d\u00eda</strong> :</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 <strong>PUNTO 1.- </strong>Explicaci\u00f3n del sistema de dinamizaci\u00f3n de asambleas y solicitud de que sea respetado por los asistentes.</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 <strong>PUNTO 2.-</strong> Nombramientos moderadora, turno de palabra y elaborador del acta.</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 <strong>PUNTO 3.-</strong> Informaci\u00f3n sobre las 3 Comisiones creadas en la anterior AdA, seguidas de un turno de preguntas o propuestas.</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 <strong>PUNTO 4.-</strong> Informaci\u00f3n general del movimiento y acciones del 15M.</p>\n<p><strong>Desarrollo:</strong></p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Se desarrollan los <strong>PUNTOS 1 Y 2</strong></p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 <strong>PUNTO 3</strong>: Informe de la 3 Comisiones creadas en la anterior Asamblea:</p>\n<p><strong>1\u00aa.</strong>&#8211; <strong><span style=\"text-decoration: underline\">Comisi\u00f3n de Organizaci\u00f3n, Comunicaci\u00f3n y Extensi\u00f3n de la Asamblea de Aravaca</span> </strong>(COCEADA)<strong> </strong>reuni\u00f3n del<strong> </strong>8/ 6/ 2011. (Acta en <a href=\"http://www.aravaca.tomalosbarrios.net/\" target=\"_blank\">www.aravaca.tomalosbarrios.net</a> y en <a href=\"http://googlegroups.com/\" target=\"_blank\">googlegroups.com</a> : Asamblea Aravaca Organizaci\u00f3n y Comunicaci\u00f3n)</p>\n<p><strong>\u00a0\u00a0\u00a0 </strong>1.<strong>&#8211; </strong><em>Objetivos</em> de la COCEADA:</p>\n<p>1.\u00a0\u00a0\u00a0 Funcionamiento eficaz de las AdA y sus decisiones (al estilo 15M).</p>\n<p>2.\u00a0\u00a0\u00a0 Participar en red de comunicaci\u00f3n del 15M.</p>\n<p>3.\u00a0\u00a0\u00a0 Asegurar comunicaci\u00f3n de AdA a poblaci\u00f3n de Aravaca y viceversa.</p>\n<p>4.\u00a0\u00a0\u00a0 Promover incorporaci\u00f3n de personas de Aravaca al 15M y a la AdA.</p>\n<p>5.\u00a0\u00a0\u00a0 Planear recursos b\u00e1sicos para desarrollo de asambleas y acciones.</p>\n<p>6.\u00a0\u00a0\u00a0 Planear tareas y su distribuci\u00f3n para lograr acciones adecuadas.</p>\n<p>\u00a0\u00a0\u00a0 2.- <em>Temas urgentes e importantes.</em></p>\n<p>a)\u00a0\u00a0\u00a0 Organizaci\u00f3n de la pr\u00f3xima AdA del 11 de junio: Se fija el orden del d\u00eda y se distribuyen carteles para convocarla.</p>\n<p>b)\u00a0\u00a0 Se acuerda transmitir algunos temas importantes:</p>\n<p>i)\u00a0\u00a0\u00a0\u00a0 <em>Mensajes:</em> &#171;Todos comunicamos&#187;: repartimos carteles, informamos a la poblaci\u00f3n, escuchamos sus problemas, etc.</p>\n<p>ii)\u00a0\u00a0\u00a0 Hacer<em> Lista de recursos</em> necesarios para que la comisi\u00f3n funcione,</p>\n<p>iii)\u00a0 Pedir <em>propuestas</em> <em>o sugerencias</em> desde la AdA para la COCEADA.</p>\n<p>iv)\u00a0 Listar <em>medios de comunicaci\u00f3n</em> de inter\u00e9s para la AdA y contactos.</p>\n<p>c)\u00a0\u00a0\u00a0 Se crea<strong> </strong>la<strong> </strong>red interna de esta comisi\u00f3n.</p>\n<p>d)\u00a0\u00a0 Comunicaci\u00f3n con las otras 2 comisiones de Aravaca y la AdA: se informa de la creaci\u00f3n de la web: <a href=\"http://www.aravaca.tomalosbarrios.net/\" target=\"_blank\">www.aravaca.tomalosbarrios.net</a> .</p>\n<p>\u00a0Se reparten unas hojas con espacio para &#171;propuestas&#187; y para &#171;listar medios de comunicaci\u00f3n&#187; para que los asistentes puedan rellenarlas.</p>\n<p><strong>2\u00aa.- <span style=\"text-decoration: underline\">Comisi\u00f3n de situaci\u00f3n local de Aravaca</span> </strong>: reuni\u00f3n del 9/6/2011</p>\n<p>No tuvo lugar la reuni\u00f3n por falta de asistencia suficiente.</p>\n<p><strong>3\u00aa.-</strong> <strong><span style=\"text-decoration: underline\">Comisi\u00f3n temas globales (pol\u00edtica, econom\u00eda y sociales)</span> </strong>: reuni\u00f3n 8/6/2011</p>\n<p>(Acta completa en Facebook: Asamblea popular de Aravaca)</p>\n<p>Se trataron varios puntos a partir de los aprobados en las Asambleas Generales de Sol. Los puntos en los que el grupo de trabajo ha encontrado <span style=\"text-decoration: underline\">consenso</span> son los siguientes:</p>\n<p>1. ELIMINACI\u00d3N DE LOS PRIVILEGIOS DE LA CLASE POL\u00cdTICA:</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Control estricto del absentismo de los cargos electos en sus respectivos puestos. Sanciones espec\u00edficas por dejaci\u00f3n de funciones.</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Supresi\u00f3n de los privilegios en el pago de impuestos, a\u00f1os de cotizaci\u00f3n y monto de las pensiones.</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Eliminaci\u00f3n de la inmunidad asociada al cargo. Imprescriptibilidad de los delitos de corrupci\u00f3n.</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Publicaci\u00f3n obligatoria del patrimonio de todos los cargos p\u00fablicos.</p>\n<p>2. DERECHO A LA VIVIENDA:</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Permitir la daci\u00f3n en pago de las viviendas para cancelar las hipotecas.</p>\n<p>3. SERVICIOS P\u00daBLICOS DE CALIDAD:</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Recursos sociales locales: aplicaci\u00f3n efectiva Ley de Dependencia, redes de cuidadores locales municipales, servicios locales de mediaci\u00f3n y tutelaje.</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Se invita a que la Comisi\u00f3n de Aravaca se plantee el Transporte, por ser un tema muy importante para este barrio.</p>\n<p>4. CONTROL DE LAS ENTIDADES BANCARIAS:</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Prohibici\u00f3n de cualquier tipo de rescate o inyecci\u00f3n de capital a entidades bancarias: aquellas entidades en dificultades deben quebrar o ser nacionalizadas para constituir una banca p\u00fablica bajo control social.</p>\n<p>5. FISCALIDAD:</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Eliminaci\u00f3n de las SICAV.</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Control real y efectivo del fraude fiscal y de la fuga de capitales a para\u00edsos fiscales.</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Promoci\u00f3n a nivel internacional de la adopci\u00f3n de una tasa a las transacciones internacionales (tasa Tobin).</p>\n<p>6. LIBERTADES CIUDADANAS Y DEMOCRACIA PARTICIPATIVA:</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Establecimiento de mecanismos efectivos que garanticen la democracia interna en los partidos pol\u00edticos.</p>\n<p>Los puntos en los que <span style=\"text-decoration: underline\">no hubo consenso</span> fueron:</p>\n<p>1. CONTRA EL DESEMPLEO</p>\n<p>2. REDUCCI\u00d3N DEL GASTO MILITAR</p>\n<p>3. SENADO</p>\n<p>por lo que volver\u00e1n a plantearse en pr\u00f3ximas reuniones de la Comisi\u00f3n.</p>\n<p>Se a\u00f1ade la necesidad de crear alg\u00fan grupo en relaci\u00f3n al Medio Ambiente</p>\n<p>\u00a0 <span style=\"text-decoration: underline\">Turno de preguntas o propuestas sobre las Comisiones</span>:</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 <em>Partidos pol\u00edticos </em>: se plantea que se demande su disoluci\u00f3n. Se replica sobre la inviabilidad de esta propuesta. Se expresa el deseo de una mayor democracia directa.</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 <em>Entidades bancarias</em> : se plantea la invitaci\u00f3n a la gente a que coloque el dinero en la Banca \u00e9tica que ya existe, como por ejemplo Triodos Bank.</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 <em>Ley Electoral</em> : se plantea la posibilidad de hacer alguna acci\u00f3n concreta. Se responde que para esa ley org\u00e1nica no cabe la iniciativa popular de firmas para cambiarla. \u00c9sta s\u00f3lo tendr\u00eda un valor simb\u00f3lico.</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 <em>Tipo de propuestas</em> : se debate ampliamente sobre la necesidad de actuar, hacer propuestas concretas, combinar acciones a largo plazo con otras m\u00e1s inmediatas, sumarnos a acciones colectivas sobre alg\u00fan tema (ej.:&#187;daci\u00f3n&#187;), tambi\u00e9n hacer alguna acci\u00f3n en el \u00e1mbito de Aravaca, que sea de inter\u00e9s y pueda tener \u00e9xito.</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 <em>Red de comunicaci\u00f3n e intercambio</em> : Se plantea que la p\u00e1gina de Facebook es \u00fatil, pero no todos pueden o saben acceder. Se pide crear otras y que todos tengan acceso. Se aclaran las distintas p\u00e1ginas existentes de conexi\u00f3n:</p>\n<p>o\u00a0\u00a0 Facebook : Asamblea popular de Aravaca</p>\n<p>o\u00a0\u00a0 Googlegroups.com : Asamblea Aravaca</p>\n<p>o\u00a0\u00a0 <a href=\"mailto:asambleaaravaca.tomalosbarrios@gmail.com\">asambleaaravaca.tomalosbarrios@gmail.com</a></p>\n<p>o\u00a0\u00a0 <a href=\"http://aravaca.tomalosbarrios.net/\" target=\"_blank\">aravaca.tomalosbarrios.net</a></p>\n<p>Se propone que la COCEADA analice el tema y cree un sistema claro que facilite mandar propuestas y permita el acceso de todos a la informaci\u00f3n, incluso para aquellos que no se manejan mucho en internet.</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 <strong>PUNTO 4</strong> : Informaci\u00f3n general del movimiento y acciones del 15M.</p>\n<p>a.\u00a0\u00a0\u00a0 Asamblea General de Sol sobre Barrios el domingo a las 19 h.</p>\n<p>\u00a0\u00a0\u00a0 Se eligen 2 personas que acudir\u00e1n.</p>\n<p>b.\u00a0\u00a0\u00a0 Manifestaci\u00f3n del 19 de junio hasta Neptuno a las 13,30.</p>\n<p>\u00a0\u00a0\u00a0\u00a0 Se explica la organizaci\u00f3n prevista: columnas desde periferia a Neptuno</p>\n<p>\u00a0 Se van proponiendo y debatiendo diferentes propuestas. En los puntos que hay <span style=\"text-decoration: underline\">consenso</span> son:</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Reducir asamblea del pr\u00f3ximo <strong><em>s\u00e1bado</em></strong> y hacer un <strong><em>pasacalles colectivo</em></strong> con pancarta, m\u00fasica y globos por Aravaca, usando ambiente festivo y carteles con mensajes inclusivos (por ejemplo, para emigrantes) y repartiendo octavillas que inviten a la manifestaci\u00f3n del domingo.</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 <strong><em>Ir juntos</em></strong>, todos los que puedan, <strong><em>desde Aravaca a Moncloa</em></strong>, haci\u00e9ndose visibles (pancarta &#171;15M Aravaca&#187;, carteles). Se queda,\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a01 hora antes de la convocada en Moncloa, en parada bus 160 de la Plaza N.S. Buen Consejo. El punto de <strong><em>encuentro en Moncloa</em></strong> ser\u00eda la antigua parada del 160, frente al chiringuito del Parque del Oeste.</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 La reuni\u00f3n de la COCEADA, mi\u00e9rcoles 15/6, preparar\u00e1 los medios: pancarta, carteles. Se solicitan recursos o colaboraci\u00f3n (s\u00e1bana /cartulinas, palos, dibujante / pinturas, frases para carteles, globos y forma relleno, carretilla para transportar equipo m\u00fasica, etc.)</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Punto fuera de Orden del d\u00eda: las personas de Rosa Luxemburgo anuncian sus fiestas, invitan a todos y se excusan si existiera alguna leve laguna de asistencia. \u00a1Enhorabuena!</p>\n",
+    "rendered": "<p><strong><span style=\"text-decoration: underline\">ACTA n\u00ba 3 de la ASAMBLEA de ARAVACA</span></strong> (AdA)</p>\n<p>En Madrid, el 11 de junio de 2011, a las 12 horas, en la Plaza de Ntra. Sra. del Buen Consejo de Aravaca, se re\u00fanen las personas asistentes, en torno a 70, con arreglo al orden del d\u00eda propuesto por la Comisi\u00f3n de organizaci\u00f3n, etc., que es el siguiente:</p>\n<p><strong>Orden del d\u00eda</strong> :</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 <strong>PUNTO 1.- </strong>Explicaci\u00f3n del sistema de dinamizaci\u00f3n de asambleas y solicitud de que sea respetado por los asistentes.</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 <strong>PUNTO 2.-</strong> Nombramientos moderadora, turno de palabra y elaborador del acta.</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 <strong>PUNTO 3.-</strong> Informaci\u00f3n sobre las 3 Comisiones creadas en la anterior AdA, seguidas de un turno de preguntas o propuestas.</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 <strong>PUNTO 4.-</strong> Informaci\u00f3n general del movimiento y acciones del 15M.</p>\n<p><strong>Desarrollo:</strong></p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Se desarrollan los <strong>PUNTOS 1 Y 2</strong></p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 <strong>PUNTO 3</strong>: Informe de la 3 Comisiones creadas en la anterior Asamblea:</p>\n<p><strong>1\u00aa.</strong>&#8211; <strong><span style=\"text-decoration: underline\">Comisi\u00f3n de Organizaci\u00f3n, Comunicaci\u00f3n y Extensi\u00f3n de la Asamblea de Aravaca</span> </strong>(COCEADA)<strong> </strong>reuni\u00f3n del<strong> </strong>8/ 6/ 2011. (Acta en <a href=\"http://www.aravaca.tomalosbarrios.net/\" target=\"_blank\">www.aravaca.tomalosbarrios.net</a> y en <a href=\"http://googlegroups.com/\" target=\"_blank\">googlegroups.com</a> : Asamblea Aravaca Organizaci\u00f3n y Comunicaci\u00f3n)</p>\n<p><strong>\u00a0\u00a0\u00a0 </strong>1.<strong>&#8211; </strong><em>Objetivos</em> de la COCEADA:</p>\n<p>1.\u00a0\u00a0\u00a0 Funcionamiento eficaz de las AdA y sus decisiones (al estilo 15M).</p>\n<p>2.\u00a0\u00a0\u00a0 Participar en red de comunicaci\u00f3n del 15M.</p>\n<p>3.\u00a0\u00a0\u00a0 Asegurar comunicaci\u00f3n de AdA a poblaci\u00f3n de Aravaca y viceversa.</p>\n<p>4.\u00a0\u00a0\u00a0 Promover incorporaci\u00f3n de personas de Aravaca al 15M y a la AdA.</p>\n<p>5.\u00a0\u00a0\u00a0 Planear recursos b\u00e1sicos para desarrollo de asambleas y acciones.</p>\n<p>6.\u00a0\u00a0\u00a0 Planear tareas y su distribuci\u00f3n para lograr acciones adecuadas.</p>\n<p>\u00a0\u00a0\u00a0 2.- <em>Temas urgentes e importantes.</em></p>\n<p>a)\u00a0\u00a0\u00a0 Organizaci\u00f3n de la pr\u00f3xima AdA del 11 de junio: Se fija el orden del d\u00eda y se distribuyen carteles para convocarla.</p>\n<p>b)\u00a0\u00a0 Se acuerda transmitir algunos temas importantes:</p>\n<p>i)\u00a0\u00a0\u00a0\u00a0 <em>Mensajes:</em> \u00abTodos comunicamos\u00bb: repartimos carteles, informamos a la poblaci\u00f3n, escuchamos sus problemas, etc.</p>\n<p>ii)\u00a0\u00a0\u00a0 Hacer<em> Lista de recursos</em> necesarios para que la comisi\u00f3n funcione,</p>\n<p>iii)\u00a0 Pedir <em>propuestas</em> <em>o sugerencias</em> desde la AdA para la COCEADA.</p>\n<p>iv)\u00a0 Listar <em>medios de comunicaci\u00f3n</em> de inter\u00e9s para la AdA y contactos.</p>\n<p>c)\u00a0\u00a0\u00a0 Se crea<strong> </strong>la<strong> </strong>red interna de esta comisi\u00f3n.</p>\n<p>d)\u00a0\u00a0 Comunicaci\u00f3n con las otras 2 comisiones de Aravaca y la AdA: se informa de la creaci\u00f3n de la web: <a href=\"http://www.aravaca.tomalosbarrios.net/\" target=\"_blank\">www.aravaca.tomalosbarrios.net</a> .</p>\n<p>\u00a0Se reparten unas hojas con espacio para \u00abpropuestas\u00bb y para \u00ablistar medios de comunicaci\u00f3n\u00bb para que los asistentes puedan rellenarlas.</p>\n<p><strong>2\u00aa.- <span style=\"text-decoration: underline\">Comisi\u00f3n de situaci\u00f3n local de Aravaca</span> </strong>: reuni\u00f3n del 9/6/2011</p>\n<p>No tuvo lugar la reuni\u00f3n por falta de asistencia suficiente.</p>\n<p><strong>3\u00aa.-</strong> <strong><span style=\"text-decoration: underline\">Comisi\u00f3n temas globales (pol\u00edtica, econom\u00eda y sociales)</span> </strong>: reuni\u00f3n 8/6/2011</p>\n<p>(Acta completa en Facebook: Asamblea popular de Aravaca)</p>\n<p>Se trataron varios puntos a partir de los aprobados en las Asambleas Generales de Sol. Los puntos en los que el grupo de trabajo ha encontrado <span style=\"text-decoration: underline\">consenso</span> son los siguientes:</p>\n<p>1. ELIMINACI\u00d3N DE LOS PRIVILEGIOS DE LA CLASE POL\u00cdTICA:</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Control estricto del absentismo de los cargos electos en sus respectivos puestos. Sanciones espec\u00edficas por dejaci\u00f3n de funciones.</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Supresi\u00f3n de los privilegios en el pago de impuestos, a\u00f1os de cotizaci\u00f3n y monto de las pensiones.</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Eliminaci\u00f3n de la inmunidad asociada al cargo. Imprescriptibilidad de los delitos de corrupci\u00f3n.</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Publicaci\u00f3n obligatoria del patrimonio de todos los cargos p\u00fablicos.</p>\n<p>2. DERECHO A LA VIVIENDA:</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Permitir la daci\u00f3n en pago de las viviendas para cancelar las hipotecas.</p>\n<p>3. SERVICIOS P\u00daBLICOS DE CALIDAD:</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Recursos sociales locales: aplicaci\u00f3n efectiva Ley de Dependencia, redes de cuidadores locales municipales, servicios locales de mediaci\u00f3n y tutelaje.</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Se invita a que la Comisi\u00f3n de Aravaca se plantee el Transporte, por ser un tema muy importante para este barrio.</p>\n<p>4. CONTROL DE LAS ENTIDADES BANCARIAS:</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Prohibici\u00f3n de cualquier tipo de rescate o inyecci\u00f3n de capital a entidades bancarias: aquellas entidades en dificultades deben quebrar o ser nacionalizadas para constituir una banca p\u00fablica bajo control social.</p>\n<p>5. FISCALIDAD:</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Eliminaci\u00f3n de las SICAV.</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Control real y efectivo del fraude fiscal y de la fuga de capitales a para\u00edsos fiscales.</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Promoci\u00f3n a nivel internacional de la adopci\u00f3n de una tasa a las transacciones internacionales (tasa Tobin).</p>\n<p>6. LIBERTADES CIUDADANAS Y DEMOCRACIA PARTICIPATIVA:</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Establecimiento de mecanismos efectivos que garanticen la democracia interna en los partidos pol\u00edticos.</p>\n<p>Los puntos en los que <span style=\"text-decoration: underline\">no hubo consenso</span> fueron:</p>\n<p>1. CONTRA EL DESEMPLEO</p>\n<p>2. REDUCCI\u00d3N DEL GASTO MILITAR</p>\n<p>3. SENADO</p>\n<p>por lo que volver\u00e1n a plantearse en pr\u00f3ximas reuniones de la Comisi\u00f3n.</p>\n<p>Se a\u00f1ade la necesidad de crear alg\u00fan grupo en relaci\u00f3n al Medio Ambiente</p>\n<p>\u00a0 <span style=\"text-decoration: underline\">Turno de preguntas o propuestas sobre las Comisiones</span>:</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 <em>Partidos pol\u00edticos </em>: se plantea que se demande su disoluci\u00f3n. Se replica sobre la inviabilidad de esta propuesta. Se expresa el deseo de una mayor democracia directa.</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 <em>Entidades bancarias</em> : se plantea la invitaci\u00f3n a la gente a que coloque el dinero en la Banca \u00e9tica que ya existe, como por ejemplo Triodos Bank.</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 <em>Ley Electoral</em> : se plantea la posibilidad de hacer alguna acci\u00f3n concreta. Se responde que para esa ley org\u00e1nica no cabe la iniciativa popular de firmas para cambiarla. \u00c9sta s\u00f3lo tendr\u00eda un valor simb\u00f3lico.</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 <em>Tipo de propuestas</em> : se debate ampliamente sobre la necesidad de actuar, hacer propuestas concretas, combinar acciones a largo plazo con otras m\u00e1s inmediatas, sumarnos a acciones colectivas sobre alg\u00fan tema (ej.:\u00bbdaci\u00f3n\u00bb), tambi\u00e9n hacer alguna acci\u00f3n en el \u00e1mbito de Aravaca, que sea de inter\u00e9s y pueda tener \u00e9xito.</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 <em>Red de comunicaci\u00f3n e intercambio</em> : Se plantea que la p\u00e1gina de Facebook es \u00fatil, pero no todos pueden o saben acceder. Se pide crear otras y que todos tengan acceso. Se aclaran las distintas p\u00e1ginas existentes de conexi\u00f3n:</p>\n<p>o\u00a0\u00a0 Facebook : Asamblea popular de Aravaca</p>\n<p>o\u00a0\u00a0 Googlegroups.com : Asamblea Aravaca</p>\n<p>o\u00a0\u00a0 <a href=\"mailto:asambleaaravaca.tomalosbarrios@gmail.com\">asambleaaravaca.tomalosbarrios@gmail.com</a></p>\n<p>o\u00a0\u00a0 <a href=\"http://aravaca.tomalosbarrios.net/\" target=\"_blank\">aravaca.tomalosbarrios.net</a></p>\n<p>Se propone que la COCEADA analice el tema y cree un sistema claro que facilite mandar propuestas y permita el acceso de todos a la informaci\u00f3n, incluso para aquellos que no se manejan mucho en internet.</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 <strong>PUNTO 4</strong> : Informaci\u00f3n general del movimiento y acciones del 15M.</p>\n<p>a.\u00a0\u00a0\u00a0 Asamblea General de Sol sobre Barrios el domingo a las 19 h.</p>\n<p>\u00a0\u00a0\u00a0 Se eligen 2 personas que acudir\u00e1n.</p>\n<p>b.\u00a0\u00a0\u00a0 Manifestaci\u00f3n del 19 de junio hasta Neptuno a las 13,30.</p>\n<p>\u00a0\u00a0\u00a0\u00a0 Se explica la organizaci\u00f3n prevista: columnas desde periferia a Neptuno</p>\n<p>\u00a0 Se van proponiendo y debatiendo diferentes propuestas. En los puntos que hay <span style=\"text-decoration: underline\">consenso</span> son:</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Reducir asamblea del pr\u00f3ximo <strong><em>s\u00e1bado</em></strong> y hacer un <strong><em>pasacalles colectivo</em></strong> con pancarta, m\u00fasica y globos por Aravaca, usando ambiente festivo y carteles con mensajes inclusivos (por ejemplo, para emigrantes) y repartiendo octavillas que inviten a la manifestaci\u00f3n del domingo.</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 <strong><em>Ir juntos</em></strong>, todos los que puedan, <strong><em>desde Aravaca a Moncloa</em></strong>, haci\u00e9ndose visibles (pancarta \u00ab15M Aravaca\u00bb, carteles). Se queda,\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a01 hora antes de la convocada en Moncloa, en parada bus 160 de la Plaza N.S. Buen Consejo. El punto de <strong><em>encuentro en Moncloa</em></strong> ser\u00eda la antigua parada del 160, frente al chiringuito del Parque del Oeste.</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 La reuni\u00f3n de la COCEADA, mi\u00e9rcoles 15/6, preparar\u00e1 los medios: pancarta, carteles. Se solicitan recursos o colaboraci\u00f3n (s\u00e1bana /cartulinas, palos, dibujante / pinturas, frases para carteles, globos y forma relleno, carretilla para transportar equipo m\u00fasica, etc.)</p>\n<p>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Punto fuera de Orden del d\u00eda: las personas de Rosa Luxemburgo anuncian sus fiestas, invitan a todos y se excusan si existiera alguna leve laguna de asistencia. \u00a1Enhorabuena!</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -5449,7 +5173,7 @@
   "featured_media": 0,
   "parent": 2,
   "menu_order": 997,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -5483,14 +5207,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/47/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 503,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/47/revisions/503"
       }
     ],
     "up": [
@@ -5538,7 +5256,7 @@
   },
   "author": 310,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -5579,14 +5297,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/37/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 38,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/37/revisions/38"
       }
     ],
     "wp:attachment": [
@@ -5631,12 +5343,12 @@
     "rendered": "horariomarchas"
   },
   "author": 310,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://aravaca.tomalosbarrios.net/files/2011/06/horariomarchas1.jpg'><img width=\"300\" height=\"188\" src=\"https://aravaca.tomalosbarrios.net/files/2011/06/horariomarchas1-300x188.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://aravaca.tomalosbarrios.net/files/2011/06/horariomarchas1-300x188.jpg 300w, https://aravaca.tomalosbarrios.net/files/2011/06/horariomarchas1-1024x643.jpg 1024w, https://aravaca.tomalosbarrios.net/files/2011/06/horariomarchas1.jpg 1205w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://aravaca.tomalosbarrios.net/files/2011/06/horariomarchas1.jpg'><img width=\"300\" height=\"188\" src=\"https://aravaca.tomalosbarrios.net/files/2011/06/horariomarchas1-300x188.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://aravaca.tomalosbarrios.net/files/2011/06/horariomarchas1-300x188.jpg 300w, https://aravaca.tomalosbarrios.net/files/2011/06/horariomarchas1-1024x643.jpg 1024w, https://aravaca.tomalosbarrios.net/files/2011/06/horariomarchas1.jpg 1205w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -5743,12 +5455,12 @@
     "rendered": "horariomarchas"
   },
   "author": 310,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://aravaca.tomalosbarrios.net/files/2011/06/horariomarchas.jpg'><img width=\"300\" height=\"188\" src=\"https://aravaca.tomalosbarrios.net/files/2011/06/horariomarchas-300x188.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://aravaca.tomalosbarrios.net/files/2011/06/horariomarchas-300x188.jpg 300w, https://aravaca.tomalosbarrios.net/files/2011/06/horariomarchas-1024x643.jpg 1024w, https://aravaca.tomalosbarrios.net/files/2011/06/horariomarchas.jpg 1205w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://aravaca.tomalosbarrios.net/files/2011/06/horariomarchas.jpg'><img width=\"300\" height=\"188\" src=\"https://aravaca.tomalosbarrios.net/files/2011/06/horariomarchas-300x188.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://aravaca.tomalosbarrios.net/files/2011/06/horariomarchas-300x188.jpg 300w, https://aravaca.tomalosbarrios.net/files/2011/06/horariomarchas-1024x643.jpg 1024w, https://aravaca.tomalosbarrios.net/files/2011/06/horariomarchas.jpg 1205w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -5855,7 +5567,7 @@
     "rendered": "horarios de las marchas"
   },
   "content": {
-    "rendered": "<p><a href=\"http://aravaca.tomalosbarrios.net/files/2011/06/horariomarchas1.jpg\"><img class=\"alignnone size-medium wp-image-29\" src=\"http://aravaca.tomalosbarrios.net/files/2011/06/horariomarchas1-300x188.jpg\" alt=\"\" width=\"300\" height=\"188\" srcset=\"https://aravaca.tomalosbarrios.net/files/2011/06/horariomarchas1-300x188.jpg 300w, https://aravaca.tomalosbarrios.net/files/2011/06/horariomarchas1-1024x643.jpg 1024w, https://aravaca.tomalosbarrios.net/files/2011/06/horariomarchas1.jpg 1205w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>Este es el horario que se propone desde Sol. Es aproximado pero nos ayudar\u00e1 a ccordinarnos.</p>\n",
+    "rendered": "<p><a href=\"http://aravaca.tomalosbarrios.net/files/2011/06/horariomarchas1.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-29\" src=\"http://aravaca.tomalosbarrios.net/files/2011/06/horariomarchas1-300x188.jpg\" alt=\"\" width=\"300\" height=\"188\" srcset=\"https://aravaca.tomalosbarrios.net/files/2011/06/horariomarchas1-300x188.jpg 300w, https://aravaca.tomalosbarrios.net/files/2011/06/horariomarchas1-1024x643.jpg 1024w, https://aravaca.tomalosbarrios.net/files/2011/06/horariomarchas1.jpg 1205w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>Este es el horario que se propone desde Sol. Es aproximado pero nos ayudar\u00e1 a ccordinarnos.</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -5864,7 +5576,7 @@
   },
   "author": 310,
   "featured_media": 29,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -5905,14 +5617,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/26/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 30,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/26/revisions/30"
       }
     ],
     "wp:featuredmedia": [
@@ -5972,7 +5678,7 @@
   },
   "author": 310,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -6013,14 +5719,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/24/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 25,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/24/revisions/25"
       }
     ],
     "wp:attachment": [
@@ -6074,7 +5774,7 @@
   },
   "author": 310,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -6115,14 +5815,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/21/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 22,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/posts/21/revisions/22"
       }
     ],
     "wp:attachment": [
@@ -6178,7 +5872,7 @@
   "featured_media": 0,
   "parent": 94,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -6212,14 +5906,8 @@
     ],
     "version-history": [
       {
-        "count": 7,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/19/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 23,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/19/revisions/23"
       }
     ],
     "up": [
@@ -6269,7 +5957,7 @@
   "featured_media": 0,
   "parent": 94,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -6303,14 +5991,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/17/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 97,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/17/revisions/97"
       }
     ],
     "up": [
@@ -6360,7 +6042,7 @@
   "featured_media": 0,
   "parent": 94,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -6394,14 +6076,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/15/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 186,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/15/revisions/186"
       }
     ],
     "up": [
@@ -6451,7 +6127,7 @@
   "featured_media": 0,
   "parent": 2,
   "menu_order": 999,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -6485,14 +6161,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/8/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 498,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/8/revisions/498"
       }
     ],
     "up": [
@@ -6542,7 +6212,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 1,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
@@ -6576,14 +6246,8 @@
     ],
     "version-history": [
       {
-        "count": 24,
+        "count": 0,
         "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/2/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 5,
-        "href": "https://aravaca.tomalosbarrios.net/wp-json/wp/v2/pages/2/revisions/5"
       }
     ],
     "wp:attachment": [

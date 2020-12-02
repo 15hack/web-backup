@@ -144,14 +144,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/posts/79/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 82,
-        "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/posts/79/revisions/82"
       }
     ],
     "wp:attachment": [
@@ -241,14 +235,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/pages/67/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 71,
-        "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/pages/67/revisions/71"
       }
     ],
     "wp:attachment": [
@@ -326,14 +314,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/pages/43/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 46,
-        "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/pages/43/revisions/46"
       }
     ],
     "wp:attachment": [
@@ -411,14 +393,8 @@
     ],
     "version-history": [
       {
-        "count": 13,
+        "count": 0,
         "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/pages/36/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 52,
-        "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/pages/36/revisions/52"
       }
     ],
     "wp:attachment": [
@@ -496,14 +472,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/pages/33/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 66,
-        "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/pages/33/revisions/66"
       }
     ],
     "wp:attachment": [
@@ -586,14 +556,8 @@
     ],
     "version-history": [
       {
-        "count": 11,
+        "count": 0,
         "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/posts/24/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 39,
-        "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/posts/24/revisions/39"
       }
     ],
     "wp:attachment": [
@@ -690,14 +654,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/posts/6/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 17,
-        "href": "https://chiclana.tomalaplaza.net/wp-json/wp/v2/posts/6/revisions/17"
       }
     ],
     "wp:attachment": [

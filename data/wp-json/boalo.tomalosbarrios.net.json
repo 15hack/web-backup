@@ -15,12 +15,12 @@
     "rendered": "Cartel Asamblea Extraordinaria 15-10"
   },
   "author": 345,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://boalo.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-101.jpg'><img width=\"300\" height=\"207\" src=\"https://boalo.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-101-300x207.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://boalo.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-101-300x207.jpg 300w, https://boalo.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-101-1024x708.jpg 1024w, https://boalo.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-101.jpg 1040w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://boalo.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-101.jpg'><img width=\"300\" height=\"207\" src=\"https://boalo.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-101-300x207.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://boalo.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-101-300x207.jpg 300w, https://boalo.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-101-1024x708.jpg 1024w, https://boalo.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-101.jpg 1040w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -127,7 +127,7 @@
     "rendered": "Pr\u00f3xima Asamblea Local"
   },
   "content": {
-    "rendered": "<p>Pr\u00f3xima Asamblea Local</p>\n<p><a href=\"http://bolao.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-101.jpg\"><img class=\"alignnone size-medium wp-image-72\" src=\"http://bolao.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-101-300x207.jpg\" alt=\"\" width=\"300\" height=\"207\" srcset=\"https://boalo.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-101-300x207.jpg 300w, https://boalo.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-101-1024x708.jpg 1024w, https://boalo.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-101.jpg 1040w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>Orden del D\u00eda aprobado por la Comisi\u00f3n de Comunicaci\u00f3n el d\u00eda 12/10\u00a0y preparaci\u00f3n de pancarta de la Asamblea para la manifestaci\u00f3n de la tarde.</p>\n",
+    "rendered": "<p>Pr\u00f3xima Asamblea Local</p>\n<p><a href=\"http://bolao.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-101.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-72\" src=\"http://bolao.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-101-300x207.jpg\" alt=\"\" width=\"300\" height=\"207\" srcset=\"https://boalo.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-101-300x207.jpg 300w, https://boalo.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-101-1024x708.jpg 1024w, https://boalo.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-101.jpg 1040w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>Orden del D\u00eda aprobado por la Comisi\u00f3n de Comunicaci\u00f3n el d\u00eda 12/10\u00a0y preparaci\u00f3n de pancarta de la Asamblea para la manifestaci\u00f3n de la tarde.</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -136,7 +136,7 @@
   },
   "author": 345,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -177,14 +177,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://boalo.tomalosbarrios.net/wp-json/wp/v2/posts/71/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 73,
-        "href": "https://boalo.tomalosbarrios.net/wp-json/wp/v2/posts/71/revisions/73"
       }
     ],
     "wp:attachment": [
@@ -229,12 +223,12 @@
     "rendered": "Cartel Asamblea Extraordinaria 15-10 en El Boalo"
   },
   "author": 345,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://boalo.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-10.jpg'><img width=\"300\" height=\"207\" src=\"https://boalo.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-10-300x207.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://boalo.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-10-300x207.jpg 300w, https://boalo.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-10-1024x708.jpg 1024w, https://boalo.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-10.jpg 1040w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>Orden del D\u00eda aprobado por la Comisi\u00f3n de Comunicaci\u00f3n y preparaci\u00f3n de pancarta de la Asamblea para la manifestaci\u00f3n de la tarde.</p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://boalo.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-10.jpg'><img width=\"300\" height=\"207\" src=\"https://boalo.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-10-300x207.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://boalo.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-10-300x207.jpg 300w, https://boalo.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-10-1024x708.jpg 1024w, https://boalo.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-10.jpg 1040w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>Orden del D\u00eda aprobado por la Comisi\u00f3n de Comunicaci\u00f3n y preparaci\u00f3n de pancarta de la Asamblea para la manifestaci\u00f3n de la tarde.</p>\n"
   },
   "caption": {
     "rendered": "<p>Orden del D\u00eda aprobado por la Comisi\u00f3n de Comunicaci\u00f3n y preparaci\u00f3n de pancarta de la Asamblea para la manifestaci\u00f3n de la tarde.</p>\n"
@@ -352,7 +346,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -386,14 +380,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://boalo.tomalosbarrios.net/wp-json/wp/v2/pages/52/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 56,
-        "href": "https://boalo.tomalosbarrios.net/wp-json/wp/v2/pages/52/revisions/56"
       }
     ],
     "wp:attachment": [
@@ -437,7 +425,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -471,14 +459,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://boalo.tomalosbarrios.net/wp-json/wp/v2/pages/43/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 66,
-        "href": "https://boalo.tomalosbarrios.net/wp-json/wp/v2/pages/43/revisions/66"
       }
     ],
     "wp:attachment": [
@@ -522,7 +504,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -556,14 +538,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://boalo.tomalosbarrios.net/wp-json/wp/v2/pages/41/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 42,
-        "href": "https://boalo.tomalosbarrios.net/wp-json/wp/v2/pages/41/revisions/42"
       }
     ],
     "wp:attachment": [
@@ -607,7 +583,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -641,14 +617,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://boalo.tomalosbarrios.net/wp-json/wp/v2/pages/36/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 50,
-        "href": "https://boalo.tomalosbarrios.net/wp-json/wp/v2/pages/36/revisions/50"
       }
     ],
     "wp:attachment": [
@@ -681,7 +651,7 @@
     "rendered": "Asambleas"
   },
   "content": {
-    "rendered": "<p>Pr\u00f3xima Asamblea Local</p>\n<p>\u00a0<a href=\"http://bolao.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-10.jpg\"><img class=\"alignnone size-medium wp-image-68\" src=\"http://bolao.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-10-300x207.jpg\" alt=\"\" width=\"300\" height=\"207\" srcset=\"https://boalo.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-10-300x207.jpg 300w, https://boalo.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-10-1024x708.jpg 1024w, https://boalo.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-10.jpg 1040w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n",
+    "rendered": "<p>Pr\u00f3xima Asamblea Local</p>\n<p>\u00a0<a href=\"http://bolao.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-10.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-68\" src=\"http://bolao.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-10-300x207.jpg\" alt=\"\" width=\"300\" height=\"207\" srcset=\"https://boalo.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-10-300x207.jpg 300w, https://boalo.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-10-1024x708.jpg 1024w, https://boalo.tomalosbarrios.net/files/2011/10/cartel-asamblea-extraordinaria-15-10.jpg 1040w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -692,7 +662,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -726,14 +696,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://boalo.tomalosbarrios.net/wp-json/wp/v2/pages/34/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 70,
-        "href": "https://boalo.tomalosbarrios.net/wp-json/wp/v2/pages/34/revisions/70"
       }
     ],
     "wp:attachment": [
@@ -775,7 +739,7 @@
   },
   "author": 345,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -816,14 +780,8 @@
     ],
     "version-history": [
       {
-        "count": 15,
+        "count": 0,
         "href": "https://boalo.tomalosbarrios.net/wp-json/wp/v2/posts/26/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 28,
-        "href": "https://boalo.tomalosbarrios.net/wp-json/wp/v2/posts/26/revisions/28"
       }
     ],
     "wp:attachment": [
@@ -968,7 +926,7 @@
     "rendered": "banner-home01.jpg"
   },
   "author": 345,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1039,7 +997,7 @@
   },
   "author": 7,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1080,14 +1038,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://boalo.tomalosbarrios.net/wp-json/wp/v2/posts/1/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 21,
-        "href": "https://boalo.tomalosbarrios.net/wp-json/wp/v2/posts/1/revisions/21"
       }
     ],
     "wp:attachment": [

@@ -176,15 +176,15 @@
  90 15oct.takethesquare.net/ar/
  88 15oct.takethesquare.net/in/
  86 15oct.takethesquare.net/hu/
- 84 15oct.takethesquare.net/
+ 84 15oct.takethesquare.net/ru/
  82 15oct.takethesquare.net/pt/
  80 15oct.takethesquare.net/hr/
  78 15oct.takethesquare.net/he/
  75 15oct.takethesquare.net/gr/
  73 15oct.takethesquare.net/it/
- 50 15oct.takethesquare.net/
- 48 15oct.takethesquare.net/
- 44 15oct.takethesquare.net/
+ 50 15oct.takethesquare.net/de/
+ 48 15oct.takethesquare.net/es/
+ 44 15oct.takethesquare.net/fr/
  38 15oct.takethesquare.net/
  37 15oct.takethesquare.net/files/2011/09/banner2.png
  35 15oct.takethesquare.net/files/2011/09/banner1.png

@@ -144,14 +144,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://leon.tomalaplaza.net/wp-json/wp/v2/posts/96/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 99,
-        "href": "https://leon.tomalaplaza.net/wp-json/wp/v2/posts/96/revisions/99"
       }
     ],
     "wp:attachment": [
@@ -325,14 +319,8 @@
     ],
     "version-history": [
       {
-        "count": 7,
+        "count": 0,
         "href": "https://leon.tomalaplaza.net/wp-json/wp/v2/posts/87/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 91,
-        "href": "https://leon.tomalaplaza.net/wp-json/wp/v2/posts/87/revisions/91"
       }
     ],
     "wp:attachment": [
@@ -422,14 +410,8 @@
     ],
     "version-history": [
       {
-        "count": 11,
+        "count": 0,
         "href": "https://leon.tomalaplaza.net/wp-json/wp/v2/pages/74/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 82,
-        "href": "https://leon.tomalaplaza.net/wp-json/wp/v2/pages/74/revisions/82"
       }
     ],
     "wp:attachment": [
@@ -512,14 +494,8 @@
     ],
     "version-history": [
       {
-        "count": 20,
+        "count": 0,
         "href": "https://leon.tomalaplaza.net/wp-json/wp/v2/posts/49/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 69,
-        "href": "https://leon.tomalaplaza.net/wp-json/wp/v2/posts/49/revisions/69"
       }
     ],
     "wp:attachment": [
@@ -689,14 +665,8 @@
     ],
     "version-history": [
       {
-        "count": 7,
+        "count": 0,
         "href": "https://leon.tomalaplaza.net/wp-json/wp/v2/pages/32/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 34,
-        "href": "https://leon.tomalaplaza.net/wp-json/wp/v2/pages/32/revisions/34"
       }
     ],
     "wp:attachment": [
@@ -781,14 +751,8 @@
     ],
     "version-history": [
       {
-        "count": 22,
+        "count": 0,
         "href": "https://leon.tomalaplaza.net/wp-json/wp/v2/posts/4/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 72,
-        "href": "https://leon.tomalaplaza.net/wp-json/wp/v2/posts/4/revisions/72"
       }
     ],
     "wp:attachment": [
@@ -878,14 +842,8 @@
     ],
     "version-history": [
       {
-        "count": 14,
+        "count": 0,
         "href": "https://leon.tomalaplaza.net/wp-json/wp/v2/pages/2/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 22,
-        "href": "https://leon.tomalaplaza.net/wp-json/wp/v2/pages/2/revisions/22"
       }
     ],
     "wp:attachment": [

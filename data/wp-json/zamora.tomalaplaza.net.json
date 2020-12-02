@@ -302,14 +302,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://zamora.tomalaplaza.net/wp-json/wp/v2/posts/1/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 10,
-        "href": "https://zamora.tomalaplaza.net/wp-json/wp/v2/posts/1/revisions/10"
       }
     ],
     "wp:attachment": [

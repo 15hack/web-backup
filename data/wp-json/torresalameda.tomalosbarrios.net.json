@@ -15,12 +15,12 @@
     "rendered": "Nuevo Cartel"
   },
   "author": 628,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/07/Nuevo-Cartel.jpg'><img width=\"214\" height=\"300\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/07/Nuevo-Cartel-214x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/07/Nuevo-Cartel-214x300.jpg 214w, https://torresalameda.tomalosbarrios.net/files/2011/07/Nuevo-Cartel.jpg 593w\" sizes=\"(max-width: 214px) 100vw, 214px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/07/Nuevo-Cartel.jpg'><img width=\"214\" height=\"300\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/07/Nuevo-Cartel-214x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/07/Nuevo-Cartel-214x300.jpg 214w, https://torresalameda.tomalosbarrios.net/files/2011/07/Nuevo-Cartel.jpg 593w\" sizes=\"(max-width: 214px) 100vw, 214px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -121,7 +121,7 @@
     "rendered": "ASAMBLEA TORRES"
   },
   "content": {
-    "rendered": "<p><a href=\"http://torresalameda.tomalosbarrios.net/files/2011/07/Nuevo-Cartel.jpg\"><img class=\"aligncenter size-full wp-image-200\" src=\"http://torresalameda.tomalosbarrios.net/files/2011/07/Nuevo-Cartel.jpg\" alt=\"\" width=\"593\" height=\"830\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/07/Nuevo-Cartel.jpg 593w, https://torresalameda.tomalosbarrios.net/files/2011/07/Nuevo-Cartel-214x300.jpg 214w\" sizes=\"(max-width: 593px) 100vw, 593px\" /></a></p>\n",
+    "rendered": "<p><a href=\"http://torresalameda.tomalosbarrios.net/files/2011/07/Nuevo-Cartel.jpg\"><img loading=\"lazy\" class=\"aligncenter size-full wp-image-200\" src=\"http://torresalameda.tomalosbarrios.net/files/2011/07/Nuevo-Cartel.jpg\" alt=\"\" width=\"593\" height=\"830\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/07/Nuevo-Cartel.jpg 593w, https://torresalameda.tomalosbarrios.net/files/2011/07/Nuevo-Cartel-214x300.jpg 214w\" sizes=\"(max-width: 593px) 100vw, 593px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -130,7 +130,7 @@
   },
   "author": 628,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -171,14 +171,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/197/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 201,
-        "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/197/revisions/201"
       }
     ],
     "wp:attachment": [
@@ -223,12 +217,12 @@
     "rendered": "fdfdfd"
   },
   "author": 628,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/06/fdfdfd.jpg'><img width=\"214\" height=\"300\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/fdfdfd-214x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/fdfdfd-214x300.jpg 214w, https://torresalameda.tomalosbarrios.net/files/2011/06/fdfdfd.jpg 582w\" sizes=\"(max-width: 214px) 100vw, 214px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/06/fdfdfd.jpg'><img width=\"214\" height=\"300\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/fdfdfd-214x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/fdfdfd-214x300.jpg 214w, https://torresalameda.tomalosbarrios.net/files/2011/06/fdfdfd.jpg 582w\" sizes=\"(max-width: 214px) 100vw, 214px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -329,16 +323,16 @@
     "rendered": "Manifestacion NO PODRAN PARARNOS!"
   },
   "content": {
-    "rendered": "<div>\nEl domingo 3 de julio el Pueblo de Madrid est\u00e1 llamado a juzgar a las instituciones pol\u00edticas y econ\u00f3micas del poder.<br />\nLa asamblea &#171;No podr\u00e1n pararnos&#187; convoca a una MANIFESTACI\u00d3N a las 19h de Cibeles a Sol:<br />\n&#8211; por la absoluci\u00f3n de los detenidos del 15M<br />\n&#8211; ni un deshaucio ni despido m\u00e1s<br />\n&#8211; fuera la reforma laboral<br />\n&#8211; se realizar\u00e1n juicios simb\u00f3licos en: Banco de Espa\u00f1a, Consejer\u00eda de  Educaci\u00f3n, Instituciones Penitenciarias, BBVA, Direcci\u00f3n General de  Seguridad y Presidencia de la Comunidad.</p>\n<p>Toda la informaci\u00f3n, manifiesto y carteles en <a href=\"https://nopodranpararnos.wordpress.com/\" target=\"_blank\">https://nopodranpararnos.wordpress.com/</a></p>\n<p>\u00a1NO PODR\u00c1N PARARNOS!<a href=\"http://torresalameda.tomalosbarrios.net/files/2011/06/fdfdfd.jpg\"><img class=\"aligncenter size-full wp-image-193\" src=\"http://torresalameda.tomalosbarrios.net/files/2011/06/fdfdfd.jpg\" alt=\"\" width=\"582\" height=\"815\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/fdfdfd.jpg 582w, https://torresalameda.tomalosbarrios.net/files/2011/06/fdfdfd-214x300.jpg 214w\" sizes=\"(max-width: 582px) 100vw, 582px\" /></a></div>\n",
+    "rendered": "<div>\nEl domingo 3 de julio el Pueblo de Madrid est\u00e1 llamado a juzgar a las instituciones pol\u00edticas y econ\u00f3micas del poder.<br />\nLa asamblea \u00abNo podr\u00e1n pararnos\u00bb convoca a una MANIFESTACI\u00d3N a las 19h de Cibeles a Sol:<br />\n&#8211; por la absoluci\u00f3n de los detenidos del 15M<br />\n&#8211; ni un deshaucio ni despido m\u00e1s<br />\n&#8211; fuera la reforma laboral<br />\n&#8211; se realizar\u00e1n juicios simb\u00f3licos en: Banco de Espa\u00f1a, Consejer\u00eda de  Educaci\u00f3n, Instituciones Penitenciarias, BBVA, Direcci\u00f3n General de  Seguridad y Presidencia de la Comunidad.</p>\n<p>Toda la informaci\u00f3n, manifiesto y carteles en <a href=\"https://nopodranpararnos.wordpress.com/\" target=\"_blank\">https://nopodranpararnos.wordpress.com/</a></p>\n<p>\u00a1NO PODR\u00c1N PARARNOS!<a href=\"http://torresalameda.tomalosbarrios.net/files/2011/06/fdfdfd.jpg\"><img loading=\"lazy\" class=\"aligncenter size-full wp-image-193\" src=\"http://torresalameda.tomalosbarrios.net/files/2011/06/fdfdfd.jpg\" alt=\"\" width=\"582\" height=\"815\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/fdfdfd.jpg 582w, https://torresalameda.tomalosbarrios.net/files/2011/06/fdfdfd-214x300.jpg 214w\" sizes=\"(max-width: 582px) 100vw, 582px\" /></a></div>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>El domingo 3 de julio el Pueblo de Madrid est\u00e1 llamado a juzgar a las instituciones pol\u00edticas y econ\u00f3micas del poder. La asamblea &#171;No podr\u00e1n pararnos&#187; convoca a una MANIFESTACI\u00d3N a las 19h de Cibeles a Sol: &#8211; por la &hellip; <a href=\"https://torresalameda.tomalosbarrios.net/2011/06/30/manifestacion-no-podran-pararnos/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+    "rendered": "<p>El domingo 3 de julio el Pueblo de Madrid est\u00e1 llamado a juzgar a las instituciones pol\u00edticas y econ\u00f3micas del poder. La asamblea \u00abNo podr\u00e1n pararnos\u00bb convoca a una MANIFESTACI\u00d3N a las 19h de Cibeles a Sol: &#8211; por la &hellip; <a href=\"https://torresalameda.tomalosbarrios.net/2011/06/30/manifestacion-no-podran-pararnos/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
     "protected": false
   },
   "author": 628,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -379,14 +373,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/190/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 195,
-        "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/190/revisions/195"
       }
     ],
     "wp:attachment": [
@@ -431,12 +419,12 @@
     "rendered": "viewer"
   },
   "author": 628,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/06/viewer.png'><img width=\"224\" height=\"300\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/viewer-224x300.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/viewer-224x300.png 224w, https://torresalameda.tomalosbarrios.net/files/2011/06/viewer-767x1024.png 767w, https://torresalameda.tomalosbarrios.net/files/2011/06/viewer.png 800w\" sizes=\"(max-width: 224px) 100vw, 224px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/06/viewer.png'><img width=\"224\" height=\"300\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/viewer-224x300.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/viewer-224x300.png 224w, https://torresalameda.tomalosbarrios.net/files/2011/06/viewer-767x1024.png 767w, https://torresalameda.tomalosbarrios.net/files/2011/06/viewer.png 800w\" sizes=\"(max-width: 224px) 100vw, 224px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -543,12 +531,12 @@
     "rendered": "debatepueblo"
   },
   "author": 628,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/06/debatepueblo.jpg'><img width=\"200\" height=\"276\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/debatepueblo.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/06/debatepueblo.jpg'><img width=\"200\" height=\"276\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/debatepueblo.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -643,7 +631,7 @@
     "rendered": "Debate Estado de la Nacion."
   },
   "content": {
-    "rendered": "<p><a href=\"http://torresalameda.tomalosbarrios.net/files/2011/06/debatepueblo.jpg\"><img class=\"aligncenter size-full wp-image-177\" src=\"http://torresalameda.tomalosbarrios.net/files/2011/06/debatepueblo.jpg\" alt=\"\" width=\"200\" height=\"276\" /></a></p>\n",
+    "rendered": "<p><a href=\"http://torresalameda.tomalosbarrios.net/files/2011/06/debatepueblo.jpg\"><img loading=\"lazy\" class=\"aligncenter size-full wp-image-177\" src=\"http://torresalameda.tomalosbarrios.net/files/2011/06/debatepueblo.jpg\" alt=\"\" width=\"200\" height=\"276\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -652,7 +640,7 @@
   },
   "author": 628,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -693,14 +681,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/174/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 189,
-        "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/174/revisions/189"
       }
     ],
     "wp:attachment": [
@@ -754,7 +736,7 @@
   },
   "author": 628,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -795,14 +777,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/166/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 170,
-        "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/166/revisions/170"
       }
     ],
     "wp:attachment": [
@@ -856,7 +832,7 @@
   },
   "author": 628,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -897,14 +873,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/162/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 165,
-        "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/162/revisions/165"
       }
     ],
     "wp:attachment": [
@@ -949,12 +919,12 @@
     "rendered": "ibercaja_estafa"
   },
   "author": 628,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/06/ibercaja_estafa.jpg'><img width=\"211\" height=\"300\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/ibercaja_estafa-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/ibercaja_estafa-211x300.jpg 211w, https://torresalameda.tomalosbarrios.net/files/2011/06/ibercaja_estafa.jpg 595w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/06/ibercaja_estafa.jpg'><img width=\"211\" height=\"300\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/ibercaja_estafa-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/ibercaja_estafa-211x300.jpg 211w, https://torresalameda.tomalosbarrios.net/files/2011/06/ibercaja_estafa.jpg 595w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -1055,7 +1025,7 @@
     "rendered": "PAREMOS LA SUBASTA"
   },
   "content": {
-    "rendered": "<p><a href=\"http://torresalameda.tomalosbarrios.net/files/2011/06/ibercaja_estafa.jpg\"><img class=\"aligncenter size-full wp-image-158\" src=\"http://torresalameda.tomalosbarrios.net/files/2011/06/ibercaja_estafa.jpg\" alt=\"\" width=\"595\" height=\"842\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/ibercaja_estafa.jpg 595w, https://torresalameda.tomalosbarrios.net/files/2011/06/ibercaja_estafa-211x300.jpg 211w\" sizes=\"(max-width: 595px) 100vw, 595px\" /></a></p>\n",
+    "rendered": "<p><a href=\"http://torresalameda.tomalosbarrios.net/files/2011/06/ibercaja_estafa.jpg\"><img loading=\"lazy\" class=\"aligncenter size-full wp-image-158\" src=\"http://torresalameda.tomalosbarrios.net/files/2011/06/ibercaja_estafa.jpg\" alt=\"\" width=\"595\" height=\"842\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/ibercaja_estafa.jpg 595w, https://torresalameda.tomalosbarrios.net/files/2011/06/ibercaja_estafa-211x300.jpg 211w\" sizes=\"(max-width: 595px) 100vw, 595px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -1064,7 +1034,7 @@
   },
   "author": 628,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1106,14 +1076,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/155/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 161,
-        "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/155/revisions/161"
       }
     ],
     "wp:attachment": [
@@ -1167,7 +1131,7 @@
   },
   "author": 628,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1208,14 +1172,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/150/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 154,
-        "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/150/revisions/154"
       }
     ],
     "wp:attachment": [
@@ -1260,7 +1218,7 @@
     "rendered": "Flotilla de la Libertad, rumbo Gaza. Comunicado y acciones."
   },
   "content": {
-    "rendered": "<p>La  Flotilla de la LIbertad II, seguimos siendo <a href=\"mailto:Human@s\" target=\"_blank\">Human@s</a>, ir\u00e1 rumbo a Gaza dentro de unos pocos d\u00edas ,  expresando de manera concreta su solidaridad con el pueblo  Palestino.</p>\n<p>Estar\u00e1  compuesta de diez barcos, entre ellos dos que son barcos de cargo transportando  ayuda humanitaria, mientras los otros transportar\u00e1n 400 pasajeros y entro ellos  y ellas <a href=\"mailto:algun@s\" target=\"_blank\">algun@s</a> politicos, miembros del Parlamento  Europeo, escritores, hombres de iglesia, artistas, <a href=\"mailto:reporter@s\" target=\"_blank\">reporter@s</a> y periodistas estar\u00e1n tambien a bordo  (CNN, RADIO CANADA, AL. JAZEERA)</p>\n<p>En  Espana tambien hemos juntado el dinero para que un barco salga de Spagna con 50  activistas y el barco se llama Gernica</p>\n<p>Muchas  son las amenazas proferidas por el gobierno Isra\u00ebli que afirma sin escrupulos  que recurrir\u00e1 a todos los medios a su alcance para parar la misi\u00f3n, incluida la  violencia.</p>\n<p>El  gobierno espanol como la majoria de los gobiernos evitan de exigir a Isra\u00ebl que  se conforme al derecho internacional y evitan empreder las acciones que se  imponen para proteger sus propios conciudadan@s a pesar de que esten desarmad@s  y participen a una accion pacifica y humanitaria.</p>\n<p>Bien nos  recodamos lo que paso a la Flotilla el a\u00f1o pasado, cuando 9 companeros turcos  fueron asesinados y 53 herid@s en un ataque del esercito israeli en aguas  internacionales.</p>\n<p>La semana que viene  ser\u00e1 decisiva, para apoyar esta iniciativa que intenta romper el bloqueo  impuesto desde el junio 2007. El enemigo es muy poderoso pero nosotros y  nosotras tenemos la raz\u00f3n.</p>\n<p>Por esto tenemos que  mobilizarnos</p>\n<p>Estamos aqui a pedir  el vuestro apoyo porque la voz de las personas en mar y la voz de las personas  en tierra se unien contra la politica de ocupaci\u00f2n y de violencia del estado de  Israel y el pueblo palestino sea libre de vivir dignamiente en su tierra.</p>\n<p><strong>Acci\u00f2nes: </strong></p>\n<p>&nbsp;</p>\n<p>1. Desde el dia que el  Gernika este en aguas internacionales, <strong>instalaremos \u00a0una mesa informativa en  Sol.</strong> Estaremos junto al punto de infomacion. Haremos turnos de dia y de  noche. dando informacion minuto a minuto de lo que pase en la flotilla pasando  videos de lo que nos llega permanentemente. Ya somos parte de la indignacion  internacional!</p>\n<p>2. E<strong>n este  mismo dia a las 8 haremos un flashmob </strong><span style=\"font-family: Arial\"><strong><span style=\"font-family: Arial\">\u201cNavegamos <a href=\"mailto:tod@s\" target=\"_blank\">tod@s</a>\u201d\u00a0(*) h.20\u00a0\u00a0en frente al Ministerio  del Exterior, plaza Provincia 1, Madrid</span> y despues en Sol. Symbolizamos  \u201cQUE SI, QUE SI, que llegan a Gaza!\u201d</strong></span></p>\n<p><strong> </strong></p>\n<p><strong> </strong><strong>3. Si\u00a0pasa algo a la hora que sea estaremos  en frente del Ministero</strong> y  en el mismo dia convocamos una <strong>concentraci\u00f2n masiva en frente al  Ministerio </strong><span style=\"font-family: Arial\"><strong>del  <span style=\"font-family: Arial\">Exterior, plaza Provincia 1</span> </strong><strong>a las 8 de la tarde. </strong></span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong> </strong></p>\n<p><strong><span style=\"font-family: Arial\">en esta semana sigue informandote y  participa!</span></strong></p>\n<p><strong><span style=\"font-family: Arial\"> </span></strong></p>\n<p><strong><a href=\"http://www.rumboagaza.org/\" target=\"_blank\"><span style=\"font-size: small\">http://www.rumboagaza.org</span></a></strong></p>\n<p><strong><a href=\"http://es-es.facebook.com/pages/International-Platform-to-Support-the-Freedom-Flotilla-Two\" target=\"_blank\"><span style=\"font-size: small\">http://es-es.facebook.com/pages/International-Platform-to-Support-the-Freedom-Flotilla-Two</span></a></strong></p>\n<p><strong><a href=\"http://www.facebook.com/pages/Madrid-Rumbo-a-Gaza/123607171022209\" target=\"_blank\"><span style=\"font-size: small\">http://www.facebook.com/pages/Madrid-Rumbo-a-Gaza/123607171022209</span></a></strong></p>\n<p><strong><a href=\"https://twitter.com/#%21/madrid_gaza\" target=\"_blank\"><span style=\"font-size: small\">https://twitter.com/#!/madrid_gaza</span></a></strong><span style=\"font-size: small\"><strong>)</strong></span></p>\n<p><strong><span style=\"font-size: small\"> </span></strong></p>\n<p><strong>(*) Navigamos tod@s! Acci\u00f3n en Madrid (flashmob) </strong></p>\n<p><strong><a href=\"http://www.facebook.com/notes/marita-casa/navigamos-tods-acci%C3%B3n-en-madrid-flashmob/2406\" target=\"_blank\">http://www.facebook.com/notes/marita-casa/navigamos-tods-acci\u00f3n-en-madrid-flashmob/2406</a></strong></p>\n<p>&nbsp;</p>\n<p>Esta acci\u00f3n se har\u00e1  frente al Ministerio de Exteriores de Madrid, Plaza Provincia a las \u00a020.00  Esta accion se repetir\u00e1 \u00a0en Sol despu\u00e9s de hacerla en frente al Ministerio  de Exteriores.</p>\n<p><strong> </strong></p>\n<p><strong>Cuando la flotilla  &#171;Rumbo a Gaza&#187; entre en aguas internacionales, </strong> haremos una\u00a0acci\u00f3n en Madrid, para  acompa\u00f1ar \u00a0la \u00a0salida de los barcos y mostrar nuestro deseo de que  llegen a Gaza.</p>\n<p>Que si, que si que si  van a llegar!</p>\n<p>Porque deseamos que La  Flotilla Rumbo a Gaza pueda romper el criminal y ilegal\u00a0bloqueo de Israel y  porque quieremos entregar al pueblo palestino toda la ayuda que transportan los  barcos (medicamentos, alimentos, material escolar,  etc).</p>\n<p>&nbsp;</p>\n<p>Barcos de papel  que simbolizan la flotilla saldr\u00e1n con m\u00fasica \u00a0que acompa\u00f1ar\u00e1 a las  personas que los llevar\u00e1n. Los barcos van de una parte de la plaza a la otra  donde esta Gaza bloqueada.\u00a0Mientras los barcos de papel con la m\u00fasica avanzan  habr\u00e1\u00a020\u00a0palestinas/os\u00a0 en la otra parte de la plaza que  representan a \u00a0Gaza bloqueada por Israel. (5 personas que hacen una  barriera con las manos). Los  barcos se mueven con la musica y cada 2/3 minutos. Cada\u00a0 vez que la musica  para, los barcos se detienen\u00a0 y escuchan a quien esta hablando al megafono.  La persona al megafono explica lo que esta pasando. Al final, como esperamos,  todos los barcos rompen el bloqueo y llegan a Gaza abrazando los/las palestin@s.</p>\n<p>Faltan voluntari@s m\u00e1s.\u00a0Animate!  Participa!</p>\n<p>Las personas que quieran participar al flashmob  tienen que\u00a0<strong>apuntarse\u00a0enviando un mail en\u00a0el cual se explica  qu\u00e9 desea hacer\u00a0dentro de esta representaci\u00f3n solidaria: </strong><a href=\"mailto:maciacia50@hotmail.com\" target=\"_blank\"><strong>maciacia50@hotmail.com</strong></a></p>\n<p>Peo tod@s son  bienvenid@s para suppotar esta acci\u00f2n</p>\n",
+    "rendered": "<p>La  Flotilla de la LIbertad II, seguimos siendo <a href=\"mailto:Human@s\" target=\"_blank\">Human@s</a>, ir\u00e1 rumbo a Gaza dentro de unos pocos d\u00edas ,  expresando de manera concreta su solidaridad con el pueblo  Palestino.</p>\n<p>Estar\u00e1  compuesta de diez barcos, entre ellos dos que son barcos de cargo transportando  ayuda humanitaria, mientras los otros transportar\u00e1n 400 pasajeros y entro ellos  y ellas <a href=\"mailto:algun@s\" target=\"_blank\">algun@s</a> politicos, miembros del Parlamento  Europeo, escritores, hombres de iglesia, artistas, <a href=\"mailto:reporter@s\" target=\"_blank\">reporter@s</a> y periodistas estar\u00e1n tambien a bordo  (CNN, RADIO CANADA, AL. JAZEERA)</p>\n<p>En  Espana tambien hemos juntado el dinero para que un barco salga de Spagna con 50  activistas y el barco se llama Gernica</p>\n<p>Muchas  son las amenazas proferidas por el gobierno Isra\u00ebli que afirma sin escrupulos  que recurrir\u00e1 a todos los medios a su alcance para parar la misi\u00f3n, incluida la  violencia.</p>\n<p>El  gobierno espanol como la majoria de los gobiernos evitan de exigir a Isra\u00ebl que  se conforme al derecho internacional y evitan empreder las acciones que se  imponen para proteger sus propios conciudadan@s a pesar de que esten desarmad@s  y participen a una accion pacifica y humanitaria.</p>\n<p>Bien nos  recodamos lo que paso a la Flotilla el a\u00f1o pasado, cuando 9 companeros turcos  fueron asesinados y 53 herid@s en un ataque del esercito israeli en aguas  internacionales.</p>\n<p>La semana que viene  ser\u00e1 decisiva, para apoyar esta iniciativa que intenta romper el bloqueo  impuesto desde el junio 2007. El enemigo es muy poderoso pero nosotros y  nosotras tenemos la raz\u00f3n.</p>\n<p>Por esto tenemos que  mobilizarnos</p>\n<p>Estamos aqui a pedir  el vuestro apoyo porque la voz de las personas en mar y la voz de las personas  en tierra se unien contra la politica de ocupaci\u00f2n y de violencia del estado de  Israel y el pueblo palestino sea libre de vivir dignamiente en su tierra.</p>\n<p><strong>Acci\u00f2nes: </strong></p>\n<p>&nbsp;</p>\n<p>1. Desde el dia que el  Gernika este en aguas internacionales, <strong>instalaremos \u00a0una mesa informativa en  Sol.</strong> Estaremos junto al punto de infomacion. Haremos turnos de dia y de  noche. dando informacion minuto a minuto de lo que pase en la flotilla pasando  videos de lo que nos llega permanentemente. Ya somos parte de la indignacion  internacional!</p>\n<p>2. E<strong>n este  mismo dia a las 8 haremos un flashmob </strong><span style=\"font-family: Arial\"><strong><span style=\"font-family: Arial\">\u201cNavegamos <a href=\"mailto:tod@s\" target=\"_blank\">tod@s</a>\u201d\u00a0(*) h.20\u00a0\u00a0en frente al Ministerio  del Exterior, plaza Provincia 1, Madrid</span> y despues en Sol. Symbolizamos  \u201cQUE SI, QUE SI, que llegan a Gaza!\u201d</strong></span></p>\n<p><strong> </strong></p>\n<p><strong> </strong><strong>3. Si\u00a0pasa algo a la hora que sea estaremos  en frente del Ministero</strong> y  en el mismo dia convocamos una <strong>concentraci\u00f2n masiva en frente al  Ministerio </strong><span style=\"font-family: Arial\"><strong>del  <span style=\"font-family: Arial\">Exterior, plaza Provincia 1</span> </strong><strong>a las 8 de la tarde. </strong></span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong> </strong></p>\n<p><strong><span style=\"font-family: Arial\">en esta semana sigue informandote y  participa!</span></strong></p>\n<p><strong><span style=\"font-family: Arial\"> </span></strong></p>\n<p><strong><a href=\"http://www.rumboagaza.org/\" target=\"_blank\"><span style=\"font-size: small\">http://www.rumboagaza.org</span></a></strong></p>\n<p><strong><a href=\"http://es-es.facebook.com/pages/International-Platform-to-Support-the-Freedom-Flotilla-Two\" target=\"_blank\"><span style=\"font-size: small\">http://es-es.facebook.com/pages/International-Platform-to-Support-the-Freedom-Flotilla-Two</span></a></strong></p>\n<p><strong><a href=\"http://www.facebook.com/pages/Madrid-Rumbo-a-Gaza/123607171022209\" target=\"_blank\"><span style=\"font-size: small\">http://www.facebook.com/pages/Madrid-Rumbo-a-Gaza/123607171022209</span></a></strong></p>\n<p><strong><a href=\"https://twitter.com/#%21/madrid_gaza\" target=\"_blank\"><span style=\"font-size: small\">https://twitter.com/#!/madrid_gaza</span></a></strong><span style=\"font-size: small\"><strong>)</strong></span></p>\n<p><strong><span style=\"font-size: small\"> </span></strong></p>\n<p><strong>(*) Navigamos tod@s! Acci\u00f3n en Madrid (flashmob) </strong></p>\n<p><strong><a href=\"http://www.facebook.com/notes/marita-casa/navigamos-tods-acci%C3%B3n-en-madrid-flashmob/2406\" target=\"_blank\">http://www.facebook.com/notes/marita-casa/navigamos-tods-acci\u00f3n-en-madrid-flashmob/2406</a></strong></p>\n<p>&nbsp;</p>\n<p>Esta acci\u00f3n se har\u00e1  frente al Ministerio de Exteriores de Madrid, Plaza Provincia a las \u00a020.00  Esta accion se repetir\u00e1 \u00a0en Sol despu\u00e9s de hacerla en frente al Ministerio  de Exteriores.</p>\n<p><strong> </strong></p>\n<p><strong>Cuando la flotilla  \u00abRumbo a Gaza\u00bb entre en aguas internacionales, </strong> haremos una\u00a0acci\u00f3n en Madrid, para  acompa\u00f1ar \u00a0la \u00a0salida de los barcos y mostrar nuestro deseo de que  llegen a Gaza.</p>\n<p>Que si, que si que si  van a llegar!</p>\n<p>Porque deseamos que La  Flotilla Rumbo a Gaza pueda romper el criminal y ilegal\u00a0bloqueo de Israel y  porque quieremos entregar al pueblo palestino toda la ayuda que transportan los  barcos (medicamentos, alimentos, material escolar,  etc).</p>\n<p>&nbsp;</p>\n<p>Barcos de papel  que simbolizan la flotilla saldr\u00e1n con m\u00fasica \u00a0que acompa\u00f1ar\u00e1 a las  personas que los llevar\u00e1n. Los barcos van de una parte de la plaza a la otra  donde esta Gaza bloqueada.\u00a0Mientras los barcos de papel con la m\u00fasica avanzan  habr\u00e1\u00a020\u00a0palestinas/os\u00a0 en la otra parte de la plaza que  representan a \u00a0Gaza bloqueada por Israel. (5 personas que hacen una  barriera con las manos). Los  barcos se mueven con la musica y cada 2/3 minutos. Cada\u00a0 vez que la musica  para, los barcos se detienen\u00a0 y escuchan a quien esta hablando al megafono.  La persona al megafono explica lo que esta pasando. Al final, como esperamos,  todos los barcos rompen el bloqueo y llegan a Gaza abrazando los/las palestin@s.</p>\n<p>Faltan voluntari@s m\u00e1s.\u00a0Animate!  Participa!</p>\n<p>Las personas que quieran participar al flashmob  tienen que\u00a0<strong>apuntarse\u00a0enviando un mail en\u00a0el cual se explica  qu\u00e9 desea hacer\u00a0dentro de esta representaci\u00f3n solidaria: </strong><a href=\"mailto:maciacia50@hotmail.com\" target=\"_blank\"><strong>maciacia50@hotmail.com</strong></a></p>\n<p>Peo tod@s son  bienvenid@s para suppotar esta acci\u00f2n</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -1269,7 +1227,7 @@
   },
   "author": 628,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1311,14 +1269,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/145/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 149,
-        "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/145/revisions/149"
       }
     ],
     "wp:attachment": [
@@ -1372,7 +1324,7 @@
   },
   "author": 628,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1413,14 +1365,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/138/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 143,
-        "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/138/revisions/143"
       }
     ],
     "wp:attachment": [
@@ -1474,7 +1420,7 @@
   },
   "author": 628,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1515,14 +1461,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/133/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 137,
-        "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/133/revisions/137"
       }
     ],
     "wp:attachment": [
@@ -1567,7 +1507,7 @@
     "rendered": "21-Junio-11blog"
   },
   "author": 628,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1682,7 +1622,7 @@
   },
   "author": 628,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1724,14 +1664,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/117/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 172,
-        "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/117/revisions/172"
       }
     ],
     "wp:attachment": [
@@ -1776,7 +1710,7 @@
     "rendered": "Decenas de miles de personas, convocadas por m\u00e1s de un centenar de asambleas populares toman Madrid el 19J"
   },
   "content": {
-    "rendered": "<h1><a title=\"Decenas de miles de personas, convocadas por m\u00e1s de un centenar de asambleas populares toman Madrid el 19J\" rel=\"bookmark\" href=\"http://madrid.tomalosbarrios.net/2011/06/19/decenas-de-miles-de-personas-convocadas-por-mas-de-un-centenar-de-asambleas-populares-toman-madrid-el-19j/\">Decenas de miles de personas, convocadas por m\u00e1s de un centenar de asambleas populares toman Madrid el 19J</a></h1>\n<p>By <a title=\"comision_de_barrios\" href=\"http://madrid.tomalosbarrios.net/author/barrios/\">comision_de_barrios</a> on <abbr title=\"Domingo, 19 junio 2011, 3:41 pm\">19 junio, 2011</abbr></p>\n<p><a rel=\"attachment wp-att-1096\" href=\"http://torresalameda.tomalosbarrios.net/?attachment_id=1096\"><img src=\"http://madrid.tomalosbarrios.net/files/2011/06/IMG_0056.jpg\" alt=\"\" width=\"440\" height=\"293\" /></a>La  marcha de los barrios y pueblos de Madrid hacia el Congreso de los  Diputados se ha convertido en un nuevo hito del movimiento surgido hace  un mes en contra de la gesti\u00f3n pol\u00edtica y econ\u00f3mica de la crisis.</p>\n<p>Decenas de miles de personas, llegadas de los barrios y pueblos de la  periferia a trav\u00e9s de 6 columnas, han desafiado los 30\u00ba de temperatura\u00a0<a href=\"http://www.escolar.net/MT/archives/2011/06/no-me-representan.html\">y los intentos por criminalizar el movimiento</a> para secundar una nueva protesta pac\u00edfica y festiva en contra de los recortes sociales y del llamado pacto del euro.</p>\n<p>Un dispositivo de decenas de furgonetas policiales bloquea el acceso  al Congreso de los Diuputados, objetivo inicial de la protesta. De  espaldas al despliegue ordenado por la Delegaci\u00f3n del Gobierno, miles de  personas se disponen\u00a0<a href=\"http://madrid.tomalaplaza.net/files/2011/06/actiplano.jpg\">a participar en las actividades previstas para esta tarde</a>,  que incluyen desde tribunas ciudadanas hasta conciertos y  representaciones teatrales. A las 20 horas tendr\u00e1 lugar la asamblea  popular.</p>\n<p>Mientras, 60 ciudades del resto del Estado se preparan para protagonizar su propia jornada de protesta.</p>\n<p><em>fuente: <a href=\"http://diagonalperiodico.net/El-19J-pulveriza-las-previsiones-y.html\" target=\"_blank\">diagonal</a></em></p>\n<p>Desde @acampadasol informan que haciendo recuento de columnas y  ocupaci\u00f3n de plazas en torno a las 2.30 de la tarde, nos salen m\u00e1s de  150.000 personas\u00a0<a title=\"#19JMad\" rel=\"nofollow\" href=\"http://twitter.com/#%21/search?q=%2319JMad\">#19JMad</a><br />\n<strong>Vista a\u00e9rea manifestaci\u00f3n Congreso #19j</strong></p>\n<p><iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/albsCH2SiKA?fs=1&#038;feature=oembed\" frameborder=\"0\" allowfullscreen></iframe></p>\n",
+    "rendered": "<h1><a title=\"Decenas de miles de personas, convocadas por m\u00e1s de un centenar de asambleas populares toman Madrid el 19J\" rel=\"bookmark\" href=\"http://madrid.tomalosbarrios.net/2011/06/19/decenas-de-miles-de-personas-convocadas-por-mas-de-un-centenar-de-asambleas-populares-toman-madrid-el-19j/\">Decenas de miles de personas, convocadas por m\u00e1s de un centenar de asambleas populares toman Madrid el 19J</a></h1>\n<p>By <a title=\"comision_de_barrios\" href=\"http://madrid.tomalosbarrios.net/author/barrios/\">comision_de_barrios</a> on <abbr title=\"Domingo, 19 junio 2011, 3:41 pm\">19 junio, 2011</abbr></p>\n<p><a rel=\"attachment wp-att-1096\" href=\"http://torresalameda.tomalosbarrios.net/?attachment_id=1096\"><img loading=\"lazy\" src=\"http://madrid.tomalosbarrios.net/files/2011/06/IMG_0056.jpg\" alt=\"\" width=\"440\" height=\"293\" /></a>La  marcha de los barrios y pueblos de Madrid hacia el Congreso de los  Diputados se ha convertido en un nuevo hito del movimiento surgido hace  un mes en contra de la gesti\u00f3n pol\u00edtica y econ\u00f3mica de la crisis.</p>\n<p>Decenas de miles de personas, llegadas de los barrios y pueblos de la  periferia a trav\u00e9s de 6 columnas, han desafiado los 30\u00ba de temperatura\u00a0<a href=\"http://www.escolar.net/MT/archives/2011/06/no-me-representan.html\">y los intentos por criminalizar el movimiento</a> para secundar una nueva protesta pac\u00edfica y festiva en contra de los recortes sociales y del llamado pacto del euro.</p>\n<p>Un dispositivo de decenas de furgonetas policiales bloquea el acceso  al Congreso de los Diuputados, objetivo inicial de la protesta. De  espaldas al despliegue ordenado por la Delegaci\u00f3n del Gobierno, miles de  personas se disponen\u00a0<a href=\"http://madrid.tomalaplaza.net/files/2011/06/actiplano.jpg\">a participar en las actividades previstas para esta tarde</a>,  que incluyen desde tribunas ciudadanas hasta conciertos y  representaciones teatrales. A las 20 horas tendr\u00e1 lugar la asamblea  popular.</p>\n<p>Mientras, 60 ciudades del resto del Estado se preparan para protagonizar su propia jornada de protesta.</p>\n<p><em>fuente: <a href=\"http://diagonalperiodico.net/El-19J-pulveriza-las-previsiones-y.html\" target=\"_blank\">diagonal</a></em></p>\n<p>Desde @acampadasol informan que haciendo recuento de columnas y  ocupaci\u00f3n de plazas en torno a las 2.30 de la tarde, nos salen m\u00e1s de  150.000 personas\u00a0<a title=\"#19JMad\" rel=\"nofollow\" href=\"http://twitter.com/#%21/search?q=%2319JMad\">#19JMad</a><br />\n<strong>Vista a\u00e9rea manifestaci\u00f3n Congreso #19j</strong></p>\n<p><iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/albsCH2SiKA?fs=1&#038;feature=oembed\" frameborder=\"0\" allowfullscreen></iframe></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -1785,7 +1719,7 @@
   },
   "author": 628,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1826,14 +1760,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/112/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 116,
-        "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/112/revisions/116"
       }
     ],
     "wp:attachment": [
@@ -1887,7 +1815,7 @@
   },
   "author": 628,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1928,14 +1856,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/106/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 110,
-        "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/106/revisions/110"
       }
     ],
     "wp:attachment": [
@@ -2089,7 +2011,7 @@
   },
   "author": 628,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2131,14 +2053,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/100/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 124,
-        "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/100/revisions/124"
       }
     ],
     "wp:attachment": [
@@ -2192,7 +2108,7 @@
   },
   "author": 628,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2233,14 +2149,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/96/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 99,
-        "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/96/revisions/99"
       }
     ],
     "wp:attachment": [
@@ -2285,12 +2195,12 @@
     "rendered": "A3_MADRID"
   },
   "author": 628,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/06/A3_MADRID.jpg'><img width=\"212\" height=\"300\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/A3_MADRID-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/A3_MADRID-212x300.jpg 212w, https://torresalameda.tomalosbarrios.net/files/2011/06/A3_MADRID.jpg 439w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/06/A3_MADRID.jpg'><img width=\"212\" height=\"300\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/A3_MADRID-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/A3_MADRID-212x300.jpg 212w, https://torresalameda.tomalosbarrios.net/files/2011/06/A3_MADRID.jpg 439w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2391,12 +2301,12 @@
     "rendered": "marchas-19j-recorridos-1"
   },
   "author": 628,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/06/marchas-19j-recorridos-1.jpg'><img width=\"300\" height=\"211\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/marchas-19j-recorridos-1-300x211.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/marchas-19j-recorridos-1-300x211.jpg 300w, https://torresalameda.tomalosbarrios.net/files/2011/06/marchas-19j-recorridos-1.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/06/marchas-19j-recorridos-1.jpg'><img width=\"300\" height=\"211\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/marchas-19j-recorridos-1-300x211.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/marchas-19j-recorridos-1-300x211.jpg 300w, https://torresalameda.tomalosbarrios.net/files/2011/06/marchas-19j-recorridos-1.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2497,7 +2407,7 @@
     "rendered": "Marchas contra la crisis."
   },
   "content": {
-    "rendered": "<h2><strong>CORREDOR DEL HENARES \u2013 HORTALEZA</strong></h2>\n<p><strong>Hora comienzo: 9.30</strong></p>\n<p><strong>Duraci\u00f3n prevista: 14.30h.</strong></p>\n<p><strong>ITINERARIO PREVISTO: Salida de  C/ Santa Susana (9:30) &#8211;\u00a0C/ Mar de las Antillas &#8211;\u00a0C/\u00a0Mar Caspio \u2013 C/ L\u00f3pez de  Hoyos \u2013 C/ Ram\u00f3n y Cajal \u2013 C/ L\u00f3pez de Hoyos \u2013 C/ Cartagena \u2013 \u00a0Avenida  de Am\u00e9rica (11:30) \u2013 C/ Mar\u00eda de Molina \u2013 Plaza de Gregorio Mara\u00f1\u00f3n (12:30 donde nos  juntaremos con la Columna Norte) \u2013 Paseo de la Castellana (13:30) \u2013 Paseo de  Recoletos \u2013 Pza. C\u00e1novas del Castillo (14:00 Neptuno, donde nos juntaremos con  las otras columnas) \u2013 Carrera de San Jer\u00f3nimo frente al Congreso de los  Diputados donde finalizar\u00e1 la marcha.</strong></p>\n<p>&nbsp;</p>\n<p><strong><a href=\"http://torresalameda.tomalosbarrios.net/files/2011/06/marchas-19j-recorridos-1.jpg\"><img class=\"aligncenter size-full wp-image-85\" src=\"http://torresalameda.tomalosbarrios.net/files/2011/06/marchas-19j-recorridos-1.jpg\" alt=\"\" width=\"1024\" height=\"723\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/marchas-19j-recorridos-1.jpg 1024w, https://torresalameda.tomalosbarrios.net/files/2011/06/marchas-19j-recorridos-1-300x211.jpg 300w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></a><a href=\"http://torresalameda.tomalosbarrios.net/files/2011/06/A3_MADRID.jpg\"><img class=\"aligncenter size-full wp-image-86\" src=\"http://torresalameda.tomalosbarrios.net/files/2011/06/A3_MADRID.jpg\" alt=\"\" width=\"439\" height=\"620\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/A3_MADRID.jpg 439w, https://torresalameda.tomalosbarrios.net/files/2011/06/A3_MADRID-212x300.jpg 212w\" sizes=\"(max-width: 439px) 100vw, 439px\" /></a>En esta pagina </strong><a href=\"http://marchasanticrisis.wordpress.com/\" target=\"_blank\">marchasanticrisis.wordpress.com</a> podeis encontrar consejos y mas informacion. Aqui os dejo una explicacion que han hecho desde las comisiones de Sol sobre el pacto del euro <a href=\"https://docs.google.com/viewer?a=v&amp;pid=gmail&amp;attid=0.1&amp;thid=1309cb992afe0236&amp;mt=application/msword&amp;url=https://mail.google.com/mail/?ui%3D2%26ik%3Da7c84103fc%26view%3Datt%26th%3D1309cb992afe0236%26attid%3D0.1%26disp%3Dsafe%26realattid%3Df_gp0v9k3u0%26zw&amp;sig=AHIEtbTYyejcgOxEjnpY1gaHF5UddQQQ8A\" target=\"_blank\">version completa </a>y <a href=\"https://docs.google.com/viewer?a=v&amp;pid=gmail&amp;attid=0.2&amp;thid=1309cb992afe0236&amp;mt=application/vnd.openxmlformats-officedocument.wordprocessingml.document&amp;url=https://mail.google.com/mail/?ui%3D2%26ik%3Da7c84103fc%26view%3Datt%26th%3D1309cb992afe0236%26attid%3D0.2%26disp%3Dsafe%26realattid%3Df_gp0v9k401%26zw&amp;sig=AHIEtbRGRef6SwaqGAAyv7anMWeiiYRksg\" target=\"_blank\">version corta.</a></p>\n",
+    "rendered": "<h2><strong>CORREDOR DEL HENARES \u2013 HORTALEZA</strong></h2>\n<p><strong>Hora comienzo: 9.30</strong></p>\n<p><strong>Duraci\u00f3n prevista: 14.30h.</strong></p>\n<p><strong>ITINERARIO PREVISTO: Salida de  C/ Santa Susana (9:30) &#8211;\u00a0C/ Mar de las Antillas &#8211;\u00a0C/\u00a0Mar Caspio \u2013 C/ L\u00f3pez de  Hoyos \u2013 C/ Ram\u00f3n y Cajal \u2013 C/ L\u00f3pez de Hoyos \u2013 C/ Cartagena \u2013 \u00a0Avenida  de Am\u00e9rica (11:30) \u2013 C/ Mar\u00eda de Molina \u2013 Plaza de Gregorio Mara\u00f1\u00f3n (12:30 donde nos  juntaremos con la Columna Norte) \u2013 Paseo de la Castellana (13:30) \u2013 Paseo de  Recoletos \u2013 Pza. C\u00e1novas del Castillo (14:00 Neptuno, donde nos juntaremos con  las otras columnas) \u2013 Carrera de San Jer\u00f3nimo frente al Congreso de los  Diputados donde finalizar\u00e1 la marcha.</strong></p>\n<p>&nbsp;</p>\n<p><strong><a href=\"http://torresalameda.tomalosbarrios.net/files/2011/06/marchas-19j-recorridos-1.jpg\"><img loading=\"lazy\" class=\"aligncenter size-full wp-image-85\" src=\"http://torresalameda.tomalosbarrios.net/files/2011/06/marchas-19j-recorridos-1.jpg\" alt=\"\" width=\"1024\" height=\"723\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/marchas-19j-recorridos-1.jpg 1024w, https://torresalameda.tomalosbarrios.net/files/2011/06/marchas-19j-recorridos-1-300x211.jpg 300w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></a><a href=\"http://torresalameda.tomalosbarrios.net/files/2011/06/A3_MADRID.jpg\"><img loading=\"lazy\" class=\"aligncenter size-full wp-image-86\" src=\"http://torresalameda.tomalosbarrios.net/files/2011/06/A3_MADRID.jpg\" alt=\"\" width=\"439\" height=\"620\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/A3_MADRID.jpg 439w, https://torresalameda.tomalosbarrios.net/files/2011/06/A3_MADRID-212x300.jpg 212w\" sizes=\"(max-width: 439px) 100vw, 439px\" /></a>En esta pagina </strong><a href=\"http://marchasanticrisis.wordpress.com/\" target=\"_blank\">marchasanticrisis.wordpress.com</a> podeis encontrar consejos y mas informacion. Aqui os dejo una explicacion que han hecho desde las comisiones de Sol sobre el pacto del euro <a href=\"https://docs.google.com/viewer?a=v&amp;pid=gmail&amp;attid=0.1&amp;thid=1309cb992afe0236&amp;mt=application/msword&amp;url=https://mail.google.com/mail/?ui%3D2%26ik%3Da7c84103fc%26view%3Datt%26th%3D1309cb992afe0236%26attid%3D0.1%26disp%3Dsafe%26realattid%3Df_gp0v9k3u0%26zw&amp;sig=AHIEtbTYyejcgOxEjnpY1gaHF5UddQQQ8A\" target=\"_blank\">version completa </a>y <a href=\"https://docs.google.com/viewer?a=v&amp;pid=gmail&amp;attid=0.2&amp;thid=1309cb992afe0236&amp;mt=application/vnd.openxmlformats-officedocument.wordprocessingml.document&amp;url=https://mail.google.com/mail/?ui%3D2%26ik%3Da7c84103fc%26view%3Datt%26th%3D1309cb992afe0236%26attid%3D0.2%26disp%3Dsafe%26realattid%3Df_gp0v9k401%26zw&amp;sig=AHIEtbRGRef6SwaqGAAyv7anMWeiiYRksg\" target=\"_blank\">version corta.</a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -2506,7 +2416,7 @@
   },
   "author": 628,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2547,14 +2457,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/82/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 92,
-        "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/82/revisions/92"
       }
     ],
     "wp:attachment": [
@@ -2608,7 +2512,7 @@
   },
   "author": 628,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2649,14 +2553,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/61/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 81,
-        "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/61/revisions/81"
       }
     ],
     "wp:attachment": [
@@ -2710,7 +2608,7 @@
   },
   "author": 628,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2751,14 +2649,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/53/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 74,
-        "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/53/revisions/74"
       }
     ],
     "wp:attachment": [
@@ -2812,7 +2704,7 @@
   },
   "author": 628,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2853,14 +2745,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/48/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 76,
-        "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/48/revisions/76"
       }
     ],
     "wp:attachment": [
@@ -2905,12 +2791,12 @@
     "rendered": "Nuevo Cartel"
   },
   "author": 628,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel4.jpg'><img width=\"214\" height=\"300\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel4-214x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel4-214x300.jpg 214w, https://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel4.jpg 593w\" sizes=\"(max-width: 214px) 100vw, 214px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel4.jpg'><img width=\"214\" height=\"300\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel4-214x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel4-214x300.jpg 214w, https://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel4.jpg 593w\" sizes=\"(max-width: 214px) 100vw, 214px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3011,12 +2897,12 @@
     "rendered": "Nuevo Cartel"
   },
   "author": 628,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel3.jpg'><img width=\"213\" height=\"300\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel3-213x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel3-213x300.jpg 213w, https://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel3.jpg 592w\" sizes=\"(max-width: 213px) 100vw, 213px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel3.jpg'><img width=\"213\" height=\"300\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel3-213x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel3-213x300.jpg 213w, https://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel3.jpg 592w\" sizes=\"(max-width: 213px) 100vw, 213px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3117,12 +3003,12 @@
     "rendered": "Nuevo Cartel"
   },
   "author": 628,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel2.jpg'><img width=\"213\" height=\"300\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel2-213x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel2-213x300.jpg 213w, https://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel2.jpg 592w\" sizes=\"(max-width: 213px) 100vw, 213px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel2.jpg'><img width=\"213\" height=\"300\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel2-213x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel2-213x300.jpg 213w, https://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel2.jpg 592w\" sizes=\"(max-width: 213px) 100vw, 213px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3223,12 +3109,12 @@
     "rendered": "CARTEL-MARCHAS-19JUN-723&#215;1024"
   },
   "author": 628,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/06/CARTEL-MARCHAS-19JUN-723x1024.jpg'><img width=\"211\" height=\"300\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/CARTEL-MARCHAS-19JUN-723x1024-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/CARTEL-MARCHAS-19JUN-723x1024-211x300.jpg 211w, https://torresalameda.tomalosbarrios.net/files/2011/06/CARTEL-MARCHAS-19JUN-723x1024.jpg 723w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/06/CARTEL-MARCHAS-19JUN-723x1024.jpg'><img width=\"211\" height=\"300\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/CARTEL-MARCHAS-19JUN-723x1024-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/CARTEL-MARCHAS-19JUN-723x1024-211x300.jpg 211w, https://torresalameda.tomalosbarrios.net/files/2011/06/CARTEL-MARCHAS-19JUN-723x1024.jpg 723w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3329,12 +3215,12 @@
     "rendered": "Nuevo Cartel"
   },
   "author": 628,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel1.jpg'><img width=\"213\" height=\"300\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel1-213x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel1-213x300.jpg 213w, https://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel1.jpg 592w\" sizes=\"(max-width: 213px) 100vw, 213px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel1.jpg'><img width=\"213\" height=\"300\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel1-213x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel1-213x300.jpg 213w, https://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel1.jpg 592w\" sizes=\"(max-width: 213px) 100vw, 213px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3435,7 +3321,7 @@
     "rendered": "Nuevo Cartel"
   },
   "author": 628,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3541,7 +3427,7 @@
     "rendered": "Llamamiento a la asistencia de todos los vecinos de Torres y alrededores."
   },
   "content": {
-    "rendered": "<p>Desde la asamblea general de Torres de la Alameda-Loeches queremos hacer un llamamiento a todos los vecinos de la zona a que se sumen a nosotros, para informarnos, debatir, dar alternativas, acciones&#8230; para los problemas que nos acontecen a todos nosotros como puede ser la incineradora de plasma (altamente toxica), recortes en educacion,\u00a0 sueldos impagados, y por desgracia un largo etc\u00e9tera.</p>\n<p>Para poder poner fin a todos los problemas que se vallan planteando, lo unico indespensable eres tu, uno solo no somos nada, todos juntos somos todo.</p>\n<p><a href=\"http://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel4.jpg\"><a href=\"http://torresalameda.tomalosbarrios.net/files/2011/06/viewer.png\"><img class=\"aligncenter size-full wp-image-186\" src=\"http://torresalameda.tomalosbarrios.net/files/2011/06/viewer.png\" alt=\"\" width=\"800\" height=\"1067\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/viewer.png 800w, https://torresalameda.tomalosbarrios.net/files/2011/06/viewer-224x300.png 224w, https://torresalameda.tomalosbarrios.net/files/2011/06/viewer-767x1024.png 767w\" sizes=\"(max-width: 800px) 100vw, 800px\" /></a><br />\n</a></p>\n<p><a href=\"http://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel3.jpg\"><br />\n</a></p>\n",
+    "rendered": "<p>Desde la asamblea general de Torres de la Alameda-Loeches queremos hacer un llamamiento a todos los vecinos de la zona a que se sumen a nosotros, para informarnos, debatir, dar alternativas, acciones&#8230; para los problemas que nos acontecen a todos nosotros como puede ser la incineradora de plasma (altamente toxica), recortes en educacion,\u00a0 sueldos impagados, y por desgracia un largo etc\u00e9tera.</p>\n<p>Para poder poner fin a todos los problemas que se vallan planteando, lo unico indespensable eres tu, uno solo no somos nada, todos juntos somos todo.</p>\n<p><a href=\"http://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel4.jpg\"><a href=\"http://torresalameda.tomalosbarrios.net/files/2011/06/viewer.png\"><img loading=\"lazy\" class=\"aligncenter size-full wp-image-186\" src=\"http://torresalameda.tomalosbarrios.net/files/2011/06/viewer.png\" alt=\"\" width=\"800\" height=\"1067\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/viewer.png 800w, https://torresalameda.tomalosbarrios.net/files/2011/06/viewer-224x300.png 224w, https://torresalameda.tomalosbarrios.net/files/2011/06/viewer-767x1024.png 767w\" sizes=\"(max-width: 800px) 100vw, 800px\" /></a><br />\n</a></p>\n<p><a href=\"http://torresalameda.tomalosbarrios.net/files/2011/06/Nuevo-Cartel3.jpg\"><br />\n</a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -3550,7 +3436,7 @@
   },
   "author": 628,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3591,14 +3477,8 @@
     ],
     "version-history": [
       {
-        "count": 7,
+        "count": 0,
         "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/32/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 187,
-        "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/32/revisions/187"
       }
     ],
     "wp:attachment": [
@@ -3643,12 +3523,12 @@
     "rendered": "AYUNTAMIENTO INTERIOR"
   },
   "author": 628,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/06/AYUNTAMIENTO-INTERIRO.jpg'><img width=\"300\" height=\"209\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/AYUNTAMIENTO-INTERIRO-300x209.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/AYUNTAMIENTO-INTERIRO-300x209.jpg 300w, https://torresalameda.tomalosbarrios.net/files/2011/06/AYUNTAMIENTO-INTERIRO.jpg 719w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/06/AYUNTAMIENTO-INTERIRO.jpg'><img width=\"300\" height=\"209\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/AYUNTAMIENTO-INTERIRO-300x209.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/AYUNTAMIENTO-INTERIRO-300x209.jpg 300w, https://torresalameda.tomalosbarrios.net/files/2011/06/AYUNTAMIENTO-INTERIRO.jpg 719w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3749,12 +3629,12 @@
     "rendered": "INTERIOR AYUNTAMIENTO"
   },
   "author": 628,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/06/INTERIOR-AYUNTAMIENTO.jpg'><img width=\"235\" height=\"300\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/INTERIOR-AYUNTAMIENTO-235x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/INTERIOR-AYUNTAMIENTO-235x300.jpg 235w, https://torresalameda.tomalosbarrios.net/files/2011/06/INTERIOR-AYUNTAMIENTO.jpg 533w\" sizes=\"(max-width: 235px) 100vw, 235px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/06/INTERIOR-AYUNTAMIENTO.jpg'><img width=\"235\" height=\"300\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/INTERIOR-AYUNTAMIENTO-235x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/INTERIOR-AYUNTAMIENTO-235x300.jpg 235w, https://torresalameda.tomalosbarrios.net/files/2011/06/INTERIOR-AYUNTAMIENTO.jpg 533w\" sizes=\"(max-width: 235px) 100vw, 235px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3855,12 +3735,12 @@
     "rendered": "ayuntamiento 2"
   },
   "author": 628,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/06/ayuntamiento-2.jpg'><img width=\"300\" height=\"225\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/ayuntamiento-2-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/ayuntamiento-2-300x225.jpg 300w, https://torresalameda.tomalosbarrios.net/files/2011/06/ayuntamiento-2.jpg 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/06/ayuntamiento-2.jpg'><img width=\"300\" height=\"225\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/ayuntamiento-2-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/ayuntamiento-2-300x225.jpg 300w, https://torresalameda.tomalosbarrios.net/files/2011/06/ayuntamiento-2.jpg 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3961,12 +3841,12 @@
     "rendered": "AYUNTAMIETNO"
   },
   "author": 628,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/06/AYUNTAMIETNO.jpg'><img width=\"300\" height=\"225\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/AYUNTAMIETNO-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/AYUNTAMIETNO-300x225.jpg 300w, https://torresalameda.tomalosbarrios.net/files/2011/06/AYUNTAMIETNO.jpg 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/06/AYUNTAMIETNO.jpg'><img width=\"300\" height=\"225\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/AYUNTAMIETNO-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/AYUNTAMIETNO-300x225.jpg 300w, https://torresalameda.tomalosbarrios.net/files/2011/06/AYUNTAMIETNO.jpg 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4067,7 +3947,7 @@
     "rendered": "PRESENCIA EN EL PLENO DE INVESTIDURA DEL AYUNTAMIENTO."
   },
   "content": {
-    "rendered": "<p>El sabado 11 de junio, como se dijo en la asamblea general nos concentramos un grupo de unas 15 personas para ir al pleno de investidura,\u00a0 pudimos acceder al interior donde se leyo un escrito pidiendo responsabilidad politica y se abrio un peque\u00f1o turno de palabra entre los asistentes.</p>\n<p>&nbsp;</p>\n<p><a href=\"http://torresalameda.tomalosbarrios.net/files/2011/06/AYUNTAMIETNO.jpg\"><img class=\"aligncenter size-full wp-image-19\" src=\"http://torresalameda.tomalosbarrios.net/files/2011/06/AYUNTAMIETNO.jpg\" alt=\"\" width=\"1000\" height=\"750\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/AYUNTAMIETNO.jpg 1000w, https://torresalameda.tomalosbarrios.net/files/2011/06/AYUNTAMIETNO-300x225.jpg 300w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" /></a><a href=\"http://torresalameda.tomalosbarrios.net/files/2011/06/ayuntamiento-2.jpg\"><img class=\"aligncenter size-full wp-image-20\" src=\"http://torresalameda.tomalosbarrios.net/files/2011/06/ayuntamiento-2.jpg\" alt=\"\" width=\"1000\" height=\"750\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/ayuntamiento-2.jpg 1000w, https://torresalameda.tomalosbarrios.net/files/2011/06/ayuntamiento-2-300x225.jpg 300w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" /></a><a href=\"http://torresalameda.tomalosbarrios.net/files/2011/06/INTERIOR-AYUNTAMIENTO.jpg\"><img class=\"aligncenter size-full wp-image-21\" src=\"http://torresalameda.tomalosbarrios.net/files/2011/06/INTERIOR-AYUNTAMIENTO.jpg\" alt=\"\" width=\"533\" height=\"680\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/INTERIOR-AYUNTAMIENTO.jpg 533w, https://torresalameda.tomalosbarrios.net/files/2011/06/INTERIOR-AYUNTAMIENTO-235x300.jpg 235w\" sizes=\"(max-width: 533px) 100vw, 533px\" /></a><div id='gallery-1' class='gallery galleryid-16 gallery-columns-3 gallery-size-thumbnail'><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://torresalameda.tomalosbarrios.net/2011/06/15/presencia-en-el-pleno-de-imbestidura-del-ayuntamiento/ayuntamietno/'><img width=\"150\" height=\"150\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/AYUNTAMIETNO-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://torresalameda.tomalosbarrios.net/2011/06/15/presencia-en-el-pleno-de-imbestidura-del-ayuntamiento/ayuntamiento-2/'><img width=\"150\" height=\"150\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/ayuntamiento-2-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://torresalameda.tomalosbarrios.net/2011/06/15/presencia-en-el-pleno-de-imbestidura-del-ayuntamiento/interior-ayuntamiento/'><img width=\"150\" height=\"150\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/INTERIOR-AYUNTAMIENTO-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://torresalameda.tomalosbarrios.net/2011/06/15/presencia-en-el-pleno-de-imbestidura-del-ayuntamiento/ayuntamiento-interiro/'><img width=\"150\" height=\"150\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/AYUNTAMIENTO-INTERIRO-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl>\n\t\t\t<br style='clear: both' />\n\t\t</div>\n</p>\n",
+    "rendered": "<p>El sabado 11 de junio, como se dijo en la asamblea general nos concentramos un grupo de unas 15 personas para ir al pleno de investidura,\u00a0 pudimos acceder al interior donde se leyo un escrito pidiendo responsabilidad politica y se abrio un peque\u00f1o turno de palabra entre los asistentes.</p>\n<p>&nbsp;</p>\n<p><a href=\"http://torresalameda.tomalosbarrios.net/files/2011/06/AYUNTAMIETNO.jpg\"><img loading=\"lazy\" class=\"aligncenter size-full wp-image-19\" src=\"http://torresalameda.tomalosbarrios.net/files/2011/06/AYUNTAMIETNO.jpg\" alt=\"\" width=\"1000\" height=\"750\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/AYUNTAMIETNO.jpg 1000w, https://torresalameda.tomalosbarrios.net/files/2011/06/AYUNTAMIETNO-300x225.jpg 300w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" /></a><a href=\"http://torresalameda.tomalosbarrios.net/files/2011/06/ayuntamiento-2.jpg\"><img loading=\"lazy\" class=\"aligncenter size-full wp-image-20\" src=\"http://torresalameda.tomalosbarrios.net/files/2011/06/ayuntamiento-2.jpg\" alt=\"\" width=\"1000\" height=\"750\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/ayuntamiento-2.jpg 1000w, https://torresalameda.tomalosbarrios.net/files/2011/06/ayuntamiento-2-300x225.jpg 300w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" /></a><a href=\"http://torresalameda.tomalosbarrios.net/files/2011/06/INTERIOR-AYUNTAMIENTO.jpg\"><img loading=\"lazy\" class=\"aligncenter size-full wp-image-21\" src=\"http://torresalameda.tomalosbarrios.net/files/2011/06/INTERIOR-AYUNTAMIENTO.jpg\" alt=\"\" width=\"533\" height=\"680\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/INTERIOR-AYUNTAMIENTO.jpg 533w, https://torresalameda.tomalosbarrios.net/files/2011/06/INTERIOR-AYUNTAMIENTO-235x300.jpg 235w\" sizes=\"(max-width: 533px) 100vw, 533px\" /></a><div id='gallery-1' class='gallery galleryid-16 gallery-columns-3 gallery-size-thumbnail'><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://torresalameda.tomalosbarrios.net/2011/06/15/presencia-en-el-pleno-de-imbestidura-del-ayuntamiento/ayuntamietno/'><img width=\"150\" height=\"150\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/AYUNTAMIETNO-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://torresalameda.tomalosbarrios.net/2011/06/15/presencia-en-el-pleno-de-imbestidura-del-ayuntamiento/ayuntamiento-2/'><img width=\"150\" height=\"150\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/ayuntamiento-2-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://torresalameda.tomalosbarrios.net/2011/06/15/presencia-en-el-pleno-de-imbestidura-del-ayuntamiento/interior-ayuntamiento/'><img width=\"150\" height=\"150\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/INTERIOR-AYUNTAMIENTO-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://torresalameda.tomalosbarrios.net/2011/06/15/presencia-en-el-pleno-de-imbestidura-del-ayuntamiento/ayuntamiento-interiro/'><img width=\"150\" height=\"150\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/AYUNTAMIENTO-INTERIRO-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl>\n\t\t\t<br style='clear: both' />\n\t\t</div>\n</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -4076,7 +3956,7 @@
   },
   "author": 628,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4117,14 +3997,8 @@
     ],
     "version-history": [
       {
-        "count": 7,
+        "count": 0,
         "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/16/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 29,
-        "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/16/revisions/29"
       }
     ],
     "wp:attachment": [
@@ -4169,12 +4043,12 @@
     "rendered": "Imagen de la mitad de la gente que hubo en la asamblea."
   },
   "author": 628,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/06/Dibujo.jpg'><img width=\"300\" height=\"213\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/Dibujo-300x213.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/Dibujo-300x213.jpg 300w, https://torresalameda.tomalosbarrios.net/files/2011/06/Dibujo.jpg 717w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/06/Dibujo.jpg'><img width=\"300\" height=\"213\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/Dibujo-300x213.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/Dibujo-300x213.jpg 300w, https://torresalameda.tomalosbarrios.net/files/2011/06/Dibujo.jpg 717w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4275,12 +4149,12 @@
     "rendered": "I Asamblea general de Torres de la Alameda-Loeches"
   },
   "author": 628,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/06/QEW.jpg'><img width=\"300\" height=\"213\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/QEW-300x213.jpg\" class=\"attachment-medium size-medium\" alt=\"Cartel y portavoza de la I asamblea de Torres-Loeches.\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/QEW-300x213.jpg 300w, https://torresalameda.tomalosbarrios.net/files/2011/06/QEW.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://torresalameda.tomalosbarrios.net/files/2011/06/QEW.jpg'><img width=\"300\" height=\"213\" src=\"https://torresalameda.tomalosbarrios.net/files/2011/06/QEW-300x213.jpg\" class=\"attachment-medium size-medium\" alt=\"Cartel y portavoza de la I asamblea de Torres-Loeches.\" loading=\"lazy\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/QEW-300x213.jpg 300w, https://torresalameda.tomalosbarrios.net/files/2011/06/QEW.jpg 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4381,7 +4255,7 @@
     "rendered": "ACTA DE LA I ASAMBLEA GENERAL DE TORRES DE LA ALAMEDA-LOECHES 10 DE JUNIO DEL 2011"
   },
   "content": {
-    "rendered": "<p>Las proximas asambleas seran las viernes a las 20h en la plaza de Sol.</p>\n<p>Se ha expuesto la idea de llegar a consenso con el 80% de personas a favor y\u00a0 se ha denegado.</p>\n<p>La participaci\u00f3n en la asamblea de hoy, viernes 10 de Junio ha sido de casi 60 personas.</p>\n<p>Con motivo de la asamblea general de barrios y pueblos que se hace en Sol el domingo 12 de Junio, a\u00a0 las 19:00h se eligen dos portavoces.</p>\n<p>Se informa de que el domingo habra una concentraci\u00f3n a las 12:00 en Sol por motivo del levantamiento del campamento.</p>\n<p>Tambien se informa un poco sobre la marcha del 19 de junio de pueblos y barrios al congreso.</p>\n<p>Se trata el asunto de la incineradora de plasma, habr\u00e1 un recogida de firmas el s\u00e1bado 11 de Junio y se aran pr\u00f3ximas acciones con vecinos de Loeches.</p>\n<p>Nos juntaremos a las 11:30 con camisetas amarillas o chalecos reflectantes, para estar en la embestidura del gobierno municipal y hacerle entrega de un escrito sobre la situaci\u00f3n pol\u00edtica del municipio.</p>\n<p>Voluntarios ceder\u00e1n sus buzones para recoger ideas y propuestas.</p>\n<p>Se habla de la situaci\u00f3n de ruina de algunas casas que puede ocasionar un grave riesgo a los vecinos.</p>\n<p>Colaboraci\u00f3n con los pueblos de alrededor para hablar sobre los problemas que hay en com\u00fan y darle respuesta.</p>\n<p>Poner enlaces de las plataformas que vallan surgiendo.</p>\n<p>Ayudar a paralizar desahucios.</p>\n<p>&nbsp;</p>\n<p><a href=\"http://torresalameda.tomalosbarrios.net/files/2011/06/QEW.jpg\"><img class=\"aligncenter size-full wp-image-12\" src=\"http://torresalameda.tomalosbarrios.net/files/2011/06/QEW.jpg\" alt=\"Cartel y portavoza de la I asamblea de Torres-Loeches.\" width=\"720\" height=\"512\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/QEW.jpg 720w, https://torresalameda.tomalosbarrios.net/files/2011/06/QEW-300x213.jpg 300w\" sizes=\"(max-width: 720px) 100vw, 720px\" /></a><a href=\"http://torresalameda.tomalosbarrios.net/files/2011/06/Dibujo.jpg\"><img class=\"aligncenter size-full wp-image-13\" src=\"http://torresalameda.tomalosbarrios.net/files/2011/06/Dibujo.jpg\" alt=\"\" width=\"717\" height=\"510\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/Dibujo.jpg 717w, https://torresalameda.tomalosbarrios.net/files/2011/06/Dibujo-300x213.jpg 300w\" sizes=\"(max-width: 717px) 100vw, 717px\" /></a></p>\n",
+    "rendered": "<p>Las proximas asambleas seran las viernes a las 20h en la plaza de Sol.</p>\n<p>Se ha expuesto la idea de llegar a consenso con el 80% de personas a favor y\u00a0 se ha denegado.</p>\n<p>La participaci\u00f3n en la asamblea de hoy, viernes 10 de Junio ha sido de casi 60 personas.</p>\n<p>Con motivo de la asamblea general de barrios y pueblos que se hace en Sol el domingo 12 de Junio, a\u00a0 las 19:00h se eligen dos portavoces.</p>\n<p>Se informa de que el domingo habra una concentraci\u00f3n a las 12:00 en Sol por motivo del levantamiento del campamento.</p>\n<p>Tambien se informa un poco sobre la marcha del 19 de junio de pueblos y barrios al congreso.</p>\n<p>Se trata el asunto de la incineradora de plasma, habr\u00e1 un recogida de firmas el s\u00e1bado 11 de Junio y se aran pr\u00f3ximas acciones con vecinos de Loeches.</p>\n<p>Nos juntaremos a las 11:30 con camisetas amarillas o chalecos reflectantes, para estar en la embestidura del gobierno municipal y hacerle entrega de un escrito sobre la situaci\u00f3n pol\u00edtica del municipio.</p>\n<p>Voluntarios ceder\u00e1n sus buzones para recoger ideas y propuestas.</p>\n<p>Se habla de la situaci\u00f3n de ruina de algunas casas que puede ocasionar un grave riesgo a los vecinos.</p>\n<p>Colaboraci\u00f3n con los pueblos de alrededor para hablar sobre los problemas que hay en com\u00fan y darle respuesta.</p>\n<p>Poner enlaces de las plataformas que vallan surgiendo.</p>\n<p>Ayudar a paralizar desahucios.</p>\n<p>&nbsp;</p>\n<p><a href=\"http://torresalameda.tomalosbarrios.net/files/2011/06/QEW.jpg\"><img loading=\"lazy\" class=\"aligncenter size-full wp-image-12\" src=\"http://torresalameda.tomalosbarrios.net/files/2011/06/QEW.jpg\" alt=\"Cartel y portavoza de la I asamblea de Torres-Loeches.\" width=\"720\" height=\"512\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/QEW.jpg 720w, https://torresalameda.tomalosbarrios.net/files/2011/06/QEW-300x213.jpg 300w\" sizes=\"(max-width: 720px) 100vw, 720px\" /></a><a href=\"http://torresalameda.tomalosbarrios.net/files/2011/06/Dibujo.jpg\"><img loading=\"lazy\" class=\"aligncenter size-full wp-image-13\" src=\"http://torresalameda.tomalosbarrios.net/files/2011/06/Dibujo.jpg\" alt=\"\" width=\"717\" height=\"510\" srcset=\"https://torresalameda.tomalosbarrios.net/files/2011/06/Dibujo.jpg 717w, https://torresalameda.tomalosbarrios.net/files/2011/06/Dibujo-300x213.jpg 300w\" sizes=\"(max-width: 717px) 100vw, 717px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -4390,7 +4264,7 @@
   },
   "author": 628,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4431,14 +4305,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/6/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 15,
-        "href": "https://torresalameda.tomalosbarrios.net/wp-json/wp/v2/posts/6/revisions/15"
       }
     ],
     "wp:attachment": [

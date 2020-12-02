@@ -99,7 +99,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2012/03/tapa-triptic_cineforum_marzo.jpg'><img width=\"300\" height=\"211\" src=\"https://benicarlo.tomalaplaza.net/files/2012/03/tapa-triptic_cineforum_marzo-300x211.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2012/03/tapa-triptic_cineforum_marzo-300x211.jpg 300w, https://benicarlo.tomalaplaza.net/files/2012/03/tapa-triptic_cineforum_marzo-1024x723.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2012/03/tapa-triptic_cineforum_marzo.jpg'><img width=\"300\" height=\"211\" src=\"https://benicarlo.tomalaplaza.net/files/2012/03/tapa-triptic_cineforum_marzo-300x211.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2012/03/tapa-triptic_cineforum_marzo-300x211.jpg 300w, https://benicarlo.tomalaplaza.net/files/2012/03/tapa-triptic_cineforum_marzo-1024x723.jpg 1024w, https://benicarlo.tomalaplaza.net/files/2012/03/tapa-triptic_cineforum_marzo.jpg 1755w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -205,7 +205,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2012/03/triptic_cineforum_marzo.jpg'><img width=\"300\" height=\"211\" src=\"https://benicarlo.tomalaplaza.net/files/2012/03/triptic_cineforum_marzo-300x211.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2012/03/triptic_cineforum_marzo-300x211.jpg 300w, https://benicarlo.tomalaplaza.net/files/2012/03/triptic_cineforum_marzo-1024x723.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2012/03/triptic_cineforum_marzo.jpg'><img width=\"300\" height=\"211\" src=\"https://benicarlo.tomalaplaza.net/files/2012/03/triptic_cineforum_marzo-300x211.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2012/03/triptic_cineforum_marzo-300x211.jpg 300w, https://benicarlo.tomalaplaza.net/files/2012/03/triptic_cineforum_marzo-1024x723.jpg 1024w, https://benicarlo.tomalaplaza.net/files/2012/03/triptic_cineforum_marzo.jpg 1755w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -311,7 +311,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2012/03/cartell-cineforum-mar\u00e7.jpg'><img width=\"212\" height=\"300\" src=\"https://benicarlo.tomalaplaza.net/files/2012/03/cartell-cineforum-mar\u00e7-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2012/03/cartell-cineforum-mar\u00e7-212x300.jpg 212w, https://benicarlo.tomalaplaza.net/files/2012/03/cartell-cineforum-mar\u00e7-724x1024.jpg 724w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2012/03/cartell-cineforum-mar\u00e7.jpg'><img width=\"212\" height=\"300\" src=\"https://benicarlo.tomalaplaza.net/files/2012/03/cartell-cineforum-mar\u00e7-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2012/03/cartell-cineforum-mar\u00e7-212x300.jpg 212w, https://benicarlo.tomalaplaza.net/files/2012/03/cartell-cineforum-mar\u00e7-724x1024.jpg 724w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -412,7 +412,7 @@
     "rendered": "CINEFORUM_4 &#8211; MAR\u00c7 2012"
   },
   "content": {
-    "rendered": "\n\t\t<style type='text/css'>\n\t\t\t#gallery-1 {\n\t\t\t\tmargin: auto;\n\t\t\t}\n\t\t\t#gallery-1 .gallery-item {\n\t\t\t\tfloat: left;\n\t\t\t\tmargin-top: 10px;\n\t\t\t\ttext-align: center;\n\t\t\t\twidth: 33%;\n\t\t\t}\n\t\t\t#gallery-1 img {\n\t\t\t\tborder: 2px solid #cfcfcf;\n\t\t\t}\n\t\t\t#gallery-1 .gallery-caption {\n\t\t\t\tmargin-left: 0;\n\t\t\t}\n\t\t\t/* see gallery_shortcode() in wp-includes/media.php */\n\t\t</style>\n\t\t<div id='gallery-1' class='gallery galleryid-318 gallery-columns-3 gallery-size-thumbnail'><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/files/2012/03/cartell-cineforum-mar\u00e7.jpg'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2012/03/cartell-cineforum-mar\u00e7-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/files/2012/03/triptic_cineforum_marzo.jpg'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2012/03/triptic_cineforum_marzo-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/files/2012/03/tapa-triptic_cineforum_marzo.jpg'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2012/03/tapa-triptic_cineforum_marzo-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><br style=\"clear: both\" />\n\t\t</div>\n\n",
+    "rendered": "\n\t\t<style type=\"text/css\">\n\t\t\t#gallery-1 {\n\t\t\t\tmargin: auto;\n\t\t\t}\n\t\t\t#gallery-1 .gallery-item {\n\t\t\t\tfloat: left;\n\t\t\t\tmargin-top: 10px;\n\t\t\t\ttext-align: center;\n\t\t\t\twidth: 33%;\n\t\t\t}\n\t\t\t#gallery-1 img {\n\t\t\t\tborder: 2px solid #cfcfcf;\n\t\t\t}\n\t\t\t#gallery-1 .gallery-caption {\n\t\t\t\tmargin-left: 0;\n\t\t\t}\n\t\t\t/* see gallery_shortcode() in wp-includes/media.php */\n\t\t</style>\n\t\t<div id='gallery-1' class='gallery galleryid-318 gallery-columns-3 gallery-size-thumbnail'><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/files/2012/03/cartell-cineforum-mar\u00e7.jpg'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2012/03/cartell-cineforum-mar\u00e7-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/files/2012/03/triptic_cineforum_marzo.jpg'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2012/03/triptic_cineforum_marzo-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/files/2012/03/tapa-triptic_cineforum_marzo.jpg'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2012/03/tapa-triptic_cineforum_marzo-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><br style=\"clear: both\" />\n\t\t</div>\n\n",
     "protected": false
   },
   "excerpt": {
@@ -462,14 +462,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/318/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 324,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/318/revisions/324"
       }
     ],
     "wp:attachment": [
@@ -519,7 +513,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/12/cineforum-2-desembre-2.jpg'><img width=\"300\" height=\"202\" src=\"https://benicarlo.tomalaplaza.net/files/2011/12/cineforum-2-desembre-2-300x202.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/12/cineforum-2-desembre-2-300x202.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/12/cineforum-2-desembre-2.jpg 799w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/12/cineforum-2-desembre-2.jpg'><img width=\"300\" height=\"202\" src=\"https://benicarlo.tomalaplaza.net/files/2011/12/cineforum-2-desembre-2-300x202.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/12/cineforum-2-desembre-2-300x202.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/12/cineforum-2-desembre-2.jpg 799w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -619,7 +613,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/12/cineforum-2-desembre-1.jpg'><img width=\"300\" height=\"219\" src=\"https://benicarlo.tomalaplaza.net/files/2011/12/cineforum-2-desembre-1-300x219.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/12/cineforum-2-desembre-1-300x219.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/12/cineforum-2-desembre-1.jpg 814w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/12/cineforum-2-desembre-1.jpg'><img width=\"300\" height=\"219\" src=\"https://benicarlo.tomalaplaza.net/files/2011/12/cineforum-2-desembre-1-300x219.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/12/cineforum-2-desembre-1-300x219.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/12/cineforum-2-desembre-1.jpg 814w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -776,7 +770,7 @@
     "rendered": "Tr\u00edptic Cinef\u00f2rum_2"
   },
   "content": {
-    "rendered": "<p><a href=\"http://benicarlo.tomalaplaza.net/files/2011/12/cineforum-2-desembre-1.jpg\"><img class=\"aligncenter size-full wp-image-315\" src=\"http://benicarlo.tomalaplaza.net/files/2011/12/cineforum-2-desembre-1.jpg\" alt=\"\" width=\"814\" height=\"595\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/12/cineforum-2-desembre-1.jpg 814w, https://benicarlo.tomalaplaza.net/files/2011/12/cineforum-2-desembre-1-300x219.jpg 300w\" sizes=\"(max-width: 814px) 100vw, 814px\" /></a><a href=\"http://benicarlo.tomalaplaza.net/files/2011/12/cineforum-2-desembre-2.jpg\"><img class=\"aligncenter size-full wp-image-316\" src=\"http://benicarlo.tomalaplaza.net/files/2011/12/cineforum-2-desembre-2.jpg\" alt=\"\" width=\"799\" height=\"539\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/12/cineforum-2-desembre-2.jpg 799w, https://benicarlo.tomalaplaza.net/files/2011/12/cineforum-2-desembre-2-300x202.jpg 300w\" sizes=\"(max-width: 799px) 100vw, 799px\" /></a></p>\n",
+    "rendered": "<p><a href=\"http://benicarlo.tomalaplaza.net/files/2011/12/cineforum-2-desembre-1.jpg\"><img loading=\"lazy\" class=\"aligncenter size-full wp-image-315\" src=\"http://benicarlo.tomalaplaza.net/files/2011/12/cineforum-2-desembre-1.jpg\" alt=\"\" width=\"814\" height=\"595\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/12/cineforum-2-desembre-1.jpg 814w, https://benicarlo.tomalaplaza.net/files/2011/12/cineforum-2-desembre-1-300x219.jpg 300w\" sizes=\"(max-width: 814px) 100vw, 814px\" /></a><a href=\"http://benicarlo.tomalaplaza.net/files/2011/12/cineforum-2-desembre-2.jpg\"><img loading=\"lazy\" class=\"aligncenter size-full wp-image-316\" src=\"http://benicarlo.tomalaplaza.net/files/2011/12/cineforum-2-desembre-2.jpg\" alt=\"\" width=\"799\" height=\"539\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/12/cineforum-2-desembre-2.jpg 799w, https://benicarlo.tomalaplaza.net/files/2011/12/cineforum-2-desembre-2-300x202.jpg 300w\" sizes=\"(max-width: 799px) 100vw, 799px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -826,14 +820,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/312/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 317,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/312/revisions/317"
       }
     ],
     "wp:attachment": [
@@ -883,7 +871,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/12/cartell-cineforum-desembre-peq.jpg'><img width=\"212\" height=\"300\" src=\"https://benicarlo.tomalaplaza.net/files/2011/12/cartell-cineforum-desembre-peq-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/12/cartell-cineforum-desembre-peq-212x300.jpg 212w, https://benicarlo.tomalaplaza.net/files/2011/12/cartell-cineforum-desembre-peq-724x1024.jpg 724w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/12/cartell-cineforum-desembre-peq.jpg'><img width=\"212\" height=\"300\" src=\"https://benicarlo.tomalaplaza.net/files/2011/12/cartell-cineforum-desembre-peq-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/12/cartell-cineforum-desembre-peq-212x300.jpg 212w, https://benicarlo.tomalaplaza.net/files/2011/12/cartell-cineforum-desembre-peq-724x1024.jpg 724w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -984,7 +972,7 @@
     "rendered": "Cinef\u00f2rum 2 &#8211; desembre"
   },
   "content": {
-    "rendered": "<p><a href=\"http://benicarlo.tomalaplaza.net/files/2011/12/cartell-cineforum-desembre-peq.jpg\"><img class=\"aligncenter size-large wp-image-310\" src=\"http://benicarlo.tomalaplaza.net/files/2011/12/cartell-cineforum-desembre-peq-724x1024.jpg\" alt=\"\" width=\"480\" height=\"678\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/12/cartell-cineforum-desembre-peq-724x1024.jpg 724w, https://benicarlo.tomalaplaza.net/files/2011/12/cartell-cineforum-desembre-peq-212x300.jpg 212w\" sizes=\"(max-width: 480px) 100vw, 480px\" /></a></p>\n",
+    "rendered": "<p><a href=\"http://benicarlo.tomalaplaza.net/files/2011/12/cartell-cineforum-desembre-peq.jpg\"><img loading=\"lazy\" class=\"aligncenter size-large wp-image-310\" src=\"http://benicarlo.tomalaplaza.net/files/2011/12/cartell-cineforum-desembre-peq-724x1024.jpg\" alt=\"\" width=\"480\" height=\"678\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/12/cartell-cineforum-desembre-peq-724x1024.jpg 724w, https://benicarlo.tomalaplaza.net/files/2011/12/cartell-cineforum-desembre-peq-212x300.jpg 212w\" sizes=\"(max-width: 480px) 100vw, 480px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -1034,14 +1022,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/309/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 311,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/309/revisions/311"
       }
     ],
     "wp:attachment": [
@@ -1091,7 +1073,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/12/cineforum.jpg'><img width=\"300\" height=\"200\" src=\"https://benicarlo.tomalaplaza.net/files/2011/12/cineforum-300x200.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/12/cineforum-300x200.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/12/cineforum.jpg 960w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/12/cineforum.jpg'><img width=\"300\" height=\"200\" src=\"https://benicarlo.tomalaplaza.net/files/2011/12/cineforum-300x200.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/12/cineforum-300x200.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/12/cineforum.jpg 960w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -1186,7 +1168,7 @@
     "rendered": "Cr\u00f2nica General Cineforum &#8211; novembre"
   },
   "content": {
-    "rendered": "<div>\n<p dir=\"ltr\">El primer cicle de cinef\u00f2rum organitzat pel col\u00b7lectiu d\u2019indignats de Benicarl\u00f3 va finalitzar el dimecres 16 de novembre amb la projecci\u00f3 del curtmetratge d\u2019animaci\u00f3 Espa\u00f1ist\u00e1n i la pel\u00b7l\u00edcula The Yes Men Fix the World. \u00a0Durant tres setmanes consecutives s\u2019ha pogut gaudir de tres documentals relacionats amb el desmantellament del sistema econ\u00f2mic que ens ha condu\u00eft a l\u2019actual crisi pol\u00edtica, social i, per suposat, econ\u00f2mica.</p>\n<p dir=\"ltr\">\n<p dir=\"ltr\">La aflu\u00e8ncia de p\u00fablic ha rondat els vint-i-cinc assistents en cadascuna de les tres sessions. \u00c9s una xifra que supera les expectatives que l\u2019organitzaci\u00f3 de l\u2019esdeveniment tenia abans de comen\u00e7ar. \u00c9s per aquest motiu que, des de la segona projecci\u00f3, les pel\u00b7l\u00edcules es podien veure en dues pantalles i dos ambients diferenciats.</p>\n<p dir=\"ltr\">\n<p dir=\"ltr\">El format de l\u2019activitat era el seg\u00fcent: el moderador feia una breu introducci\u00f3 i contextualitzaci\u00f3 del film, seguidament es projectava el documental i, finalment s\u2019obria un debat participatiu on els assistents feien una reflexi\u00f3 conjunta entorn el que la pel\u00b7l\u00edcula els havia suggerit.</p>\n</div>\n<div>\nPer petici\u00f3 dels assistents, es far\u00e0 un segon cicle de cinef\u00f2rum els propers 7, 14 i 21 de desembre. Les pel\u00b7l\u00edcules que es visionaran encara estan per determinar. Es podr\u00e0 consultar la programaci\u00f3 en el bloc http://benicarlotomalaplaza.net.</p>\n<p>A m\u00e9s d\u2019agrair la participaci\u00f3 \u00a0activa dels assistents i la col\u00b7laboraci\u00f3 del personal del bar El Candil, els organitzadors de l\u2019esdeveniment, volem invitar-vos a prendre part en la segona edici\u00f3 de l\u2019activitat.</p></div>\n<div><a href=\"http://benicarlo.tomalaplaza.net/files/2011/12/cineforum.jpg\"><img class=\"aligncenter size-full wp-image-306\" src=\"http://benicarlo.tomalaplaza.net/files/2011/12/cineforum.jpg\" alt=\"\" width=\"960\" height=\"640\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/12/cineforum.jpg 960w, https://benicarlo.tomalaplaza.net/files/2011/12/cineforum-300x200.jpg 300w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></div>\n",
+    "rendered": "<div>\n<p dir=\"ltr\">El primer cicle de cinef\u00f2rum organitzat pel col\u00b7lectiu d\u2019indignats de Benicarl\u00f3 va finalitzar el dimecres 16 de novembre amb la projecci\u00f3 del curtmetratge d\u2019animaci\u00f3 Espa\u00f1ist\u00e1n i la pel\u00b7l\u00edcula The Yes Men Fix the World. \u00a0Durant tres setmanes consecutives s\u2019ha pogut gaudir de tres documentals relacionats amb el desmantellament del sistema econ\u00f2mic que ens ha condu\u00eft a l\u2019actual crisi pol\u00edtica, social i, per suposat, econ\u00f2mica.</p>\n<p dir=\"ltr\">\n<p dir=\"ltr\">La aflu\u00e8ncia de p\u00fablic ha rondat els vint-i-cinc assistents en cadascuna de les tres sessions. \u00c9s una xifra que supera les expectatives que l\u2019organitzaci\u00f3 de l\u2019esdeveniment tenia abans de comen\u00e7ar. \u00c9s per aquest motiu que, des de la segona projecci\u00f3, les pel\u00b7l\u00edcules es podien veure en dues pantalles i dos ambients diferenciats.</p>\n<p dir=\"ltr\">\n<p dir=\"ltr\">El format de l\u2019activitat era el seg\u00fcent: el moderador feia una breu introducci\u00f3 i contextualitzaci\u00f3 del film, seguidament es projectava el documental i, finalment s\u2019obria un debat participatiu on els assistents feien una reflexi\u00f3 conjunta entorn el que la pel\u00b7l\u00edcula els havia suggerit.</p>\n</div>\n<div>\nPer petici\u00f3 dels assistents, es far\u00e0 un segon cicle de cinef\u00f2rum els propers 7, 14 i 21 de desembre. Les pel\u00b7l\u00edcules que es visionaran encara estan per determinar. Es podr\u00e0 consultar la programaci\u00f3 en el bloc http://benicarlotomalaplaza.net.</p>\n<p>A m\u00e9s d\u2019agrair la participaci\u00f3 \u00a0activa dels assistents i la col\u00b7laboraci\u00f3 del personal del bar El Candil, els organitzadors de l\u2019esdeveniment, volem invitar-vos a prendre part en la segona edici\u00f3 de l\u2019activitat.</p></div>\n<div><a href=\"http://benicarlo.tomalaplaza.net/files/2011/12/cineforum.jpg\"><img loading=\"lazy\" class=\"aligncenter size-full wp-image-306\" src=\"http://benicarlo.tomalaplaza.net/files/2011/12/cineforum.jpg\" alt=\"\" width=\"960\" height=\"640\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/12/cineforum.jpg 960w, https://benicarlo.tomalaplaza.net/files/2011/12/cineforum-300x200.jpg 300w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></div>\n",
     "protected": false
   },
   "excerpt": {
@@ -1236,14 +1218,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/305/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 307,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/305/revisions/307"
       }
     ],
     "wp:attachment": [
@@ -1338,14 +1314,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/303/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 304,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/303/revisions/304"
       }
     ],
     "wp:attachment": [
@@ -1395,7 +1365,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/11/indignats-20N-peq.jpg'><img width=\"212\" height=\"300\" src=\"https://benicarlo.tomalaplaza.net/files/2011/11/indignats-20N-peq-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/11/indignats-20N-peq-212x300.jpg 212w, https://benicarlo.tomalaplaza.net/files/2011/11/indignats-20N-peq.jpg 661w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/11/indignats-20N-peq.jpg'><img width=\"212\" height=\"300\" src=\"https://benicarlo.tomalaplaza.net/files/2011/11/indignats-20N-peq-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/11/indignats-20N-peq-212x300.jpg 212w, https://benicarlo.tomalaplaza.net/files/2011/11/indignats-20N-peq.jpg 661w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -1490,7 +1460,7 @@
     "rendered": ""
   },
   "content": {
-    "rendered": "<p><a href=\"http://benicarlo.tomalaplaza.net/files/2011/11/indignats-20N-peq.jpg\"><img class=\"aligncenter size-full wp-image-301\" src=\"http://benicarlo.tomalaplaza.net/files/2011/11/indignats-20N-peq.jpg\" alt=\"\" width=\"661\" height=\"935\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/11/indignats-20N-peq.jpg 661w, https://benicarlo.tomalaplaza.net/files/2011/11/indignats-20N-peq-212x300.jpg 212w\" sizes=\"(max-width: 661px) 100vw, 661px\" /></a></p>\n",
+    "rendered": "<p><a href=\"http://benicarlo.tomalaplaza.net/files/2011/11/indignats-20N-peq.jpg\"><img loading=\"lazy\" class=\"aligncenter size-full wp-image-301\" src=\"http://benicarlo.tomalaplaza.net/files/2011/11/indignats-20N-peq.jpg\" alt=\"\" width=\"661\" height=\"935\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/11/indignats-20N-peq.jpg 661w, https://benicarlo.tomalaplaza.net/files/2011/11/indignats-20N-peq-212x300.jpg 212w\" sizes=\"(max-width: 661px) 100vw, 661px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -1540,14 +1510,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/300/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 302,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/300/revisions/302"
       }
     ],
     "wp:attachment": [
@@ -1766,14 +1730,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/289/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 290,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/289/revisions/290"
       }
     ],
     "wp:attachment": [
@@ -1868,14 +1826,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/287/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 288,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/287/revisions/288"
       }
     ],
     "wp:attachment": [
@@ -1925,7 +1877,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/10/triptic-cineforum-dins.jpg'><img width=\"300\" height=\"212\" src=\"https://benicarlo.tomalaplaza.net/files/2011/10/triptic-cineforum-dins-300x212.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/10/triptic-cineforum-dins-300x212.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/10/triptic-cineforum-dins-1024x723.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/10/triptic-cineforum-dins.jpg'><img width=\"300\" height=\"212\" src=\"https://benicarlo.tomalaplaza.net/files/2011/10/triptic-cineforum-dins-300x212.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/10/triptic-cineforum-dins-300x212.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/10/triptic-cineforum-dins-1024x723.jpg 1024w, https://benicarlo.tomalaplaza.net/files/2011/10/triptic-cineforum-dins.jpg 1754w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2031,7 +1983,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/10/triptic-cineforum-davant.jpg'><img width=\"300\" height=\"212\" src=\"https://benicarlo.tomalaplaza.net/files/2011/10/triptic-cineforum-davant-300x212.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/10/triptic-cineforum-davant-300x212.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/10/triptic-cineforum-davant-1024x723.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/10/triptic-cineforum-davant.jpg'><img width=\"300\" height=\"212\" src=\"https://benicarlo.tomalaplaza.net/files/2011/10/triptic-cineforum-davant-300x212.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/10/triptic-cineforum-davant-300x212.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/10/triptic-cineforum-davant-1024x723.jpg 1024w, https://benicarlo.tomalaplaza.net/files/2011/10/triptic-cineforum-davant.jpg 1754w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2137,7 +2089,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/10/cartell-cineforum.jpg'><img width=\"212\" height=\"300\" src=\"https://benicarlo.tomalaplaza.net/files/2011/10/cartell-cineforum-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/10/cartell-cineforum-212x300.jpg 212w, https://benicarlo.tomalaplaza.net/files/2011/10/cartell-cineforum-724x1024.jpg 724w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/10/cartell-cineforum.jpg'><img width=\"212\" height=\"300\" src=\"https://benicarlo.tomalaplaza.net/files/2011/10/cartell-cineforum-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/10/cartell-cineforum-212x300.jpg 212w, https://benicarlo.tomalaplaza.net/files/2011/10/cartell-cineforum-724x1024.jpg 724w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2238,7 +2190,7 @@
     "rendered": "CINEF\u00d2RUM &#8211; dimecres ( 2 &#8211; 9 -16) de novembre EL CANDIL"
   },
   "content": {
-    "rendered": "<p><a href=\"http://benicarlo.tomalaplaza.net/files/2011/10/cartell-cineforum.jpg\"><img class=\"aligncenter size-large wp-image-282\" src=\"http://benicarlo.tomalaplaza.net/files/2011/10/cartell-cineforum-724x1024.jpg\" alt=\"\" width=\"480\" height=\"678\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/10/cartell-cineforum-724x1024.jpg 724w, https://benicarlo.tomalaplaza.net/files/2011/10/cartell-cineforum-212x300.jpg 212w\" sizes=\"(max-width: 480px) 100vw, 480px\" />\n\t\t<style type='text/css'>\n\t\t\t#gallery-2 {\n\t\t\t\tmargin: auto;\n\t\t\t}\n\t\t\t#gallery-2 .gallery-item {\n\t\t\t\tfloat: left;\n\t\t\t\tmargin-top: 10px;\n\t\t\t\ttext-align: center;\n\t\t\t\twidth: 33%;\n\t\t\t}\n\t\t\t#gallery-2 img {\n\t\t\t\tborder: 2px solid #cfcfcf;\n\t\t\t}\n\t\t\t#gallery-2 .gallery-caption {\n\t\t\t\tmargin-left: 0;\n\t\t\t}\n\t\t\t/* see gallery_shortcode() in wp-includes/media.php */\n\t\t</style>\n\t\t<div id='gallery-2' class='gallery galleryid-281 gallery-columns-3 gallery-size-thumbnail'><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/2011/10/28/cineforum-dimecres-2-9-16-de-novembre-el-candil/cartell-cineforum/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/10/cartell-cineforum-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/2011/10/28/cineforum-dimecres-2-9-16-de-novembre-el-candil/triptic-cineforum-davant/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/10/triptic-cineforum-davant-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/2011/10/28/cineforum-dimecres-2-9-16-de-novembre-el-candil/triptic-cineforum-dins/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/10/triptic-cineforum-dins-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><br style=\"clear: both\" />\n\t\t</div>\n</p>\n<p></a></p>\n<p>&nbsp;</p>\n",
+    "rendered": "<p><a href=\"http://benicarlo.tomalaplaza.net/files/2011/10/cartell-cineforum.jpg\"><img loading=\"lazy\" class=\"aligncenter size-large wp-image-282\" src=\"http://benicarlo.tomalaplaza.net/files/2011/10/cartell-cineforum-724x1024.jpg\" alt=\"\" width=\"480\" height=\"678\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/10/cartell-cineforum-724x1024.jpg 724w, https://benicarlo.tomalaplaza.net/files/2011/10/cartell-cineforum-212x300.jpg 212w\" sizes=\"(max-width: 480px) 100vw, 480px\" />\n\t\t<style type=\"text/css\">\n\t\t\t#gallery-2 {\n\t\t\t\tmargin: auto;\n\t\t\t}\n\t\t\t#gallery-2 .gallery-item {\n\t\t\t\tfloat: left;\n\t\t\t\tmargin-top: 10px;\n\t\t\t\ttext-align: center;\n\t\t\t\twidth: 33%;\n\t\t\t}\n\t\t\t#gallery-2 img {\n\t\t\t\tborder: 2px solid #cfcfcf;\n\t\t\t}\n\t\t\t#gallery-2 .gallery-caption {\n\t\t\t\tmargin-left: 0;\n\t\t\t}\n\t\t\t/* see gallery_shortcode() in wp-includes/media.php */\n\t\t</style>\n\t\t<div id='gallery-2' class='gallery galleryid-281 gallery-columns-3 gallery-size-thumbnail'><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/2011/10/28/cineforum-dimecres-2-9-16-de-novembre-el-candil/cartell-cineforum/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/10/cartell-cineforum-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/2011/10/28/cineforum-dimecres-2-9-16-de-novembre-el-candil/triptic-cineforum-davant/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/10/triptic-cineforum-davant-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/2011/10/28/cineforum-dimecres-2-9-16-de-novembre-el-candil/triptic-cineforum-dins/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/10/triptic-cineforum-dins-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><br style=\"clear: both\" />\n\t\t</div>\n</p>\n<p></a></p>\n<p>&nbsp;</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -2288,14 +2240,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/281/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 285,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/281/revisions/285"
       }
     ],
     "wp:attachment": [
@@ -2390,14 +2336,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/278/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 279,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/278/revisions/279"
       }
     ],
     "wp:attachment": [
@@ -2493,14 +2433,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/272/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 276,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/272/revisions/276"
       }
     ],
     "wp:attachment": [
@@ -2550,7 +2484,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-006peq.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-006peq-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-006peq-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-006peq.jpg 425w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-006peq.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-006peq-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-006peq-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-006peq.jpg 425w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2650,7 +2584,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-004peq.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-004peq-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-004peq-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-004peq.jpg 425w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-004peq.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-004peq-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-004peq-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-004peq.jpg 425w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2750,7 +2684,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-003peq.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-003peq-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-003peq-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-003peq.jpg 425w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-003peq.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-003peq-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-003peq-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-003peq.jpg 425w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2850,7 +2784,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-002peq.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-002peq-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-002peq-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-002peq.jpg 425w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-002peq.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-002peq-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-002peq-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-002peq.jpg 425w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2950,7 +2884,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-peq-016.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-peq-016-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-peq-016-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-peq-016.jpg 425w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-peq-016.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-peq-016-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-peq-016-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-peq-016.jpg 425w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3050,7 +2984,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/254189_10150224459626871_569791870_7561858_6336963_n.jpg'><img width=\"170\" height=\"300\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/254189_10150224459626871_569791870_7561858_6336963_n-170x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/254189_10150224459626871_569791870_7561858_6336963_n-170x300.jpg 170w, https://benicarlo.tomalaplaza.net/files/2011/07/254189_10150224459626871_569791870_7561858_6336963_n.jpg 408w\" sizes=\"(max-width: 170px) 100vw, 170px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/254189_10150224459626871_569791870_7561858_6336963_n.jpg'><img width=\"170\" height=\"300\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/254189_10150224459626871_569791870_7561858_6336963_n-170x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/254189_10150224459626871_569791870_7561858_6336963_n-170x300.jpg 170w, https://benicarlo.tomalaplaza.net/files/2011/07/254189_10150224459626871_569791870_7561858_6336963_n.jpg 408w\" sizes=\"(max-width: 170px) 100vw, 170px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3150,7 +3084,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/253944_10150224460291871_569791870_7561872_7052625_n.jpg'><img width=\"161\" height=\"300\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/253944_10150224460291871_569791870_7561872_7052625_n-161x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/253944_10150224460291871_569791870_7561872_7052625_n-161x300.jpg 161w, https://benicarlo.tomalaplaza.net/files/2011/07/253944_10150224460291871_569791870_7561872_7052625_n.jpg 388w\" sizes=\"(max-width: 161px) 100vw, 161px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/253944_10150224460291871_569791870_7561872_7052625_n.jpg'><img width=\"161\" height=\"300\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/253944_10150224460291871_569791870_7561872_7052625_n-161x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/253944_10150224460291871_569791870_7561872_7052625_n-161x300.jpg 161w, https://benicarlo.tomalaplaza.net/files/2011/07/253944_10150224460291871_569791870_7561872_7052625_n.jpg 388w\" sizes=\"(max-width: 161px) 100vw, 161px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3250,7 +3184,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/251294_10150224459726871_569791870_7561859_5177003_n.jpg'><img width=\"231\" height=\"300\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/251294_10150224459726871_569791870_7561859_5177003_n-231x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/251294_10150224459726871_569791870_7561859_5177003_n-231x300.jpg 231w, https://benicarlo.tomalaplaza.net/files/2011/07/251294_10150224459726871_569791870_7561859_5177003_n.jpg 555w\" sizes=\"(max-width: 231px) 100vw, 231px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/251294_10150224459726871_569791870_7561859_5177003_n.jpg'><img width=\"231\" height=\"300\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/251294_10150224459726871_569791870_7561859_5177003_n-231x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/251294_10150224459726871_569791870_7561859_5177003_n-231x300.jpg 231w, https://benicarlo.tomalaplaza.net/files/2011/07/251294_10150224459726871_569791870_7561859_5177003_n.jpg 555w\" sizes=\"(max-width: 231px) 100vw, 231px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3350,7 +3284,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/P6190052.jpg'><img width=\"225\" height=\"300\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/P6190052-225x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/P6190052-225x300.jpg 225w, https://benicarlo.tomalaplaza.net/files/2011/07/P6190052-768x1024.jpg 768w\" sizes=\"(max-width: 225px) 100vw, 225px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/P6190052.jpg'><img width=\"225\" height=\"300\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/P6190052-225x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/P6190052-225x300.jpg 225w, https://benicarlo.tomalaplaza.net/files/2011/07/P6190052-768x1024.jpg 768w\" sizes=\"(max-width: 225px) 100vw, 225px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3456,7 +3390,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2461.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2461-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2461-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2461-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2461.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2461-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2461-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2461-1024x768.jpg 1024w, https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2461.jpg 2048w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3562,7 +3496,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2460.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2460-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2460-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2460-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2460.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2460-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2460-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2460-1024x768.jpg 1024w, https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2460.jpg 2048w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3668,7 +3602,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2459.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2459-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2459-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2459-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2459.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2459-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2459-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2459-1024x768.jpg 1024w, https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2459.jpg 2048w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3774,7 +3708,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/CARTELLS-SOPAR-SOLIDARI.jpg'><img width=\"300\" height=\"260\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/CARTELLS-SOPAR-SOLIDARI-300x260.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/CARTELLS-SOPAR-SOLIDARI-300x260.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/CARTELLS-SOPAR-SOLIDARI.jpg 595w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/CARTELLS-SOPAR-SOLIDARI.jpg'><img width=\"300\" height=\"260\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/CARTELLS-SOPAR-SOLIDARI-300x260.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/CARTELLS-SOPAR-SOLIDARI-300x260.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/CARTELLS-SOPAR-SOLIDARI.jpg 595w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3874,7 +3808,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-21.14.19.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-21.14.19-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-21.14.19-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-21.14.19-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-21.14.19.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-21.14.19-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-21.14.19-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-21.14.19-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3980,7 +3914,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-21.10.44.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-21.10.44-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-21.10.44-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-21.10.44-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-21.10.44.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-21.10.44-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-21.10.44-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-21.10.44-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4086,7 +4020,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-21.00.17.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-21.00.17-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-21.00.17-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-21.00.17-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-21.00.17.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-21.00.17-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-21.00.17-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-21.00.17-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4192,7 +4126,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.59.12.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.59.12-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.59.12-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.59.12-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.59.12.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.59.12-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.59.12-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.59.12-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4298,7 +4232,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.59.04.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.59.04-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.59.04-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.59.04-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.59.04.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.59.04-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.59.04-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.59.04-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4404,7 +4338,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.58.40.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.58.40-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.58.40-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.58.40-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.58.40.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.58.40-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.58.40-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.58.40-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4510,7 +4444,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.36.44.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.36.44-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.36.44-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.36.44-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.36.44.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.36.44-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.36.44-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.36.44-1024x768.jpg 1024w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.36.44.jpg 2048w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4616,7 +4550,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.36.01.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.36.01-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.36.01-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.36.01-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.36.01.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.36.01-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.36.01-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.36.01-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4722,7 +4656,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.58.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.58-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.58-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.58-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.58.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.58-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.58-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.58-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4828,7 +4762,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.32.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.32-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.32-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.32-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.32.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.32-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.32-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.32-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4934,7 +4868,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.241.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.241-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.241-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.241-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.241.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.241-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.241-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.241-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -5040,7 +4974,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2462.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2462-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2462-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2462-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2462.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2462-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2462-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2462-1024x768.jpg 1024w, https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2462.jpg 2048w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -5146,7 +5080,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.05.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.05-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.05-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.05-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.05.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.05-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.05-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.05-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -5252,7 +5186,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-00.53.03.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-00.53.03-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-00.53.03-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-00.53.03-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-00.53.03.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-00.53.03-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-00.53.03-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-00.53.03-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -5358,7 +5292,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.24.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.24-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.24-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.24-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.24.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.24-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.24-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.24-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -5464,7 +5398,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-20-22.43.35.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-20-22.43.35-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-20-22.43.35-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-20-22.43.35-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-20-22.43.35.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-20-22.43.35-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-20-22.43.35-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-20-22.43.35-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -5570,7 +5504,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-20-22.43.24.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-20-22.43.24-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-20-22.43.24-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-20-22.43.24-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-20-22.43.24.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-20-22.43.24-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-20-22.43.24-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-20-22.43.24-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -5676,7 +5610,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-20-00.11.48.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-20-00.11.48-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-20-00.11.48-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-20-00.11.48-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-20-00.11.48.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-20-00.11.48-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-20-00.11.48-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-20-00.11.48-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -5782,7 +5716,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-19-21.27.55.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-19-21.27.55-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-19-21.27.55-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-19-21.27.55-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-19-21.27.55.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-19-21.27.55-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-19-21.27.55-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-19-21.27.55-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -5888,7 +5822,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-19-21.09.25.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-19-21.09.25-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-19-21.09.25-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-19-21.09.25-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-19-21.09.25.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-19-21.09.25-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-19-21.09.25-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-19-21.09.25-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -5994,7 +5928,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-19-21.08.13.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-19-21.08.13-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-19-21.08.13-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-19-21.08.13-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-19-21.08.13.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-19-21.08.13-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-19-21.08.13-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-19-21.08.13-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -6340,14 +6274,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/pages/219/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 220,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/pages/219/revisions/220"
       }
     ],
     "wp:attachment": [
@@ -6425,14 +6353,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/pages/193/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 195,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/pages/193/revisions/195"
       }
     ],
     "wp:attachment": [
@@ -6570,7 +6492,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-peq-016.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-peq-016-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-peq-016-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-peq-016.jpg 425w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-peq-016.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-peq-016-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-peq-016-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-peq-016.jpg 425w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -6676,7 +6598,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-006peq.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-006peq-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-006peq-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-006peq.jpg 425w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-006peq.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-006peq-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-006peq-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-006peq.jpg 425w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -6782,7 +6704,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-004peq.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-004peq-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-004peq-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-004peq.jpg 425w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-004peq.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-004peq-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-004peq-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-004peq.jpg 425w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -6888,7 +6810,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-003peq.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-003peq-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-003peq-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-003peq.jpg 425w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-003peq.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-003peq-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-003peq-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-003peq.jpg 425w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -6994,7 +6916,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-002peq.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-002peq-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-002peq-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-002peq.jpg 425w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-002peq.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-002peq-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-002peq-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-002peq.jpg 425w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -7095,7 +7017,7 @@
     "rendered": "Acta Debat Obert BENICARLO TOMA LA PLAYA &#8211; 5 d&#8217;agost de 2011"
   },
   "content": {
-    "rendered": "<p>&nbsp;</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Assist\u00e8ncia 10 persones, (cap representant de grup pol\u00edtic ni de premsa) 2 companys del grup de Castell\u00f3</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a022:15 comencem</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Lectura del manifest.</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Lectura comentada d\u2019alguns punts de l\u2019acta del dia 28 de juliol de pol\u00edticas a largo plazo de Madrid.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Utilitzaci\u00f3 de v\u00eddeos del moviment interessada</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0El domini\u00a0<a href=\"http://www.spanishrevolution.com/\" target=\"_blank\">www.spanishrevolution.com</a>\u00a0en venta</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Proposta d\u2019accions per la visita del Papa</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0&#8230;</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Es pregunta si els companys de Castell\u00f3 que hi s\u00f3n presents (Mireia i Ra\u00fal) tenen m\u00e9s informaci\u00f3 sobre les conclusions dels foros de Madrid i responen que amb els desallotjaments estan tenint dificultats per a penjar els acords incl\u00fas que s\u2019est\u00e0 perdent informaci\u00f3 i material del moviment.</p>\n<p>&nbsp;</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Es fa lectura dels acords presos entre el 15M d\u2019Alcoy i l\u2019ajuntament. S\u2019obri tanda d\u2019opinions al respecte.</p>\n<p>&nbsp;</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0A nivell de Castell\u00f3 no es negocia amb l\u2019ajuntament perqu\u00e8 no els representen, fiquen moltes dificultats per poder assistir als plenos i no els escolten per a res.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Es comenta que en municipis m\u00e9s menuts ha de ser m\u00e9s f\u00e0cil arribar a enteniments i que sempre \u00e9s la millor opci\u00f3 si hi ha possibilitat de di\u00e0leg..</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Es proposa fer un seguiment del que va passant en Alcoy.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00c9s interessant anar als plenos per vore com van les q\u00fcestions del poble, i que en paral\u00b7lel hi ha que acudir a la premsa per a fer-nos sentir, perqu\u00e8 el monopoli i manipulaci\u00f3 exercit pels governants desvirtua el missatge que arriba a la gent sobre les nostres intencions i\u00a0\u00a0accions.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Hem de tindre bona informaci\u00f3 perqu\u00e8 els partits menteixen de manera sistem\u00e0tica.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Els companys de Castell\u00f3 diuen que de 100 comunicats de premsa enviats sols han publicat 3 i cap de manera fidedigna.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00c9s important\u00a0\u00a0con\u00e8ixer contra que lluitem\u00a0\u00a0i\u00a0\u00a0\u00a0estar dintre i fora dels partits politics al mateix temps,\u00a0\u00a0ho fa possible. \u00c9s primordial fer entrar ganes a la gent de participar en la democr\u00e0cia.</p>\n<p>&nbsp;</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Surt el tema d\u2019articular el 15M en grup pol\u00edtic.\u00a0\u00a0Davant les dues opcions , destruir el parlament o entrar-hi a formar part., millor entrar-hi per tindre veu. S\u2019hauria de fer un cens d\u2019indignats i organitzar-nos.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Partits politics i han molts per\u00f2 molt pocs han aconseguit entrar al parlament. Per altra banda , si democr\u00e0cia \u00e9s anar a votar, no estem parlant del mateix. Hi ha que fomentar una participaci\u00f3 activa de la societat. Al nord d\u2019Espanya estan tenint experi\u00e8ncies amb un sistema de funcionament assembleari per a municipis menuts, es nomena CONCEJO ABIERTO.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Hi han plataformes participatives via internet : DEMOLEYES, PROPONGO &#8230;.que podrien articular al moviment mitjan\u00e7ant votacions. Es podria estructurar la participaci\u00f3 del moviment en un grup politic amb rotaci\u00f3 de c\u00e0rrecs i funcionament assembleari.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Es comenta que s\u2019est\u00e0 a favor de formar un partit pol\u00edtic i que \u00e9s un acte de responsabilitat civil.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Sembla que\u00a0\u00a0hi ha 3 partits ja que diuen representar al moviment 15M , ens haurem d\u2019informar.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Treballem per aconseguir una nova consciencia social. El parlament hauria de funcionar de manera assemble\u00e0ria.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0La gent passa dels moviments associacionistes i responsabilitats.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Se defensa la entrada al parlament encara que el percentatge que representa al moviment siga molt menut i l\u2019actitud passiva en general.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Entrar en partits suposa un perill per la financiaci\u00f3 del mateix i no ficar-se a males amb qui et paga.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Es prompte per fer un partit pol\u00edtic. El moviment est\u00e0 comen\u00e7ant.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Crear partits a nivell local \u00e9s m\u00e9s f\u00e0cil, hi ha contacte directe amb la gent. Ha d\u2019estar autofinan\u00e7at sense dependre d\u2019ajuts p\u00fablics, cooperatives&#8230;.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Es proposa una organitzaci\u00f3 m\u00e9s solida\u00a0\u00a0autofinan\u00e7ada amb una estructura m\u00e9s forta.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Hi ha certa incertesa perqu\u00e8 es desconeix el tema dels partits ja formats.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Es proposa cremar l\u2019actual parlament i fer-lo nou, anar fent treballant amb mires a llarg pla\u00e7.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0S\u2019ens recorda l\u2019importancia de participar en la estructura establerta: (interassemblea)</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Es proposa: acostament de la pol\u00edtica a la ciutadania , transpar\u00e8ncia, canviar la llei de financiaci\u00f3 de partits, aprofitar les possibilitats de les noves tecnologies, creaci\u00f3 de cooperatives, creaci\u00f3 de moneda electr\u00f2nica.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Manera de acostar-nos a la gent, replegant signatures. En Castell\u00f3 estan replegant-ne per demanar que les comunicacions Vinaros-Castell\u00f3 siguen igual que Castell\u00f3-Valencia. Tamb\u00e9 perqu\u00e8 les places de p\u00e0rquing dels hospitals siguen gratu\u00eftes.\u00a0\u00a0Tamb\u00e9 hi han plataformes d\u2019internet que aconsegueixen canvis com: amnistia internacional, actuable,aval?&#8230;</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Finalment s\u2019ens informa de la reuni\u00f3 de l\u2019interassemblea de Burriana, i que el dia 17 d\u2019agost\u00a0\u00a0hi ser\u00e0 la seg\u00fcent reuni\u00f3 de interassemblea en Benicassim amb els seg\u00fcents punts:</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Consens de m\u00ednims per a un manifest.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Brusseles</p>\n<p>&nbsp;</p>\n<p>Resum interassemblea de Burriana dia 1 d&#8217;agost:</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Es planteja\u00a0\u00a0fer un consens a les propostes i accions nacionals</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Del 23-25 de setembre hi haur\u00e0 un Aplec del 15M amb manifestaci\u00f3 el dia 25. (lloc: ?)</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Es comenta el tema de la democr\u00e0cia participativa de Ulldecona, i ens adherim a la proposta, a nivell auton\u00f2mic.</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Benicassim demana ajuda pel tema del transport&#8230;?</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Diumenge 7 d\u2019agost Moncofar Toma la playa.</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Onda proposa manifestacions itinerants entre tots per tindre m\u00e9s suports.</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Es proposa compartir recursos, octavilles, documentaci\u00f3&#8230;pujar-ho tot al N-1</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Es proposa una recollida de signatures al Aplec per no situar una incineradora en Alcora.</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Al Aplec hi hauran xerrades , de la plataforma afectats hipoteca PAH, de l\u2019evoluci\u00f3 del moviment en Castell\u00f3&#8230;</p>\n<p><a href=\"http://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-002peq.jpg\"><img class=\"alignnone size-full wp-image-156\" src=\"http://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-002peq.jpg\" alt=\"\" width=\"425\" height=\"319\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-002peq.jpg 425w, https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-002peq-300x225.jpg 300w\" sizes=\"(max-width: 425px) 100vw, 425px\" /></a></p>\n<p><a href=\"http://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-003peq.jpg\"><img class=\"alignnone size-full wp-image-157\" src=\"http://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-003peq.jpg\" alt=\"\" width=\"425\" height=\"319\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-003peq.jpg 425w, https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-003peq-300x225.jpg 300w\" sizes=\"(max-width: 425px) 100vw, 425px\" /></a><a href=\"http://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-004peq.jpg\"><img class=\"alignnone size-full wp-image-158\" src=\"http://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-004peq.jpg\" alt=\"\" width=\"425\" height=\"319\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-004peq.jpg 425w, https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-004peq-300x225.jpg 300w\" sizes=\"(max-width: 425px) 100vw, 425px\" /></a><a href=\"http://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-006peq.jpg\"><img class=\"alignnone size-full wp-image-159\" src=\"http://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-006peq.jpg\" alt=\"\" width=\"425\" height=\"319\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-006peq.jpg 425w, https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-006peq-300x225.jpg 300w\" sizes=\"(max-width: 425px) 100vw, 425px\" /></a><a href=\"http://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-peq-016.jpg\"><img class=\"alignnone size-full wp-image-160\" src=\"http://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-peq-016.jpg\" alt=\"\" width=\"425\" height=\"319\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-peq-016.jpg 425w, https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-peq-016-300x225.jpg 300w\" sizes=\"(max-width: 425px) 100vw, 425px\" /></a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
+    "rendered": "<p>&nbsp;</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Assist\u00e8ncia 10 persones, (cap representant de grup pol\u00edtic ni de premsa) 2 companys del grup de Castell\u00f3</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a022:15 comencem</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Lectura del manifest.</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Lectura comentada d\u2019alguns punts de l\u2019acta del dia 28 de juliol de pol\u00edticas a largo plazo de Madrid.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Utilitzaci\u00f3 de v\u00eddeos del moviment interessada</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0El domini\u00a0<a href=\"http://www.spanishrevolution.com/\" target=\"_blank\">www.spanishrevolution.com</a>\u00a0en venta</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Proposta d\u2019accions per la visita del Papa</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0&#8230;</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Es pregunta si els companys de Castell\u00f3 que hi s\u00f3n presents (Mireia i Ra\u00fal) tenen m\u00e9s informaci\u00f3 sobre les conclusions dels foros de Madrid i responen que amb els desallotjaments estan tenint dificultats per a penjar els acords incl\u00fas que s\u2019est\u00e0 perdent informaci\u00f3 i material del moviment.</p>\n<p>&nbsp;</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Es fa lectura dels acords presos entre el 15M d\u2019Alcoy i l\u2019ajuntament. S\u2019obri tanda d\u2019opinions al respecte.</p>\n<p>&nbsp;</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0A nivell de Castell\u00f3 no es negocia amb l\u2019ajuntament perqu\u00e8 no els representen, fiquen moltes dificultats per poder assistir als plenos i no els escolten per a res.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Es comenta que en municipis m\u00e9s menuts ha de ser m\u00e9s f\u00e0cil arribar a enteniments i que sempre \u00e9s la millor opci\u00f3 si hi ha possibilitat de di\u00e0leg..</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Es proposa fer un seguiment del que va passant en Alcoy.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00c9s interessant anar als plenos per vore com van les q\u00fcestions del poble, i que en paral\u00b7lel hi ha que acudir a la premsa per a fer-nos sentir, perqu\u00e8 el monopoli i manipulaci\u00f3 exercit pels governants desvirtua el missatge que arriba a la gent sobre les nostres intencions i\u00a0\u00a0accions.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Hem de tindre bona informaci\u00f3 perqu\u00e8 els partits menteixen de manera sistem\u00e0tica.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Els companys de Castell\u00f3 diuen que de 100 comunicats de premsa enviats sols han publicat 3 i cap de manera fidedigna.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00c9s important\u00a0\u00a0con\u00e8ixer contra que lluitem\u00a0\u00a0i\u00a0\u00a0\u00a0estar dintre i fora dels partits politics al mateix temps,\u00a0\u00a0ho fa possible. \u00c9s primordial fer entrar ganes a la gent de participar en la democr\u00e0cia.</p>\n<p>&nbsp;</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Surt el tema d\u2019articular el 15M en grup pol\u00edtic.\u00a0\u00a0Davant les dues opcions , destruir el parlament o entrar-hi a formar part., millor entrar-hi per tindre veu. S\u2019hauria de fer un cens d\u2019indignats i organitzar-nos.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Partits politics i han molts per\u00f2 molt pocs han aconseguit entrar al parlament. Per altra banda , si democr\u00e0cia \u00e9s anar a votar, no estem parlant del mateix. Hi ha que fomentar una participaci\u00f3 activa de la societat. Al nord d\u2019Espanya estan tenint experi\u00e8ncies amb un sistema de funcionament assembleari per a municipis menuts, es nomena CONCEJO ABIERTO.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Hi han plataformes participatives via internet : DEMOLEYES, PROPONGO &#8230;.que podrien articular al moviment mitjan\u00e7ant votacions. Es podria estructurar la participaci\u00f3 del moviment en un grup politic amb rotaci\u00f3 de c\u00e0rrecs i funcionament assembleari.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Es comenta que s\u2019est\u00e0 a favor de formar un partit pol\u00edtic i que \u00e9s un acte de responsabilitat civil.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Sembla que\u00a0\u00a0hi ha 3 partits ja que diuen representar al moviment 15M , ens haurem d\u2019informar.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Treballem per aconseguir una nova consciencia social. El parlament hauria de funcionar de manera assemble\u00e0ria.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0La gent passa dels moviments associacionistes i responsabilitats.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Se defensa la entrada al parlament encara que el percentatge que representa al moviment siga molt menut i l\u2019actitud passiva en general.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Entrar en partits suposa un perill per la financiaci\u00f3 del mateix i no ficar-se a males amb qui et paga.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Es prompte per fer un partit pol\u00edtic. El moviment est\u00e0 comen\u00e7ant.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Crear partits a nivell local \u00e9s m\u00e9s f\u00e0cil, hi ha contacte directe amb la gent. Ha d\u2019estar autofinan\u00e7at sense dependre d\u2019ajuts p\u00fablics, cooperatives&#8230;.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Es proposa una organitzaci\u00f3 m\u00e9s solida\u00a0\u00a0autofinan\u00e7ada amb una estructura m\u00e9s forta.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Hi ha certa incertesa perqu\u00e8 es desconeix el tema dels partits ja formats.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Es proposa cremar l\u2019actual parlament i fer-lo nou, anar fent treballant amb mires a llarg pla\u00e7.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0S\u2019ens recorda l\u2019importancia de participar en la estructura establerta: (interassemblea)</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Es proposa: acostament de la pol\u00edtica a la ciutadania , transpar\u00e8ncia, canviar la llei de financiaci\u00f3 de partits, aprofitar les possibilitats de les noves tecnologies, creaci\u00f3 de cooperatives, creaci\u00f3 de moneda electr\u00f2nica.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Manera de acostar-nos a la gent, replegant signatures. En Castell\u00f3 estan replegant-ne per demanar que les comunicacions Vinaros-Castell\u00f3 siguen igual que Castell\u00f3-Valencia. Tamb\u00e9 perqu\u00e8 les places de p\u00e0rquing dels hospitals siguen gratu\u00eftes.\u00a0\u00a0Tamb\u00e9 hi han plataformes d\u2019internet que aconsegueixen canvis com: amnistia internacional, actuable,aval?&#8230;</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Finalment s\u2019ens informa de la reuni\u00f3 de l\u2019interassemblea de Burriana, i que el dia 17 d\u2019agost\u00a0\u00a0hi ser\u00e0 la seg\u00fcent reuni\u00f3 de interassemblea en Benicassim amb els seg\u00fcents punts:</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Consens de m\u00ednims per a un manifest.</p>\n<p>o\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Brusseles</p>\n<p>&nbsp;</p>\n<p>Resum interassemblea de Burriana dia 1 d&#8217;agost:</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Es planteja\u00a0\u00a0fer un consens a les propostes i accions nacionals</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Del 23-25 de setembre hi haur\u00e0 un Aplec del 15M amb manifestaci\u00f3 el dia 25. (lloc: ?)</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Es comenta el tema de la democr\u00e0cia participativa de Ulldecona, i ens adherim a la proposta, a nivell auton\u00f2mic.</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Benicassim demana ajuda pel tema del transport&#8230;?</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Diumenge 7 d\u2019agost Moncofar Toma la playa.</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Onda proposa manifestacions itinerants entre tots per tindre m\u00e9s suports.</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Es proposa compartir recursos, octavilles, documentaci\u00f3&#8230;pujar-ho tot al N-1</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Es proposa una recollida de signatures al Aplec per no situar una incineradora en Alcora.</p>\n<p>&#8211;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Al Aplec hi hauran xerrades , de la plataforma afectats hipoteca PAH, de l\u2019evoluci\u00f3 del moviment en Castell\u00f3&#8230;</p>\n<p><a href=\"http://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-002peq.jpg\"><img loading=\"lazy\" class=\"alignnone size-full wp-image-156\" src=\"http://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-002peq.jpg\" alt=\"\" width=\"425\" height=\"319\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-002peq.jpg 425w, https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-002peq-300x225.jpg 300w\" sizes=\"(max-width: 425px) 100vw, 425px\" /></a></p>\n<p><a href=\"http://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-003peq.jpg\"><img loading=\"lazy\" class=\"alignnone size-full wp-image-157\" src=\"http://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-003peq.jpg\" alt=\"\" width=\"425\" height=\"319\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-003peq.jpg 425w, https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-003peq-300x225.jpg 300w\" sizes=\"(max-width: 425px) 100vw, 425px\" /></a><a href=\"http://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-004peq.jpg\"><img loading=\"lazy\" class=\"alignnone size-full wp-image-158\" src=\"http://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-004peq.jpg\" alt=\"\" width=\"425\" height=\"319\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-004peq.jpg 425w, https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-004peq-300x225.jpg 300w\" sizes=\"(max-width: 425px) 100vw, 425px\" /></a><a href=\"http://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-006peq.jpg\"><img loading=\"lazy\" class=\"alignnone size-full wp-image-159\" src=\"http://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-006peq.jpg\" alt=\"\" width=\"425\" height=\"319\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-006peq.jpg 425w, https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-006peq-300x225.jpg 300w\" sizes=\"(max-width: 425px) 100vw, 425px\" /></a><a href=\"http://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-peq-016.jpg\"><img loading=\"lazy\" class=\"alignnone size-full wp-image-160\" src=\"http://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-peq-016.jpg\" alt=\"\" width=\"425\" height=\"319\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-peq-016.jpg 425w, https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-peq-016-300x225.jpg 300w\" sizes=\"(max-width: 425px) 100vw, 425px\" /></a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -7145,14 +7067,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/153/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 198,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/153/revisions/198"
       }
     ],
     "wp:attachment": [
@@ -7202,7 +7118,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-1.jpg'><img width=\"212\" height=\"300\" src=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-1-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-1-212x300.jpg 212w, https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-1-724x1024.jpg 724w, https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-1.jpg 827w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-1.jpg'><img width=\"212\" height=\"300\" src=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-1-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-1-212x300.jpg 212w, https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-1-724x1024.jpg 724w, https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-1.jpg 827w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -7309,7 +7225,7 @@
     "rendered": "BENICARL\u00d3 TOMA LA PLAYA"
   },
   "content": {
-    "rendered": "<p>&nbsp;</p>\n<p><a href=\"http://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-1.jpg\"><img class=\"alignnone size-large wp-image-149\" src=\"http://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-1-724x1024.jpg\" alt=\"\" width=\"500\" height=\"707\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-1-724x1024.jpg 724w, https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-1-212x300.jpg 212w, https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-1.jpg 827w\" sizes=\"(max-width: 500px) 100vw, 500px\" /></a></p>\n<p>Este divendres, 5 d\u2019agost, els indignats de Benicarl\u00f3 durem a terme l\u2019acci\u00f3 <strong>Toma la Playa</strong> a la platja del Morrongo.</p>\n<p>20:00h\u00a0<strong>Partit de Volei\u00a0</strong></p>\n<p>21:30h\u00a0<strong>Sopar de pa i porta</strong></p>\n<p>22:00h\u00a0<strong>Debat obert</strong>\u00a0per tal d&#8217;analitzar les conclusions del<span style=\"text-decoration: underline\">\u00a0I F\u00f2rum Social 15M</span>\u00a0que va tenir lloc el dilluns 25 de juliol a Madrid</p>\n<p>Els indignats hem convidat a totes les formacions pol\u00edtiques municipals, aix\u00ed com als seus respectius grups de joves, a participar en aquestes activitats.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
+    "rendered": "<p>&nbsp;</p>\n<p><a href=\"http://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-1.jpg\"><img loading=\"lazy\" class=\"alignnone size-large wp-image-149\" src=\"http://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-1-724x1024.jpg\" alt=\"\" width=\"500\" height=\"707\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-1-724x1024.jpg 724w, https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-1-212x300.jpg 212w, https://benicarlo.tomalaplaza.net/files/2011/08/toma-la-playa-1.jpg 827w\" sizes=\"(max-width: 500px) 100vw, 500px\" /></a></p>\n<p>Este divendres, 5 d\u2019agost, els indignats de Benicarl\u00f3 durem a terme l\u2019acci\u00f3 <strong>Toma la Playa</strong> a la platja del Morrongo.</p>\n<p>20:00h\u00a0<strong>Partit de Volei\u00a0</strong></p>\n<p>21:30h\u00a0<strong>Sopar de pa i porta</strong></p>\n<p>22:00h\u00a0<strong>Debat obert</strong>\u00a0per tal d&#8217;analitzar les conclusions del<span style=\"text-decoration: underline\">\u00a0I F\u00f2rum Social 15M</span>\u00a0que va tenir lloc el dilluns 25 de juliol a Madrid</p>\n<p>Els indignats hem convidat a totes les formacions pol\u00edtiques municipals, aix\u00ed com als seus respectius grups de joves, a participar en aquestes activitats.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -7359,14 +7275,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/148/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 152,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/148/revisions/152"
       }
     ],
     "wp:attachment": [
@@ -7511,7 +7421,7 @@
     "rendered": "Fotos"
   },
   "content": {
-    "rendered": "\n\t\t<style type='text/css'>\n\t\t\t#gallery-1 {\n\t\t\t\tmargin: auto;\n\t\t\t}\n\t\t\t#gallery-1 .gallery-item {\n\t\t\t\tfloat: left;\n\t\t\t\tmargin-top: 10px;\n\t\t\t\ttext-align: center;\n\t\t\t\twidth: 33%;\n\t\t\t}\n\t\t\t#gallery-1 img {\n\t\t\t\tborder: 2px solid #cfcfcf;\n\t\t\t}\n\t\t\t#gallery-1 .gallery-caption {\n\t\t\t\tmargin-left: 0;\n\t\t\t}\n\t\t\t/* see gallery_shortcode() in wp-includes/media.php */\n\t\t</style>\n\t\t<div id='gallery-1' class='gallery galleryid-144 gallery-columns-3 gallery-size-thumbnail'><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-05-19-21-08-13/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-19-21.08.13-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-05-19-21-09-25/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-19-21.09.25-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-05-19-21-27-55/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-19-21.27.55-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-05-20-00-11-48/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-20-00.11.48-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-05-20-22-43-24/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-20-22.43.24-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-05-20-22-43-35/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-20-22.43.35-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-05-22-14-34-24/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.24-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-05-22-00-53-03/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-00.53.03-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-05-22-14-34-05/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.05-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/img_2462/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2462-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-05-22-14-34-24-2/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.241-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-05-22-14-34-32/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.32-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-05-22-14-34-58/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.58-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-05-22-14-36-01/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.36.01-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-07-12-20-36-44/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.36.44-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-07-12-20-58-40/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.58.40-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-07-12-20-59-04/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.59.04-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-07-12-20-59-12/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.59.12-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-07-12-21-00-17/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-21.00.17-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-07-12-21-10-44/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-21.10.44-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-07-12-21-14-19/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-21.14.19-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/cartells-sopar-solidari/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/CARTELLS-SOPAR-SOLIDARI-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/img_2459/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2459-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/img_2460/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2460-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/img_2461/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2461-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/olympus-digital-camera-4/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/P6190052-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/251294_10150224459726871_569791870_7561859_5177003_n-2/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/251294_10150224459726871_569791870_7561859_5177003_n-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/253944_10150224460291871_569791870_7561872_7052625_n-2/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/253944_10150224460291871_569791870_7561872_7052625_n-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/254189_10150224459626871_569791870_7561858_6336963_n-2/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/254189_10150224459626871_569791870_7561858_6336963_n-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/toma-la-playa-peq-016-2/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-peq-016-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/toma-la-playa-002peq-2/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-002peq-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/toma-la-playa-003peq-2/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-003peq-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/toma-la-playa-004peq-2/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-004peq-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/toma-la-playa-006peq-2/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-006peq-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" /></a>\n\t\t\t</dt></dl>\n\t\t\t<br style='clear: both' />\n\t\t</div>\n\n",
+    "rendered": "\n\t\t<style type=\"text/css\">\n\t\t\t#gallery-1 {\n\t\t\t\tmargin: auto;\n\t\t\t}\n\t\t\t#gallery-1 .gallery-item {\n\t\t\t\tfloat: left;\n\t\t\t\tmargin-top: 10px;\n\t\t\t\ttext-align: center;\n\t\t\t\twidth: 33%;\n\t\t\t}\n\t\t\t#gallery-1 img {\n\t\t\t\tborder: 2px solid #cfcfcf;\n\t\t\t}\n\t\t\t#gallery-1 .gallery-caption {\n\t\t\t\tmargin-left: 0;\n\t\t\t}\n\t\t\t/* see gallery_shortcode() in wp-includes/media.php */\n\t\t</style>\n\t\t<div id='gallery-1' class='gallery galleryid-144 gallery-columns-3 gallery-size-thumbnail'><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-05-19-21-08-13/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-19-21.08.13-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-05-19-21-09-25/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-19-21.09.25-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-05-19-21-27-55/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-19-21.27.55-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-05-20-00-11-48/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-20-00.11.48-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-05-20-22-43-24/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-20-22.43.24-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-05-20-22-43-35/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-20-22.43.35-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-05-22-14-34-24/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.24-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-05-22-00-53-03/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-00.53.03-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-05-22-14-34-05/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.05-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/img_2462/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2462-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-05-22-14-34-24-2/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.241-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-05-22-14-34-32/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.32-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-05-22-14-34-58/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.34.58-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-05-22-14-36-01/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-05-22-14.36.01-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-07-12-20-36-44/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.36.44-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-07-12-20-58-40/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.58.40-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-07-12-20-59-04/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.59.04-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-07-12-20-59-12/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-20.59.12-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-07-12-21-00-17/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-21.00.17-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-07-12-21-10-44/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-21.10.44-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/2011-07-12-21-14-19/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/2011-07-12-21.14.19-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/cartells-sopar-solidari/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/CARTELLS-SOPAR-SOLIDARI-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/img_2459/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2459-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/img_2460/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2460-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/img_2461/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/IMG_2461-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/olympus-digital-camera-4/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/P6190052-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/251294_10150224459726871_569791870_7561859_5177003_n-2/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/251294_10150224459726871_569791870_7561859_5177003_n-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/253944_10150224460291871_569791870_7561872_7052625_n-2/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/253944_10150224460291871_569791870_7561872_7052625_n-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/254189_10150224459626871_569791870_7561858_6336963_n-2/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/254189_10150224459626871_569791870_7561858_6336963_n-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/toma-la-playa-peq-016-2/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-peq-016-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/toma-la-playa-002peq-2/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-002peq-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/toma-la-playa-003peq-2/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-003peq-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/toma-la-playa-004peq-2/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-004peq-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://benicarlo.tomalaplaza.net/fotos/toma-la-playa-006peq-2/'><img width=\"150\" height=\"150\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/toma-la-playa-006peq-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" /></a>\n\t\t\t</dt></dl>\n\t\t\t<br style='clear: both' />\n\t\t</div>\n\n",
     "protected": false
   },
   "excerpt": {
@@ -7556,14 +7466,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/pages/144/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 271,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/pages/144/revisions/271"
       }
     ],
     "wp:attachment": [
@@ -7641,14 +7545,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/pages/138/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 142,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/pages/138/revisions/142"
       }
     ],
     "wp:attachment": [
@@ -7686,7 +7584,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/Manifestaci\u00f3-24Jul-093peq.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/Manifestaci\u00f3-24Jul-093peq-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/Manifestaci\u00f3-24Jul-093peq-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/Manifestaci\u00f3-24Jul-093peq-150x112.jpg 150w, https://benicarlo.tomalaplaza.net/files/2011/07/Manifestaci\u00f3-24Jul-093peq-400x300.jpg 400w, https://benicarlo.tomalaplaza.net/files/2011/07/Manifestaci\u00f3-24Jul-093peq.jpg 425w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/Manifestaci\u00f3-24Jul-093peq.jpg'><img width=\"300\" height=\"225\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/Manifestaci\u00f3-24Jul-093peq-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/Manifestaci\u00f3-24Jul-093peq-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/Manifestaci\u00f3-24Jul-093peq-150x112.jpg 150w, https://benicarlo.tomalaplaza.net/files/2011/07/Manifestaci\u00f3-24Jul-093peq-400x300.jpg 400w, https://benicarlo.tomalaplaza.net/files/2011/07/Manifestaci\u00f3-24Jul-093peq.jpg 425w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -7793,7 +7691,7 @@
     "rendered": "Cr\u00f3nica Indignats Benicarl\u00f3 a la manifestaci\u00f3 24J a Madrid"
   },
   "content": {
-    "rendered": "<pre><a href=\"http://benicarlo.tomalaplaza.net/files/2011/07/Manifestaci\u00f3-24Jul-093peq.jpg\"><img class=\"alignnone size-medium wp-image-133\" src=\"http://benicarlo.tomalaplaza.net/files/2011/07/Manifestaci\u00f3-24Jul-093peq-300x225.jpg\" alt=\"\" width=\"300\" height=\"225\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/Manifestaci\u00f3-24Jul-093peq-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/Manifestaci\u00f3-24Jul-093peq-150x112.jpg 150w, https://benicarlo.tomalaplaza.net/files/2011/07/Manifestaci\u00f3-24Jul-093peq-400x300.jpg 400w, https://benicarlo.tomalaplaza.net/files/2011/07/Manifestaci\u00f3-24Jul-093peq.jpg 425w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></pre>\n<p>El dia 24 de Julio, cinco indignados de Benicarl\u00f3 quedamos para ir a la manifestaci\u00f3n que se convocaba en Madrid sobre el movimiento 15 M. Un autob\u00fas part\u00eda desde Castell\u00f3n, organizado \u00fanicamente para ir a la protesta.</p>\n<p>Tras llegar a Castell\u00f3n desde Benicarl\u00f3, sobre las 11:30, empezamos a reunirnos los distintos indignados de diversos pueblos, en la plaza Mar\u00eda Agustina, frente a la subdelegaci\u00f3n del gobierno. Mientras esper\u00e1bamos a que llegara el autob\u00fas, surgen las primeras conversaciones referentes al movimiento 15 M, econom\u00eda, el sistema, la suspensi\u00f3n de pagos en EEUU, etc. Una cosa queda patente, hay que cambiar muchas cosas frente a un sistema err\u00f3neo.\u00a0 Los \u00e1nimos est\u00e1n caldeados y todos marchamos hacia Madrid con la esperanza de un mundo mejor.</p>\n<p>A las 18:20 llegamos a Madrid, y el autob\u00fas nos deja en la estaci\u00f3n de trenes de Atocha, all\u00ed hay congregados ya un buen centenar de personas, pues la manifestaci\u00f3n empezaba a las seis y media. Al bajar del autob\u00fas, fuimos a encontrarnos con las dem\u00e1s personas que hab\u00edan venido el d\u00eda anterior y con aquellos que hab\u00edan empezado una marcha caminando desde Castell\u00f3n, un mes antes. Despu\u00e9s de reencontrarnos y de observar el ambiente que all\u00ed hab\u00eda, por cierto muy festivo aunque a la vez totalmente reivindicativo, la manifestaci\u00f3n comenz\u00f3 por la Gran V\u00eda, subiendo por la Calle de Alcala, Calle preciados y finalmente La Puerta del Sol.</p>\n<p>Hicimos varias\u00a0 paradas frente al Ministerio de Hacienda, el Ministerio de Sanidad y el Banco de Espa\u00f1a. All\u00ed se gritaron consignas y c\u00e1nticos de toda \u00edndole, aunque la m\u00e1s representativa fue \u00a8De norte a sur, de este a oeste, la lucha sigue, cueste lo que cueste\u00a8.</p>\n<p>Personalmente, lo m\u00e1s emocionante, fue entrar en La Puerta del Sol, ese lugar donde todo comenz\u00f3, donde muchas ilusiones y esperanzas se hicieron realidad, y donde volv\u00edamos para hacernos visibles una vez m\u00e1s, y esta vez, venidos desde todos los puntos de Espa\u00f1a, con lo cual nos concentramos varios miles de personas.</p>\n<p>Ahora la lucha sigue, y durante esta semana hay convocado un f\u00f3rum en Madrid, para tratar\u00a0 temas tales como econom\u00eda, educaci\u00f3n, sanidad, pol\u00edticas de la vivienda, etc. De lo que quede consensuado, empezaremos a trabajarlo en oto\u00f1o.</p>\n<p>Sobre las 23:00, partimos otra vez hacia Castell\u00f3n, con una valoraci\u00f3n muy positiva de lo acontecido. Una vez m\u00e1s el pueblo hab\u00eda tomado la calle y ahora esperamos que todo ello haya servido de algo, cosa por la que seguiremos luchando y resistiendo con el paso del tiempo y frente\u00a0 a las adversidades, sean cuales sean.</p>\n<pre></pre>\n<p>&nbsp;</p>\n",
+    "rendered": "<pre><a href=\"http://benicarlo.tomalaplaza.net/files/2011/07/Manifestaci\u00f3-24Jul-093peq.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-133\" src=\"http://benicarlo.tomalaplaza.net/files/2011/07/Manifestaci\u00f3-24Jul-093peq-300x225.jpg\" alt=\"\" width=\"300\" height=\"225\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/Manifestaci\u00f3-24Jul-093peq-300x225.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/Manifestaci\u00f3-24Jul-093peq-150x112.jpg 150w, https://benicarlo.tomalaplaza.net/files/2011/07/Manifestaci\u00f3-24Jul-093peq-400x300.jpg 400w, https://benicarlo.tomalaplaza.net/files/2011/07/Manifestaci\u00f3-24Jul-093peq.jpg 425w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></pre>\n<p>El dia 24 de Julio, cinco indignados de Benicarl\u00f3 quedamos para ir a la manifestaci\u00f3n que se convocaba en Madrid sobre el movimiento 15 M. Un autob\u00fas part\u00eda desde Castell\u00f3n, organizado \u00fanicamente para ir a la protesta.</p>\n<p>Tras llegar a Castell\u00f3n desde Benicarl\u00f3, sobre las 11:30, empezamos a reunirnos los distintos indignados de diversos pueblos, en la plaza Mar\u00eda Agustina, frente a la subdelegaci\u00f3n del gobierno. Mientras esper\u00e1bamos a que llegara el autob\u00fas, surgen las primeras conversaciones referentes al movimiento 15 M, econom\u00eda, el sistema, la suspensi\u00f3n de pagos en EEUU, etc. Una cosa queda patente, hay que cambiar muchas cosas frente a un sistema err\u00f3neo.\u00a0 Los \u00e1nimos est\u00e1n caldeados y todos marchamos hacia Madrid con la esperanza de un mundo mejor.</p>\n<p>A las 18:20 llegamos a Madrid, y el autob\u00fas nos deja en la estaci\u00f3n de trenes de Atocha, all\u00ed hay congregados ya un buen centenar de personas, pues la manifestaci\u00f3n empezaba a las seis y media. Al bajar del autob\u00fas, fuimos a encontrarnos con las dem\u00e1s personas que hab\u00edan venido el d\u00eda anterior y con aquellos que hab\u00edan empezado una marcha caminando desde Castell\u00f3n, un mes antes. Despu\u00e9s de reencontrarnos y de observar el ambiente que all\u00ed hab\u00eda, por cierto muy festivo aunque a la vez totalmente reivindicativo, la manifestaci\u00f3n comenz\u00f3 por la Gran V\u00eda, subiendo por la Calle de Alcala, Calle preciados y finalmente La Puerta del Sol.</p>\n<p>Hicimos varias\u00a0 paradas frente al Ministerio de Hacienda, el Ministerio de Sanidad y el Banco de Espa\u00f1a. All\u00ed se gritaron consignas y c\u00e1nticos de toda \u00edndole, aunque la m\u00e1s representativa fue \u00a8De norte a sur, de este a oeste, la lucha sigue, cueste lo que cueste\u00a8.</p>\n<p>Personalmente, lo m\u00e1s emocionante, fue entrar en La Puerta del Sol, ese lugar donde todo comenz\u00f3, donde muchas ilusiones y esperanzas se hicieron realidad, y donde volv\u00edamos para hacernos visibles una vez m\u00e1s, y esta vez, venidos desde todos los puntos de Espa\u00f1a, con lo cual nos concentramos varios miles de personas.</p>\n<p>Ahora la lucha sigue, y durante esta semana hay convocado un f\u00f3rum en Madrid, para tratar\u00a0 temas tales como econom\u00eda, educaci\u00f3n, sanidad, pol\u00edticas de la vivienda, etc. De lo que quede consensuado, empezaremos a trabajarlo en oto\u00f1o.</p>\n<p>Sobre las 23:00, partimos otra vez hacia Castell\u00f3n, con una valoraci\u00f3n muy positiva de lo acontecido. Una vez m\u00e1s el pueblo hab\u00eda tomado la calle y ahora esperamos que todo ello haya servido de algo, cosa por la que seguiremos luchando y resistiendo con el paso del tiempo y frente\u00a0 a las adversidades, sean cuales sean.</p>\n<pre></pre>\n<p>&nbsp;</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -7843,14 +7741,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/129/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 135,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/129/revisions/135"
       }
     ],
     "wp:attachment": [
@@ -7900,7 +7792,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop-detras-copia1.jpg'><img width=\"300\" height=\"212\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop-detras-copia1-300x212.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop-detras-copia1-300x212.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop-detras-copia1.jpg 827w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop-detras-copia1.jpg'><img width=\"300\" height=\"212\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop-detras-copia1-300x212.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop-detras-copia1-300x212.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop-detras-copia1.jpg 827w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -8000,7 +7892,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop1.jpg'><img width=\"300\" height=\"212\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop1-300x212.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop1-300x212.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop1.jpg 827w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop1.jpg'><img width=\"300\" height=\"212\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop1-300x212.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop1-300x212.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop1.jpg 827w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -8100,7 +7992,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop-detras-copia.jpg'><img width=\"300\" height=\"212\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop-detras-copia-300x212.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop-detras-copia-300x212.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop-detras-copia.jpg 827w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop-detras-copia.jpg'><img width=\"300\" height=\"212\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop-detras-copia-300x212.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop-detras-copia-300x212.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop-detras-copia.jpg 827w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -8200,7 +8092,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop.jpg'><img width=\"300\" height=\"212\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop-300x212.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop-300x212.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop.jpg 827w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop.jpg'><img width=\"300\" height=\"212\" src=\"https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop-300x212.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop-300x212.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop.jpg 827w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -8295,7 +8187,7 @@
     "rendered": "INVITACI\u00d3 SOPAR REINVINDICATIU I SOLIDARI"
   },
   "content": {
-    "rendered": "<p><a href=\"http://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop1.jpg\"><img class=\"aligncenter size-full wp-image-124\" src=\"http://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop1.jpg\" alt=\"\" width=\"827\" height=\"585\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop1.jpg 827w, https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop1-300x212.jpg 300w\" sizes=\"(max-width: 827px) 100vw, 827px\" /></a><a href=\"http://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop-detras-copia1.jpg\"><img class=\"aligncenter size-full wp-image-125\" src=\"http://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop-detras-copia1.jpg\" alt=\"\" width=\"827\" height=\"585\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop-detras-copia1.jpg 827w, https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop-detras-copia1-300x212.jpg 300w\" sizes=\"(max-width: 827px) 100vw, 827px\" /></a></p>\n",
+    "rendered": "<p><a href=\"http://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop1.jpg\"><img loading=\"lazy\" class=\"aligncenter size-full wp-image-124\" src=\"http://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop1.jpg\" alt=\"\" width=\"827\" height=\"585\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop1.jpg 827w, https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop1-300x212.jpg 300w\" sizes=\"(max-width: 827px) 100vw, 827px\" /></a><a href=\"http://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop-detras-copia1.jpg\"><img loading=\"lazy\" class=\"aligncenter size-full wp-image-125\" src=\"http://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop-detras-copia1.jpg\" alt=\"\" width=\"827\" height=\"585\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop-detras-copia1.jpg 827w, https://benicarlo.tomalaplaza.net/files/2011/07/alcalde-pop-detras-copia1-300x212.jpg 300w\" sizes=\"(max-width: 827px) 100vw, 827px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -8345,14 +8237,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/119/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 126,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/119/revisions/126"
       }
     ],
     "wp:attachment": [
@@ -8509,14 +8395,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/114/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 118,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/114/revisions/118"
       }
     ],
     "wp:attachment": [
@@ -8611,14 +8491,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/112/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 199,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/112/revisions/199"
       }
     ],
     "wp:attachment": [
@@ -8713,14 +8587,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/109/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 209,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/109/revisions/209"
       }
     ],
     "wp:attachment": [
@@ -8815,14 +8683,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/107/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 108,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/107/revisions/108"
       }
     ],
     "wp:attachment": [
@@ -8872,7 +8734,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/06/mapa-bl\u00f3-indignats.jpg'><img width=\"300\" height=\"300\" src=\"https://benicarlo.tomalaplaza.net/files/2011/06/mapa-bl\u00f3-indignats-300x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/06/mapa-bl\u00f3-indignats-300x300.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/06/mapa-bl\u00f3-indignats-150x150.jpg 150w, https://benicarlo.tomalaplaza.net/files/2011/06/mapa-bl\u00f3-indignats.jpg 787w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/06/mapa-bl\u00f3-indignats.jpg'><img width=\"300\" height=\"300\" src=\"https://benicarlo.tomalaplaza.net/files/2011/06/mapa-bl\u00f3-indignats-300x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/06/mapa-bl\u00f3-indignats-300x300.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/06/mapa-bl\u00f3-indignats-150x150.jpg 150w, https://benicarlo.tomalaplaza.net/files/2011/06/mapa-bl\u00f3-indignats.jpg 787w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -8972,7 +8834,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/06/invitaci\u00f3-interassemblea.jpg'><img width=\"300\" height=\"212\" src=\"https://benicarlo.tomalaplaza.net/files/2011/06/invitaci\u00f3-interassemblea-300x212.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/06/invitaci\u00f3-interassemblea-300x212.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/06/invitaci\u00f3-interassemblea-1024x724.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/06/invitaci\u00f3-interassemblea.jpg'><img width=\"300\" height=\"212\" src=\"https://benicarlo.tomalaplaza.net/files/2011/06/invitaci\u00f3-interassemblea-300x212.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/06/invitaci\u00f3-interassemblea-300x212.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/06/invitaci\u00f3-interassemblea-1024x724.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -9073,7 +8935,7 @@
     "rendered": "II ASSEMBLEA INTERPROVINCIAL + TERRES DE L&#8217;EBRE"
   },
   "content": {
-    "rendered": "<p style=\"text-align: center\"><a href=\"http://benicarlo.tomalaplaza.net/files/2011/06/invitaci\u00f3-interassemblea.jpg\"><br />\n</a><a href=\"http://benicarlo.tomalaplaza.net/files/2011/06/invitaci\u00f3-interassemblea.jpg\"><img class=\"aligncenter size-large wp-image-96\" src=\"http://benicarlo.tomalaplaza.net/files/2011/06/invitaci\u00f3-interassemblea-1024x724.jpg\" alt=\"\" width=\"1024\" height=\"724\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/06/invitaci\u00f3-interassemblea-1024x724.jpg 1024w, https://benicarlo.tomalaplaza.net/files/2011/06/invitaci\u00f3-interassemblea-300x212.jpg 300w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></a></p>\n<p>Estimats col\u00b7lectius d&#8217;indignats de les assemblees dels pobles de la prov\u00edncia de Castell\u00f3 i ve\u00efns del sud de Tarragona!</p>\n<p>El proper dilluns dia 27 celebrarem a Benicarl\u00f3 la   <strong>II</strong><strong> Assemblea</strong><strong> Interprovincial de Castell\u00f3 </strong>a la qual tamb\u00e9 hem convidat a les assemblees de les <strong>Terres de l\u2019Ebre </strong>ja que no creiem les organitzacions territorials que ens han imposat durant tants anys, i pensem que la comunicaci\u00f3 entre ve\u00efns sempre es positiva.</p>\n<p>Farem un recull de propostes per part de cada assemblea local, per aix\u00f2 us demanem que porteu escrit en un <strong>\u00ab\u00a0post it\u00a0\u00bb</strong> o full petit resumides les vostres idees per tal de fer un <strong>gran panell </strong>amb totes elles.</p>\n<p>Us adjuntem un pl\u00e0nol de la nostra ciutat amb la indicaci\u00f3n del lloc de trobada i els parkings gratu\u00efts m\u00e9s propers.</p>\n<p>Finalment, farem un <strong>sopar de pa i porta</strong> en el que, com amfitrions, posarem el postre (fruita i pastes).</p>\n<p>Esperem la vostra presencia i les ganes de canvi.</p>\n<p>&nbsp;</p>\n<p>Comissi\u00f3 d\u2019Acci\u00f3 Col\u00b7lectiva Indignats de Benicarl\u00f3.</p>\n<p>&nbsp;</p>\n<p><a href=\"http://benicarlo.tomalaplaza.net/files/2011/06/mapa-bl\u00f3-indignats.jpg\"><img class=\"aligncenter size-medium wp-image-97\" src=\"http://benicarlo.tomalaplaza.net/files/2011/06/mapa-bl\u00f3-indignats-300x300.jpg\" alt=\"\" width=\"300\" height=\"300\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/06/mapa-bl\u00f3-indignats-300x300.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/06/mapa-bl\u00f3-indignats-150x150.jpg 150w, https://benicarlo.tomalaplaza.net/files/2011/06/mapa-bl\u00f3-indignats.jpg 787w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n",
+    "rendered": "<p style=\"text-align: center\"><a href=\"http://benicarlo.tomalaplaza.net/files/2011/06/invitaci\u00f3-interassemblea.jpg\"><br />\n</a><a href=\"http://benicarlo.tomalaplaza.net/files/2011/06/invitaci\u00f3-interassemblea.jpg\"><img loading=\"lazy\" class=\"aligncenter size-large wp-image-96\" src=\"http://benicarlo.tomalaplaza.net/files/2011/06/invitaci\u00f3-interassemblea-1024x724.jpg\" alt=\"\" width=\"1024\" height=\"724\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/06/invitaci\u00f3-interassemblea-1024x724.jpg 1024w, https://benicarlo.tomalaplaza.net/files/2011/06/invitaci\u00f3-interassemblea-300x212.jpg 300w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></a></p>\n<p>Estimats col\u00b7lectius d&#8217;indignats de les assemblees dels pobles de la prov\u00edncia de Castell\u00f3 i ve\u00efns del sud de Tarragona!</p>\n<p>El proper dilluns dia 27 celebrarem a Benicarl\u00f3 la   <strong>II</strong><strong> Assemblea</strong><strong> Interprovincial de Castell\u00f3 </strong>a la qual tamb\u00e9 hem convidat a les assemblees de les <strong>Terres de l\u2019Ebre </strong>ja que no creiem les organitzacions territorials que ens han imposat durant tants anys, i pensem que la comunicaci\u00f3 entre ve\u00efns sempre es positiva.</p>\n<p>Farem un recull de propostes per part de cada assemblea local, per aix\u00f2 us demanem que porteu escrit en un <strong>\u00ab\u00a0post it\u00a0\u00bb</strong> o full petit resumides les vostres idees per tal de fer un <strong>gran panell </strong>amb totes elles.</p>\n<p>Us adjuntem un pl\u00e0nol de la nostra ciutat amb la indicaci\u00f3n del lloc de trobada i els parkings gratu\u00efts m\u00e9s propers.</p>\n<p>Finalment, farem un <strong>sopar de pa i porta</strong> en el que, com amfitrions, posarem el postre (fruita i pastes).</p>\n<p>Esperem la vostra presencia i les ganes de canvi.</p>\n<p>&nbsp;</p>\n<p>Comissi\u00f3 d\u2019Acci\u00f3 Col\u00b7lectiva Indignats de Benicarl\u00f3.</p>\n<p>&nbsp;</p>\n<p><a href=\"http://benicarlo.tomalaplaza.net/files/2011/06/mapa-bl\u00f3-indignats.jpg\"><img loading=\"lazy\" class=\"aligncenter size-medium wp-image-97\" src=\"http://benicarlo.tomalaplaza.net/files/2011/06/mapa-bl\u00f3-indignats-300x300.jpg\" alt=\"\" width=\"300\" height=\"300\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/06/mapa-bl\u00f3-indignats-300x300.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/06/mapa-bl\u00f3-indignats-150x150.jpg 150w, https://benicarlo.tomalaplaza.net/files/2011/06/mapa-bl\u00f3-indignats.jpg 787w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -9123,14 +8985,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/95/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 103,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/95/revisions/103"
       }
     ],
     "wp:attachment": [
@@ -9225,14 +9081,8 @@
     ],
     "version-history": [
       {
-        "count": 8,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/92/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 210,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/92/revisions/210"
       }
     ],
     "wp:attachment": [
@@ -9327,14 +9177,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/90/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 211,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/90/revisions/211"
       }
     ],
     "wp:attachment": [
@@ -9941,14 +9785,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/77/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 83,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/77/revisions/83"
       }
     ],
     "wp:attachment": [
@@ -9998,7 +9836,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/06/Instancia2_1.jpg'><img width=\"212\" height=\"300\" src=\"https://benicarlo.tomalaplaza.net/files/2011/06/Instancia2_1-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/06/Instancia2_1-212x300.jpg 212w, https://benicarlo.tomalaplaza.net/files/2011/06/Instancia2_1-723x1024.jpg 723w, https://benicarlo.tomalaplaza.net/files/2011/06/Instancia2_1.jpg 1058w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/06/Instancia2_1.jpg'><img width=\"212\" height=\"300\" src=\"https://benicarlo.tomalaplaza.net/files/2011/06/Instancia2_1-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/06/Instancia2_1-212x300.jpg 212w, https://benicarlo.tomalaplaza.net/files/2011/06/Instancia2_1-723x1024.jpg 723w, https://benicarlo.tomalaplaza.net/files/2011/06/Instancia2_1.jpg 1058w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -10099,7 +9937,7 @@
     "rendered": "MODEL INSTANCIA &#8211; SOUS RESPONSABLES"
   },
   "content": {
-    "rendered": "<p><a href=\"http://benicarlo.tomalaplaza.net/files/2011/06/Instancia2_1.jpg\"><img class=\"alignnone size-large wp-image-73\" src=\"http://benicarlo.tomalaplaza.net/files/2011/06/Instancia2_1-723x1024.jpg\" alt=\"\" width=\"723\" height=\"1024\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/06/Instancia2_1-723x1024.jpg 723w, https://benicarlo.tomalaplaza.net/files/2011/06/Instancia2_1-212x300.jpg 212w, https://benicarlo.tomalaplaza.net/files/2011/06/Instancia2_1.jpg 1058w\" sizes=\"(max-width: 723px) 100vw, 723px\" /></a></p>\n",
+    "rendered": "<p><a href=\"http://benicarlo.tomalaplaza.net/files/2011/06/Instancia2_1.jpg\"><img loading=\"lazy\" class=\"alignnone size-large wp-image-73\" src=\"http://benicarlo.tomalaplaza.net/files/2011/06/Instancia2_1-723x1024.jpg\" alt=\"\" width=\"723\" height=\"1024\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/06/Instancia2_1-723x1024.jpg 723w, https://benicarlo.tomalaplaza.net/files/2011/06/Instancia2_1-212x300.jpg 212w, https://benicarlo.tomalaplaza.net/files/2011/06/Instancia2_1.jpg 1058w\" sizes=\"(max-width: 723px) 100vw, 723px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -10149,14 +9987,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/72/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 76,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/72/revisions/76"
       }
     ],
     "wp:attachment": [
@@ -10375,14 +10207,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/64/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 67,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/64/revisions/67"
       }
     ],
     "wp:attachment": [
@@ -10477,14 +10303,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/55/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 57,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/55/revisions/57"
       }
     ],
     "wp:attachment": [
@@ -10534,7 +10354,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/06/19J_A4_cartel_cat-copia.jpg'><img width=\"212\" height=\"300\" src=\"https://benicarlo.tomalaplaza.net/files/2011/06/19J_A4_cartel_cat-copia-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/06/19J_A4_cartel_cat-copia-212x300.jpg 212w, https://benicarlo.tomalaplaza.net/files/2011/06/19J_A4_cartel_cat-copia-723x1024.jpg 723w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/06/19J_A4_cartel_cat-copia.jpg'><img width=\"212\" height=\"300\" src=\"https://benicarlo.tomalaplaza.net/files/2011/06/19J_A4_cartel_cat-copia-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/06/19J_A4_cartel_cat-copia-212x300.jpg 212w, https://benicarlo.tomalaplaza.net/files/2011/06/19J_A4_cartel_cat-copia-723x1024.jpg 723w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -10640,7 +10460,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/06/19J_A4_cartel_cast-copia.jpg'><img width=\"212\" height=\"300\" src=\"https://benicarlo.tomalaplaza.net/files/2011/06/19J_A4_cartel_cast-copia-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/06/19J_A4_cartel_cast-copia-212x300.jpg 212w, https://benicarlo.tomalaplaza.net/files/2011/06/19J_A4_cartel_cast-copia-723x1024.jpg 723w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/06/19J_A4_cartel_cast-copia.jpg'><img width=\"212\" height=\"300\" src=\"https://benicarlo.tomalaplaza.net/files/2011/06/19J_A4_cartel_cast-copia-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/06/19J_A4_cartel_cast-copia-212x300.jpg 212w, https://benicarlo.tomalaplaza.net/files/2011/06/19J_A4_cartel_cast-copia-723x1024.jpg 723w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -10741,7 +10561,7 @@
     "rendered": "MANIFESTACI\u00d3 19 J NO AL PACTE DE L&#8217;EURO"
   },
   "content": {
-    "rendered": "<p><a href=\"http://benicarlo.tomalaplaza.net/files/2011/06/19J_A4_cartel_cast-copia.jpg\"><img src=\"http://benicarlo.tomalaplaza.net/files/2011/06/19J_A4_cartel_cast-copia-723x1024.jpg\" alt=\"\" width=\"723\" height=\"1024\" class=\"alignnone size-large wp-image-48\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/06/19J_A4_cartel_cast-copia-723x1024.jpg 723w, https://benicarlo.tomalaplaza.net/files/2011/06/19J_A4_cartel_cast-copia-212x300.jpg 212w\" sizes=\"(max-width: 723px) 100vw, 723px\" /></a></p>\n<p><a href=\"http://benicarlo.tomalaplaza.net/files/2011/06/19J_A4_cartel_cat-copia.jpg\"><img src=\"http://benicarlo.tomalaplaza.net/files/2011/06/19J_A4_cartel_cat-copia-723x1024.jpg\" alt=\"\" width=\"723\" height=\"1024\" class=\"alignnone size-large wp-image-49\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/06/19J_A4_cartel_cat-copia-723x1024.jpg 723w, https://benicarlo.tomalaplaza.net/files/2011/06/19J_A4_cartel_cat-copia-212x300.jpg 212w\" sizes=\"(max-width: 723px) 100vw, 723px\" /></a></p>\n",
+    "rendered": "<p><a href=\"http://benicarlo.tomalaplaza.net/files/2011/06/19J_A4_cartel_cast-copia.jpg\"><img loading=\"lazy\" src=\"http://benicarlo.tomalaplaza.net/files/2011/06/19J_A4_cartel_cast-copia-723x1024.jpg\" alt=\"\" width=\"723\" height=\"1024\" class=\"alignnone size-large wp-image-48\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/06/19J_A4_cartel_cast-copia-723x1024.jpg 723w, https://benicarlo.tomalaplaza.net/files/2011/06/19J_A4_cartel_cast-copia-212x300.jpg 212w\" sizes=\"(max-width: 723px) 100vw, 723px\" /></a></p>\n<p><a href=\"http://benicarlo.tomalaplaza.net/files/2011/06/19J_A4_cartel_cat-copia.jpg\"><img loading=\"lazy\" src=\"http://benicarlo.tomalaplaza.net/files/2011/06/19J_A4_cartel_cat-copia-723x1024.jpg\" alt=\"\" width=\"723\" height=\"1024\" class=\"alignnone size-large wp-image-49\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/06/19J_A4_cartel_cat-copia-723x1024.jpg 723w, https://benicarlo.tomalaplaza.net/files/2011/06/19J_A4_cartel_cat-copia-212x300.jpg 212w\" sizes=\"(max-width: 723px) 100vw, 723px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -10791,14 +10611,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/47/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 51,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/47/revisions/51"
       }
     ],
     "wp:attachment": [
@@ -10848,7 +10662,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/06/P6110026peq.jpg'><img width=\"300\" height=\"224\" src=\"https://benicarlo.tomalaplaza.net/files/2011/06/P6110026peq-300x224.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/06/P6110026peq-300x224.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/06/P6110026peq-1024x767.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://benicarlo.tomalaplaza.net/files/2011/06/P6110026peq.jpg'><img width=\"300\" height=\"224\" src=\"https://benicarlo.tomalaplaza.net/files/2011/06/P6110026peq-300x224.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/06/P6110026peq-300x224.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/06/P6110026peq-1024x767.jpg 1024w, https://benicarlo.tomalaplaza.net/files/2011/06/P6110026peq.jpg 1743w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -10949,7 +10763,7 @@
     "rendered": "ACTE D&#8217;INVESTIDURA 11 JUNY"
   },
   "content": {
-    "rendered": "<p>INFORMEM:</p>\n<p>Aquest cap de setmana, amb motiu de la investidura del nou ajuntament, la Comissi\u00f3 d&#8217;Acci\u00f3 Col.lectiva de l&#8217;Assemblea dels INDIGNATS, van montar un acte paral.lel per a investir el poble. Tots aquells ciutadans que van voler participar en l&#8217;acte van ser investits -amb jurament i banda inclosa- com a regidores i regidors del poble. Aquest acte estava carregat de simbolisme i cr\u00edtica d&#8217;un sistema que els indignats consideren que est\u00e0 perdent tota la legitimitat i capacitat de gesti\u00f2 competent en una societat democr\u00e0tica real.</p>\n<p>Abans de la performance, part dels Indignats van fer una cercavila pel centre urb\u00e0 convidant els ciutadants a la cerim\u00f2nia d&#8217;investidura del poble ja que per als indignats \u00e9s un objectiu primordial el fet d&#8217;anar sumant ciutadans cr\u00edtics i creatius. Durant tot el mat\u00ed al Ferreres Bret\u00f3 es va donar informaci\u00f3 sobre: sous dels regidors, Pacte de l&#8217;euro, objectius concrets del moviment Democracia Real Ya, resums de les anteriors assemblees locals, informaci\u00f3 sobre el sistema electoral i es van recollir signatures en format inst\u00e0ncia per a demanar al nou Ajuntament una gesti\u00f3 transparent i amb uns sous i despeses solid\u00e0ries amb la situaci\u00f3 de crisi econ\u00f2mica actual. Aquestes inst\u00e0ncies s&#8217;entregaran en uns dies a l&#8217;ajuntament i els Indignats asseguren que hi haur\u00e0 un seguiment exhaustiu en la gesti\u00f3 dels recursos de l&#8217;ajuntament.</p>\n<p>Indignats informa que la pr\u00f2xima assemblea ser\u00e0 dissabte 18, a les 19:00 hores, al Ferreres Bret\u00f3 (pla\u00e7a dels Indignats).</p>\n<p>Convoquem a tot aquell indignat, decepcionat, t\u00edmid, aturat, pensionista, hipotecat, amb fills, solitari. apol\u00edtic i tot aquell ciutad\u00e0 que vullga plantar-li cara a aquest sistema corrupte, que ens est\u00e0 destruint, vinga a manifestar-se el 19 de juny a les 19:00 hores des de Ferreres Bret\u00f3. Demanem la m\u00e0xima assist\u00e8ncia i convidem els ciutadans d&#8217;altres pobles on no hi hagi manifestaci\u00f3 convocada. Tamb\u00e9 demanem vindre amb tota la indignaci\u00f3 i a l&#8217;hora amb tot el civisme: aquest moviment est\u00e0 fonamentat en el respecte i la toler\u00e0ncia.</p>\n<p>El moviment continua i va sumant indignats!</p>\n<p>blog: benicarlo.tomalaplaza.net<br />\ncorreu: benikracia@gmail.com<a href=\"http://benicarlo.tomalaplaza.net/files/2011/06/P6110026peq.jpg\"><img class=\"alignnone size-medium wp-image-43\" src=\"http://benicarlo.tomalaplaza.net/files/2011/06/P6110026peq-300x224.jpg\" alt=\"\" width=\"300\" height=\"224\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/06/P6110026peq-300x224.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/06/P6110026peq-1024x767.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n",
+    "rendered": "<p>INFORMEM:</p>\n<p>Aquest cap de setmana, amb motiu de la investidura del nou ajuntament, la Comissi\u00f3 d&#8217;Acci\u00f3 Col.lectiva de l&#8217;Assemblea dels INDIGNATS, van montar un acte paral.lel per a investir el poble. Tots aquells ciutadans que van voler participar en l&#8217;acte van ser investits -amb jurament i banda inclosa- com a regidores i regidors del poble. Aquest acte estava carregat de simbolisme i cr\u00edtica d&#8217;un sistema que els indignats consideren que est\u00e0 perdent tota la legitimitat i capacitat de gesti\u00f2 competent en una societat democr\u00e0tica real.</p>\n<p>Abans de la performance, part dels Indignats van fer una cercavila pel centre urb\u00e0 convidant els ciutadants a la cerim\u00f2nia d&#8217;investidura del poble ja que per als indignats \u00e9s un objectiu primordial el fet d&#8217;anar sumant ciutadans cr\u00edtics i creatius. Durant tot el mat\u00ed al Ferreres Bret\u00f3 es va donar informaci\u00f3 sobre: sous dels regidors, Pacte de l&#8217;euro, objectius concrets del moviment Democracia Real Ya, resums de les anteriors assemblees locals, informaci\u00f3 sobre el sistema electoral i es van recollir signatures en format inst\u00e0ncia per a demanar al nou Ajuntament una gesti\u00f3 transparent i amb uns sous i despeses solid\u00e0ries amb la situaci\u00f3 de crisi econ\u00f2mica actual. Aquestes inst\u00e0ncies s&#8217;entregaran en uns dies a l&#8217;ajuntament i els Indignats asseguren que hi haur\u00e0 un seguiment exhaustiu en la gesti\u00f3 dels recursos de l&#8217;ajuntament.</p>\n<p>Indignats informa que la pr\u00f2xima assemblea ser\u00e0 dissabte 18, a les 19:00 hores, al Ferreres Bret\u00f3 (pla\u00e7a dels Indignats).</p>\n<p>Convoquem a tot aquell indignat, decepcionat, t\u00edmid, aturat, pensionista, hipotecat, amb fills, solitari. apol\u00edtic i tot aquell ciutad\u00e0 que vullga plantar-li cara a aquest sistema corrupte, que ens est\u00e0 destruint, vinga a manifestar-se el 19 de juny a les 19:00 hores des de Ferreres Bret\u00f3. Demanem la m\u00e0xima assist\u00e8ncia i convidem els ciutadans d&#8217;altres pobles on no hi hagi manifestaci\u00f3 convocada. Tamb\u00e9 demanem vindre amb tota la indignaci\u00f3 i a l&#8217;hora amb tot el civisme: aquest moviment est\u00e0 fonamentat en el respecte i la toler\u00e0ncia.</p>\n<p>El moviment continua i va sumant indignats!</p>\n<p>blog: benicarlo.tomalaplaza.net<br />\ncorreu: benikracia@gmail.com<a href=\"http://benicarlo.tomalaplaza.net/files/2011/06/P6110026peq.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-43\" src=\"http://benicarlo.tomalaplaza.net/files/2011/06/P6110026peq-300x224.jpg\" alt=\"\" width=\"300\" height=\"224\" srcset=\"https://benicarlo.tomalaplaza.net/files/2011/06/P6110026peq-300x224.jpg 300w, https://benicarlo.tomalaplaza.net/files/2011/06/P6110026peq-1024x767.jpg 1024w, https://benicarlo.tomalaplaza.net/files/2011/06/P6110026peq.jpg 1743w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -10999,14 +10813,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/42/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 212,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/42/revisions/212"
       }
     ],
     "wp:attachment": [
@@ -11101,14 +10909,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/39/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 213,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/39/revisions/213"
       }
     ],
     "wp:attachment": [
@@ -11203,14 +11005,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/36/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 37,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/36/revisions/37"
       }
     ],
     "wp:attachment": [
@@ -11305,14 +11101,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/32/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 33,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/32/revisions/33"
       }
     ],
     "wp:attachment": [
@@ -11407,14 +11197,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/30/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 214,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/30/revisions/214"
       }
     ],
     "wp:attachment": [
@@ -11509,14 +11293,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/25/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 28,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/25/revisions/28"
       }
     ],
     "wp:attachment": [
@@ -11611,14 +11389,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/21/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 215,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/21/revisions/215"
       }
     ],
     "wp:attachment": [
@@ -11713,14 +11485,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/18/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 216,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/18/revisions/216"
       }
     ],
     "wp:attachment": [
@@ -11815,14 +11581,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/14/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 217,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/14/revisions/217"
       }
     ],
     "wp:attachment": [
@@ -11917,14 +11677,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/9/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 23,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/9/revisions/23"
       }
     ],
     "wp:attachment": [
@@ -12019,14 +11773,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/7/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 8,
-        "href": "https://benicarlo.tomalaplaza.net/wp-json/wp/v2/posts/7/revisions/8"
       }
     ],
     "wp:attachment": [

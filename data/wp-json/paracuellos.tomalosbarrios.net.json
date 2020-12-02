@@ -20,7 +20,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://paracuellos.tomalosbarrios.net/files/2011/06/imagen-Paracuellos.jpg'><img width=\"300\" height=\"300\" src=\"https://paracuellos.tomalosbarrios.net/files/2011/06/imagen-Paracuellos-300x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://paracuellos.tomalosbarrios.net/files/2011/06/imagen-Paracuellos-300x300.jpg 300w, https://paracuellos.tomalosbarrios.net/files/2011/06/imagen-Paracuellos-150x150.jpg 150w, https://paracuellos.tomalosbarrios.net/files/2011/06/imagen-Paracuellos-144x144.jpg 144w, https://paracuellos.tomalosbarrios.net/files/2011/06/imagen-Paracuellos-900x900.jpg 900w, https://paracuellos.tomalosbarrios.net/files/2011/06/imagen-Paracuellos.jpg 960w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://paracuellos.tomalosbarrios.net/files/2011/06/imagen-Paracuellos.jpg'><img width=\"300\" height=\"300\" src=\"https://paracuellos.tomalosbarrios.net/files/2011/06/imagen-Paracuellos-300x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://paracuellos.tomalosbarrios.net/files/2011/06/imagen-Paracuellos-300x300.jpg 300w, https://paracuellos.tomalosbarrios.net/files/2011/06/imagen-Paracuellos-150x150.jpg 150w, https://paracuellos.tomalosbarrios.net/files/2011/06/imagen-Paracuellos-144x144.jpg 144w, https://paracuellos.tomalosbarrios.net/files/2011/06/imagen-Paracuellos-900x900.jpg 900w, https://paracuellos.tomalosbarrios.net/files/2011/06/imagen-Paracuellos.jpg 960w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -187,14 +187,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/410/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 411,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/410/revisions/411"
       }
     ],
     "wp:attachment": [
@@ -289,14 +283,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/404/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 408,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/404/revisions/408"
       }
     ],
     "wp:attachment": [
@@ -392,14 +380,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/400/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 403,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/400/revisions/403"
       }
     ],
     "wp:attachment": [
@@ -495,14 +477,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/390/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 395,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/390/revisions/395"
       }
     ],
     "wp:attachment": [
@@ -598,14 +574,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/387/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 409,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/387/revisions/409"
       }
     ],
     "wp:attachment": [
@@ -700,14 +670,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/381/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 385,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/381/revisions/385"
       }
     ],
     "wp:attachment": [
@@ -802,14 +766,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/376/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 379,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/376/revisions/379"
       }
     ],
     "wp:attachment": [
@@ -854,7 +812,7 @@
     "rendered": "III ENCUENTRO ABIERTO POR LA COORDINACI\u00d3N ESTATAL DE LAS ASAMBLEAS POPULARES, COMISIONES Y GRUPOS DE TRABAJO RELACIONADAS CON EL 15-M"
   },
   "content": {
-    "rendered": "<p lang=\"es-ES\">10-11 DE SEPTIEMBRE EN EL PARQUE DEL RETIRO DE MADRID, (Palacio de cristal</p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\">PROGRAMA A FECHA DEL 08/09/11 PARA DIFUNDIR PUBLICAMENTE</p>\n<p lang=\"es-ES\">( por lo tanto si al termino de esta edici\u00f3n hay m\u00e1s convocatorias se tendran que difundir por los propios medios de lxs convocantes)</p>\n<p>&nbsp;</p>\n<p lang=\"es-ES\"><strong>S\u00c1BADO 10</strong></p>\n<p lang=\"es-ES\"><strong>Ma\u00f1ana</strong></p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\"><strong>\u00b7 10.00 Reuni\u00f3n abierta para organizar la facilitaci\u00f3n de las asambleas. </strong></p>\n<p lang=\"es-ES\">Importante que acudan personas con vocaci\u00f3n y experiencia en facilitar</p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\"><strong>\u00b7 11:00 &#8211; 14:00 Reuni\u00f3n de Grupo Estatal de Medio Rural: rurales enredadxs.</strong></p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\"><strong>\u00b7 11:00 &#8211; 14:00 Reuni\u00f3n GT de social &#8211; estatal</strong></p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\"><strong>\u00b7 11:00 &#8211; 14:00 Reuni\u00f3n GT de mapeo anal\u00edtico de asambleas para tratar de establecer fortalezas y debilidades comunes</strong>. En especial c\u00f3mo funciona el asamblearismo y cu\u00e1les son las problem\u00e1ticas m\u00e1s comunes respecto a la participaci\u00f3n y la toma de decisiones</p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\">\n<p lang=\"es-ES\">COMIDA COM\u00daN (cada uno lleva lo que quiera y compartimos)</p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\"><strong>Tarde</strong></p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\"><strong>\u00b7 15.30 Din\u00e1mica de bienvenida y peque\u00f1o espacio para teatro y juego.</strong> 20&#8242;</p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\"><strong>\u00b7 16.00 &#8211; 18.30 Grupo de trabajo para preparar la asamblea sobre v\u00edas de comunicaci\u00f3n efectiva del domingo + grupo de trabajo para preparar la asamblea sobre metodolog\u00eda de toma de decisiones. </strong></p>\n<p lang=\"es-ES\"><strong>16.00 &#8211; 18.30</strong></p>\n<p lang=\"es-ES\"><strong>Reuni\u00f3n Grupo de trabajo estatal 15-M Nueva Constituci\u00f3n</strong></p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\"><strong>16.00 &#8211; 18.30</strong></p>\n<p lang=\"es-ES\"><strong>Grupo de trabajo estatal sobre Huelga General y su posible coordinaci\u00f3n con otros pa\u00edses para una Huelga General europea indefinida.</strong></p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\"><strong>\u00b7 17:00 &#8211; 18:30 Encuentro Estatal de Econom\u00eda</strong></p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\"><strong>\u00b7 18.30 &#8211; 20.30 Puesta en com\u00fan del 2\u00ba encuentro de medio ambiente en Laciana </strong>(3-4 septiembre). Experiencia de la acampada S.O.S. Laciana. La mayor multa medio-ambiental jam\u00e1s pagada.</p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\"><strong>\u00b7 19.00 Tertulia sobre c\u00f3mo hemos vivido la &#171;primavera del 2011&#187;</strong> y qu\u00e9 esperamos de la jornada del domingo.</p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\"><strong>\u00b7 19:00 Asamblea abierta a plazas, barrios, pueblos, comisiones, kioskeros, peatones y gente en general para pensar acciones para el d\u00eda de movilizaci\u00f3n global del 15 de octubre.</strong> Organizado desde la comisi\u00f3n de internacional wet.</p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\"><strong>\u00b7 19.00 Asamblea general de estrategias 15M estatal </strong></p>\n<p lang=\"es-ES\">Estrategias coordinadas para el oto\u00f1o y especialmente de cara al 20-N</p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\">CONOZC\u00c1MONOS UN POCO: Espacio para compartir ocio juntas.</p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\"><strong>DOMINGO 11</strong></p>\n<p lang=\"es-ES\"><strong>Ma\u00f1ana</strong></p>\n<p lang=\"es-ES\"><strong>\u00b7 11:00 &#8211; 14:00 Encuentro por la comunicaci\u00f3n efectiva </strong>con los siguientes puntos:</p>\n<p lang=\"es-ES\"><strong>Herramientas de Comunicaci\u00f3n eficaces y que lleguen a todas las asambleas.</strong></p>\n<p lang=\"es-ES\">En caso de tener el punto principal solucionado atender a:</p>\n<p lang=\"es-ES\"><strong>Metodolog\u00edas de Toma de Decisiones que impliquen a todas las asambleas </strong></p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\">COMIDA COM\u00daN Y DESPEDIDA</p>\n<p lang=\"es-ES\">PARA AQUELLAS PERSONAS QUE DEBAN PARTIR DE VUELTA</p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\">\n<p lang=\"es-ES\">Se podr\u00e1 participar remotamente en el encuentro a trav\u00e9s de Mumble. Descarga Mumble:</p>\n<p><a href=\"http://mumble.sourceforge.net/\" target=\"_blank\">http://mumble.sourceforge.net/</a> y con\u00e9ctate al servidor: <a href=\"http://mumble.noc4net.com/\" target=\"_blank\">http://mumble.noc4net.com/</a></p>\n<p>Ser\u00eda conveniente que se llevaran algunos port\u00e1tiles para tomar notas y en caso de tener Internet poder recibir y enviar comunicaciones en vivo.</p>\n",
+    "rendered": "<p lang=\"es-ES\">10-11 DE SEPTIEMBRE EN EL PARQUE DEL RETIRO DE MADRID, (Palacio de cristal</p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\">PROGRAMA A FECHA DEL 08/09/11 PARA DIFUNDIR PUBLICAMENTE</p>\n<p lang=\"es-ES\">( por lo tanto si al termino de esta edici\u00f3n hay m\u00e1s convocatorias se tendran que difundir por los propios medios de lxs convocantes)</p>\n<p>&nbsp;</p>\n<p lang=\"es-ES\"><strong>S\u00c1BADO 10</strong></p>\n<p lang=\"es-ES\"><strong>Ma\u00f1ana</strong></p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\"><strong>\u00b7 10.00 Reuni\u00f3n abierta para organizar la facilitaci\u00f3n de las asambleas. </strong></p>\n<p lang=\"es-ES\">Importante que acudan personas con vocaci\u00f3n y experiencia en facilitar</p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\"><strong>\u00b7 11:00 &#8211; 14:00 Reuni\u00f3n de Grupo Estatal de Medio Rural: rurales enredadxs.</strong></p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\"><strong>\u00b7 11:00 &#8211; 14:00 Reuni\u00f3n GT de social &#8211; estatal</strong></p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\"><strong>\u00b7 11:00 &#8211; 14:00 Reuni\u00f3n GT de mapeo anal\u00edtico de asambleas para tratar de establecer fortalezas y debilidades comunes</strong>. En especial c\u00f3mo funciona el asamblearismo y cu\u00e1les son las problem\u00e1ticas m\u00e1s comunes respecto a la participaci\u00f3n y la toma de decisiones</p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\">\n<p lang=\"es-ES\">COMIDA COM\u00daN (cada uno lleva lo que quiera y compartimos)</p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\"><strong>Tarde</strong></p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\"><strong>\u00b7 15.30 Din\u00e1mica de bienvenida y peque\u00f1o espacio para teatro y juego.</strong> 20&#8242;</p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\"><strong>\u00b7 16.00 &#8211; 18.30 Grupo de trabajo para preparar la asamblea sobre v\u00edas de comunicaci\u00f3n efectiva del domingo + grupo de trabajo para preparar la asamblea sobre metodolog\u00eda de toma de decisiones. </strong></p>\n<p lang=\"es-ES\"><strong>16.00 &#8211; 18.30</strong></p>\n<p lang=\"es-ES\"><strong>Reuni\u00f3n Grupo de trabajo estatal 15-M Nueva Constituci\u00f3n</strong></p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\"><strong>16.00 &#8211; 18.30</strong></p>\n<p lang=\"es-ES\"><strong>Grupo de trabajo estatal sobre Huelga General y su posible coordinaci\u00f3n con otros pa\u00edses para una Huelga General europea indefinida.</strong></p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\"><strong>\u00b7 17:00 &#8211; 18:30 Encuentro Estatal de Econom\u00eda</strong></p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\"><strong>\u00b7 18.30 &#8211; 20.30 Puesta en com\u00fan del 2\u00ba encuentro de medio ambiente en Laciana </strong>(3-4 septiembre). Experiencia de la acampada S.O.S. Laciana. La mayor multa medio-ambiental jam\u00e1s pagada.</p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\"><strong>\u00b7 19.00 Tertulia sobre c\u00f3mo hemos vivido la \u00abprimavera del 2011\u00bb</strong> y qu\u00e9 esperamos de la jornada del domingo.</p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\"><strong>\u00b7 19:00 Asamblea abierta a plazas, barrios, pueblos, comisiones, kioskeros, peatones y gente en general para pensar acciones para el d\u00eda de movilizaci\u00f3n global del 15 de octubre.</strong> Organizado desde la comisi\u00f3n de internacional wet.</p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\"><strong>\u00b7 19.00 Asamblea general de estrategias 15M estatal </strong></p>\n<p lang=\"es-ES\">Estrategias coordinadas para el oto\u00f1o y especialmente de cara al 20-N</p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\">CONOZC\u00c1MONOS UN POCO: Espacio para compartir ocio juntas.</p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\"><strong>DOMINGO 11</strong></p>\n<p lang=\"es-ES\"><strong>Ma\u00f1ana</strong></p>\n<p lang=\"es-ES\"><strong>\u00b7 11:00 &#8211; 14:00 Encuentro por la comunicaci\u00f3n efectiva </strong>con los siguientes puntos:</p>\n<p lang=\"es-ES\"><strong>Herramientas de Comunicaci\u00f3n eficaces y que lleguen a todas las asambleas.</strong></p>\n<p lang=\"es-ES\">En caso de tener el punto principal solucionado atender a:</p>\n<p lang=\"es-ES\"><strong>Metodolog\u00edas de Toma de Decisiones que impliquen a todas las asambleas </strong></p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\">COMIDA COM\u00daN Y DESPEDIDA</p>\n<p lang=\"es-ES\">PARA AQUELLAS PERSONAS QUE DEBAN PARTIR DE VUELTA</p>\n<p lang=\"es-ES\">\n<p lang=\"es-ES\">\n<p lang=\"es-ES\">Se podr\u00e1 participar remotamente en el encuentro a trav\u00e9s de Mumble. Descarga Mumble:</p>\n<p><a href=\"http://mumble.sourceforge.net/\" target=\"_blank\">http://mumble.sourceforge.net/</a> y con\u00e9ctate al servidor: <a href=\"http://mumble.noc4net.com/\" target=\"_blank\">http://mumble.noc4net.com/</a></p>\n<p>Ser\u00eda conveniente que se llevaran algunos port\u00e1tiles para tomar notas y en caso de tener Internet poder recibir y enviar comunicaciones en vivo.</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -905,14 +863,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/371/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 375,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/371/revisions/375"
       }
     ],
     "wp:attachment": [
@@ -1008,14 +960,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/367/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 370,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/367/revisions/370"
       }
     ],
     "wp:attachment": [
@@ -1113,14 +1059,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/362/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 365,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/362/revisions/365"
       }
     ],
     "wp:attachment": [
@@ -1170,7 +1110,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://paracuellos.tomalosbarrios.net/files/2011/08/Marcha-indignada-Bruselas.jpg'><img width=\"300\" height=\"179\" src=\"https://paracuellos.tomalosbarrios.net/files/2011/08/Marcha-indignada-Bruselas-300x179.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://paracuellos.tomalosbarrios.net/files/2011/08/Marcha-indignada-Bruselas-300x179.jpg 300w, https://paracuellos.tomalosbarrios.net/files/2011/08/Marcha-indignada-Bruselas-1024x613.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://paracuellos.tomalosbarrios.net/files/2011/08/Marcha-indignada-Bruselas.jpg'><img width=\"300\" height=\"179\" src=\"https://paracuellos.tomalosbarrios.net/files/2011/08/Marcha-indignada-Bruselas-300x179.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://paracuellos.tomalosbarrios.net/files/2011/08/Marcha-indignada-Bruselas-300x179.jpg 300w, https://paracuellos.tomalosbarrios.net/files/2011/08/Marcha-indignada-Bruselas-1024x613.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -1277,7 +1217,7 @@
     "rendered": "La marcha indignada en apoyo a los compis de Sol"
   },
   "content": {
-    "rendered": "<p><a href=\"http://paracuellos.tomalosbarrios.net/files/2011/08/Marcha-indignada-Bruselas.jpg\"><img class=\"alignnone size-medium wp-image-354\" src=\"http://paracuellos.tomalosbarrios.net/files/2011/08/Marcha-indignada-Bruselas-300x179.jpg\" alt=\"\" width=\"582\" height=\"343\" /></a></p>\n",
+    "rendered": "<p><a href=\"http://paracuellos.tomalosbarrios.net/files/2011/08/Marcha-indignada-Bruselas.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-354\" src=\"http://paracuellos.tomalosbarrios.net/files/2011/08/Marcha-indignada-Bruselas-300x179.jpg\" alt=\"\" width=\"582\" height=\"343\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -1327,14 +1267,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/353/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 357,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/353/revisions/357"
       }
     ],
     "wp:attachment": [
@@ -1430,14 +1364,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/351/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 358,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/351/revisions/358"
       }
     ],
     "wp:attachment": [
@@ -1533,14 +1461,8 @@
     ],
     "version-history": [
       {
-        "count": 11,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/339/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 359,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/339/revisions/359"
       }
     ],
     "wp:attachment": [
@@ -1585,7 +1507,7 @@
     "rendered": "El Estado policial no nos para: la plaza es de todos"
   },
   "content": {
-    "rendered": "<ul>\n<li><strong>La Asamblea de Gran V\u00eda (espont\u00e1nea) consens\u00faa marchar de Pl. de Oriente a Sol el jueves a las 12 h</strong></li>\n<li>Los v\u00eddeos de lo sucedido en torno a Sol en la <a href=\"http://madrid.tomalaplaza.net/\u200btv/\">TV de madrid.tomalaplaza</a></li>\n<li>En Twitter @acampadasol te lo hemos contado todo con los hashtag <a href=\"https://twitter.com/#!/search?q=%23vuelvealaplaza\">#vuelvealaplaza</a> y <a href=\"https://twitter.com/#!/search?q=%23nopararemos\">#nopararemos\u00a0</a></li>\n<li>La cadena venezolana<a href=\"http://youtu.be/zc_OzT6WGm8?t=12m13s\"> Telesur ha transmitido en directo la carga policial en Preciados</a></li>\n<li>Las <a href=\"http://madrid.tomalaplaza.net/2011/08/04/fotos-de-la-movilizacion-de-atocha-a-sol-del-3-de-agosto/\">fotos de la marcha</a></li>\n</ul>\n<p>Las plazas del centro de Madrid, que hasta la madrugada de ayer estaban ocupadas por<strong> personas pac\u00edficas que debat\u00edan en asamblea los problemas de la sociedad, los gobiernos, la econom\u00eda</strong>\u2026 y sus posibles soluciones, <strong>han pasado a estar ocupados por las \u2018fuerzas de seguridad\u2019</strong>.</p>\n<p>No lo decimos nosotros. Lo viven las <strong>personas que para pasar por Sol ten\u00edan que ense\u00f1ar su documentaci\u00f3n</strong>. Lo vivieron los turistas que en la madrugada de ayer fueron acompa\u00f1ados hasta sus hoteles del centro por polic\u00edas. Lo viven las personas que esta tarde <strong>no han podido celebrar sus asambleas para debatir en las plazas p\u00fablicas</strong> de la ciudad y han empezado a reunirse para protestar desde las\u00a0\u200e18:30 horas en la madrile\u00f1a plaza de Jacinto Benavente.</p>\n<div><a href=\"http://madrid.tomalaplaza.net/files/2011/08/Plaza22h_2.jpg\"><img src=\"http://madrid.tomalaplaza.net/files/2011/08/Plaza22h_2.jpg\" alt=\"Puerta del Sol sitiada\" width=\"290\" height=\"194\" /></a>Puerta del Sol sitiada. Foto \u00c1lex</div>\n<p>Desde esa misma hora los ciudadanos se han visto privados de poder usar el transporte p\u00fablico en las paradas\u00a0de metro y Cercan\u00edas de Sol, ya que, por segundo d\u00eda consecutivo, han sido cerrados. El centro de la Puerta del Sol tambi\u00e9n estaba cerrado al paso de viandantes. Una quincena \u201clarga\u201d de furgonas de polic\u00eda ha cortado las entradas a la plaza, seg\u00fan contaba el <a href=\"http://www.facebook.com/acampadasol?sk=wall&amp;filter=2\">Facebook de Acampadasol</a>.</p>\n<p><strong>Marchas en Madrid y otras ciudades</strong></p>\n<p>Tan solo media hora despu\u00e9s, las personas reunidas en Jacinto Benavente han decidido unirse a otra protesta que estaba convocada para esta tarde. La <a href=\"http://marchapopularindignada.wordpress.com/2011/07/31/accion-en-puerta-del-hierro-madmanifestacion-3agosto/\">Marcha Popular Indignada, junto a los habitantes del poblado de Puerta del Hierro</a>, ten\u00eda prevista una marcha que part\u00eda desde Atocha.</p>\n<div><a href=\"http://madrid.tomalaplaza.net/files/2011/08/rumbocibeles.jpg\"><img src=\"http://madrid.tomalaplaza.net/files/2011/08/rumbocibeles-300x179.jpg\" alt=\"Rumbo a Cibeles\" width=\"300\" height=\"179\" /></a>Rumbo a Cibeles. @acampadasol</div>\n<p>As\u00ed ha sido. Miles de personas han partido desde la zona de la estaci\u00f3n. Unos cientos han ido a la <strong>Empresa Municipal de la Vivienda para apoyar a los residentes del poblado de Puerta de Hierro</strong>. La marcha principal se ha concentrado frente al Congreso. Al cabo de un rato, y poniendo rumbo a Cibeles, los marchantes han coreado \u201cV\u00e1monos a Sol\u201d, \u201cToma la plaza de nuevo\u201d. Unas 3.000 personas han cortado al tr\u00e1fico la calle de Alcal\u00e1.</p>\n<p>Mientras, <strong>decenas de ciudades de toda Espa\u00f1a han salido a la calle</strong> y algunas acampadas se han reactivado. Entre otras, en Barcelona han convocado una concentraci\u00f3n en Pla\u00e7a Catalunya a favor de los <a href=\"https://twitter.com/#!/search?q=%23esperan\u00e7a24h\">hospitales p\u00fablicos</a> y de los acontecimientos de Madrid. En Valencia tambi\u00e9n se han <a href=\"http://www.acampadavalencia.net/2011/08/03/hoy-a-las-2000-concentracion-en-apoyo-a-sol/\">solidarizado con el desalojo de ayer en Sol</a>\u00a0y se han manifestado en la Pla\u00e7a del 15 de maig. En<a href=\"http://acampadasalamanca.blogspot.com/2011/08/acampada-express-24horas.html\"> Salamanca han organizado una acampada express 24 horas</a>, por los hechos de Madrid y en la Plaza Syntagma de Atenas.</p>\n<p>Ya en los alrededores de Sol, hemos visto c\u00f3mo la calle Preciados estaba abarrotada. Las personas concentradas han hecho intentos de entrar, pero la polic\u00eda los ha conseguido rechazar.</p>\n<p>Ha comenzado despu\u00e9s la dispersi\u00f3n por las calles del Carmen, Arenal, Mayor, Carretas y Carrera San Jer\u00f3nimo, mientras se o\u00eda el c\u00e1ntico de \u201cEran maderos, ahora son porteros\u201d, en referencia a los polic\u00edas, que han continuado inamovibles en Puerta del Sol.</p>\n<div><a href=\"http://madrid.tomalaplaza.net/files/2011/08/GranVia.jpg\"><img src=\"http://madrid.tomalaplaza.net/files/2011/08/GranVia-300x224.jpg\" alt=\"Asamblea de Gran V\u00eda\" width=\"300\" height=\"224\" /></a>Asamblea de Gran V\u00eda. Foto: @fanetin</div>\n<p>Entrada la noche, ha vuelto a cortarse el tr\u00e1fico en Gran V\u00eda, donde se ha montado una asamblea interrumpida a ratos por el ruido del helic\u00f3ptero sobrevolando la c\u00e9ntrica calle. <strong>Se echa de menos el debate sosegado y pac\u00edfico</strong>, en la asamblea han lamentado que \u201cmientras estamos en las calles suspendemos asambleas y paramos el trabajo de fondo del Movimiento 15M\u201d.</p>\n<p><strong>Cargas policiales y retenciones</strong></p>\n<p>Personas que se hallaban en calle Preciados nos han informado de que se estaban produciendo <a href=\"http://youtu.be/zc_OzT6WGm8?t=12m13s\">cargas policiales \u00a0con empujones, pisotones</a>, etc. Por otra parte, en calle del Carmen ha habido varios retenidos, seg\u00fan ilustra <a href=\"http://yfrog.com/h0exbolj\">20mdirecto</a>, sin embargo, la polic\u00eda les ha liberado al cabo de unos minutos.</p>\n<p>En este v\u00eddeo, vemos c\u00f3mo <strong>la cadena venezolana Telesur ha intentado contar entre grandes dificultades los movimientos de la marcha</strong> en las calles aleda\u00f1as de Sol.</p>\n<p><strong>Asamblea de Gran V\u00eda: de Oriente a Sol el jueves a las 12 h</strong></p>\n<p>En la asamblea que se convoc\u00f3 de forma espont\u00e1nea por las personas que estaban en Gran V\u00eda se consensu\u00f3\u00a0marchar de Plaza de Oriente a Sol el jueves a las 12 horas.\u00a0Aunque la idea es estar en la calle todo el d\u00eda y cualquier persona puede acercarse a cualquier hora.</p>\n<p>En la asamblea que se hizo para decidir colectivamente en lugar de seguir corriendo alrededor de la polic\u00eda, se ley\u00f3 el <a href=\"http://www.sup.es/cont.php?carp=10&amp;ident=021\">comunicado que lanz\u00f3 ayer eel Sindicato Unificado de Polic\u00eda</a>. En \u00e9l critican las instrucciones que recibieron los agentes de Delegaci\u00f3n del Gobierno: no detener a nadie, no emplear material antidisturbios e impedir por todos los medios que los \u2018acampados\u2019 vuelvan a Sol.</p>\n<p>Los polic\u00edas del sindicato se preguntan:. Qu\u00e9 est\u00e1 diciendo la Delegada del Gobierno a la Polic\u00eda, \u00bfQu\u00e9 no\u00a0cumpla la ley y si alguien comete un delito no lo detenga?; \u00bfQu\u00e9 los polic\u00edas\u00a0pueden ser agredidos y tienen que soportarlo estoicamente sin poder usar\u00a0medios a su alcance? <strong>Estas instrucciones adem\u00e1s de ser pat\u00e9ticas son ilegales</strong> y\u00a0la Delegada debe ser la primera en cumplir la Ley,<strong> a no ser que estemos peor\u00a0que en tiempos de Franco</strong>.\u00a0Alguna gente en la asamblea de Gran V\u00eda respondi\u00f3: si est\u00e1n indignados, que se se unan al #15M.</p>\n<p><strong>Las razones de la movilizaci\u00f3n</strong></p>\n<p>Recordemos que en la madrugada de ayer, los <a href=\"http://madrid.tomalaplaza.net/2011/08/02/la-policia-desaloja-infosol-y-la-acampada-del-paseo-del-prado/\">agentes policiales desalojaron a unas 30 personas de InfoSol, el punto de informaci\u00f3n de la Puerta del Sol y las alrededor de 30 personas acampadas en el Paseo del Prado</a> a las 6:30 horas sin previo aviso y de forma acelerada.</p>\n<p><strong>Lejos de disipar el esp\u00edritu que nos ha unido en Sol</strong>, este despliegue desmesurado de fuerza policial ha reavivado las conciencias. Las plazas son para el debate de las personas y la creaci\u00f3n de una conciencia global. Como han explicado nuestros compa\u00f1eros de An\u00e1lisis en un <a href=\"http://madrid.tomalaplaza.net/2011/08/03/analisis-de-prensa-a-raiz-del-desalojo-del-puntosol-y-acampada-prado-el-2-de-agosto-de-2011/\">documento que estudia la posici\u00f3n de diversos medios de comunicaci\u00f3n</a>\u00a0sobre estos acontecimientos, InfoSol es \u201cun punto de encuentro para personas, con informaci\u00f3n sobre las diversas acciones\u201d.</p>\n<p>\u201cNo s\u00f3lo se han destruido y atacado objetos que han pasado a ser residuo, sino que estos no lo eran hasta que las autoridades lo han destruido, nos encontramos con una agresi\u00f3n a multitud de expresiones pol\u00edticas y art\u00edsticas\u201d, afirma el an\u00e1lisis.</p>\n<p>Para acabar, un poco de humor, recordando la primera quincena de Acampada Sol, cuando se hac\u00edan mapas de las comisiones en la plaza:</p>\n<div><a href=\"http://madrid.tomalaplaza.net/files/2011/08/mapapolicial.jpg\"><img src=\"http://madrid.tomalaplaza.net/files/2011/08/mapapolicial.jpg\" alt=\"Mapa Acampada Polic\u00eda\" width=\"600\" height=\"424\" /></a></div>\n",
+    "rendered": "<ul>\n<li><strong>La Asamblea de Gran V\u00eda (espont\u00e1nea) consens\u00faa marchar de Pl. de Oriente a Sol el jueves a las 12 h</strong></li>\n<li>Los v\u00eddeos de lo sucedido en torno a Sol en la <a href=\"http://madrid.tomalaplaza.net/\u200btv/\">TV de madrid.tomalaplaza</a></li>\n<li>En Twitter @acampadasol te lo hemos contado todo con los hashtag <a href=\"https://twitter.com/#!/search?q=%23vuelvealaplaza\">#vuelvealaplaza</a> y <a href=\"https://twitter.com/#!/search?q=%23nopararemos\">#nopararemos\u00a0</a></li>\n<li>La cadena venezolana<a href=\"http://youtu.be/zc_OzT6WGm8?t=12m13s\"> Telesur ha transmitido en directo la carga policial en Preciados</a></li>\n<li>Las <a href=\"http://madrid.tomalaplaza.net/2011/08/04/fotos-de-la-movilizacion-de-atocha-a-sol-del-3-de-agosto/\">fotos de la marcha</a></li>\n</ul>\n<p>Las plazas del centro de Madrid, que hasta la madrugada de ayer estaban ocupadas por<strong> personas pac\u00edficas que debat\u00edan en asamblea los problemas de la sociedad, los gobiernos, la econom\u00eda</strong>\u2026 y sus posibles soluciones, <strong>han pasado a estar ocupados por las \u2018fuerzas de seguridad\u2019</strong>.</p>\n<p>No lo decimos nosotros. Lo viven las <strong>personas que para pasar por Sol ten\u00edan que ense\u00f1ar su documentaci\u00f3n</strong>. Lo vivieron los turistas que en la madrugada de ayer fueron acompa\u00f1ados hasta sus hoteles del centro por polic\u00edas. Lo viven las personas que esta tarde <strong>no han podido celebrar sus asambleas para debatir en las plazas p\u00fablicas</strong> de la ciudad y han empezado a reunirse para protestar desde las\u00a0\u200e18:30 horas en la madrile\u00f1a plaza de Jacinto Benavente.</p>\n<div><a href=\"http://madrid.tomalaplaza.net/files/2011/08/Plaza22h_2.jpg\"><img loading=\"lazy\" src=\"http://madrid.tomalaplaza.net/files/2011/08/Plaza22h_2.jpg\" alt=\"Puerta del Sol sitiada\" width=\"290\" height=\"194\" /></a>Puerta del Sol sitiada. Foto \u00c1lex</div>\n<p>Desde esa misma hora los ciudadanos se han visto privados de poder usar el transporte p\u00fablico en las paradas\u00a0de metro y Cercan\u00edas de Sol, ya que, por segundo d\u00eda consecutivo, han sido cerrados. El centro de la Puerta del Sol tambi\u00e9n estaba cerrado al paso de viandantes. Una quincena \u201clarga\u201d de furgonas de polic\u00eda ha cortado las entradas a la plaza, seg\u00fan contaba el <a href=\"http://www.facebook.com/acampadasol?sk=wall&amp;filter=2\">Facebook de Acampadasol</a>.</p>\n<p><strong>Marchas en Madrid y otras ciudades</strong></p>\n<p>Tan solo media hora despu\u00e9s, las personas reunidas en Jacinto Benavente han decidido unirse a otra protesta que estaba convocada para esta tarde. La <a href=\"http://marchapopularindignada.wordpress.com/2011/07/31/accion-en-puerta-del-hierro-madmanifestacion-3agosto/\">Marcha Popular Indignada, junto a los habitantes del poblado de Puerta del Hierro</a>, ten\u00eda prevista una marcha que part\u00eda desde Atocha.</p>\n<div><a href=\"http://madrid.tomalaplaza.net/files/2011/08/rumbocibeles.jpg\"><img loading=\"lazy\" src=\"http://madrid.tomalaplaza.net/files/2011/08/rumbocibeles-300x179.jpg\" alt=\"Rumbo a Cibeles\" width=\"300\" height=\"179\" /></a>Rumbo a Cibeles. @acampadasol</div>\n<p>As\u00ed ha sido. Miles de personas han partido desde la zona de la estaci\u00f3n. Unos cientos han ido a la <strong>Empresa Municipal de la Vivienda para apoyar a los residentes del poblado de Puerta de Hierro</strong>. La marcha principal se ha concentrado frente al Congreso. Al cabo de un rato, y poniendo rumbo a Cibeles, los marchantes han coreado \u201cV\u00e1monos a Sol\u201d, \u201cToma la plaza de nuevo\u201d. Unas 3.000 personas han cortado al tr\u00e1fico la calle de Alcal\u00e1.</p>\n<p>Mientras, <strong>decenas de ciudades de toda Espa\u00f1a han salido a la calle</strong> y algunas acampadas se han reactivado. Entre otras, en Barcelona han convocado una concentraci\u00f3n en Pla\u00e7a Catalunya a favor de los <a href=\"https://twitter.com/#!/search?q=%23esperan\u00e7a24h\">hospitales p\u00fablicos</a> y de los acontecimientos de Madrid. En Valencia tambi\u00e9n se han <a href=\"http://www.acampadavalencia.net/2011/08/03/hoy-a-las-2000-concentracion-en-apoyo-a-sol/\">solidarizado con el desalojo de ayer en Sol</a>\u00a0y se han manifestado en la Pla\u00e7a del 15 de maig. En<a href=\"http://acampadasalamanca.blogspot.com/2011/08/acampada-express-24horas.html\"> Salamanca han organizado una acampada express 24 horas</a>, por los hechos de Madrid y en la Plaza Syntagma de Atenas.</p>\n<p>Ya en los alrededores de Sol, hemos visto c\u00f3mo la calle Preciados estaba abarrotada. Las personas concentradas han hecho intentos de entrar, pero la polic\u00eda los ha conseguido rechazar.</p>\n<p>Ha comenzado despu\u00e9s la dispersi\u00f3n por las calles del Carmen, Arenal, Mayor, Carretas y Carrera San Jer\u00f3nimo, mientras se o\u00eda el c\u00e1ntico de \u201cEran maderos, ahora son porteros\u201d, en referencia a los polic\u00edas, que han continuado inamovibles en Puerta del Sol.</p>\n<div><a href=\"http://madrid.tomalaplaza.net/files/2011/08/GranVia.jpg\"><img loading=\"lazy\" src=\"http://madrid.tomalaplaza.net/files/2011/08/GranVia-300x224.jpg\" alt=\"Asamblea de Gran V\u00eda\" width=\"300\" height=\"224\" /></a>Asamblea de Gran V\u00eda. Foto: @fanetin</div>\n<p>Entrada la noche, ha vuelto a cortarse el tr\u00e1fico en Gran V\u00eda, donde se ha montado una asamblea interrumpida a ratos por el ruido del helic\u00f3ptero sobrevolando la c\u00e9ntrica calle. <strong>Se echa de menos el debate sosegado y pac\u00edfico</strong>, en la asamblea han lamentado que \u201cmientras estamos en las calles suspendemos asambleas y paramos el trabajo de fondo del Movimiento 15M\u201d.</p>\n<p><strong>Cargas policiales y retenciones</strong></p>\n<p>Personas que se hallaban en calle Preciados nos han informado de que se estaban produciendo <a href=\"http://youtu.be/zc_OzT6WGm8?t=12m13s\">cargas policiales \u00a0con empujones, pisotones</a>, etc. Por otra parte, en calle del Carmen ha habido varios retenidos, seg\u00fan ilustra <a href=\"http://yfrog.com/h0exbolj\">20mdirecto</a>, sin embargo, la polic\u00eda les ha liberado al cabo de unos minutos.</p>\n<p>En este v\u00eddeo, vemos c\u00f3mo <strong>la cadena venezolana Telesur ha intentado contar entre grandes dificultades los movimientos de la marcha</strong> en las calles aleda\u00f1as de Sol.</p>\n<p><strong>Asamblea de Gran V\u00eda: de Oriente a Sol el jueves a las 12 h</strong></p>\n<p>En la asamblea que se convoc\u00f3 de forma espont\u00e1nea por las personas que estaban en Gran V\u00eda se consensu\u00f3\u00a0marchar de Plaza de Oriente a Sol el jueves a las 12 horas.\u00a0Aunque la idea es estar en la calle todo el d\u00eda y cualquier persona puede acercarse a cualquier hora.</p>\n<p>En la asamblea que se hizo para decidir colectivamente en lugar de seguir corriendo alrededor de la polic\u00eda, se ley\u00f3 el <a href=\"http://www.sup.es/cont.php?carp=10&amp;ident=021\">comunicado que lanz\u00f3 ayer eel Sindicato Unificado de Polic\u00eda</a>. En \u00e9l critican las instrucciones que recibieron los agentes de Delegaci\u00f3n del Gobierno: no detener a nadie, no emplear material antidisturbios e impedir por todos los medios que los \u2018acampados\u2019 vuelvan a Sol.</p>\n<p>Los polic\u00edas del sindicato se preguntan:. Qu\u00e9 est\u00e1 diciendo la Delegada del Gobierno a la Polic\u00eda, \u00bfQu\u00e9 no\u00a0cumpla la ley y si alguien comete un delito no lo detenga?; \u00bfQu\u00e9 los polic\u00edas\u00a0pueden ser agredidos y tienen que soportarlo estoicamente sin poder usar\u00a0medios a su alcance? <strong>Estas instrucciones adem\u00e1s de ser pat\u00e9ticas son ilegales</strong> y\u00a0la Delegada debe ser la primera en cumplir la Ley,<strong> a no ser que estemos peor\u00a0que en tiempos de Franco</strong>.\u00a0Alguna gente en la asamblea de Gran V\u00eda respondi\u00f3: si est\u00e1n indignados, que se se unan al #15M.</p>\n<p><strong>Las razones de la movilizaci\u00f3n</strong></p>\n<p>Recordemos que en la madrugada de ayer, los <a href=\"http://madrid.tomalaplaza.net/2011/08/02/la-policia-desaloja-infosol-y-la-acampada-del-paseo-del-prado/\">agentes policiales desalojaron a unas 30 personas de InfoSol, el punto de informaci\u00f3n de la Puerta del Sol y las alrededor de 30 personas acampadas en el Paseo del Prado</a> a las 6:30 horas sin previo aviso y de forma acelerada.</p>\n<p><strong>Lejos de disipar el esp\u00edritu que nos ha unido en Sol</strong>, este despliegue desmesurado de fuerza policial ha reavivado las conciencias. Las plazas son para el debate de las personas y la creaci\u00f3n de una conciencia global. Como han explicado nuestros compa\u00f1eros de An\u00e1lisis en un <a href=\"http://madrid.tomalaplaza.net/2011/08/03/analisis-de-prensa-a-raiz-del-desalojo-del-puntosol-y-acampada-prado-el-2-de-agosto-de-2011/\">documento que estudia la posici\u00f3n de diversos medios de comunicaci\u00f3n</a>\u00a0sobre estos acontecimientos, InfoSol es \u201cun punto de encuentro para personas, con informaci\u00f3n sobre las diversas acciones\u201d.</p>\n<p>\u201cNo s\u00f3lo se han destruido y atacado objetos que han pasado a ser residuo, sino que estos no lo eran hasta que las autoridades lo han destruido, nos encontramos con una agresi\u00f3n a multitud de expresiones pol\u00edticas y art\u00edsticas\u201d, afirma el an\u00e1lisis.</p>\n<p>Para acabar, un poco de humor, recordando la primera quincena de Acampada Sol, cuando se hac\u00edan mapas de las comisiones en la plaza:</p>\n<div><a href=\"http://madrid.tomalaplaza.net/files/2011/08/mapapolicial.jpg\"><img loading=\"lazy\" src=\"http://madrid.tomalaplaza.net/files/2011/08/mapapolicial.jpg\" alt=\"Mapa Acampada Polic\u00eda\" width=\"600\" height=\"424\" /></a></div>\n",
     "protected": false
   },
   "excerpt": {
@@ -1638,14 +1560,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/334/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 360,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/334/revisions/360"
       }
     ],
     "wp:attachment": [
@@ -1690,7 +1606,7 @@
     "rendered": "Acta VI Asamblea Popular de Paracuellos"
   },
   "content": {
-    "rendered": "<p>Tomadorxs de actas\u00a0Moderadxr\u00a0Turno de palabra</p>\n<p>Noelia\u00a0\u00a0\u00a0Javier<br />\nFacilitador\u00a0\u00a0Portavoz APM</p>\n<p align=\"center\">PROXIMA ASAMBLEA</p>\n<table width=\"642\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td valign=\"top\">Fecha:</td>\n<td valign=\"top\">11/09/11</td>\n</tr>\n<tr>\n<td valign=\"top\">Hora:</td>\n<td valign=\"top\">19:30:00</td>\n</tr>\n<tr>\n<td valign=\"top\">Lugar:</td>\n<td valign=\"top\">Paseo del Radar, en el parque de las canchas de baloncesto. En frente de la escuela infantil municipal.</td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: center\"><strong>Orden del d\u00eda:</strong></p>\n<p><strong>1.\u00a0\u00a0\u00a0 </strong>Explicaci\u00f3n clara de signos y de funcionamiento asambleario. Turno de palabra, respeto, etc\u2026</p>\n<p><strong>2.\u00a0\u00a0\u00a0 </strong>Elecci\u00f3n de figura de moderadxr, facilitadxr, toma de actas, toma de turno de palabra, participante/s para ir a Sol a la pr\u00f3xima APM el d\u00eda 10 de Julio del 2011 y persona/buz\u00f3n que se acerque media hora antes de la pr\u00f3xima APPJ para recoger propuestas.</p>\n<p><strong>3.\u00a0\u00a0\u00a0 </strong>Informaci\u00f3n desde otros barrios.</p>\n<ol>\n<ol>\n<ol>\n<li>Informaci\u00f3n sobre la asamblea contra el Canal de Isabel II.</li>\n<li>Informaci\u00f3n sobre la propuesta de BiblioSol. Intercambio de libros escolares.</li>\n<li>Informaci\u00f3n sobre web Toma El Poder. En esta web aparecen los consensos m\u00ednimos alcanzados en todas las plazas espa\u00f1olas. <a href=\"http://www.tomaelpoder.com/\">www.tomaelpoder.com</a>.</li>\n<li>Funcionamiento de la comisi\u00f3n de propuestas de Sol.</li>\n<li>Informaci\u00f3n sobre la marcha popular indignada.</li>\n<li>Informaci\u00f3n de la propuesta de Troppo Vero. Proponen pintar un parche en el ojo en los anuncios de bancos.</li>\n<li>Debate sobre la propuesta de realizar marchas sobre las sedes del Santander, Telef\u00f3nica y Repsol, por ser los responsables de la crisis.</li>\n<li>Debate sobre los premios 15M. Premios a una democracia real.</li>\n</ol>\n<ol>\n<li>Informaci\u00f3n sobre la existencia de la p\u00e1gina <a href=\"http://www.referendum15deoctubre.org/\">www.referendum15deoctubre.org</a>. Propuestas sobre c\u00f3mo conseguir refer\u00e9ndums a nivel de Estado.</li>\n</ol>\n</ol>\n</ol>\n<p><strong>4.\u00a0\u00a0\u00a0 </strong>Informaci\u00f3n del pleno del ayuntamiento de Paracuellos de Jarama.</p>\n<p><strong>5.\u00a0\u00a0\u00a0 </strong>Propuestas de las comisiones:</p>\n<ol>\n<ol>\n<li>Comisi\u00f3n de acci\u00f3n (Propuestas y hora y fecha de la pr\u00f3xima asamblea).</li>\n</ol>\n</ol>\n<p>I.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Resumen del programa electoral de los dos partidos pol\u00edticos que se encuentran actualmente dirigiendo el Ayuntamiento de Paracuellos de Jarama (a saber, ICxP y PP); La finalidad es tener claro y difundir lo m\u00e1ximo posible bajo que compromisos llegaron al poder, evitando as\u00ed que se les olvide.</p>\n<p>II.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Petici\u00f3n de local para la asamblea de Paracuellos de Jarama. Ya ha sido redactado y enviado. A la espera de su correcci\u00f3n o aprobaci\u00f3n.</p>\n<p>III.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Petici\u00f3n de reglamento para los presupuestos participativos.</p>\n<p>IV.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Texto de petici\u00f3n de refer\u00e9ndum ante grandes gastos que vaya a realizar el Ayuntamiento de Paracuellos de Jarama.</p>\n<p>V.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Informaci\u00f3n\u00a0 de respuesta al concejal de participaci\u00f3n ciudadana respecto a su publicaci\u00f3n en la p\u00e1gina del ayuntamiento.</p>\n<p>VI.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Informaci\u00f3n acerca del futuro Puerto Seco que el Ayuntamiento est\u00e1 planteando situar entre la Urbanizaci\u00f3n de los Berrocales y el pueblo de Paracuellos de Jarama.</p>\n<p>VII.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Texto sobre una propuesta de nuevo reglamento para evitar los desahucios.</p>\n<p>VIII.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Informaci\u00f3n sobre Nuevo Amanecer.</p>\n<p>&nbsp;</p>\n<p>B. Comisi\u00f3n de Bienestar Social.</p>\n<p align=\"center\"><strong>RESUMEN DE ACTA APP DEL 17/07/2011</strong></p>\n<p>1.\u00a0Se llega a consenso para que la pr\u00f3xima asamblea se realice en el mismo lugar (P\u00ba de Radar) el d\u00eda 11 de Septiembre del presente a\u00f1o. As\u00ed mismo se decide que el equipo de moderaci\u00f3n se decidir\u00e1 v\u00eda internet antes del 7 de Septiembre debido a que dadas las fechas y lo lejos temporalmente que se encuentra dicha asamblea no todo el mundo sabe si podr\u00e1 acudir a la misma.</p>\n<p>2.\u00a0Se informa a los asambleistas de la existencia de una plataforma dedicada a luchar en contra de la privatizaci\u00f3n del canal de Isabel II. As\u00ed mismo se ofrece para informarse sobre dicho asunto mediante una direcci\u00f3n web:\u00a0<a href=\"http://www.plataformacontralaprivatizaciondelcyii.org/\" target=\"_blank\">www.plataformacontralaprivatizaciondelcyii.org</a>.</p>\n<p>3.\u00a0Se informa sobre que existe una propuesta para incluir un punto de intercambio de libros escolares en sol y as\u00ed poder aprovechar dichos libros. Hablamos sobre la posibilidad de crear un punto de intercambio de libros en Paracuellos pero finalmente no llegamos a un acuerdo fijo.</p>\n<p>4.\u00a0Se da a conocer una web de informaci\u00f3n llamada toma el poder con direcci\u00f3n web en\u00a0<a href=\"http://www.tomaelpoder.com/\" target=\"_blank\">www.tomaelpoder.com</a>, en esta web se puede encontrar diferente informaci\u00f3n sobre actos de propuesta que se van a dar a nivel nacional.</p>\n<p>5.\u00a0Informaci\u00f3n sobre la marcha de indignados que vienen a Madrid desde distintos puntos de todo el pa\u00eds. Habla To\u00f1o y nos informa principalmente de la columna que viene desde Barcelona y que va a entrar a Madrid y va a acampar en Torrej\u00f3n. Se ha buscado la informaci\u00f3n de esta columna debido a que es la que por localizaci\u00f3n tenemos mas cercana con respecto a Paracuellos:</p>\n<p>En Torrej\u00f3n se espera un total de personas que ronde las 1200 entre los que vengan en la columna y los que se incorporen en esta localidad. Existe un correo electr\u00f3nico para apuntarse que es el siguiente:\u00a0<a href=\"mailto:juanpablo.ps@gmail.com\" target=\"_blank\">juanpablo.ps@gmail.com</a>. La acampada va a tener lugar en la zona de conciertos del recinto ferial donde va a llegar la columna el viernes d\u00eda 22, el d\u00eda 23 pasar\u00e1n por San Fernando, Coslada, y San Blas. Seguidamente se sincronizar\u00e1 con el resto de columnas con el objetivo de llegar a sol al mismo tiempo. Para m\u00e1s informaci\u00f3n sobre necesidades materiales y dem\u00e1s existe un e-mail en el que se puede contactar con infraestructuras que es el:\u00a0<a href=\"mailto:mpi.infraestructuras@gmail.com\" target=\"_blank\">mpi.infraestructuras@gmail.com</a>, y a parte se va a realizar el Martes d\u00eda 19 una asamblea de comisiones a las 20:00 en la plaza de Espa\u00f1a de Torrej\u00f3n.</p>\n<p>En cuanto al resto de las columnas tenemos menos informaci\u00f3n, \u00fanicamente que en el caso de la columna que recoge a la gente del sur tienen una reuni\u00f3n en Plaza El\u00edptica a las 20:00 de la tarde el mismo martes 19 y la acampada conjunta ser\u00e1\u00a0 en el P\u00ba del Prado.</p>\n<p>6.\u00a0Se informa sobre una puesta en marcha de una nueva propuesta, se trata de hacer una marcha de protesta contra las grandes empresas comenzando la misma en sedes de Repsol, Santander y Telef\u00f3nica. Se somete a consenso y llegamos a consenso de apoyar dicha propuesta.</p>\n<p>7.\u00a0Nueva web de informaci\u00f3n :\u00a0<a href=\"http://referendum15octubre.org/\" target=\"_blank\">referendum15octubre.org</a>.</p>\n<p>8.\u00a0Se informa sobre una nueva propuesta que consistir\u00eda en lo siguiente. En el mismo d\u00eda de las elecciones someter a referendum la posibilidad de ejercer un cambio sobre la constituci\u00f3n en vigor orientado a la adaptaci\u00f3n de dicho texto a la situaci\u00f3n actual y hacia una mayor participaci\u00f3n ciudadana. Se aprueba por consenso el apoyo a dicha propuesta.<br />\n9.\u00a0Candido nos informa sobre los \u00faltimos plenos del ayuntamiento. Hace un breve resumen pues el texto es demasiado amplio y propone que alguien lo escane\u00e9 con el fin de publicarlo o bien en la web, en el N-1 o en el google-groups. As\u00edmismo nos informa a todos un poco del funcionamiento en general del ayuntamiento. Tras un debate por parte de los participantes en esta asamblea se propone preguntar en alg\u00fan pleno pr\u00f3ximo a partir de septiembre sobre la situaci\u00f3n del transporte p\u00fablico en la poblaci\u00f3n. Finalmente decidimos incluir esta propuesta en el orden del d\u00eda de la pr\u00f3xima asamblea.</p>\n<p>10.\u00a0Candido y otros asambleistas nos informan sobre la situaci\u00f3n de la mina de sepiolita que se encuentra al lado del r\u00edo jarama. La informaci\u00f3n es amplia pero algo confusa. Proponemos seguir investigando y vigilando sobre este tema.</p>\n<p>11.\u00a0Se lee el escrito propuesto para la petici\u00f3n de un local municipal para la celebraci\u00f3n de pr\u00f3ximas asambleas. Se llega a consenso para la aprobaci\u00f3n de que dicho escrito sea enviado al ayuntamiento junto con nuestras firmas.</p>\n<p>12.\u00a0Se lee texto para petici\u00f3n de presupuestos participativos ante el ayuntamiento. Se aprueba por consenso y se acuerda mandarlo junto con nuestras firmas al ayuntamiento. Antes de mandarlo se han de recoger el mayor n\u00famero de firmas posibles.</p>\n<p>13.\u00a0Petici\u00f3n de referendums populares en cuanto a decisiones de gastos importantes por parte del ayuntamiento: tras un debate no llegamos a acuerdo en cuanto a cifras o actos en concreto sobre los que se deber\u00eda de hacer referendum. Finalmente decidimos debatirlo en pr\u00f3ximas asambleas.</p>\n<p>14.\u00a0Leemos el texto que escribe Antonio para su publicaci\u00f3n en la revista mranews. Se aplaude y se aprueba por consenso. El texto debe ser reducido para su publicaci\u00f3n pues su extensi\u00f3n supera el espacio que nos ofrece dicha revista. Se intentar\u00e1 reducir por medio de eliminar im\u00e1genes y parte o la totalidad del agradecimiento previo a la revista.</p>\n<p>15.\u00a0Se pretende informar sobre el puerto seco que se quiere abrir en Paracuellos, pero nadie parece tener informaci\u00f3n concisa y ver\u00eddica sobre este tema. Proponemos buscar informaci\u00f3n sobre dicho tema.</p>\n<p>16.\u00a0Se lee la propuesta de un nuevo reglamento, que ha sido ya aprovado en diferentes ayuntamientos para evitar, bajo la situaci\u00f3n actual del pa\u00eds, que la gente desahuciada quede sin hogar debido a la crisis que estamos viviendo. Se aprueba el texto por consenso y se llega a la conclusi\u00f3n de que, habr\u00eda que hacer llegar este texto a un pleno del ayuntamiento por todas las v\u00edas posibles. Tras un debate se lega a la conclusi\u00f3n de que de momento lo haremos llegar al ayuntamiento, a los diferentes grupos de la oposici\u00f3n que podr\u00edan proponerlo para que apareciera en un pleno y a la comisi\u00f3n de participaci\u00f3n ciudadana. Si por estas v\u00edas no lo conseguimos seguiremos con todas las posibles como la recogida de firmas, etc.</p>\n<p>17.\u00a0Leemos texto proveniente de la asamblea de Barajas referente a la situaci\u00f3n que se ha estado viviendo y que se da en este momento en &#171;nuevo amanecer&#187; con el objetivo de informar a la gente y ver si alguien busca mayor informaci\u00f3n o propone actos de protesta ante esta situaci\u00f3n.</p>\n<p>&nbsp;</p>\n",
+    "rendered": "<p>Tomadorxs de actas\u00a0Moderadxr\u00a0Turno de palabra</p>\n<p>Noelia\u00a0\u00a0\u00a0Javier<br />\nFacilitador\u00a0\u00a0Portavoz APM</p>\n<p align=\"center\">PROXIMA ASAMBLEA</p>\n<table width=\"642\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td valign=\"top\">Fecha:</td>\n<td valign=\"top\">11/09/11</td>\n</tr>\n<tr>\n<td valign=\"top\">Hora:</td>\n<td valign=\"top\">19:30:00</td>\n</tr>\n<tr>\n<td valign=\"top\">Lugar:</td>\n<td valign=\"top\">Paseo del Radar, en el parque de las canchas de baloncesto. En frente de la escuela infantil municipal.</td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: center\"><strong>Orden del d\u00eda:</strong></p>\n<p><strong>1.\u00a0\u00a0\u00a0 </strong>Explicaci\u00f3n clara de signos y de funcionamiento asambleario. Turno de palabra, respeto, etc\u2026</p>\n<p><strong>2.\u00a0\u00a0\u00a0 </strong>Elecci\u00f3n de figura de moderadxr, facilitadxr, toma de actas, toma de turno de palabra, participante/s para ir a Sol a la pr\u00f3xima APM el d\u00eda 10 de Julio del 2011 y persona/buz\u00f3n que se acerque media hora antes de la pr\u00f3xima APPJ para recoger propuestas.</p>\n<p><strong>3.\u00a0\u00a0\u00a0 </strong>Informaci\u00f3n desde otros barrios.</p>\n<ol>\n<ol>\n<ol>\n<li>Informaci\u00f3n sobre la asamblea contra el Canal de Isabel II.</li>\n<li>Informaci\u00f3n sobre la propuesta de BiblioSol. Intercambio de libros escolares.</li>\n<li>Informaci\u00f3n sobre web Toma El Poder. En esta web aparecen los consensos m\u00ednimos alcanzados en todas las plazas espa\u00f1olas. <a href=\"http://www.tomaelpoder.com/\">www.tomaelpoder.com</a>.</li>\n<li>Funcionamiento de la comisi\u00f3n de propuestas de Sol.</li>\n<li>Informaci\u00f3n sobre la marcha popular indignada.</li>\n<li>Informaci\u00f3n de la propuesta de Troppo Vero. Proponen pintar un parche en el ojo en los anuncios de bancos.</li>\n<li>Debate sobre la propuesta de realizar marchas sobre las sedes del Santander, Telef\u00f3nica y Repsol, por ser los responsables de la crisis.</li>\n<li>Debate sobre los premios 15M. Premios a una democracia real.</li>\n</ol>\n<ol>\n<li>Informaci\u00f3n sobre la existencia de la p\u00e1gina <a href=\"http://www.referendum15deoctubre.org/\">www.referendum15deoctubre.org</a>. Propuestas sobre c\u00f3mo conseguir refer\u00e9ndums a nivel de Estado.</li>\n</ol>\n</ol>\n</ol>\n<p><strong>4.\u00a0\u00a0\u00a0 </strong>Informaci\u00f3n del pleno del ayuntamiento de Paracuellos de Jarama.</p>\n<p><strong>5.\u00a0\u00a0\u00a0 </strong>Propuestas de las comisiones:</p>\n<ol>\n<ol>\n<li>Comisi\u00f3n de acci\u00f3n (Propuestas y hora y fecha de la pr\u00f3xima asamblea).</li>\n</ol>\n</ol>\n<p>I.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Resumen del programa electoral de los dos partidos pol\u00edticos que se encuentran actualmente dirigiendo el Ayuntamiento de Paracuellos de Jarama (a saber, ICxP y PP); La finalidad es tener claro y difundir lo m\u00e1ximo posible bajo que compromisos llegaron al poder, evitando as\u00ed que se les olvide.</p>\n<p>II.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Petici\u00f3n de local para la asamblea de Paracuellos de Jarama. Ya ha sido redactado y enviado. A la espera de su correcci\u00f3n o aprobaci\u00f3n.</p>\n<p>III.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Petici\u00f3n de reglamento para los presupuestos participativos.</p>\n<p>IV.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Texto de petici\u00f3n de refer\u00e9ndum ante grandes gastos que vaya a realizar el Ayuntamiento de Paracuellos de Jarama.</p>\n<p>V.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Informaci\u00f3n\u00a0 de respuesta al concejal de participaci\u00f3n ciudadana respecto a su publicaci\u00f3n en la p\u00e1gina del ayuntamiento.</p>\n<p>VI.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Informaci\u00f3n acerca del futuro Puerto Seco que el Ayuntamiento est\u00e1 planteando situar entre la Urbanizaci\u00f3n de los Berrocales y el pueblo de Paracuellos de Jarama.</p>\n<p>VII.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Texto sobre una propuesta de nuevo reglamento para evitar los desahucios.</p>\n<p>VIII.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Informaci\u00f3n sobre Nuevo Amanecer.</p>\n<p>&nbsp;</p>\n<p>B. Comisi\u00f3n de Bienestar Social.</p>\n<p align=\"center\"><strong>RESUMEN DE ACTA APP DEL 17/07/2011</strong></p>\n<p>1.\u00a0Se llega a consenso para que la pr\u00f3xima asamblea se realice en el mismo lugar (P\u00ba de Radar) el d\u00eda 11 de Septiembre del presente a\u00f1o. As\u00ed mismo se decide que el equipo de moderaci\u00f3n se decidir\u00e1 v\u00eda internet antes del 7 de Septiembre debido a que dadas las fechas y lo lejos temporalmente que se encuentra dicha asamblea no todo el mundo sabe si podr\u00e1 acudir a la misma.</p>\n<p>2.\u00a0Se informa a los asambleistas de la existencia de una plataforma dedicada a luchar en contra de la privatizaci\u00f3n del canal de Isabel II. As\u00ed mismo se ofrece para informarse sobre dicho asunto mediante una direcci\u00f3n web:\u00a0<a href=\"http://www.plataformacontralaprivatizaciondelcyii.org/\" target=\"_blank\">www.plataformacontralaprivatizaciondelcyii.org</a>.</p>\n<p>3.\u00a0Se informa sobre que existe una propuesta para incluir un punto de intercambio de libros escolares en sol y as\u00ed poder aprovechar dichos libros. Hablamos sobre la posibilidad de crear un punto de intercambio de libros en Paracuellos pero finalmente no llegamos a un acuerdo fijo.</p>\n<p>4.\u00a0Se da a conocer una web de informaci\u00f3n llamada toma el poder con direcci\u00f3n web en\u00a0<a href=\"http://www.tomaelpoder.com/\" target=\"_blank\">www.tomaelpoder.com</a>, en esta web se puede encontrar diferente informaci\u00f3n sobre actos de propuesta que se van a dar a nivel nacional.</p>\n<p>5.\u00a0Informaci\u00f3n sobre la marcha de indignados que vienen a Madrid desde distintos puntos de todo el pa\u00eds. Habla To\u00f1o y nos informa principalmente de la columna que viene desde Barcelona y que va a entrar a Madrid y va a acampar en Torrej\u00f3n. Se ha buscado la informaci\u00f3n de esta columna debido a que es la que por localizaci\u00f3n tenemos mas cercana con respecto a Paracuellos:</p>\n<p>En Torrej\u00f3n se espera un total de personas que ronde las 1200 entre los que vengan en la columna y los que se incorporen en esta localidad. Existe un correo electr\u00f3nico para apuntarse que es el siguiente:\u00a0<a href=\"mailto:juanpablo.ps@gmail.com\" target=\"_blank\">juanpablo.ps@gmail.com</a>. La acampada va a tener lugar en la zona de conciertos del recinto ferial donde va a llegar la columna el viernes d\u00eda 22, el d\u00eda 23 pasar\u00e1n por San Fernando, Coslada, y San Blas. Seguidamente se sincronizar\u00e1 con el resto de columnas con el objetivo de llegar a sol al mismo tiempo. Para m\u00e1s informaci\u00f3n sobre necesidades materiales y dem\u00e1s existe un e-mail en el que se puede contactar con infraestructuras que es el:\u00a0<a href=\"mailto:mpi.infraestructuras@gmail.com\" target=\"_blank\">mpi.infraestructuras@gmail.com</a>, y a parte se va a realizar el Martes d\u00eda 19 una asamblea de comisiones a las 20:00 en la plaza de Espa\u00f1a de Torrej\u00f3n.</p>\n<p>En cuanto al resto de las columnas tenemos menos informaci\u00f3n, \u00fanicamente que en el caso de la columna que recoge a la gente del sur tienen una reuni\u00f3n en Plaza El\u00edptica a las 20:00 de la tarde el mismo martes 19 y la acampada conjunta ser\u00e1\u00a0 en el P\u00ba del Prado.</p>\n<p>6.\u00a0Se informa sobre una puesta en marcha de una nueva propuesta, se trata de hacer una marcha de protesta contra las grandes empresas comenzando la misma en sedes de Repsol, Santander y Telef\u00f3nica. Se somete a consenso y llegamos a consenso de apoyar dicha propuesta.</p>\n<p>7.\u00a0Nueva web de informaci\u00f3n :\u00a0<a href=\"http://referendum15octubre.org/\" target=\"_blank\">referendum15octubre.org</a>.</p>\n<p>8.\u00a0Se informa sobre una nueva propuesta que consistir\u00eda en lo siguiente. En el mismo d\u00eda de las elecciones someter a referendum la posibilidad de ejercer un cambio sobre la constituci\u00f3n en vigor orientado a la adaptaci\u00f3n de dicho texto a la situaci\u00f3n actual y hacia una mayor participaci\u00f3n ciudadana. Se aprueba por consenso el apoyo a dicha propuesta.<br />\n9.\u00a0Candido nos informa sobre los \u00faltimos plenos del ayuntamiento. Hace un breve resumen pues el texto es demasiado amplio y propone que alguien lo escane\u00e9 con el fin de publicarlo o bien en la web, en el N-1 o en el google-groups. As\u00edmismo nos informa a todos un poco del funcionamiento en general del ayuntamiento. Tras un debate por parte de los participantes en esta asamblea se propone preguntar en alg\u00fan pleno pr\u00f3ximo a partir de septiembre sobre la situaci\u00f3n del transporte p\u00fablico en la poblaci\u00f3n. Finalmente decidimos incluir esta propuesta en el orden del d\u00eda de la pr\u00f3xima asamblea.</p>\n<p>10.\u00a0Candido y otros asambleistas nos informan sobre la situaci\u00f3n de la mina de sepiolita que se encuentra al lado del r\u00edo jarama. La informaci\u00f3n es amplia pero algo confusa. Proponemos seguir investigando y vigilando sobre este tema.</p>\n<p>11.\u00a0Se lee el escrito propuesto para la petici\u00f3n de un local municipal para la celebraci\u00f3n de pr\u00f3ximas asambleas. Se llega a consenso para la aprobaci\u00f3n de que dicho escrito sea enviado al ayuntamiento junto con nuestras firmas.</p>\n<p>12.\u00a0Se lee texto para petici\u00f3n de presupuestos participativos ante el ayuntamiento. Se aprueba por consenso y se acuerda mandarlo junto con nuestras firmas al ayuntamiento. Antes de mandarlo se han de recoger el mayor n\u00famero de firmas posibles.</p>\n<p>13.\u00a0Petici\u00f3n de referendums populares en cuanto a decisiones de gastos importantes por parte del ayuntamiento: tras un debate no llegamos a acuerdo en cuanto a cifras o actos en concreto sobre los que se deber\u00eda de hacer referendum. Finalmente decidimos debatirlo en pr\u00f3ximas asambleas.</p>\n<p>14.\u00a0Leemos el texto que escribe Antonio para su publicaci\u00f3n en la revista mranews. Se aplaude y se aprueba por consenso. El texto debe ser reducido para su publicaci\u00f3n pues su extensi\u00f3n supera el espacio que nos ofrece dicha revista. Se intentar\u00e1 reducir por medio de eliminar im\u00e1genes y parte o la totalidad del agradecimiento previo a la revista.</p>\n<p>15.\u00a0Se pretende informar sobre el puerto seco que se quiere abrir en Paracuellos, pero nadie parece tener informaci\u00f3n concisa y ver\u00eddica sobre este tema. Proponemos buscar informaci\u00f3n sobre dicho tema.</p>\n<p>16.\u00a0Se lee la propuesta de un nuevo reglamento, que ha sido ya aprovado en diferentes ayuntamientos para evitar, bajo la situaci\u00f3n actual del pa\u00eds, que la gente desahuciada quede sin hogar debido a la crisis que estamos viviendo. Se aprueba el texto por consenso y se llega a la conclusi\u00f3n de que, habr\u00eda que hacer llegar este texto a un pleno del ayuntamiento por todas las v\u00edas posibles. Tras un debate se lega a la conclusi\u00f3n de que de momento lo haremos llegar al ayuntamiento, a los diferentes grupos de la oposici\u00f3n que podr\u00edan proponerlo para que apareciera en un pleno y a la comisi\u00f3n de participaci\u00f3n ciudadana. Si por estas v\u00edas no lo conseguimos seguiremos con todas las posibles como la recogida de firmas, etc.</p>\n<p>17.\u00a0Leemos texto proveniente de la asamblea de Barajas referente a la situaci\u00f3n que se ha estado viviendo y que se da en este momento en \u00abnuevo amanecer\u00bb con el objetivo de informar a la gente y ver si alguien busca mayor informaci\u00f3n o propone actos de protesta ante esta situaci\u00f3n.</p>\n<p>&nbsp;</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -1740,14 +1656,8 @@
     ],
     "version-history": [
       {
-        "count": 7,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/325/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 366,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/325/revisions/366"
       }
     ],
     "wp:attachment": [
@@ -1842,14 +1752,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/319/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 321,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/319/revisions/321"
       }
     ],
     "wp:attachment": [
@@ -2058,14 +1962,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/305/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 309,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/305/revisions/309"
       }
     ],
     "wp:attachment": [
@@ -2161,14 +2059,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/300/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 304,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/300/revisions/304"
       }
     ],
     "wp:attachment": [
@@ -2264,14 +2156,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/296/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 299,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/296/revisions/299"
       }
     ],
     "wp:attachment": [
@@ -2368,14 +2254,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/290/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 294,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/290/revisions/294"
       }
     ],
     "wp:attachment": [
@@ -2470,14 +2350,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/281/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 286,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/281/revisions/286"
       }
     ],
     "wp:attachment": [
@@ -2572,14 +2446,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/278/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 280,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/278/revisions/280"
       }
     ],
     "wp:attachment": [
@@ -2675,14 +2543,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/276/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 277,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/276/revisions/277"
       }
     ],
     "wp:attachment": [
@@ -2732,7 +2594,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://paracuellos.tomalosbarrios.net/files/2011/07/MW_EUR_January_2011.png'><img width=\"300\" height=\"181\" src=\"https://paracuellos.tomalosbarrios.net/files/2011/07/MW_EUR_January_2011-300x181.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://paracuellos.tomalosbarrios.net/files/2011/07/MW_EUR_January_2011-300x181.png 300w, https://paracuellos.tomalosbarrios.net/files/2011/07/MW_EUR_January_2011.png 759w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://paracuellos.tomalosbarrios.net/files/2011/07/MW_EUR_January_2011.png'><img width=\"300\" height=\"181\" src=\"https://paracuellos.tomalosbarrios.net/files/2011/07/MW_EUR_January_2011-300x181.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://paracuellos.tomalosbarrios.net/files/2011/07/MW_EUR_January_2011-300x181.png 300w, https://paracuellos.tomalosbarrios.net/files/2011/07/MW_EUR_January_2011.png 759w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2833,7 +2695,7 @@
     "rendered": "SALARIO M\u00cdNIMO INTERPROFESIONAL EN EUROPA"
   },
   "content": {
-    "rendered": "<p style=\"text-align: center\"><a href=\"http://paracuellos.tomalosbarrios.net/files/2011/07/MW_EUR_January_2011.png\"></a><br />\nLuxemburgo:. . . . . 1.757,56 \u20ac<br />\nIrlanda: . . . . &#8230;&#8230;. . 1.461,85 \u20ac<br />\nB\u00e9lgica: . . . . &#8230;&#8230; . 1.415,24 \u20ac<br />\nHolanda: . . &#8230;. . . . 1.424,40 \u20ac<br />\nFrancia: . . . . &#8230;.. . 1.365 \u20ac<br />\nReino Unido: . . . . 1.138,54 \u20ac<br />\nGrecia:. . . . . . &#8230;..\u00a0\u00a0 862,82 \u20ac<br />\nEspa\u00f1a:. . . . . . &#8230;..\u00a0\u00a0 748,30 \u20ac<br />\nPortugal:. . . . . . &#8230;. 565,83 \u20ac</p>\n<p style=\"text-align: center\"><a href=\"http://paracuellos.tomalosbarrios.net/files/2011/07/MW_EUR_January_2011.png\"><img src=\"http://paracuellos.tomalosbarrios.net/files/2011/07/MW_EUR_January_2011-300x181.png\" alt=\"\" width=\"548\" height=\"295\" /></a></p>\n",
+    "rendered": "<p style=\"text-align: center\"><a href=\"http://paracuellos.tomalosbarrios.net/files/2011/07/MW_EUR_January_2011.png\"></a><br />\nLuxemburgo:. . . . . 1.757,56 \u20ac<br />\nIrlanda: . . . . &#8230;&#8230;. . 1.461,85 \u20ac<br />\nB\u00e9lgica: . . . . &#8230;&#8230; . 1.415,24 \u20ac<br />\nHolanda: . . &#8230;. . . . 1.424,40 \u20ac<br />\nFrancia: . . . . &#8230;.. . 1.365 \u20ac<br />\nReino Unido: . . . . 1.138,54 \u20ac<br />\nGrecia:. . . . . . &#8230;..\u00a0\u00a0 862,82 \u20ac<br />\nEspa\u00f1a:. . . . . . &#8230;..\u00a0\u00a0 748,30 \u20ac<br />\nPortugal:. . . . . . &#8230;. 565,83 \u20ac</p>\n<p style=\"text-align: center\"><a href=\"http://paracuellos.tomalosbarrios.net/files/2011/07/MW_EUR_January_2011.png\"><img loading=\"lazy\" src=\"http://paracuellos.tomalosbarrios.net/files/2011/07/MW_EUR_January_2011-300x181.png\" alt=\"\" width=\"548\" height=\"295\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -2883,14 +2745,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/270/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 274,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/270/revisions/274"
       }
     ],
     "wp:attachment": [
@@ -2935,7 +2791,7 @@
     "rendered": "Acta no oficial del Pleno Extraordinario del d\u00eda 13 &#8211; JUL /2011 del Ayuntamiento de Paracuellos"
   },
   "content": {
-    "rendered": "<p>Presentes al pleno:\u00a0 Todos los concejales menos el concejal del PSOE y<br />\nun concejal de UxP<br />\nPunto 1: Lectura del acta anterior.<br />\nToma la palabra el concejal de IU para pedir que se modifique el acta del anterior pleno, en virtud a que &#171;no era una pregunta&#187; sino una &#171;petici\u00f3n de modificaci\u00f3n o rectificaci\u00f3n&#187; para que la Junta de Gobierno elegida por el alcalde cumpliera la Ley Org\u00e1nica relativa a la Paridad de Genero.</p>\n<p style=\"text-align: center\">Se vota: Todos los presentes a favor.</p>\n<p>Punto 2: Acuerdo, si procede, relativo a la aprobaci\u00f3n inicial de la modificaci\u00f3n de la plantilla de personal correspondiente al<br />\npresupuesto de la Entidad para el ejercicio de 2009.</p>\n<p>Toma la Palabra el concejal de ICxP, responsable del informe, explica que\u00a0 se han reducido los puestos\u00a0 que se han quedado obsoletos desde hace tres a\u00f1os. Estos puestos eran consecuencia de la gran carga de trabajo que el desarrollo inmobiliario en Paracuellos obligaba a mantener. Con esta reducci\u00f3n de plantilla de los puestos obsoletos se estima un ahorro de 90.000\u20ac.</p>\n<p>Toma la palabra el concejal de UxP. Se liberan del presupuesto los <strong>90.000\u20ac</strong> para luego utilizarlos en el pago de las salarios de los concejales que ser\u00e1n liberados. Como se ha incrementado el numero de concejales liberados y no estaban presupuestados sus salarios \u00edntegramente, de esta manera se transvasa el dinero. Adem\u00e1s se mantienen a dos Cargos de Confianza. Tambi\u00e9n se reduce el personal de mano de obra directa en la calle, obras y mantenimiento, y se crean nuevos puestos de administrativos. Adem\u00e1s no se establece en el informe la cuant\u00eda de la modificaci\u00f3n.</p>\n<p>Toma la palabra el concejal de IU, manifiesta que la documentaci\u00f3n no es la correcta, existe un erro de forma en el expediente. Solo contiene la destrucci\u00f3n de 10 puestos de trabajo y no contempla donde van a parar luego lo que se ahorre de esa destrucci\u00f3n de empleo. Falta en el informe el como se producen las variaciones y cual va ha ser la cuant\u00eda de lo ahorrado. Tambi\u00e9n que se nombran dos asesores uno con el rango de Director de Personal y Recursos Humanos y otro de Gestor de<br />\n\u00c1reas, que son exactamente iguales en\u00a0 titularidad y funciones, que los Cargos de Confianza del anterior equipo de gobierno.\u00a0 Esto que les llevo en la campa\u00f1a electoral a criticar al equipo de gobierno anterior.</p>\n<p>Toma la Palabra la concejala de UPD, esta de acuerdo con el concejal de ICxP.</p>\n<p>Toma la palabra el concejal de ICxP: Comenta qe se amortizan las plazas que ya no se necesitan, porque provienen de la gran demanda de la construcci\u00f3n. Que estas plazas pasar\u00e1n a ser ocupadas por personal auxiliar administrativo que son necesarios ahora para la gesti\u00f3n del Ayuntamiento debido a la carga de trabajo acumulada. Tambi\u00e9n, que no son Cargos de Confianza, que son Asesores t\u00e9cnicos. que antes hab\u00eda Cargos de Confianza que no eran t\u00e9cnico en esas \u00e1reas.<br />\nQue en aquellas \u00e1reas que est\u00e1n nombrados los Asesores, compartir\u00e1n el salario con los Concejales de esa concejal\u00eda.</p>\n<p>Toma la palabra el concejal de UxP; son cargos de Confianza\u00a0de cualquier manera, ll\u00e1mese como se llamen. No est\u00e1n de acuerdo en la supresi\u00f3n de subalternos. El dinero de esta eliminaci\u00f3n de puestos de trabajo se pasar\u00e1 para pagar los sueldos de los concejales.</p>\n<p>Toma la palabra el concejal de IU;\u00a0existe un error de forma del documento del expediente. Hay una vacante de Polic\u00eda Municipal incluida en este expediente que no est\u00e1 definida si es una vacante o una comisi\u00f3n de servicio. No esta debidamente informado en que situaci\u00f3n esta.</p>\n<p>Toma la Palabra la concejala de UPD, esta de acuerdo con el concejal de ICxP.</p>\n<p>Toma la palabra ICxP: Hay mucho trabajo administrativo acumulado y un gran par\u00f3n el al construcci\u00f3n. Los asesores contratados no ser\u00e1n pol\u00edticos, ser\u00e1n t\u00e9cnicos especialistas en su trabajo. Son plazas vacantes las que se suprimen&#8230;..</p>\n<p>Se procede a la votaci\u00f3n: Votos a favor: PP + ICxP + UPD\u00a0&#8211; en contra\u00a0 IU\u00a0 + UxP\u00a0\u00a0\u00a0\u00a0\u00a0</p>\n<p style=\"text-align: center\">13 a favor\u00a0\u00a0 / 2 en contra</p>\n<p>Punto 3:\u00a0 Acuerdo, si procede, relativo a la aprobaci\u00f3n inicial de la modificaci\u00f3n de las Bases de Ejecuci\u00f3n correspondiente al presupuesto de la Entidad para el ejercicio de 2009.</p>\n<p>Toma la palabra el concejal del PP: Como se va a gestionar el Ayuntamiento, se fijan 10 concejales y dos Asesores. La Comisi\u00f3n<br />\ninformativa emite un informe favorable. Luego la comisi\u00f3n T\u00e9cnica emite su informe favorable.</p>\n<p>Toma la palabra el concejal de UxP; es un modelo de gesti\u00f3n que han elegido, c\u00f3mo cualquier otro.</p>\n<p>Toma la palabra el concejal de IU; No est\u00e1 bien hecho el expediente, primero hacen la propuesta y luego emiten el informe, tiene que\u00a0 ser al rev\u00e9s seg\u00fan los procedimientos Administrativos. Tiene que estar valorado previamente en el presupuesto, no se dice la cuant\u00eda ni como se va a hacer ni a donde va a ir el dinero. Como a\u00fan no se han aprobado los salarios de los concejales liberados y hasta que se aprueben pasar\u00e1 alg\u00fan tiempo hasta que se modifiquen los presupuestos se esta utilizando las Comisiones Informativas, los Plenos Extraordinarios y las Comisiones Extraordinarias para ir cobrando por estas asistencias un dinero que, si se utilizaran las v\u00edas normales, no ser\u00eda necesario gastarlo. Valoran que estas asistencias extraordinarias<br />\nnos van a costar <strong>15.000\u20ac.</strong></p>\n<p>Toma la Palabra la concejala de UPD, no tiene nada que a\u00f1adir.</p>\n<p>Toma la palabra el concejal del PP, negando que esta modificaci\u00f3n se este haciendo sin valoraciones y que se est\u00e9 utilizando las comisiones y los plenos para tener un pago mientras no se asigna un salario a los concejales liberados. Se est\u00e1n modificando las bases de ejecuci\u00f3n en funci\u00f3n de las normas.</p>\n<p>Toma la palabra el concejal de UxP, no se sabe las retribuciones totales ni cual es la cuant\u00eda del presupuesto que se ahorra en la<br />\namortizaci\u00f3n de las plazas ni a donde va ir a parar el dinero que se ahorre. Se pod\u00edan haber tratado los puntos 2 y 3 orden del d\u00eda, en un s\u00f3lo punto ya que uno es consecuencia del otro.</p>\n<p>Toma la palabra el concejal de IU; No hace falta convocar plenos extraordinarios si el concejal de hacienda afinara en la forma y contenido de la elaboraci\u00f3n de los expedientes. Se podr\u00edan juntar comisiones y plenos con varios puntos del dia. Esta manera de proceder nos va a acarrear un gasto de <strong>15.000\u20ac.</strong></p>\n<p>Toma la Palabra la concejala de UPD, no tiene nada que a\u00f1adir.</p>\n<p>Toma la palabra el concejal del PP. Se ratifica en lo dicho anteriormente</p>\n<p>Se procede a la votaci\u00f3n: Votos a favor: PP + ICxP + UPD &#8211;\u00a0 Votos en contra: IU\u00a0 + UxP\u00a0\u00a0\u00a0\u00a0\u00a0</p>\n<p style=\"text-align: center\">13 a favor\u00a0\u00a0 / 2 en contra</p>\n<p style=\"text-align: center\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SE LEVANTA LA SESI\u00d3N</p>\n",
+    "rendered": "<p>Presentes al pleno:\u00a0 Todos los concejales menos el concejal del PSOE y<br />\nun concejal de UxP<br />\nPunto 1: Lectura del acta anterior.<br />\nToma la palabra el concejal de IU para pedir que se modifique el acta del anterior pleno, en virtud a que \u00abno era una pregunta\u00bb sino una \u00abpetici\u00f3n de modificaci\u00f3n o rectificaci\u00f3n\u00bb para que la Junta de Gobierno elegida por el alcalde cumpliera la Ley Org\u00e1nica relativa a la Paridad de Genero.</p>\n<p style=\"text-align: center\">Se vota: Todos los presentes a favor.</p>\n<p>Punto 2: Acuerdo, si procede, relativo a la aprobaci\u00f3n inicial de la modificaci\u00f3n de la plantilla de personal correspondiente al<br />\npresupuesto de la Entidad para el ejercicio de 2009.</p>\n<p>Toma la Palabra el concejal de ICxP, responsable del informe, explica que\u00a0 se han reducido los puestos\u00a0 que se han quedado obsoletos desde hace tres a\u00f1os. Estos puestos eran consecuencia de la gran carga de trabajo que el desarrollo inmobiliario en Paracuellos obligaba a mantener. Con esta reducci\u00f3n de plantilla de los puestos obsoletos se estima un ahorro de 90.000\u20ac.</p>\n<p>Toma la palabra el concejal de UxP. Se liberan del presupuesto los <strong>90.000\u20ac</strong> para luego utilizarlos en el pago de las salarios de los concejales que ser\u00e1n liberados. Como se ha incrementado el numero de concejales liberados y no estaban presupuestados sus salarios \u00edntegramente, de esta manera se transvasa el dinero. Adem\u00e1s se mantienen a dos Cargos de Confianza. Tambi\u00e9n se reduce el personal de mano de obra directa en la calle, obras y mantenimiento, y se crean nuevos puestos de administrativos. Adem\u00e1s no se establece en el informe la cuant\u00eda de la modificaci\u00f3n.</p>\n<p>Toma la palabra el concejal de IU, manifiesta que la documentaci\u00f3n no es la correcta, existe un erro de forma en el expediente. Solo contiene la destrucci\u00f3n de 10 puestos de trabajo y no contempla donde van a parar luego lo que se ahorre de esa destrucci\u00f3n de empleo. Falta en el informe el como se producen las variaciones y cual va ha ser la cuant\u00eda de lo ahorrado. Tambi\u00e9n que se nombran dos asesores uno con el rango de Director de Personal y Recursos Humanos y otro de Gestor de<br />\n\u00c1reas, que son exactamente iguales en\u00a0 titularidad y funciones, que los Cargos de Confianza del anterior equipo de gobierno.\u00a0 Esto que les llevo en la campa\u00f1a electoral a criticar al equipo de gobierno anterior.</p>\n<p>Toma la Palabra la concejala de UPD, esta de acuerdo con el concejal de ICxP.</p>\n<p>Toma la palabra el concejal de ICxP: Comenta qe se amortizan las plazas que ya no se necesitan, porque provienen de la gran demanda de la construcci\u00f3n. Que estas plazas pasar\u00e1n a ser ocupadas por personal auxiliar administrativo que son necesarios ahora para la gesti\u00f3n del Ayuntamiento debido a la carga de trabajo acumulada. Tambi\u00e9n, que no son Cargos de Confianza, que son Asesores t\u00e9cnicos. que antes hab\u00eda Cargos de Confianza que no eran t\u00e9cnico en esas \u00e1reas.<br />\nQue en aquellas \u00e1reas que est\u00e1n nombrados los Asesores, compartir\u00e1n el salario con los Concejales de esa concejal\u00eda.</p>\n<p>Toma la palabra el concejal de UxP; son cargos de Confianza\u00a0de cualquier manera, ll\u00e1mese como se llamen. No est\u00e1n de acuerdo en la supresi\u00f3n de subalternos. El dinero de esta eliminaci\u00f3n de puestos de trabajo se pasar\u00e1 para pagar los sueldos de los concejales.</p>\n<p>Toma la palabra el concejal de IU;\u00a0existe un error de forma del documento del expediente. Hay una vacante de Polic\u00eda Municipal incluida en este expediente que no est\u00e1 definida si es una vacante o una comisi\u00f3n de servicio. No esta debidamente informado en que situaci\u00f3n esta.</p>\n<p>Toma la Palabra la concejala de UPD, esta de acuerdo con el concejal de ICxP.</p>\n<p>Toma la palabra ICxP: Hay mucho trabajo administrativo acumulado y un gran par\u00f3n el al construcci\u00f3n. Los asesores contratados no ser\u00e1n pol\u00edticos, ser\u00e1n t\u00e9cnicos especialistas en su trabajo. Son plazas vacantes las que se suprimen&#8230;..</p>\n<p>Se procede a la votaci\u00f3n: Votos a favor: PP + ICxP + UPD\u00a0&#8211; en contra\u00a0 IU\u00a0 + UxP\u00a0\u00a0\u00a0\u00a0\u00a0</p>\n<p style=\"text-align: center\">13 a favor\u00a0\u00a0 / 2 en contra</p>\n<p>Punto 3:\u00a0 Acuerdo, si procede, relativo a la aprobaci\u00f3n inicial de la modificaci\u00f3n de las Bases de Ejecuci\u00f3n correspondiente al presupuesto de la Entidad para el ejercicio de 2009.</p>\n<p>Toma la palabra el concejal del PP: Como se va a gestionar el Ayuntamiento, se fijan 10 concejales y dos Asesores. La Comisi\u00f3n<br />\ninformativa emite un informe favorable. Luego la comisi\u00f3n T\u00e9cnica emite su informe favorable.</p>\n<p>Toma la palabra el concejal de UxP; es un modelo de gesti\u00f3n que han elegido, c\u00f3mo cualquier otro.</p>\n<p>Toma la palabra el concejal de IU; No est\u00e1 bien hecho el expediente, primero hacen la propuesta y luego emiten el informe, tiene que\u00a0 ser al rev\u00e9s seg\u00fan los procedimientos Administrativos. Tiene que estar valorado previamente en el presupuesto, no se dice la cuant\u00eda ni como se va a hacer ni a donde va a ir el dinero. Como a\u00fan no se han aprobado los salarios de los concejales liberados y hasta que se aprueben pasar\u00e1 alg\u00fan tiempo hasta que se modifiquen los presupuestos se esta utilizando las Comisiones Informativas, los Plenos Extraordinarios y las Comisiones Extraordinarias para ir cobrando por estas asistencias un dinero que, si se utilizaran las v\u00edas normales, no ser\u00eda necesario gastarlo. Valoran que estas asistencias extraordinarias<br />\nnos van a costar <strong>15.000\u20ac.</strong></p>\n<p>Toma la Palabra la concejala de UPD, no tiene nada que a\u00f1adir.</p>\n<p>Toma la palabra el concejal del PP, negando que esta modificaci\u00f3n se este haciendo sin valoraciones y que se est\u00e9 utilizando las comisiones y los plenos para tener un pago mientras no se asigna un salario a los concejales liberados. Se est\u00e1n modificando las bases de ejecuci\u00f3n en funci\u00f3n de las normas.</p>\n<p>Toma la palabra el concejal de UxP, no se sabe las retribuciones totales ni cual es la cuant\u00eda del presupuesto que se ahorra en la<br />\namortizaci\u00f3n de las plazas ni a donde va ir a parar el dinero que se ahorre. Se pod\u00edan haber tratado los puntos 2 y 3 orden del d\u00eda, en un s\u00f3lo punto ya que uno es consecuencia del otro.</p>\n<p>Toma la palabra el concejal de IU; No hace falta convocar plenos extraordinarios si el concejal de hacienda afinara en la forma y contenido de la elaboraci\u00f3n de los expedientes. Se podr\u00edan juntar comisiones y plenos con varios puntos del dia. Esta manera de proceder nos va a acarrear un gasto de <strong>15.000\u20ac.</strong></p>\n<p>Toma la Palabra la concejala de UPD, no tiene nada que a\u00f1adir.</p>\n<p>Toma la palabra el concejal del PP. Se ratifica en lo dicho anteriormente</p>\n<p>Se procede a la votaci\u00f3n: Votos a favor: PP + ICxP + UPD &#8211;\u00a0 Votos en contra: IU\u00a0 + UxP\u00a0\u00a0\u00a0\u00a0\u00a0</p>\n<p style=\"text-align: center\">13 a favor\u00a0\u00a0 / 2 en contra</p>\n<p style=\"text-align: center\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SE LEVANTA LA SESI\u00d3N</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -2986,14 +2842,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/265/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 269,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/265/revisions/269"
       }
     ],
     "wp:attachment": [
@@ -3089,14 +2939,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/257/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 260,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/257/revisions/260"
       }
     ],
     "wp:attachment": [
@@ -3141,7 +2985,7 @@
     "rendered": "INFORMACI\u00d3N SOBRE LA DEUDA DE ESPA\u00d1A"
   },
   "content": {
-    "rendered": "<p>Se nos ha remitido un  documento elaborado por la plataforma DRY, sobre la verdad de la deuda  espa\u00f1ola.</p>\n<p>Si bien tenemos por delante compromisos urgentes  como son: el recibimiento, acogida y cuidado de nuestro compa\u00f1eros de  camino a Madrid de la Marcha Indignada, la imperiosa necesidad de  bloquear a como de lugar la privatizaci\u00f3n de CYII, seguir parando los  desahucios, presi\u00f3n en los plenos municipales, etc. adem\u00e1s de todos  estos, hay un tema que es quiz\u00e1s uno de los temas m\u00e1s cr\u00edticos y <strong><span style=\"text-decoration: underline\">emergentes</span></strong> en los actuales momentos que es el casi inminente rescate econ\u00f3mico de  Espa\u00f1a planeado por la UE y el FMI, el mal llamado &#171;rescate econ\u00f3mico&#187;;  por favor leed el siguiente enlace con atenci\u00f3n, para tener bases  s\u00f3lidas de argumentaci\u00f3n del por qu\u00e9 nos debemos oponer a dicho  &#171;rescate&#187;:</p>\n<div><a href=\"http://es.scribd.com/doc/59881310/LA-ESTAFA-DE-LA-DEUDA-%C2%BFAUN-NO-NOS-DAMOS-CUENTA-\" target=\"_blank\">http://es.scribd.com/doc/59881310/LA-ESTAFA-DE-LA-DEUDA-%C2%BFAUN-NO-NOS-DAMOS-CUENTA-</a></div>\n<div>Por \u00faltimo, viene bien recordar un par de frases para animarnos a\u00fan m\u00e1s:</div>\n<div>\n<div>&#171;<span style=\"color: #3366ff;font-family: 'trebuchet ms',sans-serif\">Hay hombres que luchan un d\u00eda y son buenos. </span></div>\n<div><span style=\"color: #3366ff;font-family: 'trebuchet ms',sans-serif\">Hay otros que luchan un a\u00f1o y son mejores. </span></div>\n<div><span style=\"color: #3366ff;font-family: 'trebuchet ms',sans-serif\">Hay quienes luchan muchos a\u00f1os y son muy buenos. </span></div>\n<div><span style=\"color: #3366ff;font-family: 'trebuchet ms',sans-serif\">Pero hay los que luchan toda la vida: esos son los imprescindibles</span><span style=\"color: #993399;font-family: 'trebuchet ms',sans-serif\">.</span>&#187; &#8211; Bertolt Brecht</div>\n</div>\n",
+    "rendered": "<p>Se nos ha remitido un  documento elaborado por la plataforma DRY, sobre la verdad de la deuda  espa\u00f1ola.</p>\n<p>Si bien tenemos por delante compromisos urgentes  como son: el recibimiento, acogida y cuidado de nuestro compa\u00f1eros de  camino a Madrid de la Marcha Indignada, la imperiosa necesidad de  bloquear a como de lugar la privatizaci\u00f3n de CYII, seguir parando los  desahucios, presi\u00f3n en los plenos municipales, etc. adem\u00e1s de todos  estos, hay un tema que es quiz\u00e1s uno de los temas m\u00e1s cr\u00edticos y <strong><span style=\"text-decoration: underline\">emergentes</span></strong> en los actuales momentos que es el casi inminente rescate econ\u00f3mico de  Espa\u00f1a planeado por la UE y el FMI, el mal llamado \u00abrescate econ\u00f3mico\u00bb;  por favor leed el siguiente enlace con atenci\u00f3n, para tener bases  s\u00f3lidas de argumentaci\u00f3n del por qu\u00e9 nos debemos oponer a dicho  \u00abrescate\u00bb:</p>\n<div><a href=\"http://es.scribd.com/doc/59881310/LA-ESTAFA-DE-LA-DEUDA-%C2%BFAUN-NO-NOS-DAMOS-CUENTA-\" target=\"_blank\">http://es.scribd.com/doc/59881310/LA-ESTAFA-DE-LA-DEUDA-%C2%BFAUN-NO-NOS-DAMOS-CUENTA-</a></div>\n<div>Por \u00faltimo, viene bien recordar un par de frases para animarnos a\u00fan m\u00e1s:</div>\n<div>\n<div>\u00ab<span style=\"color: #3366ff;font-family: 'trebuchet ms',sans-serif\">Hay hombres que luchan un d\u00eda y son buenos. </span></div>\n<div><span style=\"color: #3366ff;font-family: 'trebuchet ms',sans-serif\">Hay otros que luchan un a\u00f1o y son mejores. </span></div>\n<div><span style=\"color: #3366ff;font-family: 'trebuchet ms',sans-serif\">Hay quienes luchan muchos a\u00f1os y son muy buenos. </span></div>\n<div><span style=\"color: #3366ff;font-family: 'trebuchet ms',sans-serif\">Pero hay los que luchan toda la vida: esos son los imprescindibles</span><span style=\"color: #993399;font-family: 'trebuchet ms',sans-serif\">.</span>\u00bb &#8211; Bertolt Brecht</div>\n</div>\n",
     "protected": false
   },
   "excerpt": {
@@ -3191,14 +3035,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/247/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 256,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/247/revisions/256"
       }
     ],
     "wp:attachment": [
@@ -3293,14 +3131,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/243/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 246,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/243/revisions/246"
       }
     ],
     "wp:attachment": [
@@ -3395,14 +3227,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/238/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 242,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/238/revisions/242"
       }
     ],
     "wp:attachment": [
@@ -3498,14 +3324,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/234/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 235,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/234/revisions/235"
       }
     ],
     "wp:attachment": [
@@ -3601,14 +3421,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/230/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 237,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/230/revisions/237"
       }
     ],
     "wp:attachment": [
@@ -3707,14 +3521,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/214/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 283,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/214/revisions/283"
       }
     ],
     "wp:attachment": [
@@ -3810,14 +3618,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/193/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 196,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/193/revisions/196"
       }
     ],
     "wp:attachment": [
@@ -3867,7 +3669,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://paracuellos.tomalosbarrios.net/files/2011/07/El-Roto-15-M4.jpg'><img width=\"300\" height=\"264\" src=\"https://paracuellos.tomalosbarrios.net/files/2011/07/El-Roto-15-M4-300x264.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://paracuellos.tomalosbarrios.net/files/2011/07/El-Roto-15-M4-300x264.jpg 300w, https://paracuellos.tomalosbarrios.net/files/2011/07/El-Roto-15-M4.jpg 444w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://paracuellos.tomalosbarrios.net/files/2011/07/El-Roto-15-M4.jpg'><img width=\"300\" height=\"264\" src=\"https://paracuellos.tomalosbarrios.net/files/2011/07/El-Roto-15-M4-300x264.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://paracuellos.tomalosbarrios.net/files/2011/07/El-Roto-15-M4-300x264.jpg 300w, https://paracuellos.tomalosbarrios.net/files/2011/07/El-Roto-15-M4.jpg 444w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -3968,7 +3770,7 @@
     "rendered": "Cartel V Asamblea Popular de Paracuellos de Jarama"
   },
   "content": {
-    "rendered": "<p style=\"text-align: center\"><span style=\"color: #000000\">SEXTA ASAMBLEA POPULAR DE PARACUELLOS DE JARAMA</span></p>\n<p style=\"text-align: center\"><span style=\"color: #000000\">DOMINGO 17 DE JULIO DEL 2011 A LAS 19:30 HORAS<br />\n</span></p>\n<p style=\"text-align: center\"><span style=\"color: #000000\">Paseo del Radar esquina Avenida de Andaluc\u00eda</span></p>\n<p style=\"text-align: center\"><span style=\"color: #000000\"> <img class=\"aligncenter size-medium wp-image-191\" src=\"http://paracuellos.tomalosbarrios.net/files/2011/07/El-Roto-15-M4-300x264.jpg\" alt=\"\" width=\"407\" height=\"318\" /></span></p>\n<p style=\"text-align: center\"><span style=\"color: #000000;font-family: Century Gothic\"> </span></p>\n<p style=\"text-align: center\"><span style=\"color: #000000\">Decidimos reunirnos para seguir reivindicando una participaci\u00f3n directa en los asuntos que nos afectan. No representamos a ning\u00fan partido ni asociaci\u00f3n. Queremos una sociedad nueva, que d\u00e9 prioridad a la vida digna por encima de los intereses econ\u00f3micos.</span></p>\n<p style=\"text-align: center\"><span style=\"color: #000000\">ELIGE UNA VIDA MEJOR, ELIGE UN MUNDO MEJOR PARA TODXS</span></p>\n<p style=\"text-align: center\"><span style=\"color: #000000\">Contacto: </span><a href=\"mailto:barrios.paracuellos@gmail.com\"><span style=\"color: #0000ff;font-family: Century Gothic\">barrios.paracuellos@gmail.com</span></a></p>\n<p style=\"text-align: center\"><span style=\"color: #000000\">Web: </span><a href=\"http://paracuellos.tomalosbarrios.net/\"><span style=\"color: #800080;font-family: Century Gothic\">http://paracuellos.tomalosbarrios.net</span></a></p>\n<p style=\"text-align: center\"><span style=\"color: #000000\">Grupos de trabajo: </span></p>\n<div style=\"text-align: center\">\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td colspan=\"2\" width=\"186\" valign=\"top\"><span style=\"color: #000000;font-family: Century Gothic\">&#8211;</span><span style=\"color: #000000\"> </span><span style=\"color: #000000\">Medio Ambiente</span></td>\n<td width=\"385\" valign=\"top\"><a href=\"mailto:Medioambiente.paracuellos@gmail.com\"><span style=\"font-family: Century Gothic\">Medioambiente.paracuellos@gmail.com</span></a></td>\n</tr>\n<tr>\n<td colspan=\"2\" width=\"186\" valign=\"top\"><span style=\"color: #000000;font-family: Century Gothic\">&#8211;</span><span style=\"color: #000000\"> </span><span style=\"color: #000000\">Bienestar Social</span></td>\n<td width=\"385\" valign=\"top\"><a href=\"mailto:Bienestar.paracuellos@gmail.com\"><span style=\"font-family: Century Gothic\">Bienestar.paracuellos@gmail.com</span></a></td>\n</tr>\n<tr>\n<td colspan=\"2\" width=\"186\" valign=\"top\"><span style=\"color: #000000;font-family: Century Gothic\">&#8211;</span><span style=\"color: #000000\"> </span><span style=\"color: #000000\">Pol\u00edtica</span></td>\n<td width=\"385\" valign=\"top\"><a href=\"mailto:Contenido.paracuellos@gmail.com\"><span style=\"font-family: Century Gothic\">Contenido.paracuellos@gmail.com</span></a></td>\n</tr>\n<tr>\n<td colspan=\"2\" width=\"186\" valign=\"top\"><span style=\"color: #000000;font-family: Century Gothic\">&#8211;</span><span style=\"color: #000000\"> </span><span style=\"color: #000000\">Comunicaci\u00f3n</span></td>\n<td width=\"385\" valign=\"top\"><a href=\"mailto:Comunicaci\u00f3n.paracuellos@gmail.com\"><span style=\"font-family: Century Gothic\">Comunicaci\u00f3n.paracuellos@gmail.com</span></a></td>\n</tr>\n<tr>\n<td width=\"174\" valign=\"top\"><span style=\"color: #000000;font-family: Century Gothic\">&#8211;</span><span style=\"color: #000000\"> </span><span style=\"color: #000000\">Infraestructuras</span></td>\n<td colspan=\"2\" width=\"397\" valign=\"top\"><a href=\"mailto:Infraestructuras.paracuellos@gmail.com\"><span style=\"font-family: Century Gothic\">Infraestructuras.paracuellos@gmail.com</span></a></td>\n</tr>\n<tr>\n<td width=\"247\"></td>\n<td width=\"12\"></td>\n<td width=\"398\"></td>\n</tr>\n</tbody>\n</table>\n</div>\n<p style=\"text-align: center\"><span style=\"color: #000000;font-family: Century Gothic\"> </span></p>\n",
+    "rendered": "<p style=\"text-align: center\"><span style=\"color: #000000\">SEXTA ASAMBLEA POPULAR DE PARACUELLOS DE JARAMA</span></p>\n<p style=\"text-align: center\"><span style=\"color: #000000\">DOMINGO 17 DE JULIO DEL 2011 A LAS 19:30 HORAS<br />\n</span></p>\n<p style=\"text-align: center\"><span style=\"color: #000000\">Paseo del Radar esquina Avenida de Andaluc\u00eda</span></p>\n<p style=\"text-align: center\"><span style=\"color: #000000\"> <img loading=\"lazy\" class=\"aligncenter size-medium wp-image-191\" src=\"http://paracuellos.tomalosbarrios.net/files/2011/07/El-Roto-15-M4-300x264.jpg\" alt=\"\" width=\"407\" height=\"318\" /></span></p>\n<p style=\"text-align: center\"><span style=\"color: #000000;font-family: Century Gothic\"> </span></p>\n<p style=\"text-align: center\"><span style=\"color: #000000\">Decidimos reunirnos para seguir reivindicando una participaci\u00f3n directa en los asuntos que nos afectan. No representamos a ning\u00fan partido ni asociaci\u00f3n. Queremos una sociedad nueva, que d\u00e9 prioridad a la vida digna por encima de los intereses econ\u00f3micos.</span></p>\n<p style=\"text-align: center\"><span style=\"color: #000000\">ELIGE UNA VIDA MEJOR, ELIGE UN MUNDO MEJOR PARA TODXS</span></p>\n<p style=\"text-align: center\"><span style=\"color: #000000\">Contacto: </span><a href=\"mailto:barrios.paracuellos@gmail.com\"><span style=\"color: #0000ff;font-family: Century Gothic\">barrios.paracuellos@gmail.com</span></a></p>\n<p style=\"text-align: center\"><span style=\"color: #000000\">Web: </span><a href=\"http://paracuellos.tomalosbarrios.net/\"><span style=\"color: #800080;font-family: Century Gothic\">http://paracuellos.tomalosbarrios.net</span></a></p>\n<p style=\"text-align: center\"><span style=\"color: #000000\">Grupos de trabajo: </span></p>\n<div style=\"text-align: center\">\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td colspan=\"2\" width=\"186\" valign=\"top\"><span style=\"color: #000000;font-family: Century Gothic\">&#8211;</span><span style=\"color: #000000\"> </span><span style=\"color: #000000\">Medio Ambiente</span></td>\n<td width=\"385\" valign=\"top\"><a href=\"mailto:Medioambiente.paracuellos@gmail.com\"><span style=\"font-family: Century Gothic\">Medioambiente.paracuellos@gmail.com</span></a></td>\n</tr>\n<tr>\n<td colspan=\"2\" width=\"186\" valign=\"top\"><span style=\"color: #000000;font-family: Century Gothic\">&#8211;</span><span style=\"color: #000000\"> </span><span style=\"color: #000000\">Bienestar Social</span></td>\n<td width=\"385\" valign=\"top\"><a href=\"mailto:Bienestar.paracuellos@gmail.com\"><span style=\"font-family: Century Gothic\">Bienestar.paracuellos@gmail.com</span></a></td>\n</tr>\n<tr>\n<td colspan=\"2\" width=\"186\" valign=\"top\"><span style=\"color: #000000;font-family: Century Gothic\">&#8211;</span><span style=\"color: #000000\"> </span><span style=\"color: #000000\">Pol\u00edtica</span></td>\n<td width=\"385\" valign=\"top\"><a href=\"mailto:Contenido.paracuellos@gmail.com\"><span style=\"font-family: Century Gothic\">Contenido.paracuellos@gmail.com</span></a></td>\n</tr>\n<tr>\n<td colspan=\"2\" width=\"186\" valign=\"top\"><span style=\"color: #000000;font-family: Century Gothic\">&#8211;</span><span style=\"color: #000000\"> </span><span style=\"color: #000000\">Comunicaci\u00f3n</span></td>\n<td width=\"385\" valign=\"top\"><a href=\"mailto:Comunicaci\u00f3n.paracuellos@gmail.com\"><span style=\"font-family: Century Gothic\">Comunicaci\u00f3n.paracuellos@gmail.com</span></a></td>\n</tr>\n<tr>\n<td width=\"174\" valign=\"top\"><span style=\"color: #000000;font-family: Century Gothic\">&#8211;</span><span style=\"color: #000000\"> </span><span style=\"color: #000000\">Infraestructuras</span></td>\n<td colspan=\"2\" width=\"397\" valign=\"top\"><a href=\"mailto:Infraestructuras.paracuellos@gmail.com\"><span style=\"font-family: Century Gothic\">Infraestructuras.paracuellos@gmail.com</span></a></td>\n</tr>\n<tr>\n<td width=\"247\"></td>\n<td width=\"12\"></td>\n<td width=\"398\"></td>\n</tr>\n</tbody>\n</table>\n</div>\n<p style=\"text-align: center\"><span style=\"color: #000000;font-family: Century Gothic\"> </span></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -4019,14 +3821,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/190/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 218,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/190/revisions/218"
       }
     ],
     "wp:attachment": [
@@ -4122,14 +3918,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/164/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 167,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/164/revisions/167"
       }
     ],
     "wp:attachment": [
@@ -4225,14 +4015,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/147/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 198,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/147/revisions/198"
       }
     ],
     "wp:attachment": [
@@ -4329,14 +4113,8 @@
     ],
     "version-history": [
       {
-        "count": 11,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/142/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 209,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/142/revisions/209"
       }
     ],
     "wp:attachment": [
@@ -4426,14 +4204,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/pages/136/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 139,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/pages/136/revisions/139"
       }
     ],
     "wp:attachment": [
@@ -4517,14 +4289,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/134/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 199,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/134/revisions/199"
       }
     ],
     "wp:attachment": [
@@ -4620,14 +4386,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/132/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 200,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/132/revisions/200"
       }
     ],
     "wp:attachment": [
@@ -4723,14 +4483,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/128/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 201,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/128/revisions/201"
       }
     ],
     "wp:attachment": [
@@ -4825,14 +4579,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/124/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 197,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/124/revisions/197"
       }
     ],
     "wp:attachment": [
@@ -4922,14 +4670,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/pages/119/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 122,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/pages/119/revisions/122"
       }
     ],
     "wp:attachment": [
@@ -5007,14 +4749,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/pages/108/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 111,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/pages/108/revisions/111"
       }
     ],
     "wp:attachment": [
@@ -5092,14 +4828,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/pages/105/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 106,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/pages/105/revisions/106"
       }
     ],
     "wp:attachment": [
@@ -5132,7 +4862,7 @@
     "rendered": "ASAMBLEA GENEREAL DE SOL 3-7-2.011 &#8211; ACTA NO OFICIAL"
   },
   "content": {
-    "rendered": "<p>Asamblea prevista para las 21.00h empieza con un poco m\u00e1s de media hora de retraso. Explicaci\u00f3n de los signos. El moderador comunica a la asamblea que al grupo de sonido le han desaparecido en el transcurso de la APM 2 mesas PA y la gasolina necesaria para que haya sonido la est\u00e1n pagando ellos. El material de sonido est\u00e1 pr\u00e1cticamente autofinanciado por ellos. Debido a esta situaci\u00f3n, con una caja de zapatos naranja, y por CONSENSO UN\u00c1NIME, se decide que la gente que quiera puede ir depositando dinero en ella, ya que el 15-M no acepta donativos econ\u00f3micos salvo en este caso.<br />\nExtensi\u00f3n Internacional.<br />\n\u3000<br />\nEmpiezan como acabaron la \u00faltima asamblea general. El sistema por unanimidad permite el bloqueo f\u00e1cil y es una falta de respeto a los Grupos de Trabajo, ya que se les echa para atr\u00e1s las propuestas que traen a la Asamblea General, despu\u00e9s de tanto tiempo de trabajo.<br />\nExtensi\u00f3n Internacional ha generado una propuesta, que es una alterntiva a la toma de decisiones. Consiste en aprobar una propuesta por mayor\u00eda.<br />\nS\u00ed habr\u00e1 consenso con reformulaciones, propuestas debatidas y dialogadas.<br />\nEl planteamiento es el siguiente. Ofrecer la propuesta con una semana de antelaci\u00f3n a la Asamblea General. Abrir turnos de palabra. Aprobarla con 4/5.<br />\nLos disensos ser\u00e1n incluidos en acta para trabajar los matices generando as\u00ed transparencia e inclusi\u00f3n.<br />\nSe abre el 1er turno de palabra:<br />\nLos disensos de la propuesta: aprobar una propuesta por 4/5.<br />\nPlantear esta propuesta en la Asamblea General cuando ya hay un grupo que est\u00e1 trabajando en ese tema es una falta de respeto.<br />\nNo se dicen los puntos a favor de aprobar la propuesta por una mayorr\u00eda de 4/5.<br />\nEst\u00e1 en contra de que haya una bipartici\u00f3n en la toma de decisiones primero a favor y luego en contra. Hay un estudio que demuestra que en privado la gente reconoc\u00eda que le gustaba m\u00e1s el vino con vinagre porque lo hab\u00eda dicho un esperto. Por tanto, considera que hay que preguntar primero los disensos y luego los consensos. El moderador pregunta a la asamblea y as\u00ed se hace.<br />\nEl argumento de que no se avanza no es v\u00e1lido, porque se han obtenido 30 consensos un\u00e1nimes, por lo que &#171;igual si se avanza un poquito&#187;.<br />\nEs una falta de respeto porque esta propuesta se nota que no est\u00e1 trabajada, y hay gente que la est\u00e1 trabajando en la otra asamblea.<br />\nLa anterior asamblea no hubo consenso de aprobar por 4/5 sino que fue un debate.<br />\n\u3000<br />\nA favor de la propuesta: aprobar una propuesta por 4/5.<br />\nLos disensos se van a recoger en acta, cosa que antes no ocurr\u00eda.<br />\nQue en realidad, nunca ha funcionado por consenso un\u00e1nime. Solo hay que fijarse en el levantamiento de la Acampada Sol. Hab\u00eda gente que no quer\u00eda que se levantara.<br />\nEl cansancio y el bloqueo continuo hacen que los disensos asienten.<br />\nArgumentan que las personas que disienten s\u00f3lo devaluan la propuesta y no argumentar, calificando de hipocres\u00eda y demagogia.<br />\nEn las Asambleas Generales se viene a explicar y no pedir que asistamos a las asambleas extraordinarias que se hacen.<br />\nCon el consenso un\u00e1nime si una persona disiente bloquea la propuesta.<br />\nUna acci\u00f3n si la convoca el 15-M van todos, si solamente lo aprueba la Asamblea General van los del grupo y cuatro m\u00e1s que se enteren.<br />\n\u3000<br />\nSe dan varios minutos para que la gente de alrededor hable en peque\u00f1os corros.<br />\n\u3000<br />\nSe informa que la pr\u00f3xima asamblea extraordinaria donde se trata el tema de llegar a un consenso ser\u00e1: LUNES. 19:00H. PZ DE LAS DESCALZAS. Consistir\u00e1 en reducir las propuestas.<br />\n\u3000<br />\nSe abre el segundo turno de palabra:<br />\nLos disensos de la propuesta: aprobar una propuesta por 4/5.<br />\nEsta forma de llegar a un consenso no es dicot\u00f3mico. Hay que buscar las posturas en com\u00fan para llegar a un camino. Siempre va haber minor\u00edas (asambleas, Grupos de Trabajo&#8230;), es inclusivo y lo que estamos haciendo es actuar y es lo que tenemos que seguir haciendo, actuar y no tener tanta prisa con los consensos.<br />\nNo se puede plantear la propuesta porque hay otro grupo trabajando en ella.<br />\nEstamos actuando, parando deshaucios, movilizaciones&#8230; no tenemos tanta prisa en llegar a los consensos.<br />\n\u3000<br />\nPostura ni a favor ni en disenso por la propuesta.<br />\nUtilizar ambas v\u00edas. Las que sean a largo plazo por consenso un\u00e1nime y otras que sean m\u00e1s urgentes por mayor\u00eda. Hacer una combinaci\u00f3n de ambas.<br />\n\u3000<br />\nA favor de la propuesta: aprobar una propuesta por 4/5.<br />\nEs una propuesta pero como todo luego se puede cambiar.<br />\nRecoge en acta los disensos.<br />\nEste es un tema muy complejo como para debatirlo en esta asamblea y tomar una decisi\u00f3n ahora.<br />\nCada vez la gente viene menos porque estamos bloqueados y no se avanza con el consenso un\u00e1nime.<br />\n(Nada nuevo que no se haya dicho antes).<br />\n\u3000<br />\nCon el ambiente bastante tenso el moderador cree oportuno pasar a los siguiente puntos de d\u00eda.<br />\nInfoSol.<br />\nLa Comisi\u00f3n de Educaci\u00f3n que pase a recoger las firmas que ma\u00f1ana hay que entregarlas.<br />\nAcampada Itinerante.<br />\nLa Acampada Itinerante est\u00e1 realizando diversas acciones: parar derribos y deshaucios en la Ca\u00f1ada Real; cines de verano; talleres de inform\u00e1tica; juegos con ni\u00f1os; asambleas&#8230;<br />\nEl fin de la acampada en Rivas es el 11 de Julio, fecha para la que esperan tener otro lugar donde ir.<br />\nEst\u00e1n situados en la Pz Mayor, en frente del Ayuntamiento. &lt;M&gt; m\u00e1s cercano Rivas Urbanizaciones. Autobuses 331,332,333 y 334 con salida desde Conde de Casal.<br />\nEl correo de contacto es: <a href=\"mailto:madridacampadaitinerante@gmail.com\">madridacampadaitinerante@gmail.com</a><br />\nRumbo a Gaza.<br />\n\u3000<br />\nSolicitan apoyo para las campa\u00f1as de difusi\u00f3n de la II flotilla Libertad. La situaci\u00f3n actual es que 12 flotillas llevan 2 d\u00edas ancladas en un puerto de Grecia. Por lo visto, han recibido un comunicado ministerial para que no salgan del puerto. En esta flotilla hay una embarcaci\u00f3n espa\u00f1ola retenida con 40 espa\u00f1oles (un eurodiputado y actores entre ellos).<br />\nEl capit\u00e1n de la flota americana ha sido detenido. Es incre\u00edble el poder que tiene Israel para impedir que los barcos llenos de ayuda a Gaza puedan salir.<br />\nConcentraci\u00f3n lunes 4 de Julio a las 12.00 en la Embajada de Grecia &lt;M&gt; Rep\u00fablica Argentina<br />\nTodos los d\u00edas en Sol de 17:30 a 22:00 se facilitar\u00e1 informaci\u00f3n de esta II flotilla.<br />\nPensamiento.<br />\nDebemos denunciar lo injusto, lo excluyente, pero tambi\u00e9m debemos crear lo que queremos.<br />\nCuando llega el verano la gente piensa en desconectar.<br />\n<a href=\"mailto:Nosotr@s\">Nosotr@s</a> pensamos en conectar: conectar con lo humano y las cosas bonitas que te proporciona la vida.<br />\nDe aqu\u00ed se lanza la siguiente propuesta: VACACIONES SOLEADAS.<br />\nConsiste en toma la monta\u00f1a y toma la playa, con gente diversa, en los que haya juegos, teatro, conflictos, retos, inclusividad, transparencia y horizontalidad.<br />\nLa idea ser\u00eda ir con coches, furgonetas y as\u00ed proporcionar un medio de transporte para llevar de vuelta a las marchas indignadas a sus casas.<br />\nSe seguir\u00e1 tratando. La idea es hacerlo durante el mes de agosto.<br />\nLengia de Signos.<br />\nLectura del comunicado que se puede encontrar en este enlace <a href=\"http://madrid.tomalaplaza.net/2011/06/27/comunicado-grupo-de-interpretes-de-lengua-de-signos/\">http://madrid.tomalaplaza.net/2011/06/27/comunicado-grupo-de-interpretes-de-lengua-de-signos/</a><br />\nEl moderador las interrumpe porque no hay tiempo.<br />\nSolicita que si hay informaciones que se puedan aplazar para la siguiente asamblea y los que salgan que lo hagan de manera telegr\u00e1fica.<br />\nConexi\u00f3n Externa.<br />\nEst\u00e1n en marcha m\u00e1s de 400 personas a Madrid.<br />\nMartes a las 16:00 en la Pz del Carmen una asamblea con los Grupos de Trabajo.<br />\n\u3000<br />\nEconom\u00eda.<br />\nAsamblea de <a href=\"mailto:Parad@s\">Parad@s</a>. 15 de Julio a las 20:00 h en Sol.<br />\nPr\u00f3xima asamblea: Mi\u00e9rcoles a las 20:00h en la Pz del Carmen.<br />\nConexi\u00f3n Internacional.<br />\nExisten dos vertientes:<br />\nUn Grupo de Trabajo coincide en la estructura asamblearia actual pero no en la toma de decisiones.<br />\nArgumentan la toma de decision por unanimidad vinculado al cambio de estructura asamblearia.<br />\n\u3000<br />\nColombia,<br />\nRepresenta a un tejido de comunicaci\u00f3n que nos comunica que una Comunidad Ind\u00edgena est\u00e1n siendo sometidos al llamada &#171;Plan de muerte&#187; que consiste en invadir el territorio y llevar a cabo una privatizaci\u00f3n general. Esta Comunidad Ind\u00edgena y no ind\u00edgenas han elaborado una alternativa que se llama &#171;Plan de Vida&#187;, que se fijan en el 15-M como modelo a seguir.<br />\n&#171;Es el mismo enemigo y el mismo sistema que quiere acabar con nosotros&#187;. El Plan de Muerte est\u00e1 creado para dividir y exterminar.<br />\nLas asambleas es el espacio de concentraci\u00f3n que siguen.<br />\n\u3000<br />\n\u3000<br />\nEl moderador para cerrar la asamblea pasadas las 00:00 comunica que la pr\u00f3xima asamblea ser\u00e1 especial ya que se debatir\u00e1:<br />\nCambio en la toma de decisiones vinculado a un cambio de estructura asamblearia.<br />\nCambio en la toma de decisiones no vinculado a un cambio de estructura asamblearia.<br />\nCambio en la estructura asamblearia vinculado a un cambio en la toma de decisiones.<br />\nCambio en la estructura asamblearia no vinculado a un cambio en la toma de decisiones.<br />\n\u3000<br />\n\u3000<br />\nCierre de la Asamblea General.</p>\n",
+    "rendered": "<p>Asamblea prevista para las 21.00h empieza con un poco m\u00e1s de media hora de retraso. Explicaci\u00f3n de los signos. El moderador comunica a la asamblea que al grupo de sonido le han desaparecido en el transcurso de la APM 2 mesas PA y la gasolina necesaria para que haya sonido la est\u00e1n pagando ellos. El material de sonido est\u00e1 pr\u00e1cticamente autofinanciado por ellos. Debido a esta situaci\u00f3n, con una caja de zapatos naranja, y por CONSENSO UN\u00c1NIME, se decide que la gente que quiera puede ir depositando dinero en ella, ya que el 15-M no acepta donativos econ\u00f3micos salvo en este caso.<br />\nExtensi\u00f3n Internacional.<br />\n\u3000<br />\nEmpiezan como acabaron la \u00faltima asamblea general. El sistema por unanimidad permite el bloqueo f\u00e1cil y es una falta de respeto a los Grupos de Trabajo, ya que se les echa para atr\u00e1s las propuestas que traen a la Asamblea General, despu\u00e9s de tanto tiempo de trabajo.<br />\nExtensi\u00f3n Internacional ha generado una propuesta, que es una alterntiva a la toma de decisiones. Consiste en aprobar una propuesta por mayor\u00eda.<br />\nS\u00ed habr\u00e1 consenso con reformulaciones, propuestas debatidas y dialogadas.<br />\nEl planteamiento es el siguiente. Ofrecer la propuesta con una semana de antelaci\u00f3n a la Asamblea General. Abrir turnos de palabra. Aprobarla con 4/5.<br />\nLos disensos ser\u00e1n incluidos en acta para trabajar los matices generando as\u00ed transparencia e inclusi\u00f3n.<br />\nSe abre el 1er turno de palabra:<br />\nLos disensos de la propuesta: aprobar una propuesta por 4/5.<br />\nPlantear esta propuesta en la Asamblea General cuando ya hay un grupo que est\u00e1 trabajando en ese tema es una falta de respeto.<br />\nNo se dicen los puntos a favor de aprobar la propuesta por una mayorr\u00eda de 4/5.<br />\nEst\u00e1 en contra de que haya una bipartici\u00f3n en la toma de decisiones primero a favor y luego en contra. Hay un estudio que demuestra que en privado la gente reconoc\u00eda que le gustaba m\u00e1s el vino con vinagre porque lo hab\u00eda dicho un esperto. Por tanto, considera que hay que preguntar primero los disensos y luego los consensos. El moderador pregunta a la asamblea y as\u00ed se hace.<br />\nEl argumento de que no se avanza no es v\u00e1lido, porque se han obtenido 30 consensos un\u00e1nimes, por lo que \u00abigual si se avanza un poquito\u00bb.<br />\nEs una falta de respeto porque esta propuesta se nota que no est\u00e1 trabajada, y hay gente que la est\u00e1 trabajando en la otra asamblea.<br />\nLa anterior asamblea no hubo consenso de aprobar por 4/5 sino que fue un debate.<br />\n\u3000<br />\nA favor de la propuesta: aprobar una propuesta por 4/5.<br />\nLos disensos se van a recoger en acta, cosa que antes no ocurr\u00eda.<br />\nQue en realidad, nunca ha funcionado por consenso un\u00e1nime. Solo hay que fijarse en el levantamiento de la Acampada Sol. Hab\u00eda gente que no quer\u00eda que se levantara.<br />\nEl cansancio y el bloqueo continuo hacen que los disensos asienten.<br />\nArgumentan que las personas que disienten s\u00f3lo devaluan la propuesta y no argumentar, calificando de hipocres\u00eda y demagogia.<br />\nEn las Asambleas Generales se viene a explicar y no pedir que asistamos a las asambleas extraordinarias que se hacen.<br />\nCon el consenso un\u00e1nime si una persona disiente bloquea la propuesta.<br />\nUna acci\u00f3n si la convoca el 15-M van todos, si solamente lo aprueba la Asamblea General van los del grupo y cuatro m\u00e1s que se enteren.<br />\n\u3000<br />\nSe dan varios minutos para que la gente de alrededor hable en peque\u00f1os corros.<br />\n\u3000<br />\nSe informa que la pr\u00f3xima asamblea extraordinaria donde se trata el tema de llegar a un consenso ser\u00e1: LUNES. 19:00H. PZ DE LAS DESCALZAS. Consistir\u00e1 en reducir las propuestas.<br />\n\u3000<br />\nSe abre el segundo turno de palabra:<br />\nLos disensos de la propuesta: aprobar una propuesta por 4/5.<br />\nEsta forma de llegar a un consenso no es dicot\u00f3mico. Hay que buscar las posturas en com\u00fan para llegar a un camino. Siempre va haber minor\u00edas (asambleas, Grupos de Trabajo&#8230;), es inclusivo y lo que estamos haciendo es actuar y es lo que tenemos que seguir haciendo, actuar y no tener tanta prisa con los consensos.<br />\nNo se puede plantear la propuesta porque hay otro grupo trabajando en ella.<br />\nEstamos actuando, parando deshaucios, movilizaciones&#8230; no tenemos tanta prisa en llegar a los consensos.<br />\n\u3000<br />\nPostura ni a favor ni en disenso por la propuesta.<br />\nUtilizar ambas v\u00edas. Las que sean a largo plazo por consenso un\u00e1nime y otras que sean m\u00e1s urgentes por mayor\u00eda. Hacer una combinaci\u00f3n de ambas.<br />\n\u3000<br />\nA favor de la propuesta: aprobar una propuesta por 4/5.<br />\nEs una propuesta pero como todo luego se puede cambiar.<br />\nRecoge en acta los disensos.<br />\nEste es un tema muy complejo como para debatirlo en esta asamblea y tomar una decisi\u00f3n ahora.<br />\nCada vez la gente viene menos porque estamos bloqueados y no se avanza con el consenso un\u00e1nime.<br />\n(Nada nuevo que no se haya dicho antes).<br />\n\u3000<br />\nCon el ambiente bastante tenso el moderador cree oportuno pasar a los siguiente puntos de d\u00eda.<br />\nInfoSol.<br />\nLa Comisi\u00f3n de Educaci\u00f3n que pase a recoger las firmas que ma\u00f1ana hay que entregarlas.<br />\nAcampada Itinerante.<br />\nLa Acampada Itinerante est\u00e1 realizando diversas acciones: parar derribos y deshaucios en la Ca\u00f1ada Real; cines de verano; talleres de inform\u00e1tica; juegos con ni\u00f1os; asambleas&#8230;<br />\nEl fin de la acampada en Rivas es el 11 de Julio, fecha para la que esperan tener otro lugar donde ir.<br />\nEst\u00e1n situados en la Pz Mayor, en frente del Ayuntamiento. &lt;M&gt; m\u00e1s cercano Rivas Urbanizaciones. Autobuses 331,332,333 y 334 con salida desde Conde de Casal.<br />\nEl correo de contacto es: <a href=\"mailto:madridacampadaitinerante@gmail.com\">madridacampadaitinerante@gmail.com</a><br />\nRumbo a Gaza.<br />\n\u3000<br />\nSolicitan apoyo para las campa\u00f1as de difusi\u00f3n de la II flotilla Libertad. La situaci\u00f3n actual es que 12 flotillas llevan 2 d\u00edas ancladas en un puerto de Grecia. Por lo visto, han recibido un comunicado ministerial para que no salgan del puerto. En esta flotilla hay una embarcaci\u00f3n espa\u00f1ola retenida con 40 espa\u00f1oles (un eurodiputado y actores entre ellos).<br />\nEl capit\u00e1n de la flota americana ha sido detenido. Es incre\u00edble el poder que tiene Israel para impedir que los barcos llenos de ayuda a Gaza puedan salir.<br />\nConcentraci\u00f3n lunes 4 de Julio a las 12.00 en la Embajada de Grecia &lt;M&gt; Rep\u00fablica Argentina<br />\nTodos los d\u00edas en Sol de 17:30 a 22:00 se facilitar\u00e1 informaci\u00f3n de esta II flotilla.<br />\nPensamiento.<br />\nDebemos denunciar lo injusto, lo excluyente, pero tambi\u00e9m debemos crear lo que queremos.<br />\nCuando llega el verano la gente piensa en desconectar.<br />\n<a href=\"mailto:Nosotr@s\">Nosotr@s</a> pensamos en conectar: conectar con lo humano y las cosas bonitas que te proporciona la vida.<br />\nDe aqu\u00ed se lanza la siguiente propuesta: VACACIONES SOLEADAS.<br />\nConsiste en toma la monta\u00f1a y toma la playa, con gente diversa, en los que haya juegos, teatro, conflictos, retos, inclusividad, transparencia y horizontalidad.<br />\nLa idea ser\u00eda ir con coches, furgonetas y as\u00ed proporcionar un medio de transporte para llevar de vuelta a las marchas indignadas a sus casas.<br />\nSe seguir\u00e1 tratando. La idea es hacerlo durante el mes de agosto.<br />\nLengia de Signos.<br />\nLectura del comunicado que se puede encontrar en este enlace <a href=\"http://madrid.tomalaplaza.net/2011/06/27/comunicado-grupo-de-interpretes-de-lengua-de-signos/\">http://madrid.tomalaplaza.net/2011/06/27/comunicado-grupo-de-interpretes-de-lengua-de-signos/</a><br />\nEl moderador las interrumpe porque no hay tiempo.<br />\nSolicita que si hay informaciones que se puedan aplazar para la siguiente asamblea y los que salgan que lo hagan de manera telegr\u00e1fica.<br />\nConexi\u00f3n Externa.<br />\nEst\u00e1n en marcha m\u00e1s de 400 personas a Madrid.<br />\nMartes a las 16:00 en la Pz del Carmen una asamblea con los Grupos de Trabajo.<br />\n\u3000<br />\nEconom\u00eda.<br />\nAsamblea de <a href=\"mailto:Parad@s\">Parad@s</a>. 15 de Julio a las 20:00 h en Sol.<br />\nPr\u00f3xima asamblea: Mi\u00e9rcoles a las 20:00h en la Pz del Carmen.<br />\nConexi\u00f3n Internacional.<br />\nExisten dos vertientes:<br />\nUn Grupo de Trabajo coincide en la estructura asamblearia actual pero no en la toma de decisiones.<br />\nArgumentan la toma de decision por unanimidad vinculado al cambio de estructura asamblearia.<br />\n\u3000<br />\nColombia,<br />\nRepresenta a un tejido de comunicaci\u00f3n que nos comunica que una Comunidad Ind\u00edgena est\u00e1n siendo sometidos al llamada \u00abPlan de muerte\u00bb que consiste en invadir el territorio y llevar a cabo una privatizaci\u00f3n general. Esta Comunidad Ind\u00edgena y no ind\u00edgenas han elaborado una alternativa que se llama \u00abPlan de Vida\u00bb, que se fijan en el 15-M como modelo a seguir.<br />\n\u00abEs el mismo enemigo y el mismo sistema que quiere acabar con nosotros\u00bb. El Plan de Muerte est\u00e1 creado para dividir y exterminar.<br />\nLas asambleas es el espacio de concentraci\u00f3n que siguen.<br />\n\u3000<br />\n\u3000<br />\nEl moderador para cerrar la asamblea pasadas las 00:00 comunica que la pr\u00f3xima asamblea ser\u00e1 especial ya que se debatir\u00e1:<br />\nCambio en la toma de decisiones vinculado a un cambio de estructura asamblearia.<br />\nCambio en la toma de decisiones no vinculado a un cambio de estructura asamblearia.<br />\nCambio en la estructura asamblearia vinculado a un cambio en la toma de decisiones.<br />\nCambio en la estructura asamblearia no vinculado a un cambio en la toma de decisiones.<br />\n\u3000<br />\n\u3000<br />\nCierre de la Asamblea General.</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -5183,14 +4913,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/98/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 202,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/98/revisions/202"
       }
     ],
     "wp:attachment": [
@@ -5286,14 +5010,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/95/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 176,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/95/revisions/176"
       }
     ],
     "wp:attachment": [
@@ -5389,14 +5107,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/90/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 178,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/90/revisions/178"
       }
     ],
     "wp:attachment": [
@@ -5492,14 +5204,8 @@
     ],
     "version-history": [
       {
-        "count": 8,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/75/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 203,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/75/revisions/203"
       }
     ],
     "wp:attachment": [
@@ -5594,14 +5300,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/69/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 210,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/69/revisions/210"
       }
     ],
     "wp:attachment": [
@@ -5696,14 +5396,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/67/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 211,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/67/revisions/211"
       }
     ],
     "wp:attachment": [
@@ -5799,14 +5493,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/56/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 185,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/56/revisions/185"
       }
     ],
     "wp:attachment": [
@@ -5901,14 +5589,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/52/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 212,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/52/revisions/212"
       }
     ],
     "wp:attachment": [
@@ -6104,14 +5786,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/32/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 204,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/32/revisions/204"
       }
     ],
     "wp:attachment": [
@@ -6156,7 +5832,7 @@
     "rendered": "Grupos de Trabajo y Comisiones"
   },
   "content": {
-    "rendered": "<p><span style=\"color: #ff0000\">CONTACTO:</span><strong><span style=\"color: #ff00ff\"> barrio.paracuellos@gmail.com<br />\n</span></strong></p>\n<p><span style=\"color: #00ff00\"><span style=\"color: #00ccff\">Desde el 09/febrero/2015 , por desaparici\u00f3n del anterior administrador, pasa la gesti\u00f3n de la p\u00e1gina a un nuevo administrador, con criterios de publicaci\u00f3n independientes y diferentes a los existentes hasta dicha fecha.<br />\n</span></span></p>\n<p>Por tanto rogamos que cualquier contenido publicado con anterioridad a esta fecha que pueda ser ofensivo, injurioso o falso, sea puesto en conocimiento del nuevo administrador a trav\u00e9s del mail indicado, para proceder a su revisi\u00f3n, y en su caso rectificaci\u00f3n o eliminaci\u00f3n.</p>\n<p><span style=\"color: #000000\"><a href=\"http://paracuellos.tomalosbarrios.net/files/2011/06/imagen-Paracuellos.jpg\"><img class=\"alignnone size-medium wp-image-423\" src=\"http://paracuellos.tomalosbarrios.net/files/2011/06/imagen-Paracuellos-300x300.jpg\" alt=\"imagen Paracuellos\" width=\"300\" height=\"300\" srcset=\"https://paracuellos.tomalosbarrios.net/files/2011/06/imagen-Paracuellos-300x300.jpg 300w, https://paracuellos.tomalosbarrios.net/files/2011/06/imagen-Paracuellos-150x150.jpg 150w, https://paracuellos.tomalosbarrios.net/files/2011/06/imagen-Paracuellos-144x144.jpg 144w, https://paracuellos.tomalosbarrios.net/files/2011/06/imagen-Paracuellos-900x900.jpg 900w, https://paracuellos.tomalosbarrios.net/files/2011/06/imagen-Paracuellos.jpg 960w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><br />\n</span></p>\n",
+    "rendered": "<p><span style=\"color: #ff0000\">CONTACTO:</span><strong><span style=\"color: #ff00ff\"> barrio.paracuellos@gmail.com<br />\n</span></strong></p>\n<p><span style=\"color: #00ff00\"><span style=\"color: #00ccff\">Desde el 09/febrero/2015 , por desaparici\u00f3n del anterior administrador, pasa la gesti\u00f3n de la p\u00e1gina a un nuevo administrador, con criterios de publicaci\u00f3n independientes y diferentes a los existentes hasta dicha fecha.<br />\n</span></span></p>\n<p>Por tanto rogamos que cualquier contenido publicado con anterioridad a esta fecha que pueda ser ofensivo, injurioso o falso, sea puesto en conocimiento del nuevo administrador a trav\u00e9s del mail indicado, para proceder a su revisi\u00f3n, y en su caso rectificaci\u00f3n o eliminaci\u00f3n.</p>\n<p><span style=\"color: #000000\"><a href=\"http://paracuellos.tomalosbarrios.net/files/2011/06/imagen-Paracuellos.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-423\" src=\"http://paracuellos.tomalosbarrios.net/files/2011/06/imagen-Paracuellos-300x300.jpg\" alt=\"imagen Paracuellos\" width=\"300\" height=\"300\" srcset=\"https://paracuellos.tomalosbarrios.net/files/2011/06/imagen-Paracuellos-300x300.jpg 300w, https://paracuellos.tomalosbarrios.net/files/2011/06/imagen-Paracuellos-150x150.jpg 150w, https://paracuellos.tomalosbarrios.net/files/2011/06/imagen-Paracuellos-144x144.jpg 144w, https://paracuellos.tomalosbarrios.net/files/2011/06/imagen-Paracuellos-900x900.jpg 900w, https://paracuellos.tomalosbarrios.net/files/2011/06/imagen-Paracuellos.jpg 960w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><br />\n</span></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -6201,14 +5877,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/pages/23/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 424,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/pages/23/revisions/424"
       }
     ],
     "wp:attachment": [
@@ -6292,14 +5962,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/18/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 22,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/18/revisions/22"
       }
     ],
     "wp:attachment": [
@@ -6395,14 +6059,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/14/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 213,
-        "href": "https://paracuellos.tomalosbarrios.net/wp-json/wp/v2/posts/14/revisions/213"
       }
     ],
     "wp:attachment": [

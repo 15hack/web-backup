@@ -179,7 +179,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://parla.tomalosbarrios.net/files/2016/01/banca-\u00e9tica-y-consumo-energ\u00e9tico.jpg'><img width=\"225\" height=\"300\" src=\"https://parla.tomalosbarrios.net/files/2016/01/banca-\u00e9tica-y-consumo-energ\u00e9tico-225x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://parla.tomalosbarrios.net/files/2016/01/banca-\u00e9tica-y-consumo-energ\u00e9tico-225x300.jpg 225w, https://parla.tomalosbarrios.net/files/2016/01/banca-\u00e9tica-y-consumo-energ\u00e9tico.jpg 720w\" sizes=\"(max-width: 225px) 100vw, 225px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://parla.tomalosbarrios.net/files/2016/01/banca-\u00e9tica-y-consumo-energ\u00e9tico.jpg'><img width=\"225\" height=\"300\" src=\"https://parla.tomalosbarrios.net/files/2016/01/banca-\u00e9tica-y-consumo-energ\u00e9tico-225x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://parla.tomalosbarrios.net/files/2016/01/banca-\u00e9tica-y-consumo-energ\u00e9tico-225x300.jpg 225w, https://parla.tomalosbarrios.net/files/2016/01/banca-\u00e9tica-y-consumo-energ\u00e9tico.jpg 720w\" sizes=\"(max-width: 225px) 100vw, 225px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -338,7 +338,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://parla.tomalosbarrios.net/files/2016/05/taller-literario.jpg'><img width=\"225\" height=\"300\" src=\"https://parla.tomalosbarrios.net/files/2016/05/taller-literario-225x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://parla.tomalosbarrios.net/files/2016/05/taller-literario-225x300.jpg 225w, https://parla.tomalosbarrios.net/files/2016/05/taller-literario.jpg 720w\" sizes=\"(max-width: 225px) 100vw, 225px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://parla.tomalosbarrios.net/files/2016/05/taller-literario.jpg'><img width=\"225\" height=\"300\" src=\"https://parla.tomalosbarrios.net/files/2016/05/taller-literario-225x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://parla.tomalosbarrios.net/files/2016/05/taller-literario-225x300.jpg 225w, https://parla.tomalosbarrios.net/files/2016/05/taller-literario.jpg 720w\" sizes=\"(max-width: 225px) 100vw, 225px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -492,7 +492,7 @@
     "rendered": "NUTRICI\u00d3N"
   },
   "content": {
-    "rendered": "<p>Hablaremos sobre conceptos b\u00e1sicos de nutrici\u00f3n y alimentaci\u00f3n saludables desde una perspectiva cient\u00edfica.</p>\n<p>Posteriormente abriremos un debate sobre las distintas dietas, h\u00e1bitos alimentarios, etc. y las consecuencias a nivel de salud, social, econ\u00f3mico, etc&#8230;.</p>\n<p><a href=\"http://parla.tomalosbarrios.net/files/2016/04/cartel-taller-de-nutrici\u00f3n.jpg\" rel=\"attachment wp-att-3614\"><img class=\"aligncenter wp-image-3614\" src=\"http://parla.tomalosbarrios.net/files/2016/04/cartel-taller-de-nutrici\u00f3n.jpg\" alt=\"cartel taller de nutrici\u00f3n\" width=\"500\" height=\"667\" srcset=\"https://parla.tomalosbarrios.net/files/2016/04/cartel-taller-de-nutrici\u00f3n.jpg 720w, https://parla.tomalosbarrios.net/files/2016/04/cartel-taller-de-nutrici\u00f3n-225x300.jpg 225w\" sizes=\"(max-width: 500px) 100vw, 500px\" /></a></p>\n",
+    "rendered": "<p>Hablaremos sobre conceptos b\u00e1sicos de nutrici\u00f3n y alimentaci\u00f3n saludables desde una perspectiva cient\u00edfica.</p>\n<p>Posteriormente abriremos un debate sobre las distintas dietas, h\u00e1bitos alimentarios, etc. y las consecuencias a nivel de salud, social, econ\u00f3mico, etc&#8230;.</p>\n<p><a href=\"http://parla.tomalosbarrios.net/files/2016/04/cartel-taller-de-nutrici\u00f3n.jpg\" rel=\"attachment wp-att-3614\"><img loading=\"lazy\" class=\"aligncenter wp-image-3614\" src=\"http://parla.tomalosbarrios.net/files/2016/04/cartel-taller-de-nutrici\u00f3n.jpg\" alt=\"cartel taller de nutrici\u00f3n\" width=\"500\" height=\"667\" srcset=\"https://parla.tomalosbarrios.net/files/2016/04/cartel-taller-de-nutrici\u00f3n.jpg 720w, https://parla.tomalosbarrios.net/files/2016/04/cartel-taller-de-nutrici\u00f3n-225x300.jpg 225w\" sizes=\"(max-width: 500px) 100vw, 500px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -537,14 +537,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://parla.tomalosbarrios.net/wp-json/wp/v2/pages/3616/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 3617,
-        "href": "https://parla.tomalosbarrios.net/wp-json/wp/v2/pages/3616/revisions/3617"
       }
     ],
     "wp:attachment": [
@@ -582,7 +576,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://parla.tomalosbarrios.net/files/2016/04/cartel-taller-de-nutrici\u00f3n.jpg'><img width=\"225\" height=\"300\" src=\"https://parla.tomalosbarrios.net/files/2016/04/cartel-taller-de-nutrici\u00f3n-225x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://parla.tomalosbarrios.net/files/2016/04/cartel-taller-de-nutrici\u00f3n-225x300.jpg 225w, https://parla.tomalosbarrios.net/files/2016/04/cartel-taller-de-nutrici\u00f3n.jpg 720w\" sizes=\"(max-width: 225px) 100vw, 225px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://parla.tomalosbarrios.net/files/2016/04/cartel-taller-de-nutrici\u00f3n.jpg'><img width=\"225\" height=\"300\" src=\"https://parla.tomalosbarrios.net/files/2016/04/cartel-taller-de-nutrici\u00f3n-225x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://parla.tomalosbarrios.net/files/2016/04/cartel-taller-de-nutrici\u00f3n-225x300.jpg 225w, https://parla.tomalosbarrios.net/files/2016/04/cartel-taller-de-nutrici\u00f3n.jpg 720w\" sizes=\"(max-width: 225px) 100vw, 225px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -741,7 +735,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://parla.tomalosbarrios.net/files/2016/01/cartel-la-femme.jpg'><img width=\"225\" height=\"300\" src=\"https://parla.tomalosbarrios.net/files/2016/01/cartel-la-femme-225x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://parla.tomalosbarrios.net/files/2016/01/cartel-la-femme-225x300.jpg 225w, https://parla.tomalosbarrios.net/files/2016/01/cartel-la-femme.jpg 720w\" sizes=\"(max-width: 225px) 100vw, 225px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://parla.tomalosbarrios.net/files/2016/01/cartel-la-femme.jpg'><img width=\"225\" height=\"300\" src=\"https://parla.tomalosbarrios.net/files/2016/01/cartel-la-femme-225x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://parla.tomalosbarrios.net/files/2016/01/cartel-la-femme-225x300.jpg 225w, https://parla.tomalosbarrios.net/files/2016/01/cartel-la-femme.jpg 720w\" sizes=\"(max-width: 225px) 100vw, 225px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -900,7 +894,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://parla.tomalosbarrios.net/files/2016/03/Arqueolog\u00eda-2.jpg'><img width=\"225\" height=\"300\" src=\"https://parla.tomalosbarrios.net/files/2016/03/Arqueolog\u00eda-2-225x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://parla.tomalosbarrios.net/files/2016/03/Arqueolog\u00eda-2-225x300.jpg 225w, https://parla.tomalosbarrios.net/files/2016/03/Arqueolog\u00eda-2.jpg 720w\" sizes=\"(max-width: 225px) 100vw, 225px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://parla.tomalosbarrios.net/files/2016/03/Arqueolog\u00eda-2.jpg'><img width=\"225\" height=\"300\" src=\"https://parla.tomalosbarrios.net/files/2016/03/Arqueolog\u00eda-2-225x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://parla.tomalosbarrios.net/files/2016/03/Arqueolog\u00eda-2-225x300.jpg 225w, https://parla.tomalosbarrios.net/files/2016/03/Arqueolog\u00eda-2.jpg 720w\" sizes=\"(max-width: 225px) 100vw, 225px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -1099,14 +1093,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://parla.tomalosbarrios.net/wp-json/wp/v2/pages/3545/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 3546,
-        "href": "https://parla.tomalosbarrios.net/wp-json/wp/v2/pages/3545/revisions/3546"
       }
     ],
     "wp:attachment": [
@@ -1184,14 +1172,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://parla.tomalosbarrios.net/wp-json/wp/v2/pages/3503/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 3504,
-        "href": "https://parla.tomalosbarrios.net/wp-json/wp/v2/pages/3503/revisions/3504"
       }
     ],
     "wp:attachment": [
@@ -1642,14 +1624,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://parla.tomalosbarrios.net/wp-json/wp/v2/pages/3430/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 3471,
-        "href": "https://parla.tomalosbarrios.net/wp-json/wp/v2/pages/3430/revisions/3471"
       }
     ],
     "wp:attachment": [
@@ -1682,7 +1658,7 @@
     "rendered": "AN\u00c1LISIS DE LA IMAGEN"
   },
   "content": {
-    "rendered": "<p>Fecha: mediados de marzo.</p>\n<p>Objetivos: Conocer la estructuras b\u00e1sicas de la interpretaci\u00f3n de la imagen en movimiento y sus implicaciones \u00e9ticas y est\u00e9ticas.</p>\n<p><a href=\"http://parla.tomalosbarrios.net/files/2016/06/AN\u00c1LISIS-DE-LAS-IM\u00c1GENES.jpg\"><img class=\"aligncenter wp-image-3626 size-medium\" src=\"http://parla.tomalosbarrios.net/files/2016/06/AN\u00c1LISIS-DE-LAS-IM\u00c1GENES-225x300.jpg\" alt=\"AN\u00c1LISIS DE LAS IM\u00c1GENES\" width=\"225\" height=\"300\" srcset=\"https://parla.tomalosbarrios.net/files/2016/06/AN\u00c1LISIS-DE-LAS-IM\u00c1GENES-225x300.jpg 225w, https://parla.tomalosbarrios.net/files/2016/06/AN\u00c1LISIS-DE-LAS-IM\u00c1GENES.jpg 720w\" sizes=\"(max-width: 225px) 100vw, 225px\" /></a></p>\n",
+    "rendered": "<p>Fecha: mediados de marzo.</p>\n<p>Objetivos: Conocer la estructuras b\u00e1sicas de la interpretaci\u00f3n de la imagen en movimiento y sus implicaciones \u00e9ticas y est\u00e9ticas.</p>\n<p><a href=\"http://parla.tomalosbarrios.net/files/2016/06/AN\u00c1LISIS-DE-LAS-IM\u00c1GENES.jpg\"><img loading=\"lazy\" class=\"aligncenter wp-image-3626 size-medium\" src=\"http://parla.tomalosbarrios.net/files/2016/06/AN\u00c1LISIS-DE-LAS-IM\u00c1GENES-225x300.jpg\" alt=\"AN\u00c1LISIS DE LAS IM\u00c1GENES\" width=\"225\" height=\"300\" srcset=\"https://parla.tomalosbarrios.net/files/2016/06/AN\u00c1LISIS-DE-LAS-IM\u00c1GENES-225x300.jpg 225w, https://parla.tomalosbarrios.net/files/2016/06/AN\u00c1LISIS-DE-LAS-IM\u00c1GENES.jpg 720w\" sizes=\"(max-width: 225px) 100vw, 225px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -1727,14 +1703,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://parla.tomalosbarrios.net/wp-json/wp/v2/pages/3428/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 3633,
-        "href": "https://parla.tomalosbarrios.net/wp-json/wp/v2/pages/3428/revisions/3633"
       }
     ],
     "wp:attachment": [
@@ -1812,14 +1782,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://parla.tomalosbarrios.net/wp-json/wp/v2/pages/3426/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 3472,
-        "href": "https://parla.tomalosbarrios.net/wp-json/wp/v2/pages/3426/revisions/3472"
       }
     ],
     "wp:attachment": [
@@ -1852,7 +1816,7 @@
     "rendered": "EDICI\u00d3N IMAGEN/V\u00cdDEO"
   },
   "content": {
-    "rendered": "<div style=\"background: #D69DE3 none repeat scroll 0% 0%;padding: 10px\">Objetivos: Conocer las herramientas b\u00e1sicas necesarias para editar documentos audiovisuales y carteler\u00eda</div>\n<div style=\"background: #D69DE3 none repeat scroll 0% 0%;padding: 10px\">2\u00aa SESI\u00d3N: Edici\u00f3n de V\u00eddeo</div>\n<div style=\"background: #D69DE3 none repeat scroll 0% 0%;padding: 10px\"><a href=\"http://parla.tomalosbarrios.net/files/2016/03/V\u00cdDEO.jpg\" rel=\"attachment wp-att-3594\"><img class=\"aligncenter wp-image-3594 size-medium\" src=\"http://parla.tomalosbarrios.net/files/2016/03/V\u00cdDEO-225x300.jpg\" alt=\"V\u00cdDEO\" width=\"225\" height=\"300\" /></a></div>\n<div style=\"background: #D69DE3 none repeat scroll 0% 0%;padding: 10px\">1\u00aa SESI\u00d3N: Edici\u00f3n de Imagen.</div>\n",
+    "rendered": "<div style=\"background: #D69DE3 none repeat scroll 0% 0%;padding: 10px\">Objetivos: Conocer las herramientas b\u00e1sicas necesarias para editar documentos audiovisuales y carteler\u00eda</div>\n<div style=\"background: #D69DE3 none repeat scroll 0% 0%;padding: 10px\">2\u00aa SESI\u00d3N: Edici\u00f3n de V\u00eddeo</div>\n<div style=\"background: #D69DE3 none repeat scroll 0% 0%;padding: 10px\"><a href=\"http://parla.tomalosbarrios.net/files/2016/03/V\u00cdDEO.jpg\" rel=\"attachment wp-att-3594\"><img loading=\"lazy\" class=\"aligncenter wp-image-3594 size-medium\" src=\"http://parla.tomalosbarrios.net/files/2016/03/V\u00cdDEO-225x300.jpg\" alt=\"V\u00cdDEO\" width=\"225\" height=\"300\" /></a></div>\n<div style=\"background: #D69DE3 none repeat scroll 0% 0%;padding: 10px\">1\u00aa SESI\u00d3N: Edici\u00f3n de Imagen.</div>\n",
     "protected": false
   },
   "excerpt": {
@@ -1897,14 +1861,8 @@
     ],
     "version-history": [
       {
-        "count": 10,
+        "count": 0,
         "href": "https://parla.tomalosbarrios.net/wp-json/wp/v2/pages/3424/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 3596,
-        "href": "https://parla.tomalosbarrios.net/wp-json/wp/v2/pages/3424/revisions/3596"
       }
     ],
     "wp:attachment": [
@@ -1937,11 +1895,11 @@
     "rendered": "ARQUEOLOG\u00cdA DE PARLA"
   },
   "content": {
-    "rendered": "<h3 style=\"text-align: left\">2\u00ba taller:</h3>\n<p>Objetivos: dar a conocer los hallazgos del yacimiento de &#171;las Dehesillas&#187; (Parla) correspondientes al periodo visigodo, de la mano de David Urquiaga, arque\u00f3logo.</p>\n<p>Enlace de referencia:</p>\n<p><a href=\"http://www.academia.edu/7775273/_Excavaciones_arqueol%C3%B3gicas_en_el_yacimiento_de_%C3%A9poca_visigoda_de_las_Dehesillas_Parla_Madrid_._Primeros_resultados_\" target=\"_blank\">\u00c9poca visigoda de &#171;Las Dehesillas&#187; en Parla (Madrid). Primeros resultados</a></p>\n<p>&nbsp;</p>\n<p><a href=\"http://parla.tomalosbarrios.net/files/2016/03/Arqueolog\u00eda-2.jpg\" rel=\"attachment wp-att-3605\"><img class=\"aligncenter wp-image-3605 size-medium\" src=\"http://parla.tomalosbarrios.net/files/2016/03/Arqueolog\u00eda-2-225x300.jpg\" alt=\"Arqueolog\u00eda 2\" width=\"225\" height=\"300\" srcset=\"https://parla.tomalosbarrios.net/files/2016/03/Arqueolog\u00eda-2-225x300.jpg 225w, https://parla.tomalosbarrios.net/files/2016/03/Arqueolog\u00eda-2.jpg 720w\" sizes=\"(max-width: 225px) 100vw, 225px\" /></a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<h3 style=\"text-align: center\"></h3>\n<h3 style=\"text-align: center\"></h3>\n<h3 style=\"text-align: center\"><strong>1er taller.31 de enero de 2016; 12:00 Casa de la Cultura de Parla</strong></h3>\n<p>Objetivos: Dar a conocer el patrimonio arqueol\u00f3gico de Parla, de la mano de Ra\u00fal Flores arque\u00f3logo que ha trabajado en el yacimiento del Humanejos en Parla.</p>\n<p><span style=\"text-decoration: underline\"><strong>Enlaces de apoyo:</strong></span></p>\n<p><strong><a href=\"http://www.rtve.es/m/alacarta/videos/la-aventura-del-saber/aventura-del-saber-serie-documental-tunel-del-tiempo-humanejos/2772391/?media=tve\" target=\"_blank\">V\u00eddeo del programa &#171;la aventura del saber&#187;</a></strong></p>\n<p><strong>Enlaces a documentos relacionados con el yacimiento del Humanejos Parla:</strong></p>\n<p><a href=\"https://www.academia.edu/9481782/Campaniforme_y_conflicto_social_Evidencias_del_yacimiento_de_Humanejos_Parla_Madrid\" target=\"_blank\">Campaniforme y conflicto social. Evidencias del yacimiento de Humanejos Parla</a></p>\n<p><a href=\"https://www.academia.edu/9482015/La_Necr%C3%B3polis_Isl%C3%A1mica_de_Humanejos_Parla_https://www.academia.edu/9482015/La_Necr%C3%B3polis_Isl%C3%A1mica_de_Humanejos_Parla_\" target=\"_blank\">La Necr\u00f3polis Isl\u00e1mica de Humanejos Parla</a></p>\n<p><a href=\"https://www.academia.edu/13956549/La_mujer_en_el_registro_funerario_campaniforme_y_su_reconocimiento_social._Women_in_the_funerary_Bell_Beaker_record_and_their_social_recognition\" target=\"_blank\">La mujer en el registro funerario campaniforme y su reconocimiento social</a></p>\n<p><a href=\"https://www.academia.edu/1796318/VIII.4._Elementos_de_adorno_simb%C3%B3licos_y_colorantes_en_contextos_funerarios_y_singulares\" target=\"_blank\">Elementos de adornos simb\u00f3licos y colorantes en contextos funerarios y singulares</a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
+    "rendered": "<h3 style=\"text-align: left\">2\u00ba taller:</h3>\n<p>Objetivos: dar a conocer los hallazgos del yacimiento de \u00ablas Dehesillas\u00bb (Parla) correspondientes al periodo visigodo, de la mano de David Urquiaga, arque\u00f3logo.</p>\n<p>Enlace de referencia:</p>\n<p><a href=\"http://www.academia.edu/7775273/_Excavaciones_arqueol%C3%B3gicas_en_el_yacimiento_de_%C3%A9poca_visigoda_de_las_Dehesillas_Parla_Madrid_._Primeros_resultados_\" target=\"_blank\">\u00c9poca visigoda de \u00abLas Dehesillas\u00bb en Parla (Madrid). Primeros resultados</a></p>\n<p>&nbsp;</p>\n<p><a href=\"http://parla.tomalosbarrios.net/files/2016/03/Arqueolog\u00eda-2.jpg\" rel=\"attachment wp-att-3605\"><img loading=\"lazy\" class=\"aligncenter wp-image-3605 size-medium\" src=\"http://parla.tomalosbarrios.net/files/2016/03/Arqueolog\u00eda-2-225x300.jpg\" alt=\"Arqueolog\u00eda 2\" width=\"225\" height=\"300\" srcset=\"https://parla.tomalosbarrios.net/files/2016/03/Arqueolog\u00eda-2-225x300.jpg 225w, https://parla.tomalosbarrios.net/files/2016/03/Arqueolog\u00eda-2.jpg 720w\" sizes=\"(max-width: 225px) 100vw, 225px\" /></a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<h3 style=\"text-align: center\"></h3>\n<h3 style=\"text-align: center\"></h3>\n<h3 style=\"text-align: center\"><strong>1er taller.31 de enero de 2016; 12:00 Casa de la Cultura de Parla</strong></h3>\n<p>Objetivos: Dar a conocer el patrimonio arqueol\u00f3gico de Parla, de la mano de Ra\u00fal Flores arque\u00f3logo que ha trabajado en el yacimiento del Humanejos en Parla.</p>\n<p><span style=\"text-decoration: underline\"><strong>Enlaces de apoyo:</strong></span></p>\n<p><strong><a href=\"http://www.rtve.es/m/alacarta/videos/la-aventura-del-saber/aventura-del-saber-serie-documental-tunel-del-tiempo-humanejos/2772391/?media=tve\" target=\"_blank\">V\u00eddeo del programa \u00abla aventura del saber\u00bb</a></strong></p>\n<p><strong>Enlaces a documentos relacionados con el yacimiento del Humanejos Parla:</strong></p>\n<p><a href=\"https://www.academia.edu/9481782/Campaniforme_y_conflicto_social_Evidencias_del_yacimiento_de_Humanejos_Parla_Madrid\" target=\"_blank\">Campaniforme y conflicto social. Evidencias del yacimiento de Humanejos Parla</a></p>\n<p><a href=\"https://www.academia.edu/9482015/La_Necr%C3%B3polis_Isl%C3%A1mica_de_Humanejos_Parla_https://www.academia.edu/9482015/La_Necr%C3%B3polis_Isl%C3%A1mica_de_Humanejos_Parla_\" target=\"_blank\">La Necr\u00f3polis Isl\u00e1mica de Humanejos Parla</a></p>\n<p><a href=\"https://www.academia.edu/13956549/La_mujer_en_el_registro_funerario_campaniforme_y_su_reconocimiento_social._Women_in_the_funerary_Bell_Beaker_record_and_their_social_recognition\" target=\"_blank\">La mujer en el registro funerario campaniforme y su reconocimiento social</a></p>\n<p><a href=\"https://www.academia.edu/1796318/VIII.4._Elementos_de_adorno_simb%C3%B3licos_y_colorantes_en_contextos_funerarios_y_singulares\" target=\"_blank\">Elementos de adornos simb\u00f3licos y colorantes en contextos funerarios y singulares</a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>2\u00ba taller: Objetivos: dar a conocer los hallazgos del yacimiento de &#171;las Dehesillas&#187; (Parla) correspondientes al periodo visigodo, de la mano de David Urquiaga, arque\u00f3logo. Enlace de referencia: \u00c9poca visigoda de &#171;Las Dehesillas&#187; en Parla (Madrid). Primeros resultados &nbsp; &nbsp; &nbsp; 1er taller.31 de enero de 2016; 12:00 Casa de la Cultura de Parla Objetivos: <a href='https://parla.tomalosbarrios.net/arqueologia-de-parla/' class='excerpt-more'>[&#8230;]</a></p>\n",
+    "rendered": "<p>2\u00ba taller: Objetivos: dar a conocer los hallazgos del yacimiento de \u00ablas Dehesillas\u00bb (Parla) correspondientes al periodo visigodo, de la mano de David Urquiaga, arque\u00f3logo. Enlace de referencia: \u00c9poca visigoda de \u00abLas Dehesillas\u00bb en Parla (Madrid). Primeros resultados &nbsp; &nbsp; &nbsp; 1er taller.31 de enero de 2016; 12:00 Casa de la Cultura de Parla Objetivos: <a href='https://parla.tomalosbarrios.net/arqueologia-de-parla/' class='excerpt-more'>[&#8230;]</a></p>\n",
     "protected": false
   },
   "author": 138,
@@ -1982,14 +1940,8 @@
     ],
     "version-history": [
       {
-        "count": 15,
+        "count": 0,
         "href": "https://parla.tomalosbarrios.net/wp-json/wp/v2/pages/3422/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 3609,
-        "href": "https://parla.tomalosbarrios.net/wp-json/wp/v2/pages/3422/revisions/3609"
       }
     ],
     "wp:attachment": [
@@ -2022,7 +1974,7 @@
     "rendered": "ECONOM\u00cdA B\u00c1SICA"
   },
   "content": {
-    "rendered": "<p>3\u00ba TALLER DE ECONOM\u00cdA B\u00c1SICA</p>\n<p>&nbsp;</p>\n<p><a href=\"http://parla.tomalosbarrios.net/files/2016/01/banca-\u00e9tica-y-consumo-energ\u00e9tico.jpg\"><img class=\"aligncenter wp-image-3623 size-medium\" src=\"http://parla.tomalosbarrios.net/files/2016/01/banca-\u00e9tica-y-consumo-energ\u00e9tico-225x300.jpg\" alt=\"banca \u00e9tica y consumo energ\u00e9tico\" width=\"225\" height=\"300\" srcset=\"https://parla.tomalosbarrios.net/files/2016/01/banca-\u00e9tica-y-consumo-energ\u00e9tico-225x300.jpg 225w, https://parla.tomalosbarrios.net/files/2016/01/banca-\u00e9tica-y-consumo-energ\u00e9tico.jpg 720w\" sizes=\"(max-width: 225px) 100vw, 225px\" /></a></p>\n<p>2\u00aa TALLER DE ECON\u00d3M\u00cdA B\u00c1SICA</p>\n<p>Trataremos el tema de las cooperativas integrales</p>\n<p><a href=\"http://parla.tomalosbarrios.net/files/2016/03/2-econom\u00eda.jpg\" rel=\"attachment wp-att-3601\"><img class=\"aligncenter wp-image-3601 size-medium\" src=\"http://parla.tomalosbarrios.net/files/2016/03/2-econom\u00eda-225x300.jpg\" alt=\"2 econom\u00eda\" width=\"225\" height=\"300\" /></a></p>\n<p>Objetivos:</p>\n<p>Manejar y entender conceptos b\u00e1sicos de econom\u00eda que aparecen en los medios de comunicaci\u00f3n y ver la transferencia que tienen en la vida cotidiana, a nivel individual y colectivo.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
+    "rendered": "<p>3\u00ba TALLER DE ECONOM\u00cdA B\u00c1SICA</p>\n<p>&nbsp;</p>\n<p><a href=\"http://parla.tomalosbarrios.net/files/2016/01/banca-\u00e9tica-y-consumo-energ\u00e9tico.jpg\"><img loading=\"lazy\" class=\"aligncenter wp-image-3623 size-medium\" src=\"http://parla.tomalosbarrios.net/files/2016/01/banca-\u00e9tica-y-consumo-energ\u00e9tico-225x300.jpg\" alt=\"banca \u00e9tica y consumo energ\u00e9tico\" width=\"225\" height=\"300\" srcset=\"https://parla.tomalosbarrios.net/files/2016/01/banca-\u00e9tica-y-consumo-energ\u00e9tico-225x300.jpg 225w, https://parla.tomalosbarrios.net/files/2016/01/banca-\u00e9tica-y-consumo-energ\u00e9tico.jpg 720w\" sizes=\"(max-width: 225px) 100vw, 225px\" /></a></p>\n<p>2\u00aa TALLER DE ECON\u00d3M\u00cdA B\u00c1SICA</p>\n<p>Trataremos el tema de las cooperativas integrales</p>\n<p><a href=\"http://parla.tomalosbarrios.net/files/2016/03/2-econom\u00eda.jpg\" rel=\"attachment wp-att-3601\"><img loading=\"lazy\" class=\"aligncenter wp-image-3601 size-medium\" src=\"http://parla.tomalosbarrios.net/files/2016/03/2-econom\u00eda-225x300.jpg\" alt=\"2 econom\u00eda\" width=\"225\" height=\"300\" /></a></p>\n<p>Objetivos:</p>\n<p>Manejar y entender conceptos b\u00e1sicos de econom\u00eda que aparecen en los medios de comunicaci\u00f3n y ver la transferencia que tienen en la vida cotidiana, a nivel individual y colectivo.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -2067,14 +2019,8 @@
     ],
     "version-history": [
       {
-        "count": 13,
+        "count": 0,
         "href": "https://parla.tomalosbarrios.net/wp-json/wp/v2/pages/3420/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 3624,
-        "href": "https://parla.tomalosbarrios.net/wp-json/wp/v2/pages/3420/revisions/3624"
       }
     ],
     "wp:attachment": [
@@ -2152,14 +2098,8 @@
     ],
     "version-history": [
       {
-        "count": 9,
+        "count": 0,
         "href": "https://parla.tomalosbarrios.net/wp-json/wp/v2/pages/3418/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 3560,
-        "href": "https://parla.tomalosbarrios.net/wp-json/wp/v2/pages/3418/revisions/3560"
       }
     ],
     "wp:attachment": [
@@ -2197,7 +2137,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://parla.tomalosbarrios.net/files/2016/01/Cine-Parladiso.jpg'><img width=\"300\" height=\"300\" src=\"https://parla.tomalosbarrios.net/files/2016/01/Cine-Parladiso-300x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://parla.tomalosbarrios.net/files/2016/01/Cine-Parladiso-300x300.jpg 300w, https://parla.tomalosbarrios.net/files/2016/01/Cine-Parladiso-150x150.jpg 150w, https://parla.tomalosbarrios.net/files/2016/01/Cine-Parladiso-144x144.jpg 144w, https://parla.tomalosbarrios.net/files/2016/01/Cine-Parladiso.jpg 597w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://parla.tomalosbarrios.net/files/2016/01/Cine-Parladiso.jpg'><img width=\"300\" height=\"300\" src=\"https://parla.tomalosbarrios.net/files/2016/01/Cine-Parladiso-300x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://parla.tomalosbarrios.net/files/2016/01/Cine-Parladiso-300x300.jpg 300w, https://parla.tomalosbarrios.net/files/2016/01/Cine-Parladiso-150x150.jpg 150w, https://parla.tomalosbarrios.net/files/2016/01/Cine-Parladiso-144x144.jpg 144w, https://parla.tomalosbarrios.net/files/2016/01/Cine-Parladiso.jpg 597w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2307,7 +2247,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://parla.tomalosbarrios.net/files/2016/01/manos-que-hablan.png'><img width=\"300\" height=\"183\" src=\"https://parla.tomalosbarrios.net/files/2016/01/manos-que-hablan-300x183.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://parla.tomalosbarrios.net/files/2016/01/manos-que-hablan-300x183.png 300w, https://parla.tomalosbarrios.net/files/2016/01/manos-que-hablan-768x469.png 768w, https://parla.tomalosbarrios.net/files/2016/01/manos-que-hablan-1024x626.png 1024w, https://parla.tomalosbarrios.net/files/2016/01/manos-que-hablan.png 1443w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://parla.tomalosbarrios.net/files/2016/01/manos-que-hablan.png'><img width=\"300\" height=\"183\" src=\"https://parla.tomalosbarrios.net/files/2016/01/manos-que-hablan-300x183.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://parla.tomalosbarrios.net/files/2016/01/manos-que-hablan-300x183.png 300w, https://parla.tomalosbarrios.net/files/2016/01/manos-que-hablan-768x469.png 768w, https://parla.tomalosbarrios.net/files/2016/01/manos-que-hablan-1024x626.png 1024w, https://parla.tomalosbarrios.net/files/2016/01/manos-que-hablan.png 1443w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2550,7 +2490,7 @@
     "rendered": "Cinema Parladiso"
   },
   "content": {
-    "rendered": "<p style=\"text-align: center\"><a href=\"http://parla.tomalosbarrios.net/files/2016/01/Cine-Parladiso.jpg\" rel=\"attachment wp-att-3403\"><img class=\"alignleft wp-image-3403\" src=\"http://parla.tomalosbarrios.net/files/2016/01/Cine-Parladiso-150x150.jpg\" alt=\"Cine Parladiso\" width=\"75\" height=\"75\" srcset=\"https://parla.tomalosbarrios.net/files/2016/01/Cine-Parladiso-150x150.jpg 150w, https://parla.tomalosbarrios.net/files/2016/01/Cine-Parladiso-300x300.jpg 300w, https://parla.tomalosbarrios.net/files/2016/01/Cine-Parladiso-144x144.jpg 144w, https://parla.tomalosbarrios.net/files/2016/01/Cine-Parladiso.jpg 597w\" sizes=\"(max-width: 75px) 100vw, 75px\" /></a><a href=\"http://parla.tomalosbarrios.net/files/2016/01/cinema.png\" rel=\"attachment wp-att-3514\"><img class=\"aligncenter size-full wp-image-3514\" src=\"http://parla.tomalosbarrios.net/files/2016/01/cinema.png\" alt=\"cinema\" width=\"999\" height=\"692\" /></a></p>\n",
+    "rendered": "<p style=\"text-align: center\"><a href=\"http://parla.tomalosbarrios.net/files/2016/01/Cine-Parladiso.jpg\" rel=\"attachment wp-att-3403\"><img loading=\"lazy\" class=\"alignleft wp-image-3403\" src=\"http://parla.tomalosbarrios.net/files/2016/01/Cine-Parladiso-150x150.jpg\" alt=\"Cine Parladiso\" width=\"75\" height=\"75\" srcset=\"https://parla.tomalosbarrios.net/files/2016/01/Cine-Parladiso-150x150.jpg 150w, https://parla.tomalosbarrios.net/files/2016/01/Cine-Parladiso-300x300.jpg 300w, https://parla.tomalosbarrios.net/files/2016/01/Cine-Parladiso-144x144.jpg 144w, https://parla.tomalosbarrios.net/files/2016/01/Cine-Parladiso.jpg 597w\" sizes=\"(max-width: 75px) 100vw, 75px\" /></a><a href=\"http://parla.tomalosbarrios.net/files/2016/01/cinema.png\" rel=\"attachment wp-att-3514\"><img loading=\"lazy\" class=\"aligncenter size-full wp-image-3514\" src=\"http://parla.tomalosbarrios.net/files/2016/01/cinema.png\" alt=\"cinema\" width=\"999\" height=\"692\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -2595,14 +2535,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://parla.tomalosbarrios.net/wp-json/wp/v2/pages/3396/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 3515,
-        "href": "https://parla.tomalosbarrios.net/wp-json/wp/v2/pages/3396/revisions/3515"
       }
     ],
     "wp:attachment": [
@@ -2680,14 +2614,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://parla.tomalosbarrios.net/wp-json/wp/v2/pages/3392/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 3411,
-        "href": "https://parla.tomalosbarrios.net/wp-json/wp/v2/pages/3392/revisions/3411"
       }
     ],
     "wp:attachment": [
@@ -2765,14 +2693,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://parla.tomalosbarrios.net/wp-json/wp/v2/pages/3383/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 3470,
-        "href": "https://parla.tomalosbarrios.net/wp-json/wp/v2/pages/3383/revisions/3470"
       }
     ],
     "wp:attachment": [
@@ -2805,11 +2727,11 @@
     "rendered": "FRANC\u00c9S"
   },
   "content": {
-    "rendered": "<div style=\"background: #D69DE3 none repeat scroll 0% 0%;padding: 10px\">\n<p><strong>7\u00aa Sesi\u00f3n</strong>. La femme. Les feminismes.</p>\n<ul>\n<li>A partir de un peque\u00f1o texto y de un video relacionado con el tema charlaremos sobre conceptos como feminismos, igualdad, etc.</li>\n<li>Materiales de apoyo:\n<ul>\n<li>http://www.tcmfm.ca/fichiers_tcmfm/documents/Texte_Introduction_au_f%E9minisme.pdf</li>\n<li>https://www.youtube.com/watch?v=oRuHLjjTxc8</li>\n<li><a href=\"http://parla.tomalosbarrios.net/files/2016/01/cartel-la-femme.jpg\" rel=\"attachment wp-att-3612\"><img class=\"aligncenter wp-image-3612 size-medium\" src=\"http://parla.tomalosbarrios.net/files/2016/01/cartel-la-femme-225x300.jpg\" alt=\"cartel la femme\" width=\"225\" height=\"300\" srcset=\"https://parla.tomalosbarrios.net/files/2016/01/cartel-la-femme-225x300.jpg 225w, https://parla.tomalosbarrios.net/files/2016/01/cartel-la-femme.jpg 720w\" sizes=\"(max-width: 225px) 100vw, 225px\" /></a></li>\n</ul>\n</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>6\u00aa SESI\u00d3N</strong>. Tema: Pel\u00edcula &#171;La Familia B\u00e9lier&#187;</p>\n<ul>\n<li>A trav\u00e9s del argumento de la pel\u00edcula conversaremos sobre diversidad funcional, integraci\u00f3n, etc.</li>\n<li>Materiales de apoyo:\n<ul>\n<li>http://focus.tv5monde.com/lefrancaisensignes/</li>\n<li><a href=\"https://www.youtube.com/watch?v=rrTDwVG6t0o\">https://www.youtube.com/watch?v=rrTDwVG6t0o</a></li>\n<li>Depuis sa sortie, il y a trois semaines, \u00ab La Famille B\u00e9lier \u00bb est ovationn\u00e9 par la critique et fait un carton au box office. Le film vient m\u00eame de d\u00e9passer les trois millions d\u2019entr\u00e9es et a \u00e9t\u00e9 vendu dans le monde entier. Pourtant, il ne convainc pas totalement la communaut\u00e9 sourde.<br />\n&#187; Avec La Famille B\u00e9lier, j&#8217;ai su que j&#8217;avais r\u00e9alis\u00e9 un bon film &#187; a d\u00e9clar\u00e9 Eric Lartigau, le r\u00e9alisateur du film, \u00e0 la revue Premi\u00e8re, le mois dernier. Un bon film, certes, mais un film qui s&#8217;int\u00e9resse au monde des sourds sans \u00eatre vraiment \u00e0 la port\u00e9e de ces derniers. &#187; La Famille B\u00e9lier &#187; raconte l&#8217;histoire de Paula, une jeune fille de 16 ans, seule personne entendante de sa famille. C&#8217;est elle qui sert d&#8217;interpr\u00e8te entre ses parents agriculteurs et d&#8217;autres interlocuteurs, pour assurer la gestion de leur ferme. Si le film permet aux personnes entendantes de se rapprocher du monde des sourds, il suscite la controverse dans la communaut\u00e9 de ces derniers.<br />\nUn manque de sous-titres<br />\nAur\u00e9lie Peyrard \u00e0 36 ans, elle est sourde depuis l\u2019enfance. La semaine derni\u00e8re, elle est all\u00e9e voir le film dans une salle parisienne. &#187; Je n\u2019avais jamais vu de film traiter de ce sujet, j\u2019\u00e9tais donc tr\u00e8s impatiente. &#187; Finalement, elle a \u00e9t\u00e9 d\u00e9\u00e7ue. &#187; Je n\u2019ai pu comprendre que la moiti\u00e9 du film, car il n\u2019est pas enti\u00e8rement sous-titr\u00e9. &#187; En effet, seul les passages se d\u00e9roulant dans la ferme o\u00f9 vit la famille B\u00e9lier sont sous-titr\u00e9s. Une fa\u00e7on de permettre au public entendant de comprendre les dialogues en langue des signes</li>\n</ul>\n</li>\n</ul>\n<p><strong>5\u00aa SESI\u00d3N</strong>. Tema: la obsolescencia programada</p>\n<ul>\n<li>Materiales de apoyo</li>\n</ul>\n<p><iframe width=\"695\" height=\"391\" src=\"https://www.youtube.com/embed/gQAKTzQdMAA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe></p>\n<p>L\u2019obsolescence programm\u00e9e est une strat\u00e9gie visant \u00e0 r\u00e9duire la dur\u00e9e de vie d\u2019un produit pour augmenter son taux de remplacement et provoquer un nouvel achat pr\u00e9matur\u00e9ment.</p>\n<p>\u00ab C\u2019est inculquer \u00e0 l\u2019acheteur le d\u00e9sir de poss\u00e9der quelque chose d\u2019un peu plus r\u00e9cent, un peu meilleur et un peu plus t\u00f4t que ce qui est n\u00e9cessaire \u00bb<br />\nBrooks Stevens, designer industriel am\u00e9ricain, 1954.</p>\n<p>Ces pratiques des constructeurs mises en place de fa\u00e7on plus ou moins concert\u00e9e et consciente sont d\u00e9nonc\u00e9es par les associations environnementales comme Les Amis de la Terre. Avec les fortes probl\u00e9matiques environnementales et \u00e9conomiques qu\u2019elles posent, les strat\u00e9gies de croissance des industriels fond\u00e9es sur une surconsommation sont aujourd\u2019hui fortement remises en cause.</p>\n<p>Avec une forte acc\u00e9l\u00e9ration de l\u2019innovation technologique, les produits sont devenus toujours plus performants mais \u00e9galement moins r\u00e9sistants et plus rapidement renouvel\u00e9s. Les m\u00e9canismes impliqu\u00e9s dans cette obsolescence des objets peuvent \u00eatre techniques (r\u00e9parabilit\u00e9, compatibilit\u00e9 avec les avanc\u00e9es technologiques) mais \u00e9galement de l\u2019ordre du psychologique lorsque le consommateur est pouss\u00e9 \u00e0 acheter un nouveau produit alors que l\u2019ancien fonctionne encore\u2026</p>\n<p><strong>4\u00aa SESI\u00d3N</strong><strong>Tema: </strong>La educaci\u00f3n</p>\n<ul>\n<li><strong><u>Materiales de apoyo\u00a0</u></strong></li>\n</ul>\n<ul>\n<li><strong><u>Videoclips de </u></strong>&#171;Grand corps malade&#187;</li>\n</ul>\n<p><a href=\"https://www.youtube.com/watch?v=aN8imXxeVAM\">https://www.youtube.com/watch?v=aN8imXxeVAM</a> (l\u00b4\u00e9cole de la vie&#187;)</p>\n<p><a href=\"https://www.youtube.com/watch?v=VMiqD990Yb8\">https://www.youtube.com/watch?v=VMiqD990Yb8</a> (&#171;\u00c9ducation nationale&#187;)</p>\n<ul>\n<li>Texto del libro &#171;Chagrin d\u00b4\u00e9cole&#187; de Daniel Pennac</li>\n</ul>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&#171;Donc, j\u2019\u00e9tais un mauvais \u00e9l\u00e8ve. Chaque soir de mon enfance, je rentrais \u00e0 la</p>\n<p>maison poursuivi par l\u2019\u00e9cole. Mes carnets disaient la r\u00e9probation de mes ma\u00eetres.</p>\n<p>Quand je n\u2019\u00e9tais pas le dernier de ma classe, c\u2019est que j\u2019en \u00e9tais l\u2019avant-dernier.</p>\n<p>(Champagne\u00a0\u00a0 !)\u00a0\u00a0 Ferm\u00e9\u00a0\u00a0 \u00e0\u00a0\u00a0 l\u2019arithm\u00e9tique\u00a0\u00a0 d\u2019abord,\u00a0\u00a0 aux\u00a0\u00a0 math\u00e9matiques\u00a0\u00a0 ensuite,</p>\n<p>profond\u00e9ment dysorthographique, r\u00e9tif \u00e0 la m\u00e9morisation des dates et \u00e0 la localisation</p>\n<p>des lieux g\u00e9ographiques, inapte \u00e0 l\u2019apprentissage des langues \u00e9trang\u00e8res, r\u00e9put\u00e9</p>\n<p>paresseux (le\u00e7ons non apprises, travail non fait), je rapportais \u00e0 la maison des</p>\n<p>r\u00e9sultats pitoyables que ne rachetaient ni la musique, ni le sport, ni d\u2019ailleurs aucune</p>\n<p>activit\u00e9 parascolaire&#187;.</p>\n<p>&nbsp;</p>\n<ul>\n<li><strong><u>Propuesta de desarrollo\u00a0</u></strong></li>\n</ul>\n<ul>\n<li>Peque\u00f1o debate introductorio sobre conceptps b\u00e1sicos: Que signifie apprendre pour nous? qu\u00b4est-ce que \u00e7a veut dire les termes &#171;\u00e9cole, apprentissage, \u00e9ducation, etc.</li>\n</ul>\n<ul>\n<li>Si el grupo lo decide <strong>se puede visionar primero </strong>el video clip &#171;l\u00b4ecole de la vie&#187; de Grand corps Malade de donde podemos extaer un vocabulario b\u00e1sico para manejarnos en la conversaci\u00f3n. Tambi\u00e9n la lectura y comentario del texto de Daniel Pennac.</li>\n</ul>\n<p style=\"padding-left: 30px\">Podemos recuperar peque\u00f1os detalles de cada persona sobre sus recuerdos de colegio. (verbos rappeler, se souvenir de, )</p>\n</div>\n<p style=\"padding-left: 30px;text-align: center\"><strong>PR\u00d3XIMAS SESIONES</strong></p>\n<p>&nbsp;</p>\n<div style=\"background: #D69DE3 none repeat scroll 0% 0%;padding: 10px\"></div>\n<p><a href=\"http://parla.tomalosbarrios.net/files/2015/12/FRANC\u00c9S-2.jpg\" rel=\"attachment wp-att-3529\"><img class=\"wp-image-3529 size-medium aligncenter\" src=\"http://parla.tomalosbarrios.net/files/2015/12/FRANC\u00c9S-2-212x300.jpg\" alt=\"FRANC\u00c9S 2\" width=\"212\" height=\"300\" /></a></p>\n",
+    "rendered": "<div style=\"background: #D69DE3 none repeat scroll 0% 0%;padding: 10px\">\n<p><strong>7\u00aa Sesi\u00f3n</strong>. La femme. Les feminismes.</p>\n<ul>\n<li>A partir de un peque\u00f1o texto y de un video relacionado con el tema charlaremos sobre conceptos como feminismos, igualdad, etc.</li>\n<li>Materiales de apoyo:\n<ul>\n<li>http://www.tcmfm.ca/fichiers_tcmfm/documents/Texte_Introduction_au_f%E9minisme.pdf</li>\n<li>https://www.youtube.com/watch?v=oRuHLjjTxc8</li>\n<li><a href=\"http://parla.tomalosbarrios.net/files/2016/01/cartel-la-femme.jpg\" rel=\"attachment wp-att-3612\"><img loading=\"lazy\" class=\"aligncenter wp-image-3612 size-medium\" src=\"http://parla.tomalosbarrios.net/files/2016/01/cartel-la-femme-225x300.jpg\" alt=\"cartel la femme\" width=\"225\" height=\"300\" srcset=\"https://parla.tomalosbarrios.net/files/2016/01/cartel-la-femme-225x300.jpg 225w, https://parla.tomalosbarrios.net/files/2016/01/cartel-la-femme.jpg 720w\" sizes=\"(max-width: 225px) 100vw, 225px\" /></a></li>\n</ul>\n</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>6\u00aa SESI\u00d3N</strong>. Tema: Pel\u00edcula \u00abLa Familia B\u00e9lier\u00bb</p>\n<ul>\n<li>A trav\u00e9s del argumento de la pel\u00edcula conversaremos sobre diversidad funcional, integraci\u00f3n, etc.</li>\n<li>Materiales de apoyo:\n<ul>\n<li>http://focus.tv5monde.com/lefrancaisensignes/</li>\n<li><a href=\"https://www.youtube.com/watch?v=rrTDwVG6t0o\">https://www.youtube.com/watch?v=rrTDwVG6t0o</a></li>\n<li>Depuis sa sortie, il y a trois semaines, \u00ab La Famille B\u00e9lier \u00bb est ovationn\u00e9 par la critique et fait un carton au box office. Le film vient m\u00eame de d\u00e9passer les trois millions d\u2019entr\u00e9es et a \u00e9t\u00e9 vendu dans le monde entier. Pourtant, il ne convainc pas totalement la communaut\u00e9 sourde.<br />\n\u00bb Avec La Famille B\u00e9lier, j&#8217;ai su que j&#8217;avais r\u00e9alis\u00e9 un bon film \u00bb a d\u00e9clar\u00e9 Eric Lartigau, le r\u00e9alisateur du film, \u00e0 la revue Premi\u00e8re, le mois dernier. Un bon film, certes, mais un film qui s&#8217;int\u00e9resse au monde des sourds sans \u00eatre vraiment \u00e0 la port\u00e9e de ces derniers. \u00bb La Famille B\u00e9lier \u00bb raconte l&#8217;histoire de Paula, une jeune fille de 16 ans, seule personne entendante de sa famille. C&#8217;est elle qui sert d&#8217;interpr\u00e8te entre ses parents agriculteurs et d&#8217;autres interlocuteurs, pour assurer la gestion de leur ferme. Si le film permet aux personnes entendantes de se rapprocher du monde des sourds, il suscite la controverse dans la communaut\u00e9 de ces derniers.<br />\nUn manque de sous-titres<br />\nAur\u00e9lie Peyrard \u00e0 36 ans, elle est sourde depuis l\u2019enfance. La semaine derni\u00e8re, elle est all\u00e9e voir le film dans une salle parisienne. \u00bb Je n\u2019avais jamais vu de film traiter de ce sujet, j\u2019\u00e9tais donc tr\u00e8s impatiente. \u00bb Finalement, elle a \u00e9t\u00e9 d\u00e9\u00e7ue. \u00bb Je n\u2019ai pu comprendre que la moiti\u00e9 du film, car il n\u2019est pas enti\u00e8rement sous-titr\u00e9. \u00bb En effet, seul les passages se d\u00e9roulant dans la ferme o\u00f9 vit la famille B\u00e9lier sont sous-titr\u00e9s. Une fa\u00e7on de permettre au public entendant de comprendre les dialogues en langue des signes</li>\n</ul>\n</li>\n</ul>\n<p><strong>5\u00aa SESI\u00d3N</strong>. Tema: la obsolescencia programada</p>\n<ul>\n<li>Materiales de apoyo</li>\n</ul>\n<p><iframe width=\"695\" height=\"391\" src=\"https://www.youtube.com/embed/gQAKTzQdMAA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe></p>\n<p>L\u2019obsolescence programm\u00e9e est une strat\u00e9gie visant \u00e0 r\u00e9duire la dur\u00e9e de vie d\u2019un produit pour augmenter son taux de remplacement et provoquer un nouvel achat pr\u00e9matur\u00e9ment.</p>\n<p>\u00ab C\u2019est inculquer \u00e0 l\u2019acheteur le d\u00e9sir de poss\u00e9der quelque chose d\u2019un peu plus r\u00e9cent, un peu meilleur et un peu plus t\u00f4t que ce qui est n\u00e9cessaire \u00bb<br />\nBrooks Stevens, designer industriel am\u00e9ricain, 1954.</p>\n<p>Ces pratiques des constructeurs mises en place de fa\u00e7on plus ou moins concert\u00e9e et consciente sont d\u00e9nonc\u00e9es par les associations environnementales comme Les Amis de la Terre. Avec les fortes probl\u00e9matiques environnementales et \u00e9conomiques qu\u2019elles posent, les strat\u00e9gies de croissance des industriels fond\u00e9es sur une surconsommation sont aujourd\u2019hui fortement remises en cause.</p>\n<p>Avec une forte acc\u00e9l\u00e9ration de l\u2019innovation technologique, les produits sont devenus toujours plus performants mais \u00e9galement moins r\u00e9sistants et plus rapidement renouvel\u00e9s. Les m\u00e9canismes impliqu\u00e9s dans cette obsolescence des objets peuvent \u00eatre techniques (r\u00e9parabilit\u00e9, compatibilit\u00e9 avec les avanc\u00e9es technologiques) mais \u00e9galement de l\u2019ordre du psychologique lorsque le consommateur est pouss\u00e9 \u00e0 acheter un nouveau produit alors que l\u2019ancien fonctionne encore\u2026</p>\n<p><strong>4\u00aa SESI\u00d3N</strong><strong>Tema: </strong>La educaci\u00f3n</p>\n<ul>\n<li><strong><u>Materiales de apoyo\u00a0</u></strong></li>\n</ul>\n<ul>\n<li><strong><u>Videoclips de </u></strong>\u00abGrand corps malade\u00bb</li>\n</ul>\n<p><a href=\"https://www.youtube.com/watch?v=aN8imXxeVAM\">https://www.youtube.com/watch?v=aN8imXxeVAM</a> (l\u00b4\u00e9cole de la vie\u00bb)</p>\n<p><a href=\"https://www.youtube.com/watch?v=VMiqD990Yb8\">https://www.youtube.com/watch?v=VMiqD990Yb8</a> (\u00ab\u00c9ducation nationale\u00bb)</p>\n<ul>\n<li>Texto del libro \u00abChagrin d\u00b4\u00e9cole\u00bb de Daniel Pennac</li>\n</ul>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>\u00abDonc, j\u2019\u00e9tais un mauvais \u00e9l\u00e8ve. Chaque soir de mon enfance, je rentrais \u00e0 la</p>\n<p>maison poursuivi par l\u2019\u00e9cole. Mes carnets disaient la r\u00e9probation de mes ma\u00eetres.</p>\n<p>Quand je n\u2019\u00e9tais pas le dernier de ma classe, c\u2019est que j\u2019en \u00e9tais l\u2019avant-dernier.</p>\n<p>(Champagne\u00a0\u00a0 !)\u00a0\u00a0 Ferm\u00e9\u00a0\u00a0 \u00e0\u00a0\u00a0 l\u2019arithm\u00e9tique\u00a0\u00a0 d\u2019abord,\u00a0\u00a0 aux\u00a0\u00a0 math\u00e9matiques\u00a0\u00a0 ensuite,</p>\n<p>profond\u00e9ment dysorthographique, r\u00e9tif \u00e0 la m\u00e9morisation des dates et \u00e0 la localisation</p>\n<p>des lieux g\u00e9ographiques, inapte \u00e0 l\u2019apprentissage des langues \u00e9trang\u00e8res, r\u00e9put\u00e9</p>\n<p>paresseux (le\u00e7ons non apprises, travail non fait), je rapportais \u00e0 la maison des</p>\n<p>r\u00e9sultats pitoyables que ne rachetaient ni la musique, ni le sport, ni d\u2019ailleurs aucune</p>\n<p>activit\u00e9 parascolaire\u00bb.</p>\n<p>&nbsp;</p>\n<ul>\n<li><strong><u>Propuesta de desarrollo\u00a0</u></strong></li>\n</ul>\n<ul>\n<li>Peque\u00f1o debate introductorio sobre conceptps b\u00e1sicos: Que signifie apprendre pour nous? qu\u00b4est-ce que \u00e7a veut dire les termes \u00ab\u00e9cole, apprentissage, \u00e9ducation, etc.</li>\n</ul>\n<ul>\n<li>Si el grupo lo decide <strong>se puede visionar primero </strong>el video clip \u00abl\u00b4ecole de la vie\u00bb de Grand corps Malade de donde podemos extaer un vocabulario b\u00e1sico para manejarnos en la conversaci\u00f3n. Tambi\u00e9n la lectura y comentario del texto de Daniel Pennac.</li>\n</ul>\n<p style=\"padding-left: 30px\">Podemos recuperar peque\u00f1os detalles de cada persona sobre sus recuerdos de colegio. (verbos rappeler, se souvenir de, )</p>\n</div>\n<p style=\"padding-left: 30px;text-align: center\"><strong>PR\u00d3XIMAS SESIONES</strong></p>\n<p>&nbsp;</p>\n<div style=\"background: #D69DE3 none repeat scroll 0% 0%;padding: 10px\"></div>\n<p><a href=\"http://parla.tomalosbarrios.net/files/2015/12/FRANC\u00c9S-2.jpg\" rel=\"attachment wp-att-3529\"><img loading=\"lazy\" class=\"wp-image-3529 size-medium aligncenter\" src=\"http://parla.tomalosbarrios.net/files/2015/12/FRANC\u00c9S-2-212x300.jpg\" alt=\"FRANC\u00c9S 2\" width=\"212\" height=\"300\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>7\u00aa Sesi\u00f3n. La femme. Les feminismes. A partir de un peque\u00f1o texto y de un video relacionado con el tema charlaremos sobre conceptos como feminismos, igualdad, etc. Materiales de apoyo: http://www.tcmfm.ca/fichiers_tcmfm/documents/Texte_Introduction_au_f%E9minisme.pdf https://www.youtube.com/watch?v=oRuHLjjTxc8 &nbsp; 6\u00aa SESI\u00d3N. Tema: Pel\u00edcula &#171;La Familia B\u00e9lier&#187; A trav\u00e9s del argumento de la pel\u00edcula conversaremos sobre diversidad funcional, integraci\u00f3n, etc. Materiales de <a href='https://parla.tomalosbarrios.net/frances/' class='excerpt-more'>[&#8230;]</a></p>\n",
+    "rendered": "<p>7\u00aa Sesi\u00f3n. La femme. Les feminismes. A partir de un peque\u00f1o texto y de un video relacionado con el tema charlaremos sobre conceptos como feminismos, igualdad, etc. Materiales de apoyo: http://www.tcmfm.ca/fichiers_tcmfm/documents/Texte_Introduction_au_f%E9minisme.pdf https://www.youtube.com/watch?v=oRuHLjjTxc8 &nbsp; 6\u00aa SESI\u00d3N. Tema: Pel\u00edcula \u00abLa Familia B\u00e9lier\u00bb A trav\u00e9s del argumento de la pel\u00edcula conversaremos sobre diversidad funcional, integraci\u00f3n, etc. Materiales de <a href='https://parla.tomalosbarrios.net/frances/' class='excerpt-more'>[&#8230;]</a></p>\n",
     "protected": false
   },
   "author": 138,
@@ -2850,14 +2772,8 @@
     ],
     "version-history": [
       {
-        "count": 16,
+        "count": 0,
         "href": "https://parla.tomalosbarrios.net/wp-json/wp/v2/pages/3381/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 3613,
-        "href": "https://parla.tomalosbarrios.net/wp-json/wp/v2/pages/3381/revisions/3613"
       }
     ],
     "wp:attachment": [
@@ -2935,14 +2851,8 @@
     ],
     "version-history": [
       {
-        "count": 7,
+        "count": 0,
         "href": "https://parla.tomalosbarrios.net/wp-json/wp/v2/pages/3369/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 3463,
-        "href": "https://parla.tomalosbarrios.net/wp-json/wp/v2/pages/3369/revisions/3463"
       }
     ],
     "wp:attachment": [
@@ -3025,14 +2935,8 @@
     ],
     "version-history": [
       {
-        "count": 65,
+        "count": 0,
         "href": "https://parla.tomalosbarrios.net/wp-json/wp/v2/posts/3353/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 3638,
-        "href": "https://parla.tomalosbarrios.net/wp-json/wp/v2/posts/3353/revisions/3638"
       }
     ],
     "wp:attachment": [
@@ -3077,12 +2981,12 @@
     "rendered": "cielo"
   },
   "author": 138,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "closed",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://parla.tomalosbarrios.net/files/2015/10/cielo.png'><img width=\"261\" height=\"193\" src=\"https://parla.tomalosbarrios.net/files/2015/10/cielo.png\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://parla.tomalosbarrios.net/files/2015/10/cielo.png'><img width=\"261\" height=\"193\" src=\"https://parla.tomalosbarrios.net/files/2015/10/cielo.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""

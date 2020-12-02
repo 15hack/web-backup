@@ -65,14 +65,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://gasteiz.tomalaplaza.net/wp-json/wp/v2/posts/6/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 11,
-        "href": "https://gasteiz.tomalaplaza.net/wp-json/wp/v2/posts/6/revisions/11"
       }
     ],
     "wp:attachment": [

@@ -223,14 +223,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://soria.tomalaplaza.net/wp-json/wp/v2/posts/27/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 29,
-        "href": "https://soria.tomalaplaza.net/wp-json/wp/v2/posts/27/revisions/29"
       }
     ],
     "wp:attachment": [
@@ -325,14 +319,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://soria.tomalaplaza.net/wp-json/wp/v2/posts/6/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 13,
-        "href": "https://soria.tomalaplaza.net/wp-json/wp/v2/posts/6/revisions/13"
       }
     ],
     "wp:attachment": [

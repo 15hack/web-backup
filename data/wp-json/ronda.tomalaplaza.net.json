@@ -65,14 +65,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://ronda.tomalaplaza.net/wp-json/wp/v2/posts/110/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 125,
-        "href": "https://ronda.tomalaplaza.net/wp-json/wp/v2/posts/110/revisions/125"
       }
     ],
     "wp:attachment": [
@@ -162,14 +156,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://ronda.tomalaplaza.net/wp-json/wp/v2/pages/8/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 37,
-        "href": "https://ronda.tomalaplaza.net/wp-json/wp/v2/pages/8/revisions/37"
       }
     ],
     "wp:attachment": [
@@ -247,14 +235,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://ronda.tomalaplaza.net/wp-json/wp/v2/pages/2/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 6,
-        "href": "https://ronda.tomalaplaza.net/wp-json/wp/v2/pages/2/revisions/6"
       }
     ],
     "wp:attachment": [

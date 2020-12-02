@@ -439,14 +439,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/posts/19/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 21,
-        "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/posts/19/revisions/21"
       }
     ],
     "wp:attachment": [
@@ -541,14 +535,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/posts/15/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 22,
-        "href": "https://talavera.tomalaplaza.net/wp-json/wp/v2/posts/15/revisions/22"
       }
     ],
     "wp:attachment": [

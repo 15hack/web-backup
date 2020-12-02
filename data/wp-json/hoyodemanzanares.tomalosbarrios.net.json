@@ -15,12 +15,12 @@
     "rendered": "CartelAgua"
   },
   "author": 818,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://hoyodemanzanares.tomalosbarrios.net/files/2011/11/CartelAgua.jpg'><img width=\"211\" height=\"300\" src=\"https://hoyodemanzanares.tomalosbarrios.net/files/2011/11/CartelAgua-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://hoyodemanzanares.tomalosbarrios.net/files/2011/11/CartelAgua-211x300.jpg 211w, https://hoyodemanzanares.tomalosbarrios.net/files/2011/11/CartelAgua-723x1024.jpg 723w, https://hoyodemanzanares.tomalosbarrios.net/files/2011/11/CartelAgua.jpg 826w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://hoyodemanzanares.tomalosbarrios.net/files/2011/11/CartelAgua.jpg'><img width=\"211\" height=\"300\" src=\"https://hoyodemanzanares.tomalosbarrios.net/files/2011/11/CartelAgua-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://hoyodemanzanares.tomalosbarrios.net/files/2011/11/CartelAgua-211x300.jpg 211w, https://hoyodemanzanares.tomalosbarrios.net/files/2011/11/CartelAgua-723x1024.jpg 723w, https://hoyodemanzanares.tomalosbarrios.net/files/2011/11/CartelAgua.jpg 826w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -127,7 +127,7 @@
     "rendered": "CartelAgua"
   },
   "author": 818,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -189,7 +189,7 @@
     "rendered": "Cartel de la Jornada sobre el Agua"
   },
   "content": {
-    "rendered": "<p>Ya est\u00e1 disponible el <a href=\"http://hoyodemanzanares.tomalosbarrios.net/files/2011/11/CartelAgua.pdf\">cartel</a> de la jornada sobre el agua.</p>\n<p><a href=\"http://hoyodemanzanares.tomalosbarrios.net/files/2011/11/CartelAgua.jpg\"><img class=\"alignnone size-medium wp-image-290\" src=\"http://hoyodemanzanares.tomalosbarrios.net/files/2011/11/CartelAgua-211x300.jpg\" alt=\"\" width=\"211\" height=\"300\" srcset=\"https://hoyodemanzanares.tomalosbarrios.net/files/2011/11/CartelAgua-211x300.jpg 211w, https://hoyodemanzanares.tomalosbarrios.net/files/2011/11/CartelAgua-723x1024.jpg 723w, https://hoyodemanzanares.tomalosbarrios.net/files/2011/11/CartelAgua.jpg 826w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n",
+    "rendered": "<p>Ya est\u00e1 disponible el <a href=\"http://hoyodemanzanares.tomalosbarrios.net/files/2011/11/CartelAgua.pdf\">cartel</a> de la jornada sobre el agua.</p>\n<p><a href=\"http://hoyodemanzanares.tomalosbarrios.net/files/2011/11/CartelAgua.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-290\" src=\"http://hoyodemanzanares.tomalosbarrios.net/files/2011/11/CartelAgua-211x300.jpg\" alt=\"\" width=\"211\" height=\"300\" srcset=\"https://hoyodemanzanares.tomalosbarrios.net/files/2011/11/CartelAgua-211x300.jpg 211w, https://hoyodemanzanares.tomalosbarrios.net/files/2011/11/CartelAgua-723x1024.jpg 723w, https://hoyodemanzanares.tomalosbarrios.net/files/2011/11/CartelAgua.jpg 826w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -198,7 +198,7 @@
   },
   "author": 818,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -239,14 +239,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/286/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 293,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/286/revisions/293"
       }
     ],
     "wp:attachment": [
@@ -300,7 +294,7 @@
   },
   "author": 818,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -343,14 +337,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/283/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 284,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/283/revisions/284"
       }
     ],
     "wp:attachment": [
@@ -395,7 +383,7 @@
     "rendered": "Acta de la Asamblea del 1 de Octubre"
   },
   "content": {
-    "rendered": "<p><span style=\"color: #800000\"><strong>Acta de la Asamblea del 1 de Octubre</strong></span></p>\n<p><!--more--></p>\n<p>&nbsp;</p>\n<p><span style=\"color: #800000\">la asamblea se dedic\u00f3 casi exclusivamente a tratar los temas del huerto y las jornadas que tendr\u00e1n lugar durante 5 viernes\u00a0 consecutivos a partir del 7 de Octubre en el instituto.</span></p>\n<p><span style=\"color: #800000\">Sobre la huerta se plantearon posibles soluciones para el problema del agua pero se dej\u00f3 todo en aire dado que a\u00fan no hab\u00edamos visto el terreno ni hablado con la persona que lo ofrece. Queda pendiente reunirse para tratar varios temas: presupuesto de los materiales necesarios (vallas, azadas, contenedores de agua, brezo&#8230;),turnos de trabajo, buscar un monocultor, ver opciones para recaudar fondos e informar. [informaci\u00f3n posterior: la reuni\u00f3n ser\u00e1 el jueves 13 a las 20:00 en &#171;La Higuera&#187;]</span></p>\n<p><span style=\"color: #800000\">Sobre el banco de tiempo se plantea la necesidad de promocionarlo para que empiece a funcionar, ya hay el m\u00ednimo de personas necesarias y est\u00e1 todo organizado, solo falta empezar a usarlo. Se habla de hacer un taller de hacer pan para promocionarlo, se ofrecen 2 posibles espacios para hacerlo.</span></p>\n<p><span style=\"color: #800000\">La pr\u00f3xima asamblea deber\u00eda ser el d\u00eda 15 pero como ese d\u00eda es la gran manifestaci\u00f3n,la asamblea queda aplazada hasta el 22/10/2011,se habl\u00f3 de ir a la manifestaci\u00f3n como asamblea pero no se concret\u00f3. [informaci\u00f3n posterior: la columna Noroeste se reunir\u00e1 a las 15:30 en el Templo de Debod para salir de ah\u00ed a las 16:00]</span></p>\n",
+    "rendered": "<p><span style=\"color: #800000\"><strong>Acta de la Asamblea del 1 de Octubre</strong></span></p>\n<p><!--more--></p>\n<p>&nbsp;</p>\n<p><span style=\"color: #800000\">la asamblea se dedic\u00f3 casi exclusivamente a tratar los temas del huerto y las jornadas que tendr\u00e1n lugar durante 5 viernes\u00a0 consecutivos a partir del 7 de Octubre en el instituto.</span></p>\n<p><span style=\"color: #800000\">Sobre la huerta se plantearon posibles soluciones para el problema del agua pero se dej\u00f3 todo en aire dado que a\u00fan no hab\u00edamos visto el terreno ni hablado con la persona que lo ofrece. Queda pendiente reunirse para tratar varios temas: presupuesto de los materiales necesarios (vallas, azadas, contenedores de agua, brezo&#8230;),turnos de trabajo, buscar un monocultor, ver opciones para recaudar fondos e informar. [informaci\u00f3n posterior: la reuni\u00f3n ser\u00e1 el jueves 13 a las 20:00 en \u00abLa Higuera\u00bb]</span></p>\n<p><span style=\"color: #800000\">Sobre el banco de tiempo se plantea la necesidad de promocionarlo para que empiece a funcionar, ya hay el m\u00ednimo de personas necesarias y est\u00e1 todo organizado, solo falta empezar a usarlo. Se habla de hacer un taller de hacer pan para promocionarlo, se ofrecen 2 posibles espacios para hacerlo.</span></p>\n<p><span style=\"color: #800000\">La pr\u00f3xima asamblea deber\u00eda ser el d\u00eda 15 pero como ese d\u00eda es la gran manifestaci\u00f3n,la asamblea queda aplazada hasta el 22/10/2011,se habl\u00f3 de ir a la manifestaci\u00f3n como asamblea pero no se concret\u00f3. [informaci\u00f3n posterior: la columna Noroeste se reunir\u00e1 a las 15:30 en el Templo de Debod para salir de ah\u00ed a las 16:00]</span></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -404,7 +392,7 @@
   },
   "author": 818,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -445,14 +433,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/276/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 281,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/276/revisions/281"
       }
     ],
     "wp:attachment": [
@@ -497,16 +479,16 @@
     "rendered": "Primera Reuni\u00f3n del Huerto Colectivo de Hoyo de Manzanares"
   },
   "content": {
-    "rendered": "<p>El pr\u00f3ximo<strong> jueves 13 de Octubre</strong> tendr\u00e1 lugar a las <strong>20:00</strong> en el bar <strong>&#171;La Higuera&#187;</strong> la primera reuni\u00f3n para decidir sobre c\u00f3mo vamos a organizar el huerto y el trabajo en el mismo. El terreno ya lo tenemos, ahora solo hay que trabajarlo y disfrutarlo.</p>\n",
+    "rendered": "<p>El pr\u00f3ximo<strong> jueves 13 de Octubre</strong> tendr\u00e1 lugar a las <strong>20:00</strong> en el bar <strong>\u00abLa Higuera\u00bb</strong> la primera reuni\u00f3n para decidir sobre c\u00f3mo vamos a organizar el huerto y el trabajo en el mismo. El terreno ya lo tenemos, ahora solo hay que trabajarlo y disfrutarlo.</p>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>El pr\u00f3ximo jueves 13 de Octubre tendr\u00e1 lugar a las 20:00 en el bar &#171;La Higuera&#187; la primera reuni\u00f3n para decidir sobre c\u00f3mo vamos a organizar el huerto y el trabajo en el mismo. El terreno ya lo tenemos, ahora &hellip; <a href=\"https://hoyodemanzanares.tomalosbarrios.net/2011/10/09/primera-reunion-del-huerto-colectivo-de-hoyo-de-manzanares/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+    "rendered": "<p>El pr\u00f3ximo jueves 13 de Octubre tendr\u00e1 lugar a las 20:00 en el bar \u00abLa Higuera\u00bb la primera reuni\u00f3n para decidir sobre c\u00f3mo vamos a organizar el huerto y el trabajo en el mismo. El terreno ya lo tenemos, ahora &hellip; <a href=\"https://hoyodemanzanares.tomalosbarrios.net/2011/10/09/primera-reunion-del-huerto-colectivo-de-hoyo-de-manzanares/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
     "protected": false
   },
   "author": 818,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -547,14 +529,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/271/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 275,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/271/revisions/275"
       }
     ],
     "wp:attachment": [
@@ -599,7 +575,7 @@
     "rendered": "cartelJornadasConsumoHoyo"
   },
   "author": 818,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -661,12 +637,12 @@
     "rendered": "cartelJornadasImagen"
   },
   "author": 818,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://hoyodemanzanares.tomalosbarrios.net/files/2011/10/cartelJornadasImagen.png'><img width=\"211\" height=\"300\" src=\"https://hoyodemanzanares.tomalosbarrios.net/files/2011/10/cartelJornadasImagen-211x300.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://hoyodemanzanares.tomalosbarrios.net/files/2011/10/cartelJornadasImagen-211x300.png 211w, https://hoyodemanzanares.tomalosbarrios.net/files/2011/10/cartelJornadasImagen-723x1024.png 723w, https://hoyodemanzanares.tomalosbarrios.net/files/2011/10/cartelJornadasImagen.png 826w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://hoyodemanzanares.tomalosbarrios.net/files/2011/10/cartelJornadasImagen.png'><img width=\"211\" height=\"300\" src=\"https://hoyodemanzanares.tomalosbarrios.net/files/2011/10/cartelJornadasImagen-211x300.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://hoyodemanzanares.tomalosbarrios.net/files/2011/10/cartelJornadasImagen-211x300.png 211w, https://hoyodemanzanares.tomalosbarrios.net/files/2011/10/cartelJornadasImagen-723x1024.png 723w, https://hoyodemanzanares.tomalosbarrios.net/files/2011/10/cartelJornadasImagen.png 826w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -773,7 +749,7 @@
     "rendered": "Cartel de las Jornadas de Consumo Responsable de Hoyo de Manzanares"
   },
   "content": {
-    "rendered": "<p><a href=\"http://hoyodemanzanares.tomalosbarrios.net/files/2011/10/cartelJornadasImagen.png\"><img class=\"alignnone size-full wp-image-268\" src=\"http://hoyodemanzanares.tomalosbarrios.net/files/2011/10/cartelJornadasImagen.png\" alt=\"\" width=\"826\" height=\"1169\" srcset=\"https://hoyodemanzanares.tomalosbarrios.net/files/2011/10/cartelJornadasImagen.png 826w, https://hoyodemanzanares.tomalosbarrios.net/files/2011/10/cartelJornadasImagen-211x300.png 211w, https://hoyodemanzanares.tomalosbarrios.net/files/2011/10/cartelJornadasImagen-723x1024.png 723w\" sizes=\"(max-width: 826px) 100vw, 826px\" /></a></p>\n<p><a href=\"http://hoyodemanzanares.tomalosbarrios.net/files/2011/10/cartelJornadasConsumoHoyo1.pdf\">cartel en pdf</a></p>\n",
+    "rendered": "<p><a href=\"http://hoyodemanzanares.tomalosbarrios.net/files/2011/10/cartelJornadasImagen.png\"><img loading=\"lazy\" class=\"alignnone size-full wp-image-268\" src=\"http://hoyodemanzanares.tomalosbarrios.net/files/2011/10/cartelJornadasImagen.png\" alt=\"\" width=\"826\" height=\"1169\" srcset=\"https://hoyodemanzanares.tomalosbarrios.net/files/2011/10/cartelJornadasImagen.png 826w, https://hoyodemanzanares.tomalosbarrios.net/files/2011/10/cartelJornadasImagen-211x300.png 211w, https://hoyodemanzanares.tomalosbarrios.net/files/2011/10/cartelJornadasImagen-723x1024.png 723w\" sizes=\"(max-width: 826px) 100vw, 826px\" /></a></p>\n<p><a href=\"http://hoyodemanzanares.tomalosbarrios.net/files/2011/10/cartelJornadasConsumoHoyo1.pdf\">cartel en pdf</a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -782,7 +758,7 @@
   },
   "author": 818,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -823,14 +799,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/265/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 270,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/265/revisions/270"
       }
     ],
     "wp:attachment": [
@@ -875,7 +845,7 @@
     "rendered": "cartelJornadasConsumoHoyo"
   },
   "author": 818,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -937,7 +907,7 @@
     "rendered": "cartelJornadasConsumo"
   },
   "author": 818,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1008,7 +978,7 @@
   },
   "author": 818,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1049,14 +1019,8 @@
     ],
     "version-history": [
       {
-        "count": 5,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/251/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 263,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/251/revisions/263"
       }
     ],
     "wp:attachment": [
@@ -1101,7 +1065,7 @@
     "rendered": "FIRMAS CYII"
   },
   "author": 818,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1172,7 +1136,7 @@
   },
   "author": 818,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1213,14 +1177,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/245/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 250,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/245/revisions/250"
       }
     ],
     "wp:attachment": [
@@ -1274,7 +1232,7 @@
   },
   "author": 818,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1315,14 +1273,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/240/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 244,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/240/revisions/244"
       }
     ],
     "wp:attachment": [
@@ -1367,16 +1319,16 @@
     "rendered": "Reunion de la comisi\u00f3n de Participaci\u00f3n Ciudadana y del grupo de trabajo de Presupuestos Participativos"
   },
   "content": {
-    "rendered": "<p>El pr\u00f3ximo <strong>viernes 16</strong> de Septiembre tendr\u00e1 lugar en el bar &#171;<strong>La Higuera</strong>&#187; las reuniones de participaci\u00f3n ciudadana (<strong>19:30</strong>) presupuestos participativos (<strong>20:30</strong>)</p>\n",
+    "rendered": "<p>El pr\u00f3ximo <strong>viernes 16</strong> de Septiembre tendr\u00e1 lugar en el bar \u00ab<strong>La Higuera</strong>\u00bb las reuniones de participaci\u00f3n ciudadana (<strong>19:30</strong>) presupuestos participativos (<strong>20:30</strong>)</p>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>El pr\u00f3ximo viernes 16 de Septiembre tendr\u00e1 lugar en el bar &#171;La Higuera&#187; las reuniones de participaci\u00f3n ciudadana (19:30) presupuestos participativos (20:30)</p>\n",
+    "rendered": "<p>El pr\u00f3ximo viernes 16 de Septiembre tendr\u00e1 lugar en el bar \u00abLa Higuera\u00bb las reuniones de participaci\u00f3n ciudadana (19:30) presupuestos participativos (20:30)</p>\n",
     "protected": false
   },
   "author": 818,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1417,14 +1369,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/235/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 239,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/235/revisions/239"
       }
     ],
     "wp:attachment": [
@@ -1469,7 +1415,7 @@
     "rendered": "Hoyo14SepEducacion"
   },
   "author": 818,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1540,7 +1486,7 @@
   },
   "author": 818,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1581,14 +1527,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/227/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 233,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/227/revisions/233"
       }
     ],
     "wp:attachment": [
@@ -1633,16 +1573,16 @@
     "rendered": "Reuni\u00f3n del la Comisi\u00f3n de Consumo Responsable"
   },
   "content": {
-    "rendered": "<p>El pr\u00f3ximo viernes 9 de septiembre a las 20:00h tendr\u00e1 lugar la reuni\u00f3n de la Comisi\u00f3n de Consumo Responsable en el bar &#171;la Higuera&#187;</p>\n",
+    "rendered": "<p>El pr\u00f3ximo viernes 9 de septiembre a las 20:00h tendr\u00e1 lugar la reuni\u00f3n de la Comisi\u00f3n de Consumo Responsable en el bar \u00abla Higuera\u00bb</p>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>El pr\u00f3ximo viernes 9 de septiembre a las 20:00h tendr\u00e1 lugar la reuni\u00f3n de la Comisi\u00f3n de Consumo Responsable en el bar &#171;la Higuera&#187;</p>\n",
+    "rendered": "<p>El pr\u00f3ximo viernes 9 de septiembre a las 20:00h tendr\u00e1 lugar la reuni\u00f3n de la Comisi\u00f3n de Consumo Responsable en el bar \u00abla Higuera\u00bb</p>\n",
     "protected": false
   },
   "author": 818,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1683,14 +1623,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/219/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 224,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/219/revisions/224"
       }
     ],
     "wp:attachment": [
@@ -1744,7 +1678,7 @@
   },
   "author": 818,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1786,14 +1720,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/213/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 217,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/213/revisions/217"
       }
     ],
     "wp:attachment": [
@@ -1847,7 +1775,7 @@
   },
   "author": 818,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1888,14 +1816,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/208/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 212,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/208/revisions/212"
       }
     ],
     "wp:attachment": [
@@ -1949,7 +1871,7 @@
   },
   "author": 818,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1990,14 +1912,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/203/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 206,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/203/revisions/206"
       }
     ],
     "wp:attachment": [
@@ -2051,7 +1967,7 @@
   },
   "author": 818,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2092,14 +2008,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/198/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 202,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/198/revisions/202"
       }
     ],
     "wp:attachment": [
@@ -2144,7 +2054,7 @@
     "rendered": "La Polic\u00eda carga contra los manifestantes en el Ministerio del Interior. Manifestaci\u00f3n 20h Atocha- M. Interior- Sol"
   },
   "content": {
-    "rendered": "<p>\u00daLTIMA HORA</p>\n<p><em>La asamblea extraordinaria reunida en Jacinto Benavente convoca una manifestaci\u00f3n el viernes 5 de agosto a las 20 horas con el recorrido Atocha-Ministerio del Interior-Sol<!--more--></em></p>\n<div>\n<div>\n<dl>\n<dt><a title=\"la-foto2\" href=\"http://madrid.tomalaplaza.net/2011/08/04/cargas-policias-contra-lxs-indignadxs-frente-al-ministerio-del-interior/la-foto-3/\"><img src=\"http://madrid.tomalaplaza.net/files/2011/08/la-foto2-150x150.jpg\" alt=\"Trix\" width=\"150\" height=\"150\" /></a></dt>\n<dd>Trix</dd>\n</dl>\n<dl>\n<dt><a title=\"HERIDA\" href=\"http://madrid.tomalaplaza.net/2011/08/04/cargas-policias-contra-lxs-indignadxs-frente-al-ministerio-del-interior/herida-2/\"><img src=\"http://madrid.tomalaplaza.net/files/2011/08/HERIDA1-150x150.jpg\" alt=\"Trix\" width=\"150\" height=\"150\" /></a></dt>\n<dd>Trix</dd>\n</dl>\n<dl>\n<dt><a title=\"iker4\" href=\"http://madrid.tomalaplaza.net/2011/08/04/cargas-policias-contra-lxs-indignadxs-frente-al-ministerio-del-interior/iker4/\"><img src=\"http://madrid.tomalaplaza.net/files/2011/08/iker4-150x150.jpg\" alt=\"Iker Etxarte\" width=\"150\" height=\"150\" /></a></dt>\n<dd>Iker Etxarte</dd>\n</dl>\n<dl>\n<dt><a title=\"iker1\" href=\"http://madrid.tomalaplaza.net/2011/08/04/cargas-policias-contra-lxs-indignadxs-frente-al-ministerio-del-interior/iker1/\"><img src=\"http://madrid.tomalaplaza.net/files/2011/08/iker1-150x150.jpg\" alt=\"Iker Etxarte\" width=\"150\" height=\"150\" /></a></dt>\n<dd>Iker Etxarte</dd>\n</dl>\n<dl>\n<dt><a title=\"cargas2\" href=\"http://madrid.tomalaplaza.net/2011/08/04/cargas-policias-contra-lxs-indignadxs-frente-al-ministerio-del-interior/cargas2/\"><img src=\"http://madrid.tomalaplaza.net/files/2011/08/cargas2-150x150.jpg\" alt=\"Iker Etxarte\" width=\"150\" height=\"150\" /></a></dt>\n<dd>Iker Etxarte</dd>\n</dl>\n</div>\n<div>\n<dl>\n<dt><a title=\"cargas1\" href=\"http://madrid.tomalaplaza.net/2011/08/04/cargas-policias-contra-lxs-indignadxs-frente-al-ministerio-del-interior/cargas1/\"><img src=\"http://madrid.tomalaplaza.net/files/2011/08/cargas1-150x150.jpg\" alt=\"@anonimopablob\" width=\"150\" height=\"150\" /></a></dt>\n<dd>@anonimopablob</dd>\n</dl>\n<dl>\n<dt><a title=\"cargas3\" href=\"http://madrid.tomalaplaza.net/2011/08/04/cargas-policias-contra-lxs-indignadxs-frente-al-ministerio-del-interior/cargas3/\"><img src=\"http://madrid.tomalaplaza.net/files/2011/08/cargas3-150x150.jpg\" alt=\"Iker Etxarte\" width=\"150\" height=\"150\" /></a></dt>\n<dd>Iker Etxarte</dd>\n</dl>\n<dl>\n<dt><a title=\"fanetin5\" href=\"http://madrid.tomalaplaza.net/2011/08/04/cargas-policias-contra-lxs-indignadxs-frente-al-ministerio-del-interior/fanetin5/\"><img src=\"http://madrid.tomalaplaza.net/files/2011/08/fanetin5-150x150.jpg\" alt=\"@fanetin\" width=\"150\" height=\"150\" /></a></dt>\n<dd>@fanetin</dd>\n</dl>\n<dl>\n<dt><a title=\"fanetin3\" href=\"http://madrid.tomalaplaza.net/2011/08/04/cargas-policias-contra-lxs-indignadxs-frente-al-ministerio-del-interior/fanetin3/\"><img src=\"http://madrid.tomalaplaza.net/files/2011/08/fanetin3-150x150.jpg\" alt=\"@fanetin\" width=\"150\" height=\"150\" /></a></dt>\n<dd>@fanetin</dd>\n</dl>\n<dl>\n<dt><a title=\"fanetin6\" href=\"http://madrid.tomalaplaza.net/2011/08/04/cargas-policias-contra-lxs-indignadxs-frente-al-ministerio-del-interior/fanetin6/\"><img src=\"http://madrid.tomalaplaza.net/files/2011/08/fanetin6-150x150.jpg\" alt=\"@fanetin\" width=\"150\" height=\"150\" /></a></dt>\n<dd>@fanetin</dd>\n</dl>\n</div>\n<div>\n<dl>\n<dt><a title=\"iker2\" href=\"http://madrid.tomalaplaza.net/2011/08/04/cargas-policias-contra-lxs-indignadxs-frente-al-ministerio-del-interior/iker2/\"><img src=\"http://madrid.tomalaplaza.net/files/2011/08/iker2-150x150.jpg\" alt=\"Iker Etxarte\" width=\"150\" height=\"150\" /></a></dt>\n<dd>Iker Etxarte</dd>\n</dl>\n<dl>\n<dt><a title=\"fanetin7\" href=\"http://madrid.tomalaplaza.net/2011/08/04/cargas-policias-contra-lxs-indignadxs-frente-al-ministerio-del-interior/fanetin7/\"><img src=\"http://madrid.tomalaplaza.net/files/2011/08/fanetin7-150x150.jpg\" alt=\"@fanetin\" width=\"150\" height=\"150\" /></a></dt>\n<dd>@fanetin</dd>\n</dl>\n<dl>\n<dt><a title=\"fanetin2\" href=\"http://madrid.tomalaplaza.net/2011/08/04/cargas-policias-contra-lxs-indignadxs-frente-al-ministerio-del-interior/fanetin2/\"><img src=\"http://madrid.tomalaplaza.net/files/2011/08/fanetin2-150x150.jpg\" alt=\"@fanetin\" width=\"150\" height=\"150\" /></a></dt>\n<dd>@fanetin</dd>\n</dl>\n<dl>\n<dt><a title=\"iker9\" href=\"http://madrid.tomalaplaza.net/2011/08/04/cargas-policias-contra-lxs-indignadxs-frente-al-ministerio-del-interior/iker9/\"><img src=\"http://madrid.tomalaplaza.net/files/2011/08/iker9-150x150.jpg\" alt=\"Iker Etxarte\" width=\"150\" height=\"150\" /></a></dt>\n<dd>Iker Etxarte</dd>\n</dl>\n</div>\n</div>\n<p>Las movilizaciones en la Puerta del Sol contra el<a href=\"http://madrid.tomalaplaza.net/2011/08/02/la-policia-desaloja-infosol-y-la-acampada-del-paseo-del-prado/\"> desalojo de InfoSol </a>y el blindaje policial de la plaza comenzaron a las 12 de la ma\u00f1ana por tercer d\u00eda consecutivo. Los manifestantes se concentraron durante buena parte del d\u00eda, especialmente a partir de las 20 horas, en los diferentes accesos a Sol. Al no poder entrar los diferentes grupos se unieron en Callao sobre las 22 horas y la protesta emprendi\u00f3 la marcha hac\u00eda Gran V\u00eda cortando el tr\u00e1fico con destino a Cibeles. Una vez all\u00ed, <strong>la comitiva, compuesta por unas 5.000 personas</strong>, se dirigi\u00f3 hacia Col\u00f3n para acabar concentr\u00e1ndose ante el Ministerio del Interior.</p>\n<p>Alrededor de las 22,45 un operativo integrado por una veintena de furgones policiales y decenas de antidisturbios, llegado desde la plaza de Col\u00f3n y la calle Alcal\u00e1 Galiano, intercept\u00f3 a <strong>unos 5.000 indignados</strong> ante el Ministerio del Interior, <strong>cargando contra ellos</strong>.</p>\n<p>El resultado de estas cargas policiales ha sido de 20\u00a0<strong>personas\u00a0 heridas (seg\u00fan el SAMUR) y tres detenidas</strong>. La m\u00e1s grave ha sido una persona de mediana edad agredida por cuatro agentes, caus\u00e1ndole una herida en la cabeza \u00a0por la que sangraba abundantemente. Ha perdido mucha sangre porque <strong>la polic\u00eda obstaculizaba la entrada del Samur y la ambulancia tuvo dificultades para llegar</strong>. Reiteramos que <strong>no hubo provocaci\u00f3n por parte de los indignados</strong>.</p>\n<p>Parece ser que el detonante de la carga ha sido la colocaci\u00f3n de un cartel que rezaba: \u201cVamos caminando hacia Islandia\u201d en la puerta del Ministerio. Tampoco nadie salt\u00f3 ninguna valla ni cord\u00f3n policial, como ya han dicho algunos medios de comunicaci\u00f3n, ya que nunca existi\u00f3 dicha barrera ni hubo presencia policial alguna hasta el momento en el que la manifestaci\u00f3n se concentr\u00f3 junto al Ministerio del Interior.</p>\n<p>Adem\u00e1s, \u00a0la polic\u00eda ha retenido a un periodista de RTVE.es y se tienen noticias de m\u00e1s heridos: una mujer de 68 a\u00f1os de edad y un joven de 23 a\u00f1os. Los heridos fueron trasladados al\u00a0hospital Doce de Octubre de Madrid.</p>\n<p>Pasada la media noche, los manifestantes se reunieron en la Plaza de Jacinto Benavente, donde tuvo lugar <strong>una asamblea multitudinaria a la que asistieron unas 2.500 personas</strong>. Finaliz\u00f3 a las 2:15 horas y se consensu\u00f3 convocar una <strong>manifestaci\u00f3n a las 20 horas con recorrido Atocha-Sol pasando por el Ministerio del Interior</strong>\u00a0\u00a0(Paseo de la Castellana, junto a Col\u00f3n). Tambi\u00e9n animar\u00a0a la gente a que desde las 12 de la ma\u00f1ana haya grupos en Sol como protesta por la toma de la plaza y la violencia policial injustificada.</p>\n<p>Por otro lado, <strong>la Comisi\u00f3n de Legal de Acampada Sol ha convocado para la ma\u00f1ana del viernes una rueda de prensa (e</strong>n el CAUM (Pza. Tirso de Molina, 8 a las 12 horas).</p>\n<p>Desde la comisi\u00f3n de legal nos informan de que los abogados de guardia para los detenidxs son:</p>\n<ul>\n<li>Eric Sanz de Bremond</li>\n<li>Ana M\u00e9ndez Gorbea</li>\n</ul>\n<p>En caso de haber resultado herido, los pasos a seguir para denunciar se encuentran al final del comunicado que hizo la comisi\u00f3n de legal el d\u00eda 1 de julio:</p>\n<p><a href=\"http://madrid.tomalaplaza.net/2011/07/01/grupo-penal-dudas-resueltas-agredids-11j/\" target=\"_blank\">Comunicado de legal</a></p>\n<p>#madridsimiedo #conRdeRepresion</p>\n<p><a href=\"http://www.facebook.com/event.php?eid=237200119653249\" target=\"_blank\">Evento de la manifestaci\u00f3n en facebook</a></p>\n<p>fuente: http://madrid.tomalaplaza.net/2011/08/04/cargas-policias-contra-lxs-indignadxs-frente-al-ministerio-del-interior/</p>\n",
+    "rendered": "<p>\u00daLTIMA HORA</p>\n<p><em>La asamblea extraordinaria reunida en Jacinto Benavente convoca una manifestaci\u00f3n el viernes 5 de agosto a las 20 horas con el recorrido Atocha-Ministerio del Interior-Sol<!--more--></em></p>\n<div>\n<div>\n<dl>\n<dt><a title=\"la-foto2\" href=\"http://madrid.tomalaplaza.net/2011/08/04/cargas-policias-contra-lxs-indignadxs-frente-al-ministerio-del-interior/la-foto-3/\"><img loading=\"lazy\" src=\"http://madrid.tomalaplaza.net/files/2011/08/la-foto2-150x150.jpg\" alt=\"Trix\" width=\"150\" height=\"150\" /></a></dt>\n<dd>Trix</dd>\n</dl>\n<dl>\n<dt><a title=\"HERIDA\" href=\"http://madrid.tomalaplaza.net/2011/08/04/cargas-policias-contra-lxs-indignadxs-frente-al-ministerio-del-interior/herida-2/\"><img loading=\"lazy\" src=\"http://madrid.tomalaplaza.net/files/2011/08/HERIDA1-150x150.jpg\" alt=\"Trix\" width=\"150\" height=\"150\" /></a></dt>\n<dd>Trix</dd>\n</dl>\n<dl>\n<dt><a title=\"iker4\" href=\"http://madrid.tomalaplaza.net/2011/08/04/cargas-policias-contra-lxs-indignadxs-frente-al-ministerio-del-interior/iker4/\"><img loading=\"lazy\" src=\"http://madrid.tomalaplaza.net/files/2011/08/iker4-150x150.jpg\" alt=\"Iker Etxarte\" width=\"150\" height=\"150\" /></a></dt>\n<dd>Iker Etxarte</dd>\n</dl>\n<dl>\n<dt><a title=\"iker1\" href=\"http://madrid.tomalaplaza.net/2011/08/04/cargas-policias-contra-lxs-indignadxs-frente-al-ministerio-del-interior/iker1/\"><img loading=\"lazy\" src=\"http://madrid.tomalaplaza.net/files/2011/08/iker1-150x150.jpg\" alt=\"Iker Etxarte\" width=\"150\" height=\"150\" /></a></dt>\n<dd>Iker Etxarte</dd>\n</dl>\n<dl>\n<dt><a title=\"cargas2\" href=\"http://madrid.tomalaplaza.net/2011/08/04/cargas-policias-contra-lxs-indignadxs-frente-al-ministerio-del-interior/cargas2/\"><img loading=\"lazy\" src=\"http://madrid.tomalaplaza.net/files/2011/08/cargas2-150x150.jpg\" alt=\"Iker Etxarte\" width=\"150\" height=\"150\" /></a></dt>\n<dd>Iker Etxarte</dd>\n</dl>\n</div>\n<div>\n<dl>\n<dt><a title=\"cargas1\" href=\"http://madrid.tomalaplaza.net/2011/08/04/cargas-policias-contra-lxs-indignadxs-frente-al-ministerio-del-interior/cargas1/\"><img loading=\"lazy\" src=\"http://madrid.tomalaplaza.net/files/2011/08/cargas1-150x150.jpg\" alt=\"@anonimopablob\" width=\"150\" height=\"150\" /></a></dt>\n<dd>@anonimopablob</dd>\n</dl>\n<dl>\n<dt><a title=\"cargas3\" href=\"http://madrid.tomalaplaza.net/2011/08/04/cargas-policias-contra-lxs-indignadxs-frente-al-ministerio-del-interior/cargas3/\"><img loading=\"lazy\" src=\"http://madrid.tomalaplaza.net/files/2011/08/cargas3-150x150.jpg\" alt=\"Iker Etxarte\" width=\"150\" height=\"150\" /></a></dt>\n<dd>Iker Etxarte</dd>\n</dl>\n<dl>\n<dt><a title=\"fanetin5\" href=\"http://madrid.tomalaplaza.net/2011/08/04/cargas-policias-contra-lxs-indignadxs-frente-al-ministerio-del-interior/fanetin5/\"><img loading=\"lazy\" src=\"http://madrid.tomalaplaza.net/files/2011/08/fanetin5-150x150.jpg\" alt=\"@fanetin\" width=\"150\" height=\"150\" /></a></dt>\n<dd>@fanetin</dd>\n</dl>\n<dl>\n<dt><a title=\"fanetin3\" href=\"http://madrid.tomalaplaza.net/2011/08/04/cargas-policias-contra-lxs-indignadxs-frente-al-ministerio-del-interior/fanetin3/\"><img loading=\"lazy\" src=\"http://madrid.tomalaplaza.net/files/2011/08/fanetin3-150x150.jpg\" alt=\"@fanetin\" width=\"150\" height=\"150\" /></a></dt>\n<dd>@fanetin</dd>\n</dl>\n<dl>\n<dt><a title=\"fanetin6\" href=\"http://madrid.tomalaplaza.net/2011/08/04/cargas-policias-contra-lxs-indignadxs-frente-al-ministerio-del-interior/fanetin6/\"><img loading=\"lazy\" src=\"http://madrid.tomalaplaza.net/files/2011/08/fanetin6-150x150.jpg\" alt=\"@fanetin\" width=\"150\" height=\"150\" /></a></dt>\n<dd>@fanetin</dd>\n</dl>\n</div>\n<div>\n<dl>\n<dt><a title=\"iker2\" href=\"http://madrid.tomalaplaza.net/2011/08/04/cargas-policias-contra-lxs-indignadxs-frente-al-ministerio-del-interior/iker2/\"><img loading=\"lazy\" src=\"http://madrid.tomalaplaza.net/files/2011/08/iker2-150x150.jpg\" alt=\"Iker Etxarte\" width=\"150\" height=\"150\" /></a></dt>\n<dd>Iker Etxarte</dd>\n</dl>\n<dl>\n<dt><a title=\"fanetin7\" href=\"http://madrid.tomalaplaza.net/2011/08/04/cargas-policias-contra-lxs-indignadxs-frente-al-ministerio-del-interior/fanetin7/\"><img loading=\"lazy\" src=\"http://madrid.tomalaplaza.net/files/2011/08/fanetin7-150x150.jpg\" alt=\"@fanetin\" width=\"150\" height=\"150\" /></a></dt>\n<dd>@fanetin</dd>\n</dl>\n<dl>\n<dt><a title=\"fanetin2\" href=\"http://madrid.tomalaplaza.net/2011/08/04/cargas-policias-contra-lxs-indignadxs-frente-al-ministerio-del-interior/fanetin2/\"><img loading=\"lazy\" src=\"http://madrid.tomalaplaza.net/files/2011/08/fanetin2-150x150.jpg\" alt=\"@fanetin\" width=\"150\" height=\"150\" /></a></dt>\n<dd>@fanetin</dd>\n</dl>\n<dl>\n<dt><a title=\"iker9\" href=\"http://madrid.tomalaplaza.net/2011/08/04/cargas-policias-contra-lxs-indignadxs-frente-al-ministerio-del-interior/iker9/\"><img loading=\"lazy\" src=\"http://madrid.tomalaplaza.net/files/2011/08/iker9-150x150.jpg\" alt=\"Iker Etxarte\" width=\"150\" height=\"150\" /></a></dt>\n<dd>Iker Etxarte</dd>\n</dl>\n</div>\n</div>\n<p>Las movilizaciones en la Puerta del Sol contra el<a href=\"http://madrid.tomalaplaza.net/2011/08/02/la-policia-desaloja-infosol-y-la-acampada-del-paseo-del-prado/\"> desalojo de InfoSol </a>y el blindaje policial de la plaza comenzaron a las 12 de la ma\u00f1ana por tercer d\u00eda consecutivo. Los manifestantes se concentraron durante buena parte del d\u00eda, especialmente a partir de las 20 horas, en los diferentes accesos a Sol. Al no poder entrar los diferentes grupos se unieron en Callao sobre las 22 horas y la protesta emprendi\u00f3 la marcha hac\u00eda Gran V\u00eda cortando el tr\u00e1fico con destino a Cibeles. Una vez all\u00ed, <strong>la comitiva, compuesta por unas 5.000 personas</strong>, se dirigi\u00f3 hacia Col\u00f3n para acabar concentr\u00e1ndose ante el Ministerio del Interior.</p>\n<p>Alrededor de las 22,45 un operativo integrado por una veintena de furgones policiales y decenas de antidisturbios, llegado desde la plaza de Col\u00f3n y la calle Alcal\u00e1 Galiano, intercept\u00f3 a <strong>unos 5.000 indignados</strong> ante el Ministerio del Interior, <strong>cargando contra ellos</strong>.</p>\n<p>El resultado de estas cargas policiales ha sido de 20\u00a0<strong>personas\u00a0 heridas (seg\u00fan el SAMUR) y tres detenidas</strong>. La m\u00e1s grave ha sido una persona de mediana edad agredida por cuatro agentes, caus\u00e1ndole una herida en la cabeza \u00a0por la que sangraba abundantemente. Ha perdido mucha sangre porque <strong>la polic\u00eda obstaculizaba la entrada del Samur y la ambulancia tuvo dificultades para llegar</strong>. Reiteramos que <strong>no hubo provocaci\u00f3n por parte de los indignados</strong>.</p>\n<p>Parece ser que el detonante de la carga ha sido la colocaci\u00f3n de un cartel que rezaba: \u201cVamos caminando hacia Islandia\u201d en la puerta del Ministerio. Tampoco nadie salt\u00f3 ninguna valla ni cord\u00f3n policial, como ya han dicho algunos medios de comunicaci\u00f3n, ya que nunca existi\u00f3 dicha barrera ni hubo presencia policial alguna hasta el momento en el que la manifestaci\u00f3n se concentr\u00f3 junto al Ministerio del Interior.</p>\n<p>Adem\u00e1s, \u00a0la polic\u00eda ha retenido a un periodista de RTVE.es y se tienen noticias de m\u00e1s heridos: una mujer de 68 a\u00f1os de edad y un joven de 23 a\u00f1os. Los heridos fueron trasladados al\u00a0hospital Doce de Octubre de Madrid.</p>\n<p>Pasada la media noche, los manifestantes se reunieron en la Plaza de Jacinto Benavente, donde tuvo lugar <strong>una asamblea multitudinaria a la que asistieron unas 2.500 personas</strong>. Finaliz\u00f3 a las 2:15 horas y se consensu\u00f3 convocar una <strong>manifestaci\u00f3n a las 20 horas con recorrido Atocha-Sol pasando por el Ministerio del Interior</strong>\u00a0\u00a0(Paseo de la Castellana, junto a Col\u00f3n). Tambi\u00e9n animar\u00a0a la gente a que desde las 12 de la ma\u00f1ana haya grupos en Sol como protesta por la toma de la plaza y la violencia policial injustificada.</p>\n<p>Por otro lado, <strong>la Comisi\u00f3n de Legal de Acampada Sol ha convocado para la ma\u00f1ana del viernes una rueda de prensa (e</strong>n el CAUM (Pza. Tirso de Molina, 8 a las 12 horas).</p>\n<p>Desde la comisi\u00f3n de legal nos informan de que los abogados de guardia para los detenidxs son:</p>\n<ul>\n<li>Eric Sanz de Bremond</li>\n<li>Ana M\u00e9ndez Gorbea</li>\n</ul>\n<p>En caso de haber resultado herido, los pasos a seguir para denunciar se encuentran al final del comunicado que hizo la comisi\u00f3n de legal el d\u00eda 1 de julio:</p>\n<p><a href=\"http://madrid.tomalaplaza.net/2011/07/01/grupo-penal-dudas-resueltas-agredids-11j/\" target=\"_blank\">Comunicado de legal</a></p>\n<p>#madridsimiedo #conRdeRepresion</p>\n<p><a href=\"http://www.facebook.com/event.php?eid=237200119653249\" target=\"_blank\">Evento de la manifestaci\u00f3n en facebook</a></p>\n<p>fuente: http://madrid.tomalaplaza.net/2011/08/04/cargas-policias-contra-lxs-indignadxs-frente-al-ministerio-del-interior/</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -2153,7 +2063,7 @@
   },
   "author": 818,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2194,14 +2104,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/191/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 196,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/191/revisions/196"
       }
     ],
     "wp:attachment": [
@@ -2246,7 +2150,7 @@
     "rendered": "II Foro Social 15M intercalles"
   },
   "content": {
-    "rendered": "<p>Coordinaci\u00f3n Interna de Sol proponen, con\u00a0 motivo de los acontecimientos de esta semana y con el esp\u00edritu de trabajo y buen humor que caracteriza a este movimiento, el II FORO SOCIAL 15M INTERCALLES para este <strong>S\u00c1BADO y DOMINGO a las 20:00.</strong></p>\n<p>Si necesit\u00e1is dinamizaci\u00f3n o sonido, avisad para que intentemos echaros una mano.</p>\n<p>Con el <strong>foro intercalles</strong>, se trata de continuar trabajando en las calles aleda\u00f1as a sol y evitar el desgaste que corremos el riesgo de padecer hasta que abran la plaza, convocando a asambleas tem\u00e1ticas y reflexivas sobre temas que\u00a0 mayoritariamente se est\u00e1n creando en barrios, municipios y que contin\u00faan en los grupos de trabajo de sol.<!--more--> Cada asamblea puede generar su propio \u00f3rden del d\u00eda teniendo en cuenta que ya tienen muchos temas elaborados y ponerlos en com\u00fan a nivel de la comunidad\u2026 Este trabajo puede resultar muy interesante para sentar algunas bases ideol\u00f3gicas sobre diversos aspectos en el futuro, hace frente al momento que estamos viviendo con el desalojo de forma activa y constructiva, y contribuye a la coexi\u00f3n del movimiento en Madrid.<br />\nLa parte relacionada con la comunicaci\u00f3n se puede utilizar para concretar nuestro sistema de comunicaci\u00f3n y coordinaci\u00f3n en el futuro desde el aprendizaje que han supuesto \u00e9stos meses, por ejemplo.<br />\nLos grupos que no tengan calle asignada y quieran participar, por favor que comuniquen d\u00f3nde eligen reunirse o si se quieren sumar a alguno o en la misma ubicaci\u00f3n de los que est\u00e1n ya asignados. Para confirmar vuestra participaci\u00f3n como comisi\u00f3n o grupo de trabajo enviad un email a <a href=\"mailto:coordinacion.sol@tomalaplaza.net\" target=\"_blank\">coordinacion.sol@tomalaplaza.net</a><br />\nO\u00a0 a apm-secretar\u00ed<a href=\"mailto:a@tomalosbarrios.net\" target=\"_blank\">a@tomalosbarrios.net</a> si sois un barrio o municipio.</p>\n<p><a href=\"http://hoyodemanzanares.tomalosbarrios.net/?attachment_id=1997\" rel=\"attachment wp-att-1997\"><img src=\"http://madrid.tomalosbarrios.net/files/2011/08/plano-sol.jpg\" alt=\"plano de sol\" width=\"529\" height=\"340\" /></a></p>\n<p>&nbsp;</p>\n<p>Dicha asignaci\u00f3n de calles y grupos se ha elaborado al azar tratando de agrupar por afinidades tem\u00e1ticas aunque es modificable, confirmar lo m\u00e1s brevemente posible y notificar si alg\u00fan grupo decide variar de lugar o no quiere participar de la convocatoria puesto que la convocatoria est\u00e1 planteada para el s\u00e1bado a las 20h y hay que darle m\u00e1xima y r\u00e1pida difusi\u00f3n\u2026. En principio se convoca tal cual est\u00e1 por el poco margen de tiempo que tenemos.<br />\nIMPORTANTE: Los actas de este foro son bastante relevantes puesto que sus conclusiones dar\u00e1n una muestra aproximada de nuestra definici\u00f3n ideol\u00f3gica y nuestros objetivos en distintos \u00e1mbitos\u2026 Podr\u00edan prolongarse varios d\u00edas. Es necesario publicarlas a la mayor brevedad posible.<a href=\"http://hoyodemanzanares.tomalosbarrios.net/?attachment_id=1997\" rel=\"attachment wp-att-1997\"><br />\n</a></p>\n<p>Los \u00e1mbitos que se trabajaron en el I FORO fueron</p>\n<p>Pol\u00edtica / \u00a0 \u00a0 \u00a0Feminismos /\u00a0\u00a0\u00a0\u00a0 Medioambiente /\u00a0\u00a0\u00a0\u00a0 Educaci\u00f3n<br />\nEconom\u00eda / \u00a0 \u00a0 \u00a0Social /\u00a0\u00a0\u00a0\u00a0 Cultura /\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Pensamiento</p>\n<p>\u00c9ste vamos a intentar ampliarlo\u00a1\u00a1\u00a1</p>\n<p>fuente: http://madrid.tomalosbarrios.net/2011/08/04/ii-foro-social-15m-intercalles/</p>\n",
+    "rendered": "<p>Coordinaci\u00f3n Interna de Sol proponen, con\u00a0 motivo de los acontecimientos de esta semana y con el esp\u00edritu de trabajo y buen humor que caracteriza a este movimiento, el II FORO SOCIAL 15M INTERCALLES para este <strong>S\u00c1BADO y DOMINGO a las 20:00.</strong></p>\n<p>Si necesit\u00e1is dinamizaci\u00f3n o sonido, avisad para que intentemos echaros una mano.</p>\n<p>Con el <strong>foro intercalles</strong>, se trata de continuar trabajando en las calles aleda\u00f1as a sol y evitar el desgaste que corremos el riesgo de padecer hasta que abran la plaza, convocando a asambleas tem\u00e1ticas y reflexivas sobre temas que\u00a0 mayoritariamente se est\u00e1n creando en barrios, municipios y que contin\u00faan en los grupos de trabajo de sol.<!--more--> Cada asamblea puede generar su propio \u00f3rden del d\u00eda teniendo en cuenta que ya tienen muchos temas elaborados y ponerlos en com\u00fan a nivel de la comunidad\u2026 Este trabajo puede resultar muy interesante para sentar algunas bases ideol\u00f3gicas sobre diversos aspectos en el futuro, hace frente al momento que estamos viviendo con el desalojo de forma activa y constructiva, y contribuye a la coexi\u00f3n del movimiento en Madrid.<br />\nLa parte relacionada con la comunicaci\u00f3n se puede utilizar para concretar nuestro sistema de comunicaci\u00f3n y coordinaci\u00f3n en el futuro desde el aprendizaje que han supuesto \u00e9stos meses, por ejemplo.<br />\nLos grupos que no tengan calle asignada y quieran participar, por favor que comuniquen d\u00f3nde eligen reunirse o si se quieren sumar a alguno o en la misma ubicaci\u00f3n de los que est\u00e1n ya asignados. Para confirmar vuestra participaci\u00f3n como comisi\u00f3n o grupo de trabajo enviad un email a <a href=\"mailto:coordinacion.sol@tomalaplaza.net\" target=\"_blank\">coordinacion.sol@tomalaplaza.net</a><br />\nO\u00a0 a apm-secretar\u00ed<a href=\"mailto:a@tomalosbarrios.net\" target=\"_blank\">a@tomalosbarrios.net</a> si sois un barrio o municipio.</p>\n<p><a href=\"http://hoyodemanzanares.tomalosbarrios.net/?attachment_id=1997\" rel=\"attachment wp-att-1997\"><img loading=\"lazy\" src=\"http://madrid.tomalosbarrios.net/files/2011/08/plano-sol.jpg\" alt=\"plano de sol\" width=\"529\" height=\"340\" /></a></p>\n<p>&nbsp;</p>\n<p>Dicha asignaci\u00f3n de calles y grupos se ha elaborado al azar tratando de agrupar por afinidades tem\u00e1ticas aunque es modificable, confirmar lo m\u00e1s brevemente posible y notificar si alg\u00fan grupo decide variar de lugar o no quiere participar de la convocatoria puesto que la convocatoria est\u00e1 planteada para el s\u00e1bado a las 20h y hay que darle m\u00e1xima y r\u00e1pida difusi\u00f3n\u2026. En principio se convoca tal cual est\u00e1 por el poco margen de tiempo que tenemos.<br />\nIMPORTANTE: Los actas de este foro son bastante relevantes puesto que sus conclusiones dar\u00e1n una muestra aproximada de nuestra definici\u00f3n ideol\u00f3gica y nuestros objetivos en distintos \u00e1mbitos\u2026 Podr\u00edan prolongarse varios d\u00edas. Es necesario publicarlas a la mayor brevedad posible.<a href=\"http://hoyodemanzanares.tomalosbarrios.net/?attachment_id=1997\" rel=\"attachment wp-att-1997\"><br />\n</a></p>\n<p>Los \u00e1mbitos que se trabajaron en el I FORO fueron</p>\n<p>Pol\u00edtica / \u00a0 \u00a0 \u00a0Feminismos /\u00a0\u00a0\u00a0\u00a0 Medioambiente /\u00a0\u00a0\u00a0\u00a0 Educaci\u00f3n<br />\nEconom\u00eda / \u00a0 \u00a0 \u00a0Social /\u00a0\u00a0\u00a0\u00a0 Cultura /\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Pensamiento</p>\n<p>\u00c9ste vamos a intentar ampliarlo\u00a1\u00a1\u00a1</p>\n<p>fuente: http://madrid.tomalosbarrios.net/2011/08/04/ii-foro-social-15m-intercalles/</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -2255,7 +2159,7 @@
   },
   "author": 818,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2296,14 +2200,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/180/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 185,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/180/revisions/185"
       }
     ],
     "wp:attachment": [
@@ -2348,7 +2246,7 @@
     "rendered": "La polic\u00eda desaloja InfoSol y la acampada del Paseo del Prado"
   },
   "content": {
-    "rendered": "<ul>\n<li>Para estar informados al minuto: <a href=\"http://twitter.com/#%21/acampadasol\">@acampadasol</a> con el hashtag <a href=\"http://twitter.com/#%21/search?q=%23nopararemos\">#nopararemos</a></li>\n<li>Esta tarde daremos un paseo por Sol a las 20 horas. Esperamos veros all\u00ed</li>\n</ul>\n<p>A las 6:30 horas de la ma\u00f1ana unas <strong>20 lecheras (furgonetas) de la polic\u00eda nacional han entrado en la Puerta del Sol y han rodeado los m\u00f3dulos de InfoSol</strong>. El objetivo era desalojar y no dejar ni rastro del punto de informaci\u00f3n que ha estado atendiendo a todas las personas interesadas en el Movimiento 15M desde la disoluci\u00f3n de Acampada Sol.</p>\n<p><!--more--></p>\n<p><a href=\"http://madrid.tomalaplaza.net/files/2011/08/desalojo.jpg.jpg\"><img src=\"http://madrid.tomalaplaza.net/files/2011/08/desalojo.jpg-300x225.jpg\" alt=\"Polic\u00eda rodeando InfoSol\" width=\"300\" height=\"225\" /></a>Seg\u00fan nos ha informado una de las personas de InfoSol que estaba despierta a la llegada de la polic\u00eda, en ese momento hab\u00eda unas 22-23 personas que hab\u00edan pasado la noche entre el barrac\u00f3n, la cocina y el m\u00f3dulo de enfermer\u00eda.</p>\n<p>Los agentes (mitad de la polic\u00eda municipal y mitad de la nacional) han entrado \u201ctranquilamente\u201d y diciendo: \u201cYa est\u00e1, hay que irse\u201d. Les han dado 3 minutos para recoger sus cosas y salir.</p>\n<p>Todas las salidas estaban bloqueadas por lecheras excepto la de la calle del Carmen, a donde se han dirigido los que hac\u00edan noche en Sol.</p>\n<p><strong>Desalojo de Paseo del Prado</strong></p>\n<p>Un par de personas de InfoSol han acudido enseguida a Paseo del Prado ya que fue imposible comunicar con ellos. El tramo que va de la Plaza de Cibeles a la de Neptuno estaba repleto de lecheras. Esta vez, \u00fanicamente agentes de la polic\u00eda nacional han desalojado a los acampados de Paseo del Prado. Destaca que llevaban casco, pero no iban vestidos de antidisturbios.</p>\n<p>Seg\u00fan nos ha explicado el miembro de InfoSol, ha habido un enfrentamiento entre dos personas y la polic\u00eda, pero el pacifismo ha reinado en general en ambos desalojos.</p>\n<p>Esta operaci\u00f3n se ha hecho de madrugada, en el mes de agosto, momento en que hay m\u00e1s personas de vacaciones fuera de Madrid. <strong>InfoSol es uno de los s\u00edmbolos del movimiento ciudadano surgido despu\u00e9s de la Acampada Sol</strong>. La informaci\u00f3n es un derecho de todas las personas, y en InfoSol se hac\u00eda eso,<strong> comunicar a las personas c\u00f3mo pod\u00edan participar de la conciencia global de pensamiento</strong> que se ha desatado con el Movimiento 15M.</p>\n<p><a href=\"http://madrid.tomalaplaza.net/files/2011/08/Sol_despues_desalojo.jpg\"><img src=\"http://madrid.tomalaplaza.net/files/2011/08/Sol_despues_desalojo.jpg\" alt=\"Sol despu\u00e9s del desalojo\" width=\"640\" height=\"479\" /></a></p>\n<p>Precisamente en la Asamblea General del domingo 31, la<a href=\"http://madrid.tomalaplaza.net/2011/07/31/la-nueva-asamblea-de-desempleadas-se-presenta-en-una-asamblea-general-cargada-de-anuncios/\"> comisi\u00f3n de Infraestructuras inform\u00f3 de la intenci\u00f3n de reducir el punto de informaci\u00f3n</a> y la dimensi\u00f3n de los m\u00f3dulos. Ante la perspectiva de un posible desalojo los compa\u00f1eros de InfoSol, d\u00edas antes ya se hab\u00edan llevado gran parte de la informaci\u00f3n que acumulaban en el barrac\u00f3n.</p>\n<p>Ahora mismo no queda nada f\u00edsico del punto de informaci\u00f3n. Se puede acceder a la plaza, pero sigue habiendo polic\u00eda (a las 9:00 horas). Los compa\u00f1eros de InfoSol est\u00e1n reunidos para ver los siguientes pasos.</p>\n<p><a href=\"http://madrid.tomalaplaza.net/files/2011/08/Limpieza.jpg\"><img src=\"http://madrid.tomalaplaza.net/files/2011/08/Limpieza.jpg\" alt=\"Los servicios de limpieza nada m\u00e1s desalojar Sol\" width=\"600\" height=\"450\" /></a></p>\n<p>Fotos 1 y 2: Manu_ATSO. Foto 3: <a href=\"http://twitpic.com/5zptxt\">@al_segundo</a></p>\n<p>Info desde http://madrid.tomalaplaza.net/2011/08/02/la-policia-desaloja-infosol-y-la-acampada-del-paseo-del-prado/</p>\n",
+    "rendered": "<ul>\n<li>Para estar informados al minuto: <a href=\"http://twitter.com/#%21/acampadasol\">@acampadasol</a> con el hashtag <a href=\"http://twitter.com/#%21/search?q=%23nopararemos\">#nopararemos</a></li>\n<li>Esta tarde daremos un paseo por Sol a las 20 horas. Esperamos veros all\u00ed</li>\n</ul>\n<p>A las 6:30 horas de la ma\u00f1ana unas <strong>20 lecheras (furgonetas) de la polic\u00eda nacional han entrado en la Puerta del Sol y han rodeado los m\u00f3dulos de InfoSol</strong>. El objetivo era desalojar y no dejar ni rastro del punto de informaci\u00f3n que ha estado atendiendo a todas las personas interesadas en el Movimiento 15M desde la disoluci\u00f3n de Acampada Sol.</p>\n<p><!--more--></p>\n<p><a href=\"http://madrid.tomalaplaza.net/files/2011/08/desalojo.jpg.jpg\"><img loading=\"lazy\" src=\"http://madrid.tomalaplaza.net/files/2011/08/desalojo.jpg-300x225.jpg\" alt=\"Polic\u00eda rodeando InfoSol\" width=\"300\" height=\"225\" /></a>Seg\u00fan nos ha informado una de las personas de InfoSol que estaba despierta a la llegada de la polic\u00eda, en ese momento hab\u00eda unas 22-23 personas que hab\u00edan pasado la noche entre el barrac\u00f3n, la cocina y el m\u00f3dulo de enfermer\u00eda.</p>\n<p>Los agentes (mitad de la polic\u00eda municipal y mitad de la nacional) han entrado \u201ctranquilamente\u201d y diciendo: \u201cYa est\u00e1, hay que irse\u201d. Les han dado 3 minutos para recoger sus cosas y salir.</p>\n<p>Todas las salidas estaban bloqueadas por lecheras excepto la de la calle del Carmen, a donde se han dirigido los que hac\u00edan noche en Sol.</p>\n<p><strong>Desalojo de Paseo del Prado</strong></p>\n<p>Un par de personas de InfoSol han acudido enseguida a Paseo del Prado ya que fue imposible comunicar con ellos. El tramo que va de la Plaza de Cibeles a la de Neptuno estaba repleto de lecheras. Esta vez, \u00fanicamente agentes de la polic\u00eda nacional han desalojado a los acampados de Paseo del Prado. Destaca que llevaban casco, pero no iban vestidos de antidisturbios.</p>\n<p>Seg\u00fan nos ha explicado el miembro de InfoSol, ha habido un enfrentamiento entre dos personas y la polic\u00eda, pero el pacifismo ha reinado en general en ambos desalojos.</p>\n<p>Esta operaci\u00f3n se ha hecho de madrugada, en el mes de agosto, momento en que hay m\u00e1s personas de vacaciones fuera de Madrid. <strong>InfoSol es uno de los s\u00edmbolos del movimiento ciudadano surgido despu\u00e9s de la Acampada Sol</strong>. La informaci\u00f3n es un derecho de todas las personas, y en InfoSol se hac\u00eda eso,<strong> comunicar a las personas c\u00f3mo pod\u00edan participar de la conciencia global de pensamiento</strong> que se ha desatado con el Movimiento 15M.</p>\n<p><a href=\"http://madrid.tomalaplaza.net/files/2011/08/Sol_despues_desalojo.jpg\"><img loading=\"lazy\" src=\"http://madrid.tomalaplaza.net/files/2011/08/Sol_despues_desalojo.jpg\" alt=\"Sol despu\u00e9s del desalojo\" width=\"640\" height=\"479\" /></a></p>\n<p>Precisamente en la Asamblea General del domingo 31, la<a href=\"http://madrid.tomalaplaza.net/2011/07/31/la-nueva-asamblea-de-desempleadas-se-presenta-en-una-asamblea-general-cargada-de-anuncios/\"> comisi\u00f3n de Infraestructuras inform\u00f3 de la intenci\u00f3n de reducir el punto de informaci\u00f3n</a> y la dimensi\u00f3n de los m\u00f3dulos. Ante la perspectiva de un posible desalojo los compa\u00f1eros de InfoSol, d\u00edas antes ya se hab\u00edan llevado gran parte de la informaci\u00f3n que acumulaban en el barrac\u00f3n.</p>\n<p>Ahora mismo no queda nada f\u00edsico del punto de informaci\u00f3n. Se puede acceder a la plaza, pero sigue habiendo polic\u00eda (a las 9:00 horas). Los compa\u00f1eros de InfoSol est\u00e1n reunidos para ver los siguientes pasos.</p>\n<p><a href=\"http://madrid.tomalaplaza.net/files/2011/08/Limpieza.jpg\"><img loading=\"lazy\" src=\"http://madrid.tomalaplaza.net/files/2011/08/Limpieza.jpg\" alt=\"Los servicios de limpieza nada m\u00e1s desalojar Sol\" width=\"600\" height=\"450\" /></a></p>\n<p>Fotos 1 y 2: Manu_ATSO. Foto 3: <a href=\"http://twitpic.com/5zptxt\">@al_segundo</a></p>\n<p>Info desde http://madrid.tomalaplaza.net/2011/08/02/la-policia-desaloja-infosol-y-la-acampada-del-paseo-del-prado/</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -2357,7 +2255,7 @@
   },
   "author": 818,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2398,14 +2296,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/175/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 179,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/175/revisions/179"
       }
     ],
     "wp:attachment": [
@@ -2459,7 +2351,7 @@
   },
   "author": 818,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2501,14 +2393,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/169/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 173,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/169/revisions/173"
       }
     ],
     "wp:attachment": [
@@ -2553,7 +2439,7 @@
     "rendered": "Acta del 30 de Julio de 2011"
   },
   "content": {
-    "rendered": "<p>Hasta la aprobaci\u00f3n en la pr\u00f3xima asamblea este acta es <strong>provisional</strong>. Est\u00e1 sujeta a cambios y correcciones. Propongo a dem\u00e1s que a partir de ahora las actas provisionales se publiquen en color granate, hasta su aprobaci\u00f3n por la Asamblea.</p>\n<p><span style=\"color: #800000\">Acta de la Asamblea de Hoyo de Manzanares del 30 de Julio de 2011</span></p>\n<p><span style=\"color: #800000\">ORDEN DEL D\u00cdA:</span><br />\n<span style=\"color: #800000\">\u00a0\u00a0 \u00a01. Convocatoria de la pr\u00f3xima asamblea</span><br />\n<span style=\"color: #800000\">\u00a0\u00a0 \u00a02. Carta al Alcalde sobre la celebraci\u00f3n del JMJFest</span><br />\n<span style=\"color: #800000\">\u00a0\u00a0 \u00a03. Lectura del manifiesto en el pleno</span><br />\n<span style=\"color: #800000\">\u00a0\u00a0 \u00a04. Asamblea Popular de Madrid</span><br />\n<span style=\"color: #800000\">\u00a0\u00a0 \u00a05. Continuidad de las comisiones</span><br />\n<span style=\"color: #800000\">\u00a0\u00a0 \u00a06. Varios</span></p>\n<p><!--more--></p>\n<p><span style=\"color: #800000\">1. Convocatoria de la pr\u00f3xima asamblea</span><br />\n<span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se decide convocar la pr\u00f3xima asamblea el s\u00e1bado 3 de septiembre a las 12:00 en la plaza de Cervantes.</span></p>\n<p><span style=\"color: #800000\">2. Carta al Alcalde sobre la celebraci\u00f3n del JMJFest</span><br />\n<span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se informa sobre la carta que se est\u00e1 redactando a trav\u00e9s de la Comisi\u00f3n de Participaci\u00f3n Ciudadana sobre el festival JMJFest (acto relacionado con la Jornada Mundial de la Juventud (JMJ) y la visita del Papa) en nuestro municipio.</span></p>\n<p><span style=\"color: #800000\">3. Lectura del manifiesto en el pleno</span><br />\n<span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se informa sobre la lectura del manifiesto de la Asamblea en el pleno del ayuntamiento del 28 de Julio. El concejal de Participaci\u00f3n Ciudadana inform\u00f3 de que se est\u00e1 trabajando para constituir los Consejos Sectoriales de Participaci\u00f3n Ciudadana.</span></p>\n<p><span style=\"color: #800000\">4. Asamblea Popular de Madrid</span></p>\n<p><span style=\"color: #800000\">4.1 Visita del Papa</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se informa sobre las acciones propuestas sobre la visita del Papa y la JMJ.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se consens\u00faa el apoyo a la propuesta de apostas\u00eda masiva</span><br />\n<span style=\"color: #800000\">\u00a0\u00a0 \u00a0Existe disenso sobre la propuesta &#171;Toma la Iglesia&#187; que propon\u00eda acampadas cerca de las Iglesias. Se proponen concentraciones en plazas y otros sitios p\u00fablicos, pancartas, carteles, etc.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se matiza que se est\u00e1 en contra de la participaci\u00f3n e inversi\u00f3n en un acto privado con recursos p\u00fablicos.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se consens\u00faa la realizaci\u00f3n de un encuentro para el debate con los j\u00f3venes alojados en el municipio. Se propone subir la propuesta a la Asamblea Popular de Madrid (APM)</span></p>\n<p><span style=\"color: #800000\">4.2 Canal de Isabel II</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Un grupo de compa\u00f1er@s informa de que se va a hacer una acci\u00f3n al respecto: Enviar facturas ficticias sobre lo que costar\u00eda el agua privatizada.</span><br />\n<span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se propone encontrar las hojas de firmas.</span><br />\n<span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se consens\u00faa el apoyo a la iniciativa de no pagar la primera factura del Canal de Isabel II una vez privatizada e impulsar la propuesta a nivel regional.</span></p>\n<p><span style=\"color: #800000\">4.3 Huelga General</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se consens\u00faa apoyar la propuesta de Huelga General siempre y cuando:</span><br />\n<span style=\"color: #800000\">\u00a0\u00a0 \u00a0\u00a0\u00a0 \u00a0&#8211; No sea convocada por CC.OO. y/o UGT</span><br />\n<span style=\"color: #800000\">\u00a0\u00a0 \u00a0\u00a0\u00a0 \u00a0&#8211; Si es convocada por otro sindicato (por imperativo legal) que este sindicato no saque r\u00e9dito de la convocatoria.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se propone que paralelamente se realice una huelga de consumo de duraci\u00f3n m\u00ednima de una semana.</span></p>\n<p><span style=\"color: #800000\">4.4 Funcionamiento de la Asamblea Popular de Madrid (APM)</span></p>\n<p><span style=\"color: #800000\">4.4.1 Periodicidad</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se consens\u00faa que la periodicidad sea mensual.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0La asamblea se pronuncia en contra de que la periodicidad sea bisemanal.</span></p>\n<p><span style=\"color: #800000\">4.4.2 Estructura</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0La asamblea no se pronuncia por falta de informaci\u00f3n.</span></p>\n<p><span style=\"color: #800000\">4.4.3 Toma de decisiones</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se consens\u00faa apoyar la toma de decisiones por consenso con filtro cualitativo, es decir, si cuando se busca un consenso surgen disensos estos disensos se tendr\u00e1n en cuenta siempre y cuando, tras un turno dedicado para exponer los motivos del disenso, el n\u00famero de personas que disiente aumenta respecto a la primera vez.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se consens\u00faa abstenerse en el resto de propuestas para la toma de decisiones.</span></p>\n<p><span style=\"color: #800000\">5. Continuidad de comisiones</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se decide que el trabajo de las comisiones contin\u00fae en Agosto.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0La comisi\u00f3n de Comunicaci\u00f3n pide colaboraci\u00f3n para poder continuar con su labor en Agosto.</span></p>\n<p><span style=\"color: #800000\">6. Varios</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se comunica que el sueldo de nuestro Alcalde es superior a 33.000 \u20ac y que esto es posiblemente excesivo.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se comunica que el Alcalde tiene dedicaci\u00f3n exclusiva, a pesar de estar trabajando en otro empleo y que los horarios se solapan; el turno del Alcalde en nuestro Ayuntamiento termina a las 14:00 y su trabajo empieza a la misma hora en Galapagar de lunes a jueves.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se consens\u00faa que se trabaje en los puntos antes mencionados desde la comisi\u00f3n de Participaci\u00f3n Ciudadana.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se traer\u00e1n los presupuestos del Ayuntamiento a la pr\u00f3xima asamblea.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se propone y consens\u00faa el apoyo a las movilizaciones en contra de los recortes de la Comunidad de Madrid a la educaci\u00f3n p\u00fablica.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se propone el estudio de alternativas al sistema educativo.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se propone utilizar la comida que se va a realizar para la apertura de las Jornadas de Consumo Responsable como espacio para la difusi\u00f3n de ideas, actividades y propuestas de la Asamblea.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se informa que va a haber una manifestaci\u00f3n estatal a favor de los servicios p\u00fablicos</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se informa que hay un encuentro estatal de Medio Ambiente a partir del 28 de Agosto en Le\u00f3n, donde habr\u00e1 una acampada reivindicativa en el valle de la Aciana.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se informa de la iniciativa &#171;Toma la Playa&#187; la cual propone una acampada reivincidativa a partir del 15 de Agosto en El Palmar en C\u00e1diz.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se propone crear una columna en el blog para anunciar las convocatorias.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se informa de la iniciativa &#171;Vacacciones&#187;.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se informa de una iniciativa que se est\u00e1 llevando a cabo de repoblaci\u00f3n de zonas rurales y producci\u00f3n ecol\u00f3gica de alimentos en las mismas.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se informa que la pr\u00f3xima reuni\u00f3n de la comisi\u00f3n de Comunicaci\u00f3n es el d\u00eda 11 de Agosto, a las 20:00 en la plaza Cervantes.</span></p>\n",
+    "rendered": "<p>Hasta la aprobaci\u00f3n en la pr\u00f3xima asamblea este acta es <strong>provisional</strong>. Est\u00e1 sujeta a cambios y correcciones. Propongo a dem\u00e1s que a partir de ahora las actas provisionales se publiquen en color granate, hasta su aprobaci\u00f3n por la Asamblea.</p>\n<p><span style=\"color: #800000\">Acta de la Asamblea de Hoyo de Manzanares del 30 de Julio de 2011</span></p>\n<p><span style=\"color: #800000\">ORDEN DEL D\u00cdA:</span><br />\n<span style=\"color: #800000\">\u00a0\u00a0 \u00a01. Convocatoria de la pr\u00f3xima asamblea</span><br />\n<span style=\"color: #800000\">\u00a0\u00a0 \u00a02. Carta al Alcalde sobre la celebraci\u00f3n del JMJFest</span><br />\n<span style=\"color: #800000\">\u00a0\u00a0 \u00a03. Lectura del manifiesto en el pleno</span><br />\n<span style=\"color: #800000\">\u00a0\u00a0 \u00a04. Asamblea Popular de Madrid</span><br />\n<span style=\"color: #800000\">\u00a0\u00a0 \u00a05. Continuidad de las comisiones</span><br />\n<span style=\"color: #800000\">\u00a0\u00a0 \u00a06. Varios</span></p>\n<p><!--more--></p>\n<p><span style=\"color: #800000\">1. Convocatoria de la pr\u00f3xima asamblea</span><br />\n<span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se decide convocar la pr\u00f3xima asamblea el s\u00e1bado 3 de septiembre a las 12:00 en la plaza de Cervantes.</span></p>\n<p><span style=\"color: #800000\">2. Carta al Alcalde sobre la celebraci\u00f3n del JMJFest</span><br />\n<span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se informa sobre la carta que se est\u00e1 redactando a trav\u00e9s de la Comisi\u00f3n de Participaci\u00f3n Ciudadana sobre el festival JMJFest (acto relacionado con la Jornada Mundial de la Juventud (JMJ) y la visita del Papa) en nuestro municipio.</span></p>\n<p><span style=\"color: #800000\">3. Lectura del manifiesto en el pleno</span><br />\n<span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se informa sobre la lectura del manifiesto de la Asamblea en el pleno del ayuntamiento del 28 de Julio. El concejal de Participaci\u00f3n Ciudadana inform\u00f3 de que se est\u00e1 trabajando para constituir los Consejos Sectoriales de Participaci\u00f3n Ciudadana.</span></p>\n<p><span style=\"color: #800000\">4. Asamblea Popular de Madrid</span></p>\n<p><span style=\"color: #800000\">4.1 Visita del Papa</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se informa sobre las acciones propuestas sobre la visita del Papa y la JMJ.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se consens\u00faa el apoyo a la propuesta de apostas\u00eda masiva</span><br />\n<span style=\"color: #800000\">\u00a0\u00a0 \u00a0Existe disenso sobre la propuesta \u00abToma la Iglesia\u00bb que propon\u00eda acampadas cerca de las Iglesias. Se proponen concentraciones en plazas y otros sitios p\u00fablicos, pancartas, carteles, etc.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se matiza que se est\u00e1 en contra de la participaci\u00f3n e inversi\u00f3n en un acto privado con recursos p\u00fablicos.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se consens\u00faa la realizaci\u00f3n de un encuentro para el debate con los j\u00f3venes alojados en el municipio. Se propone subir la propuesta a la Asamblea Popular de Madrid (APM)</span></p>\n<p><span style=\"color: #800000\">4.2 Canal de Isabel II</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Un grupo de compa\u00f1er@s informa de que se va a hacer una acci\u00f3n al respecto: Enviar facturas ficticias sobre lo que costar\u00eda el agua privatizada.</span><br />\n<span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se propone encontrar las hojas de firmas.</span><br />\n<span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se consens\u00faa el apoyo a la iniciativa de no pagar la primera factura del Canal de Isabel II una vez privatizada e impulsar la propuesta a nivel regional.</span></p>\n<p><span style=\"color: #800000\">4.3 Huelga General</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se consens\u00faa apoyar la propuesta de Huelga General siempre y cuando:</span><br />\n<span style=\"color: #800000\">\u00a0\u00a0 \u00a0\u00a0\u00a0 \u00a0&#8211; No sea convocada por CC.OO. y/o UGT</span><br />\n<span style=\"color: #800000\">\u00a0\u00a0 \u00a0\u00a0\u00a0 \u00a0&#8211; Si es convocada por otro sindicato (por imperativo legal) que este sindicato no saque r\u00e9dito de la convocatoria.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se propone que paralelamente se realice una huelga de consumo de duraci\u00f3n m\u00ednima de una semana.</span></p>\n<p><span style=\"color: #800000\">4.4 Funcionamiento de la Asamblea Popular de Madrid (APM)</span></p>\n<p><span style=\"color: #800000\">4.4.1 Periodicidad</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se consens\u00faa que la periodicidad sea mensual.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0La asamblea se pronuncia en contra de que la periodicidad sea bisemanal.</span></p>\n<p><span style=\"color: #800000\">4.4.2 Estructura</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0La asamblea no se pronuncia por falta de informaci\u00f3n.</span></p>\n<p><span style=\"color: #800000\">4.4.3 Toma de decisiones</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se consens\u00faa apoyar la toma de decisiones por consenso con filtro cualitativo, es decir, si cuando se busca un consenso surgen disensos estos disensos se tendr\u00e1n en cuenta siempre y cuando, tras un turno dedicado para exponer los motivos del disenso, el n\u00famero de personas que disiente aumenta respecto a la primera vez.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se consens\u00faa abstenerse en el resto de propuestas para la toma de decisiones.</span></p>\n<p><span style=\"color: #800000\">5. Continuidad de comisiones</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se decide que el trabajo de las comisiones contin\u00fae en Agosto.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0La comisi\u00f3n de Comunicaci\u00f3n pide colaboraci\u00f3n para poder continuar con su labor en Agosto.</span></p>\n<p><span style=\"color: #800000\">6. Varios</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se comunica que el sueldo de nuestro Alcalde es superior a 33.000 \u20ac y que esto es posiblemente excesivo.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se comunica que el Alcalde tiene dedicaci\u00f3n exclusiva, a pesar de estar trabajando en otro empleo y que los horarios se solapan; el turno del Alcalde en nuestro Ayuntamiento termina a las 14:00 y su trabajo empieza a la misma hora en Galapagar de lunes a jueves.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se consens\u00faa que se trabaje en los puntos antes mencionados desde la comisi\u00f3n de Participaci\u00f3n Ciudadana.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se traer\u00e1n los presupuestos del Ayuntamiento a la pr\u00f3xima asamblea.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se propone y consens\u00faa el apoyo a las movilizaciones en contra de los recortes de la Comunidad de Madrid a la educaci\u00f3n p\u00fablica.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se propone el estudio de alternativas al sistema educativo.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se propone utilizar la comida que se va a realizar para la apertura de las Jornadas de Consumo Responsable como espacio para la difusi\u00f3n de ideas, actividades y propuestas de la Asamblea.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se informa que va a haber una manifestaci\u00f3n estatal a favor de los servicios p\u00fablicos</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se informa que hay un encuentro estatal de Medio Ambiente a partir del 28 de Agosto en Le\u00f3n, donde habr\u00e1 una acampada reivindicativa en el valle de la Aciana.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se informa de la iniciativa \u00abToma la Playa\u00bb la cual propone una acampada reivincidativa a partir del 15 de Agosto en El Palmar en C\u00e1diz.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se propone crear una columna en el blog para anunciar las convocatorias.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se informa de la iniciativa \u00abVacacciones\u00bb.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se informa de una iniciativa que se est\u00e1 llevando a cabo de repoblaci\u00f3n de zonas rurales y producci\u00f3n ecol\u00f3gica de alimentos en las mismas.</span></p>\n<p><span style=\"color: #800000\">\u00a0\u00a0 \u00a0Se informa que la pr\u00f3xima reuni\u00f3n de la comisi\u00f3n de Comunicaci\u00f3n es el d\u00eda 11 de Agosto, a las 20:00 en la plaza Cervantes.</span></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -2562,7 +2448,7 @@
   },
   "author": 818,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2604,14 +2490,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/159/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 165,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/159/revisions/165"
       }
     ],
     "wp:attachment": [
@@ -2665,7 +2545,7 @@
   },
   "author": 818,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2710,14 +2590,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/150/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 157,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/150/revisions/157"
       }
     ],
     "wp:attachment": [
@@ -2762,7 +2636,7 @@
     "rendered": "Asamblea 30 julio"
   },
   "author": 247,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2874,7 +2748,7 @@
     "rendered": "Cartel Asamblea Popular &#8211; s\u00e1bado 30 de Julio"
   },
   "content": {
-    "rendered": "<p>Pod\u00e9is descargaros el cartel para la asamblea del s\u00e1bado 30 de julio.</p>\n<p style=\"text-align: center\"><img class=\"aligncenter\" src=\"http://hoyodemanzanares.tomalosbarrios.net/files/2011/07/asambleapopular.jpg\" alt=\"\" width=\"383\" height=\"539\" /><a href=\"http://hoyodemanzanares.tomalosbarrios.net/files/2011/07/asambleapopular.jpg\">Descargar cartel</a></p>\n",
+    "rendered": "<p>Pod\u00e9is descargaros el cartel para la asamblea del s\u00e1bado 30 de julio.</p>\n<p style=\"text-align: center\"><img loading=\"lazy\" class=\"aligncenter\" src=\"http://hoyodemanzanares.tomalosbarrios.net/files/2011/07/asambleapopular.jpg\" alt=\"\" width=\"383\" height=\"539\" /><a href=\"http://hoyodemanzanares.tomalosbarrios.net/files/2011/07/asambleapopular.jpg\">Descargar cartel</a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -2883,7 +2757,7 @@
   },
   "author": 247,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2925,14 +2799,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/117/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 125,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/117/revisions/125"
       }
     ],
     "wp:attachment": [
@@ -2986,7 +2854,7 @@
   },
   "author": 247,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3027,14 +2895,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/111/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 116,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/111/revisions/116"
       }
     ],
     "wp:attachment": [
@@ -3079,16 +2941,16 @@
     "rendered": "Alta de comisiones en el blog"
   },
   "content": {
-    "rendered": "<p>Hola Comisiones,</p>\n<p>Si quereis tener acceso directo a publicar entradas en el blog sin tener que esperar nada os solicitamos que envieis un emails con el asunto: ALTA COMISIONES BLOG al siguiente email:<br />\nhoyodemanzanares.informatica_arroba_gmail_punto_com</p>\n<p>Por razones de seguiridad &#171;_arroba_&#187; es @ y &#171;_punto_&#187; es un punto.</p>\n<p>Necesitamos que en ese mismo email nos digais qu\u00e9 comisi\u00f3n sois. Se os crear\u00e1 un email con la misma estructura que la de arriba y se os agregar\u00e1 en la lista de autores del blog.</p>\n<p>\u00a1Un saludo!</p>\n",
+    "rendered": "<p>Hola Comisiones,</p>\n<p>Si quereis tener acceso directo a publicar entradas en el blog sin tener que esperar nada os solicitamos que envieis un emails con el asunto: ALTA COMISIONES BLOG al siguiente email:<br />\nhoyodemanzanares.informatica_arroba_gmail_punto_com</p>\n<p>Por razones de seguiridad \u00ab_arroba_\u00bb es @ y \u00ab_punto_\u00bb es un punto.</p>\n<p>Necesitamos que en ese mismo email nos digais qu\u00e9 comisi\u00f3n sois. Se os crear\u00e1 un email con la misma estructura que la de arriba y se os agregar\u00e1 en la lista de autores del blog.</p>\n<p>\u00a1Un saludo!</p>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>Hola Comisiones, Si quereis tener acceso directo a publicar entradas en el blog sin tener que esperar nada os solicitamos que envieis un emails con el asunto: ALTA COMISIONES BLOG al siguiente email: hoyodemanzanares.informatica_arroba_gmail_punto_com Por razones de seguiridad &#171;_arroba_&#187; es &hellip; <a href=\"https://hoyodemanzanares.tomalosbarrios.net/2011/07/21/alta-de-comisiones-en-el-blog/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+    "rendered": "<p>Hola Comisiones, Si quereis tener acceso directo a publicar entradas en el blog sin tener que esperar nada os solicitamos que envieis un emails con el asunto: ALTA COMISIONES BLOG al siguiente email: hoyodemanzanares.informatica_arroba_gmail_punto_com Por razones de seguiridad \u00ab_arroba_\u00bb es &hellip; <a href=\"https://hoyodemanzanares.tomalosbarrios.net/2011/07/21/alta-de-comisiones-en-el-blog/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
     "protected": false
   },
   "author": 809,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3129,14 +2991,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/107/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 110,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/107/revisions/110"
       }
     ],
     "wp:attachment": [
@@ -3190,7 +3046,7 @@
   },
   "author": 247,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3232,14 +3088,8 @@
     ],
     "version-history": [
       {
-        "count": 8,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/94/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 104,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/94/revisions/104"
       }
     ],
     "wp:attachment": [
@@ -3293,7 +3143,7 @@
   },
   "author": 247,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3334,14 +3184,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/88/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 92,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/88/revisions/92"
       }
     ],
     "wp:attachment": [
@@ -3395,7 +3239,7 @@
   },
   "author": 247,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3436,14 +3280,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/82/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 87,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/82/revisions/87"
       }
     ],
     "wp:attachment": [
@@ -3499,7 +3337,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3533,14 +3371,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/pages/75/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 80,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/pages/75/revisions/80"
       }
     ],
     "wp:attachment": [
@@ -3573,7 +3405,7 @@
     "rendered": "Normas de participaci\u00f3n ciudadana"
   },
   "author": 247,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3644,7 +3476,7 @@
   },
   "author": 247,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3685,14 +3517,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/65/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 67,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/65/revisions/67"
       }
     ],
     "wp:attachment": [
@@ -3737,16 +3563,16 @@
     "rendered": "Pr\u00f3ximas reuniones Comisiones"
   },
   "content": {
-    "rendered": "<p>Martes 21 J<br />\n&#8211; Dinamizaci\u00f3n de Asambleas, a las 20:00 en &#171;La Higuera.&#187;</p>\n<p>Mi\u00e9rcoles 22 J<br />\n&#8211; Comunicaci\u00f3n, a las 20:00 en &#171;El refugio de Hoyo.&#187;<br />\n&#8211; Participaci\u00f3n Ciudadana, a las 20:00 en &#171;El caf\u00e9 mayor&#187;<br />\n&#8211; Banco del tiempo, a las 20:00 en &#171;La higuera.&#187;<br />\n&#8211; Desde las 21:00 nos reuniremos Comunicaci\u00f3n con Participaci\u00f3n Ciudadana en &#171;Bar Micasa&#187;</p>\n",
+    "rendered": "<p>Martes 21 J<br />\n&#8211; Dinamizaci\u00f3n de Asambleas, a las 20:00 en \u00abLa Higuera.\u00bb</p>\n<p>Mi\u00e9rcoles 22 J<br />\n&#8211; Comunicaci\u00f3n, a las 20:00 en \u00abEl refugio de Hoyo.\u00bb<br />\n&#8211; Participaci\u00f3n Ciudadana, a las 20:00 en \u00abEl caf\u00e9 mayor\u00bb<br />\n&#8211; Banco del tiempo, a las 20:00 en \u00abLa higuera.\u00bb<br />\n&#8211; Desde las 21:00 nos reuniremos Comunicaci\u00f3n con Participaci\u00f3n Ciudadana en \u00abBar Micasa\u00bb</p>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>Martes 21 J &#8211; Dinamizaci\u00f3n de Asambleas, a las 20:00 en &#171;La Higuera.&#187; Mi\u00e9rcoles 22 J &#8211; Comunicaci\u00f3n, a las 20:00 en &#171;El refugio de Hoyo.&#187; &#8211; Participaci\u00f3n Ciudadana, a las 20:00 en &#171;El caf\u00e9 mayor&#187; &#8211; Banco del tiempo, &hellip; <a href=\"https://hoyodemanzanares.tomalosbarrios.net/2011/06/21/proximas-reuniones-comisiones/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+    "rendered": "<p>Martes 21 J &#8211; Dinamizaci\u00f3n de Asambleas, a las 20:00 en \u00abLa Higuera.\u00bb Mi\u00e9rcoles 22 J &#8211; Comunicaci\u00f3n, a las 20:00 en \u00abEl refugio de Hoyo.\u00bb &#8211; Participaci\u00f3n Ciudadana, a las 20:00 en \u00abEl caf\u00e9 mayor\u00bb &#8211; Banco del tiempo, &hellip; <a href=\"https://hoyodemanzanares.tomalosbarrios.net/2011/06/21/proximas-reuniones-comisiones/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
     "protected": false
   },
   "author": 247,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3787,14 +3613,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/59/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 61,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/59/revisions/61"
       }
     ],
     "wp:attachment": [
@@ -3839,7 +3659,7 @@
     "rendered": "Cartel Asamblea 18 JUNIO"
   },
   "author": 247,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3910,7 +3730,7 @@
   },
   "author": 247,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3952,14 +3772,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/53/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 147,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/53/revisions/147"
       }
     ],
     "wp:attachment": [
@@ -4013,7 +3827,7 @@
   },
   "author": 247,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4054,14 +3868,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/48/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 52,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/48/revisions/52"
       }
     ],
     "wp:attachment": [
@@ -4106,16 +3914,16 @@
     "rendered": "Asamblea 18/06/2011 &#8211; Manifestaci\u00f3n 19J"
   },
   "content": {
-    "rendered": "<p>El pr\u00f3ximo s\u00e1bado 18 de junio, nos juntaremos de nuevo en Asamblea en la Plaza Cervantes a las 12:00h. Esta vez para preparar la manifestaci\u00f3n de domingo 19J en Madrid. Os dejamos informaci\u00f3n de &#171;MESAS DE CONVERGENCIA Y ACCI\u00d3N CIUDADANA + DEMOCRACIA REAL YA + MOVIMIENTO 15 DE MAYO&#187;.<!--more--></p>\n<h2>\u00bfQU\u00c9 PASA?</h2>\n<p><strong>&#171;El pr\u00f3ximo 27 de junio,  todos los gobiernos europeos, entre ellos Espa\u00f1a, firman en Bruselas el  gran atraco socioecon\u00f3mico de alcance internacional: el llamado Pacto  del Euro, por el cual los pol\u00edticos de la Uni\u00f3n Europea se ponen de  acuerdo para legislar a las \u00f3rdenes del Fondo Monetario Internacional  (FMI), Banco Central Europeo (BCE) y el Banco Mundial (BM).&#187;</strong></p>\n<p>En caso de no cumplir estas \u00f3rdenes,  las agencias de calificaci\u00f3n que han llevado a Grecia, Irlanda o  Portugal a la ruina (Moody\u00b4s, Standard &amp; Poor\u00b4s o Fitch) comenzar\u00e1n  de nuevo sus ataques.</p>\n<h2><strong>\u00bfQu\u00e9 se firma cu\u00e1ndo se ratifica el Pacto del Euro?</strong></h2>\n<p>&#8211;<strong>Los  salarios del sector p\u00fablico</strong> deber\u00e1n estar en consonancia con la  competitividad del sector privado, ES DECIR: nuevos recortes al sector  p\u00fablico que debe ofrecer los mismos beneficios que los salarios  irrisorios del sector privado y el aumento de las jornadas laborales.  Incluida la disminuci\u00f3n notable de los empleados p\u00fablicos.</p>\n<p>-Para  ello, todos los pa\u00edses deber\u00e1n<strong> ajustar sus leyes a lo que dicten los  bancos,</strong> ES DECIR: una vez m\u00e1s los pa\u00edses no legislar\u00e1n a favor de la  protecci\u00f3n y de los intereses del ciudadano y s\u00ed lo har\u00e1n a favor de las  grandes corporaciones bancarias y los mercados.</p>\n<p>-Se <strong>retrasar\u00e1n las edades de jubilaci\u00f3n</strong> en todos los pa\u00edses a corde con la esperanza de vida.</p>\n<p>-Fomento  de la competitividad:<strong> vincular los salarios con la productividad</strong>, tal y  como se ha empezado a hacer ya en Espa\u00f1a con la \u00faltima reforma laboral  que aboga por flexibilizar los despidos, convenios y contratos, de esta  forma se pone en peligro el actual sistema de negociaci\u00f3n colectiva.</p>\n<p>-Impulsar  el <strong>despedido barato</strong> y las Empresas de Trabajo Temporal (ETT). Los  bancos rebajar\u00e1n la fiscalidad para incentivar la contrataci\u00f3n de los  trabajadores, de esta manera se ir\u00e1 demoliendo el sistema de la  Seguridad Social y se ir\u00e1 introduciendo la figura del ?becario y del  precario perpetuo?.</p>\n<p>&#8211; <strong>Congelaci\u00f3n de todas las pensiones</strong>.</p>\n<p>&#8211;<strong>Reducci\u00f3n de ayudas sociales.</strong></p>\n<p>&#8211;<strong>Reducci\u00f3n de los sistemas de protecci\u00f3n social </strong>empeorando la Seguridad Social.</p>\n<p>&#8211;<strong>Reducci\u00f3n del gasto en educaci\u00f3n p\u00fablica</strong> de forma que, empeor\u00e1ndola, se promueva y se favorezca su privatizaci\u00f3n.</p>\n<p>&#8211;<strong>Aumento  de impuestos directos e indirectos</strong> a la ciudadan\u00eda y a la PYME y  penalizaci\u00f3n en caso de no cumplir con el pago de estos impuestos a  trav\u00e9s de multas, intereses, comisiones, etc. -Cambios en nuestra  constituci\u00f3n y en la de los pa\u00edses firmantes con el fin de ?ajustar la  econom\u00eda seg\u00fan los par\u00e1metros del FMI, BCE y Banco Mundial? con la  consiguiente p\u00e9rdida de la soberan\u00eda de los pueblos.</p>\n<h2>Conclusi\u00f3n</h2>\n<p>UNA VEZ M\u00c1S,  los gobiernos no utilizan el poder pol\u00edtico para legislar y frenar a  los provocadores de la crisis como la banca internacional y los grandes  fondos especulativos, por ejemplo, interviniendo a las corporaciones  financieras, sino que adem\u00e1s con la firma del Pacto del Euro\u00a0reforzar\u00e1n a  las grandes corporaciones financieras y adoptar\u00e1n pol\u00edticas que  interesan a la banca y a las grandes empresas europeas.</p>\n<p>Como  no ten\u00edamos bastante, todos los gobiernos independientemente de su  color pol\u00edtico, firman para comprometerse con las grandes corporaciones  financieras y sacrificar, as\u00ed, a los ciudadanos permitiendo UNA VEZ M\u00c1S que  los financieros sigan estafando al mundo utilizando productos  financieros tan sofisticados como arriesgados y fraudulentos,  permitiendo la usura bancaria.</p>\n<p>Bajo  el enga\u00f1o de hacer frente a la deuda que atenaza a Europa es preciso  aumentar la competitividad de las econom\u00edas nacionales y que eso solo se  puede conseguir reduciendo el coste del trabajo&#8230; UNA VEZ M\u00c1S</p>\n<p>Sigue  sin hablarse de intervenir a los para\u00edsos fiscales donde descansan las  grandes fortunas y hacer leyes contra la evasi\u00f3n fiscal. Sigue sin  hablarse de poner impuestos a las transacciones financieras, regular las  agencias de calificaci\u00f3n, etc. Sigue sin hablarse de medidas contra el  paro y a favor del bienestar social.</p>\n<p>Sigue  sin plantearse una auditor\u00eda p\u00fablica e independiente sobre la deuda a  efectos de que la ciudadan\u00eda pueda saber qu\u00e9 es realmente la deuda  p\u00fablica y cu\u00e1l es la que realmente corresponde a los bancos y a los  fondos de inversi\u00f3n privados que seg\u00fan los datos que tenemos es la  mayor\u00eda de la DEUDA.</p>\n<p>UNA VEZ M\u00c1S, nos  sirven en bandeja el empobrecimiento de la sociedad en beneficio de  ampliar las grandes fortunas y acentuar la brecha social.</p>\n<p>De esa forma, se ampliar\u00e1 as\u00ed, UNA VEZ M\u00c1S, el  r\u00e9cord hist\u00f3rico del beneficio de las grandes corporaciones  financieras, se aumentar\u00e1 el r\u00e9cord hist\u00f3rico de los salarios de los  consejeros delegados y ejecutivos y con ello alcanzaremos r\u00e9cords  hist\u00f3ricos de pobreza y paro.</p>\n<p><strong>La  dificultad de acceder a esta informaci\u00f3n se debe a la falta de  transparencia de las pol\u00edticas y al temor a que toda Europa tome la  calle.</strong></p>\n<p><strong>HAY RAZONES, UNA VEZ M\u00c1S, TOMA LA CALLE</strong></p>\n",
+    "rendered": "<p>El pr\u00f3ximo s\u00e1bado 18 de junio, nos juntaremos de nuevo en Asamblea en la Plaza Cervantes a las 12:00h. Esta vez para preparar la manifestaci\u00f3n de domingo 19J en Madrid. Os dejamos informaci\u00f3n de \u00abMESAS DE CONVERGENCIA Y ACCI\u00d3N CIUDADANA + DEMOCRACIA REAL YA + MOVIMIENTO 15 DE MAYO\u00bb.<!--more--></p>\n<h2>\u00bfQU\u00c9 PASA?</h2>\n<p><strong>\u00abEl pr\u00f3ximo 27 de junio,  todos los gobiernos europeos, entre ellos Espa\u00f1a, firman en Bruselas el  gran atraco socioecon\u00f3mico de alcance internacional: el llamado Pacto  del Euro, por el cual los pol\u00edticos de la Uni\u00f3n Europea se ponen de  acuerdo para legislar a las \u00f3rdenes del Fondo Monetario Internacional  (FMI), Banco Central Europeo (BCE) y el Banco Mundial (BM).\u00bb</strong></p>\n<p>En caso de no cumplir estas \u00f3rdenes,  las agencias de calificaci\u00f3n que han llevado a Grecia, Irlanda o  Portugal a la ruina (Moody\u00b4s, Standard &amp; Poor\u00b4s o Fitch) comenzar\u00e1n  de nuevo sus ataques.</p>\n<h2><strong>\u00bfQu\u00e9 se firma cu\u00e1ndo se ratifica el Pacto del Euro?</strong></h2>\n<p>&#8211;<strong>Los  salarios del sector p\u00fablico</strong> deber\u00e1n estar en consonancia con la  competitividad del sector privado, ES DECIR: nuevos recortes al sector  p\u00fablico que debe ofrecer los mismos beneficios que los salarios  irrisorios del sector privado y el aumento de las jornadas laborales.  Incluida la disminuci\u00f3n notable de los empleados p\u00fablicos.</p>\n<p>-Para  ello, todos los pa\u00edses deber\u00e1n<strong> ajustar sus leyes a lo que dicten los  bancos,</strong> ES DECIR: una vez m\u00e1s los pa\u00edses no legislar\u00e1n a favor de la  protecci\u00f3n y de los intereses del ciudadano y s\u00ed lo har\u00e1n a favor de las  grandes corporaciones bancarias y los mercados.</p>\n<p>-Se <strong>retrasar\u00e1n las edades de jubilaci\u00f3n</strong> en todos los pa\u00edses a corde con la esperanza de vida.</p>\n<p>-Fomento  de la competitividad:<strong> vincular los salarios con la productividad</strong>, tal y  como se ha empezado a hacer ya en Espa\u00f1a con la \u00faltima reforma laboral  que aboga por flexibilizar los despidos, convenios y contratos, de esta  forma se pone en peligro el actual sistema de negociaci\u00f3n colectiva.</p>\n<p>-Impulsar  el <strong>despedido barato</strong> y las Empresas de Trabajo Temporal (ETT). Los  bancos rebajar\u00e1n la fiscalidad para incentivar la contrataci\u00f3n de los  trabajadores, de esta manera se ir\u00e1 demoliendo el sistema de la  Seguridad Social y se ir\u00e1 introduciendo la figura del ?becario y del  precario perpetuo?.</p>\n<p>&#8211; <strong>Congelaci\u00f3n de todas las pensiones</strong>.</p>\n<p>&#8211;<strong>Reducci\u00f3n de ayudas sociales.</strong></p>\n<p>&#8211;<strong>Reducci\u00f3n de los sistemas de protecci\u00f3n social </strong>empeorando la Seguridad Social.</p>\n<p>&#8211;<strong>Reducci\u00f3n del gasto en educaci\u00f3n p\u00fablica</strong> de forma que, empeor\u00e1ndola, se promueva y se favorezca su privatizaci\u00f3n.</p>\n<p>&#8211;<strong>Aumento  de impuestos directos e indirectos</strong> a la ciudadan\u00eda y a la PYME y  penalizaci\u00f3n en caso de no cumplir con el pago de estos impuestos a  trav\u00e9s de multas, intereses, comisiones, etc. -Cambios en nuestra  constituci\u00f3n y en la de los pa\u00edses firmantes con el fin de ?ajustar la  econom\u00eda seg\u00fan los par\u00e1metros del FMI, BCE y Banco Mundial? con la  consiguiente p\u00e9rdida de la soberan\u00eda de los pueblos.</p>\n<h2>Conclusi\u00f3n</h2>\n<p>UNA VEZ M\u00c1S,  los gobiernos no utilizan el poder pol\u00edtico para legislar y frenar a  los provocadores de la crisis como la banca internacional y los grandes  fondos especulativos, por ejemplo, interviniendo a las corporaciones  financieras, sino que adem\u00e1s con la firma del Pacto del Euro\u00a0reforzar\u00e1n a  las grandes corporaciones financieras y adoptar\u00e1n pol\u00edticas que  interesan a la banca y a las grandes empresas europeas.</p>\n<p>Como  no ten\u00edamos bastante, todos los gobiernos independientemente de su  color pol\u00edtico, firman para comprometerse con las grandes corporaciones  financieras y sacrificar, as\u00ed, a los ciudadanos permitiendo UNA VEZ M\u00c1S que  los financieros sigan estafando al mundo utilizando productos  financieros tan sofisticados como arriesgados y fraudulentos,  permitiendo la usura bancaria.</p>\n<p>Bajo  el enga\u00f1o de hacer frente a la deuda que atenaza a Europa es preciso  aumentar la competitividad de las econom\u00edas nacionales y que eso solo se  puede conseguir reduciendo el coste del trabajo&#8230; UNA VEZ M\u00c1S</p>\n<p>Sigue  sin hablarse de intervenir a los para\u00edsos fiscales donde descansan las  grandes fortunas y hacer leyes contra la evasi\u00f3n fiscal. Sigue sin  hablarse de poner impuestos a las transacciones financieras, regular las  agencias de calificaci\u00f3n, etc. Sigue sin hablarse de medidas contra el  paro y a favor del bienestar social.</p>\n<p>Sigue  sin plantearse una auditor\u00eda p\u00fablica e independiente sobre la deuda a  efectos de que la ciudadan\u00eda pueda saber qu\u00e9 es realmente la deuda  p\u00fablica y cu\u00e1l es la que realmente corresponde a los bancos y a los  fondos de inversi\u00f3n privados que seg\u00fan los datos que tenemos es la  mayor\u00eda de la DEUDA.</p>\n<p>UNA VEZ M\u00c1S, nos  sirven en bandeja el empobrecimiento de la sociedad en beneficio de  ampliar las grandes fortunas y acentuar la brecha social.</p>\n<p>De esa forma, se ampliar\u00e1 as\u00ed, UNA VEZ M\u00c1S, el  r\u00e9cord hist\u00f3rico del beneficio de las grandes corporaciones  financieras, se aumentar\u00e1 el r\u00e9cord hist\u00f3rico de los salarios de los  consejeros delegados y ejecutivos y con ello alcanzaremos r\u00e9cords  hist\u00f3ricos de pobreza y paro.</p>\n<p><strong>La  dificultad de acceder a esta informaci\u00f3n se debe a la falta de  transparencia de las pol\u00edticas y al temor a que toda Europa tome la  calle.</strong></p>\n<p><strong>HAY RAZONES, UNA VEZ M\u00c1S, TOMA LA CALLE</strong></p>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>El pr\u00f3ximo s\u00e1bado 18 de junio, nos juntaremos de nuevo en Asamblea en la Plaza Cervantes a las 12:00h. Esta vez para preparar la manifestaci\u00f3n de domingo 19J en Madrid. Os dejamos informaci\u00f3n de &#171;MESAS DE CONVERGENCIA Y ACCI\u00d3N CIUDADANA &hellip; <a href=\"https://hoyodemanzanares.tomalosbarrios.net/2011/06/14/asamblea-sabado-18-06-2011/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+    "rendered": "<p>El pr\u00f3ximo s\u00e1bado 18 de junio, nos juntaremos de nuevo en Asamblea en la Plaza Cervantes a las 12:00h. Esta vez para preparar la manifestaci\u00f3n de domingo 19J en Madrid. Os dejamos informaci\u00f3n de \u00abMESAS DE CONVERGENCIA Y ACCI\u00d3N CIUDADANA &hellip; <a href=\"https://hoyodemanzanares.tomalosbarrios.net/2011/06/14/asamblea-sabado-18-06-2011/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
     "protected": false
   },
   "author": 247,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4156,14 +3964,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/43/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 47,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/43/revisions/47"
       }
     ],
     "wp:attachment": [
@@ -4217,7 +4019,7 @@
   },
   "author": 247,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4258,14 +4060,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/32/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 39,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/32/revisions/39"
       }
     ],
     "wp:attachment": [
@@ -4410,7 +4206,7 @@
     "rendered": "Cartel Asambleas 12-06-2011"
   },
   "author": 247,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -4472,7 +4268,7 @@
     "rendered": "Cartel Asamblea 12-06-2011"
   },
   "content": {
-    "rendered": "<p>Hola a todos,</p>\n<p>Os dejamos el link al <strong>cartel de la asamblea</strong> del pr\u00f3ximo domingo. No tenemos coordinado en principio qui\u00e9n lo imprime o lo reparte. As\u00ed que esta vez, dejamos en vuestras manos el c\u00f3mo conseguir que la gente se entere y venga a la asamblea.<!--more--></p>\n<p><a title=\"Cartel Asamblea Hoyo\" href=\"http://hoyodemanzanares.tomalosbarrios.net/files/2011/06/Cartel-Asambleas-12-06-2011.pdf\" target=\"_blank\">Cartel Asambleas 12-06-2011</a></p>\n<p>Hubo una simp\u00e1tica propuesta el \u00faltimo d\u00eda:\u00a0 &#171;<strong>traer a alguien nuevo</strong>&#171;. As\u00ed que os animamos a convencer a vuestro vecino, hermano, o lo que sea, para que se una a nuestra asamblea.</p>\n<p>Saludos</p>\n",
+    "rendered": "<p>Hola a todos,</p>\n<p>Os dejamos el link al <strong>cartel de la asamblea</strong> del pr\u00f3ximo domingo. No tenemos coordinado en principio qui\u00e9n lo imprime o lo reparte. As\u00ed que esta vez, dejamos en vuestras manos el c\u00f3mo conseguir que la gente se entere y venga a la asamblea.<!--more--></p>\n<p><a title=\"Cartel Asamblea Hoyo\" href=\"http://hoyodemanzanares.tomalosbarrios.net/files/2011/06/Cartel-Asambleas-12-06-2011.pdf\" target=\"_blank\">Cartel Asambleas 12-06-2011</a></p>\n<p>Hubo una simp\u00e1tica propuesta el \u00faltimo d\u00eda:\u00a0 \u00ab<strong>traer a alguien nuevo</strong>\u00ab. As\u00ed que os animamos a convencer a vuestro vecino, hermano, o lo que sea, para que se una a nuestra asamblea.</p>\n<p>Saludos</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -4481,7 +4277,7 @@
   },
   "author": 247,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4523,14 +4319,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/25/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 148,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/25/revisions/148"
       }
     ],
     "wp:attachment": [
@@ -4584,7 +4374,7 @@
   },
   "author": 247,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4625,14 +4415,8 @@
     ],
     "version-history": [
       {
-        "count": 6,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/16/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 21,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/16/revisions/21"
       }
     ],
     "wp:attachment": [
@@ -4686,7 +4470,7 @@
   },
   "author": 247,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4727,14 +4511,8 @@
     ],
     "version-history": [
       {
-        "count": 9,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/8/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 15,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/8/revisions/15"
       }
     ],
     "wp:attachment": [
@@ -4788,7 +4566,7 @@
   },
   "author": 7,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4829,14 +4607,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/1/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 5,
-        "href": "https://hoyodemanzanares.tomalosbarrios.net/wp-json/wp/v2/posts/1/revisions/5"
       }
     ],
     "wp:attachment": [

@@ -99,7 +99,7 @@
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://zaragoza.tomalaplaza.net/files/2016/04/12961267_1005039899584811_6635434571729160577_o.jpg'><img width=\"300\" height=\"114\" src=\"https://zaragoza.tomalaplaza.net/files/2016/04/12961267_1005039899584811_6635434571729160577_o-300x114.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://zaragoza.tomalaplaza.net/files/2016/04/12961267_1005039899584811_6635434571729160577_o-300x114.jpg 300w, https://zaragoza.tomalaplaza.net/files/2016/04/12961267_1005039899584811_6635434571729160577_o-768x292.jpg 768w, https://zaragoza.tomalaplaza.net/files/2016/04/12961267_1005039899584811_6635434571729160577_o-1024x389.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://zaragoza.tomalaplaza.net/files/2016/04/12961267_1005039899584811_6635434571729160577_o.jpg'><img width=\"300\" height=\"114\" src=\"https://zaragoza.tomalaplaza.net/files/2016/04/12961267_1005039899584811_6635434571729160577_o-300x114.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://zaragoza.tomalaplaza.net/files/2016/04/12961267_1005039899584811_6635434571729160577_o-300x114.jpg 300w, https://zaragoza.tomalaplaza.net/files/2016/04/12961267_1005039899584811_6635434571729160577_o-768x292.jpg 768w, https://zaragoza.tomalaplaza.net/files/2016/04/12961267_1005039899584811_6635434571729160577_o-1024x389.jpg 1024w, https://zaragoza.tomalaplaza.net/files/2016/04/12961267_1005039899584811_6635434571729160577_o.jpg 2048w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -260,7 +260,7 @@
     "rendered": "15M Zaragoza 2016"
   },
   "content": {
-    "rendered": "<p><a href=\"http://zaragoza.tomalaplaza.net/files/2016/04/12961267_1005039899584811_6635434571729160577_o.jpg\"><img class=\"alignnone wp-image-39 size-large\" src=\"http://zaragoza.tomalaplaza.net/files/2016/04/12961267_1005039899584811_6635434571729160577_o-1024x389.jpg\" alt=\"12961267_1005039899584811_6635434571729160577_o\" width=\"695\" height=\"264\" srcset=\"https://zaragoza.tomalaplaza.net/files/2016/04/12961267_1005039899584811_6635434571729160577_o-1024x389.jpg 1024w, https://zaragoza.tomalaplaza.net/files/2016/04/12961267_1005039899584811_6635434571729160577_o-300x114.jpg 300w, https://zaragoza.tomalaplaza.net/files/2016/04/12961267_1005039899584811_6635434571729160577_o-768x292.jpg 768w\" sizes=\"(max-width: 695px) 100vw, 695px\" /></a></p>\n",
+    "rendered": "<p><a href=\"http://zaragoza.tomalaplaza.net/files/2016/04/12961267_1005039899584811_6635434571729160577_o.jpg\"><img loading=\"lazy\" class=\"alignnone wp-image-39 size-large\" src=\"http://zaragoza.tomalaplaza.net/files/2016/04/12961267_1005039899584811_6635434571729160577_o-1024x389.jpg\" alt=\"12961267_1005039899584811_6635434571729160577_o\" width=\"695\" height=\"264\" srcset=\"https://zaragoza.tomalaplaza.net/files/2016/04/12961267_1005039899584811_6635434571729160577_o-1024x389.jpg 1024w, https://zaragoza.tomalaplaza.net/files/2016/04/12961267_1005039899584811_6635434571729160577_o-300x114.jpg 300w, https://zaragoza.tomalaplaza.net/files/2016/04/12961267_1005039899584811_6635434571729160577_o-768x292.jpg 768w, https://zaragoza.tomalaplaza.net/files/2016/04/12961267_1005039899584811_6635434571729160577_o.jpg 2048w\" sizes=\"(max-width: 695px) 100vw, 695px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -310,14 +310,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://zaragoza.tomalaplaza.net/wp-json/wp/v2/posts/38/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 40,
-        "href": "https://zaragoza.tomalaplaza.net/wp-json/wp/v2/posts/38/revisions/40"
       }
     ],
     "wp:attachment": [

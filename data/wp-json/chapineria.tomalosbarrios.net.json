@@ -15,12 +15,12 @@
     "rendered": "15MSierraOeste-JornadaDeDifusin15M554"
   },
   "author": 260,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://chapineria.tomalosbarrios.net/files/2011/08/15MSierraOeste-JornadaDeDifusin15M554.jpg'><img width=\"300\" height=\"212\" src=\"https://chapineria.tomalosbarrios.net/files/2011/08/15MSierraOeste-JornadaDeDifusin15M554-300x212.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/08/15MSierraOeste-JornadaDeDifusin15M554-300x212.jpg 300w, https://chapineria.tomalosbarrios.net/files/2011/08/15MSierraOeste-JornadaDeDifusin15M554.jpg 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://chapineria.tomalosbarrios.net/files/2011/08/15MSierraOeste-JornadaDeDifusin15M554.jpg'><img width=\"300\" height=\"212\" src=\"https://chapineria.tomalosbarrios.net/files/2011/08/15MSierraOeste-JornadaDeDifusin15M554-300x212.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/08/15MSierraOeste-JornadaDeDifusin15M554-300x212.jpg 300w, https://chapineria.tomalosbarrios.net/files/2011/08/15MSierraOeste-JornadaDeDifusin15M554.jpg 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -121,7 +121,7 @@
     "rendered": "Video de la jornada de difusi\u00f3n del 15M del s\u00e1bado 30 de julio en Chapiner\u00eda"
   },
   "content": {
-    "rendered": "<p><a href=\"http://blip.tv/15-m-sierra-oeste/jornada-de-difusi%C3%B3n-15-m-5460957\"><img class=\"size-medium wp-image-231 aligncenter\" src=\"http://chapineria.tomalosbarrios.net/files/2011/08/15MSierraOeste-JornadaDeDifusin15M554-300x212.jpg\" alt=\"\" width=\"300\" height=\"212\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/08/15MSierraOeste-JornadaDeDifusin15M554-300x212.jpg 300w, https://chapineria.tomalosbarrios.net/files/2011/08/15MSierraOeste-JornadaDeDifusin15M554.jpg 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n",
+    "rendered": "<p><a href=\"http://blip.tv/15-m-sierra-oeste/jornada-de-difusi%C3%B3n-15-m-5460957\"><img loading=\"lazy\" class=\"size-medium wp-image-231 aligncenter\" src=\"http://chapineria.tomalosbarrios.net/files/2011/08/15MSierraOeste-JornadaDeDifusin15M554-300x212.jpg\" alt=\"\" width=\"300\" height=\"212\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/08/15MSierraOeste-JornadaDeDifusin15M554-300x212.jpg 300w, https://chapineria.tomalosbarrios.net/files/2011/08/15MSierraOeste-JornadaDeDifusin15M554.jpg 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -130,7 +130,7 @@
   },
   "author": 260,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -171,14 +171,8 @@
     ],
     "version-history": [
       {
-        "count": 27,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/posts/205/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 233,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/posts/205/revisions/233"
       }
     ],
     "wp:attachment": [
@@ -232,7 +226,7 @@
   },
   "author": 260,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -274,14 +268,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/posts/202/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 204,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/posts/202/revisions/204"
       }
     ],
     "wp:attachment": [
@@ -326,12 +314,12 @@
     "rendered": "Chapi30J"
   },
   "author": 260,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://chapineria.tomalosbarrios.net/files/2011/07/Chapi30J-.jpg'><img width=\"212\" height=\"300\" src=\"https://chapineria.tomalosbarrios.net/files/2011/07/Chapi30J--212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/07/Chapi30J--212x300.jpg 212w, https://chapineria.tomalosbarrios.net/files/2011/07/Chapi30J--724x1024.jpg 724w, https://chapineria.tomalosbarrios.net/files/2011/07/Chapi30J-.jpg 886w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://chapineria.tomalosbarrios.net/files/2011/07/Chapi30J-.jpg'><img width=\"212\" height=\"300\" src=\"https://chapineria.tomalosbarrios.net/files/2011/07/Chapi30J--212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/07/Chapi30J--212x300.jpg 212w, https://chapineria.tomalosbarrios.net/files/2011/07/Chapi30J--724x1024.jpg 724w, https://chapineria.tomalosbarrios.net/files/2011/07/Chapi30J-.jpg 886w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -438,12 +426,12 @@
     "rendered": "cartelChapi30J"
   },
   "author": 260,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://chapineria.tomalosbarrios.net/files/2011/07/cartelChapi30J-1.jpg'><img width=\"212\" height=\"300\" src=\"https://chapineria.tomalosbarrios.net/files/2011/07/cartelChapi30J-1-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/07/cartelChapi30J-1-212x300.jpg 212w, https://chapineria.tomalosbarrios.net/files/2011/07/cartelChapi30J-1-724x1024.jpg 724w, https://chapineria.tomalosbarrios.net/files/2011/07/cartelChapi30J-1.jpg 886w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://chapineria.tomalosbarrios.net/files/2011/07/cartelChapi30J-1.jpg'><img width=\"212\" height=\"300\" src=\"https://chapineria.tomalosbarrios.net/files/2011/07/cartelChapi30J-1-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/07/cartelChapi30J-1-212x300.jpg 212w, https://chapineria.tomalosbarrios.net/files/2011/07/cartelChapi30J-1-724x1024.jpg 724w, https://chapineria.tomalosbarrios.net/files/2011/07/cartelChapi30J-1.jpg 886w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -550,12 +538,12 @@
     "rendered": "cartelChapi30J"
   },
   "author": 260,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://chapineria.tomalosbarrios.net/files/2011/07/cartelChapi30J-.jpg'><img width=\"212\" height=\"300\" src=\"https://chapineria.tomalosbarrios.net/files/2011/07/cartelChapi30J--212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/07/cartelChapi30J--212x300.jpg 212w, https://chapineria.tomalosbarrios.net/files/2011/07/cartelChapi30J--724x1024.jpg 724w, https://chapineria.tomalosbarrios.net/files/2011/07/cartelChapi30J-.jpg 886w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://chapineria.tomalosbarrios.net/files/2011/07/cartelChapi30J-.jpg'><img width=\"212\" height=\"300\" src=\"https://chapineria.tomalosbarrios.net/files/2011/07/cartelChapi30J--212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/07/cartelChapi30J--212x300.jpg 212w, https://chapineria.tomalosbarrios.net/files/2011/07/cartelChapi30J--724x1024.jpg 724w, https://chapineria.tomalosbarrios.net/files/2011/07/cartelChapi30J-.jpg 886w\" sizes=\"(max-width: 212px) 100vw, 212px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -662,7 +650,7 @@
     "rendered": "Jornada de difusi\u00f3n del 15M en Chapiner\u00eda"
   },
   "content": {
-    "rendered": "<p><a href=\"http://chapineria.tomalosbarrios.net/files/2011/07/Chapi30J-.jpg\"><img class=\"aligncenter size-large wp-image-200\" src=\"http://chapineria.tomalosbarrios.net/files/2011/07/Chapi30J--724x1024.jpg\" alt=\"\" width=\"640\" height=\"905\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/07/Chapi30J--724x1024.jpg 724w, https://chapineria.tomalosbarrios.net/files/2011/07/Chapi30J--212x300.jpg 212w, https://chapineria.tomalosbarrios.net/files/2011/07/Chapi30J-.jpg 886w\" sizes=\"(max-width: 640px) 100vw, 640px\" /></a></p>\n<p>&nbsp;</p>\n",
+    "rendered": "<p><a href=\"http://chapineria.tomalosbarrios.net/files/2011/07/Chapi30J-.jpg\"><img loading=\"lazy\" class=\"aligncenter size-large wp-image-200\" src=\"http://chapineria.tomalosbarrios.net/files/2011/07/Chapi30J--724x1024.jpg\" alt=\"\" width=\"640\" height=\"905\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/07/Chapi30J--724x1024.jpg 724w, https://chapineria.tomalosbarrios.net/files/2011/07/Chapi30J--212x300.jpg 212w, https://chapineria.tomalosbarrios.net/files/2011/07/Chapi30J-.jpg 886w\" sizes=\"(max-width: 640px) 100vw, 640px\" /></a></p>\n<p>&nbsp;</p>\n",
     "protected": false
   },
   "excerpt": {
@@ -671,7 +659,7 @@
   },
   "author": 260,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -712,14 +700,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/posts/195/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 198,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/posts/195/revisions/198"
       }
     ],
     "wp:attachment": [
@@ -775,7 +757,7 @@
   "featured_media": 0,
   "parent": 2,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -809,14 +791,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/192/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 194,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/192/revisions/194"
       }
     ],
     "up": [
@@ -864,7 +840,7 @@
   },
   "author": 260,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -905,14 +881,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/posts/190/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 191,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/posts/190/revisions/191"
       }
     ],
     "wp:attachment": [
@@ -968,7 +938,7 @@
   "featured_media": 0,
   "parent": 2,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1002,14 +972,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/188/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 189,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/188/revisions/189"
       }
     ],
     "up": [
@@ -1057,7 +1021,7 @@
   },
   "author": 260,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1099,14 +1063,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/posts/185/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 187,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/posts/185/revisions/187"
       }
     ],
     "wp:attachment": [
@@ -1160,7 +1118,7 @@
   },
   "author": 260,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1202,14 +1160,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/posts/182/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 184,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/posts/182/revisions/184"
       }
     ],
     "wp:attachment": [
@@ -1265,7 +1217,7 @@
   "featured_media": 0,
   "parent": 2,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1299,14 +1251,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/178/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 180,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/178/revisions/180"
       }
     ],
     "up": [
@@ -1356,7 +1302,7 @@
   "featured_media": 0,
   "parent": 71,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1390,14 +1336,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/175/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 176,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/175/revisions/176"
       }
     ],
     "up": [
@@ -1445,7 +1385,7 @@
   },
   "author": 260,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1488,14 +1428,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/posts/172/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 174,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/posts/172/revisions/174"
       }
     ],
     "wp:attachment": [
@@ -1549,7 +1483,7 @@
   },
   "author": 260,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1591,14 +1525,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/posts/167/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 169,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/posts/167/revisions/169"
       }
     ],
     "wp:attachment": [
@@ -1643,7 +1571,7 @@
     "rendered": "cabecera_barrios.jpg"
   },
   "author": 260,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -1752,7 +1680,7 @@
   },
   "author": 260,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1794,14 +1722,8 @@
     ],
     "version-history": [
       {
-        "count": 7,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/posts/158/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 166,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/posts/158/revisions/166"
       }
     ],
     "wp:attachment": [
@@ -1855,7 +1777,7 @@
   },
   "author": 260,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -1896,14 +1818,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/posts/156/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 157,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/posts/156/revisions/157"
       }
     ],
     "wp:attachment": [
@@ -1948,12 +1864,12 @@
     "rendered": "A4_cartel_chapi11611"
   },
   "author": 260,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi11611.jpg'><img width=\"211\" height=\"300\" src=\"https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi11611-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi11611-211x300.jpg 211w, https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi11611-723x1024.jpg 723w, https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi11611.jpg 823w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi11611.jpg'><img width=\"211\" height=\"300\" src=\"https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi11611-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi11611-211x300.jpg 211w, https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi11611-723x1024.jpg 723w, https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi11611.jpg 823w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2060,12 +1976,12 @@
     "rendered": "A3_cartel_chapi11611"
   },
   "author": 260,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi11611.jpg'><img width=\"211\" height=\"300\" src=\"https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi11611-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi11611-211x300.jpg 211w, https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi11611-723x1024.jpg 723w, https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi11611.jpg 1165w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi11611.jpg'><img width=\"211\" height=\"300\" src=\"https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi11611-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi11611-211x300.jpg 211w, https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi11611-723x1024.jpg 723w, https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi11611.jpg 1165w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -2172,7 +2088,7 @@
     "rendered": "LEY ORGANICA 9 1999.3"
   },
   "author": 260,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2234,7 +2150,7 @@
     "rendered": "LEY ORGANICA 9 1999. 2"
   },
   "author": 260,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2296,7 +2212,7 @@
     "rendered": "LEY ORGANICA 9 1999"
   },
   "author": 260,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2367,7 +2283,7 @@
   },
   "author": 260,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2408,14 +2324,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/posts/145/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 150,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/posts/145/revisions/150"
       }
     ],
     "wp:attachment": [
@@ -2460,16 +2370,16 @@
     "rendered": "Propuesta de Comisi\u00f3n Laboral"
   },
   "content": {
-    "rendered": "<ol>\n<li>Taller de difusi\u00f3n &#171;Derechos laborales actuales&#187; (a desarrollar en\u00a0varios puntos)</li>\n<li>Asesoramiento b\u00e1sico en materia laboral</li>\n<li>Autogesti\u00f3n (Me inetresa alguien que pueda impartir esos cursos)</li>\n<li>Alternativa en los pueblos. Las Cooperativas.</li>\n<li>Bancos de tiempo (que ya se desarrollan en municipios como Rivas)</li>\n</ol>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
+    "rendered": "<ol>\n<li>Taller de difusi\u00f3n \u00abDerechos laborales actuales\u00bb (a desarrollar en\u00a0varios puntos)</li>\n<li>Asesoramiento b\u00e1sico en materia laboral</li>\n<li>Autogesti\u00f3n (Me inetresa alguien que pueda impartir esos cursos)</li>\n<li>Alternativa en los pueblos. Las Cooperativas.</li>\n<li>Bancos de tiempo (que ya se desarrollan en municipios como Rivas)</li>\n</ol>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>Taller de difusi\u00f3n &#171;Derechos laborales actuales&#187; (a desarrollar en\u00a0varios puntos) Asesoramiento b\u00e1sico en materia laboral Autogesti\u00f3n (Me inetresa alguien que pueda impartir esos cursos) Alternativa en los pueblos. Las Cooperativas. Bancos de tiempo (que ya se desarrollan en municipios como &hellip; <a href=\"https://chapineria.tomalosbarrios.net/2011/06/08/propuesta-de-comision-laboral/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+    "rendered": "<p>Taller de difusi\u00f3n \u00abDerechos laborales actuales\u00bb (a desarrollar en\u00a0varios puntos) Asesoramiento b\u00e1sico en materia laboral Autogesti\u00f3n (Me inetresa alguien que pueda impartir esos cursos) Alternativa en los pueblos. Las Cooperativas. Bancos de tiempo (que ya se desarrollan en municipios como &hellip; <a href=\"https://chapineria.tomalosbarrios.net/2011/06/08/propuesta-de-comision-laboral/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
     "protected": false
   },
   "author": 260,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2510,14 +2420,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/posts/142/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 144,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/posts/142/revisions/144"
       }
     ],
     "wp:attachment": [
@@ -2562,18 +2466,18 @@
     "rendered": "Comisi\u00f3n Laboral"
   },
   "content": {
-    "rendered": "<h1><strong>Propuesta Comisi\u00f3n Laboral </strong></h1>\n<ol>\n<li><span style=\"color: #000000;font-size: 18px;line-height: 27px\">Taller de difusi\u00f3n &#171;Derechos laborales actuales&#187; (a desarrollar en </span><span style=\"color: #000000;font-size: 18px;line-height: 27px\">varios puntos) </span></li>\n<li><span style=\"color: #000000;font-size: 18px;line-height: 27px\">Asesoramiento b\u00e1sico en materia laboral </span></li>\n<li><span style=\"color: #000000;font-size: 18px;line-height: 27px\">Autogesti\u00f3n (Me inetresa alguien que pueda impartir esos cursos) </span></li>\n<li><span style=\"color: #000000;font-size: 18px;line-height: 27px\">Alternativa en los pueblos. Las Cooperativas. </span></li>\n<li><span style=\"color: #000000;font-size: 18px;line-height: 27px\">Bancos de tiempo (que ya se desarrollan en municipios como Rivas) </span></li>\n</ol>\n<h3></h3>\n",
+    "rendered": "<h1><strong>Propuesta Comisi\u00f3n Laboral </strong></h1>\n<ol>\n<li><span style=\"color: #000000;font-size: 18px;line-height: 27px\">Taller de difusi\u00f3n \u00abDerechos laborales actuales\u00bb (a desarrollar en </span><span style=\"color: #000000;font-size: 18px;line-height: 27px\">varios puntos) </span></li>\n<li><span style=\"color: #000000;font-size: 18px;line-height: 27px\">Asesoramiento b\u00e1sico en materia laboral </span></li>\n<li><span style=\"color: #000000;font-size: 18px;line-height: 27px\">Autogesti\u00f3n (Me inetresa alguien que pueda impartir esos cursos) </span></li>\n<li><span style=\"color: #000000;font-size: 18px;line-height: 27px\">Alternativa en los pueblos. Las Cooperativas. </span></li>\n<li><span style=\"color: #000000;font-size: 18px;line-height: 27px\">Bancos de tiempo (que ya se desarrollan en municipios como Rivas) </span></li>\n</ol>\n<h3></h3>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>Propuesta Comisi\u00f3n Laboral Taller de difusi\u00f3n &#171;Derechos laborales actuales&#187; (a desarrollar en varios puntos) Asesoramiento b\u00e1sico en materia laboral Autogesti\u00f3n (Me inetresa alguien que pueda impartir esos cursos) Alternativa en los pueblos. Las Cooperativas. Bancos de tiempo (que ya se &hellip; <a href=\"https://chapineria.tomalosbarrios.net/comisiones/comision-laboral/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+    "rendered": "<p>Propuesta Comisi\u00f3n Laboral Taller de difusi\u00f3n \u00abDerechos laborales actuales\u00bb (a desarrollar en varios puntos) Asesoramiento b\u00e1sico en materia laboral Autogesti\u00f3n (Me inetresa alguien que pueda impartir esos cursos) Alternativa en los pueblos. Las Cooperativas. Bancos de tiempo (que ya se &hellip; <a href=\"https://chapineria.tomalosbarrios.net/comisiones/comision-laboral/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
     "protected": false
   },
   "author": 260,
   "featured_media": 0,
   "parent": 7,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2607,14 +2511,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/138/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 140,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/138/revisions/140"
       }
     ],
     "up": [
@@ -2662,7 +2560,7 @@
   },
   "author": 260,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2703,14 +2601,8 @@
     ],
     "version-history": [
       {
-        "count": 3,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/posts/125/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 128,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/posts/125/revisions/128"
       }
     ],
     "wp:attachment": [
@@ -2764,7 +2656,7 @@
   },
   "author": 260,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -2809,14 +2701,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/posts/120/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 122,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/posts/120/revisions/122"
       }
     ],
     "wp:attachment": [
@@ -2872,7 +2758,7 @@
   "featured_media": 0,
   "parent": 7,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -2906,14 +2792,8 @@
     ],
     "version-history": [
       {
-        "count": 4,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/110/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 118,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/110/revisions/118"
       }
     ],
     "up": [
@@ -2961,7 +2841,7 @@
   },
   "author": 260,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -3002,14 +2882,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/posts/106/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 108,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/posts/106/revisions/108"
       }
     ],
     "wp:attachment": [
@@ -3054,7 +2928,7 @@
     "rendered": "ACTA N\u00ba 1 DE LA ASAMBLEA POPULAR DE CHAPINER\u00cdA, COLMENAR DEL ARROYO, NAVAS DEL REY Y PUEBLOS PR\u00d3XIMOS"
   },
   "author": 260,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3127,7 +3001,7 @@
   "featured_media": 0,
   "parent": 7,
   "menu_order": 1,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3161,14 +3035,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/93/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 94,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/93/revisions/94"
       }
     ],
     "up": [
@@ -3218,7 +3086,7 @@
   "featured_media": 0,
   "parent": 110,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3252,14 +3120,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/91/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 112,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/91/revisions/112"
       }
     ],
     "up": [
@@ -3309,7 +3171,7 @@
   "featured_media": 0,
   "parent": 110,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3343,14 +3205,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/89/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 115,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/89/revisions/115"
       }
     ],
     "up": [
@@ -3400,7 +3256,7 @@
   "featured_media": 0,
   "parent": 110,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3434,14 +3290,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/87/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 114,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/87/revisions/114"
       }
     ],
     "up": [
@@ -3491,7 +3341,7 @@
   "featured_media": 0,
   "parent": 110,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3525,14 +3375,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/85/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 113,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/85/revisions/113"
       }
     ],
     "up": [
@@ -3582,7 +3426,7 @@
   "featured_media": 0,
   "parent": 7,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3616,14 +3460,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/81/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 83,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/81/revisions/83"
       }
     ],
     "up": [
@@ -3673,7 +3511,7 @@
   "featured_media": 0,
   "parent": 7,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3707,14 +3545,8 @@
     ],
     "version-history": [
       {
-        "count": 2,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/79/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 84,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/79/revisions/84"
       }
     ],
     "up": [
@@ -3764,7 +3596,7 @@
   "featured_media": 0,
   "parent": 7,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3798,14 +3630,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/77/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 78,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/77/revisions/78"
       }
     ],
     "up": [
@@ -3855,7 +3681,7 @@
   "featured_media": 0,
   "parent": 7,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3889,14 +3715,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/75/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 76,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/75/revisions/76"
       }
     ],
     "up": [
@@ -3946,7 +3766,7 @@
   "featured_media": 0,
   "parent": 7,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -3980,14 +3800,8 @@
     ],
     "version-history": [
       {
-        "count": 1,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/73/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 74,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/73/revisions/74"
       }
     ],
     "up": [
@@ -4037,7 +3851,7 @@
   "featured_media": 0,
   "parent": 7,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -4071,14 +3885,8 @@
     ],
     "version-history": [
       {
-        "count": 7,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/71/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 170,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/71/revisions/170"
       }
     ],
     "up": [
@@ -4117,7 +3925,7 @@
     "rendered": "SurOesteSeMueve"
   },
   "author": 260,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -4211,12 +4019,12 @@
     "rendered": "OLYMPUS DIGITAL CAMERA"
   },
   "author": 260,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://chapineria.tomalosbarrios.net/files/2011/06/P1010003.jpg'><img width=\"300\" height=\"224\" src=\"https://chapineria.tomalosbarrios.net/files/2011/06/P1010003-300x224.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/06/P1010003-300x224.jpg 300w, https://chapineria.tomalosbarrios.net/files/2011/06/P1010003-1024x766.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://chapineria.tomalosbarrios.net/files/2011/06/P1010003.jpg'><img width=\"300\" height=\"224\" src=\"https://chapineria.tomalosbarrios.net/files/2011/06/P1010003-300x224.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/06/P1010003-300x224.jpg 300w, https://chapineria.tomalosbarrios.net/files/2011/06/P1010003-1024x766.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4323,12 +4131,12 @@
     "rendered": "OLYMPUS DIGITAL CAMERA"
   },
   "author": 260,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://chapineria.tomalosbarrios.net/files/2011/06/P1010002.jpg'><img width=\"300\" height=\"224\" src=\"https://chapineria.tomalosbarrios.net/files/2011/06/P1010002-300x224.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/06/P1010002-300x224.jpg 300w, https://chapineria.tomalosbarrios.net/files/2011/06/P1010002-1024x766.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://chapineria.tomalosbarrios.net/files/2011/06/P1010002.jpg'><img width=\"300\" height=\"224\" src=\"https://chapineria.tomalosbarrios.net/files/2011/06/P1010002-300x224.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/06/P1010002-300x224.jpg 300w, https://chapineria.tomalosbarrios.net/files/2011/06/P1010002-1024x766.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4435,12 +4243,12 @@
     "rendered": "OLYMPUS DIGITAL CAMERA"
   },
   "author": 260,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://chapineria.tomalosbarrios.net/files/2011/06/P1010001.jpg'><img width=\"300\" height=\"224\" src=\"https://chapineria.tomalosbarrios.net/files/2011/06/P1010001-300x224.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/06/P1010001-300x224.jpg 300w, https://chapineria.tomalosbarrios.net/files/2011/06/P1010001-1024x766.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://chapineria.tomalosbarrios.net/files/2011/06/P1010001.jpg'><img width=\"300\" height=\"224\" src=\"https://chapineria.tomalosbarrios.net/files/2011/06/P1010001-300x224.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/06/P1010001-300x224.jpg 300w, https://chapineria.tomalosbarrios.net/files/2011/06/P1010001-1024x766.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4547,7 +4355,7 @@
     "rendered": "Gu\u00eda_grupo_sin_Gmail"
   },
   "author": 260,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -4609,16 +4417,16 @@
     "rendered": "NO M\u00c1S E-MAILS"
   },
   "content": {
-    "rendered": "<p>Desde hoy y para evitar que las cuentas de emails que facilitamos en la \u00faltima asamblea se &#171;saturen&#187; de correos del grupo, desde la comisi\u00f3n de Comunicaciones e Infraestructuras, vamos a proceder a cambiar la preferencia de recepci\u00f3n de correos del grupo para tod@s los miembr@s.</p>\n<p><span style=\"text-decoration: underline\"><strong>Pod\u00e9is acceder a la</strong><strong>correspondiente web del grupo SurOesteSeMueve desde el sigueinte enlace</strong></span>:</p>\n<p><a href=\"http://groups.google.com/group/suroestesemueve?hl=es\" target=\"_blank\">http://groups.google.com/group/suroestesemueve?hl=es</a></p>\n<p>Una vez ah\u00ed podr\u00e9is consultar y publicar seg\u00fan se desee. Tomad como referencia de c\u00f3mo acceder o cambiar preferencias de recepci\u00f3n de correos en vuestro email, el manual que se ha currado Julio:</p>\n<p><a title=\"Manual\" href=\"http://chapineria.tomalosbarrios.net/files/2011/06/Gu\u00eda_grupo_sin_Gmail.pdf\">Clica aqu\u00ed para ver el <strong>Manual</strong></a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
+    "rendered": "<p>Desde hoy y para evitar que las cuentas de emails que facilitamos en la \u00faltima asamblea se \u00absaturen\u00bb de correos del grupo, desde la comisi\u00f3n de Comunicaciones e Infraestructuras, vamos a proceder a cambiar la preferencia de recepci\u00f3n de correos del grupo para tod@s los miembr@s.</p>\n<p><span style=\"text-decoration: underline\"><strong>Pod\u00e9is acceder a la</strong><strong>correspondiente web del grupo SurOesteSeMueve desde el sigueinte enlace</strong></span>:</p>\n<p><a href=\"http://groups.google.com/group/suroestesemueve?hl=es\" target=\"_blank\">http://groups.google.com/group/suroestesemueve?hl=es</a></p>\n<p>Una vez ah\u00ed podr\u00e9is consultar y publicar seg\u00fan se desee. Tomad como referencia de c\u00f3mo acceder o cambiar preferencias de recepci\u00f3n de correos en vuestro email, el manual que se ha currado Julio:</p>\n<p><a title=\"Manual\" href=\"http://chapineria.tomalosbarrios.net/files/2011/06/Gu\u00eda_grupo_sin_Gmail.pdf\">Clica aqu\u00ed para ver el <strong>Manual</strong></a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
     "protected": false
   },
   "excerpt": {
-    "rendered": "<p>Desde hoy y para evitar que las cuentas de emails que facilitamos en la \u00faltima asamblea se &#171;saturen&#187; de correos del grupo, desde la comisi\u00f3n de Comunicaciones e Infraestructuras, vamos a proceder a cambiar la preferencia de recepci\u00f3n de correos &hellip; <a href=\"https://chapineria.tomalosbarrios.net/2011/06/01/inicio/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
+    "rendered": "<p>Desde hoy y para evitar que las cuentas de emails que facilitamos en la \u00faltima asamblea se \u00absaturen\u00bb de correos del grupo, desde la comisi\u00f3n de Comunicaciones e Infraestructuras, vamos a proceder a cambiar la preferencia de recepci\u00f3n de correos &hellip; <a href=\"https://chapineria.tomalosbarrios.net/2011/06/01/inicio/\">Sigue leyendo <span class=\"meta-nav\">&rarr;</span></a></p>\n",
     "protected": false
   },
   "author": 260,
   "featured_media": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "sticky": false,
   "template": "",
@@ -4661,14 +4469,8 @@
     ],
     "version-history": [
       {
-        "count": 17,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/posts/26/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 119,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/posts/26/revisions/119"
       }
     ],
     "wp:attachment": [
@@ -4713,12 +4515,12 @@
     "rendered": "A4_cartel_chapi4611"
   },
   "author": 260,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi46111.jpg'><img width=\"211\" height=\"300\" src=\"https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi46111-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi46111-211x300.jpg 211w, https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi46111-723x1024.jpg 723w, https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi46111.jpg 826w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi46111.jpg'><img width=\"211\" height=\"300\" src=\"https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi46111-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi46111-211x300.jpg 211w, https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi46111-723x1024.jpg 723w, https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi46111.jpg 826w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4825,12 +4627,12 @@
     "rendered": "A3_cartel_chapi4611"
   },
   "author": 260,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi46111.jpg'><img width=\"211\" height=\"300\" src=\"https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi46111-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi46111-211x300.jpg 211w, https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi46111-723x1024.jpg 723w, https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi46111.jpg 1165w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi46111.jpg'><img width=\"211\" height=\"300\" src=\"https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi46111-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi46111-211x300.jpg 211w, https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi46111-723x1024.jpg 723w, https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi46111.jpg 1165w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -4937,12 +4739,12 @@
     "rendered": "A4_cartel_chapi4611"
   },
   "author": 260,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi4611.jpg'><img width=\"211\" height=\"300\" src=\"https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi4611-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi4611-211x300.jpg 211w, https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi4611-723x1024.jpg 723w, https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi4611.jpg 826w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi4611.jpg'><img width=\"211\" height=\"300\" src=\"https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi4611-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi4611-211x300.jpg 211w, https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi4611-723x1024.jpg 723w, https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi4611.jpg 826w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -5049,12 +4851,12 @@
     "rendered": "A3_cartel_chapi4611"
   },
   "author": 260,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
   "description": {
-    "rendered": "<p class=\"attachment\"><a href='https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi4611.jpg'><img width=\"211\" height=\"300\" src=\"https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi4611-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi4611-211x300.jpg 211w, https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi4611-723x1024.jpg 723w, https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi4611.jpg 1165w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n"
+    "rendered": "<p class=\"attachment\"><a href='https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi4611.jpg'><img width=\"211\" height=\"300\" src=\"https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi4611-211x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi4611-211x300.jpg 211w, https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi4611-723x1024.jpg 723w, https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi4611.jpg 1165w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n"
   },
   "caption": {
     "rendered": ""
@@ -5161,7 +4963,7 @@
     "rendered": "Media-Carteles"
   },
   "content": {
-    "rendered": "<p><strong>A continuaci\u00f3n, los carteles para la pr\u00f3xima Asamblea el\u00a011 de junio.</strong></p>\n<p><strong>&#8212;&#8212;Formato A3 </strong><strong>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;Formato A4&#8212;&#8212;</strong></p>\n<p><a href=\"http://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi11611.jpg\"><img class=\"alignnone size-medium wp-image-152\" src=\"http://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi11611-211x300.jpg\" alt=\"\" width=\"211\" height=\"300\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi11611-211x300.jpg 211w, https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi11611-723x1024.jpg 723w, https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi11611.jpg 823w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a>\u00a0<a href=\"http://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi11611.jpg\"><img class=\"alignnone size-medium wp-image-151\" src=\"http://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi11611-211x300.jpg\" alt=\"\" width=\"211\" height=\"300\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi11611-211x300.jpg 211w, https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi11611-723x1024.jpg 723w, https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi11611.jpg 1165w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n<p><strong>A continuaci\u00f3n, los carteles para la pr\u00f3xima Asamblea el 4 de junio.</strong></p>\n<p><strong>&#8212;&#8212;Formato A3 </strong><strong>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;Formato A4&#8212;&#8212;</strong></p>\n<p><a href=\"http://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi46111.jpg\"><img class=\"alignnone size-medium wp-image-21\" src=\"http://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi46111-211x300.jpg\" alt=\"\" width=\"211\" height=\"300\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi46111-211x300.jpg 211w, https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi46111-723x1024.jpg 723w, https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi46111.jpg 1165w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a><strong>\u00a0</strong><a href=\"http://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi46111.jpg\"><img class=\"alignnone size-medium wp-image-22\" src=\"http://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi46111-211x300.jpg\" alt=\"\" width=\"211\" height=\"300\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi46111-211x300.jpg 211w, https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi46111-723x1024.jpg 723w, https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi46111.jpg 826w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n<p><strong>Fotos de la asamblea del pasado 28 de mayo</strong></p>\n<p><a href=\"http://chapineria.tomalosbarrios.net/files/2011/06/P1010001.jpg\"><img class=\"alignnone size-medium wp-image-40\" src=\"http://chapineria.tomalosbarrios.net/files/2011/06/P1010001-300x224.jpg\" alt=\"\" width=\"300\" height=\"224\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/06/P1010001-300x224.jpg 300w, https://chapineria.tomalosbarrios.net/files/2011/06/P1010001-1024x766.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p><a href=\"http://chapineria.tomalosbarrios.net/files/2011/06/P1010002.jpg\"><img class=\"alignnone size-medium wp-image-41\" src=\"http://chapineria.tomalosbarrios.net/files/2011/06/P1010002-300x224.jpg\" alt=\"\" width=\"300\" height=\"224\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/06/P1010002-300x224.jpg 300w, https://chapineria.tomalosbarrios.net/files/2011/06/P1010002-1024x766.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p><a href=\"http://chapineria.tomalosbarrios.net/files/2011/06/P1010003.jpg\"><img class=\"alignnone size-medium wp-image-42\" src=\"http://chapineria.tomalosbarrios.net/files/2011/06/P1010003-300x224.jpg\" alt=\"\" width=\"300\" height=\"224\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/06/P1010003-300x224.jpg 300w, https://chapineria.tomalosbarrios.net/files/2011/06/P1010003-1024x766.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n",
+    "rendered": "<p><strong>A continuaci\u00f3n, los carteles para la pr\u00f3xima Asamblea el\u00a011 de junio.</strong></p>\n<p><strong>&#8212;&#8212;Formato A3 </strong><strong>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;Formato A4&#8212;&#8212;</strong></p>\n<p><a href=\"http://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi11611.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-152\" src=\"http://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi11611-211x300.jpg\" alt=\"\" width=\"211\" height=\"300\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi11611-211x300.jpg 211w, https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi11611-723x1024.jpg 723w, https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi11611.jpg 823w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a>\u00a0<a href=\"http://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi11611.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-151\" src=\"http://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi11611-211x300.jpg\" alt=\"\" width=\"211\" height=\"300\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi11611-211x300.jpg 211w, https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi11611-723x1024.jpg 723w, https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi11611.jpg 1165w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n<p><strong>A continuaci\u00f3n, los carteles para la pr\u00f3xima Asamblea el 4 de junio.</strong></p>\n<p><strong>&#8212;&#8212;Formato A3 </strong><strong>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;Formato A4&#8212;&#8212;</strong></p>\n<p><a href=\"http://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi46111.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-21\" src=\"http://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi46111-211x300.jpg\" alt=\"\" width=\"211\" height=\"300\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi46111-211x300.jpg 211w, https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi46111-723x1024.jpg 723w, https://chapineria.tomalosbarrios.net/files/2011/06/A3_cartel_chapi46111.jpg 1165w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a><strong>\u00a0</strong><a href=\"http://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi46111.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-22\" src=\"http://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi46111-211x300.jpg\" alt=\"\" width=\"211\" height=\"300\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi46111-211x300.jpg 211w, https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi46111-723x1024.jpg 723w, https://chapineria.tomalosbarrios.net/files/2011/06/A4_cartel_chapi46111.jpg 826w\" sizes=\"(max-width: 211px) 100vw, 211px\" /></a></p>\n<p><strong>Fotos de la asamblea del pasado 28 de mayo</strong></p>\n<p><a href=\"http://chapineria.tomalosbarrios.net/files/2011/06/P1010001.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-40\" src=\"http://chapineria.tomalosbarrios.net/files/2011/06/P1010001-300x224.jpg\" alt=\"\" width=\"300\" height=\"224\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/06/P1010001-300x224.jpg 300w, https://chapineria.tomalosbarrios.net/files/2011/06/P1010001-1024x766.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p><a href=\"http://chapineria.tomalosbarrios.net/files/2011/06/P1010002.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-41\" src=\"http://chapineria.tomalosbarrios.net/files/2011/06/P1010002-300x224.jpg\" alt=\"\" width=\"300\" height=\"224\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/06/P1010002-300x224.jpg 300w, https://chapineria.tomalosbarrios.net/files/2011/06/P1010002-1024x766.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p><a href=\"http://chapineria.tomalosbarrios.net/files/2011/06/P1010003.jpg\"><img loading=\"lazy\" class=\"alignnone size-medium wp-image-42\" src=\"http://chapineria.tomalosbarrios.net/files/2011/06/P1010003-300x224.jpg\" alt=\"\" width=\"300\" height=\"224\" srcset=\"https://chapineria.tomalosbarrios.net/files/2011/06/P1010003-300x224.jpg 300w, https://chapineria.tomalosbarrios.net/files/2011/06/P1010003-1024x766.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n",
     "protected": false
   },
   "excerpt": {
@@ -5172,7 +4974,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -5206,14 +5008,8 @@
     ],
     "version-history": [
       {
-        "count": 17,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/11/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 18,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/11/revisions/18"
       }
     ],
     "wp:attachment": [
@@ -5257,7 +5053,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -5291,14 +5087,8 @@
     ],
     "version-history": [
       {
-        "count": 8,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/9/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 70,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/9/revisions/70"
       }
     ],
     "wp:attachment": [
@@ -5342,7 +5132,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -5376,14 +5166,8 @@
     ],
     "version-history": [
       {
-        "count": 8,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/7/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 98,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/7/revisions/98"
       }
     ],
     "wp:attachment": [
@@ -5427,7 +5211,7 @@
   "featured_media": 0,
   "parent": 0,
   "menu_order": 0,
-  "comment_status": "open",
+  "comment_status": "closed",
   "ping_status": "open",
   "template": "",
   "meta": [],
@@ -5461,14 +5245,8 @@
     ],
     "version-history": [
       {
-        "count": 8,
+        "count": 0,
         "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/2/revisions"
-      }
-    ],
-    "predecessor-version": [
-      {
-        "id": 5,
-        "href": "https://chapineria.tomalosbarrios.net/wp-json/wp/v2/pages/2/revisions/5"
       }
     ],
     "wp:attachment": [
