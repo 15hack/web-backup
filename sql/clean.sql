@@ -7,6 +7,7 @@ ALTER TABLE sites RENAME TO temp_sites;
 
 CREATE TABLE sites (
   ID INTEGER,
+  title TEXT,
   url TEXT,
   type TEXT,
   page_size INTEGER,
@@ -14,9 +15,9 @@ CREATE TABLE sites (
 );
 
 INSERT INTO sites
-    (ID, url, type, page_size)
+    (ID, title, url, type, page_size)
 SELECT
-    ID, url, type, page_size
+    ID, title, url, type, page_size
 FROM
     temp_sites
 where url is not null;
@@ -166,6 +167,7 @@ ALTER TABLE mailman_lists RENAME TO temp_mailman_lists;
 CREATE TABLE mailman_lists (
   site INTEGER REFERENCES sites(ID),
   ID TEXT,
+  description TEXT,
   date TEXT,
   first_mail TEXT,
   last_mail TEXT,
@@ -175,9 +177,9 @@ CREATE TABLE mailman_lists (
 );
 
 INSERT INTO mailman_lists
-    (site, ID, date, first_mail, last_mail, mails, url)
+    (site, ID, description, date, first_mail, last_mail, mails, url)
 SELECT
-    site, ID, date, first_mail, last_mail, mails, url
+    site, ID, description, date, first_mail, last_mail, mails, url
 FROM
     temp_mailman_lists
 where url is not null;
