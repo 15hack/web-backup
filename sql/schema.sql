@@ -85,6 +85,7 @@ CREATE TABLE phpbb_posts (
   content TEXT,
   title TEXT,
   author TEXT,
+  _content TEXT,
   _modified TEXT,
   PRIMARY KEY (site, id, topic)
 );

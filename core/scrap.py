@@ -3,7 +3,7 @@ import re
 
 from bunch import Bunch
 
-from .data import FindUrl, tuple_url, loadwpjson, loadpageswkjson, loadimageswkjson, requests_json
+from .data import FindUrl, tuple_url, loadwpjson, loadpageswkjson, loadimageswkjson, requests_json, getphpbbhtml
 from .util import find_value, get_yml
 from .connect import DB, SSHFile, SSHCmd
 from functools import lru_cache
@@ -507,13 +507,14 @@ class Scrap:
                     t1.post_id ID,
                     t1.topic_id topic,
                     TRIM(t1.post_subject) title,
-                    TRIM(t1.post_text) content,
+                    TRIM(t1.post_text) _content,
                     from_unixtime(t1.post_time) date,
                     if(t1.post_edit_time=0, null, from_unixtime(t1.post_edit_time)) modified,
                     case
                         when t4.username is not null and TRIM(username)!='' then TRIM(t4.username)
                         else TRIM(t1.post_username)
-                    end author
+                    end author,
+                    concat('{purl}/viewtopic.php?p=', t1.post_id) url
         		from
                     {prefix}posts t1
                     left join {prefix}topics t2 on t1.topic_id = t2.topic_id
@@ -561,6 +562,13 @@ class Scrap:
             phpbb.sites = {**phpbb.sites, **sites}
 
         self.print_totales("phpbb", phpbb)
+        print("\nRecuperando html de los posts...", end="\r")
+        htmls={}
+        for p in phpbb.posts:
+            if p['url'] not in htmls:
+                htmls = {**htmls, **getphpbbhtml(p['url'])}
+            p['content'] = htmls[p['url']]
+        print("Recuperando html de los posts 100%")
         return phpbb
 
     @property
@@ -644,7 +652,7 @@ class Scrap:
             db.close()
             wiki.sites = {**wiki.sites, **sites}
 
-        print("Recuperando información de api wk-json ...", end="\r")
+        print("\nRecuperando información de api wk-json ...", end="\r")
         for site, meta in wiki.sites.items():
             _objs = {}
             for i in wiki.pages:

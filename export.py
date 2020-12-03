@@ -15,7 +15,7 @@ os.chdir(dname)
 scr = Scrap()
 
 db = SiteDBLite("sites.db", total=scr.rows, overwrite=True)
-print("Creando sqlite 0%", end="\r")
+print("\nCreando sqlite 0%", end="\r")
 db.execute('sql/schema.sql')
 
 for meta in scr.sites:
@@ -83,7 +83,6 @@ for id, url in db.to_list("select id, url from sites"):
 scr.close()
 db.execute("sql/update.sql")
 db.commit()
-print("")
 db.close(vacuum=True)
 
 print("Creando sqlite 100%")

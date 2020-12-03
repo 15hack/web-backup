@@ -110,6 +110,20 @@ def get_protocol(site):
     cache_protocol[site] = "https"
     return "https"
 
+def getphpbbhtml(url):
+    root = url.rsplit("=", 1)[0]+"="
+    data={}
+    r = requests.get(url, verify=False)
+    soup = BeautifulSoup(r.text, 'html.parser')
+    for n in soup.select("div.post[id]"):
+        id = n.attrs["id"]
+        if not(id[0]=="p" or id[1:].isdigit()):
+            continue
+        id = id[1:]
+        n = n.select_one("div.content")
+        data[root+id]=str(n)
+    return data
+
 def loadwpjson(site, db_objs):
     file = "data/wp-json/%s.json" % site.replace("/", "_")
     o_data = get_arr_json(file)
