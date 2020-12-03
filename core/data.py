@@ -45,8 +45,8 @@ def tuple_url(url):
         prc = slp[0].lower()
         url = slp[1]
     slp = url.split("/", 1)
-    dom = url[0]
-    url = url[1] if len(url)>1 else None
+    dom = slp[0]
+    url = slp[1] if len(slp)>1 else None
     r = [
         tuple(reversed(dom.split("."))),
         url,
