@@ -146,6 +146,7 @@ CREATE TABLE mailman_lists (
   _archiving INTEGER,
   _exists_archive INTEGER,
   _archive_private INTEGER,
+  _size INTEGER,
   _advertised INTEGER,
   PRIMARY KEY (site, id)
 );

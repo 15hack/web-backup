@@ -323,10 +323,7 @@ class SiteDBLite(DBLite):
             for id, url in sites:
                 row = self.one('''
                     select
-                        CASE
-                            when min(first_mail) is null then substr(min(date), 1, 10)
-                            else substr(min(first_mail), 1, 10)
-                        END ini,
+                        substr(min(date), 1, 10) ini,
                         substr(min(last_mail), 1, 10) fin,
                         count(*) lists
                     from
@@ -358,10 +355,7 @@ class SiteDBLite(DBLite):
                 select
                     l.ID,
                     l.url,
-                    CASE
-                        when l.first_mail is null then substr(l.date, 1, 10)
-                        else substr(l.first_mail, 1, 10)
-                    END ini,
+                    substr(date, 1, 10) ini,
                     substr(l.last_mail, 1, 10) fin,
                     l.mails,
                     a.url archive
@@ -377,8 +371,8 @@ class SiteDBLite(DBLite):
             md.write(dedent('''
                 ## Listas Mailman
 
-                | LIST | mails | Último uso | 1º uso |
-                |:-----|------:|-----------:|-------:|
+                | LIST | mails (*) | Último uso (*) | Creación |
+                |:-----|----------:|---------------:|---------:|
             ''').strip())
             for row in mailman_lists:
                 if table_link:
@@ -397,7 +391,11 @@ class SiteDBLite(DBLite):
                     ''' % max_site)
                 row = {k:("" if v is None else v) for k,v in row.items()}
                 md.write(md_row.format(**row).strip())
-            md.write("")
+            md.write(dedent('''
+                (*) Los datos `mails` y `Último uso` son orientativos
+                ya que dependen de la configuración de la lista
+                que hayan podido ser recuperados con exactitud o no.
+            ''').rstrip())
             sites = self.select("select id, url from sites where type='apache'")
             sites = sorted(sites, key=_sort_sites)
             max_site = max(len(x[1]) for x in sites)

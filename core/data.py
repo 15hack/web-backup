@@ -121,7 +121,12 @@ def getphpbbhtml(url):
             continue
         id = id[1:]
         n = n.select_one("div.content")
-        data[root+id]=str(n)
+        n.attrs.clear()
+        n = str(n)
+        n = n.strip()
+        n = n[5:-6]
+        n = n.strip()
+        data[root+id]=n
     return data
 
 def loadwpjson(site, db_objs):

@@ -741,6 +741,7 @@ class Scrap:
                         "mails": l["archive"]["mails"],
                         "archiving": l["archive"]["archive"],
                         "exists_archive": l["archive"]["__exists__"],
+                        "size": l["archive"]["__size_"],
                         "description": l["description"]
                     }
                     ls = {**l['visibility'], **ls}
