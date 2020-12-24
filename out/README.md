@@ -461,8 +461,8 @@ que hayan podido ser recuperados con exactitud o no.
 # Apache
 
 * [jitsi.tomalaplaza.net](https://jitsi.tomalaplaza.net)
-* [madridocm.tomalaplaza.net](https://madridocm.tomalaplaza.net)
-* [ocmdaganzo.tomalaplaza.net](https://ocmdaganzo.tomalaplaza.net)
+* [madridocm.tomalaplaza.net](http://madridocm.tomalaplaza.net)
+* [ocmdaganzo.tomalaplaza.net](http://ocmdaganzo.tomalaplaza.net)
 * [optt.tomalaplaza.net](https://optt.tomalaplaza.net)
 * [pads.tomalaplaza.net](https://pads.tomalaplaza.net)
 * [pve.tomalaplaza.net](https://pve.tomalaplaza.net)
