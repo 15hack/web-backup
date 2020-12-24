@@ -17,6 +17,7 @@ dr = os.path.dirname(me)
 re_tg1 = re.compile(r'^(\s*"[^"]+?"\s*)+$')
 re_tg2 = re.compile(r'"[^"]+?"')
 re_rem = re.compile(r"^[^/]+")
+re_ip = re.compile(r"^\d+\.\d+\.\d+\.\d+$")
 
 flag_frm_title=False
 
@@ -783,12 +784,12 @@ class Scrap:
             print(frm_title(sshcmd.host))
             sites=set()
             for site in sshcmd.cmd['apache']:
-                if site.startswith("#"):
+                if " (" not in site:
                     continue
-                site = site.split(None, 1)[-1]
-                if site[0] in ("*", "$"):
-                    continue
-                if site in self.done:
+                site = site.split(" (", 1)[0]
+                site = site.strip()
+                site = site.rsplit(None, 1)[-1]
+                if re_ip.match(site) or site in self.done:
                     continue
                 sites.add(site)
             print("%s sitios apache encontrados" % len(sites))

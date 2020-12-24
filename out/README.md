@@ -1,25 +1,25 @@
-Se han escaneado 197 `sites`, con datos desde el 2011-05-17 al 2020-11-30, repartidos en:
+Se han escaneado 199 `sites`, con datos desde el 2011-05-17 al 2020-11-30, repartidos en:
 
 |  items | tabla |
 |-------:|-------|
 |    168 | sites[type='wp'] |
 |     19 | sites[type='mailman'] |
-|      6 | sites[type='apache'] |
+|      8 | sites[type='apache'] |
 |      3 | sites[type='phpbb'] |
 |      1 | sites[type='wiki'] |
 |  42650 | wp_posts |
 |  23294 | wp_media |
 | 102034 | wp_tags |
-|  43303 | wp_comments |
+|  43304 | wp_comments |
 |   1502 | phpbb_topics |
 |   4042 | phpbb_posts |
 |    629 | phpbb_media |
 |    349 | wk_pages |
 |     98 | wk_media |
-|    222 | mailman_lists |
-|  26052 | mailman_archive |
+|    217 | mailman_lists |
+|  26137 | mailman_archive |
 
-Lo que supone 68940 urls.
+Lo que supone 68934 urls.
 
 # Wordpress
 
@@ -64,7 +64,7 @@ Lo que supone 68940 urls.
 |[leon.tomalaplaza.net](https://leon.tomalaplaza.net)|[9](https://leon.tomalaplaza.net/wp-admin/edit.php?orderby=date&order=desc)|[41](https://leon.tomalaplaza.net/wp-admin/edit-comments.php?comment_type=comment&orderby=comment_date&order=desc)|2017-01-22|2011-05-19|2012-05-03|
 |[lleida.tomalaplaza.net](https://lleida.tomalaplaza.net)|[5](https://lleida.tomalaplaza.net/wp-admin/edit.php?orderby=date&order=desc)|[1](https://lleida.tomalaplaza.net/wp-admin/edit-comments.php?comment_type=comment&orderby=comment_date&order=desc)|2017-01-22|2011-05-19|2011-05-19|
 |[logrono.tomalaplaza.net](https://logrono.tomalaplaza.net)|[25](https://logrono.tomalaplaza.net/wp-admin/edit.php?orderby=date&order=desc)|[13](https://logrono.tomalaplaza.net/wp-admin/edit-comments.php?comment_type=comment&orderby=comment_date&order=desc)|2011-06-07|2011-05-18|2011-05-31|
-|[madrid.tomalaplaza.net](https://madrid.tomalaplaza.net)|[3395](https://madrid.tomalaplaza.net/wp-admin/edit.php?orderby=date&order=desc)|[25393](https://madrid.tomalaplaza.net/wp-admin/edit-comments.php?comment_type=comment&orderby=comment_date&order=desc)|2020-05-16|2011-05-17|2020-12-08|
+|[madrid.tomalaplaza.net](https://madrid.tomalaplaza.net)|[3395](https://madrid.tomalaplaza.net/wp-admin/edit.php?orderby=date&order=desc)|[25394](https://madrid.tomalaplaza.net/wp-admin/edit-comments.php?comment_type=comment&orderby=comment_date&order=desc)|2020-05-16|2011-05-17|2020-12-15|
 |[malaga.tomalaplaza.net](https://malaga.tomalaplaza.net)|[462](https://malaga.tomalaplaza.net/wp-admin/edit.php?orderby=date&order=desc)|[674](https://malaga.tomalaplaza.net/wp-admin/edit-comments.php?comment_type=comment&orderby=comment_date&order=desc)|2017-01-22|2011-05-19|2014-04-14|
 |[mayo2013.tomalaplaza.net](https://mayo2013.tomalaplaza.net)|[1](https://mayo2013.tomalaplaza.net/wp-admin/edit.php?orderby=date&order=desc)|[27](https://mayo2013.tomalaplaza.net/wp-admin/edit-comments.php?comment_type=comment&orderby=comment_date&order=desc)|2013-04-30|2013-04-11|2013-05-10|
 |[menorca.tomalaplaza.net](https://menorca.tomalaplaza.net)|[276](https://menorca.tomalaplaza.net/wp-admin/edit.php?orderby=date&order=desc)|[54](https://menorca.tomalaplaza.net/wp-admin/edit-comments.php?comment_type=comment&orderby=comment_date&order=desc)|2013-09-18|2011-05-21|2013-01-27|
@@ -212,14 +212,14 @@ Lo que supone 68940 urls.
 
 | SITE | lists | Último uso | 1º uso |
 |:-----|------:|-----------:|-------:|
-|[lists.takethesquare.net/mailman/listinfo](https://lists.takethesquare.net/mailman/listinfo)|59|2015-07-07|2012-01-02|
+|[lists.takethesquare.net/mailman/listinfo](https://lists.takethesquare.net/mailman/listinfo)|56|2015-07-07|2012-01-02|
 |[andorra.tomalaplaza.net/mailman/listinfo](https://andorra.tomalaplaza.net/mailman/listinfo)|2|2014-07-08|2011-09-12|
 |[aragon.tomalaplaza.net/mailman/listinfo](https://aragon.tomalaplaza.net/mailman/listinfo)|1||2014-02-06|
 |[aviles.tomalaplaza.net/mailman/listinfo](https://aviles.tomalaplaza.net/mailman/listinfo)|1|2017-05-15|2011-09-19|
 |[barcelona.tomalaplaza.net/mailman/listinfo](https://barcelona.tomalaplaza.net/mailman/listinfo)|1|2013-05-22|2011-09-25|
 |[burgos.tomalaplaza.net/mailman/listinfo](https://burgos.tomalaplaza.net/mailman/listinfo)|4|2012-06-26|2011-10-14|
 |[compostela.tomalaplaza.net/mailman/listinfo](https://compostela.tomalaplaza.net/mailman/listinfo)|1||2011-09-26|
-|[listas.tomalaplaza.net/mailman/listinfo](https://listas.tomalaplaza.net/mailman/listinfo)|84|2011-06-01|2012-01-02|
+|[listas.tomalaplaza.net/mailman/listinfo](https://listas.tomalaplaza.net/mailman/listinfo)|82|2011-06-01|2012-01-02|
 |[madrid.tomalaplaza.net/mailman/listinfo](https://madrid.tomalaplaza.net/mailman/listinfo)|9|2012-02-09|2011-09-01|
 |[menorca.tomalaplaza.net/mailman/listinfo](https://menorca.tomalaplaza.net/mailman/listinfo)|3|2014-09-11|2011-09-20|
 |[oviedo.tomalaplaza.net/mailman/listinfo](https://oviedo.tomalaplaza.net/mailman/listinfo)|2||2011-09-26|
@@ -237,7 +237,6 @@ Lo que supone 68940 urls.
 | LIST | mails (*) | Último uso (*) | Creación |
 |:-----|----------:|---------------:|---------:|
 |[15mglobalstrike@lists.takethesquare.net](https://lists.takethesquare.net/mailman/listinfo/15mglobalstrike)|2|2019-05-02|[2012-01-02](https://lists.takethesquare.net/mailman/pipermail/lists.takethesquare.net/15mglobalstrike/)|
-|[15oct@lists.takethesquare.net](https://lists.takethesquare.net/mailman/listinfo/15oct)|9|2017-05-28|[2012-01-02](https://lists.takethesquare.net/mailman/pipermail/lists.takethesquare.net/15oct/)|
 |[1m-idf@lists.takethesquare.net](https://lists.takethesquare.net/mailman/listinfo/1m-idf)|0||[2012-04-25](https://lists.takethesquare.net/mailman/pipermail/lists.takethesquare.net/1m-idf/)|
 |[acampadaradio@lists.takethesquare.net](https://lists.takethesquare.net/mailman/listinfo/acampadaradio)|0||[2012-01-02](https://lists.takethesquare.net/mailman/pipermail/lists.takethesquare.net/acampadaradio/)|
 |[accueil-paris@lists.takethesquare.net](https://lists.takethesquare.net/mailman/listinfo/accueil-paris)|0||[2012-07-19](https://lists.takethesquare.net/mailman/private/accueil-paris/)|
@@ -279,11 +278,9 @@ Lo que supone 68940 urls.
 |[marchtoathens@lists.takethesquare.net](https://lists.takethesquare.net/mailman/listinfo/marchtoathens)|0||[2012-01-02](https://lists.takethesquare.net/mailman/pipermail/lists.takethesquare.net/marchtoathens/)|
 |[newrights@lists.takethesquare.net](https://lists.takethesquare.net/mailman/listinfo/newrights)|0||[2012-11-15](https://lists.takethesquare.net/mailman/private/newrights/)|
 |[objectifs-strategie-paris@lists.takethesquare.net](https://lists.takethesquare.net/mailman/listinfo/objectifs-strategie-paris)|0||[2012-01-02](https://lists.takethesquare.net/mailman/pipermail/lists.takethesquare.net/objectifs-strategie-paris/)|
-|[occupy-dev@lists.takethesquare.net](https://lists.takethesquare.net/mailman/listinfo/occupy-dev)|0||[2012-01-02](https://lists.takethesquare.net/mailman/pipermail/lists.takethesquare.net/occupy-dev/)|
 |[occupytogether@lists.takethesquare.net](https://lists.takethesquare.net/mailman/listinfo/occupytogether)|0||[2012-01-02](https://lists.takethesquare.net/mailman/pipermail/lists.takethesquare.net/occupytogether/)|
 |[ocupabrasil@lists.takethesquare.net](https://lists.takethesquare.net/mailman/listinfo/ocupabrasil)|0||[2012-02-26](https://lists.takethesquare.net/mailman/pipermail/lists.takethesquare.net/ocupabrasil/)|
 |[otro@lists.takethesquare.net](https://lists.takethesquare.net/mailman/listinfo/otro)|||[2012-01-02](https://lists.takethesquare.net/mailman/pipermail/lists.takethesquare.net/otro/)|
-|[pan@lists.takethesquare.net](https://lists.takethesquare.net/mailman/listinfo/pan)|0||[2012-02-07](https://lists.takethesquare.net/mailman/pipermail/lists.takethesquare.net/pan/)|
 |[quartierspopulairesidf@lists.takethesquare.net](https://lists.takethesquare.net/mailman/listinfo/quartierspopulairesidf)|0||[2012-01-02](https://lists.takethesquare.net/mailman/private/quartierspopulairesidf/)|
 |[reelledemocratie.announce.paris@lists.takethesquare.net](https://lists.takethesquare.net/mailman/listinfo/reelledemocratie.announce.paris)|0||[2012-01-02](https://lists.takethesquare.net/mailman/pipermail/lists.takethesquare.net/reelledemocratie.announce.paris/)|
 |[reelledemocratie.paris@lists.takethesquare.net](https://lists.takethesquare.net/mailman/listinfo/reelledemocratie.paris)|0||[2012-01-02](https://lists.takethesquare.net/mailman/pipermail/lists.takethesquare.net/reelledemocratie.paris/)|
@@ -305,7 +302,7 @@ Lo que supone 68940 urls.
 |[debates@burgos.tomalaplaza.net](https://burgos.tomalaplaza.net/mailman/listinfo/debates)|1|2012-06-26|[2011-10-14](https://burgos.tomalaplaza.net/mailman/pipermail/burgos.tomalaplaza.net/debates/)|
 |[difusion@burgos.tomalaplaza.net](https://burgos.tomalaplaza.net/mailman/listinfo/difusion)|525|2020-01-24|[2011-10-14](https://burgos.tomalaplaza.net/mailman/private/difusion/)|
 |[info@compostela.tomalaplaza.net](https://compostela.tomalaplaza.net/mailman/listinfo/info)|0||[2011-09-26](https://compostela.tomalaplaza.net/mailman/pipermail/compostela.tomalaplaza.net/info/)|
-|[15hack@listas.tomalaplaza.net](https://listas.tomalaplaza.net/mailman/listinfo/15hack)|5952|2020-12-06|[2012-01-02](https://listas.tomalaplaza.net/mailman/private/15hack/)|
+|[15hack@listas.tomalaplaza.net](https://listas.tomalaplaza.net/mailman/listinfo/15hack)|5960|2020-12-23|[2012-01-02](https://listas.tomalaplaza.net/mailman/private/15hack/)|
 |[accion25s@listas.tomalaplaza.net](https://listas.tomalaplaza.net/mailman/listinfo/accion25s)|973|2014-07-03|[2012-08-31](https://listas.tomalaplaza.net/mailman/pipermail/listas.tomalaplaza.net/accion25s/)|
 |[actas.acampadasol@listas.tomalaplaza.net](https://listas.tomalaplaza.net/mailman/listinfo/actas.acampadasol)|5|2012-01-17|[2012-01-02](https://listas.tomalaplaza.net/mailman/private/actas.acampadasol/)|
 |[actividades.acampadasol@listas.tomalaplaza.net](https://listas.tomalaplaza.net/mailman/listinfo/actividades.acampadasol)|1|2011-06-01|[2012-01-02](https://listas.tomalaplaza.net/mailman/private/actividades.acampadasol/)|
@@ -342,7 +339,6 @@ Lo que supone 68940 urls.
 |[elche@listas.tomalaplaza.net](https://listas.tomalaplaza.net/mailman/listinfo/elche)|600|2013-09-22|[2012-01-02](https://listas.tomalaplaza.net/mailman/private/elche/)|
 |[estrategiacom.sol@listas.tomalaplaza.net](https://listas.tomalaplaza.net/mailman/listinfo/estrategiacom.sol)|655|2017-05-10|[2012-01-02](https://listas.tomalaplaza.net/mailman/private/estrategiacom.sol/)|
 |[estrategias.acampadasol@listas.tomalaplaza.net](https://listas.tomalaplaza.net/mailman/listinfo/estrategias.acampadasol)|50|2012-02-05|[2012-01-02](https://listas.tomalaplaza.net/mailman/private/estrategias.acampadasol/)|
-|[extension.acampadasol@listas.tomalaplaza.net](https://listas.tomalaplaza.net/mailman/listinfo/extension.acampadasol)|0||[2012-01-02](https://listas.tomalaplaza.net/mailman/private/extension.acampadasol/)|
 |[feminismos.acampadasol@listas.tomalaplaza.net](https://listas.tomalaplaza.net/mailman/listinfo/feminismos.acampadasol)|335|2011-07-08|[2012-01-02](https://listas.tomalaplaza.net/mailman/private/feminismos.acampadasol/)|
 |[formacionportavocia.sol@listas.tomalaplaza.net](https://listas.tomalaplaza.net/mailman/listinfo/formacionportavocia.sol)|15|2011-06-02|[2012-01-02](https://listas.tomalaplaza.net/mailman/private/formacionportavocia.sol/)|
 |[gabinetedeprensa.sol@listas.tomalaplaza.net](https://listas.tomalaplaza.net/mailman/listinfo/gabinetedeprensa.sol)|30|2011-06-16|[2012-01-02](https://listas.tomalaplaza.net/mailman/private/gabinetedeprensa.sol/)|
@@ -388,7 +384,6 @@ Lo que supone 68940 urls.
 |[trobades15mcat@listas.tomalaplaza.net](https://listas.tomalaplaza.net/mailman/listinfo/trobades15mcat)|16|2011-12-17|[2012-01-02](https://listas.tomalaplaza.net/mailman/private/trobades15mcat/)|
 |[voluntariado.acampadasol@listas.tomalaplaza.net](https://listas.tomalaplaza.net/mailman/listinfo/voluntariado.acampadasol)|1|2011-06-01|[2012-01-02](https://listas.tomalaplaza.net/mailman/private/voluntariado.acampadasol/)|
 |[vox@listas.tomalaplaza.net](https://listas.tomalaplaza.net/mailman/listinfo/vox)|700|2011-09-28|[2012-01-02](https://listas.tomalaplaza.net/mailman/private/vox/)|
-|[wet@listas.tomalaplaza.net](https://listas.tomalaplaza.net/mailman/listinfo/wet)|4099|2013-09-02|[2012-01-02](https://listas.tomalaplaza.net/mailman/private/wet/)|
 |[agsol@madrid.tomalaplaza.net](https://madrid.tomalaplaza.net/mailman/listinfo/agsol)|0||[2013-10-15](https://madrid.tomalaplaza.net/mailman/pipermail/madrid.tomalaplaza.net/agsol/)|
 |[consulta.popular.rescate@madrid.tomalaplaza.net](https://madrid.tomalaplaza.net/mailman/listinfo/consulta.popular.rescate)|33|2012-09-12|[2012-07-18](https://madrid.tomalaplaza.net/mailman/pipermail/madrid.tomalaplaza.net/consulta.popular.rescate/)|
 |[culturaycomunicacion@madrid.tomalaplaza.net](https://madrid.tomalaplaza.net/mailman/listinfo/culturaycomunicacion)|64|2013-12-10|[2013-05-22](https://madrid.tomalaplaza.net/mailman/private/culturaycomunicacion/)|
@@ -409,7 +404,7 @@ Lo que supone 68940 urls.
 |[coordinacion.estatal@tcj.tomalaplaza.net](https://tcj.tomalaplaza.net/mailman/listinfo/coordinacion.estatal)|169|2018-05-15|[2013-04-18](https://tcj.tomalaplaza.net/mailman/pipermail/tcj.tomalaplaza.net/coordinacion.estatal/)|
 |[lamorada@tcj.tomalaplaza.net](https://tcj.tomalaplaza.net/mailman/listinfo/lamorada)|2301|2017-10-02|[2014-03-15](https://tcj.tomalaplaza.net/mailman/pipermail/tcj.tomalaplaza.net/lamorada/)|
 |[mailman](http://vemail.tomalaplaza.net/mailman/listinfo/mailman)|1|2011-05-25|[2011-07-18](https://vemail.tomalaplaza.net/mailman/pipermail/vemail.tomalaplaza.net/mailman/)|
-|[accion.carabanchel@listas.tomalosbarrios.net](https://listas.tomalosbarrios.net/mailman/listinfo/accion.carabanchel)|7439|2020-11-06|[2012-01-02](https://listas.tomalosbarrios.net/mailman/private/accion.carabanchel/)|
+|[accion.carabanchel@listas.tomalosbarrios.net](https://listas.tomalosbarrios.net/mailman/listinfo/accion.carabanchel)|7441|2020-12-12|[2012-01-02](https://listas.tomalosbarrios.net/mailman/private/accion.carabanchel/)|
 |[apm-comext@listas.tomalosbarrios.net](https://listas.tomalosbarrios.net/mailman/listinfo/apm-comext)|0||[2012-01-02](https://listas.tomalosbarrios.net/mailman/pipermail/listas.tomalosbarrios.net/apm-comext/)|
 |[apm-comunicacion@listas.tomalosbarrios.net](https://listas.tomalosbarrios.net/mailman/listinfo/apm-comunicacion)|4036|2020-12-05|[2012-01-02](https://listas.tomalosbarrios.net/mailman/private/apm-comunicacion/)|
 |[apm-coordinacion@listas.tomalosbarrios.net](https://listas.tomalosbarrios.net/mailman/listinfo/apm-coordinacion)|0||[2012-01-02](https://listas.tomalosbarrios.net/mailman/pipermail/listas.tomalosbarrios.net/apm-coordinacion/)|
@@ -443,17 +438,17 @@ Lo que supone 68940 urls.
 |[asambleaparla@madrid.tomalosbarrios.net](https://madrid.tomalosbarrios.net/mailman/listinfo/asambleaparla)|15|2016-11-02|[2012-09-16](https://madrid.tomalosbarrios.net/mailman/private/asambleaparla/)|
 |[chamberi.coco@madrid.tomalosbarrios.net](https://madrid.tomalosbarrios.net/mailman/listinfo/chamberi.coco)|0||[2011-07-28](https://madrid.tomalosbarrios.net/mailman/private/chamberi.coco/)|
 |[chamberi.difusion@madrid.tomalosbarrios.net](https://madrid.tomalosbarrios.net/mailman/listinfo/chamberi.difusion)|0||[2011-07-28](https://madrid.tomalosbarrios.net/mailman/private/chamberi.difusion/)|
-|[chamberi.info@madrid.tomalosbarrios.net](https://madrid.tomalosbarrios.net/mailman/listinfo/chamberi.info)|3|2016-04-12|[2011-07-28](https://madrid.tomalosbarrios.net/mailman/private/chamberi.info/)|
+|[chamberi.info@madrid.tomalosbarrios.net](https://madrid.tomalosbarrios.net/mailman/listinfo/chamberi.info)|4|2020-12-22|[2011-07-28](https://madrid.tomalosbarrios.net/mailman/private/chamberi.info/)|
 |[chamberi.rbpacp@madrid.tomalosbarrios.net](https://madrid.tomalosbarrios.net/mailman/listinfo/chamberi.rbpacp)|0||[2011-07-28](https://madrid.tomalosbarrios.net/mailman/private/chamberi.rbpacp/)|
 |[chamberi.salud@madrid.tomalosbarrios.net](https://madrid.tomalosbarrios.net/mailman/listinfo/chamberi.salud)|0||[2011-07-28](https://madrid.tomalosbarrios.net/mailman/private/chamberi.salud/)|
 |[comunicacionparla@madrid.tomalosbarrios.net](https://madrid.tomalosbarrios.net/mailman/listinfo/comunicacionparla)|1|2016-06-14|[2012-10-17](https://madrid.tomalosbarrios.net/mailman/private/comunicacionparla/)|
 |[difusion15m.sierranorte@madrid.tomalosbarrios.net](https://madrid.tomalosbarrios.net/mailman/listinfo/difusion15m.sierranorte)|3|2016-05-31|[2016-05-22](https://madrid.tomalosbarrios.net/mailman/pipermail/madrid.tomalosbarrios.net/difusion15m.sierranorte/)|
 |[gti.pedrezuela@madrid.tomalosbarrios.net](https://madrid.tomalosbarrios.net/mailman/listinfo/gti.pedrezuela)|1325|2017-06-07|[2012-09-12](https://madrid.tomalosbarrios.net/mailman/pipermail/madrid.tomalosbarrios.net/gti.pedrezuela/)|
 |[gti.sierranorte@madrid.tomalosbarrios.net](https://madrid.tomalosbarrios.net/mailman/listinfo/gti.sierranorte)|1476|2020-11-02|[2015-11-05](https://madrid.tomalosbarrios.net/mailman/pipermail/madrid.tomalosbarrios.net/gti.sierranorte/)|
-|[infogetafe15m@madrid.tomalosbarrios.net](https://madrid.tomalosbarrios.net/mailman/listinfo/infogetafe15m)|3584|2020-12-08|[2012-05-22](https://madrid.tomalosbarrios.net/mailman/pipermail/madrid.tomalosbarrios.net/infogetafe15m/)|
+|[infogetafe15m@madrid.tomalosbarrios.net](https://madrid.tomalosbarrios.net/mailman/listinfo/infogetafe15m)|3615|2020-12-23|[2012-05-22](https://madrid.tomalosbarrios.net/mailman/pipermail/madrid.tomalosbarrios.net/infogetafe15m/)|
 |[plataforma-vivienda-pueblosur@madrid.tomalosbarrios.net](https://madrid.tomalosbarrios.net/mailman/listinfo/plataforma-vivienda-pueblosur)|0||[2012-07-18](https://madrid.tomalosbarrios.net/mailman/private/plataforma-vivienda-pueblosur/)|
 |[tecnologiapopular.sierranorte@madrid.tomalosbarrios.net](https://madrid.tomalosbarrios.net/mailman/listinfo/tecnologiapopular.sierranorte)|0||[2012-07-17](https://madrid.tomalosbarrios.net/mailman/private/tecnologiapopular.sierranorte/)|
-|[webgetafe15m@madrid.tomalosbarrios.net](https://madrid.tomalosbarrios.net/mailman/listinfo/webgetafe15m)|612|2020-10-11|[2012-04-28](https://madrid.tomalosbarrios.net/mailman/pipermail/madrid.tomalosbarrios.net/webgetafe15m/)|
+|[webgetafe15m@madrid.tomalosbarrios.net](https://madrid.tomalosbarrios.net/mailman/listinfo/webgetafe15m)|615|2020-12-22|[2012-04-28](https://madrid.tomalosbarrios.net/mailman/pipermail/madrid.tomalosbarrios.net/webgetafe15m/)|
 |[test_list@mataro.tomalosbarrios.net](https://mataro.tomalosbarrios.net/mailman/listinfo/test_list)|2|2011-07-23|[2011-07-20](https://mataro.tomalosbarrios.net/mailman/pipermail/mataro.tomalosbarrios.net/test_list/)|
 |[bdt-jacarandanorte@sevilla.tomalosbarrios.net](https://sevilla.tomalosbarrios.net/mailman/listinfo/bdt-jacarandanorte)|0||[2011-10-19](https://sevilla.tomalosbarrios.net/mailman/pipermail/sevilla.tomalosbarrios.net/bdt-jacarandanorte/)|
 |[coordinacion-jacarandanorte@sevilla.tomalosbarrios.net](https://sevilla.tomalosbarrios.net/mailman/listinfo/coordinacion-jacarandanorte)|0||[2011-10-19](https://sevilla.tomalosbarrios.net/mailman/pipermail/sevilla.tomalosbarrios.net/coordinacion-jacarandanorte/)|
@@ -466,6 +461,8 @@ que hayan podido ser recuperados con exactitud o no.
 # Apache
 
 * [jitsi.tomalaplaza.net](https://jitsi.tomalaplaza.net)
+* [madridocm.tomalaplaza.net](https://madridocm.tomalaplaza.net)
+* [ocmdaganzo.tomalaplaza.net](https://ocmdaganzo.tomalaplaza.net)
 * [optt.tomalaplaza.net](https://optt.tomalaplaza.net)
 * [pads.tomalaplaza.net](https://pads.tomalaplaza.net)
 * [pve.tomalaplaza.net](https://pve.tomalaplaza.net)
