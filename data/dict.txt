@@ -1,60 +1,60 @@
 takethesquare.net
- 355 https://takethesquare.net/wp-content/uploads/2011/07/tahrir_sitin.jpg
- 422 https://takethesquare.net/wp-content/uploads/2011/07/IMG_0491.jpg
- 429 https://takethesquare.net/wp-content/uploads/2011/07/IMG_04911.jpg
-1082 https://takethesquare.net/wp-content/uploads/2011/08/15m2.jpg
-1225 https://takethesquare.net/wp-content/uploads/2011/09/Piazzapulita-volantino.png
-1270 https://takethesquare.net/wp-content/uploads/2011/09/video-sol-sintagma.png
-2046 https://takethesquare.net/wp-content/uploads/2011/10/1.jpg
-2048 https://takethesquare.net/wp-content/uploads/2011/10/11.jpg
-2049 https://takethesquare.net/wp-content/uploads/2011/10/2.jpg
-2050 https://takethesquare.net/wp-content/uploads/2011/10/3.jpg
-2051 https://takethesquare.net/wp-content/uploads/2011/10/DSC_0270.jpg
-2052 https://takethesquare.net/wp-content/uploads/2011/10/DSC_0277.jpg
-2053 https://takethesquare.net/wp-content/uploads/2011/10/DSC_2088.jpg
-2054 https://takethesquare.net/wp-content/uploads/2011/10/DSC_2092.jpg
-2055 https://takethesquare.net/wp-content/uploads/2011/10/DSC_2098.jpg
-2056 https://takethesquare.net/wp-content/uploads/2011/10/DSC_2104.jpg
-2057 https://takethesquare.net/wp-content/uploads/2011/10/DSC_2126.jpg
-2058 https://takethesquare.net/wp-content/uploads/2011/10/DSC_2127.jpg
-2059 https://takethesquare.net/wp-content/uploads/2011/10/DSC_2136.jpg
-2060 https://takethesquare.net/wp-content/uploads/2011/10/DSC_2147.jpg
-2071 https://takethesquare.net/wp-content/uploads/2011/10/12.jpg
-2076 https://takethesquare.net/wp-content/uploads/2011/10/21.jpg
-2433 https://takethesquare.net/wp-content/uploads/2011/10/siteon0-87e94.jpg
-2983 https://takethesquare.net/wp-content/uploads/2011/11/171.jpg
-3155 https://takethesquare.net/wp-content/uploads/2011/12/fist.png
-3977 https://takethesquare.net/wp-content/uploads/2012/02/ROAR.jpeg
-3978 https://takethesquare.net/wp-content/uploads/2012/02/Occupy-Cape-Town.jpg
-3994 https://takethesquare.net/wp-content/uploads/2012/02/bwqwj.jpg
-4082 https://takethesquare.net/wp-content/uploads/2012/02/sen.jpeg
-4549 https://takethesquare.net/wp-content/uploads/2012/03/ireland-debt-crisis-nyberg-report-04-20-2011.jpg
-4941 https://takethesquare.net/wp-content/uploads/2012/04/police-brutality-back1.jpg
-4944 https://takethesquare.net/wp-content/uploads/2012/04/police-brutality-back2.jpg
-4947 https://takethesquare.net/wp-content/uploads/2012/04/police-brutality-back3.jpg
-4950 https://takethesquare.net/wp-content/uploads/2012/04/police-brutality-back4.jpg
-4953 https://takethesquare.net/wp-content/uploads/2012/04/police-brutality-back5.jpg
-4997 https://takethesquare.net/wp-content/uploads/2012/04/stri.jpg
-5168 https://takethesquare.net/wp-content/uploads/2012/05/12MBrusselsposter.jpg
-5399 https://takethesquare.net/wp-content/uploads/2012/06/tahir.jpg
-5426 https://takethesquare.net/wp-content/uploads/2012/06/rio.jpg
-5649 https://takethesquare.net/wp-content/uploads/2012/07/img_6566.jpg
-6489 https://takethesquare.net/wp-content/uploads/2017/05/R5_Dirik.jpg
-6543 https://takethesquare.net/wp-content/uploads/2017/05/Gezi4y.jpg
-6555 https://takethesquare.net/wp-content/uploads/2017/05/blackLivesMovement.png
-6828 https://takethesquare.net/wp-content/uploads/2019/04/yellow-vest-assembly-of-assemblies-april-2019.jpg
-6831 https://takethesquare.net/wp-content/uploads/2019/04/yellow-vest-assembly-of-assemblies-april-2019-1.jpg
+ 355 http://takethesquare.net/wp-content/uploads/2011/07/tahrir_sitin.jpg
+ 422 http://takethesquare.net/wp-content/uploads/2011/07/IMG_0491.jpg
+ 429 http://takethesquare.net/wp-content/uploads/2011/07/IMG_04911.jpg
+1082 http://takethesquare.net/wp-content/uploads/2011/08/15m2.jpg
+1225 http://takethesquare.net/wp-content/uploads/2011/09/Piazzapulita-volantino.png
+1270 http://takethesquare.net/wp-content/uploads/2011/09/video-sol-sintagma.png
+2046 http://takethesquare.net/wp-content/uploads/2011/10/1.jpg
+2048 http://takethesquare.net/wp-content/uploads/2011/10/11.jpg
+2049 http://takethesquare.net/wp-content/uploads/2011/10/2.jpg
+2050 http://takethesquare.net/wp-content/uploads/2011/10/3.jpg
+2051 http://takethesquare.net/wp-content/uploads/2011/10/DSC_0270.jpg
+2052 http://takethesquare.net/wp-content/uploads/2011/10/DSC_0277.jpg
+2053 http://takethesquare.net/wp-content/uploads/2011/10/DSC_2088.jpg
+2054 http://takethesquare.net/wp-content/uploads/2011/10/DSC_2092.jpg
+2055 http://takethesquare.net/wp-content/uploads/2011/10/DSC_2098.jpg
+2056 http://takethesquare.net/wp-content/uploads/2011/10/DSC_2104.jpg
+2057 http://takethesquare.net/wp-content/uploads/2011/10/DSC_2126.jpg
+2058 http://takethesquare.net/wp-content/uploads/2011/10/DSC_2127.jpg
+2059 http://takethesquare.net/wp-content/uploads/2011/10/DSC_2136.jpg
+2060 http://takethesquare.net/wp-content/uploads/2011/10/DSC_2147.jpg
+2071 http://takethesquare.net/wp-content/uploads/2011/10/12.jpg
+2076 http://takethesquare.net/wp-content/uploads/2011/10/21.jpg
+2433 http://takethesquare.net/wp-content/uploads/2011/10/siteon0-87e94.jpg
+2983 http://takethesquare.net/wp-content/uploads/2011/11/171.jpg
+3155 http://takethesquare.net/wp-content/uploads/2011/12/fist.png
+3977 http://takethesquare.net/wp-content/uploads/2012/02/ROAR.jpeg
+3978 http://takethesquare.net/wp-content/uploads/2012/02/Occupy-Cape-Town.jpg
+3994 http://takethesquare.net/wp-content/uploads/2012/02/bwqwj.jpg
+4082 http://takethesquare.net/wp-content/uploads/2012/02/sen.jpeg
+4549 http://takethesquare.net/wp-content/uploads/2012/03/ireland-debt-crisis-nyberg-report-04-20-2011.jpg
+4941 http://takethesquare.net/wp-content/uploads/2012/04/police-brutality-back1.jpg
+4944 http://takethesquare.net/wp-content/uploads/2012/04/police-brutality-back2.jpg
+4947 http://takethesquare.net/wp-content/uploads/2012/04/police-brutality-back3.jpg
+4950 http://takethesquare.net/wp-content/uploads/2012/04/police-brutality-back4.jpg
+4953 http://takethesquare.net/wp-content/uploads/2012/04/police-brutality-back5.jpg
+4997 http://takethesquare.net/wp-content/uploads/2012/04/stri.jpg
+5168 http://takethesquare.net/wp-content/uploads/2012/05/12MBrusselsposter.jpg
+5399 http://takethesquare.net/wp-content/uploads/2012/06/tahir.jpg
+5426 http://takethesquare.net/wp-content/uploads/2012/06/rio.jpg
+5649 http://takethesquare.net/wp-content/uploads/2012/07/img_6566.jpg
+6489 http://takethesquare.net/wp-content/uploads/2017/05/R5_Dirik.jpg
+6543 http://takethesquare.net/wp-content/uploads/2017/05/Gezi4y.jpg
+6555 http://takethesquare.net/wp-content/uploads/2017/05/blackLivesMovement.png
+6828 http://takethesquare.net/wp-content/uploads/2019/04/yellow-vest-assembly-of-assemblies-april-2019.jpg
+6831 http://takethesquare.net/wp-content/uploads/2019/04/yellow-vest-assembly-of-assemblies-april-2019-1.jpg
 15oct.takethesquare.net
-190 https://15oct.takethesquare.net/files/2011/09/spread.png
-192 https://15oct.takethesquare.net/files/2011/09/spread2.png
+190 http://15oct.takethesquare.net/files/2011/09/spread.png
+192 http://15oct.takethesquare.net/files/2011/09/spread2.png
 marchestobrussels.takethesquare.net
- 122 https://marchestobrussels.takethesquare.net/files/2011/08/boton_facebook.png
- 123 https://marchestobrussels.takethesquare.net/files/2011/08/boton_flickr.png
- 124 https://marchestobrussels.takethesquare.net/files/2011/08/boton_twitter.png
- 125 https://marchestobrussels.takethesquare.net/files/2011/08/rss-e1313605950984.png
-2279 https://marchestobrussels.takethesquare.net/files/2011/10/SIGNOS-ASAMBLEARIOS-copia.jpg
+ 122 http://marchestobrussels.takethesquare.net/files/2011/08/boton_facebook.png
+ 123 http://marchestobrussels.takethesquare.net/files/2011/08/boton_flickr.png
+ 124 http://marchestobrussels.takethesquare.net/files/2011/08/boton_twitter.png
+ 125 http://marchestobrussels.takethesquare.net/files/2011/08/rss-e1313605950984.png
+2279 http://marchestobrussels.takethesquare.net/files/2011/10/SIGNOS-ASAMBLEARIOS-copia.jpg
 radio.takethesquare.net
-11 https://radio.takethesquare.net/files/2011/08/IMG_0304.jpg
+11 http://radio.takethesquare.net/files/2011/08/IMG_0304.jpg
 transitionday.takethesquare.net
 29 https://transitionday.takethesquare.net/files/2011/10/20111008occupy620.jpg
 tomalaplaza.net
@@ -268,7 +268,7 @@ www.tomalatele.tv/web
 -15561 https://www.tomalatele.tv/web/made-in-l-a-tomalatele-documentalasluchas/madeinla/
 -15549 https://www.tomalatele.tv/web/bajo-las-mordazas-tomalatele-documentalasluchas/underthegags/
 -15477 https://www.tomalatele.tv/web/ciclo-tomalatele-documentalasluchas-ingobernable/carteldocumentales/
- 15477 https://www.tomalatele.tv/web/wp-content/uploads/2018/01/CartelDocumentales.jpg
- 15549 https://www.tomalatele.tv/web/wp-content/uploads/2018/03/underthegags.jpg
- 15561 https://www.tomalatele.tv/web/wp-content/uploads/2018/03/madeinla.jpg
- 15563 https://www.tomalatele.tv/web/wp-content/uploads/2018/03/madeinla1.jpg
+ 15477 http://www.tomalatele.tv/web/wp-content/uploads/2018/01/CartelDocumentales.jpg
+ 15549 http://www.tomalatele.tv/web/wp-content/uploads/2018/03/underthegags.jpg
+ 15561 http://www.tomalatele.tv/web/wp-content/uploads/2018/03/madeinla.jpg
+ 15563 http://www.tomalatele.tv/web/wp-content/uploads/2018/03/madeinla1.jpg

@@ -107,8 +107,9 @@ def get_protocol(site):
                         return p
         except:
             pass
-    cache_protocol[site] = "https"
-    return "https"
+    if site not in cache_protocol:
+        cache_protocol[site] = "https"
+    return cache_protocol[site]
 
 def getphpbbhtml(url):
     root = url.rsplit("=", 1)[0]+"="
