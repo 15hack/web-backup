@@ -17,7 +17,7 @@ Se han escaneado 199 `sites`, con datos desde el 2011-05-17 al 2020-11-30, repar
 |    349 | wk_pages |
 |     98 | wk_media |
 |    217 | mailman_lists |
-|  26137 | mailman_archive |
+|  26156 | mailman_archive |
 
 Lo que supone 68934 urls.
 
@@ -302,7 +302,7 @@ Lo que supone 68934 urls.
 |[debates@burgos.tomalaplaza.net](https://burgos.tomalaplaza.net/mailman/listinfo/debates)|1|2012-06-26|[2011-10-14](https://burgos.tomalaplaza.net/mailman/pipermail/burgos.tomalaplaza.net/debates/)|
 |[difusion@burgos.tomalaplaza.net](https://burgos.tomalaplaza.net/mailman/listinfo/difusion)|525|2020-01-24|[2011-10-14](https://burgos.tomalaplaza.net/mailman/private/difusion/)|
 |[info@compostela.tomalaplaza.net](https://compostela.tomalaplaza.net/mailman/listinfo/info)|0||[2011-09-26](https://compostela.tomalaplaza.net/mailman/pipermail/compostela.tomalaplaza.net/info/)|
-|[15hack@listas.tomalaplaza.net](https://listas.tomalaplaza.net/mailman/listinfo/15hack)|5960|2020-12-23|[2012-01-02](https://listas.tomalaplaza.net/mailman/private/15hack/)|
+|[15hack@listas.tomalaplaza.net](https://listas.tomalaplaza.net/mailman/listinfo/15hack)|5963|2021-01-04|[2012-01-02](https://listas.tomalaplaza.net/mailman/private/15hack/)|
 |[accion25s@listas.tomalaplaza.net](https://listas.tomalaplaza.net/mailman/listinfo/accion25s)|973|2014-07-03|[2012-08-31](https://listas.tomalaplaza.net/mailman/pipermail/listas.tomalaplaza.net/accion25s/)|
 |[actas.acampadasol@listas.tomalaplaza.net](https://listas.tomalaplaza.net/mailman/listinfo/actas.acampadasol)|5|2012-01-17|[2012-01-02](https://listas.tomalaplaza.net/mailman/private/actas.acampadasol/)|
 |[actividades.acampadasol@listas.tomalaplaza.net](https://listas.tomalaplaza.net/mailman/listinfo/actividades.acampadasol)|1|2011-06-01|[2012-01-02](https://listas.tomalaplaza.net/mailman/private/actividades.acampadasol/)|
@@ -323,7 +323,7 @@ Lo que supone 68934 urls.
 |[castellon@listas.tomalaplaza.net](https://listas.tomalaplaza.net/mailman/listinfo/castellon)|25|2012-10-17|[2012-01-02](https://listas.tomalaplaza.net/mailman/private/castellon/)|
 |[comision.consultas@listas.tomalaplaza.net](https://listas.tomalaplaza.net/mailman/listinfo/comision.consultas)|18|2019-05-01|[2012-01-02](https://listas.tomalaplaza.net/mailman/private/comision.consultas/)|
 |[comisiones@listas.tomalaplaza.net](https://listas.tomalaplaza.net/mailman/listinfo/comisiones)|36|2011-08-08|[2012-01-02](https://listas.tomalaplaza.net/mailman/private/comisiones/)|
-|[comunicacion.acampadasol@listas.tomalaplaza.net](https://listas.tomalaplaza.net/mailman/listinfo/comunicacion.acampadasol)|58|2020-09-06|[2012-01-02](https://listas.tomalaplaza.net/mailman/private/comunicacion.acampadasol/)|
+|[comunicacion.acampadasol@listas.tomalaplaza.net](https://listas.tomalaplaza.net/mailman/listinfo/comunicacion.acampadasol)|59|2020-12-25|[2012-01-02](https://listas.tomalaplaza.net/mailman/private/comunicacion.acampadasol/)|
 |[comunicacion.cuenca@listas.tomalaplaza.net](https://listas.tomalaplaza.net/mailman/listinfo/comunicacion.cuenca)|11|2011-06-27|[2012-01-02](https://listas.tomalaplaza.net/mailman/private/comunicacion.cuenca/)|
 |[comunicacion.leon@listas.tomalaplaza.net](https://listas.tomalaplaza.net/mailman/listinfo/comunicacion.leon)|1|2011-06-12|[2012-01-02](https://listas.tomalaplaza.net/mailman/private/comunicacion.leon/)|
 |[comunicacionestatal15m@listas.tomalaplaza.net](https://listas.tomalaplaza.net/mailman/listinfo/comunicacionestatal15m)|437|2015-04-09|[2012-01-02](https://listas.tomalaplaza.net/mailman/pipermail/listas.tomalaplaza.net/comunicacionestatal15m/)|
@@ -445,10 +445,10 @@ Lo que supone 68934 urls.
 |[difusion15m.sierranorte@madrid.tomalosbarrios.net](https://madrid.tomalosbarrios.net/mailman/listinfo/difusion15m.sierranorte)|3|2016-05-31|[2016-05-22](https://madrid.tomalosbarrios.net/mailman/pipermail/madrid.tomalosbarrios.net/difusion15m.sierranorte/)|
 |[gti.pedrezuela@madrid.tomalosbarrios.net](https://madrid.tomalosbarrios.net/mailman/listinfo/gti.pedrezuela)|1325|2017-06-07|[2012-09-12](https://madrid.tomalosbarrios.net/mailman/pipermail/madrid.tomalosbarrios.net/gti.pedrezuela/)|
 |[gti.sierranorte@madrid.tomalosbarrios.net](https://madrid.tomalosbarrios.net/mailman/listinfo/gti.sierranorte)|1476|2020-11-02|[2015-11-05](https://madrid.tomalosbarrios.net/mailman/pipermail/madrid.tomalosbarrios.net/gti.sierranorte/)|
-|[infogetafe15m@madrid.tomalosbarrios.net](https://madrid.tomalosbarrios.net/mailman/listinfo/infogetafe15m)|3615|2020-12-23|[2012-05-22](https://madrid.tomalosbarrios.net/mailman/pipermail/madrid.tomalosbarrios.net/infogetafe15m/)|
+|[infogetafe15m@madrid.tomalosbarrios.net](https://madrid.tomalosbarrios.net/mailman/listinfo/infogetafe15m)|3631|2021-01-07|[2012-05-22](https://madrid.tomalosbarrios.net/mailman/pipermail/madrid.tomalosbarrios.net/infogetafe15m/)|
 |[plataforma-vivienda-pueblosur@madrid.tomalosbarrios.net](https://madrid.tomalosbarrios.net/mailman/listinfo/plataforma-vivienda-pueblosur)|0||[2012-07-18](https://madrid.tomalosbarrios.net/mailman/private/plataforma-vivienda-pueblosur/)|
 |[tecnologiapopular.sierranorte@madrid.tomalosbarrios.net](https://madrid.tomalosbarrios.net/mailman/listinfo/tecnologiapopular.sierranorte)|0||[2012-07-17](https://madrid.tomalosbarrios.net/mailman/private/tecnologiapopular.sierranorte/)|
-|[webgetafe15m@madrid.tomalosbarrios.net](https://madrid.tomalosbarrios.net/mailman/listinfo/webgetafe15m)|615|2020-12-22|[2012-04-28](https://madrid.tomalosbarrios.net/mailman/pipermail/madrid.tomalosbarrios.net/webgetafe15m/)|
+|[webgetafe15m@madrid.tomalosbarrios.net](https://madrid.tomalosbarrios.net/mailman/listinfo/webgetafe15m)|618|2021-01-05|[2012-04-28](https://madrid.tomalosbarrios.net/mailman/pipermail/madrid.tomalosbarrios.net/webgetafe15m/)|
 |[test_list@mataro.tomalosbarrios.net](https://mataro.tomalosbarrios.net/mailman/listinfo/test_list)|2|2011-07-23|[2011-07-20](https://mataro.tomalosbarrios.net/mailman/pipermail/mataro.tomalosbarrios.net/test_list/)|
 |[bdt-jacarandanorte@sevilla.tomalosbarrios.net](https://sevilla.tomalosbarrios.net/mailman/listinfo/bdt-jacarandanorte)|0||[2011-10-19](https://sevilla.tomalosbarrios.net/mailman/pipermail/sevilla.tomalosbarrios.net/bdt-jacarandanorte/)|
 |[coordinacion-jacarandanorte@sevilla.tomalosbarrios.net](https://sevilla.tomalosbarrios.net/mailman/listinfo/coordinacion-jacarandanorte)|0||[2011-10-19](https://sevilla.tomalosbarrios.net/mailman/pipermail/sevilla.tomalosbarrios.net/coordinacion-jacarandanorte/)|
