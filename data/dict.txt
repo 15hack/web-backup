@@ -45,8 +45,8 @@ takethesquare.net
 6828 http://takethesquare.net/wp-content/uploads/2019/04/yellow-vest-assembly-of-assemblies-april-2019.jpg
 6831 http://takethesquare.net/wp-content/uploads/2019/04/yellow-vest-assembly-of-assemblies-april-2019-1.jpg
 15oct.takethesquare.net
-190 http://15oct.takethesquare.net/files/2011/09/spread.png
-192 http://15oct.takethesquare.net/files/2011/09/spread2.png
+190 https://15oct.takethesquare.net/files/2011/09/spread.png
+192 https://15oct.takethesquare.net/files/2011/09/spread2.png
 marchestobrussels.takethesquare.net
  122 https://marchestobrussels.takethesquare.net/files/2011/08/boton_facebook.png
  123 https://marchestobrussels.takethesquare.net/files/2011/08/boton_flickr.png
