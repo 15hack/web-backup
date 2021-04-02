@@ -332,7 +332,7 @@ class Scrap:
         self.print_totales("wordpress", wp)
 
         objects = wp.posts + wp.media
-        print("Recuperando información de api wp-json (si existe) ...", end="\r")
+        print("\nRecuperando información de api wp-json (si existe) ...", end="\r")
         for site, meta in wp.sites.items():
             _objs = {}
             for i in objects:
@@ -377,6 +377,7 @@ class Scrap:
             val = val.values()
         for s in val:
             self.done.add(s['url'])
+        print("")
         if not totales:
             print("%s %s serán guardados" % (len(obj.sites), label))
             return

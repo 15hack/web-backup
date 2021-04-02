@@ -5,6 +5,7 @@ from bunch import Bunch
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse, urlencode
 import simplejson
+import time
 
 
 def get_targets(url, html):
@@ -50,7 +51,7 @@ class WP:
         self.exclude = None
         self.include = None
 
-    def get(self, path):
+    def get(self, path, attempt=0):
         url = self.rest_route+path
         try:
             r = requests.get(url, verify=False)
@@ -58,9 +59,15 @@ class WP:
             js = r.json()
             return js
         except requests.exceptions.ConnectionError:
+            if attempt<3:
+                time.sleep(15)
+                return self.get(path, attempt=attempt+1)
             print(url)
             raise
         except simplejson.errors.JSONDecodeError:
+            if attempt<3:
+                time.sleep(15)
+                return self.get(path, attempt=attempt+1)
             print(url)
             raise
 
