@@ -1,6 +1,7 @@
 import os
 import re
 import sqlite3
+from sqlite3 import OperationalError, InterfaceError
 from textwrap import dedent
 from PIL import Image
 
@@ -11,7 +12,6 @@ from datetime import datetime
 from subprocess import DEVNULL, STDOUT, check_call
 import tempfile
 from urllib.request import urlretrieve
-from .util import read
 
 re_sp = re.compile(r"\s+")
 
@@ -144,10 +144,9 @@ class DBLite:
             table, ', '.join(keys), ', '.join(prm))
         try:
             self.con.execute(sql, vals)
-        except sqlite3.InterfaceError:
-            print(sql)
-            print(vals)
-            raise
+        except (OperationalError, InterfaceError) as e:
+            e.args = e.args + (sql, tuple(vals))
+            raise e
         return sobra
 
     def update(self, table, **kargv):
@@ -230,11 +229,14 @@ class DBLite:
             r.append(i)
         return r
 
-    def one(self, sql, row_factory=None):
+    def one(self, sql, *args, row_factory=None):
         sql = self._build_select(sql)
         self.con.row_factory=row_factory
         cursor = self.con.cursor()
-        cursor.execute(sql)
+        if args:
+            cursor.execute(sql, args)
+        else:
+            cursor.execute(sql)
         r = cursor.fetchone()
         cursor.close()
         self.con.row_factory=None
@@ -252,6 +254,17 @@ class DBLite:
         cursor.close()
         return sql
 
+    def drop(self, *tables):
+        cursor = self.con.cursor()
+        cursor.execute("begin")
+        for t in tables:
+            tp = self.one("SELECT type FROM sqlite_master WHERE name = ? and type in ('table', 'view')", t)
+            if tp is not None:
+                cursor.execute("drop {} {}".format(tp, t))
+        cursor.execute("commit")
+        cursor.close()
+        self.load_tables()
+
     def size(self, file=None, suffix='B'):
         file = file or self.file
         num = os.path.getsize(file)
@@ -268,7 +281,9 @@ class DBLite:
             zip = os.path.splitext(self.file)[0]+".7z"
         if os.path.isfile(zip):
             os.remove(zip)
-        os.makedirs(os.path.dirname(zip), exist_ok=True)
+        dir = os.path.dirname(zip)
+        if dir:
+            os.makedirs(dir, exist_ok=True)
         cmd = "7z a %s ./%s" % (zip, file)
         check_call(cmd.split(), stdout=DEVNULL, stderr=STDOUT)
         return self.size(zip)
