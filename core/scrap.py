@@ -31,10 +31,12 @@ def frm_title(s, c='=', l=10):
     flag_frm_title = True
     return s
 
-def clean_url(url):
+def clean_url(url, www=False):
     if "://" in url:
         url = url.split("://", 1)[1]
     url = url.rstrip("/")
+    if www and url.startswith("www."):
+        url = url[4:]
     return url
 
 class SetDom(set):

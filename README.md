@@ -28,13 +28,14 @@ Obviamente no se incluye en el repositorio, pero tienes
 * [`export.py`](export.py) se conecta a la base de datos MySQL y crea la base de datos `SQLite`
 * [`release.py`](release.py) prepara las [releases](https://github.com/15hack/web-backup/releases/latest) y genera:
     * [`sites.7z`](https://github.com/15hack/web-backup/releases/latest): una copia reducida de la base de datos que genera `export.py`
-    * [`out/README.txt`](out/README.md): descripción y estadística básica del contenido de
+    * [`out/README.md`](out/README.md): descripción y estadística básica del contenido de
     la base de datos
     * [`out/links.txt`](out/links.txt?raw=true): listado con las urls
     de todas las páginas recuperadas para facilitar el uso por terceros
     con propósitos, como por ejemplo, hacer copias en
     [`webarchive`](https://archive.org/web/) o
     descargar los portales con [`WebHTTrack`](https://www.httrack.com/)
+    * [`out/links.html`](out/links.md): listado en html con las urls
 
 # Diagrama de la base de datos SQLite
 

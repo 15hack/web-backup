@@ -5,6 +5,7 @@ from bunch import Bunch
 from functools import lru_cache
 from textwrap import dedent
 from .schemaspy import SchemasPy
+from .scrap import clean_url
 import re
 
 re_blank = re.compile(r'^\s*$\n', re.MULTILINE)
@@ -120,9 +121,21 @@ class SiteDBLite(DBLite):
         return links
 
     def print_links(self, file):
-        with open(file, "w") as f:
-            for l in self.links:
-                f.write(l+"\n")
+        ext = file.rsplit(".", 1)[-1].lower()
+        if ext == "txt":
+            with open(file, "w") as f:
+                for l in self.links:
+                    f.write(l+"\n")
+        elif ext == "md":
+            with open(file, "w") as f:
+                f.write(dedent('''
+                ---
+                title: {} links
+                ---
+                '''.format(len(self.links))).lstrip())
+                for l in self.links:
+                    txt = clean_url(l)
+                    f.write("* [{}]({})\n".format(txt, l))
 
     def get_info(self, site=None):
         where = ""
@@ -501,6 +514,7 @@ if __name__ == "__main__":
         print(basename(tg))
         db = SiteDBLite(tg, readonly=True)
         db.print_links(target+"links.txt")
+        db.print_links(target+"links.md")
         db.print_info(target+"README.md", table_link=False)
         db.save_diagram(target+"diagram.png")
         db.close()
