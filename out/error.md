@@ -12,6 +12,7 @@
 `999` [moodle.tomalaplaza.net](https://moodle.tomalaplaza.net)  
 `999` [ocm.tomalaplaza.net](https://ocm.tomalaplaza.net)  
 `503` [svn.tomalaplaza.net](https://svn.tomalaplaza.net)  
+`503` [titulizaciones.tomalaplaza.net](https://titulizaciones.tomalaplaza.net)  
 `999` [tkthsqr.tomalaplaza.net](https://tkthsqr.tomalaplaza.net)  
 `999` [tmlsbrrs1.tomalaplaza.net](https://tmlsbrrs1.tomalaplaza.net)  
 `999` [vehosting.tomalaplaza.net](https://vehosting.tomalaplaza.net)  
