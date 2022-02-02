@@ -93,6 +93,10 @@ class SiteDBLite(DBLite):
                 site, ID
         ''', row_factory=one_factory)
         links = list(links)
+        for i, l in reversed(list(enumerate(links))):
+            spl = l.split("://", 1)
+            if len(spl)==2 and spl[0].lower() == "http" and "https://"+spl[1] in links:
+                del links[i]
         pages = self.select('''
             select distinct
             	t.url, p.posts, s.page_size
