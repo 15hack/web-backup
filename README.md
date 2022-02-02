@@ -22,9 +22,9 @@ En funcionamiento básico es el siguiente:
 
 # Fichero de configuración y scripts
 
-* `connect/config.yml` contiene la configuración para conectarse a la base de datos.
+* `core/config.yml` contiene la configuración para conectarse a la base de datos.
 Obviamente no se incluye en el repositorio, pero tienes
-[un ejemplo](connect/config.example.yml) con el que crear el tuyo.
+[un ejemplo](core/config.example.yml) con el que crear el tuyo.
 * [`export.py`](export.py) se conecta a la base de datos MySQL y crea la base de datos `SQLite`
 * [`release.py`](release.py) prepara las [releases](https://github.com/15hack/web-backup/releases/latest) y genera:
     * [`sites.7z`](https://github.com/15hack/web-backup/releases/latest): una copia reducida de la base de datos que genera `export.py`
