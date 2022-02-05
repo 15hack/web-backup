@@ -5,7 +5,7 @@ import re
 from bunch import Bunch
 
 from core.sitedb import SiteDBLite
-from core.data import FindUrl, tuple_url, loadwpjson, get_protocol
+from core.data import get_protocol
 from core.scrap import Scrap
 
 abspath = os.path.abspath(__file__)
