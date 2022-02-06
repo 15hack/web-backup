@@ -1,17 +1,17 @@
-Se han escaneado 199 `sites`, con datos desde el 2011-05-17 al 2021-07-12, repartidos en:
+Se han escaneado 198 `sites`, con datos desde el 2011-05-17 al 2021-07-12, repartidos en:
 
 |  items | tabla |
 |-------:|-------|
 |    168 | sites[type='wp'] |
 |     19 | sites[type='mailman'] |
-|      8 | sites[type='apache'] |
+|      7 | sites[type='apache'] |
 |      3 | sites[type='phpbb'] |
 |      1 | sites[type='wiki'] |
 |  42656 | wp_posts |
 |  23297 | wp_media |
 | 102057 | wp_tags |
 |  43255 | wp_comments |
-|   1502 | phpbb_topics |
+|   1494 | phpbb_topics |
 |   4042 | phpbb_posts |
 |    629 | phpbb_media |
 |    349 | wk_pages |
@@ -19,7 +19,7 @@ Se han escaneado 199 `sites`, con datos desde el 2011-05-17 al 2021-07-12, repar
 |    217 | mailman_lists |
 |  27054 | mailman_archive |
 
-Lo que supone 68918 urls.
+Lo que supone 68910 urls.
 
 # Wordpress
 
@@ -199,7 +199,7 @@ Lo que supone 68918 urls.
 | SITE | topics | posts | Último uso | 1º uso |
 |:-----|-------:|------:|-----------:|-------:|
 |[15hack.tomalaplaza.net/foro](http://15hack.tomalaplaza.net/foro)|13|29|2016-09-21|2015-04-29|
-|[foro.tomalosbarrios.net](http://foro.tomalosbarrios.net)|1458|3932|2018-11-24|2011-09-02|
+|[foro.tomalosbarrios.net](http://foro.tomalosbarrios.net)|1450|3932|2018-11-24|2011-09-02|
 |[www.tomalatele.tv/foro](http://www.tomalatele.tv/foro)|31|81|2013-03-22|2012-03-26|
 
 # MediaWiki
@@ -467,7 +467,6 @@ que hayan podido ser recuperados con exactitud o no.
 * [pads.tomalaplaza.net](https://pads.tomalaplaza.net)
 * [pve.tomalaplaza.net](https://pve.tomalaplaza.net)
 * [stats.tomalaplaza.net](https://stats.tomalaplaza.net)
-* [titulizaciones.tomalaplaza.net](https://titulizaciones.tomalaplaza.net)
 
 Para reordenar la tabla puede usar las extensiones
 [`Tampermonkey`](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=es)

@@ -500,6 +500,7 @@ class Scrap:
                     {prefix}topics t2
                     left join {prefix}users t4 on t2.topic_poster = t4.user_id
         		where
+                    t2.topic_moved_id = 0 and
                     t2.{topic_visibility} = 1 and
                     t2.forum_id in {forums_ids}
         	''', debug="phpbb-topics")
