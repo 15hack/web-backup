@@ -56,7 +56,7 @@ marchestobrussels.takethesquare.net
 radio.takethesquare.net
 11 http://radio.takethesquare.net/files/2011/08/IMG_0304.jpg
 transitionday.takethesquare.net
-29 https://transitionday.takethesquare.net/files/2011/10/20111008occupy620.jpg
+29 http://transitionday.takethesquare.net/files/2011/10/20111008occupy620.jpg
 tomalaplaza.net
 484 https://tomalaplaza.net/
 actasmadrid.tomalaplaza.net
