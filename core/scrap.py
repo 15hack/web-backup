@@ -4,12 +4,13 @@ import re
 from bunch import Bunch
 
 from .data import FindUrl, tuple_url, loadwpjson, loadpageswkjson, loadimageswkjson, requests_json, getphpbbhtml
-from .util import find_value, get_yml
+from .util import find_value, get_yml, hard_get
 from .connect import DB, SSHFile, SSHCmd
 from functools import lru_cache
 import json
 from datetime import datetime
 import requests
+from simplejson.errors import JSONDecodeError
 
 me = os.path.realpath(__file__)
 dr = os.path.dirname(me)
@@ -472,7 +473,7 @@ class Scrap:
                         forum_id in (select forum_id from {prefix}posts where {post_visibility} = 1)
                 '''.format(**o)
                 for id in db.select(sql):
-                    r = requests.get(viewforum+str(id), verify=False)
+                    r = hard_get(viewforum+str(id), verify=False)
                     if re.search(r'<a\s+href\s*=\s*"[^"]*/viewforum\.php\?f='+str(id)+r'["&]', r.text):
                         forums_ids.append(id)
                 if len(forums_ids)==0:
@@ -609,7 +610,13 @@ class Scrap:
                 if not db.isOkDom(o["purl"]) or not db.isOk(o["site"]):
                     print("%s (%s) sera descartado" % key)
                     continue
-                o["title"] = requests_json(o["api"]+"query&meta=siteinfo", "query", "general", "sitename")
+                title_api = o["api"]+"query&meta=siteinfo"
+                try:
+                    o["title"] = requests_json(title_api, "query", "general", "sitename")
+                except JSONDecodeError:
+                    print("%s sera descartado: error en %s" % (o["prefix"], title_api))
+                    continue
+
                 sites[o["site"]]=o
 
             if not sites:

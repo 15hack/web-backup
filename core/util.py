@@ -4,6 +4,21 @@ from subprocess import DEVNULL, STDOUT, check_call
 import os
 from glob import glob
 import yaml
+import requests
+
+def hard_get(url, *args, **kvargs):
+    pro, tail = url.split("://", 1)
+    pro = pro.lower()
+    try:
+        return requests.get(url, *args, **kvargs)
+    except requests.exceptions.ConnectionError:
+        if pro not in ("http", "https"):
+            raise
+        if pro == "http":
+            pro = "https"
+        else:
+            pro = "http"
+        return requests.get(pro + "://"+ tail, *args, **kvargs)
 
 def get_yml(path):
     if not os.path.isfile(path):

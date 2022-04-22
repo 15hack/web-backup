@@ -7,13 +7,14 @@ from urllib.parse import urljoin
 from datetime import datetime
 from .lite import dict_factory
 from .wpjson import WP, secureWP
-from .util import chunks, find_value
+from .util import chunks, find_value, hard_get
 from bunch import Bunch
 from urllib.parse import urlparse
 from textwrap import dedent
 import requests
 from bs4 import BeautifulSoup
 import simplejson
+from simplejson.errors import JSONDecodeError
 
 cache_responses={}
 cache_protocol={}
@@ -22,7 +23,7 @@ txt_dict = "data/dict.txt"
 now = time.time()
 
 def requests_json(url, *path):
-    r = requests.get(url)
+    r = hard_get(url)
     r = r.json()
     for p in path:
         r = r[p]
@@ -114,7 +115,7 @@ def get_protocol(site):
 def getphpbbhtml(url):
     root = url.rsplit("=", 1)[0]+"="
     data={}
-    r = requests.get(url, verify=False)
+    r = hard_get(url, verify=False)
     soup = BeautifulSoup(r.text, 'html.parser')
     for n in soup.select("div.post[id]"):
         id = n.attrs["id"]
@@ -302,7 +303,7 @@ def get_response(url, default=None):
     if url in cache_responses:
         return cache_responses[url]
     try:
-        rsp = requests.get(url, allow_redirects=False, verify=False)
+        rsp = hard_get(url, allow_redirects=False, verify=False)
         r = Bunch(code=rsp.status_code, url=url)
         if rsp.headers and rsp.headers.get('location', None):
             r.url = rsp.headers['location']

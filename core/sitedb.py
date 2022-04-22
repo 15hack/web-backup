@@ -222,151 +222,155 @@ class SiteDBLite(DBLite):
 
             md.write("")
             md.write("Lo que supone {urls} urls.".format(urls=len(self.links)))
-            sites = self.select("select id, url from sites where type='wp'")
-            sites = sorted(sites, key=_sort_sites)
-            max_site = max(len(x[1]) for x in sites)
-            md.write(dedent('''
-                # Wordpress
+            sites = self.to_list("select id, url from sites where type='wp'")
+            if sites:
+                sites = sorted(sites, key=_sort_sites)
+                max_site = max(len(x[1]) for x in sites)
+                md.write(dedent('''
+                    # Wordpress
 
-                | SITE | post/page | Comentarios | Último uso | 1º uso | Último comentario |
-                |:-----|----------:|------------:|-----------:|-------:|------------------:|
-            ''').strip())
-            for id, url in sites:
-                info = self.get_info(id)
-                row = dict(info.counts)
-                row["ini"] = info.ini
-                row["fin"] = info.fin
-                row["site"] = url.split("://", 1)[-1]
-                row["url"] = url
-                row["admin"] = "{}/wp-admin/".format(url)
-                row["ult_comment"] = self.one("select IFNULL(substr(max(date), 1, 10), '') from wp_comments where site="+str(id))
-                if row["ult_comment"] is None:
-                    row["ult_comment"] = ""
-                if table_link:
-                    md_row = build_tr('''
-                        [{site}]({url})
-                        [{wp_posts}]({admin}edit.php?orderby=date&order=desc)
-                        [{wp_comments}]({admin}edit-comments.php?comment_type=comment&orderby=comment_date&order=desc)
-                        {fin}
-                        {ini}
-                        {ult_comment}
-                    ''', space="")
-                else:
-                    md_row = build_tr('''
-                        {site:<%s}
-                        {wp_posts:>6}
-                        {wp_comments:>6}
-                        {fin}
-                        {ini}
-                        {ult_comment}
-                    ''' % max_site)
-                md.write(md_row.format(**row).strip())
-            md.write("")
-            sites = self.select("select id, url from sites where type='phpbb'")
-            sites = sorted(sites, key=_sort_sites)
-            max_site = max(len(x[1]) for x in sites)
-            md.write(dedent('''
-                # phpBB
+                    | SITE | post/page | Comentarios | Último uso | 1º uso | Último comentario |
+                    |:-----|----------:|------------:|-----------:|-------:|------------------:|
+                ''').strip())
+                for id, url in sites:
+                    info = self.get_info(id)
+                    row = dict(info.counts)
+                    row["ini"] = info.ini
+                    row["fin"] = info.fin
+                    row["site"] = url.split("://", 1)[-1]
+                    row["url"] = url
+                    row["admin"] = "{}/wp-admin/".format(url)
+                    row["ult_comment"] = self.one("select IFNULL(substr(max(date), 1, 10), '') from wp_comments where site="+str(id))
+                    if row["ult_comment"] is None:
+                        row["ult_comment"] = ""
+                    if table_link:
+                        md_row = build_tr('''
+                            [{site}]({url})
+                            [{wp_posts}]({admin}edit.php?orderby=date&order=desc)
+                            [{wp_comments}]({admin}edit-comments.php?comment_type=comment&orderby=comment_date&order=desc)
+                            {fin}
+                            {ini}
+                            {ult_comment}
+                        ''', space="")
+                    else:
+                        md_row = build_tr('''
+                            {site:<%s}
+                            {wp_posts:>6}
+                            {wp_comments:>6}
+                            {fin}
+                            {ini}
+                            {ult_comment}
+                        ''' % max_site)
+                    md.write(md_row.format(**row).strip())
+                md.write("")
+            sites = self.to_list("select id, url from sites where type='phpbb'")
+            if sites:
+                sites = sorted(sites, key=_sort_sites)
+                max_site = max(len(x[1]) for x in sites)
+                md.write(dedent('''
+                    # phpBB
 
-                | SITE | topics | posts | Último uso | 1º uso |
-                |:-----|-------:|------:|-----------:|-------:|
-            ''').strip())
-            for id, url in sites:
-                info = self.get_info(id)
-                row = dict(info.counts)
-                row["ini"] = info.ini
-                row["fin"] = info.fin
-                row["site"] = url.split("://", 1)[-1]
-                row["url"] = url
-                if table_link:
-                    md_row = build_tr('''
-                        [{site}]({url})
-                        {phpbb_topics}
-                        {phpbb_posts}
-                        {fin}
-                        {ini}
-                    ''', space="")
-                else:
-                    md_row = build_tr('''
-                        {site:<%s}
-                        {phpbb_topics:>6}
-                        {phpbb_posts:>6}
-                        {fin}
-                        {ini}
-                    ''' % max_site)
-                md.write(md_row.format(**row).strip())
-            md.write("")
-            sites = self.select("select id, url from sites where type='wiki'")
-            sites = sorted(sites, key=_sort_sites)
-            max_site = max(len(x[1]) for x in sites)
-            md.write(dedent('''
-                # MediaWiki
+                    | SITE | topics | posts | Último uso | 1º uso |
+                    |:-----|-------:|------:|-----------:|-------:|
+                ''').strip())
+                for id, url in sites:
+                    info = self.get_info(id)
+                    row = dict(info.counts)
+                    row["ini"] = info.ini
+                    row["fin"] = info.fin
+                    row["site"] = url.split("://", 1)[-1]
+                    row["url"] = url
+                    if table_link:
+                        md_row = build_tr('''
+                            [{site}]({url})
+                            {phpbb_topics}
+                            {phpbb_posts}
+                            {fin}
+                            {ini}
+                        ''', space="")
+                    else:
+                        md_row = build_tr('''
+                            {site:<%s}
+                            {phpbb_topics:>6}
+                            {phpbb_posts:>6}
+                            {fin}
+                            {ini}
+                        ''' % max_site)
+                    md.write(md_row.format(**row).strip())
+                md.write("")
+            sites = self.to_list("select id, url from sites where type='wiki'")
+            if sites:
+                sites = sorted(sites, key=_sort_sites)
+                max_site = max(len(x[1]) for x in sites)
+                md.write(dedent('''
+                    # MediaWiki
 
-                | SITE | pages | Último uso | 1º uso |
-                |:-----|------:|-----------:|-------:|
-            ''').strip())
-            for id, url in sites:
-                info = self.get_info(id)
-                row = dict(info.counts)
-                row["ini"] = info.ini
-                row["fin"] = info.fin
-                row["site"] = url.split("://", 1)[-1]
-                row["url"] = url
-                if table_link:
-                    md_row = build_tr('''
-                        [{site}]({url})
-                        {wk_pages}
-                        {fin}
-                        {ini}
-                    ''', space="")
-                else:
-                    md_row = build_tr('''
-                        {site:<%s}
-                        {wk_pages:>6}
-                        {fin}
-                        {ini}
-                    ''' % max_site)
-                md.write(md_row.format(**row).strip())
-            md.write("")
-            sites = self.select("select id, url from sites where type='mailman'")
-            sites = sorted(sites, key=_sort_sites)
-            max_site = max(len(x[1]) for x in sites)
-            md.write(dedent('''
-                # Mailman
+                    | SITE | pages | Último uso | 1º uso |
+                    |:-----|------:|-----------:|-------:|
+                ''').strip())
+                for id, url in sites:
+                    info = self.get_info(id)
+                    row = dict(info.counts)
+                    row["ini"] = info.ini
+                    row["fin"] = info.fin
+                    row["site"] = url.split("://", 1)[-1]
+                    row["url"] = url
+                    if table_link:
+                        md_row = build_tr('''
+                            [{site}]({url})
+                            {wk_pages}
+                            {fin}
+                            {ini}
+                        ''', space="")
+                    else:
+                        md_row = build_tr('''
+                            {site:<%s}
+                            {wk_pages:>6}
+                            {fin}
+                            {ini}
+                        ''' % max_site)
+                    md.write(md_row.format(**row).strip())
+                md.write("")
+            sites = self.to_list("select id, url from sites where type='mailman'")
+            if sites:
+                sites = sorted(sites, key=_sort_sites)
+                max_site = max(len(x[1]) for x in sites)
+                md.write(dedent('''
+                    # Mailman
 
-                | SITE | lists | Último uso | 1º uso |
-                |:-----|------:|-----------:|-------:|
-            ''').strip())
-            for id, url in sites:
-                row = self.one('''
-                    select
-                        substr(min(date), 1, 10) ini,
-                        substr(min(last_mail), 1, 10) fin,
-                        count(*) lists
-                    from
-                        mailman_lists
-                    where
-                        site={}
-                '''.format(id), row_factory=dict_factory)
-                row["site"] = url.split("://", 1)[-1]
-                row["url"] = url
-                if table_link:
-                    md_row = build_tr('''
-                        [{site}]({url})
-                        {lists}
-                        {fin}
-                        {ini}
-                    ''', space="")
-                else:
-                    md_row = build_tr('''
-                        {site:<%s}
-                        {lists:>6}
-                        {fin}
-                        {ini}
-                    ''' % max_site)
-                row = {k:("" if v is None else v) for k,v in row.items()}
-                md.write(md_row.format(**row).strip())
-            md.write("")
+                    | SITE | lists | Último uso | 1º uso |
+                    |:-----|------:|-----------:|-------:|
+                ''').strip())
+                for id, url in sites:
+                    row = self.one('''
+                        select
+                            substr(min(date), 1, 10) ini,
+                            substr(min(last_mail), 1, 10) fin,
+                            count(*) lists
+                        from
+                            mailman_lists
+                        where
+                            site={}
+                    '''.format(id), row_factory=dict_factory)
+                    row["site"] = url.split("://", 1)[-1]
+                    row["url"] = url
+                    if table_link:
+                        md_row = build_tr('''
+                            [{site}]({url})
+                            {lists}
+                            {fin}
+                            {ini}
+                        ''', space="")
+                    else:
+                        md_row = build_tr('''
+                            {site:<%s}
+                            {lists:>6}
+                            {fin}
+                            {ini}
+                        ''' % max_site)
+                    row = {k:("" if v is None else v) for k,v in row.items()}
+                    md.write(md_row.format(**row).strip())
+                md.write("")
 
             mailman_lists = self.to_list('''
                 select
@@ -384,52 +388,54 @@ class SiteDBLite(DBLite):
                 order by
                     l.site, l.ID
             ''', row_factory=dict_factory)
-            max_site = max(len(x['ID']) for x in mailman_lists)
-            md.write(dedent('''
-                ## Listas Mailman
+            if mailman_lists:
+                max_site = max(len(x['ID']) for x in mailman_lists)
+                md.write(dedent('''
+                    ## Listas Mailman
 
-                | LIST | mails (*) | Último uso (*) | Creación |
-                |:-----|----------:|---------------:|---------:|
-            ''').strip())
-            for row in mailman_lists:
-                if table_link:
-                    md_row = build_tr('''
-                        [{ID}]({url})
-                        {mails}
-                        {fin}
-                        [{ini}]({archive})
-                    ''', space="")
-                else:
-                    md_row = build_tr('''
-                        {ID:<%s}
-                        {mails}
-                        {fin}
-                        {ini}
-                    ''' % max_site)
-                row = {k:("" if v is None else v) for k,v in row.items()}
-                md.write(md_row.format(**row).strip())
-            md.write(dedent('''
-                (*) Los datos `mails` y `Último uso` son orientativos
-                ya que dependen de la configuración de la lista
-                que hayan podido ser recuperados con exactitud o no.
-            ''').rstrip())
-            sites = self.select("select id, url from sites where type='apache'")
-            sites = sorted(sites, key=_sort_sites)
-            max_site = max(len(x[1]) for x in sites)
-            md.write(dedent('''
-                # Apache
-            ''').strip())
-            for id, url in sites:
-                if table_link:
-                    md_row = '''
-                        * [{site}]({url})
-                    '''
-                else:
-                    md_row = '''
-                        * {site:<%s}
-                    ''' % max_site
-                md.write(md_row.format(url=url, site=url.split("://", 1)[-1]).strip())
-            md.write("")
+                    | LIST | mails (*) | Último uso (*) | Creación |
+                    |:-----|----------:|---------------:|---------:|
+                ''').strip())
+                for row in mailman_lists:
+                    if table_link:
+                        md_row = build_tr('''
+                            [{ID}]({url})
+                            {mails}
+                            {fin}
+                            [{ini}]({archive})
+                        ''', space="")
+                    else:
+                        md_row = build_tr('''
+                            {ID:<%s}
+                            {mails}
+                            {fin}
+                            {ini}
+                        ''' % max_site)
+                    row = {k:("" if v is None else v) for k,v in row.items()}
+                    md.write(md_row.format(**row).strip())
+                md.write(dedent('''
+                    (*) Los datos `mails` y `Último uso` son orientativos
+                    ya que dependen de la configuración de la lista
+                    que hayan podido ser recuperados con exactitud o no.
+                ''').rstrip())
+            sites = self.to_list("select id, url from sites where type='apache'")
+            if sites:
+                sites = sorted(sites, key=_sort_sites)
+                max_site = max(len(x[1]) for x in sites)
+                md.write(dedent('''
+                    # Apache
+                ''').strip())
+                for id, url in sites:
+                    if table_link:
+                        md_row = '''
+                            * [{site}]({url})
+                        '''
+                    else:
+                        md_row = '''
+                            * {site:<%s}
+                        ''' % max_site
+                    md.write(md_row.format(url=url, site=url.split("://", 1)[-1]).strip())
+                md.write("")
             if table_link:
                 md.write(dedent('''
                     Para reordenar la tabla puede usar las extensiones
